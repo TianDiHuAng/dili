@@ -212,7 +212,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "definition": "五大湖：北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
       "time_or_place": "北美中东部（湖群形成细节待核）",
       "overview": "北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
@@ -226,7 +226,7 @@
         "noaa-glerl"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：降级为 L1；航道、工业带与美加边界专题来源待补。",
+      "pending_notes": "第4轮来源再核：EPA《The Great Lakes》与 NOAA GLERL 已核验，但缺少圣劳伦斯航道、工业带与美加边界专题来源，维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

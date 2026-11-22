@@ -23,7 +23,7 @@
       "id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
       "level": "L1",
       "tier": "重要",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -275,8 +275,8 @@
       "id": "asia-x963fx5951x7f8ex5c3cx5fb7x6ce2x65af",
       "level": "L2",
       "tier": "核心",
-      "status": "L2完成(第3轮)",
-      "source_count": 4,
+      "status": "已复核(第4轮)",
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -320,8 +320,8 @@
       "id": "asia-x5b54x96c0x738bx671d",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第3轮)",
-      "source_count": 3,
+      "status": "已复核(第4轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -338,8 +338,8 @@
       "id": "asia-x7b08x591ax738bx671d",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第3轮)",
-      "source_count": 3,
+      "status": "已复核(第4轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -356,7 +356,7 @@
       "id": "asia-x957fx6c5fx6d41x57df",
       "level": "L1",
       "tier": "核心",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -725,7 +725,7 @@
       "id": "europe-x963fx5c14x5351x65afx5c71",
       "level": "L1",
       "tier": "重要",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -941,7 +941,7 @@
       "id": "north-america-x4e94x5927x6e56",
       "level": "L1",
       "tier": "重要",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1409,7 +1409,7 @@
       "id": "antarctica-x5357x6781x534ax5c9b",
       "level": "L1",
       "tier": "重要",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1629,6 +1629,24 @@
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax53e3x5730x7406",
+      "level": "L1",
+      "tier": "重要",
+      "status": "L1完成(第4轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x57cex5e02x5730x7406",
+      "level": "L1",
+      "tier": "重要",
+      "status": "L1完成(第4轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
     }
   ],
   "matrix": {
@@ -1694,7 +1712,7 @@
       "农业": 2,
       "贸易": 1,
       "政权更替": 1,
-      "区域": 2
+      "区域": 4
     }
   },
   "round": 1,

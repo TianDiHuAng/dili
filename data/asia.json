@@ -196,7 +196,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "已复核(第4轮)",
       "definition": "阿契美尼德波斯：横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
       "time_or_place": "前550—前330年",
       "overview": "横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
@@ -209,10 +209,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "ap-human-geo",
-        "un-m49"
+        "un-m49",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
+      "pending_notes": "第4轮复核：西亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -359,7 +360,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "已复核(第4轮)",
       "definition": "孔雀王朝：阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
       "time_or_place": "约前324—前185年",
       "overview": "阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
@@ -371,10 +372,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：世界银行南亚区域页可作现代对比；阿育王时期细节待专门来源核验。",
+      "pending_notes": "第4轮复核：南亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -418,7 +420,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "已复核(第4轮)",
       "definition": "笈多王朝：北印度统一，科学与文学繁荣，被视为古典时代。",
       "time_or_place": "约320—550年",
       "overview": "北印度统一，科学与文学繁荣，被视为古典时代。",
@@ -430,10 +432,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：UNESCO 文化页支持南亚遗产背景；王朝年代口径待核验。",
+      "pending_notes": "第4轮复核：南亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -486,7 +489,7 @@
       "region": "东亚",
       "theme": "农业",
       "level": "L1",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "definition": "长江流域：长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
       "time_or_place": "长江流域（农业与城市密集区）",
       "overview": "长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
@@ -500,7 +503,7 @@
         "s022-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：专题来源不足，五段深度内容降级为 L1；稻作起源、经济重心南移与运河史待专门来源核验。",
+      "pending_notes": "第4轮来源再核：未取得页面标题与长江流域直接对应的权威专题页；FAO 流域页仅作背景，维持 L1 与待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

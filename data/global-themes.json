@@ -483,6 +483,60 @@
         "UN M49"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax53e3x5730x7406",
+      "title": "人口地理",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第4轮)",
+      "definition": "人口地理：研究人口数量、分布、迁移与结构的空间差异，关注人口变化与资源、城市、区域发展之间的关系。",
+      "time_or_place": "现代人口分布与长期人口转变",
+      "overview": "研究人口数量、分布、迁移与结构的空间差异，关注人口变化与资源、城市、区域发展之间的关系。",
+      "related": [
+        "global-themes-x4ebax53e3x8fc1x79fb"
+      ],
+      "sources": [
+        "s023-ourworldindata-org",
+        "s075-aag-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B1/B4 缺口补入；专题教材章节与现状数值待按年份核验。",
+      "outlines": [
+        "OpenStax Geography 教材目录",
+        "AAG 学科页面"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x57cex5e02x5730x7406",
+      "title": "城市地理",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第4轮)",
+      "definition": "城市地理：研究城市的区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
+      "time_or_place": "现代城市化与城市体系",
+      "overview": "研究城市的区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
+      "related": [
+        "global-themes-x57cex5e02x8d77x6e90"
+      ],
+      "sources": [
+        "s025-ourworldindata-org",
+        "s075-aag-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B1/B4 缺口补入；专题教材章节与现状数值待按年份核验。",
+      "outlines": [
+        "OpenStax Geography 教材目录",
+        "AAG 学科页面"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

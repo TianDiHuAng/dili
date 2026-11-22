@@ -392,7 +392,7 @@
       "region": "中欧",
       "theme": "地形",
       "level": "L1",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "definition": "阿尔卑斯山：横贯中欧的山地系统，河谷与山口影响区域交通。",
       "time_or_place": "中欧山地（形成年代待核）",
       "overview": "横贯中欧的山地系统，河谷与山口影响区域交通。",
@@ -406,7 +406,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：移除欧洲最高山脉表述并降级为 L1；山地形成年代、冰川与垂直气候带待专题来源核验。",
+      "pending_notes": "第4轮来源再核：Britannica/World History 页面被拒绝，USGS/NASA 标题非阿尔卑斯专题，维持 L1；不再写最高山脉等不可核断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

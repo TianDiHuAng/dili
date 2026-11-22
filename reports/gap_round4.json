@@ -1,0 +1,73 @@
+{
+  "round": 4,
+  "gaps": {
+    "B3_dangling": [],
+    "B4_reader_questions": {
+      "checked": 20,
+      "missing": [
+        {
+          "persona": "学生",
+          "question": "人口地理研究什么？",
+          "keywords": [
+            "人口地理",
+            "人口分布"
+          ]
+        },
+        {
+          "persona": "学生",
+          "question": "地图投影为什么重要？",
+          "keywords": [
+            "地图投影",
+            "投影"
+          ]
+        },
+        {
+          "persona": "从业者",
+          "question": "争议边界该怎么处理？",
+          "keywords": [
+            "争议边界",
+            "立场"
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "B2_matrix": {
+      "blanks": [],
+      "sparse": [
+        "africa×气候",
+        "africa×农业",
+        "africa×区域",
+        "asia×地形",
+        "asia×气候",
+        "europe×气候",
+        "europe×农业",
+        "north-america×气候",
+        "north-america×农业",
+        "south-america×气候",
+        "south-america×贸易",
+        "south-america×区域",
+        "oceania×气候",
+        "oceania×农业",
+        "oceania×贸易",
+        "oceania×政权更替",
+        "antarctica×气候",
+        "antarctica×农业",
+        "antarctica×贸易",
+        "antarctica×政权更替",
+        "antarctica×区域",
+        "global-themes×农业",
+        "global-themes×贸易",
+        "global-themes×政权更替",
+        "global-themes×区域"
+      ]
+    },
+    "B5_pending": {
+      "total": 179
+    },
+    "B7_depth": {
+      "core_l1": 18,
+      "important_l1": 87
+    }
+  }
+}

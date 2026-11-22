@@ -49,7 +49,7 @@
       "region": "南极洲",
       "theme": "地形",
       "level": "L1",
-      "status": "二次返工降级L1(第3轮)",
+      "status": "来源再核未通过(第4轮)",
       "definition": "南极半岛：南极大陆向北伸出的半岛，靠近南美洲。",
       "time_or_place": "南极洲北部（地质年代待核）",
       "overview": "南极大陆向北伸出的半岛，靠近南美洲。",
@@ -63,7 +63,7 @@
         "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：移除科考站密集与气温温和表述并降级为 L1；半岛地质与生态专题来源待补。",
+      "pending_notes": "第4轮来源再核：BAS 站点返回 202、Britannica 403、NASA 标题非半岛专题，维持 L1；地质与站点分布待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
