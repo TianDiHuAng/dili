@@ -854,9 +854,9 @@
       "region": "西欧",
       "theme": "气候",
       "level": "L1",
-      "status": "L1完成(第2轮)",
+      "status": "抽检返工完成(第2轮)",
       "definition": "欧洲温带海洋性气候：受西风带与北大西洋暖流影响，全年温和湿润，适合牧草与谷物轮作。",
-      "time_or_place": "全新世至今",
+      "time_or_place": "西欧（常年气候特征）",
       "overview": "受西风带与北大西洋暖流影响，全年温和湿润，适合牧草与谷物轮作。",
       "related": [
         "global-themes-x6c14x5019x5e26"
@@ -866,7 +866,7 @@
         "s022-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "pending_notes": "抽检返工：已移除无来源的地质年代表述；气候分类与数据待权威气象来源核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
@@ -882,10 +882,10 @@
       "region": "西欧",
       "theme": "农业",
       "level": "L1",
-      "status": "L1完成(第2轮)",
+      "status": "抽检返工完成(第2轮)",
       "definition": "中世纪欧洲庄园农业：以庄园为单位的土地制度，敞田耕作与领主自营地并存，支撑封建秩序。",
-      "time_or_place": "约5—15世纪",
-      "overview": "以庄园为单位的土地制度，敞田耕作与领主自营地并存，支撑封建秩序。",
+      "time_or_place": "中世纪（起讫年代因地区而异）",
+      "overview": "以庄园为单位的土地制度，敞田耕作与领主自营地并存，与封建秩序相互关联。",
       "related": [
         "asia-x5b8bx4ee3"
       ],
@@ -894,7 +894,7 @@
         "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "pending_notes": "抽检返工：年代改为定性表述；庄园制度的区域差异待专门史料核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",

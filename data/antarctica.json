@@ -268,10 +268,10 @@
       "region": "南极洲",
       "theme": "农业",
       "level": "L1",
-      "status": "L1完成(第2轮)",
+      "status": "抽检返工完成(第2轮)",
       "definition": "南极洲无农业的环境约束：极端低温、极夜与缺乏可耕作土壤使定居农业无法形成，食物依赖外部补给。",
       "time_or_place": "现代",
-      "overview": "极端低温、极夜与缺乏可耕作土壤使定居农业无法形成，食物依赖外部补给。",
+      "overview": "极端低温、极夜与缺乏可耕作土壤使大规模定居农业难以形成，食物主要依赖外部补给。",
       "related": [
         "antarctica-x5357x6781x5927x9646"
       ],
@@ -280,7 +280,7 @@
         "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "pending_notes": "抽检返工：软化绝对表述；食物补给与人员规模数据待权威来源核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
@@ -296,9 +296,9 @@
       "region": "南极洲",
       "theme": "区域",
       "level": "L1",
-      "status": "L1完成(第2轮)",
+      "status": "抽检返工完成(第2轮)",
       "definition": "南极特别保护区：南极条约体系下为保护科研与生态而划定的区域，体现国际协商管理。",
-      "time_or_place": "1961年至今",
+      "time_or_place": "南极条约体系建立后（年份待核）",
       "overview": "南极条约体系下为保护科研与生态而划定的区域，体现国际协商管理。",
       "related": [
         "antarctica-x5357x6781x6761x7ea6x4f53x7cfb"
@@ -308,7 +308,7 @@
         "s071-cbd-int"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "pending_notes": "抽检返工：已移除未经来源支持的年份；保护区名录与时间线待官方来源核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",

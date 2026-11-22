@@ -444,9 +444,9 @@
       "region": "澳大利亚",
       "theme": "气候",
       "level": "L1",
-      "status": "L1完成(第2轮)",
+      "status": "抽检返工完成(第2轮)",
       "definition": "澳大利亚内陆干旱气候：内陆远离海洋且受副热带高压控制，降水稀少且变率大，限制定居与农业。",
-      "time_or_place": "约中新世至今",
+      "time_or_place": "澳大利亚内陆（长期干旱环境）",
       "overview": "内陆远离海洋且受副热带高压控制，降水稀少且变率大，限制定居与农业。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax5927x9646"
@@ -456,7 +456,7 @@
         "s048-climate-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "pending_notes": "抽检返工：已移除无来源的地质年代；干旱化过程待专门研究核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
@@ -472,9 +472,9 @@
       "region": "澳大利亚",
       "theme": "农业",
       "level": "L1",
-      "status": "L1完成(第2轮)",
+      "status": "抽检返工完成(第2轮)",
       "definition": "澳大利亚混合农业：小麦种植与放牧相结合的农业体系，适应降水季节性与地广人稀条件。",
-      "time_or_place": "19世纪至今",
+      "time_or_place": "近现代（形成与发展时期待核）",
       "overview": "小麦种植与放牧相结合的农业体系，适应降水季节性与地广人稀条件。",
       "related": [
         "oceania-x5927x81eax6d41x76c6x5730"
@@ -484,7 +484,7 @@
         "s022-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "pending_notes": "抽检返工：已移除无来源年份；农业制度形成时间待专门来源核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",

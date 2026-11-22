@@ -1310,10 +1310,10 @@
       "region": "东亚",
       "theme": "气候",
       "level": "L1",
-      "status": "L1完成(第2轮)",
-      "definition": "东亚季风：东亚海陆热力差异导致的季节性风向反转，决定稻作区降水节律与农业周期。",
-      "time_or_place": "约前6000年至今",
-      "overview": "东亚海陆热力差异导致的季节性风向反转，决定稻作区降水节律与农业周期。",
+      "status": "抽检返工完成(第2轮)",
+      "definition": "东亚季风：海陆热力差异导致的季节性风向反转，显著影响东亚降水与农业节律；其强度变化受多因素共同作用，不作单因决定论解释。",
+      "time_or_place": "东亚季风区（现代观测与历史记载）",
+      "overview": "海陆热力差异导致的季节性风向反转，显著影响稻作区降水节律与农业周期安排；具体影响程度还受地形、海洋温度与其他气候因子共同作用。",
       "related": [
         "global-themes-x5b63x98cex7cfbx7edf"
       ],
@@ -1322,7 +1322,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "pending_notes": "抽检返工：已移除无来源的起始年代，软化决定论表述；季风起始时间与长期变化机制待专门来源核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
