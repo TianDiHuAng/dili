@@ -87,7 +87,7 @@
       "region": "南美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "已复核(第14轮)",
       "definition": "巴西高原：古老高原，东南沿海咖啡与矿业经济重要。",
       "time_or_place": "约古代至今",
       "overview": "古老高原，东南沿海咖啡与矿业经济重要。",
@@ -99,10 +99,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：FAO 土地页支持高原土地利用背景；资源周期待专门核验。",
+      "pending_notes": "第14轮复核：南美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
