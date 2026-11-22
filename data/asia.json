@@ -951,7 +951,7 @@
       "region": "东南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "吴哥：高棉帝国中心，水利系统与寺庙建筑体现国家组织能力。",
       "time_or_place": "约9—15世纪",
       "overview": "高棉帝国中心，水利系统与寺庙建筑体现国家组织能力。",
@@ -963,10 +963,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s011-unesco-org"
+        "s011-unesco-org",
+        "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东南亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：东南亚×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -981,7 +982,7 @@
       "region": "东南亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "马来群岛：海岛世界连接印度洋与太平洋，香料贸易长期活跃。",
       "time_or_place": "古代至今",
       "overview": "海岛世界连接印度洋与太平洋，香料贸易长期活跃。",
@@ -993,10 +994,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东南亚×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：东南亚×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1070,7 +1072,7 @@
       "region": "中亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "河中地区：阿姆河与锡尔河之间，绿洲城市是丝绸之路枢纽。",
       "time_or_place": "古代至今",
       "overview": "阿姆河与锡尔河之间，绿洲城市是丝绸之路枢纽。",
@@ -1082,10 +1084,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：中亚×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：中亚×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1169,7 +1172,7 @@
       "region": "中亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "突厥：草原汗国，突厥语族扩散的重要阶段。",
       "time_or_place": "约6—8世纪",
       "overview": "草原汗国，突厥语族扩散的重要阶段。",
@@ -1181,10 +1184,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s011-unesco-org"
+        "s011-unesco-org",
+        "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：中亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：中亚×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1326,7 +1330,7 @@
       "region": "西亚",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "黎凡特：东地中海沿岸走廊，连接埃及、安纳托利亚与两河流域。",
       "time_or_place": "古代至今",
       "overview": "东地中海沿岸走廊，连接埃及、安纳托利亚与两河流域。",
@@ -1338,10 +1342,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "un-m49"
+        "un-m49",
+        "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：西亚×区域；新增背景来源 un-m49，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：西亚×区域；新增背景来源 s075-aag-org，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
