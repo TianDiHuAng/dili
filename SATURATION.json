@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 26,
+  "last_round": 27,
   "history": [
     {
       "round": 1,
@@ -311,6 +311,19 @@
       ],
       "gaps_found": 273,
       "note": "零复核池从 42 降至 24；today 空白从 70 条开始闭合",
+      "result": "非饱和"
+    },
+    {
+      "round": 27,
+      "methods_used": [
+        "B1取数层→today填充",
+        "实证复核(零复核池清零)",
+        "B5待核实",
+        "B7深度",
+        "B2覆盖矩阵"
+      ],
+      "gaps_found": 273,
+      "note": "零复核池 24→0 全部覆盖；today 待补 70→62",
       "result": "非饱和"
     }
   ],

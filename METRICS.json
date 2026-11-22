@@ -371,6 +371,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：A组数字全对但2处寿命单位错(应「岁」)、斯瓦希里用南非错配、ARG归因失实；B组刚果盆地判定反向；D059连批复核6条、D067实测句跨6条复用且7条自相矛盾→返工：寿命改岁、斯瓦希里换TZA/KEN、拉普拉塔补ARG/URY、刚果改未达标、撤回6条连批复核、补档位判定、提交site闭环D066",
       "note": "11条L2 today 填入世界银行API实测值（19国×5指标库）；26条实证复核取自零复核池"
+    },
+    {
+      "round": 27,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 24,
+      "fixes": 16,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 1,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：A组5条数字/单位/国家/年份全对；B组5条全FAIL（中文正则测英文源→5条已达标被误杀）→返工：改英文正则重测、24条补档位判定、修互斥句、别名页命中不计达标（真达标9条）、A组补量级声明与「人」单位、修错别字、恢复D060三状态、提交site闭环D066",
+      "note": "16条L2 today 填世界银行实测（40国/聚合库）；24条实证复核，零复核池清零"
     }
   ]
 }
