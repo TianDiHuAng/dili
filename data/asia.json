@@ -251,7 +251,7 @@
       "region": "西亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "帕提亚帝国：控制丝绸之路西段，连接地中海与中亚。",
       "time_or_place": "前247年—224年",
       "overview": "控制丝绸之路西段，连接地中海与中亚。",
@@ -263,10 +263,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：西亚×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：西亚×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -281,7 +282,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "萨珊波斯：波斯本部复兴，祆教国教化，与罗马长期争战。",
       "time_or_place": "224—651年",
       "overview": "波斯本部复兴，祆教国教化，与罗马长期争战。",
@@ -293,10 +294,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：西亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：西亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -349,7 +351,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "吠陀时代：雅利安人进入印度河流域，部落社会与种姓制度逐渐形成。",
       "time_or_place": "约前1500—前600年",
       "overview": "雅利安人进入印度河流域，部落社会与种姓制度逐渐形成。",
@@ -361,10 +363,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：南亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：南亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -570,7 +573,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "商代：青铜礼器与甲骨文记录早期王朝政治。",
       "time_or_place": "约前1600—前1046年",
       "overview": "青铜礼器与甲骨文记录早期王朝政治。",
@@ -582,10 +585,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：东亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：东亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -600,7 +604,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "周代：分封与宗法制度影响东亚政治秩序长期演变。",
       "time_or_place": "约前1046—前256年",
       "overview": "分封与宗法制度影响东亚政治秩序长期演变。",
@@ -612,10 +616,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：东亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：东亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -630,7 +635,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "秦代：统一文字、度量衡与郡县制，奠定中央集权模式。",
       "time_or_place": "前221—前207年",
       "overview": "统一文字、度量衡与郡县制，奠定中央集权模式。",
@@ -642,10 +647,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：东亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：东亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -691,7 +697,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "隋唐：大运河与长安国际性都市体现南北整合与对外交流。",
       "time_or_place": "581—907年",
       "overview": "大运河与长安国际性都市体现南北整合与对外交流。",
@@ -703,10 +709,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：东亚×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：东亚×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -760,7 +767,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "元代：蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
       "time_or_place": "1271—1368年",
       "overview": "蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
@@ -772,10 +779,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：东亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：东亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1144,7 +1152,7 @@
       "region": "中亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "匈奴：游牧联盟，与秦汉长期互动，推动草原贸易与冲突。",
       "time_or_place": "约前3世纪—1世纪",
       "overview": "游牧联盟，与秦汉长期互动，推动草原贸易与冲突。",
@@ -1156,10 +1164,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：中亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：中亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1302,7 +1311,7 @@
       "region": "西亚",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "阿拉伯半岛：干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
       "time_or_place": "古代至今",
       "overview": "干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
@@ -1314,10 +1323,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "un-m49"
+        "un-m49",
+        "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：西亚×区域；新增背景来源 un-m49，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：西亚×区域；新增背景来源 s075-aag-org，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
