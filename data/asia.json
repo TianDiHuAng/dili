@@ -218,7 +218,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2·配对说明(第16轮)·已复核(第27轮)",
       "definition": "阿契美尼德波斯：以波斯本土（安尚一带）为起家核心的古代帝国，居鲁士与大流士时期扩展到两河、安纳托利亚、埃及与中亚边缘。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "以波斯本土（安尚一带）为起家核心的古代帝国，居鲁士与大流士时期扩展到两河、安纳托利亚、埃及与中亚边缘。",
@@ -1270,10 +1270,12 @@
       ],
       "sources": [
         "s038-earthobservatory-nasa-gov",
-        "s013-fao-org"
+        "s013-fao-org",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。 档位判定：本条标题为「青藏高原」，正则 tibet|plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。 档位判定：本条标题为「青藏高原」，正则 tibet|plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 中国，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1284,7 +1286,7 @@
       "influence": "高海拔与寒冷限制农业和交通，河谷与低海拔地带更适合聚落。高原对亚洲水系与气候具有重要影响，但人类活动的结果取决于技术、制度与交流，不是环境单因决定。",
       "polities": "历史上高原与周边地区存在长期互动，形成多样的地方政权与宗教文化网络；具体年代与政权序列待专门来源核验。",
       "connections": "高原通过河流与东亚、南亚、中亚相连，山口与河谷构成交通通道，也是多条大河源头。",
-      "today": "生态保护和气候变化是重要议题。海拔、人口与冰川数据需按年份从权威机构核验。",
+      "today": "以中国为例（高原部分数据待省级统计核验），来源：世界银行 API。中国 总人口 1,406,585,000 人（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='青藏高原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中亚/东亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>青藏高原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

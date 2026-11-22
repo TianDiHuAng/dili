@@ -34,7 +34,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -53,7 +53,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·实证)",
-      "source_count": 3,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -71,7 +71,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第26轮·实证)",
-      "source_count": 2,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -179,7 +179,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -280,7 +280,7 @@
       "id": "asia-x963fx5951x7f8ex5c3cx5fb7x6ce2x65af",
       "level": "L2",
       "tier": "核心",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2·配对说明(第16轮)·已复核(第27轮)",
       "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22",
@@ -581,7 +581,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·实证)",
-      "source_count": 2,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -682,7 +682,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -901,7 +901,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -911,7 +911,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2·配对说明(第24轮)-PDF专题·已复核(第27轮)",
-      "source_count": 2,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_pairing_gap": true
@@ -921,7 +921,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -940,7 +940,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -968,7 +968,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第26轮·实证)",
-      "source_count": 2,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -986,7 +986,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·实证)",
-      "source_count": 2,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -995,7 +995,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第27轮·实证)",
-      "source_count": 4,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1005,7 +1005,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1051,7 +1051,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第27轮·实证)",
-      "source_count": 2,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1105,7 +1105,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1152,7 +1152,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第27轮·实证)",
-      "source_count": 4,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1161,7 +1161,7 @@
       "id": "south-america-x4e9ax9a6cx900ax6cb3",
       "level": "L2",
       "tier": "核心",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2完成(第5轮)·已复核(第27轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1225,7 +1225,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1290,7 +1290,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1309,7 +1309,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·实证)",
-      "source_count": 4,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1337,7 +1337,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第27轮·实证)",
-      "source_count": 4,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1365,7 +1365,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·实证)",
-      "source_count": 4,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1493,7 +1493,7 @@
       "id": "antarctica-x51b0x82afx6c14x5019x8bb0x5f55",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2合规换源(第22轮)·已复核(第27轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1632,7 +1632,7 @@
       "id": "global-themes-x4ebax53e3x8fc1x79fb",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2完成(第15轮)-D041专题来源·已复核(第27轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1641,7 +1641,7 @@
       "id": "global-themes-x690dx7269x7269x5019x53d8x5316",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1650,7 +1650,7 @@
       "id": "global-themes-x5317x6781x706bx60c5x53d8x5316",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1659,7 +1659,7 @@
       "id": "global-themes-x5730x7406x4fe1x606fx7cfbx7edf",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1668,7 +1668,7 @@
       "id": "global-themes-x4ebax53e3x5730x7406",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1677,7 +1677,7 @@
       "id": "global-themes-x57cex5e02x5730x7406",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1884,7 +1884,7 @@
       "id": "global-themes-x8352x6f20x5316",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第19轮)-主题页",
+      "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1893,7 +1893,7 @@
       "id": "global-themes-x6c99x5c18x66b4",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第19轮)-主题页",
+      "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1902,7 +1902,7 @@
       "id": "global-themes-x6e14x4e1ax8d44x6e90",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第20轮)-主题页",
+      "status": "L2完成(第20轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1956,7 +1956,7 @@
       "id": "global-themes-x6c34x8d44x6e90x7ba1x7406",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第19轮)-主题页",
+      "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1965,7 +1965,7 @@
       "id": "global-themes-x536bx661fx9065x611fx5730x8868x89c2x6d4b",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第19轮)-主题页",
+      "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -2181,7 +2181,7 @@
       "id": "global-themes-x5168x7403x6c14x6e29x8dddx5e73",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第19轮)-主题页",
+      "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -2190,7 +2190,7 @@
       "id": "global-themes-x4e8cx6c27x5316x78b3x6392x653ex6e05x5355",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第19轮)-主题页",
+      "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -2208,7 +2208,7 @@
       "id": "global-themes-x519cx4e1ax4f01x4e1ax4e0ex4ef7x503cx94fe",
       "level": "L2",
       "tier": "补充",
-      "status": "L2完成(第19轮)-主题页",
+      "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"

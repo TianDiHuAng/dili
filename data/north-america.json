@@ -24,10 +24,12 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·白令陆桥】本条正则 beringia。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「白令陆桥」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为白令陆桥主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·白令陆桥】本条正则 beringia。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「白令陆桥」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为白令陆桥主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -38,7 +40,7 @@
       "influence": "陆桥为人类与动物迁徙提供可能路径，是解释美洲早期定居的重要地理机制之一。具体路线与时间仍有争论，考古与遗传证据需谨慎互证。",
       "polities": "史前迁徙与陆桥出露相关，尚不能对应后世政权；相关讨论属史前史与人类演化研究，具体年代待专门来源核验。",
       "connections": "陆桥把东北亚与北美连成生态走廊，海平面上升后被白令海峡分隔。",
-      "today": "今天白令海峡仍是俄美之间的海域，航运与生态议题并存。具体数据待权威来源核验。",
+      "today": "以美国为例（俄罗斯一侧数据见下），来源：世界银行 API。美国 总人口 341,784,857 人（2025年）（SP.POP.TOTL）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='白令陆桥示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>白令陆桥</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -60,10 +62,13 @@
       ],
       "sources": [
         "usgs-glaciers-pdf",
-        "s038-earthobservatory-nasa-gov"
+        "s038-earthobservatory-nasa-gov",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」**成立**；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。  【第27轮实证复核·北美冰盖】本条正则 ice sheet|glacier（英文源用英文正则，D070）；usgs-glaciers-pdf=200/正文208158字符/本条命中2；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文208158、命中2）。缺口为「北美冰盖」主题专题页。",
+      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」**成立**；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。  【第27轮实证复核·北美冰盖】本条正则 ice sheet|glacier（英文源用英文正则，D070）；usgs-glaciers-pdf=200/正文208158字符/本条命中2；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文208158、命中2）。缺口为「北美冰盖」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 加拿大，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -73,7 +78,7 @@
       "influence": "冰川作用塑造盆地、丘陵与河谷，影响后来的水系与土壤分布；冰川规模变化与气候条件相联系，具体时序需区域资料细化。",
       "polities": "本条不展开具体政权序列；冰盖范围变化影响生物迁移与后续人类活动的地理条件。",
       "connections": "冰盖进退改变水系与海岸线，把北美内陆与大西洋、北冰洋的水文过程联系起来。",
-      "today": "古冰盖范围与消退时间由地质与湖泊沉积记录重建；年代与范围数据需按年份从 USGS/NASA 机构页核验。",
+      "today": "以加拿大为例，来源：世界银行 API。加拿大 总人口 41,651,653 人（2025年）（SP.POP.TOTL）、森林覆盖率 42.0%（2024年）（AG.LND.FRST.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='冰盖进退与冰川地貌示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 250 C 200 170 340 160 460 190 C 560 215 640 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M100 300 C 210 240 350 232 470 258' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='5 4'/><circle cx='210' cy='200' r='5' class='pt'/><text x='180' y='180' class='lbl'>冰体</text><circle cx='380' cy='172' r='5' class='pt'/><text x='345' y='152' class='lbl'>冰流</text><circle cx='560' cy='232' r='5' class='pt'/><text x='540' y='212' class='lbl'>冰碛</text><text x='40' y='370' class='dim'>北美冰盖 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -97,10 +102,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大平原】本条正则 prairie|grassland。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大平原」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大平原主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大平原】本条正则 prairie|grassland。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大平原」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大平原主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第28轮现状数据】today 填世界银行实测（代表国 美国，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -111,7 +119,7 @@
       "influence": "肥沃土壤与平坦地形有利于机械化农业，历史上野牛群支撑游猎社会。铁路与灌溉改变了土地利用，但干旱与沙尘暴风险长期存在。",
       "polities": "原住民社会、外来定居者与后来的农业经营先后改变土地利用格局；具体政策与年代待专门史料核验。",
       "connections": "大平原通过密西西比河水系连接墨西哥湾，通过铁路连接东西海岸港口。",
-      "today": "今天这里是重要粮食产区。产量、人口与土地面积数据需按年份从权威统计机构补齐。",
+      "today": "以美国为例，来源：世界银行 API。美国 总人口 341,784,857 人（2025年）（SP.POP.TOTL）、农业增加值占 GDP 0.9%（2021年）（NV.AGR.TOTL.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='大平原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>大平原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -174,10 +182,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·落基山脉】本条正则 rocky mountain。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「落基山脉」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为落基山脉主题专题页。",
+      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·落基山脉】本条正则 rocky mountain。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「落基山脉」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为落基山脉主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -187,7 +198,7 @@
       "influence": "山脉影响降水分布与交通走向，河谷与山口成为通道；矿业与牧业依赖山地资源。资源开发的结果取决于技术与制度，不只是地形。",
       "polities": "山地资源与通道条件影响土地利用，原住民、外来定居者与国家公园体系先后塑造管理格局；具体年代待专门史料核验。",
       "connections": "落基山脉连接北美内陆与西部海岸，河流向两大洋输送水量与泥沙。",
-      "today": "水资源、山火与旅游压力突出。积雪与径流数据待按年份核验。",
+      "today": "以美国为例，来源：世界银行 API。美国 总人口 341,784,857 人（2025年）（SP.POP.TOTL）、森林覆盖率 33.8%（2024年）（AG.LND.FRST.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='落基山脉示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>落基山脉</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -276,10 +287,12 @@
       ],
       "sources": [
         "nps-grand-canyon-geology",
-        "nps-grand-canyon"
+        "nps-grand-canyon",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮二次返工后保留：只用专题页正文可支撑的自然地理内容，政权与年代细节留待专门史料。 【第26轮实证复核·科罗拉多高原】本条正则 colorado plateau；nps-grand-canyon-geology=200/正文5760字符/本条命中1；nps-grand-canyon=200/正文3426字符/本条命中0。D055 判定：未达标（最高命中1、最高正文5760字符；档①门槛5000/档②③8000）；缺口为「科罗拉多高原」主题专题页。 档位判定：本条标题为「科罗拉多高原」，正则 colorado plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第14轮二次返工后保留：只用专题页正文可支撑的自然地理内容，政权与年代细节留待专门史料。 【第26轮实证复核·科罗拉多高原】本条正则 colorado plateau；nps-grand-canyon-geology=200/正文5760字符/本条命中1；nps-grand-canyon=200/正文3426字符/本条命中0。D055 判定：未达标（最高命中1、最高正文5760字符；档①门槛5000/档②③8000）；缺口为「科罗拉多高原」主题专题页。 档位判定：本条标题为「科罗拉多高原」，正则 colorado plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 美国，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -289,7 +302,7 @@
       "influence": "干旱与深切地形限制农业与交通，河谷与泉水点决定聚落位置。地貌条件提供约束，土地利用方式还受制度与技术影响。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
       "connections": "高原通过河流系统与下游干旱区相连，水系把泥沙与溶解物质输送到更远区域。",
-      "today": "水资源分配、侵蚀与旅游管理是当代议题。降水、径流与地层数据需按年份从 USGS/NPS 机构页面核验。",
+      "today": "以美国为例，来源：世界银行 API。美国 总人口 341,784,857 人（2025年）（SP.POP.TOTL）、城市化率 80.2%（2025年）（SP.URB.TOTL.IN.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M60 300 L200 250 L340 250 L480 250 L620 250 L700 300' fill='none' stroke='var(--accent)' stroke-width='3'/><path d='M340 250 L380 330' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='90' y='240' class='lbl'>层状岩层</text><text x='390' y='345' class='lbl'>河谷下切</text><text x='60' y='370' class='dim'>示意图，非精确测绘</text></svg>"
     },
     {
@@ -340,10 +353,13 @@
       ],
       "sources": [
         "s050-oceanservice-noaa-gov",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。  【第27轮实证复核·中美洲地峡】本条正则 isthmus（英文源用英文正则，D070）；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文4707、命中0）。缺口为「中美洲地峡」主题专题页。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。  【第27轮实证复核·中美洲地峡】本条正则 isthmus（英文源用英文正则，D070）；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文4707、命中0）。缺口为「中美洲地峡」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 危地马拉，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -354,7 +370,7 @@
       "influence": "狭窄地形缩短东西向交通距离，山口与谷地成为通道；农业垂直分异明显。地质活动是重要条件，但聚落与社会变化还受贸易和制度影响。",
       "polities": "地峡历史上连接中美洲文明与南美、加勒比区域，近代形成多个国家；具体政权序列待专门来源核验。",
       "connections": "地峡连接北美与南美，太平洋与加勒比海航线在此靠近，是生物地理与贸易交流的走廊。",
-      "today": "交通、火山灾害与生态连通性是当代议题。人口与货运数据需按年份核验。",
+      "today": "以危地马拉为例，来源：世界银行 API。危地马拉 总人口 18,687,881 人（2025年）（SP.POP.TOTL）、城市化率 56.3%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 33.1%（2024年）（AG.LND.FRST.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='中美洲地峡示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>中美洲地峡</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -378,10 +394,12 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。  【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。  【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 墨西哥，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -391,7 +409,7 @@
       "influence": "肥沃土地与水上交通支撑复杂社会，巨石雕像需要远距离运输与组织能力。其政治结构仍有争论，不宜直接称为帝国。",
       "polities": "以祭祀中心为核心的社群网络可能是主要形态，其后中美洲文化与之存在艺术与宗教联系；具体政治结构与年代待专门史料核验。",
       "connections": "奥尔梅克与墨西哥谷地、危地马拉等地交换玉石、可可和陶器。",
-      "today": "遗址保护与博物馆展示延续其文化影响。参观与遗产数据待按年份核验。",
+      "today": "以墨西哥为例，来源：世界银行 API。墨西哥 总人口 131,946,900 人（2025年）（SP.POP.TOTL）、城市化率 80.0%（2025年）（SP.URB.TOTL.IN.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='奥尔梅克示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>奥尔梅克</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -415,10 +433,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】删除 influence 的「古典期」考古分期与「衰落主因」单因断言；删除 polities 的「殖民时期后」时期标签。  【第27轮实证复核·玛雅文明】本条正则 maya（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「玛雅文明」主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】删除 influence 的「古典期」考古分期与「衰落主因」单因断言；删除 polities 的「殖民时期后」时期标签。  【第27轮实证复核·玛雅文明】本条正则 maya（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「玛雅文明」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 危地马拉，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -429,7 +450,7 @@
       "influence": "农业与水利适应热带环境，城市中心在雨林中形成网络；干旱、政治冲突与贸易变化被视为城市中心衰落的相关因素，学界无定论，不能单因解释。",
       "polities": "雨林中的城邦长期并立，中心兴衰更替；具体城邦名单与年代待专门史料核验。",
       "connections": "玛雅地区与中部墨西哥、加勒比及安第斯地区存在物质与观念交流，可可、玉与陶器是重要交换品。",
-      "today": "今天玛雅后裔仍生活在墨西哥与中美洲多国。语言与人口数据待按年份补齐。",
+      "today": "以危地马拉为例（墨西哥东南部同源文化区），来源：世界银行 API。危地马拉 总人口 18,687,881 人（2025年）（SP.POP.TOTL）、城市化率 56.3%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 33.1%（2024年）（AG.LND.FRST.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='玛雅文明示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>玛雅文明</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -570,10 +591,13 @@
       ],
       "sources": [
         "nasa-ice-sheets",
-        "s039-climate-nasa-gov"
+        "s039-climate-nasa-gov",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。  【第27轮实证复核·格陵兰岛】本条正则 greenland（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中6；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：形式达标但**不作升级依据**——s039 为 NASA Climate 首页（泛化），命中来自导航/概览。 ",
+      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。  【第27轮实证复核·格陵兰岛】本条正则 greenland（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中6；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：形式达标但**不作升级依据**——s039 为 NASA Climate 首页（泛化），命中来自导航/概览。  【第28轮现状数据】today 填世界银行实测（代表国 格陵兰，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -583,7 +607,7 @@
       "influence": "冰盖质量变化影响全球海平面，是关键气候变量；沿海地带受海冰与洋流影响，人类活动集中于少数定居点。影响机制需结合观测，不作单因推断。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
       "connections": "岛屿与北大西洋、北冰洋水域相连，冰盖通过冰川输出与海洋、大气相互作用。",
-      "today": "冰盖质量变化与海平面关系是研究重点。冰量、气温与融水数据需按年份从 NASA/NOAA 冰盖指标页核验。",
+      "today": "以格陵兰为例，来源：世界银行 API。格陵兰 总人口 56,831 人（2025年）（SP.POP.TOTL）、城市化率 88.6%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 70.3 岁（2024年）（SP.DYN.LE00.IN）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='格陵兰冰盖示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='380' cy='210' rx='210' ry='110' fill='none' stroke='var(--line)' stroke-width='2'/><ellipse cx='380' cy='215' rx='150' ry='80' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M230 210 L200 300 M530 215 L570 300' fill='none' stroke='var(--accent2)' stroke-width='3' stroke-dasharray='6 4'/><text x='320' y='220' class='lbl'>冰盖</text><text x='150' y='320' class='lbl'>冰川输出</text><text x='575' y='320' class='lbl'>冰川输出</text><text x='40' y='370' class='dim'>示意图，非精确测绘</text></svg>"
     },
     {

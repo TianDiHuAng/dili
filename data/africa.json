@@ -134,10 +134,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·东非大裂谷】本条正则 rift。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「东非大裂谷」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为东非大裂谷主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·东非大裂谷】本条正则 rift。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「东非大裂谷」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为东非大裂谷主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第28轮现状数据】today 填世界银行实测（代表国 埃塞俄比亚，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -148,7 +151,7 @@
       "influence": "裂谷湖盆提供水源与渔业，高地降雨与火山土有利于农业，但断层与干旱也限制交通和聚落扩张。学界对其在人类演化中的作用有讨论，不宜简化为单一因果。",
       "polities": "裂谷沿线的湖泊与高地条件影响聚落与交通，区域政治组织随农牧与贸易格局变化；具体政权与年代待专门史料核验。",
       "connections": "裂谷是东北非与南部非洲之间的通道，连接尼罗河上游、大湖地区与印度洋海岸，促进人口、牲畜与商品流动。",
-      "today": "裂谷沿线人口增长快，水资源与土地压力上升。具体人口与湖泊水位数据待按年份核验。",
+      "today": "以埃塞俄比亚为例，来源：世界银行 API。埃塞俄比亚 总人口 135,472,051 人（2025年）（SP.POP.TOTL）、城市化率 24.1%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 32.8%（2025年）（NV.AGR.TOTL.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='东非大裂谷示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>东非大裂谷</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -202,10 +205,13 @@
       "sources": [
         "s018-fao-org",
         "s042-earthobservatory-nasa-gov",
-        "s013-fao-org"
+        "s013-fao-org",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第26轮实证复核·刚果盆地】本条正则 congo；s018-fao-org=200/正文4707字符/本条命中0；s042-earthobservatory-nasa-gov=200/正文46123字符/本条命中3。D055 判定：**未达标**——档③（标题不含本条核心词）要求正文≥8000 且命中≥5，实测最高命中 3 < 5；缺口为刚果盆地主题专题页。 档位判定：本条标题为「刚果盆地」，正则 congo 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第26轮实证复核·刚果盆地】本条正则 congo；s018-fao-org=200/正文4707字符/本条命中0；s042-earthobservatory-nasa-gov=200/正文46123字符/本条命中3。D055 判定：**未达标**——档③（标题不含本条核心词）要求正文≥8000 且命中≥5，实测最高命中 3 < 5；缺口为刚果盆地主题专题页。 档位判定：本条标题为「刚果盆地」，正则 congo 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 刚果民主共和国，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -215,7 +221,7 @@
       "influence": "雨林与水系支撑多样的生计方式，河流是区域交通的重要通道。森林覆盖与土地利用受人口、政策和全球需求共同影响，不能把区域差异简化为环境决定。",
       "polities": "前殖民时期存在多种社群与区域网络，近代殖民边界与资源开发改变了政治经济格局。具体政权序列需专门史料核验。",
       "connections": "盆地通过刚果河与大西洋连接，并通过陆地通道与东非大湖区、撒哈拉南缘互动。",
-      "today": "森林覆盖变化与水力资源是当代议题。森林面积、人口与经济数据需按年份从权威机构补齐。",
+      "today": "以刚果民主共和国为例，来源：世界银行 API。刚果民主共和国 总人口 112,832,473 人（2025年）（SP.POP.TOTL）、城市化率 45.1%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 61.5%（2024年）（AG.LND.FRST.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='刚果盆地示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>刚果盆地</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -269,10 +275,13 @@
       ],
       "sources": [
         "s046-earthobservatory-nasa-gov",
-        "s045-earthobservatory-nasa-gov"
+        "s045-earthobservatory-nasa-gov",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮三批返工：修正降水梯度方向（自北向南递增），删除「季节性水系/风蚀塑造景观」等无源句，把「游牧与定居交错」改为有 overgrazing/livestock 支撑的表述，today 来源与 sources 对齐（仅 NASA）。政权与年代不展开。 【第26轮实证复核·萨赫勒带】本条正则 sahel；s046-earthobservatory-nasa-gov=200/正文10327字符/本条命中9；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中29。D055 判定：未达标（实测未同时满足「正文≥门槛」与「命中≥3」，详见上句数字）；缺口为「萨赫勒带」主题专题页。 档位判定：本条标题为「萨赫勒带」，正则 sahel 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第15轮三批返工：修正降水梯度方向（自北向南递增），删除「季节性水系/风蚀塑造景观」等无源句，把「游牧与定居交错」改为有 overgrazing/livestock 支撑的表述，today 来源与 sources 对齐（仅 NASA）。政权与年代不展开。 【第26轮实证复核·萨赫勒带】本条正则 sahel；s046-earthobservatory-nasa-gov=200/正文10327字符/本条命中9；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中29。D055 判定：未达标（实测未同时满足「正文≥门槛」与「命中≥3」，详见上句数字）；缺口为「萨赫勒带」主题专题页。 档位判定：本条标题为「萨赫勒带」，正则 sahel 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 尼日尔，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -283,7 +292,7 @@
       "influence": "降水波动与过度放牧、农业扩张共同影响植被覆盖，是荒漠化研究的核心议题。相关研究强调气候波动与土地利用的共同作用，不宜归因于单一因素。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
       "connections": "萨赫勒横贯非洲南北过渡带，西接大西洋沿岸、东抵红海方向，是撒哈拉与稀树草原之间的生态过渡带。",
-      "today": "荒漠化、粮食安全与人口增长是当代议题。降水距平、植被指数与人口数据需按年份从 NASA 机构页核验。",
+      "today": "以尼日尔为例，来源：世界银行 API。尼日尔 总人口 27,917,831 人（2025年）（SP.POP.TOTL）、城市化率 18.4%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 47.6%（2025年）（NV.AGR.TOTL.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='萨赫勒带示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>萨赫勒带</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -659,10 +668,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第26轮实证复核·马里帝国】本条正则 mali；britannica-regions=200/正文137675字符/本条命中5；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（实测未同时满足「正文≥门槛」与「命中≥3」，详见上句数字）；缺口为「马里帝国」主题专题页。 档位判定：本条标题为「马里帝国」，正则 mali 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第26轮实证复核·马里帝国】本条正则 mali；britannica-regions=200/正文137675字符/本条命中5；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（实测未同时满足「正文≥门槛」与「命中≥3」，详见上句数字）；缺口为「马里帝国」主题专题页。 档位判定：本条标题为「马里帝国」，正则 mali 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 马里，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -673,7 +685,7 @@
       "influence": "控制跨撒哈拉黄金与盐贸易是帝国财富与权力的重要来源；尼日尔河运输则把内陆农业区与贸易节点连成一体。这是政治经济与地理条件互动的解释框架，而非定论。",
       "polities": "帝国依托尼日尔河与跨撒哈拉商路的区位形成，其兴起与贸易线路、绿洲节点相关；具体王朝序列与年代待专门史料核验。",
       "connections": "马里通过撒哈拉商路连接北非与地中海，通过尼日尔河连接几内亚湾与内陆，交换黄金、盐、书籍与工匠技术。",
-      "today": "今马里及周边国家仍处在萨赫勒生态过渡带，安全与发展议题突出。人口与经济数据需以权威机构最新年份为准。",
+      "today": "以马里为例，来源：世界银行 API。马里 总人口 25,198,821 人（2025年）（SP.POP.TOTL）、城市化率 32.2%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 33.0%（2025年）（NV.AGR.TOTL.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='马里帝国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>马里帝国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
