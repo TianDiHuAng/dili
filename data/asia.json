@@ -218,7 +218,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2·D041配对缺口(第16轮)",
+      "status": "已复核(第27轮·实证)",
       "definition": "阿契美尼德波斯：以波斯本土（安尚一带）为起家核心的古代帝国，居鲁士与大流士时期扩展到两河、安纳托利亚、埃及与中亚边缘。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "以波斯本土（安尚一带）为起家核心的古代帝国，居鲁士与大流士时期扩展到两河、安纳托利亚、埃及与中亚边缘。",
@@ -235,7 +235,7 @@
         "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ **D041 配对缺口**：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
+      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ **D041 配对缺口**：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第27轮实证复核·阿契美尼德波斯】本条正则 阿契美尼；livius-cyrus=200/正文9218字符/本条命中0；livius-mesopotamia=200/正文3628字符/本条命中0。D055 判定：未达标（最高命中0、最高正文9218字符；门槛8000）；缺口为「阿契美尼德波斯」主题专题页。",
       "outlines": [
         "Livius: Cyrus the Great",
         "Livius: Mesopotamia"

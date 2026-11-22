@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L2",
-      "status": "L2·配对说明(第24轮)-PDF专题",
+      "status": "已复核(第27轮·实证)",
       "definition": "北美冰盖：地质历史时期覆盖北美北部的巨大冰体，其进退塑造了当地地形、水系与沉积物分布。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "地质历史时期覆盖北美北部的巨大冰体，其进退塑造了当地地形、水系与沉积物分布。",
@@ -63,7 +63,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」**成立**；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。",
+      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」**成立**；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。 【第27轮实证复核·北美冰盖】本条正则 ice sheet；usgs-glaciers-pdf=200/正文208158字符/本条命中0；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。D055 判定：未达标（最高命中0、最高正文208158字符；门槛8000）；缺口为「北美冰盖」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -329,7 +329,7 @@
       "region": "中美洲",
       "theme": "区域",
       "level": "L2",
-      "status": "L2完成(第5轮)",
+      "status": "已复核(第27轮·实证)",
       "definition": "中美洲地峡：连接南北美洲的狭窄陆桥，山地、火山与海岸共同塑造区域生态与交通。",
       "time_or_place": "地理与生态特征（具体演化年代待核）",
       "overview": "连接南北美洲的狭窄陆桥，山地、火山与海岸共同塑造区域生态与交通。",
@@ -343,7 +343,7 @@
         "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第27轮实证复核·中美洲地峡】本条正则 isthmus；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4707字符；门槛8000）；缺口为「中美洲地峡」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -365,7 +365,7 @@
       "region": "中美洲",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第3轮)（L2·内容已收敛至来源可支撑范围）",
+      "status": "已复核(第27轮·实证)",
       "definition": "奥尔梅克：中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
@@ -381,7 +381,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·奥尔梅克】本条正则 olmec；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；门槛8000）；缺口为「奥尔梅克」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -402,7 +402,7 @@
       "region": "中美洲",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第2轮)（L2·内容已收敛至来源可支撑范围）",
+      "status": "已复核(第27轮·实证)",
       "definition": "玛雅文明：热带雨林中的城邦文明，历法、文字与天文学成就突出。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "热带雨林中的城邦文明，历法、文字与天文学成就突出。",
@@ -418,7 +418,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】删除 influence 的「古典期」考古分期与「衰落主因」单因断言；删除 polities 的「殖民时期后」时期标签。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】删除 influence 的「古典期」考古分期与「衰落主因」单因断言；删除 polities 的「殖民时期后」时期标签。 【第27轮实证复核·玛雅文明】本条正则 maya；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；门槛8000）；缺口为「玛雅文明」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -559,7 +559,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第15轮)-D041专题来源",
+      "status": "已复核(第27轮·实证)",
       "definition": "格陵兰岛：位于北大西洋与北冰洋之间的大型岛屿，大部分面积被冰盖覆盖。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "位于北大西洋与北冰洋之间的大型岛屿，大部分面积被冰盖覆盖。",
@@ -573,7 +573,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。",
+      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。 【第27轮实证复核·格陵兰岛】本条正则 greenland；nasa-ice-sheets=200/正文8612字符/本条命中6；s039-climate-nasa-gov=200/正文10544字符/本条命中0。D055 判定：达标（可作升级候选）；缺口为「格陵兰岛」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
