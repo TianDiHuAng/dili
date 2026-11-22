@@ -386,11 +386,10 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions",
-        "s011-unesco-org"
+        "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
+      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -483,11 +482,10 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions",
-        "s056-earthquake-usgs-gov"
+        "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。",
+      "pending_notes": "第15轮复核：南美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

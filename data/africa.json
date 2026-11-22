@@ -432,12 +432,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org",
-        "s011-unesco-org",
-        "s058-worldbank-org"
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -464,12 +462,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo",
-        "s057-databank-worldbank-org",
-        "s025-ourworldindata-org"
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东北非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：东北非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -495,11 +491,10 @@
       ],
       "sources": [
         "livius-carthage",
-        "s050-oceanservice-noaa-gov",
-        "s057-databank-worldbank-org"
+        "s050-oceanservice-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -532,12 +527,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org",
-        "s011-unesco-org",
-        "s058-worldbank-org"
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -563,12 +556,10 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions",
-        "s011-unesco-org",
-        "s058-worldbank-org"
+        "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -623,12 +614,10 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions",
-        "s057-databank-worldbank-org",
-        "s025-ourworldindata-org"
+        "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -693,12 +682,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org",
-        "s011-unesco-org",
-        "s058-worldbank-org"
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -724,12 +711,10 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions",
-        "s057-databank-worldbank-org",
-        "s025-ourworldindata-org"
+        "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。",
+      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -757,11 +742,10 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo",
-        "s057-databank-worldbank-org"
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
+      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

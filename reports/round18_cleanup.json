@@ -1,0 +1,18 @@
+{
+  "round": 18,
+  "removed": {
+    "s011-unesco-org": 23,
+    "s058-worldbank-org": 21,
+    "s025-ourworldindata-org": 14,
+    "s057-databank-worldbank-org": 18,
+    "s056-earthquake-usgs-gov": 12
+  },
+  "after": {
+    "s011-unesco-org": 2,
+    "s056-earthquake-usgs-gov": 0,
+    "s058-worldbank-org": 1,
+    "s025-ourworldindata-org": 5,
+    "s057-databank-worldbank-org": 7
+  },
+  "topped": 6
+}
