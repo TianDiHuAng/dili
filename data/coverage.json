@@ -725,7 +725,7 @@
       "id": "europe-x963fx5c14x5351x65afx5c71",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -824,7 +824,7 @@
       "id": "europe-x83abx65afx79d1x516cx56fd",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -842,7 +842,7 @@
       "id": "europe-x65afx582ax7684x7eb3x7ef4x4e9a",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -869,7 +869,7 @@
       "id": "europe-x6b27x6d32x6e29x5e26x6d77x6d0bx6027x6c14x5019",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -878,7 +878,7 @@
       "id": "europe-x4e2dx4e16x7eaax6b27x6d32x5e84x56edx519cx4e1a",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -959,8 +959,8 @@
       "id": "north-america-x58a8x897fx54e5x6e7e",
       "level": "L1",
       "tier": "重要",
-      "status": "二次返工降级L1(第14轮)",
-      "source_count": 2,
+      "status": "已复核(第15轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1166,8 +1166,8 @@
       "id": "south-america-x83abx5207x6587x5316",
       "level": "L1",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "已复核(第15轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1184,8 +1184,8 @@
       "id": "south-america-x8482x4e9ax74e6x7eb3x79d1",
       "level": "L1",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "已复核(第15轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1211,8 +1211,8 @@
       "id": "south-america-x9a6cx4e18x6bd4x4e18",
       "level": "L1",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "已复核(第15轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1220,8 +1220,8 @@
       "id": "south-america-x5b89x7b2cx65afx5782x76f4x519cx4e1a",
       "level": "L1",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "已复核(第15轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

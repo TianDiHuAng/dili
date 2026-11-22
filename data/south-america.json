@@ -317,7 +317,7 @@
       "region": "南美洲",
       "theme": "农业",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第15轮)",
       "definition": "莫切文化：秘鲁北岸灌溉农业社会，金字塔与陶器闻名。",
       "time_or_place": "约1—7世纪",
       "overview": "秘鲁北岸灌溉农业社会，金字塔与陶器闻名。",
@@ -328,10 +328,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第15轮复核：南美洲×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -375,7 +376,7 @@
       "region": "南美洲",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第15轮)",
       "definition": "蒂亚瓦纳科：的的喀喀湖畔高原城市，影响安第斯中部。",
       "time_or_place": "约500—1000年",
       "overview": "的的喀喀湖畔高原城市，影响安第斯中部。",
@@ -386,10 +387,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -471,7 +473,7 @@
       "region": "南美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第15轮)",
       "definition": "马丘比丘：安第斯山间印加遗址，体现山地选址与梯田工程。",
       "time_or_place": "约15世纪",
       "overview": "安第斯山间印加遗址，体现山地选址与梯田工程。",
@@ -482,10 +484,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第15轮复核：南美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -500,7 +503,7 @@
       "region": "南美洲",
       "theme": "农业",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第15轮)",
       "definition": "安第斯垂直农业：按海拔分层种植不同作物，是适应山地环境的典型方式。",
       "time_or_place": "古代至今",
       "overview": "按海拔分层种植不同作物，是适应山地环境的典型方式。",
@@ -511,10 +514,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第15轮复核：南美洲×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

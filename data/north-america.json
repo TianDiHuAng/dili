@@ -296,7 +296,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "二次返工降级L1(第14轮)",
+      "status": "已复核(第15轮)",
       "definition": "墨西哥湾：北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
@@ -307,10 +307,11 @@
       ],
       "sources": [
         "s050-oceanservice-noaa-gov",
-        "s048-climate-gov"
+        "s048-climate-gov",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——原稿「沿岸有堡礁带」为事实错误（应为障壁岛与佛罗里达礁区珊瑚礁），且来源不含墨西哥湾专题内容；已改写并降级 L1。theme 由气候改为地形。",
+      "pending_notes": "第15轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
