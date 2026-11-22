@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 32,
+  "last_round": 33,
   "history": [
     {
       "round": 1,
@@ -389,6 +389,19 @@
       ],
       "gaps_found": 273,
       "note": "核心L1 6→1；Wikidata 提供可核验的结构化年代与量值",
+      "result": "非饱和"
+    },
+    {
+      "round": 33,
+      "methods_used": [
+        "B1 Wikidata批量",
+        "重要L1攻坚",
+        "D079单源标注",
+        "R14/R15",
+        "台账"
+      ],
+      "gaps_found": 337,
+      "note": "重要L1 77→64；总L2 78→91",
       "result": "非饱和"
     }
   ],
