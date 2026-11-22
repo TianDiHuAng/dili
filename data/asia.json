@@ -30,7 +30,7 @@
         "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·两河流域】本条正则 mesopotamia|tigris|euphrates。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「两河流域」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为两河流域主题专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·两河流域】本条正则 mesopotamia|tigris|euphrates。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「两河流域」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为两河流域主题专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -41,7 +41,7 @@
       "influence": "灌溉农业支撑城市与人口密集，渠网维护推动协作与行政组织；但土壤盐渍化与水量变化也可能削弱政权稳定。学界对灌溉与国家形成的关系仍有争论，地理条件是重要变量而非唯一原因。",
       "polities": "冲积平原的水利与城市条件支撑早期政治组织，区域在多个时期被不同政权整合；具体王朝序列与年代待专门史料核验。",
       "connections": "两河流域连接安纳托利亚高原、伊朗高原与地中海沿岸，是西亚陆路贸易与技术传播枢纽。",
-      "today": "以伊拉克为例，来源：世界银行 API。总人口 47,020,774（2025年）（SP.POP.TOTL）、城市化率 69.9%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 3.4%（2025年）（NV.AGR.TOTL.ZS）。两河水量与灌溉面积数据待专门来源核验。",
+      "today": "以伊拉克为例，来源：世界银行 API。总人口 47,020,774（2025年）（SP.POP.TOTL）、城市化率 69.9%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 3.4%（2025年）（NV.AGR.TOTL.ZS）。两河水量分配与灌溉面积数据待专门统计与流域机构核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='两河流域示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>两河流域</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -64,10 +64,12 @@
       "sources": [
         "livius-mesopotamia",
         "s013-fao-org",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。 档位判定：本条标题为「苏美尔城邦」，正则 sumer 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。 档位判定：本条标题为「苏美尔城邦」，正则 sumer 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -77,7 +79,7 @@
       "influence": "灌溉与城市管理相互关联，渠网维护需要协作；但城邦制度并非环境的必然结果，贸易、战争和宗教同样重要。",
       "polities": "Livius 的 Mesopotamia 专题页提供区域与政权入口，可用于后续核对城邦名单与年代；本站此处仅作骨架式描述。",
       "connections": "城邦通过河运与陆路与两河流域北部、伊朗高原和阿拉伯半岛边缘交换金属、石材与农产品。",
-      "today": "遗址分布在今伊拉克南部。人口、水文与遗址状况数据待按年份核验。",
+      "today": "以伊拉克为例，来源：世界银行 API。总人口 47,020,774（2025年）（SP.POP.TOTL）、城市化率 69.9%（2025年）（SP.URB.TOTL.IN.ZS）。南部遗址群保护状况与考古进展待专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='苏美尔城邦示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>苏美尔城邦</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -100,10 +102,13 @@
       "sources": [
         "livius-mesopotamia",
         "s010-unesco-org",
-        "s013-fao-org"
+        "s013-fao-org",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·阿卡德帝国】本条正则 akkad；livius-mesopotamia=200/正文3628字符/本条命中0；s010-unesco-org=200/正文218字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「阿卡德帝国」主题专题页。 档位判定：本条标题为「阿卡德帝国」，正则 akkad 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·阿卡德帝国】本条正则 akkad；livius-mesopotamia=200/正文3628字符/本条命中0；s010-unesco-org=200/正文218字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「阿卡德帝国」主题专题页。 档位判定：本条标题为「阿卡德帝国」，正则 akkad 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -113,7 +118,7 @@
       "influence": "控制灌溉区与商路有助于财政和军队供给，但帝国扩张与维持取决于统治策略，不宜作地理决定论解释。",
       "polities": "Livius 的 Mesopotamia 页面可作为核对区域政权序列的入口；具体王名与年代仍需专门条目逐条核验。",
       "connections": "帝国连接苏美尔城邦、两河上游与西亚其他区域，推动商品、技术和语言的流动。",
-      "today": "考古遗址与文献释读仍在推进。年代与疆域数据待按年份从专题来源核验。",
+      "today": "以伊拉克为例，来源：世界银行 API。总人口 47,020,774（2025年）（SP.POP.TOTL）、农业增加值占 GDP 3.4%（2025年）（NV.AGR.TOTL.ZS）。相关遗址与文献释读进展待专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='阿卡德帝国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>阿卡德帝国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -224,10 +229,13 @@
       ],
       "sources": [
         "livius-cyrus",
-        "livius-mesopotamia"
+        "livius-mesopotamia",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ **D041 配对缺口**：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。",
+      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ **D041 配对缺口**：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Livius: Cyrus the Great",
         "Livius: Mesopotamia"
@@ -237,7 +245,7 @@
       "influence": "跨区域的整合依赖军事组织、地方统治安排与交通条件；地理距离与地形是重要约束，但政治制度与治理方式同样是关键变量。",
       "polities": "Livius 的居鲁士专题页记载其兴起、巴比伦与安纳托利亚等地的扩张，并述及被称为 satrap 的附庸王；王表与年代序列待专门史料逐条核验。",
       "connections": "帝国与两河流域、安纳托利亚、埃及及中亚边缘存在军事联系，并通过附庸王安排维持地方统治；对印度河谷的控制不成立，相关说法已删除。",
-      "today": "历史遗产分布在今伊朗及周边国家。现代人口与遗产数据待按年份核验。",
+      "today": "以伊朗为例，来源：世界银行 API。总人口 92,417,681（2025年）（SP.POP.TOTL）、城市化率 77.4%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 77.9 岁（2024年）（SP.DYN.LE00.IN）。波斯波利斯等遗址保护与游客数据待核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='阿契美尼德波示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>阿契美尼德波</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -724,10 +732,13 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "s014-fao-org"
+        "s014-fao-org",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（其中 s014-fao-org 为 FAOSTAT 壳页，可视正文约 7 字符，不构成正文依据）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。",
+      "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（其中 s014-fao-org 为 FAOSTAT 壳页，可视正文约 7 字符，不构成正文依据）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：中国），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -738,7 +749,7 @@
       "influence": "稻作、水利与城市商业相互支撑，海外贸易扩大商品来源。经济繁荣不能仅由自然条件解释，技术与制度同样关键。",
       "polities": "该时期政治中心与北方政权的互动影响疆域与财政结构；具体年代、战役与制度细节待专门史料核验。",
       "connections": "海上贸易连接东南亚、印度洋与东亚港口，陆上边界则与草原政权互动。",
-      "today": "宋代遗产今天仍是江南城市与水利研究的重要对象。人口与经济数据待按年份核验。",
+      "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 6.7%（2025年）（NV.AGR.TOTL.ZS）。宋代经济与人口数据的现代重建属史学议题，需专门研究核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='宋代示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>宋代</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -853,7 +864,8 @@
         "s050-oceanservice-noaa-gov",
         "s018-fao-org",
         "wb-api-pop",
-        "wb-api-urban"
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
       "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 第5轮返工：已移除无专门来源的具体年代表述。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·日本列岛】本条正则 japan；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4707字符；档①门槛5000/档②③8000）；缺口为「日本列岛」主题专题页。 档位判定：本条标题为「日本列岛」，正则 japan 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",

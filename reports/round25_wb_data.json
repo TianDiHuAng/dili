@@ -646,5 +646,437 @@
       "year": "2022",
       "country": "Canada"
     }
+  },
+  "TUN": {
+    "urban_pct": {
+      "value": 70.7029326009864,
+      "year": "2025",
+      "country": "Tunisia"
+    },
+    "pop_total": {
+      "value": 12348573,
+      "year": "2025",
+      "country": "Tunisia"
+    },
+    "life_exp": {
+      "value": 76.711,
+      "year": "2024",
+      "country": "Tunisia"
+    },
+    "forest_pct": {
+      "value": 4.43994593202884,
+      "year": "2024",
+      "country": "Tunisia"
+    },
+    "agri_pct_gdp": {
+      "value": 10.2934775669857,
+      "year": "2025",
+      "country": "Tunisia"
+    }
+  },
+  "IRN": {
+    "urban_pct": {
+      "value": 77.3761530941751,
+      "year": "2025",
+      "country": "Iran, Islamic Rep."
+    },
+    "pop_total": {
+      "value": 92417681,
+      "year": "2025",
+      "country": "Iran, Islamic Rep."
+    },
+    "life_exp": {
+      "value": 77.854,
+      "year": "2024",
+      "country": "Iran, Islamic Rep."
+    },
+    "forest_pct": {
+      "value": 6.62619414483821,
+      "year": "2024",
+      "country": "Iran, Islamic Rep."
+    },
+    "agri_pct_gdp": {
+      "value": 10.5944482254371,
+      "year": "2025",
+      "country": "Iran, Islamic Rep."
+    }
+  },
+  "GRC": {
+    "urban_pct": {
+      "value": 79.2246082848537,
+      "year": "2025",
+      "country": "Greece"
+    },
+    "pop_total": {
+      "value": 10413962,
+      "year": "2025",
+      "country": "Greece"
+    },
+    "life_exp": {
+      "value": 81.8390243902439,
+      "year": "2024",
+      "country": "Greece"
+    },
+    "forest_pct": {
+      "value": 36.9495733126455,
+      "year": "2024",
+      "country": "Greece"
+    },
+    "agri_pct_gdp": {
+      "value": 3.5703052168837,
+      "year": "2025",
+      "country": "Greece"
+    }
+  },
+  "ITA": {
+    "urban_pct": {
+      "value": 69.680861801678,
+      "year": "2025",
+      "country": "Italy"
+    },
+    "pop_total": {
+      "value": 58915656,
+      "year": "2025",
+      "country": "Italy"
+    },
+    "life_exp": {
+      "value": 83.9512195121951,
+      "year": "2024",
+      "country": "Italy"
+    },
+    "forest_pct": {
+      "value": 31.8188489111322,
+      "year": "2024",
+      "country": "Italy"
+    },
+    "agri_pct_gdp": {
+      "value": 2.06549575303668,
+      "year": "2025",
+      "country": "Italy"
+    }
+  },
+  "GBR": {
+    "urban_pct": {
+      "value": 83.323608078271,
+      "year": "2025",
+      "country": "United Kingdom"
+    },
+    "pop_total": {
+      "value": 69487000,
+      "year": "2025",
+      "country": "United Kingdom"
+    },
+    "life_exp": {
+      "value": 81.3868536585366,
+      "year": "2024",
+      "country": "United Kingdom"
+    },
+    "forest_pct": {
+      "value": 13.4972926052991,
+      "year": "2024",
+      "country": "United Kingdom"
+    },
+    "agri_pct_gdp": {
+      "value": 0.639963472014016,
+      "year": "2025",
+      "country": "United Kingdom"
+    }
+  },
+  "NOR": {
+    "urban_pct": {
+      "value": 83.5705787708326,
+      "year": "2025",
+      "country": "Norway"
+    },
+    "pop_total": {
+      "value": 5610870,
+      "year": "2025",
+      "country": "Norway"
+    },
+    "life_exp": {
+      "value": 83.1609756097561,
+      "year": "2024",
+      "country": "Norway"
+    },
+    "forest_pct": {
+      "value": 33.2475087160623,
+      "year": "2024",
+      "country": "Norway"
+    },
+    "agri_pct_gdp": {
+      "value": 1.64200398430636,
+      "year": "2025",
+      "country": "Norway"
+    }
+  },
+  "GTM": {
+    "urban_pct": {
+      "value": 56.2972033013999,
+      "year": "2025",
+      "country": "Guatemala"
+    },
+    "pop_total": {
+      "value": 18687881,
+      "year": "2025",
+      "country": "Guatemala"
+    },
+    "life_exp": {
+      "value": 72.746,
+      "year": "2024",
+      "country": "Guatemala"
+    },
+    "forest_pct": {
+      "value": 33.1172079134005,
+      "year": "2024",
+      "country": "Guatemala"
+    },
+    "agri_pct_gdp": {
+      "value": 9.55178298050142,
+      "year": "2025",
+      "country": "Guatemala"
+    }
+  },
+  "PER": {
+    "urban_pct": {
+      "value": 85.5963484845463,
+      "year": "2025",
+      "country": "Peru"
+    },
+    "pop_total": {
+      "value": 34576665,
+      "year": "2025",
+      "country": "Peru"
+    },
+    "life_exp": {
+      "value": 77.941,
+      "year": "2024",
+      "country": "Peru"
+    },
+    "forest_pct": {
+      "value": 52.702421875,
+      "year": "2024",
+      "country": "Peru"
+    },
+    "agri_pct_gdp": {
+      "value": 7.47121084291146,
+      "year": "2024",
+      "country": "Peru"
+    }
+  },
+  "CHL": {
+    "urban_pct": {
+      "value": 89.1772830019223,
+      "year": "2025",
+      "country": "Chile"
+    },
+    "pop_total": {
+      "value": 19859921,
+      "year": "2025",
+      "country": "Chile"
+    },
+    "life_exp": {
+      "value": 81.359,
+      "year": "2024",
+      "country": "Chile"
+    },
+    "forest_pct": {
+      "value": 24.4824758091963,
+      "year": "2024",
+      "country": "Chile"
+    },
+    "agri_pct_gdp": {
+      "value": 3.45290754387223,
+      "year": "2025",
+      "country": "Chile"
+    }
+  },
+  "NZL": {
+    "urban_pct": {
+      "value": 83.9978515774731,
+      "year": "2025",
+      "country": "New Zealand"
+    },
+    "pop_total": {
+      "value": 5324700,
+      "year": "2025",
+      "country": "New Zealand"
+    },
+    "life_exp": {
+      "value": 82.009756097561,
+      "year": "2024",
+      "country": "New Zealand"
+    },
+    "forest_pct": {
+      "value": 38.8723557783601,
+      "year": "2024",
+      "country": "New Zealand"
+    },
+    "agri_pct_gdp": {
+      "value": 4.00852725247614,
+      "year": "2023",
+      "country": "New Zealand"
+    }
+  },
+  "FJI": {
+    "urban_pct": {
+      "value": 59.5444551836369,
+      "year": "2025",
+      "country": "Fiji"
+    },
+    "pop_total": {
+      "value": 933154,
+      "year": "2025",
+      "country": "Fiji"
+    },
+    "life_exp": {
+      "value": 67.463,
+      "year": "2024",
+      "country": "Fiji"
+    },
+    "forest_pct": {
+      "value": 61.7449408171058,
+      "year": "2024",
+      "country": "Fiji"
+    },
+    "agri_pct_gdp": {
+      "value": 14.0457735369585,
+      "year": "2025",
+      "country": "Fiji"
+    }
+  },
+  "ETH": {
+    "urban_pct": {
+      "value": 24.1096952088946,
+      "year": "2025",
+      "country": "Ethiopia"
+    },
+    "pop_total": {
+      "value": 135472051,
+      "year": "2025",
+      "country": "Ethiopia"
+    },
+    "life_exp": {
+      "value": 67.603,
+      "year": "2024",
+      "country": "Ethiopia"
+    },
+    "forest_pct": {
+      "value": 23.8393996870964,
+      "year": "2024",
+      "country": "Ethiopia"
+    },
+    "agri_pct_gdp": {
+      "value": 32.8186147009719,
+      "year": "2025",
+      "country": "Ethiopia"
+    }
+  },
+  "MLI": {
+    "urban_pct": {
+      "value": 32.2127137183989,
+      "year": "2025",
+      "country": "Mali"
+    },
+    "pop_total": {
+      "value": 25198821,
+      "year": "2025",
+      "country": "Mali"
+    },
+    "life_exp": {
+      "value": 60.675,
+      "year": "2024",
+      "country": "Mali"
+    },
+    "forest_pct": {
+      "value": 8.67061687114302,
+      "year": "2024",
+      "country": "Mali"
+    },
+    "agri_pct_gdp": {
+      "value": 33.0195835270972,
+      "year": "2025",
+      "country": "Mali"
+    }
+  },
+  "KAZ": {
+    "urban_pct": {
+      "value": 62.3855569507987,
+      "year": "2025",
+      "country": "Kazakhstan"
+    },
+    "pop_total": {
+      "value": 20843754,
+      "year": "2025",
+      "country": "Kazakhstan"
+    },
+    "life_exp": {
+      "value": 74.531,
+      "year": "2024",
+      "country": "Kazakhstan"
+    },
+    "forest_pct": {
+      "value": 1.29888876541838,
+      "year": "2024",
+      "country": "Kazakhstan"
+    },
+    "agri_pct_gdp": {
+      "value": 3.7437914177142,
+      "year": "2025",
+      "country": "Kazakhstan"
+    }
+  },
+  "KOR": {
+    "urban_pct": {
+      "value": 81.1740263306674,
+      "year": "2025",
+      "country": "Korea, Rep."
+    },
+    "pop_total": {
+      "value": 51684564,
+      "year": "2025",
+      "country": "Korea, Rep."
+    },
+    "life_exp": {
+      "value": 83.6292682926829,
+      "year": "2024",
+      "country": "Korea, Rep."
+    },
+    "forest_pct": {
+      "value": 64.3739754098361,
+      "year": "2024",
+      "country": "Korea, Rep."
+    },
+    "agri_pct_gdp": {
+      "value": 1.46427275259293,
+      "year": "2025",
+      "country": "Korea, Rep."
+    }
+  },
+  "WLD": {
+    "urban_pct": {
+      "value": 57.8251158115221,
+      "year": "2025",
+      "country": "World"
+    },
+    "pop_total": {
+      "value": 8215424893,
+      "year": "2025",
+      "country": "World"
+    },
+    "life_exp": {
+      "value": 73.4818184164654,
+      "year": "2024",
+      "country": "World"
+    },
+    "forest_pct": {
+      "value": 31.0951828663057,
+      "year": "2023",
+      "country": "World"
+    },
+    "agri_pct_gdp": {
+      "value": 4.01004595954566,
+      "year": "2025",
+      "country": "World"
+    }
   }
 }

@@ -24,10 +24,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·爱琴海世界】本条正则 aegean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「爱琴海世界」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为爱琴海世界主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·爱琴海世界】本条正则 aegean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「爱琴海世界」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为爱琴海世界主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -38,7 +41,7 @@
       "influence": "海洋交通降低了远距离交流成本，山地与海湾则促成城邦分立与海上贸易并存。地理条件有利于航海与交换，但是否直接导致民主制度，学界并无共识。",
       "polities": "岛屿与海湾条件促成海上贸易与城邦分立，区域后被更大政治体整合；具体文明阶段与年代待专门史料核验。",
       "connections": "爱琴海连接安纳托利亚、巴尔干与埃及，是青铜与陶器、金属与思想交流的海上枢纽。",
-      "today": "今天爱琴海地区仍以港口、旅游与海洋产业为重要经济活动。人口与贸易数据待按年份核验。",
+      "today": "以希腊为例，来源：世界银行 API。总人口 10,413,962（2025年）（SP.POP.TOTL）、城市化率 79.2%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 81.8 岁（2024年）（SP.DYN.LE00.IN）。爱琴海岛屿的人口与旅游数据待专门统计核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='爱琴海世界示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>爱琴海世界</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -62,10 +65,12 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·克里特文明】本条正则 crete|minoan。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「克里特文明」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为克里特文明主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·克里特文明】本条正则 crete|minoan。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「克里特文明」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为克里特文明主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -75,7 +80,7 @@
       "influence": "海上贸易与宫殿再分配体系相互支撑，岛屿位置降低远距离交流成本。宫殿经济的具体运作仍有讨论，不宜写成定论。",
       "polities": "岛屿的港湾与农业条件支撑宫殿中心与海上交换，其后区域文化重心转移；具体年代与政治形态待专门史料核验。",
       "connections": "克里特连接埃及、安纳托利亚与希腊本土，交换陶器、金属与纺织品。",
-      "today": "遗址保护与旅游是当地重要议题。游客与遗产数据待按年份核验。",
+      "today": "以希腊为例，来源：世界银行 API。总人口 10,413,962（2025年）（SP.POP.TOTL）、城市化率 79.2%（2025年）（SP.URB.TOTL.IN.ZS）。克里特岛遗址保护与游客数据待核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='克里特文明示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>克里特文明</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -127,10 +132,13 @@
       "sources": [
         "livius-polis",
         "livius-athens",
-        "livius-greece"
+        "livius-greece",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·古希腊城邦】本条正则 polis|greek；livius-polis=200/正文2469字符/本条命中12；livius-athens=200/正文6313字符/本条命中13。D055 判定：未达标（最高命中13、最高正文6313字符；档①门槛5000/档②③8000）；缺口为「古希腊城邦」主题专题页。 档位判定：本条标题为「古希腊城邦」，正则 polis|greek 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·古希腊城邦】本条正则 polis|greek；livius-polis=200/正文2469字符/本条命中12；livius-athens=200/正文6313字符/本条命中13。D055 判定：未达标（最高命中13、最高正文6313字符；档①门槛5000/档②③8000）；缺口为「古希腊城邦」主题专题页。 档位判定：本条标题为「古希腊城邦」，正则 polis|greek 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -141,7 +149,7 @@
       "influence": "海洋交通促进贸易与殖民，山地限制大规模统一，但城邦制度不能仅由地形解释；制度选择与社会冲突同样关键。",
       "polities": "Livius 的 Polis、Athens 与 Greece 页面提供城邦概念和主要城邦的专题入口，可支撑城邦作为基本单位的概述；具体政体演变待逐条核验。",
       "connections": "爱琴海把希腊本土、岛屿、安纳托利亚与埃及连接成交换网络，陶器、金属与思想沿航线传播。",
-      "today": "遗址与博物馆是当代文化景观的重要部分。游客与遗产数据待按年份核验。",
+      "today": "以希腊为例，来源：世界银行 API。总人口 10,413,962（2025年）（SP.POP.TOTL）、城市化率 79.2%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 81.8 岁（2024年）（SP.DYN.LE00.IN）。古典时期人口规模的估计属史学争论，需专门研究核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古希腊城邦示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古希腊城邦</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -194,10 +202,13 @@
       "sources": [
         "livius-roman-republic",
         "livius-italy",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·罗马共和国】本条正则 republic|rome；livius-roman-republic=200/正文25552字符/本条命中76；livius-italy=200/正文5515字符/本条命中12。D055 判定：未达标（实测未同时满足「正文≥门槛」与「命中≥3」，详见上句数字）；缺口为「罗马共和国」主题专题页。 档位判定：本条标题为「罗马共和国」，正则 republic|rome 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·罗马共和国】本条正则 republic|rome；livius-roman-republic=200/正文25552字符/本条命中76；livius-italy=200/正文5515字符/本条命中12。D055 判定：未达标（实测未同时满足「正文≥门槛」与「命中≥3」，详见上句数字）；缺口为「罗马共和国」主题专题页。 档位判定：本条标题为「罗马共和国」，正则 republic|rome 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -207,7 +218,7 @@
       "influence": "农业、道路与军团组织相互支撑，地理条件提供机会，但共和制度与政治选择同样是核心变量。",
       "polities": "Livius 的 Roman Republic 与 Italy 分类页提供专题入口，可支撑概述；具体执政官年表与战役序列待逐条核验。",
       "connections": "罗马通过道路与海路连接意大利、西西里、北非与希腊化世界，商品、军队和法律沿网络流动。",
-      "today": "共和遗产仍影响法律与政治语言。遗产保护与游客数据待按年份核验。",
+      "today": "以意大利为例，来源：世界银行 API。总人口 58,915,656（2025年）（SP.POP.TOTL）、城市化率 69.7%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 84.0 岁（2024年）（SP.DYN.LE00.IN）。罗马城遗址与遗产旅游数据待核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='罗马共和国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>罗马共和国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -392,10 +403,13 @@
       "sources": [
         "s050-oceanservice-noaa-gov",
         "s039-climate-nasa-gov",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·不列颠群岛】本条正则 britain|british；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s039-climate-nasa-gov=200/正文10544字符/本条命中0。D055 判定：未达标（最高命中0、最高正文10544字符；档①门槛5000/档②③8000）；缺口为「不列颠群岛」主题专题页。 档位判定：本条标题为「不列颠群岛」，正则 britain|british 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·不列颠群岛】本条正则 britain|british；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s039-climate-nasa-gov=200/正文10544字符/本条命中0。D055 判定：未达标（最高命中0、最高正文10544字符；档①门槛5000/档②③8000）；缺口为「不列颠群岛」主题专题页。 档位判定：本条标题为「不列颠群岛」，正则 britain|british 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：英国），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -406,7 +420,7 @@
       "influence": "海洋通道有利于港口与对外联系，气候与土地条件影响农业类型；社会变化还与贸易、技术和制度有关，不能单由岛屿位置解释。",
       "polities": "本条只写自然地理背景，不在此叙述具体王朝与政权序列；相关历史条目待专门来源核验后再展开。",
       "connections": "群岛通过英吉利海峡、北海与北大西洋连接欧洲大陆和海外港口，海运长期是重要联系方式。",
-      "today": "沿海城市与港口仍具重要地位。人口、语言与港口货运数据待按年份从权威机构补齐。",
+      "today": "以英国为例，来源：世界银行 API。总人口 69,487,000（2025年）（SP.POP.TOTL）、城市化率 83.3%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 81.4 岁（2024年）（SP.DYN.LE00.IN）。爱尔兰相关指标待补；群岛内港口货运数据需专门统计核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='不列颠群岛示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西北欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>不列颠群岛</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -519,10 +533,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -533,7 +550,7 @@
       "influence": "航海技术使贸易、殖民与袭击并存，河流网络把北欧与东欧、拜占庭连接起来。社会动因复杂，不能简化为资源匮乏驱动。",
       "polities": "斯堪的纳维亚的航海条件与河流网络支撑贸易、殖民与迁徙，王权与宗教变迁重塑区域格局；具体年代与事件待专门史料核验。",
       "connections": "维京航线连接北海、波罗的海与北大西洋，交换毛皮、银币、木材与奴隶。",
-      "today": "维京遗产是北欧文化与旅游的重要资源。人口与游客数据待按年份核验。",
+      "today": "以挪威为例，来源：世界银行 API。总人口 5,610,870（2025年）（SP.POP.TOTL）、城市化率 83.6%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 83.2 岁（2024年）（SP.DYN.LE00.IN）。北欧各国差异明显，本数据仅示量级。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='维京时代示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>维京时代</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -703,10 +720,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-life"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·文艺复兴意大利】本条正则 renaissance。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「文艺复兴意大利」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为文艺复兴意大利主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·文艺复兴意大利】本条正则 renaissance。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「文艺复兴意大利」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为文艺复兴意大利主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -716,7 +736,7 @@
       "influence": "城邦竞争、商业财富与城市赞助为艺术与学术提供条件；地理上的开放性与城市网络是重要背景，但思想变革不能简化为地理结果。",
       "polities": "半岛城邦依托商业财富与竞争形成文化中心，政治地图由多个城邦与领地构成；具体年代与人物待专门史料核验。",
       "connections": "意大利商人连接地中海东岸与西北欧，丝绸、香料、银行业与手稿沿贸易与学术网络传播。",
-      "today": "今天意大利北部仍是重要制造业与文化中心。人口、游客与经济数据待按年份补齐。",
+      "today": "以意大利为例，来源：世界银行 API。总人口 58,915,656（2025年）（SP.POP.TOTL）、城市化率 69.7%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 84.0 岁（2024年）（SP.DYN.LE00.IN）。北部城市带仍是制造业与文化中心；具体游客与经济数据待核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='文艺复兴意大示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>文艺复兴意大</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

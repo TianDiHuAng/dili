@@ -2627,6 +2627,19 @@
       "verified": true,
       "page_title": "World Bank Indicator API — Agriculture, value added (% of GDP) NV.AGR.TOTL.ZS",
       "note": "JSON API 200；返回逐年农业增加值占 GDP 比重（埃及 2025 年 16.6%）；正则为 agr|value。"
+    },
+    {
+      "id": "wb-api-life",
+      "title": "World Bank Indicator API — Life expectancy at birth (SP.DYN.LE00.IN)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank Indicator API — Life expectancy at birth",
+      "note": "JSON API 200；返回逐年出生时预期寿命（**单位为年，非百分比**）；正则为 life|value。全球 2024 年 73.48 岁。"
     }
   ]
 }
