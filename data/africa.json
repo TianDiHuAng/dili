@@ -11,7 +11,7 @@
       "region": "北非",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "撒哈拉沙漠：世界最大热带沙漠，横跨北非十余国，其扩张与收缩与季风变化相关。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "世界最大热带沙漠，横跨北非十余国，其扩张与收缩与季风变化相关。",
@@ -27,7 +27,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -117,7 +117,7 @@
       "region": "东非",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "东非大裂谷：板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
@@ -133,7 +133,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -255,34 +255,32 @@
       "region": "西非",
       "theme": "气候",
       "level": "L2",
-      "status": "L2完成(第3轮)",
-      "definition": "萨赫勒带：撒哈拉南缘半干旱过渡带，降水年际变率大，游牧与定居农业长期交错。",
+      "status": "L2合规换源(第15轮)",
+      "definition": "萨赫勒带：撒哈拉南缘的半干旱过渡带，降水在南北向存在明显梯度且年际变率大。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "撒哈拉南缘半干旱过渡带，降水年际变率大，游牧与定居农业长期交错。",
+      "overview": "撒哈拉南缘的半干旱过渡带，降水在南北向存在明显梯度且年际变率大。",
       "related": [
         "africa-x51e0x5185x4e9ax6e7ex6cbfx5cb8",
         "africa-x6492x54c8x62c9x6c99x6f20",
         "africa-x5c3cx7f57x6cb3x8c37"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "ap-human-geo"
+        "s046-earthobservatory-nasa-gov",
+        "s045-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "第15轮三批返工：修正降水梯度方向（自北向南递增），删除「季节性水系/风蚀塑造景观」等无源句，把「游牧与定居交错」改为有 overgrazing/livestock 支撑的表述，today 来源与 sources 对齐（仅 NASA）。政权与年代不展开。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22",
-      "geo": "萨赫勒是撒哈拉南缘的半干旱过渡带，降水自北向南增加且年际变率大。植被由荒漠草原向稀树草原过渡，水系多为季节性。",
-      "influence": "降水波动使游牧与定居农业长期交错，商路节点与水源点影响聚落位置。干旱风险是重要变量，但冲突与治理同样塑造区域格局，不能作单因解释。",
-      "polities": "加纳、马里、桑海等政权依托跨撒哈拉贸易兴起，现代国家边界则叠加了殖民遗产与区域合作机制。",
-      "connections": "萨赫勒连接北非与几内亚湾，是黄金、盐、牲畜与思想流动的走廊。",
-      "today": "荒漠化、粮食安全与人口增长是当代议题。具体人口与降水数据待按年份核验。",
+      "geo": "萨赫勒位于撒哈拉南缘，向南过渡到稀树草原，降水随纬度南移而增加，年际波动明显。地表以草原与稀树草原为主。NASA 地球观测的萨赫勒与荒漠化专题记录了该区域干旱、沙尘输运与植被变化的研究脉络。",
+      "influence": "降水波动与过度放牧、农业扩张共同影响植被覆盖，是荒漠化研究的核心议题。相关研究强调气候波动与土地利用的共同作用，不宜归因于单一因素。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "萨赫勒横贯非洲南北过渡带，西接大西洋沿岸、东抵红海方向，是撒哈拉与稀树草原之间的生态过渡带。",
+      "today": "荒漠化、粮食安全与人口增长是当代议题。降水距平、植被指数与人口数据需按年份从 NASA 机构页核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='萨赫勒带示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>萨赫勒带</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -647,7 +645,7 @@
       "region": "西非",
       "theme": "贸易",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "马里帝国：曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
@@ -663,7 +661,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -748,7 +746,7 @@
       "region": "东非",
       "theme": "贸易",
       "level": "L2",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
       "definition": "斯瓦希里海岸：东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
@@ -765,7 +763,7 @@
         "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

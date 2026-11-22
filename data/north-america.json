@@ -11,7 +11,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "白令陆桥：海平面下降时连接亚洲与北美，人类与动物迁徙通道。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "海平面下降时连接亚洲与北美，人类与动物迁徙通道。",
@@ -27,7 +27,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -48,8 +48,8 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L2",
-      "status": "L2完成(第15轮)-D041专题来源",
+      "level": "L1",
+      "status": "二次返工降级L1(第15轮)",
       "definition": "北美冰盖：地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
@@ -59,22 +59,16 @@
         "north-america-x5927x5e73x539f"
       ],
       "sources": [
-        "usgs-glaciers",
-        "nps-grand-canyon-geology"
+        "s038-earthobservatory-nasa-gov",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页正文含主题关键词（NASA冰盖指标 / FAO山地伙伴 / OWID迁移 / USGS冰川），仅写来源可支撑的自然地理与人口内容；政权与年代细节留待专门史料，现状数值待按年份核验。",
+      "pending_notes": "二次返工：抽检 FAIL——usgs-glaciers 实为 PDF 下载门落户（正文仅冰川定义），nps-grand-canyon-geology 为大峡谷地层页（冰川关键词 0），属跨条目凑数；geo 的「侵蚀基岩/冰碛/冰川湖/覆盖北美北部」无源。已降级 L1。待含 Laurentide / continental ice sheet 正文的专题页到位后再升级。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
-      "geo": "冰体由长期积雪压实形成并缓慢流动，侵蚀基岩、搬运碎屑，退却后在原范围留下冰碛与冰川湖。USGS 冰川科普页说明冰川作为气候指示的意义与流动、侵蚀的基本机制。",
-      "influence": "冰川作用塑造盆地、丘陵与河谷，影响后来的水系与土壤分布。地貌与气候的关联有明确证据，具体范围与时序需区域资料细化。",
-      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
-      "connections": "冰盖范围变化改变水系与海岸线，进而影响生物迁移与后续人类活动的地理条件。",
-      "today": "作为古环境研究对象，其范围与消退时间由地质与湖泊沉积记录重建。年代与范围数据需按年份从 USGS/NASA 机构页核验。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='冰盖与冰川地貌示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 250 C 200 160 330 150 450 190 C 560 225 640 250 690 265' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M120 290 C 230 220 350 210 460 240' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='5 4'/><circle cx='200' cy='205' r='5' class='pt'/><text x='175' y='185' class='lbl'>冰体</text><circle cx='360' cy='175' r='5' class='pt'/><text x='330' y='155' class='lbl'>冰流</text><circle cx='560' cy='228' r='5' class='pt'/><text x='545' y='208' class='lbl'>冰碛</text><text x='40' y='370' class='dim'>示意图，非精确测绘</text></svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "north-america-x5927x5e73x539f",
@@ -84,7 +78,7 @@
       "region": "北美洲",
       "theme": "农业",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "大平原：草原广布，黑土带支撑大规模农业，历史上野牛群与游猎并存。",
       "time_or_place": "全新世至今",
       "overview": "草原广布，黑土带支撑大规模农业，历史上野牛群与游猎并存。",
@@ -100,7 +94,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -158,7 +152,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L2",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
       "definition": "落基山脉：北美西部主干山脉，影响降水分布与交通走向。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "北美西部主干山脉，影响降水分布与交通走向。",
@@ -175,7 +169,7 @@
         "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -363,7 +357,7 @@
       "region": "中美洲",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "definition": "奥尔梅克：中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
@@ -379,7 +373,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -400,7 +394,7 @@
       "region": "中美洲",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "玛雅文明：热带雨林中的城邦文明，历法、文字与天文学成就突出。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "热带雨林中的城邦文明，历法、文字与天文学成就突出。",
@@ -416,7 +410,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -573,7 +567,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页正文含主题关键词（NASA冰盖指标 / FAO山地伙伴 / OWID迁移 / USGS冰川），仅写来源可支撑的自然地理与人口内容；政权与年代细节留待专门史料，现状数值待按年份核验。",
+      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

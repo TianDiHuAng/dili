@@ -11,7 +11,7 @@
       "region": "西亚",
       "theme": "农业",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "两河流域：幼发拉底河与底格里斯河之间的冲积平原，灌溉农业与城市国家早期发源地之一。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "幼发拉底河与底格里斯河之间的冲积平原，灌溉农业与城市国家早期发源地之一。",
@@ -27,7 +27,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -214,7 +214,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
       "definition": "阿契美尼德波斯：横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
@@ -231,7 +231,7 @@
         "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：西亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "第4轮复核：西亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -315,36 +315,28 @@
       "unit_id": "asia",
       "region": "南亚",
       "theme": "农业",
-      "level": "L2",
-      "status": "L2完成(第2轮)",
-      "definition": "印度河文明：哈拉帕与摩亨佐达罗等城市规划发达，依赖印度河灌溉与贸易。",
+      "level": "L1",
+      "status": "D041合规降级L1(第15轮)",
+      "definition": "印度河文明：印度河及其支流沿岸的早期城市文明，以规划城市与灌溉农业著称。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "哈拉帕与摩亨佐达罗等城市规划发达，依赖印度河灌溉与贸易。",
+      "overview": "印度河及其支流沿岸的早期城市文明，以规划城市与灌溉农业著称。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
         "asia-x9ec4x6cb3x6d41x57df",
         "asia-x82cfx7f8ex5c14x57cex90a6"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "ap-human-geo"
+        "s010-unesco-org",
+        "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "第15轮 D041 合规检查：原 L2 仅以 4 个数据层别名页为来源，不符合「一专题页 + 一机构页」；现无可用印度河考古专题页（Livius 无对应分类、UNESCO WHC 403），降级 L1。待哈拉帕/摩亨佐达罗考古专题来源到位后再升级。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
-      "geo": "印度河文明分布于印度河及其支流沿岸，冲积平原与季风降水共同塑造农业与城市。洪水周期既带来肥沃沉积物，也要求复杂的排水与防洪安排。",
-      "influence": "较普遍的看法是，河流灌溉与平原农业支撑了哈拉帕、摩亨佐达罗等城市；城市规划与贸易网络反映较高的组织能力。文明衰落原因仍有争议，气候干旱与河流改道是主要假说之一。",
-      "polities": "与后来的吠陀时代政权不同，印度河文明的城市体系是否形成统一国家尚无定论，学界倾向谨慎表述。",
-      "connections": "印度河文明通过海上与陆路与美索不达米亚、中亚和印度洋沿岸交换铜、棉织品与奢侈品。",
-      "today": "印度河流域今天跨越巴基斯坦与印度，水资源分配与洪水管理仍具现实意义。具体数据待权威来源补齐。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='印度河文明示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>印度河文明</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "asia-x5420x9640x65f6x4ee3",
@@ -735,7 +727,7 @@
       "region": "东亚",
       "theme": "农业",
       "level": "L2",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
       "definition": "宋代：经济重心南移，稻作、海外贸易与城市商业显著发展。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "经济重心南移，稻作、海外贸易与城市商业显著发展。",
@@ -752,7 +744,7 @@
         "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1121,7 +1113,7 @@
       "region": "中亚",
       "theme": "贸易",
       "level": "L2",
-      "status": "L2完成(第2轮)",
+      "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "definition": "丝绸之路：陆上与海上网络连接中国、中亚、西亚与欧洲，商品与思想双向流动。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "陆上与海上网络连接中国、中亚、西亚与欧洲，商品与思想双向流动。",
@@ -1137,7 +1129,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

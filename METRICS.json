@@ -191,6 +191,21 @@
       "new_sources": 0,
       "sample_rate": "25%",
       "sample_audit": "首轮25%抽检10条：6 FAIL（来源换成机构首页/新闻页、3处越界残留）→整批返工：9条降级L1、保留2条并用NPS专题页重写→复核11/11 PASS；附条件4项已全部补齐（related语义、五大湖细节与五湖SVG、polities标题、台账）"
+    },
+    {
+      "round": 15,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 4,
+      "reviews": 36,
+      "fixes": 4,
+      "pending_total": 233,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：首轮5 PASS/5 FAIL（北美冰盖PDF门落户、山地农业门户首页、3条清单不符）→两轮返工（2降级+萨赫勒带换NASA专题+印度河降级+37条遗产L2标记）→三批复核；台账滞后已同步",
+      "note": "首次按 D041 准入规则升级：专题页正文须含主题关键词"
     }
   ]
 }

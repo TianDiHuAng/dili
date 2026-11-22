@@ -52,7 +52,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Population Prospects",
-      "note": "curl 实测 HTTP 200；页面标题：World Population Prospects；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：World Population Prospects；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：首页为 JS 壳（正文约 26 字符），仅作机构入口，不含数据正文。"
     },
     {
       "id": "s005-who-int",
@@ -143,7 +143,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Climate action | UNESCO",
-      "note": "curl 实测 HTTP 200；页面标题：Climate action | UNESCO；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Climate action | UNESCO；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：存在间歇性 connection reset（3 次 curl 中 2 次失败），间歇可达，不作内容依据。"
     },
     {
       "id": "s012-fao-org",
@@ -494,7 +494,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Earth Observatory - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Earth Observatory - NASA Science；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Earth Observatory - NASA Science；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：/features 与根路径均跳转至 science.nasa.gov/earth/earth-observatory/，专题正文不再在该 URL 提供，按机构页级别使用。"
     },
     {
       "id": "s039-climate-nasa-gov",
@@ -507,7 +507,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Climate Change - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Climate Change - NASA Science；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Climate Change - NASA Science；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：现跳转至 science.nasa.gov/climate-change/，标题一致。"
     },
     {
       "id": "s040-science-nasa-gov",
@@ -754,7 +754,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Development Topics | World Bank Group",
-      "note": "curl 实测 HTTP 200；页面标题：Development Topics | World Bank Group；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Development Topics | World Bank Group；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：现 301 至 worldbank.org/ext/en/development-topics，为泛化 topics 索引，内容已漂，不用于具体专题断言。"
     },
     {
       "id": "s059-worldbank-org",
@@ -1079,7 +1079,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Soil data | Global Soil Partnership | FAO",
-      "note": "curl 实测 HTTP 200；页面标题：Soil data | Global Soil Partnership | FAO；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Soil data | Global Soil Partnership | FAO；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：现跳转至 fao.org/global-soil-partnership/soil-data/en，标题一致；mountain 命中 0，不用于山地条目。"
     },
     {
       "id": "s084-fao-org",
@@ -2236,7 +2236,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "AQUASTAT - FAO's Global Information System on Water and Agriculture",
-      "note": "curl 实测 HTTP 200；页面标题：AQUASTAT - FAO's Global Information System on Water and Agriculture；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：AQUASTAT - FAO's Global Information System on Water and Agriculture；年份未标注。 第15轮核验补充：现跳转至 /countries-and-basins/index.html，为流域目录页，无单流域正文。"
     },
     {
       "id": "noaa-glerl",
@@ -2418,7 +2418,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Ice Sheets - Earth Indicator - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Ice Sheets - Earth Indicator - NASA Science；正文 275446 字节；第15轮按 D041 规则用于专题支撑。"
+      "note": "curl 实测 HTTP 200；页面标题：Ice Sheets - Earth Indicator - NASA Science；正文 275446 字节；第15轮按 D041 规则用于专题支撑。 第15轮核验补充：现跳转至 science.nasa.gov/earth/explore/earth-indicators/ice-sheets/，标题一致；正文含 greenland/ice sheet 关键词，可作专题支撑。"
     },
     {
       "id": "fao-mountain-partnership",
@@ -2431,7 +2431,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Home | Mountain Partnership | Food and Agriculture Organization of the United Nations",
-      "note": "curl 实测 HTTP 200；页面标题：Home | Mountain Partnership | Food and Agriculture Organization of the United Nations；正文 103211 字节；第15轮按 D041 规则用于专题支撑。"
+      "note": "curl 实测 HTTP 200；页面标题：Home | Mountain Partnership | Food and Agriculture Organization of the United Nations；正文 103211 字节；第15轮按 D041 规则用于专题支撑。 第15轮核验补充：该页为 Mountain Partnership 门户首页，关键词命中来自导航与新闻标题，不满足 D041 专题页要求，未用于升级。"
     },
     {
       "id": "owid-migration",
@@ -2457,7 +2457,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Glaciers: Clues to Future Climate [USGS]",
-      "note": "curl 实测 HTTP 200；页面标题：Glaciers: Clues to Future Climate [USGS]；正文 4962 字节；第15轮按 D041 规则用于专题支撑。"
+      "note": "curl 实测 HTTP 200；页面标题：Glaciers: Clues to Future Climate [USGS]；正文 4962 字节；第15轮按 D041 规则用于专题支撑。 第15轮核验补充：该页为 PDF 下载门落户（正文仅冰川定义），不满足 D041 专题页要求，未用于升级。"
     }
   ]
 }
