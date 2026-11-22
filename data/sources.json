@@ -3966,6 +3966,45 @@
       "verified": true,
       "page_title": "World Bank API — 森林覆盖率 (AG.LND.FRST.ZS, 日本)",
       "note": "JSON API 200；国家 JPN（日本）＋指标 AG.LND.FRST.ZS；最新值 68.3407407407407（2024 年）。"
+    },
+    {
+      "id": "usgs-eq-m6",
+      "title": "USGS Earthquake Catalog — M6+ events, 2025 (GeoJSON)",
+      "author": "USGS",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2025-01-01&endtime=2025-12-31&minmagnitude=6&limit=500",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "USGS Earthquake Catalog — M6+ events, 2025 (GeoJSON)",
+      "note": "JSON API 200；2025 年 1–12 月 M≥6 事件 144 次（features 计数）；数值随查询时刻变化（USGS/NOAA 为实时目录），以查询返回为准。"
+    },
+    {
+      "id": "noaa-current-stations",
+      "title": "NOAA CO-OPS — Currents Station Metadata (JSON)",
+      "author": "NOAA",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations.json?type=currents",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "NOAA CO-OPS — Currents Station Metadata (JSON)",
+      "note": "JSON API 200；返回 84 个洋流观测站（stations 数组长度）；数值随查询时刻变化（USGS/NOAA 为实时目录），以查询返回为准。"
+    },
+    {
+      "id": "wb-wld-pm25",
+      "title": "World Bank API — PM2.5 air pollution, mean annual exposure (EN.ATM.PM25.MC.M3, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/EN.ATM.PM25.MC.M3?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — PM2.5 air pollution, mean annual exposure (EN.ATM.PM25.MC.M3, 全球)",
+      "note": "JSON API 200；2023 年 32.87 μg/m³（全球人口加权年均暴露）；数值随查询时刻变化（USGS/NOAA 为实时目录），以查询返回为准。"
     }
   ]
 }

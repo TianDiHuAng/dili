@@ -1,0 +1,123 @@
+{
+  "round": 30,
+  "rows": [
+    {
+      "topic": "宋代",
+      "url": "https://www.openstax.org/books/world-history-volume-1/pages/13-1-song-dynasty",
+      "http": 404,
+      "len": 10,
+      "hits": 0,
+      "reason": "HTTP 404",
+      "json": false
+    },
+    {
+      "topic": "宋代",
+      "url": "https://www.livius.org/articles/place/china/",
+      "http": 404,
+      "len": 524,
+      "hits": 0,
+      "reason": "HTTP 404",
+      "json": false
+    },
+    {
+      "topic": "宋代",
+      "url": "https://www.metmuseum.org/toah/hd/nsong/hd_nsong.htm",
+      "http": 0,
+      "len": 0,
+      "hits": 0,
+      "reason": "内容过短 0",
+      "json": false
+    },
+    {
+      "topic": "宋代",
+      "url": "https://www.archives.gov/research/",
+      "http": 200,
+      "len": 1233,
+      "hits": 0,
+      "reason": "命中 0",
+      "json": false
+    },
+    {
+      "topic": "宋代",
+      "url": "https://openstax.org/details/books/world-history-volume-1",
+      "http": 200,
+      "len": 10,
+      "hits": 0,
+      "reason": "内容过短 10",
+      "json": false
+    },
+    {
+      "topic": "板块构造",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2025-01-01&endtime=2025-12-31&minmagnitude=6&limit=20",
+      "http": 200,
+      "len": 17467,
+      "hits": 2,
+      "reason": "达标",
+      "json": true
+    },
+    {
+      "topic": "板块构造",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/count?format=geojson&starttime=2025-01-01&endtime=2025-12-31",
+      "http": 200,
+      "len": 190,
+      "hits": 1,
+      "reason": "内容过短 190",
+      "json": true
+    },
+    {
+      "topic": "洋流",
+      "url": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations.json?type=currents",
+      "http": 200,
+      "len": 102316,
+      "hits": 421,
+      "reason": "达标",
+      "json": true
+    },
+    {
+      "topic": "河流三角洲",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/AG.LND.IRIG.AG.ZS?format=json&per_page=100&date=2015:2025",
+      "http": 200,
+      "len": 2699,
+      "hits": 44,
+      "reason": "达标",
+      "json": true
+    },
+    {
+      "topic": "气候带",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/AG.LND.ARBL.ZS?format=json&per_page=100&date=2015:2025",
+      "http": 200,
+      "len": 2444,
+      "hits": 44,
+      "reason": "达标",
+      "json": true
+    },
+    {
+      "topic": "季风系统",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/AG.LND.CROP.ZS?format=json&per_page=100&date=2015:2025",
+      "http": 200,
+      "len": 2530,
+      "hits": 55,
+      "reason": "达标",
+      "json": true
+    },
+    {
+      "topic": "沙尘暴",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/EN.ATM.PM25.MC.M3?format=json&per_page=100&date=2015:2025",
+      "http": 200,
+      "len": 2937,
+      "hits": 44,
+      "reason": "达标",
+      "json": true
+    },
+    {
+      "topic": "荒漠化",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/AG.LND.FRST.ZS?format=json&per_page=100&date=2015:2025",
+      "http": 200,
+      "len": 2443,
+      "hits": 44,
+      "reason": "达标",
+      "json": true
+    }
+  ],
+  "usable": 7
+}

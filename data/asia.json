@@ -737,7 +737,7 @@
         "wb-chn-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但**逐词核对为噪声**：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条**不构成实证复核、不判达标**。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。",
+      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但**逐词核对为噪声**：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条**不构成实证复核、不判达标**。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

@@ -23,10 +23,11 @@
       "sources": [
         "usgs-plate-motions",
         "usgs-dynamic-earth",
-        "usgs-eq-api"
+        "usgs-eq-api",
+        "usgs-eq-m6"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。 【第24轮数据端点】新增 usgs-eq-api（USGS 地震目录 API 提供事件时刻与震级字段），用于按年份核对数值口径；本条正文未写入具体数值。  【第27轮实证复核·板块构造】本条正则 plate tectonic（英文源用英文正则，D070）；usgs-plate-motions=200/正文17121字符/本条命中1；usgs-dynamic-earth=200/正文2123字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文17121、命中1）。缺口为「板块构造」主题专题页。",
+      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。 【第24轮数据端点】新增 usgs-eq-api（USGS 地震目录 API 提供事件时刻与震级字段），用于按年份核对数值口径；本条正文未写入具体数值。  【第27轮实证复核·板块构造】本条正则 plate tectonic（英文源用英文正则，D070）；usgs-plate-motions=200/正文17121字符/本条命中1；usgs-dynamic-earth=200/正文2123字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文17121、命中1）。缺口为「板块构造」主题专题页。 【第30轮现状数据】today 填入 usgs-eq-m6 实测值（全球口径，含年份或查询时点说明；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -37,7 +38,7 @@
       "influence": "该理论统一解释了山脉、海沟与地震带的分布，是现代地质学的基础框架；具体区域演化史仍需实测资料，属科学理论而非价值判断。",
       "polities": "该理论不涉及政权更替；相关学科通过观测网络与国际合作计划发展。",
       "connections": "板块运动把地震带、火山弧与大洋盆地连成整体，影响资源分布与灾害风险。",
-      "today": "板块运动速率与地震监测数据需按年份从 USGS 机构页核验。",
+      "today": "来源：USGS 地震目录 API（M≥6 事件，2025年 1–12 月）：全年记录到 144 次 M6 及以上地震。地震集中于板块边界，可作为板块运动活跃度的观测指标；目录为实时更新，数值随查询时刻变化。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='板块构造示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>板块构造</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -128,10 +129,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "noaa-current-stations"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核·洋流】本条正则 ocean current|gyre|current：un-m49（UNSD M49 概述页）实测 200 / 正文 144945 字符 / 命中 0；wikipedia-regions（UNSDG 入口）实测 200 / 正文 5 字符 / 命中 0。两源均非洋流专题，D055 未达标；所需专题页为「洋流机制正文页」（NOAA/NASA 渠道待试 API 或 PDF）。 【第25轮实证复核·洋流】本条正则 ocean current|gyre。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「洋流」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为洋流主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核·洋流】本条正则 ocean current|gyre|current：un-m49（UNSD M49 概述页）实测 200 / 正文 144945 字符 / 命中 0；wikipedia-regions（UNSDG 入口）实测 200 / 正文 5 字符 / 命中 0。两源均非洋流专题，D055 未达标；所需专题页为「洋流机制正文页」（NOAA/NASA 渠道待试 API 或 PDF）。 【第25轮实证复核·洋流】本条正则 ocean current|gyre。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「洋流」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为洋流主题专题页。 【第30轮现状数据】today 填入 noaa-current-stations 实测值（全球口径，含年份或查询时点说明；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -142,7 +144,7 @@
       "influence": "洋流再分配热量与营养盐，影响沿岸气候与渔场。气候效应重要，但与大气环流、地形共同作用，不能单因解释。",
       "polities": "海洋观测与航运依赖国际协作，航线与海底设施受海流影响；具体制度与年代待专门来源核验。",
       "connections": "洋流连接各大洋，把热量、碳与生物幼体输送到远距离海域。",
-      "today": "环流变化与海洋热含量是当前研究重点。流速与温度数据待按年份核验。",
+      "today": "来源：NOAA CO-OPS 洋流观测站元数据 API（2025年查询）：当前登记 84 个洋流观测站。站点分布不均（以美国沿岸为主），全球洋流场的估算需结合卫星高度计与浮标阵列数据。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='洋流示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>洋流</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -1242,10 +1244,11 @@
       ],
       "sources": [
         "s046-earthobservatory-nasa-gov",
-        "s045-earthobservatory-nasa-gov"
+        "s045-earthobservatory-nasa-gov",
+        "wb-wld-pm25"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s046 标题含 dust/Sahel，剥离后 10329 字符、dust|sahel 命中 29）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·沙尘暴】本条正则 dust|sandstorm（英文源用英文，D070）；s046-earthobservatory-nasa-gov=200/正文10327字符/本条命中20；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中0。档位判定：档②/③8000。证据分开：s046（NASA Dust Bowl-to-Sahel）=200/正文10327/命中20（档②门槛8000，正文达标且命中≥3 → 本条达标依据）；s045（NASA Desertification）=200/正文22413/命中0（本条正则未命中，不构成依据）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s046 标题含 dust/Sahel，剥离后 10329 字符、dust|sahel 命中 29）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·沙尘暴】本条正则 dust|sandstorm（英文源用英文，D070）；s046-earthobservatory-nasa-gov=200/正文10327字符/本条命中20；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中0。档位判定：档②/③8000。证据分开：s046（NASA Dust Bowl-to-Sahel）=200/正文10327/命中20（档②门槛8000，正文达标且命中≥3 → 本条达标依据）；s045（NASA Desertification）=200/正文22413/命中0（本条正则未命中，不构成依据）。 【第30轮现状数据】today 填入 wb-wld-pm25 实测值（全球口径，含年份或查询时点说明；已声明指标局限）。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
@@ -1254,7 +1257,7 @@
       "influence": "沙尘输送可以跨洲，既影响空气质量与交通，也把矿物质带入下游生态系统。影响强度取决于源区状况与大气环流。",
       "polities": "本条不展开政权序列；跨境沙尘监测与预警属区域合作议题。",
       "connections": "沙尘把干旱区与海洋、城市连接起来，是全球物质循环的一部分。",
-      "today": "预报与监测网络已覆盖主要源区。起沙频率与输送量需按年份从 NASA/NOAA 机构页核验。",
+      "today": "来源：世界银行 API（指标 EN.ATM.PM25.MC.M3，细颗粒物年均暴露）：全球 2023年约 32.87 μg/m³。该指标是空气污染总体暴露，**不等于沙尘浓度**；沙尘贡献需依靠气溶胶组分与源区观测区分。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>沙尘暴 · 简笔示意，非精确测绘</text></svg>"
     },
     {
