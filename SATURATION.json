@@ -405,5 +405,18 @@
       "result": "非饱和"
     }
   ],
-  "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。"
+  "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
+  "blocked": true,
+  "blocked_reason": "外部来源渠道阻塞：Wikipedia/Britannica/DBpedia(abstract空)/Met/Smithsonian/UNESCO WHC/GBRMPA 均不可达，仅 Wikidata 可用且为众包单源，无法满足 TASK 要求的「两个独立来源互证」。该条件自第 8 轮持续至第 33 轮（约 25 轮）未解除，导致重要 L1 64 条、核心 L1 1 条、遗产 L2 32 条无法继续升级。",
+  "final_state": {
+    "rounds_completed": 33,
+    "entries": 243,
+    "L2": 91,
+    "sources": 338,
+    "core_l2": "43/44",
+    "important_l2": "40/104",
+    "single_source_pending": 18,
+    "saturated": false,
+    "goal_achieved": false
+  }
 }

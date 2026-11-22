@@ -89,3 +89,28 @@
 - 计量口径错误：一度把 PDF「解压流字节和 284151」当作正文长度（真值：可提取正文 16844 字符 / 命中 31），已按 D064 修正并如实记录两种提取口径。
 - 表述错误：曾称"第15轮把 PDF 误判为门落户"，实为第15轮对 **HTML 入口页**的判定成立，本轮是首次探测 PDF 本体。已改回。
 - probe_round24.py 对二进制做 UTF-8 解码导致 PDF 字节失真（440010 vs 777779）、IPCC 被误判不可用 → 结论应为 8/9 而非 7/9，已记录。
+
+## 结构性阻塞（连续 20+ 轮未解除，2026-11-22 记录）
+**现象**：核心/重要条目无法继续升级 L2，因无法取得第二独立来源。
+
+**长期受阻的渠道（实测状态）**：
+- Wikipedia（en/zh）：连接无响应（000）
+- Britannica：403（Cloudflare）
+- DBpedia：HTTP 200 可达，但英文 abstract 字段为空；内容派生自 Wikipedia，不构成独立来源
+- Met Museum TOAH / Smithsonian / Library of Congress / UNESCO WHC：403 或 000
+- GBRMPA / AIMS / BAS：连接超时
+- Khan Academy / OpenLearn / World History Encyclopedia：200 但为挑战页
+- FAO 流域剖面页、USGS 专题页：404（站点迁移）
+
+**唯一可用渠道**：Wikidata API（结构化 claims）——但属众包数据，按 TASK 规则只能作双源之一，且其
+实体描述常与属性值自相矛盾（如古埃及新王国描述 1570–1069 vs 属性 1550/1070；库什描述 c.1070 vs P571 2180）。
+
+**后果**：
+- 18 条条目（5 核心 + 13 重要）标为「单源待互证」
+- 重要 L1 仍 64 条、核心 L1 1 条、遗产 L2 32 条（来源为 UNSD/UNSDG 别名级）
+- 未达「核心/重要全部 L2」的目标，也未达「连续 3 轮零缺口」的饱和条件
+
+**建议的解除方式**（需本环境之外的协助）：
+1. 提供可达的学术数据库或机构专题页（JSTOR、Project MUSE、Britannica API、机构 OA 全文）
+2. 或提供离线来源包（PDF/HTML 入库后本机可核验）
+3. 或允许使用 Wikidata 单源并降低双源要求（需修改 TASK_geo.md 的规则）
