@@ -10,6 +10,19 @@
       "check_result": "ERRORS=0 ALL_PASS",
       "link_result": "BROKEN=0 LINKS_PASS",
       "new_sources": 163
+    },
+    {
+      "round": 2,
+      "date": "2026-11-22",
+      "new_entries": 8,
+      "upgrades": 24,
+      "reviews": 8,
+      "fixes": 0,
+      "pending_total": 175,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_audit": "初次抽检5条：1条FAIL（东亚季风无源年代+决定论表述）→整批返工7条→复核7/7 PASS，整批合格；下一轮抽检比例提高到25%"
     }
   ]
 }

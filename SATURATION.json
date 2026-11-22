@@ -1,12 +1,24 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 1,
+  "last_round": 2,
   "history": [
     {
       "round": 1,
       "methods_used": [],
       "gaps_found": "未运行 AUTONOMOUS 缺口发现（搭建轮）",
+      "result": "非饱和"
+    },
+    {
+      "round": 2,
+      "methods_used": [
+        "B2覆盖矩阵",
+        "B3悬空引用",
+        "B4读者问题",
+        "B5待核实清单",
+        "B7深度缺口"
+      ],
+      "gaps_found": 152,
       "result": "非饱和"
     }
   ],
