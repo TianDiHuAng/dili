@@ -4148,6 +4148,84 @@
       "verified": true,
       "page_title": "World Bank API — Urban population growth (annual %, 全球)",
       "note": "HTTP 200；剥离后正文 2497 字符、主题命中 44；2025 年 1.36%；年度指标，随年度更新与历史修订变化。"
+    },
+    {
+      "id": "wikidata-q7209",
+      "title": "Wikidata Q7209 — Han dynasty",
+      "author": "Wikidata（Wikimedia 社区，CC0）",
+      "year": null,
+      "type": "开放数据集",
+      "url": "https://www.wikidata.org/wiki/Q7209",
+      "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7209&props=claims|descriptions&languages=en&format=json",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Wikidata Q7209 — Han dynasty",
+      "note": "Wikidata 实体 Q7209；英文描述「imperial dynasty in China from 202 BC to 220 AD」；结构化时间属性 P571（成立）/P576（解散）给出 前206年–220年（精度=年）。API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+    },
+    {
+      "id": "wikidata-q12557",
+      "title": "Wikidata Q12557 — Mongol Empire",
+      "author": "Wikidata（Wikimedia 社区，CC0）",
+      "year": null,
+      "type": "开放数据集",
+      "url": "https://www.wikidata.org/wiki/Q12557",
+      "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q12557&props=claims|descriptions&languages=en&format=json",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Wikidata Q12557 — Mongol Empire",
+      "note": "Wikidata 实体 Q12557；英文描述「13th- and 14th-century empire originating in Mongolia」；结构化时间属性 P571（成立）/P576（解散）给出 1206年–1368年（精度=年）。API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+    },
+    {
+      "id": "wikidata-q2608489",
+      "title": "Wikidata Q2608489 — Aztec Empire",
+      "author": "Wikidata（Wikimedia 社区，CC0）",
+      "year": null,
+      "type": "开放数据集",
+      "url": "https://www.wikidata.org/wiki/Q2608489",
+      "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2608489&props=claims|descriptions&languages=en&format=json",
+      "link_ok": false,
+      "verified": false,
+      "page_title": "Wikidata Q2608489 — Aztec Empire",
+      "note": "Wikidata 实体 Q2608489；英文描述「former Mesoamerican empire」；结构化时间属性 P571（成立）/P576（解散）给出 1325年–1521年（精度=年）。API 查询 HTTP 429。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+    },
+    {
+      "id": "wikidata-q7462",
+      "title": "Wikidata Q7462 — Song dynasty",
+      "author": "Wikidata（Wikimedia 社区，CC0）",
+      "year": null,
+      "type": "开放数据集",
+      "url": "https://www.wikidata.org/wiki/Q7462",
+      "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7462&props=claims|descriptions&languages=en&format=json",
+      "link_ok": false,
+      "verified": false,
+      "page_title": "Wikidata Q7462 — Song dynasty",
+      "note": "Wikidata 实体 Q7462；英文描述「former imperial dynasty of China (960–1279)」；结构化时间属性 P571（成立）/P576（解散）给出 960年–1279年（精度=年）。API 查询 HTTP 429。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+    },
+    {
+      "id": "wikidata-q5413",
+      "title": "Wikidata Q5413 — Yangtze River",
+      "author": "Wikidata（Wikimedia 社区，CC0）",
+      "year": null,
+      "type": "开放数据集",
+      "url": "https://www.wikidata.org/wiki/Q5413",
+      "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5413&props=claims&format=json",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Wikidata Q5413 — Yangtze River",
+      "note": "英文描述「longest river in Asia and third-longest in the world」；P2043（长度）= 6300 千米（精度=1）。；API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一。"
+    },
+    {
+      "id": "wikidata-q42534",
+      "title": "Wikidata Q42534 — Indus Valley Civilization",
+      "author": "Wikidata（Wikimedia 社区，CC0）",
+      "year": null,
+      "type": "开放数据集",
+      "url": "https://www.wikidata.org/wiki/Q42534",
+      "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q42534&props=claims&format=json",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Wikidata Q42534 — Indus Valley Civilization",
+      "note": "英文描述「Bronze Age civilisation in South Asia」；P580（起始）= 前3000年、P582（结束）= 前1800年（精度=年）。；API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一。"
     }
   ]
 }

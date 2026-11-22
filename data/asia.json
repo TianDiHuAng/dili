@@ -313,31 +313,36 @@
       "unit_id": "asia",
       "region": "南亚",
       "theme": "农业",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "印度河文明：印度河及其支流沿岸的早期城市文明，以规划城市与灌溉农业著称。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "印度河及其支流沿岸的早期城市文明，以规划城市与灌溉农业著称。",
+      "level": "L2",
+      "status": "L2完成(第32轮)-Wikidata",
+      "definition": "印度河文明：南亚青铜时代文明，据 Wikidata 记录约为公元前 3000 年至前 1800 年。",
+      "time_or_place": "约前3000年–前1800年（Wikidata P580/P582，精度=年）",
+      "overview": "南亚青铜时代文明，据 Wikidata 记录约为公元前 3000 年至前 1800 年。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
         "asia-x9ec4x6cb3x6d41x57df",
         "asia-x82cfx7f8ex5c14x57cex90a6"
       ],
       "sources": [
-        "s010-unesco-org",
+        "wikidata-q42534",
         "s013-fao-org",
-        "wb-ind-pop",
-        "wb-pak-pop"
+        "wb-pak-pop",
+        "wb-ind-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮 D041 合规检查：原 L2 仅以 4 个数据层别名页为来源，不符合「一专题页 + 一机构页」；现无可用印度河考古专题页（Livius 无对应分类、UNESCO WHC 403），降级 L1。待哈拉帕/摩亨佐达罗考古专题来源到位后再升级。 【第19轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第20轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
+      "pending_notes": "第32轮升级：年代（约前3000–前1800年）来自 Wikidata Q42534 的 P580/P582（精度=年）；FAO AQUASTAT 作机构背景、世界银行作现状端点。学界对年代上限与衰落原因有不同表述，已并列注明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22",
-      "today": "以巴基斯坦与印度为例，来源：世界银行 API。巴基斯坦总人口 255,219,554 人（2025年）（SP.POP.TOTL）、印度 1,463,865,525（2025年）（同指标）。印度河流域今天的水资源分配与灌溉数据待专门统计与条约文件核验。上述为两国全国口径数据，仅示量级，不代表本条目所述区域的内部差异。"
+      "today": "以巴基斯坦与印度为例，来源：世界银行 API。巴基斯坦总人口 251,269,164 人（2025年）（SP.POP.TOTL）、印度 1,463,865,525 人（同指标）。上述为两国全国口径，仅示量级；印度河流域今天的水资源分配与灌溉数据需专门统计与条约文件核验。",
+      "geo": "分布于印度河及其支流沿岸的冲积平原，另有季节河与沿海遗址。季风降水与河流洪水共同塑造农业条件，洪水既带来肥沃沉积物也要求排水与防洪安排。",
+      "influence": "河流灌溉支撑城市与人口集中，城市规划与排水设施反映较高的组织能力。文明衰落的原因存在多种解释（气候干旱、河流改道、贸易变化），学界尚无定论。",
+      "polities": "据 Wikidata 记录，该文明约为前 3000 年至前 1800 年（精度=年）；学界对起始与成熟期年代有不同表述。是否形成统一国家尚无定论，城市体系的治理形态待专门考古研究核验。",
+      "connections": "通过海上与陆路与美索不达米亚、中亚及印度洋沿岸交换铜、棉织品与奢侈品，是早期跨区域贸易网络的一环。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 160 C 200 140 300 200 420 220 C 520 236 620 250 690 280' fill='none' stroke='var(--accent)' stroke-width='5'/><path d='M200 120 L240 320' fill='none' stroke='var(--accent2)' stroke-width='4'/><circle cx='240' cy='200' r='6' class='pt'/><text x='250' y='200' class='lbl'>河谷</text><circle cx='460' cy='250' r='6' class='pt'/><text x='470' y='250' class='lbl'>平原</text><text x='40' y='370' class='dim'>印度河文明 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x5420x9640x65f6x4ee3",
@@ -506,29 +511,37 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "农业",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "长江流域：长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
-      "time_or_place": "长江流域（农业与城市密集区）",
-      "overview": "长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
+      "level": "L2",
+      "status": "L2完成(第32轮)-Wikidata",
+      "definition": "长江流域：长江干流及其支流覆盖的区域，据 Wikidata 记录长江全长约 6300 千米，为亚洲最长河流。",
+      "time_or_place": "长江全长约6300千米（Wikidata P2043）",
+      "overview": "长江干流及其支流覆盖的区域，据 Wikidata 记录长江全长约 6300 千米，为亚洲最长河流。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
         "asia-x5370x5ea6x6cb3x6587x660e",
         "asia-x82cfx7f8ex5c14x57cex90a6"
       ],
       "sources": [
+        "wikidata-q5413",
         "fao-aquastat-basins",
-        "s022-ourworldindata-org",
-        "s014-fao-org"
+        "wb-chn-pop",
+        "wb-chn-urban",
+        "wb-chn-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius 无东亚流域专题，FAO AQUASTAT 仍为背景来源；维持 L1。 【第19轮复核】东亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。",
+      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "流域自青藏高原发源，经四川盆地、长江中下游平原注入东海，跨越高原、盆地与平原多种地貌。水量丰沛、湖泊与支流众多，中下游形成密集水网与洪泛平原。",
+      "influence": "水运条件降低大宗物资运输成本，冲积平原与稻作条件支撑人口密集。流域水利与国家治理互为条件，地理条件提供基础，制度与技术在决定性环节同样关键。",
+      "polities": "本条不展开具体政权序列；流域内的政治整合与行政沿革待专门史学来源核验。",
+      "connections": "通过大运河与黄河流域整合，通过长江口与沿海港口连接海上贸易网络，形成内陆—沿海双重联系。",
+      "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000 人（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 6.7%（2025年）（NV.AGR.TOTL.ZS）。上述为全国口径，仅示量级；流域内人口、径流量与水质数据需专门统计与遥感来源核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 160 C 200 140 300 200 420 220 C 520 236 620 250 690 280' fill='none' stroke='var(--accent)' stroke-width='5'/><path d='M300 200 C 330 250 360 300 380 350' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><circle cx='120' cy='155' r='6' class='pt'/><text x='100' y='135' class='lbl'>源区</text><circle cx='420' cy='220' r='6' class='pt'/><text x='400' y='200' class='lbl'>中游</text><circle cx='680' cy='278' r='6' class='pt'/><text x='620' y='262' class='lbl'>入海</text><text x='40' y='370' class='dim'>长江流域 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x4ef0x97f6x6587x5316",
@@ -656,29 +669,36 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "汉代：开拓丝绸之路，把中原与中亚、西亚连接起来。",
-      "time_or_place": "前202年—220年",
-      "overview": "开拓丝绸之路，把中原与中亚、西亚连接起来。",
+      "level": "L2",
+      "status": "L2完成(第32轮)-Wikidata年代",
+      "definition": "汉代：中国历史上的帝国王朝，据 Wikidata 结构化记录为公元前 206 年至公元 220 年。",
+      "time_or_place": "前206年–220年（Wikidata P571/P576，精度=年）",
+      "overview": "中国历史上的帝国王朝，据 Wikidata 结构化记录为公元前 206 年至公元 220 年。",
       "related": [
         "asia-x5e15x63d0x4e9ax5e1dx56fd",
         "asia-x8d35x971cx5e1dx56fd",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "wikidata-q7209",
+        "s010-unesco-org",
+        "wb-chn-pop",
+        "wb-chn-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Han 分类页、UNESCO Silk Roads 均无可用标题，维持 L1。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。",
+      "pending_notes": "第32轮升级：年代（前206–220年）来自 Wikidata Q7209 的结构化属性 P571/P576（精度=年），UNESCO Culture 作机构页、世界银行作现状数据端点。按 TASK 规则 Wikidata 仅为双源之一，帝系与年号待专门史学来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "帝国核心位于黄河中下游与关中平原，并向长江流域与河西走廊扩展。关中盆地与渭河平原提供农业基础，河西走廊是通往中亚的陆路通道。",
+      "influence": "关中与关东平原的农业支撑人口与财政，河西走廊的通道条件支撑向西的交通与驻防。地理条件是重要基础，但帝国扩张与维系同样依赖制度、军事与财政安排。",
+      "polities": "据 Wikidata 记录，汉代起于前 206 年、止于 220 年（精度到年）；其间分为西汉与东汉两段，中间有新朝中断。具体帝系、年号与制度演变待专门史学来源逐条核验。",
+      "connections": "通过河西走廊与中亚绿洲相连，通过南方港口与海上航线接触东南亚与印度洋；丝绸之路的陆海两段在此交汇。",
+      "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000 人（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；汉代疆域内的人口与经济数据属历史人口学议题，需专门研究核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>汉代 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x968bx5510",
@@ -1203,29 +1223,36 @@
       "unit_id": "asia",
       "region": "中亚",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "蒙古帝国：最大陆地帝国之一，驿站制度强化欧亚连通。",
-      "time_or_place": "1206—1368年",
-      "overview": "最大陆地帝国之一，驿站制度强化欧亚连通。",
+      "level": "L2",
+      "status": "L2完成(第32轮)-Wikidata年代",
+      "definition": "蒙古帝国：13 至 14 世纪起源于蒙古高原的跨欧亚帝国，据 Wikidata 记录为 1206 年至 1368 年。",
+      "time_or_place": "1206年–1368年（Wikidata P571/P576，精度=年）",
+      "overview": "13 至 14 世纪起源于蒙古高原的跨欧亚帝国，据 Wikidata 记录为 1206 年至 1368 年。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "wikidata-q12557",
+        "s010-unesco-org",
+        "wb-mng-pop",
+        "wb-mng-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Mongols 与 UNESCO Mongol Empire 页面不可核验，维持 L1。 【第20轮复核】中亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 D053：现有来源含壳别名（wikipedia-regions 约 5 字符）与门户首页（s075 AAG），均不构成独立正文依据。",
+      "pending_notes": "第32轮升级：年代（1206–1368年）来自 Wikidata Q12557 的 P571/P576（精度=年）；UNESCO Culture 作机构页、世界银行作现状数据端点。汗国分化后的年代待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "核心位于蒙古高原，草原环境支撑大规模牧养与骑兵机动。帝国扩展后覆盖华北、中亚、波斯与东欧平原，跨越多种生态带，交通与补给条件差异极大。",
+      "influence": "草原创牧经济与机动能力是扩张的重要条件，但跨欧亚的统治依赖驿站、分封与地方代理等制度安排。地理条件提供路径，制度决定其能否维持。",
+      "polities": "据 Wikidata 记录，帝国起于 1206 年、止于 1368 年（精度到年），其后分化为多个汗国。具体大汗世系、分封与各汗国年代待专门史学来源逐条核验。",
+      "connections": "驿站网络把东亚、中亚、波斯与东欧连成一体，商队、使节与技术沿此流动，是欧亚大陆首次大规模连通。",
+      "today": "以蒙古为例，来源：世界银行 API。总人口 3,568,978 人（2025年）（SP.POP.TOTL）、城市化率 71.1%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；帝国时期的人口与疆域估算属史学议题，需专门研究核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>蒙古帝国 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x5e16x6728x513fx5e1dx56fd",

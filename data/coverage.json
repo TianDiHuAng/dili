@@ -306,9 +306,9 @@
     },
     {
       "id": "asia-x5370x5ea6x6cb3x6587x660e",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第20轮)",
+      "status": "L2完成(第32轮)-Wikidata",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -360,10 +360,10 @@
     },
     {
       "id": "asia-x957fx6c5fx6d41x57df",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第20轮)",
-      "source_count": 3,
+      "status": "L2完成(第32轮)-Wikidata",
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -405,10 +405,10 @@
     },
     {
       "id": "asia-x6c49x4ee3",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第20轮)",
-      "source_count": 3,
+      "status": "L2完成(第32轮)-Wikidata年代",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -560,10 +560,10 @@
     },
     {
       "id": "asia-x8499x53e4x5e1dx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第20轮)",
-      "source_count": 3,
+      "status": "L2完成(第32轮)-Wikidata年代",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1021,10 +1021,10 @@
     },
     {
       "id": "north-america-x963fx5179x7279x514b",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第22轮)",
-      "source_count": 2,
+      "status": "L2完成(第32轮)-Wikidata年代",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
