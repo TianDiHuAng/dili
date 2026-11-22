@@ -13,7 +13,7 @@
       "level": "L2",
       "status": "L2完成(第2轮)（L2·内容已收敛至来源可支撑范围）",
       "definition": "南极大陆：冰盖覆盖的大陆，气候极端，无永久居民。",
-      "time_or_place": "约中生代至今",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "冰盖覆盖的大陆，气候极端，无永久居民。",
       "related": [
         "antarctica-x5357x6781x534ax5c9b",
@@ -27,7 +27,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 标记】【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 标记】【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -80,7 +80,7 @@
       "level": "L1",
       "status": "骨架",
       "definition": "横贯南极山脉：把南极分为东南与西南两部分，冰川穿切。",
-      "time_or_place": "约古生代至今",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "把南极分为东南与西南两部分，冰川穿切。",
       "related": [
         "antarctica-x5357x6781x5927x9646",
@@ -92,7 +92,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约古生代至今」无专门来源支撑，已收敛为待核表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -107,7 +107,7 @@
       "region": "南极洲",
       "theme": "气候",
       "level": "L2",
-      "status": "L2合规换源(第22轮)",
+      "status": "L2·配对说明(第22轮)",
       "definition": "南极冰盖：覆盖南极大陆的大陆冰体，其质量变化影响全球海平面。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "覆盖南极大陆的大陆冰体，其质量变化影响全球海平面。",
@@ -121,7 +121,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：用 NASA『Ice Sheets』指标页作专题页（8612/14，档②达标），Earth Observatory 作机构页。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。",
+      "pending_notes": "第22轮换源转正：专题页 NASA『Ice Sheets』指标页（剥离后 8612 字符、命中 14，D055 档② 门槛 8000，余量较薄）；第二来源 s038 为 Earth Observatory 门户首页（剥离后 7143 字符、命中 1），无正文，仅作机构入口，不构成独立依据（D053）。冰盖质量与海平面数据待按年份从 NASA 机构页核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

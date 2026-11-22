@@ -849,7 +849,7 @@
       "level": "L1",
       "status": "骨架",
       "definition": "欧洲冰期地貌：冰川侵蚀塑造峡湾、湖泊与冰碛地貌。",
-      "time_or_place": "约260万年前至今",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "冰川侵蚀塑造峡湾、湖泊与冰碛地貌。",
       "related": [
         "europe-x610fx5927x5229x534ax5c9b",
@@ -861,7 +861,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约260万年前至今」无专门来源支撑，已收敛为待核表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

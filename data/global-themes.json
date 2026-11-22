@@ -11,7 +11,7 @@
       "region": "全球",
       "theme": "地形",
       "level": "L2",
-      "status": "L2合规换源(第22轮)",
+      "status": "L2·配对说明(第22轮)",
       "definition": "板块构造：把岩石圈划分为运动板块的理论，用以解释地震、火山与造山的分布。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "把岩石圈划分为运动板块的理论，用以解释地震、火山与造山的分布。",
@@ -25,7 +25,7 @@
         "usgs-dynamic-earth"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：用 USGS『Understanding plate motions』作专题页（17121/86），USGS 地震台网作机构页；五段按边界类型与理论作用重写。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。 第二来源改为 USGS《This Dynamic Earth》系列目录页（同机构入口）；原 s056（站点迁移通告，0 命中）已移除。D053：第二条为同站系列入口，不构成独立正文。",
+      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -222,7 +222,7 @@
       "level": "L2",
       "status": "L2完成(第2轮)（L2·内容已收敛至来源可支撑范围）",
       "definition": "河流三角洲：河流入海处沉积地貌，常成为农业与城市密集区。",
-      "time_or_place": "全新世",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "河流入海处沉积地貌，常成为农业与城市密集区。",
       "related": [
         "global-themes-x677fx5757x6784x9020",
@@ -236,7 +236,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 标记】【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 标记】【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世」无专门来源支撑，已收敛为待核表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

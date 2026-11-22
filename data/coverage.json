@@ -910,7 +910,7 @@
       "id": "north-america-x5317x7f8ex51b0x76d6",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第17轮)·换源(第17轮二次)",
+      "status": "已复核(第22轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1022,7 +1022,7 @@
       "id": "north-america-x963fx5179x7279x514b",
       "level": "L1",
       "tier": "核心",
-      "status": "来源探测未通过(第8轮)",
+      "status": "已复核(第22轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1317,7 +1317,7 @@
       "id": "oceania-x65b0x897fx5170x5317x5c9b",
       "level": "L1",
       "tier": "重要",
-      "status": "骨架",
+      "status": "已复核(第22轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1326,7 +1326,7 @@
       "id": "oceania-x65b0x897fx5170x5357x5c9b",
       "level": "L1",
       "tier": "重要",
-      "status": "骨架",
+      "status": "已复核(第22轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1455,7 +1455,7 @@
       "id": "antarctica-x5357x6781x51b0x76d6",
       "level": "L2",
       "tier": "核心",
-      "status": "L2合规换源(第22轮)",
+      "status": "L2·配对说明(第22轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1528,7 +1528,7 @@
       "id": "global-themes-x677fx5757x6784x9020",
       "level": "L2",
       "tier": "核心",
-      "status": "L2合规换源(第22轮)",
+      "status": "L2·配对说明(第22轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"

@@ -546,7 +546,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Tropical Deforestation - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Tropical Deforestation - NASA Science；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Tropical Deforestation - NASA Science；页面未标注统一年份，年份留空不做推定。 第22轮核验：剥离后正文 46123 字符、tropical|deforest 命中 289（D050 口径）。"
     },
     {
       "id": "s043-earthobservatory-nasa-gov",
@@ -2188,7 +2188,7 @@
     },
     {
       "id": "usgs-dynamic-earth",
-      "title": "This Dynamic Earth: The Story of Plate Tectonics",
+      "title": "This Dynamic Earth--Contents [USGS]",
       "author": "U.S. Geological Survey",
       "year": null,
       "type": "官方机构",
@@ -2197,7 +2197,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "This Dynamic Earth--Contents [USGS]",
-      "note": "curl 实测 HTTP 200；页面标题：This Dynamic Earth--Contents [USGS]；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：This Dynamic Earth--Contents [USGS]；年份未标注。 第22轮：线上标题为「This Dynamic Earth--Contents [USGS]」，已对齐；剥离后 2123 字符、命中 4，为系列目录页，不构成正文。"
     },
     {
       "id": "ogc-standards",
@@ -2418,7 +2418,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Ice Sheets - Earth Indicator - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Ice Sheets - Earth Indicator - NASA Science；正文 275446 字节；第15轮按 D041 规则用于专题支撑。 第15轮核验补充：现跳转至 science.nasa.gov/earth/explore/earth-indicators/ice-sheets/，标题一致；正文含 greenland/ice sheet 关键词，可作专题支撑。"
+      "note": "curl 实测 HTTP 200；页面标题：Ice Sheets - Earth Indicator - NASA Science；剥离后正文 8612 字符、命中 14；第15轮按 D041 规则用于专题支撑。 第15轮核验补充：现跳转至 science.nasa.gov/earth/explore/earth-indicators/ice-sheets/，标题一致；正文含 greenland/ice sheet 关键词，可作专题支撑。"
     },
     {
       "id": "fao-mountain-partnership",

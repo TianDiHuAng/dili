@@ -51,7 +51,7 @@
       "level": "L2",
       "status": "L2合规换源(第22轮)",
       "definition": "亚马逊盆地：南美洲北部的巨大低地盆地，覆盖广阔热带雨林与密集河网。",
-      "time_or_place": "约中生代至今",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "南美洲北部的巨大低地盆地，覆盖广阔热带雨林与密集河网。",
       "related": [
         "south-america-x5b89x7b2cx65afx5c71x8109",
@@ -63,7 +63,7 @@
         "s042-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：用 NASA『From Forest to Field: How Fire is Transforming the Amazon』作专题页（33279/189），NASA 热带毁林页作机构页。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。",
+      "pending_notes": "第22轮换源转正：用 NASA『From Forest to Field: How Fire is Transforming the Amazon』作专题页（33279/189），NASA 热带毁林页作机构页。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -117,7 +117,7 @@
       "level": "L2",
       "status": "L2完成(第3轮)（L2·内容已收敛至来源可支撑范围）",
       "definition": "拉普拉塔平原：温带草原（潘帕斯）黑土，农牧业出口发达。",
-      "time_or_place": "全新世至今",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "温带草原（潘帕斯）黑土，农牧业出口发达。",
       "related": [
         "south-america-x7684x7684x5580x5580x6e56",
@@ -131,7 +131,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 标记】【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 标记】【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
