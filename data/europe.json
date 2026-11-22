@@ -152,7 +152,7 @@
       "region": "南欧",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "马其顿与亚历山大：征服波斯帝国，开启希腊化时代，促进东西文化交流。",
       "time_or_place": "前4世纪",
       "overview": "征服波斯帝国，开启希腊化时代，促进东西文化交流。",
@@ -169,7 +169,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：南欧×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：南欧×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -258,7 +258,7 @@
       "region": "东南欧",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "拜占庭帝国：东罗马延续千年，君士坦丁堡扼守欧亚通道。",
       "time_or_place": "330—1453年",
       "overview": "东罗马延续千年，君士坦丁堡扼守欧亚通道。",
@@ -275,7 +275,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：东南欧×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：东南欧×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -290,7 +290,7 @@
       "region": "南欧",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "意大利半岛：亚平宁山脉纵贯半岛，台伯河与港口城市塑造历史地理。",
       "time_or_place": "古代至今",
       "overview": "亚平宁山脉纵贯半岛，台伯河与港口城市塑造历史地理。",
@@ -306,7 +306,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：南欧×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：南欧×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -422,7 +422,7 @@
       "region": "中欧",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "阿尔卑斯山：横贯中欧的山地系统，河谷与山口影响区域交通。",
       "time_or_place": "中欧山地（形成年代待核）",
       "overview": "横贯中欧的山地系统，河谷与山口影响区域交通。",
@@ -436,7 +436,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：中欧×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：中欧×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -770,7 +770,7 @@
       "region": "东欧",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "莫斯科公国：从蒙古统治下崛起，逐步统一东北罗斯。",
       "time_or_place": "约13—16世纪",
       "overview": "从蒙古统治下崛起，逐步统一东北罗斯。",
@@ -787,7 +787,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：东欧×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：东欧×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -833,7 +833,7 @@
       "region": "北欧",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "斯堪的纳维亚：半岛与冰川地貌，森林、铁矿与海洋资源丰富。",
       "time_or_place": "古代至今",
       "overview": "半岛与冰川地貌，森林、铁矿与海洋资源丰富。",
@@ -849,7 +849,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：北欧×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：北欧×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -925,7 +925,7 @@
       "region": "西欧",
       "theme": "气候",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "欧洲温带海洋性气候：受西风带与北大西洋暖流影响，全年温和湿润，适合牧草与谷物轮作。",
       "time_or_place": "西欧（常年气候特征）",
       "overview": "受西风带与北大西洋暖流影响，全年温和湿润，适合牧草与谷物轮作。",
@@ -939,7 +939,7 @@
         "s048-climate-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：西欧×气候；新增背景来源 无，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：西欧×气候；新增背景来源 无，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
@@ -955,7 +955,7 @@
       "region": "西欧",
       "theme": "农业",
       "level": "L1",
-      "status": "已复核(第9轮)",
+      "status": "已复核(第11轮)",
       "definition": "中世纪欧洲庄园农业：以庄园为单位的土地制度，敞田耕作与领主自营地并存，支撑封建秩序。",
       "time_or_place": "中世纪（起讫年代因地区而异）",
       "overview": "以庄园为单位的土地制度，敞田耕作与领主自营地并存，与封建秩序相互关联。",
@@ -969,7 +969,7 @@
         "s077-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第9轮复核：西欧×农业；新增背景来源 无，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第11轮复核：西欧×农业；新增背景来源 无，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
