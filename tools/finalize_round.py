@@ -17,14 +17,20 @@ levels = {k: sum(1 for e in es if e["level"]==k) for k in ("L1","L2","L3")}
 tiers = {k: sum(1 for e in es if e["tier"]==k) for k in ("核心","重要","补充")}
 pending = sum(1 for e in es if e["pending_count"]>0)
 verified = sum(1 for s in src if s.get("verified"))
-blanks = gap["B2_matrix"]["blanks"]
+blanks = []
+for uid, counts in cov.get("matrix", {}).items():
+    for t in ("地形","气候","农业","贸易","政权更替","区域"):
+        if counts.get(t, 0) == 0:
+            blanks.append(f"{uid}×{t}")
+NAME_FIX = {"africa":"非洲","asia":"亚洲","europe":"欧洲","north-america":"北美洲","south-america":"南美洲","oceania":"大洋洲","antarctica":"南极洲","global-themes":"全球主题"}
+blanks = [NAME_FIX.get(b.split("×")[0], b.split("×")[0])+"×"+b.split("×")[1] for b in blanks]
 
 # METRICS
 mp = os.path.join(ROOT,"METRICS.json")
 metrics = json.load(open(mp,encoding="utf-8"))
 if not any(r["round"]==ROUND for r in metrics["rounds"]):
     metrics["rounds"].append({
-      "round":ROUND,"date":DATE,"new_entries":8,"upgrades":24,"reviews":8,"fixes":0,
+      "round":ROUND,"date":DATE,"new_entries":8,"upgrades":24,"reviews":8,"fixes":7,
       "pending_total":pending,"check_result":"ERRORS=0 ALL_PASS",
       "link_result":"BROKEN=0 LINKS_PASS","new_sources":0,
       "sample_audit":AUDIT,
@@ -38,6 +44,7 @@ gap_count = len(blanks)+len(gap["B2_matrix"]["sparse"])+len(gap["B5_pending"] an
 sat["zero_gap_rounds"] = 0
 sat["saturated"] = False
 sat["last_round"] = ROUND
+sat["history"] = [h for h in sat["history"] if h.get("round") != ROUND]
 sat["history"].append({
   "round":ROUND,
   "methods_used":["B2覆盖矩阵","B3悬空引用","B4读者问题","B5待核实清单","B7深度缺口"],
@@ -54,8 +61,8 @@ lines = [
  "- 新增条目：8（填补覆盖矩阵 8 个空白格子）",
  "- 升级 L2：24（核心条目，每个大洲/全球主题各 3 条）",
  "- 复核：8（补充第三来源与具体待核实说明，未擅自取消待核实标记）",
- "- 修复：0",
- "- 提交：4 个批次提交（批次 1–4），每批 10 任务且通过 check.py", "",
+ "- 修复：7（抽检返工，含无源年代移除与决定论表述软化）",
+ "- 提交：4 个批次提交 + 返工与收尾提交（每批 10 任务且通过 check.py）", "",
  "## 2. 质量", "",
  "- tools/check.py：ERRORS=0 ALL_PASS（177 条条目、163 条来源）",
  "- tools/check_links.py：BROKEN=0 LINKS_PASS（3321 条内部链接）",
