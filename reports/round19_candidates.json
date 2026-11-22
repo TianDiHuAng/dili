@@ -1,0 +1,155 @@
+[
+  {
+    "title": "人口地理",
+    "sid": "s023-ourworldindata-org",
+    "tier": "重要",
+    "level": "L1",
+    "body": 13572,
+    "hits": 95,
+    "rx": "population"
+  },
+  {
+    "title": "城市地理",
+    "sid": "s025-ourworldindata-org",
+    "tier": "重要",
+    "level": "L1",
+    "body": 37507,
+    "hits": 127,
+    "rx": "urban"
+  },
+  {
+    "title": "地理信息系统",
+    "sid": "esri-gis",
+    "tier": "重要",
+    "level": "L1",
+    "body": 5006,
+    "hits": 39,
+    "rx": "gis|geographic information"
+  },
+  {
+    "title": "荒漠化",
+    "sid": "s045-earthobservatory-nasa-gov",
+    "tier": "补充",
+    "level": "L1",
+    "body": 22415,
+    "hits": 42,
+    "rx": "desertif"
+  },
+  {
+    "title": "沙尘暴",
+    "sid": "s046-earthobservatory-nasa-gov",
+    "tier": "补充",
+    "level": "L1",
+    "body": 10329,
+    "hits": 29,
+    "rx": "dust|sahel"
+  },
+  {
+    "title": "陆地保护区",
+    "sid": "s091-iucn-org",
+    "tier": "补充",
+    "level": "L1",
+    "body": 4042,
+    "hits": 11,
+    "rx": "protected area"
+  },
+  {
+    "title": "农业企业与价值链",
+    "sid": "s059-worldbank-org",
+    "tier": "补充",
+    "level": "L1",
+    "body": 10506,
+    "hits": 48,
+    "rx": "agribusiness|farm"
+  },
+  {
+    "title": "全球气温距平",
+    "sid": "s053-climate-gov",
+    "tier": "补充",
+    "level": "L1",
+    "body": 11575,
+    "hits": 49,
+    "rx": "temperature"
+  },
+  {
+    "title": "二氧化碳排放清单",
+    "sid": "s027-ourworldindata-org",
+    "tier": "补充",
+    "level": "L1",
+    "body": 23317,
+    "hits": 154,
+    "rx": "co2|emission"
+  },
+  {
+    "title": "植物物候变化",
+    "sid": "noaa-phenology",
+    "tier": "重要",
+    "level": "L1",
+    "body": 10512,
+    "hits": 26,
+    "rx": "spring|plant|phenolog"
+  },
+  {
+    "title": "北极火情变化",
+    "sid": "nasa-arctic-fire",
+    "tier": "重要",
+    "level": "L1",
+    "body": 16957,
+    "hits": 87,
+    "rx": "fire|arctic"
+  },
+  {
+    "title": "松岛冰川退缩",
+    "sid": "nasa-pine-island",
+    "tier": "重要",
+    "level": "L1",
+    "body": 7721,
+    "hits": 20,
+    "rx": "glacier|pine island"
+  },
+  {
+    "title": "土壤资源",
+    "sid": "s083-fao-org",
+    "tier": "补充",
+    "level": "L1",
+    "body": 2270,
+    "hits": 28,
+    "rx": "soil"
+  },
+  {
+    "title": "渔业资源",
+    "sid": "s051-fisheries-noaa-gov",
+    "tier": "补充",
+    "level": "L1",
+    "body": 5257,
+    "hits": 29,
+    "rx": "fish"
+  },
+  {
+    "title": "卫星遥感地表观测",
+    "sid": "s041-science-nasa-gov",
+    "tier": "补充",
+    "level": "L1",
+    "body": 21601,
+    "hits": 116,
+    "rx": "landsat|satellite"
+  },
+  {
+    "title": "水资源管理",
+    "sid": "s061-worldbank-org",
+    "tier": "补充",
+    "level": "L1",
+    "body": 26855,
+    "hits": 187,
+    "rx": "water"
+  },
+  {
+    "title": "湿地与水资源",
+    "sid": "fao-aquastat-basins",
+    "tier": "补充",
+    "level": "L1",
+    "body": 1583,
+    "hits": 11,
+    "rx": "water|basin"
+  }
+]

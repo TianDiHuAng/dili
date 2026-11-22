@@ -420,11 +420,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第3轮)",
-      "definition": "植物物候变化：气候变暖改变春季展叶、开花与迁徙的时间，使植物事件与传粉者、农事日历之间出现错配风险。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "植物物候变化：植物展叶、开花与结果等季节性事件时间的变化，是气候变化的敏感生物指示。",
       "time_or_place": "近年观测（具体时段以来源页面为准）",
-      "overview": "气候变暖改变春季展叶、开花与迁徙的时间，使植物事件与传粉者、农事日历之间出现错配风险。",
+      "overview": "植物展叶、开花与结果等季节性事件时间的变化，是气候变化的敏感生物指示。",
       "related": [
         "global-themes-x6c14x5019x5e26"
       ],
@@ -433,13 +433,19 @@
         "s026-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（noaa-phenology 标题即主题，剥离后 10512 字符、spring|plant|phenolog 命中 26）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
         "UN M49"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "物候随纬度、海拔与局地气候而变化；暖冬与早春使部分地区春季事件提前，各地响应幅度不一致。",
+      "influence": "物候改变可能造成植物与传粉者、植食者之间的时间错配，并影响农事日历与生态系统碳交换。影响程度取决于物种与地区，不作单一结论。",
+      "polities": "本条不展开政权序列；监测网络与观测规范属科研基础设施议题。",
+      "connections": "物候观测与气候记录相互关联，跨区域的观测网络使长期比较成为可能。",
+      "today": "春季物候提前是多地观测到的趋势，幅度因物种与地区而异。具体日期与趋势值需按年份从 NOAA 等机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>植物物候变化 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x5317x6781x706bx60c5x53d8x5316",
@@ -448,11 +454,11 @@
       "unit_id": "global-themes",
       "region": "北极",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第3轮)",
-      "definition": "北极火情变化：北极地区火 regime 受升温、干燥与闪电变化影响，冻土与植被碳储量使火情具有全球气候意义。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "北极火情变化：北极地区火灾发生频率、范围与强度的变化，与升温、干燥化和植被改变相互作用。",
       "time_or_place": "近年观测（具体时段以来源页面为准）",
-      "overview": "北极地区火 regime 受升温、干燥与闪电变化影响，冻土与植被碳储量使火情具有全球气候意义。",
+      "overview": "北极地区火灾发生频率、范围与强度的变化，与升温、干燥化和植被改变相互作用。",
       "related": [
         "global-themes-x6c14x5019x5e26"
       ],
@@ -461,13 +467,19 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（nasa-arctic-fire 标题即主题，剥离后 16957 字符、fire|arctic 命中 87）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
         "UN M49"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "北极圈内分布苔原与北方针叶林，可燃物与泥炭层在暖干条件下更易燃烧。多年冻土退化改变排水与燃料条件，火情呈区域性差异。",
+      "influence": "火灾释放大量碳并改变地表反照率，可能形成对气候的正反馈；对生态系统与居民的影响取决于火季长度与管理能力。",
+      "polities": "本条不展开政权序列；跨境监测与应急协作属区域治理议题。",
+      "connections": "烟雾与碳输送到中纬度地区，把北极变化与全球大气与气候系统联系起来。",
+      "today": "北极火季与过火面积近年受到关注。过火面积与碳排放估算需按年份从 NASA/NOAA 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>北极火情变化 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x5730x7406x4fe1x606fx7cfbx7edf",
@@ -476,27 +488,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "抽检返工完成(第3轮)",
-      "definition": "地理信息系统：通过采集、存储、分析与展示空间数据来支撑制图与区域研究的方法体系；其形成年代与学科谱系待专门来源核验。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "地理信息系统：用于采集、管理、分析与可视化空间数据的方法与技术体系，支撑制图、规划与区域研究。",
       "time_or_place": "空间数据方法（形成年代待专门来源核）",
-      "overview": "地理信息系统通过采集、存储、分析与展示空间数据，支撑地图制图、资源管理与区域研究；其方法框架来自多门学科。",
+      "overview": "用于采集、管理、分析与可视化空间数据的方法与技术体系，支撑制图、规划与区域研究。",
       "related": [
         "global-themes-x677fx5757x6784x9020"
       ],
       "sources": [
-        "ogc-standards",
         "esri-gis",
-        "s075-aag-org"
+        "ogc-standards"
       ],
       "needs_verification": true,
-      "pending_notes": "返工：已移除无源年代；OGC 标准页与 Esri GIS 定义页支撑方法概述，OpenStax 页面标题仅为站点名，未作为专题依据。学科形成年代待专门史料核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（esri-gis 标题即主题（What is GIS?），剥离后 5006 字符、gis|geographic information 命中 39（D055 放宽档））；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
         "UN M49"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "空间数据以坐标与属性记录地表要素，可用于叠加分析、缓冲区分析与网络分析，从而比较不同区域的区位关系。",
+      "influence": "GIS 把观测与统计转成可分析的空间图层，提升资源管理、灾害评估与规划决策的效率；分析结果依赖数据质量与模型假设。",
+      "polities": "本条不展开政权序列；数据标准与互操作规范由行业组织制定，具体标准条文待专门资料核验。",
+      "connections": "GIS 通过数据标准与共享平台连接不同机构与区域，使跨边界的环境与交通议题可以统一分析。",
+      "today": "开放标准与云平台推动 GIS 普及。数据精度、覆盖范围与标准版本需按年份从 OGC/Esri 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><circle cx='120' cy='200' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='225' cy='245' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='330' cy='290' r='30' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='435' cy='200' r='36' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='540' cy='245' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='645' cy='290' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='40' y='360' class='dim'>地理信息系统 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x4ebax53e3x5730x7406",
@@ -505,25 +522,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第4轮)",
-      "definition": "人口地理：研究人口数量、分布、迁移与结构的空间差异，关注人口变化与资源、城市、区域发展之间的关系。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "人口地理：研究人口数量、分布、结构与迁移的空间差异，以及人口变化与资源、城市和区域发展的关系。",
       "time_or_place": "现代人口分布与长期人口转变",
-      "overview": "研究人口数量、分布、迁移与结构的空间差异，关注人口变化与资源、城市、区域发展之间的关系。",
+      "overview": "研究人口数量、分布、结构与迁移的空间差异，以及人口变化与资源、城市和区域发展的关系。",
       "related": [
         "global-themes-x4ebax53e3x8fc1x79fb"
       ],
       "sources": [
         "s023-ourworldindata-org",
-        "s075-aag-org"
+        "s004-population-un-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B4 缺口补入；专题教材章节与现状数值待按年份核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "人口在地表分布极不均衡：平原、沿海与河谷通常更密集，高寒、干旱与高海拔地区人口稀疏。分布差异与经济机会、历史聚落、交通可达性相关，而非单一自然环境决定。",
+      "influence": "人口增长与分布变化通过劳动力供给、消费结构与迁移流向影响区域发展；生育率、死亡率与迁移共同决定结构变化。人口现象需结合社会经济条件理解，不宜归因于单一因素。",
+      "polities": "本条不展开政权序列；人口治理涉及户籍、移民与公共服务等制度安排，具体制度待专门资料核验。",
+      "connections": "人口迁移把来源地与目的地连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
+      "today": "城市化与人口老龄化是主要趋势，统计口径因国家而异。人口总量、结构与城市化率需按年份从 UN/OWID 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><circle cx='120' cy='200' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='225' cy='245' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='330' cy='290' r='30' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='435' cy='200' r='36' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='540' cy='245' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='645' cy='290' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='40' y='360' class='dim'>人口地理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x57cex5e02x5730x7406",
@@ -532,11 +555,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第4轮)",
-      "definition": "城市地理：研究城市的区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "城市地理：研究城市区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
       "time_or_place": "现代城市化与城市体系",
-      "overview": "研究城市的区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
+      "overview": "研究城市区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
       "related": [
         "global-themes-x57cex5e02x8d77x6e90"
       ],
@@ -545,12 +568,18 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B4 缺口补入；专题教材章节与现状数值待按年份核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s025 剥离后正文 37507 字符、urban 命中 127）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "城市多位于交通节点、河口、平原或资源地附近，内部呈中心—外围的功能分异。土地价格、通勤成本与规划制度共同塑造用地结构，地形与气候提供约束而非唯一原因。",
+      "influence": "聚集经济与交通可达性推动城市扩张，城市化又改变周边土地利用与生态过程。城市形态是经济、制度与技术共同作用的结果，不宜简化为地理决定。",
+      "polities": "本条不展开具体政权序列；城市规划与土地制度因国家而异，细节待专门资料核验。",
+      "connections": "城市通过交通与信息网络连接腹地与远方市场，形成等级化的城市体系与跨区域流动。",
+      "today": "全球城市人口比例持续上升，各口径差异明显。城市化率、城市人口规模与用地扩张数据需按年份从 OWID/UN 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><circle cx='120' cy='200' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='225' cy='245' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='330' cy='290' r='30' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='435' cy='200' r='36' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='540' cy='245' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='645' cy='290' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='40' y='360' class='dim'>城市地理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x5730x56fex6295x5f71",
@@ -1151,11 +1180,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "荒漠化：干旱半干旱区土地退化过程，受降水波动、土地利用和植被覆盖共同影响，不等同于沙漠自然扩张。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "荒漠化：干旱、半干旱与半湿润地区的土地退化过程，表现为生产力下降与植被覆盖减少。",
       "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "干旱半干旱区土地退化过程，受降水波动、土地利用和植被覆盖共同影响，不等同于沙漠自然扩张。",
+      "overview": "干旱、半干旱与半湿润地区的土地退化过程，表现为生产力下降与植被覆盖减少。",
       "related": [
         "africa-x8428x8d6bx52d2x5e26"
       ],
@@ -1164,11 +1193,17 @@
         "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s045 标题即主题（Defining Desertification），剥离后 22415 字符、desertif 命中 42）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "荒漠化多发于降水变率大、蒸发强、土壤易蚀的过渡带。风蚀与水蚀、盐渍化与植被退化相互叠加，形成不同的退化类型。",
+      "influence": "过度放牧、不合理耕作与水资源滥用会加剧退化，气候干旱则放大风险。成因是自然与社会因素共同作用，不能简单归为沙漠自然扩张。",
+      "polities": "本条不展开政权序列；土地权属与治理政策影响恢复成效。",
+      "connections": "退化区的沙尘可远距离输送，影响下游与邻近区域的空气质量与土壤养分。",
+      "today": "荒漠化监测依赖植被指数与土地生产力指标。退化面积与恢复进度需按年份从 NASA/FAO 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>荒漠化 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x6c99x5c18x66b4",
@@ -1177,11 +1212,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "沙尘暴：强风把裸露地表沙尘输送到远处的天气现象，源区、风速与植被状况共同决定其频率与影响。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "沙尘暴：强风把干燥地表的沙尘卷入空中并输送到远处的天气现象，影响能见度、健康与生态。",
       "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "强风把裸露地表沙尘输送到远处的天气现象，源区、风速与植被状况共同决定其频率与影响。",
+      "overview": "强风把干燥地表的沙尘卷入空中并输送到远处的天气现象，影响能见度、健康与生态。",
       "related": [
         "global-themes-x8352x6f20x5316"
       ],
@@ -1190,11 +1225,17 @@
         "s045-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s046 标题含 dust/Sahel，剥离后 10329 字符、dust|sahel 命中 29）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "沙尘源区多为干旱湖床、裸露耕地与沙漠边缘，植被覆盖与土壤水分决定起沙难易。天气系统提供风力条件，季节与地域差异明显。",
+      "influence": "沙尘输送可以跨洲，既影响空气质量与交通，也把矿物质带入下游生态系统。影响强度取决于源区状况与大气环流。",
+      "polities": "本条不展开政权序列；跨境沙尘监测与预警属区域合作议题。",
+      "connections": "沙尘把干旱区与海洋、城市连接起来，是全球物质循环的一部分。",
+      "today": "预报与监测网络已覆盖主要源区。起沙频率与输送量需按年份从 NASA/NOAA 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>沙尘暴 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x6e14x4e1ax8d44x6e90",
@@ -1359,24 +1400,30 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "水资源管理：水资源管理需协调生活、农业、工业与生态需求，跨流域与跨边界合作是常见议题。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "水资源管理：协调生活、农业、工业与生态用水的制度与技术安排，涉及供给、分配与水质。",
       "time_or_place": "现代管理实践（年份以来源页面为准）",
-      "overview": "水资源管理需协调生活、农业、工业与生态需求，跨流域与跨边界合作是常见议题。",
+      "overview": "协调生活、农业、工业与生态用水的制度与技术安排，涉及供给、分配与水质。",
       "related": [
         "global-themes-x6e7fx5730x4e0ex6c34x8d44x6e90"
       ],
       "sources": [
-        "s013-fao-org",
-        "s061-worldbank-org"
+        "s061-worldbank-org",
+        "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s061 标题即主题（Water），剥离后 26855 字符、water 命中 187）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "可再生水量与取用水结构决定区域水压力；干旱区依赖地下水与跨流域调水，丰水区面临洪涝与水质问题。",
+      "influence": "管理方式影响农业产量、城市供给与生态流量。水价、权属与工程投资共同作用，不能只归因于自然禀赋。",
+      "polities": "本条不展开政权序列；水权分配与跨边界协议属制度议题。",
+      "connections": "流域把上下游与左右岸连成整体，跨边界河流的合作与争端是常见议题。",
+      "today": "水压力与地下水超采受到关注。取水量、蓄水量与水质指标需按年份从 World Bank/FAO 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>水资源管理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x536bx661fx9065x611fx5730x8868x89c2x6d4b",
@@ -1385,11 +1432,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "卫星遥感地表观测：卫星遥感提供大范围、重复的地表观测，用于监测土地利用、植被、水体与城市扩张。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "卫星遥感地表观测：利用卫星传感器重复获取地表反射与辐射信息，用于监测土地覆盖、植被、水体与城市扩张。",
       "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "卫星遥感提供大范围、重复的地表观测，用于监测土地利用、植被、水体与城市扩张。",
+      "overview": "利用卫星传感器重复获取地表反射与辐射信息，用于监测土地覆盖、植被、水体与城市扩张。",
       "related": [
         "global-themes-x571fx5730x5229x7528x53d8x5316"
       ],
@@ -1398,11 +1445,17 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s041 标题即主题（Landsat），剥离后 21601 字符、landsat|satellite 命中 116）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "不同波段对植被、水体、冰雪与裸地敏感，空间与时间分辨率决定可观测的尺度；云覆盖与地形阴影是限制因素。",
+      "influence": "遥感把点观测扩展为面状时序数据，支撑变化检测与资源评估；结果精度依赖定标、算法与地面验证。",
+      "polities": "本条不展开政权序列；数据共享与开放政策影响应用范围。",
+      "connections": "遥感与地面站网、模型结合，形成对区域与全球变化的连续监测能力。",
+      "today": "开源卫星与云平台扩大了数据可及性。分辨率、重访周期与产品版本需按年份从 NASA/USGS 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>卫星遥感地表观测 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x5065x5eb7x5730x7406x6570x636e",
@@ -2006,11 +2059,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "全球气温距平：以长期平均为基准的温度偏离量，是描述全球变暖进程的核心指标，需说明基准期与观测方法。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "全球气温距平：以某一长期平均为基准的温度偏离量，用于描述全球变暖的进程与幅度。",
       "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "以长期平均为基准的温度偏离量，是描述全球变暖进程的核心指标，需说明基准期与观测方法。",
+      "overview": "以某一长期平均为基准的温度偏离量，用于描述全球变暖的进程与幅度。",
       "related": [
         "global-themes-x5168x7403x6c14x6e29x53d8x5316"
       ],
@@ -2019,12 +2072,18 @@
         "s026-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s053 标题即主题（climate change: global temperature），剥离后 11575 字符、temperature 命中 49）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "NOAA Climate.gov 全球温度页",
         "Our World in Data Climate Change"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "距平值按纬度与区域差异明显：高纬增温通常更快，海洋与陆地的响应速率不同。基准期选择会改变数值大小。",
+      "influence": "气温距平是气候系统变化的综合指标之一，与海平面、极端事件和生态系统变化相关；单一年份波动不等同长期趋势。",
+      "polities": "本条不展开政权序列；减排与适应政策属治理议题。",
+      "connections": "大气环流把区域温度异常传递到更大范围，形成跨区域的相关性。",
+      "today": "近年全球平均温度持续偏高，具体年值与排名需按年份从 NOAA/OWID 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>全球气温距平 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x4e8cx6c27x5316x78b3x6392x653ex6e05x5355",
@@ -2033,11 +2092,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "二氧化碳排放清单：按国家或部门统计的二氧化碳排放量，口径差异影响跨国比较，需注明来源与核算方法。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "二氧化碳排放清单：按国家或部门统计的二氧化碳排放量，用于比较排放规模与结构。",
       "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "按国家或部门统计的二氧化碳排放量，口径差异影响跨国比较，需注明来源与核算方法。",
+      "overview": "按国家或部门统计的二氧化碳排放量，用于比较排放规模与结构。",
       "related": [
         "global-themes-x78b3x6392x653ex7a7ax95f4x5deex5f02"
       ],
@@ -2046,12 +2105,18 @@
         "s035-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s027 标题即主题（CO₂ emissions），剥离后 23317 字符、co2|emission 命中 154）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "Our World in Data CO₂ emissions",
         "Our World in Data Annual CO₂ emissions"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "排放分布与能源结构、产业构成和人口规模相关，资源型经济体与制造业集中区排放强度更高。",
+      "influence": "排放清单是气候政策的基础数据，口径差异（生产端/消费端）会显著改变国家排序，解读时需注明方法。",
+      "polities": "本条不展开政权序列；核算规则与报告义务由国际框架约定。",
+      "connections": "贸易使排放与消费地分离，形成碳转移与全球供应链上的排放关联。",
+      "today": "年度排放数据持续更新，各国提交与估算口径不完全一致。总量与人均排放需按年份从 OWID 数据页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>二氧化碳排放清单 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x4fddx62a4x4e0ex4fddx80b2x533ax4f53x7cfb",
@@ -2087,11 +2152,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "农业企业与价值链：从投入品、生产、加工到销售的链条组织方式，影响小农参与市场的方式与收益分配。",
+      "level": "L2",
+      "status": "L2完成(第19轮)-主题页",
+      "definition": "农业企业与价值链：从投入品、生产、加工、物流到零售的组织链条，决定小农进入市场的方式与收益分配。",
       "time_or_place": "现代产业实践（年份以来源页面为准）",
-      "overview": "从投入品、生产、加工到销售的链条组织方式，影响小农参与市场的方式与收益分配。",
+      "overview": "从投入品、生产、加工、物流到零售的组织链条，决定小农进入市场的方式与收益分配。",
       "related": [
         "global-themes-x4f5cx7269x5355x4ea7x5deex5f02"
       ],
@@ -2100,12 +2165,18 @@
         "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s059 标题即主题（Farming and Agribusiness），剥离后 10506 字符、agribusiness|farm 命中 48）；五段仅写来源可支撑的概述，具体年代/数值待核。",
       "outlines": [
         "World Bank Farming and Agribusiness",
         "FAOSTAT"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "价值链形态与区域条件相关：靠近市场与港口的地区更易接入高价值链条，偏远地区受运输与仓储制约。",
+      "influence": "合同农业与合作社可改善投入与技术获取，但也可能带来议价与风险分配问题。效果取决于制度与市场结构，不能一概而论。",
+      "polities": "本条不展开政权序列；土地制度与合作社法规影响组织方式。",
+      "connections": "价值链把产地与城市、出口市场相连，标准与认证沿链条传导。",
+      "today": "农业企业与冷链投资在多地扩展。参与率、产值与就业数据需按年份从 World Bank/FAO 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>农业企业与价值链 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x6c34x8d44x6e90x4f9bx7ed9x6982x89c8",
