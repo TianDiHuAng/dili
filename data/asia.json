@@ -214,10 +214,10 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2合规换源(第16轮)",
-      "definition": "阿契美尼德波斯：横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
+      "status": "L2·D041配对缺口(第16轮)",
+      "definition": "阿契美尼德波斯：以波斯本土（安尚一带）为起家核心的古代帝国，居鲁士与大流士时期扩展到两河、安纳托利亚、埃及与中亚边缘。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
+      "overview": "以波斯本土（安尚一带）为起家核心的古代帝国，居鲁士与大流士时期扩展到两河、安纳托利亚、埃及与中亚边缘。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
@@ -225,21 +225,19 @@
       ],
       "sources": [
         "livius-cyrus",
-        "livius-mesopotamia",
-        "s013-fao-org"
+        "livius-mesopotamia"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮合规换源：原用 s011（UNESCO，间歇可达）等；现改用 Livius『Cyrus the Great』（正文 9220 字节、achaemenid/cyrus 命中 45）作专题页，Livius Mesopotamia 与 AQUASTAT 作区域/机构页。政权年代序列仍待专门史料逐条核验。",
+      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ **D041 配对缺口**：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。",
       "outlines": [
-        "Britannica Continents & Regions",
-        "Wikipedia List of regions of the world",
-        "AP Human Geography 主题框架"
+        "Livius: Cyrus the Great",
+        "Livius: Mesopotamia"
       ],
       "last_update": "2026-11-22",
-      "geo": "帝国核心位于伊朗高原，四周连接两河、安纳托利亚、埃及与中亚。高原、沙漠与山口决定行军与驿道走向。",
-      "influence": "驿道与行省制度降低远距离治理成本，使跨洲帝国得以运作。交通基础设施是重要条件，但帝国整合还依赖制度与军事组织。",
-      "polities": "居鲁士与大流士时期扩张，后被亚历山大征服；其行政遗产影响后续西亚政权。",
-      "connections": "帝国连接地中海、印度河与中亚，促进商品、度量衡与思想交流。",
+      "geo": "帝国腹地位于伊朗高原，与两河流域、安纳托利亚、埃及和中亚边缘相接。高原、沙漠与山口影响行军路线与区域联系，具体交通网络细节待专门史料核验。",
+      "influence": "跨区域的整合依赖军事组织、地方统治安排与交通条件；地理距离与地形是重要约束，但政治制度与治理方式同样是关键变量。",
+      "polities": "Livius 的居鲁士专题页记载其兴起、巴比伦与安纳托利亚等地的扩张，并述及被称为 satrap 的附庸王；王表与年代序列待专门史料逐条核验。",
+      "connections": "帝国与两河流域、安纳托利亚、埃及及中亚边缘存在军事联系，并通过附庸王安排维持地方统治；对印度河谷的控制不成立，相关说法已删除。",
       "today": "历史遗产分布在今伊朗及周边国家。现代人口与遗产数据待按年份核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='阿契美尼德波示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>阿契美尼德波</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },

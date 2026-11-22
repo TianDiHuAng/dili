@@ -8,6 +8,7 @@ import json, os, re, sys, datetime
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 TODAY = "2026-11-22"
+D041_FLAGS = ("d041_legacy", "d041_pairing_gap")
 UNITS = ["africa","asia","europe","north-america","south-america","oceania","antarctica","global-themes"]
 NAMES = {"africa":"非洲","asia":"亚洲","europe":"欧洲","north-america":"北美洲","south-america":"南美洲","oceania":"大洋洲","antarctica":"南极洲","global-themes":"全球主题"}
 THEMES = ["地形","气候","农业","贸易","政权更替","区域"]
@@ -244,12 +245,24 @@ def save_docs(docs):
 
 def update_coverage(docs):
     cov = json.load(open(os.path.join(DATA,"coverage.json"),encoding="utf-8"))
+    prev = {c["id"]: c for c in cov.get("entries", [])}
     byid = {e["id"]: e for d in docs.values() for e in d["entries"]}
-    cov["entries"] = [{
-      "id":e["id"],"level":e["level"],"tier":e["tier"],"status":e["status"],
-      "source_count":len(e["sources"]),"pending_count":1 if e.get("needs_verification") else 0,
-      "last_update":TODAY
-    } for e in byid.values()]
+    KEEP_FLAGS = ("d041_legacy", "d041_pairing_gap")
+    rows = []
+    for e in byid.values():
+        row = {
+          "id":e["id"],"level":e["level"],"tier":e["tier"],"status":e["status"],
+          "source_count":len(e["sources"]),"pending_count":1 if e.get("needs_verification") else 0,
+          "last_update":TODAY
+        }
+        old = prev.get(e["id"], {})
+        for f in KEEP_FLAGS:
+            if old.get(f) and f in D041_FLAGS:
+                row[f] = True
+        rows.append(row)
+    cov["entries"] = rows
+    for f in KEEP_FLAGS:
+        cov[f + "_count"] = sum(1 for r in rows if r.get(f))
     matrix = {}
     for u,d in docs.items():
         matrix[u]={}

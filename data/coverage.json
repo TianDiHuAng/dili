@@ -8,7 +8,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "africa-x5c3cx7f57x6cb3x8c37",
@@ -35,7 +36,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "africa-x57c3x585ex4fc4x6bd4x4e9ax9ad8x539f",
@@ -179,7 +181,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "africa-x6851x6d77x5e1dx56fd",
@@ -206,7 +209,8 @@
       "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 5,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "africa-x975ex6d32x5927x6e56x5730x533a",
@@ -224,7 +228,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "asia-x82cfx7f8ex5c14x57cex90a6",
@@ -275,10 +280,11 @@
       "id": "asia-x963fx5951x7f8ex5c3cx5fb7x6ce2x65af",
       "level": "L2",
       "tier": "核心",
-      "status": "L2合规换源(第16轮)",
-      "source_count": 3,
+      "status": "L2·D041配对缺口(第16轮)",
+      "source_count": 2,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_pairing_gap": true
     },
     {
       "id": "asia-x5e15x63d0x4e9ax5e1dx56fd",
@@ -422,7 +428,8 @@
       "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 5,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "asia-x5143x4ee3",
@@ -530,7 +537,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "asia-x5308x5974",
@@ -620,7 +628,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "europe-x514bx91ccx7279x6587x660e",
@@ -629,7 +638,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "europe-x8fc8x9521x5c3cx6587x660e",
@@ -674,7 +684,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "europe-x62dcx5360x5eadx5e1dx56fd",
@@ -755,7 +766,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "europe-x6cd5x5170x514bx738bx56fd",
@@ -809,7 +821,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "europe-x57fax8f85x7f57x65af",
@@ -890,7 +903,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "north-america-x5317x7f8ex51b0x76d6",
@@ -908,7 +922,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "north-america-x5bc6x897fx897fx6bd4x6cb3",
@@ -926,7 +941,8 @@
       "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 5,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "north-america-x963fx5df4x62c9x5951x4e9ax5c71x8109",
@@ -980,7 +996,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "north-america-x739bx96c5x6587x660e",
@@ -989,7 +1006,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "north-america-x7279x5965x8482x74e6x574e",
@@ -1088,7 +1106,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "south-america-x4e9ax9a6cx900ax76c6x5730",
@@ -1097,7 +1116,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "south-america-x5df4x897fx9ad8x539f",
@@ -1115,7 +1135,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "south-america-x5df4x5854x54e5x5c3cx4e9a",
@@ -1133,7 +1154,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "south-america-x4e9ax9a6cx900ax6cb3",
@@ -1205,7 +1227,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "south-america-x9a6cx4e18x6bd4x4e18",
@@ -1259,7 +1282,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "oceania-x5927x5206x6c34x5cad",
@@ -1268,7 +1292,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "oceania-x5927x81eax6d41x76c6x5730",
@@ -1286,7 +1311,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "oceania-x65b0x897fx5170x5317x5c9b",
@@ -1313,7 +1339,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "oceania-x7f8ex62c9x5c3cx897fx4e9a",
@@ -1340,7 +1367,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "oceania-x590fx5a01x5937x7fa4x5c9b",
@@ -1403,7 +1431,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "antarctica-x5357x6781x534ax5c9b",
@@ -1430,7 +1459,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "antarctica-x7f57x65afx6d77",
@@ -1448,7 +1478,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "antarctica-x5357x6781x79d1x8003x7ad9",
@@ -1466,7 +1497,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "antarctica-x5357x6781x6d32x65e0x519cx4e1ax7684x73afx5883x7ea6x675f",
@@ -1502,7 +1534,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "global-themes-x5927x9646x6f02x79fb",
@@ -1520,7 +1553,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "global-themes-x6d0bx6d41",
@@ -1529,7 +1563,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "global-themes-x6c14x5019x5e26",
@@ -1538,7 +1573,8 @@
       "status": "L2完成(第3轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "global-themes-x6c99x6f20x5316",
@@ -1556,7 +1592,8 @@
       "status": "L2完成(第2轮)（D041 前遗产 L2·待补专题页）",
       "source_count": 4,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_legacy": true
     },
     {
       "id": "global-themes-x51b2x79efx5e73x539f",
@@ -2256,5 +2293,6 @@
   },
   "round": 1,
   "round_processed": 40,
-  "d041_legacy_count": 37
+  "d041_legacy_count": 36,
+  "d041_pairing_gap_count": 1
 }

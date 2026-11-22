@@ -206,6 +206,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：首轮5 PASS/5 FAIL（北美冰盖PDF门落户、山地农业门户首页、3条清单不符）→两轮返工（2降级+萨赫勒带换NASA专题+印度河降级+37条遗产L2标记）→三批复核；台账滞后已同步",
       "note": "首次按 D041 准入规则升级：专题页正文须含主题关键词"
+    },
+    {
+      "round": 16,
+      "date": "2026-11-22",
+      "new_entries": 8,
+      "upgrades": 0,
+      "reviews": 31,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 1,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：1 FAIL（阿契美尼德波斯换源不支撑驿道/行省断言、含无关机构页）+8条附缺陷→二次返工：五段收敛、移除无关来源、命中口径62、outlines回填、壳页标注、状态转「D041配对缺口」；复核后剩余1项配对缺口已标记",
+      "note": "阿契美尼德波斯换源合规（Livius Cyrus，D044 达标）；新增8条用未使用已核验来源"
     }
   ]
 }

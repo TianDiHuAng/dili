@@ -1938,10 +1938,10 @@
         "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "World Bank Latin America and the Caribbean 区域页",
+        "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22"
     },
@@ -1965,10 +1965,10 @@
         "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "World Bank MENA 区域页",
+        "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22"
     },
@@ -1992,10 +1992,10 @@
         "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "World Bank South Asia 区域页",
+        "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22"
     },
@@ -2019,10 +2019,10 @@
         "s026-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "NOAA Climate.gov 全球温度页",
+        "Our World in Data Climate Change"
       ],
       "last_update": "2026-11-22"
     },
@@ -2046,10 +2046,10 @@
         "s035-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "Our World in Data CO₂ emissions",
+        "Our World in Data Annual CO₂ emissions"
       ],
       "last_update": "2026-11-22"
     },
@@ -2073,10 +2073,10 @@
         "s091-iucn-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 本条实际维度为生态/环境治理，theme 因枚举限制标为「区域」。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "CBD Protected and Conserved Areas",
+        "IUCN Protected areas and land use"
       ],
       "last_update": "2026-11-22"
     },
@@ -2100,10 +2100,10 @@
         "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "World Bank Farming and Agribusiness",
+        "FAOSTAT"
       ],
       "last_update": "2026-11-22"
     },
@@ -2127,10 +2127,10 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 本条实际维度为水文/水资源，theme 因枚举限制标为「地形」。",
       "outlines": [
-        "World Bank 区域/专题页",
-        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+        "FAO Water overview",
+        "FAO AQUASTAT"
       ],
       "last_update": "2026-11-22"
     }
