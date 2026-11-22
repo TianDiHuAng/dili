@@ -2535,7 +2535,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Glaciers: Clues to Future Climate (PDF)",
-      "note": "PDF 777779 字节；解压后文本 284151 字节、约 3583 词；glacier 命中 58、moraine 1。第24轮按 D064 作 PDF 专题文档使用。"
+      "note": "PDF 文件 777779 字节（Content-Length 一致）；解压流字节和 284151（含字体程序等二进制，**不得当作正文**）。可提取正文按 BT/ET 内 Tj 单串计 16844 字符、正则 glacier 命中 31；若含 TJ 数组的完整提取，第三方复核得约 22300 字符 / 58 命中——两种口径均达 D055 档①（标题含 Glaciers + 命中≥30 → 门槛 5000）。"
     },
     {
       "id": "wb-api-country",
@@ -2548,7 +2548,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank Country API (CHN)",
-      "note": "JSON API 457 字节；返回国家元数据（iso2/iso3、region、incomeLevel）。用于现状数据的机构口径核对。"
+      "note": "JSON API 457 字节；返回国家元数据（iso2/iso3、region、incomeLevel）。用于现状数据的机构口径核对。 注：仅返回 iso2/iso3、region、incomeLevel、capitalCity，**不含城市化量**，不得作城市化条目的主题来源（D053）。"
     },
     {
       "id": "wb-api-pop",
@@ -2561,7 +2561,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank Indicator API — Population (SP.POP.TOTL, CHN)",
-      "note": "JSON API 9885 字节；返回逐年人口数值与 year 字段（命中 200）。可作现状数据的年份-数值核对入口。"
+      "note": "JSON API 9885 字节；返回逐年人口数值与 year 字段（命中 200）。可作现状数据的年份-数值核对入口。 注：正则为 Population|value；返回 66 条、1976–2025 年，字段含 date/value。"
     },
     {
       "id": "usgs-eq-api",
@@ -2574,7 +2574,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "USGS Earthquake Catalog API (GeoJSON)",
-      "note": "GeoJSON API 3885 字节；含 features/metadata，可核验地震事件的时刻与震级字段。"
+      "note": "GeoJSON API 3885 字节；含 features/metadata，可核验地震事件的时刻与震级字段。 注：地震目录随查询时刻变化，字节数为样本时刻值；正则 metadata|features。"
     },
     {
       "id": "nps-api-parks",
@@ -2588,6 +2588,19 @@
       "verified": true,
       "page_title": "NPS Data API — Parks",
       "note": "JSON API 23293 字节；返回公园名录与描述字段（命中 15）。用于地名/机构口径核对。"
+    },
+    {
+      "id": "wb-api-urban",
+      "title": "World Bank Indicator API — Urban population (% of total) SP.URB.TOTL.IN.ZS",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SP.URB.TOTL.IN.ZS?format=json",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank Indicator API — Urban population (% of total)",
+      "note": "JSON API 200；11638 字节；返回逐年年城市化率（2025 年 66.34%，共 66 条）；正则为 urban|value。用于城市化水平条目的年份-数值核对。"
     }
   ]
 }

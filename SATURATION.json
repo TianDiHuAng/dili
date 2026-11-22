@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 23,
+  "last_round": 24,
   "history": [
     {
       "round": 1,
@@ -272,6 +272,19 @@
       ],
       "gaps_found": 273,
       "note": "B1 探测 23 候选 0 可用——专题页渠道接近饱和",
+      "result": "非饱和"
+    },
+    {
+      "round": 24,
+      "methods_used": [
+        "B1取数层(API/PDF)",
+        "B5待核实",
+        "B7深度",
+        "B2覆盖矩阵",
+        "实证复核(D061)"
+      ],
+      "gaps_found": 273,
+      "note": "API/PDF 通道 7/9 达标，说明此前 0/23 是通道问题而非无对题页面",
       "result": "非饱和"
     }
   ],

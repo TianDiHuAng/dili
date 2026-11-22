@@ -63,7 +63,7 @@
         "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 **1**；s049（NCEI 首页）200 / 2471 字符 / 命中 **0**。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。判定：按 D055，来源需正文≥8000字符且命中≥5（标题即主题且命中≥30 时门槛 5000），当前未达标。",
+      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 **1**；s049（NCEI 首页）200 / 2471 字符 / 命中 **0**。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第24轮)-PDF专题",
+      "status": "L2·配对说明(第24轮)-PDF专题",
       "definition": "北美冰盖：地质历史时期覆盖北美北部的巨大冰体，其进退塑造了当地地形、水系与沉积物分布。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "地质历史时期覆盖北美北部的巨大冰体，其进退塑造了当地地形、水系与沉积物分布。",
@@ -63,7 +63,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF（777779 字节；解压文本 284151 字节；glacier 命中 58）。此前第15轮曾把该来源的**网页入口**（4962 字节目录页）误判为「PDF 门落户」，实际 PDF 本体是真文档——判断已纠正。第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），按 D053 不构成独立正文。",
+      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」**成立**；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

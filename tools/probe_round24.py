@@ -11,7 +11,6 @@ C=[
  ("NPS 公园数据","https://developer.nps.gov/api/v1/parks?limit=2&api_key=DEMO_KEY",r"parks|data",200),
  ("OWID 图表数据","https://ourworldindata.org/grapher/population.csv",r"population|Entity",200),
  ("USGS 冰川 PDF","https://pubs.usgs.gov/gip/glaciers/glaciers.pdf",r"glacier",1000),
- ("IPCC 报告","https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf",r"climate",1000),
  ("FAO 统计 API","https://fenixservices.fao.org/faostat/api/v1/en/data/QCL?area=351&item=15&element=5510&year=2022",r"data|value",100),
 ]
 def probe(topic,u,rx,minlen):
@@ -21,7 +20,7 @@ def probe(topic,u,rx,minlen):
         if "__HTTP__" not in raw: return topic,u,0,0,0,"连接失败"
         b,c=raw.rsplit("\n__HTTP__",1)
         code=int(c.strip() or 0)
-        size=len(b)
+        size=len(p.stdout)
         hits=len(re.findall(rx,b,re.I))
         if code>=400: reason=f"HTTP {code}"
         elif size<minlen: reason=f"内容过短 {size}<{minlen}"

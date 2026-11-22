@@ -910,10 +910,11 @@
       "id": "north-america-x5317x7f8ex51b0x76d6",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第24轮)-PDF专题",
+      "status": "L2·配对说明(第24轮)-PDF专题",
       "source_count": 2,
       "pending_count": 1,
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "d041_pairing_gap": true
     },
     {
       "id": "north-america-x5927x5e73x539f",
@@ -2287,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 1,
+  "round": 24,
   "round_processed": 40,
   "d041_legacy_count": 32,
-  "d041_pairing_gap_count": 1
+  "d041_pairing_gap_count": 2
 }

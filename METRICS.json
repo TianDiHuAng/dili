@@ -326,6 +326,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：9条复核被判空转（纯标签、3对逐字重复、跨13处复用同句）+3处事实矛盾+徽标2处误标→返工：9条改为实测实证（含URL/正文/命中/档位）、山地农业移除s083并补足、松岛冰川记录7719/25近失值、徽标改用coverage标志位、B1探测23条明细落盘",
       "note": "9条首轮复核；32条备注双标签合并；站点新增来源等级徽标（骨架/专题/遗产三类）"
+    },
+    {
+      "round": 24,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 10,
+      "fixes": 8,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 5,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：1 FAIL（洋流备注与他条逐字重复、模板尾句）→返工：D064正式立条、计量口径修正(16844字符/31命中，非284151)、北美冰盖状态改配对说明并置pairing_gap、删除全库10处模板尾句、洋流备注重写含正则、城市化水平换wb-api-urban、probe字节口径修正；其余9条PASS",
+      "note": "换取数层：API/PDF 探测 9 候选 7 达标；北美冰盖用 USGS 冰川 PDF 升级 L2"
     }
   ]
 }
