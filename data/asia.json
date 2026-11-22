@@ -79,7 +79,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第2轮)",
+      "status": "已复核(第5轮)",
       "definition": "阿卡德帝国：萨尔贡统一两河流域，建立最早的地域性帝国之一。",
       "time_or_place": "约前2334—前2154年",
       "overview": "萨尔贡统一两河流域，建立最早的地域性帝国之一。",
@@ -91,10 +91,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：两河流域概述可用 FAO 水资源页作背景；具体王表待专门来源核验。",
+      "pending_notes": "第5轮复核：西亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -109,7 +110,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "古巴比伦：汉谟拉比时期编纂法典，控制两河流域中下游。",
       "time_or_place": "约前1894—前1595年",
       "overview": "汉谟拉比时期编纂法典，控制两河流域中下游。",
@@ -120,10 +121,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：西亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

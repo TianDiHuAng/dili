@@ -155,7 +155,7 @@
       "region": "东非",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "已复核(第5轮)",
       "definition": "埃塞俄比亚高原：非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
       "time_or_place": "约中生代至今",
       "overview": "非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
@@ -167,10 +167,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：FAO 土地与水资源页支持高原农业背景；裂谷与高原分期待核验。",
+      "pending_notes": "第5轮复核：东非×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -221,7 +222,7 @@
       "region": "西非",
       "theme": "气候",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "几内亚湾沿岸：几内亚湾暖湿气流带来丰沛降水，形成雨林与可可、油棕种植带。",
       "time_or_place": "热带雨林与季风区",
       "overview": "几内亚湾暖湿气流带来丰沛降水，形成雨林与可可、油棕种植带。",
@@ -232,10 +233,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：西非×气候；新增背景来源 s039-climate-nasa-gov，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -347,7 +349,7 @@
       "region": "东北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第2轮)",
+      "status": "已复核(第5轮)",
       "definition": "古埃及古王国：以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
       "time_or_place": "约前2686—前2181年",
       "overview": "以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
@@ -359,10 +361,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：UNESCO 文化页支持遗址背景；年代分期存在不同口径，保留待核实。",
+      "pending_notes": "第5轮复核：东北非×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -406,7 +409,7 @@
       "region": "东北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "古埃及新王国：以底比斯为中心，军事扩张与神庙经济达到高峰。",
       "time_or_place": "约前1550—前1069年",
       "overview": "以底比斯为中心，军事扩张与神庙经济达到高峰。",
@@ -417,10 +420,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：东北非×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -496,7 +500,7 @@
       "region": "北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "罗马阿非利加：罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
       "time_or_place": "前146年—5世纪",
       "overview": "罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
@@ -507,10 +511,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：北非×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -584,7 +589,7 @@
       "region": "西非",
       "theme": "贸易",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "加纳帝国：撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
       "time_or_place": "约7—13世纪",
       "overview": "撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
@@ -595,10 +600,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：西非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -651,7 +657,7 @@
       "region": "西非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "桑海帝国：控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
       "time_or_place": "约1464—1591年",
       "overview": "控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
@@ -662,10 +668,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：西非×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -680,7 +687,7 @@
       "region": "南部非洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "大津巴布韦：绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
       "time_or_place": "约11—15世纪",
       "overview": "绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
@@ -691,10 +698,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：南部非洲×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
