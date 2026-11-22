@@ -489,7 +489,7 @@
       "region": "东亚",
       "theme": "农业",
       "level": "L1",
-      "status": "来源再核未通过(第4轮)",
+      "status": "已复核(第4轮)",
       "definition": "长江流域：长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
       "time_or_place": "长江流域（农业与城市密集区）",
       "overview": "长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
@@ -500,10 +500,11 @@
       ],
       "sources": [
         "fao-aquastat-basins",
-        "s022-ourworldindata-org"
+        "s022-ourworldindata-org",
+        "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮来源再核：未取得页面标题与长江流域直接对应的权威专题页；FAO 流域页仅作背景，维持 L1 与待核实。",
+      "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
