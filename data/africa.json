@@ -49,7 +49,7 @@
       "region": "东北非",
       "theme": "农业",
       "level": "L2",
-      "status": "L2完成",
+      "status": "已复核(第26轮·实证)",
       "definition": "尼罗河谷：尼罗河定期泛滥塑造狭窄肥沃走廊，支撑古埃及定居农业与国家形成。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "尼罗河定期泛滥塑造狭窄肥沃走廊，支撑古埃及定居农业与国家形成。",
@@ -67,7 +67,7 @@
         "wb-api-urban"
       ],
       "needs_verification": false,
-      "pending_notes": "暂无待核实关键事实；具体人口与耕地数值待按年份与权威统计来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
+      "pending_notes": "暂无待核实关键事实；具体人口与耕地数值待按年份与权威统计来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·尼罗河谷】本条正则 nile；br-nile=200/正文3393字符/本条命中0；wk-nile=200/正文15652字符/本条命中0。D055 判定：未达标（最高命中0、最高正文15652字符；档①门槛5000/档②③8000）；缺口为「尼罗河谷」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -118,7 +118,7 @@
       "region": "东非",
       "theme": "地形",
       "level": "L2",
-      "status": "已复核(第25轮·实证)",
+      "status": "已复核(第26轮·实证)",
       "definition": "东非大裂谷：板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
@@ -134,7 +134,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·东非大裂谷】本条正则 rift。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「东非大裂谷」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为东非大裂谷主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·东非大裂谷】本条正则 rift。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「东非大裂谷」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为东非大裂谷主题专题页。 【第26轮实证复核·东非大裂谷】本条正则 rift valley；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；档①门槛5000/档②③8000）；缺口为「东非大裂谷」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -187,7 +187,7 @@
       "region": "中非",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第5轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "刚果盆地：非洲中部的大型盆地，热带雨林广布，河网呈向心状汇入刚果河。",
       "time_or_place": "地理与生态特征（具体演化年代待核）",
       "overview": "非洲中部的大型盆地，热带雨林广布，河网呈向心状汇入刚果河。",
@@ -202,7 +202,7 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第26轮实证复核·刚果盆地】本条正则 congo；s018-fao-org=200/正文4707字符/本条命中0；s042-earthobservatory-nasa-gov=200/正文46123字符/本条命中3。D055 判定：达标（可升级候选）；缺口为「刚果盆地」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -255,7 +255,7 @@
       "region": "西非",
       "theme": "气候",
       "level": "L2",
-      "status": "L2合规换源(第15轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "萨赫勒带：撒哈拉南缘的半干旱过渡带，降水在南北向存在明显梯度且年际变率大。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "撒哈拉南缘的半干旱过渡带，降水在南北向存在明显梯度且年际变率大。",
@@ -269,7 +269,7 @@
         "s045-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮三批返工：修正降水梯度方向（自北向南递增），删除「季节性水系/风蚀塑造景观」等无源句，把「游牧与定居交错」改为有 overgrazing/livestock 支撑的表述，today 来源与 sources 对齐（仅 NASA）。政权与年代不展开。",
+      "pending_notes": "第15轮三批返工：修正降水梯度方向（自北向南递增），删除「季节性水系/风蚀塑造景观」等无源句，把「游牧与定居交错」改为有 overgrazing/livestock 支撑的表述，today 来源与 sources 对齐（仅 NASA）。政权与年代不展开。 【第26轮实证复核·萨赫勒带】本条正则 sahel；s046-earthobservatory-nasa-gov=200/正文10327字符/本条命中9；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中29。D055 判定：达标（可升级候选）；缺口为「萨赫勒带」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -321,7 +321,7 @@
       "region": "东北非",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第7轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "古埃及早王朝：尼罗河谷与三角洲形成统一国家的早期阶段，是后续古王国政治与文化结构的前身。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "尼罗河谷与三角洲形成统一国家的早期阶段，是后续古王国政治与文化结构的前身。",
@@ -336,7 +336,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·古埃及早王朝】本条正则 egypt|dynasty；livius-egypt=200/正文20150字符/本条命中67；s013-fao-org=200/正文898字符/本条命中0。D055 判定：达标（可升级候选）；缺口为「古埃及早王朝」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -357,7 +357,7 @@
       "region": "东北非",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第6轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "古埃及古王国：尼罗河谷早期统一国家阶段，以孟菲斯一带为政治中心，留下大规模石造陵墓与神庙遗存。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "尼罗河谷早期统一国家阶段，以孟菲斯一带为政治中心，留下大规模石造陵墓与神庙遗存。",
@@ -372,7 +372,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·古埃及古王国】本条正则 egypt|pyramid；livius-egypt=200/正文20150字符/本条命中56；s013-fao-org=200/正文898字符/本条命中0。D055 判定：达标（可升级候选）；缺口为「古埃及古王国」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -482,7 +482,7 @@
       "region": "北非",
       "theme": "贸易",
       "level": "L2",
-      "status": "L2完成(第7轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "迦太基：位于今突尼斯湾附近的古代港口城邦，以西地中海海上贸易网络著称。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "位于今突尼斯湾附近的古代港口城邦，以西地中海海上贸易网络著称。",
@@ -496,7 +496,7 @@
         "s050-oceanservice-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第26轮实证复核·迦太基】本条正则 carthage；livius-carthage=200/正文4718字符/本条命中26；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0。D055 判定：未达标（最高命中26、最高正文4718字符；档①门槛5000/档②③8000）；缺口为「迦太基」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -634,7 +634,7 @@
       "region": "西非",
       "theme": "贸易",
       "level": "L2",
-      "status": "L2完成(第2轮)（L2·内容已收敛至来源可支撑范围）",
+      "status": "已复核(第26轮·实证)",
       "definition": "马里帝国：曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
@@ -650,7 +650,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第26轮实证复核·马里帝国】本条正则 mali；britannica-regions=200/正文137675字符/本条命中5；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：达标（可升级候选）；缺口为「马里帝国」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -731,7 +731,7 @@
       "region": "东非",
       "theme": "贸易",
       "level": "L2",
-      "status": "已复核(第4轮)（L2·内容已收敛至来源可支撑范围）",
+      "status": "已复核(第26轮·实证)",
       "definition": "斯瓦希里海岸：东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
@@ -749,7 +749,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
+      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·斯瓦希里海岸】本条正则 swahili；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；档①门槛5000/档②③8000）；缺口为「斯瓦希里海岸」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

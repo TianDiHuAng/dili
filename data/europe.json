@@ -115,7 +115,7 @@
       "region": "南欧",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第6轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "古希腊城邦：以城市及其周边领土为基本单位的地方政治共同体，山地与海湾共同塑造其分立与互联格局。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "以城市及其周边领土为基本单位的地方政治共同体，山地与海湾共同塑造其分立与互联格局。",
@@ -130,7 +130,7 @@
         "livius-greece"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·古希腊城邦】本条正则 polis|greek；livius-polis=200/正文2469字符/本条命中12；livius-athens=200/正文6313字符/本条命中13。D055 判定：未达标（最高命中13、最高正文6313字符；档①门槛5000/档②③8000）；缺口为「古希腊城邦」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -182,7 +182,7 @@
       "region": "南欧",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第7轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "罗马共和国：以罗马城为中心、由元老院与民众会议等制度治理的古代政治体，后扩张为地中海世界主导力量。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "以罗马城为中心、由元老院与民众会议等制度治理的古代政治体，后扩张为地中海世界主导力量。",
@@ -197,7 +197,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·罗马共和国】本条正则 republic|rome；livius-roman-republic=200/正文25552字符/本条命中76；livius-italy=200/正文5515字符/本条命中12。D055 判定：达标（可升级候选）；缺口为「罗马共和国」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -380,7 +380,7 @@
       "region": "西北欧",
       "theme": "区域",
       "level": "L2",
-      "status": "L2完成(第7轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "不列颠群岛：欧洲西北缘的岛群，海洋性气候、海岸地形与海峡通道深刻影响区域交通与聚落分布。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "欧洲西北缘的岛群，海洋性气候、海岸地形与海峡通道深刻影响区域交通与聚落分布。",
@@ -395,7 +395,7 @@
         "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·不列颠群岛】本条正则 britain|british；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s039-climate-nasa-gov=200/正文10544字符/本条命中0。D055 判定：未达标（最高命中0、最高正文10544字符；档①门槛5000/档②③8000）；缺口为「不列颠群岛」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

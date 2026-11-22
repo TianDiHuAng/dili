@@ -52,7 +52,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第6轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "苏美尔城邦：两河流域南部早期城市国家群，以灌溉农业、城邦建筑和文字记录著称。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "两河流域南部早期城市国家群，以灌溉农业、城邦建筑和文字记录著称。",
@@ -67,7 +67,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -88,7 +88,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第6轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "阿卡德帝国：两河流域早期地域性国家，以统一城邦和远距离军事行动著称，是古代西亚政治整合的重要阶段。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "两河流域早期地域性国家，以统一城邦和远距离军事行动著称，是古代西亚政治整合的重要阶段。",
@@ -103,7 +103,7 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·阿卡德帝国】本条正则 akkad；livius-mesopotamia=200/正文3628字符/本条命中0；s010-unesco-org=200/正文218字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「阿卡德帝国」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -459,7 +459,7 @@
       "region": "东亚",
       "theme": "农业",
       "level": "L2",
-      "status": "L2完成",
+      "status": "已复核(第26轮·实证)",
       "definition": "黄河流域：黄土高原与华北平原构成早期中国农业与王朝核心区。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "黄土高原与华北平原构成早期中国农业与王朝核心区。",
@@ -478,7 +478,7 @@
         "wb-api-agri"
       ],
       "needs_verification": false,
-      "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
+      "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·黄河流域】本条正则 yellow river|huang he；br-yellow-river=200/正文4070字符/本条命中0；wk-yellow-river=200/正文4669字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4669字符；档①门槛5000/档②③8000）；缺口为「黄河流域」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -840,7 +840,7 @@
       "region": "东亚",
       "theme": "区域",
       "level": "L2",
-      "status": "L2完成(第5轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "日本列岛：东亚太平洋边缘的岛弧，山地多、平原狭小，海洋交通与地质活动深刻影响人居环境。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "东亚太平洋边缘的岛弧，山地多、平原狭小，海洋交通与地质活动深刻影响人居环境。",
@@ -856,7 +856,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 第5轮返工：已移除无专门来源的具体年代表述。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 第5轮返工：已移除无专门来源的具体年代表述。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·日本列岛】本条正则 japan；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4707字符；档①门槛5000/档②③8000）；缺口为「日本列岛」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -909,7 +909,7 @@
       "region": "东南亚",
       "theme": "农业",
       "level": "L1",
-      "status": "已复核(第20轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "湄公河三角洲：湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
@@ -926,7 +926,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
+      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1247,7 +1247,7 @@
       "region": "中亚/东亚",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第5轮)",
+      "status": "已复核(第26轮·实证)",
       "definition": "青藏高原：亚洲高海拔广大高原，是多条大河的发源区，高寒环境影响交通与聚落分布。",
       "time_or_place": "地理与生态特征（具体演化年代待核）",
       "overview": "亚洲高海拔广大高原，是多条大河的发源区，高寒环境影响交通与聚落分布。",
@@ -1261,7 +1261,7 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
