@@ -236,6 +236,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：2 FAIL（北美冰盖剩余来源全无关、十三殖民地残留s011）→返工：北美冰盖换NASA冰芯页(剥离后18931字符/40命中)、十三殖民地移除s011、清3条s056残留、新增s011/s056全库扫描报告；review改追加式",
       "note": "清理7条泛化来源误贴（第16轮审查清单）；专题页探测14路径仅1可用"
+    },
+    {
+      "round": 18,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 30,
+      "fixes": 88,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：10/10 PASS，整批合格；清理后已按建议补齐：6条补底记账、3条壳别名标注、2条标签统一、2条同型残留清理；88处移除与61条改动可完全对账",
+      "note": "D049 矩阵清理：移除88处错配来源，补底6条"
     }
   ]
 }

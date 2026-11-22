@@ -63,7 +63,7 @@
         "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "返工：USGS《This Dynamic Earth》已加入并核验，可支撑漂移与板块理论概述；魏格纳提出年份仍待专门史料核验，故状态回到待复核。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。",
+      "pending_notes": "返工：USGS《This Dynamic Earth》已加入并核验，可支撑漂移与板块理论概述；魏格纳提出年份仍待专门史料核验，故状态回到待复核。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -366,10 +366,10 @@
       ],
       "sources": [
         "s010-unesco-org",
-        "s025-ourworldindata-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Cities/City 页面不可用，维持 L1。",
+      "pending_notes": "第8轮来源探测：Livius Cities/City 页面不可用，维持 L1。 【第18轮矩阵清理】移除s025（OWID Urbanization，与城市起源的政权/聚落史主题错配；D049 同型）。 【第18轮补底】新增 un-m49/s010 区域或文化机构背景来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -921,7 +921,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
@@ -1029,7 +1029,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 s039-climate-nasa-gov（NASA 气候机构页，气候背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
@@ -1550,7 +1550,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
@@ -1628,7 +1628,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
