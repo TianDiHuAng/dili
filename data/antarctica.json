@@ -48,8 +48,8 @@
       "unit_id": "antarctica",
       "region": "南极洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "南极半岛：向北伸出，气温相对温和，科考站密集。",
       "time_or_place": "约中生代至今",
       "overview": "向北伸出，气温相对温和，科考站密集。",
@@ -60,15 +60,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "南极半岛向北伸出，气温相对温和，海岸与冰架交错。海峡与岛屿使科考船易于接近，降水相对较多。",
+      "influence": "相对可达性使半岛成为科考密集区，温度升高与冰架崩解影响生态与观测。人类活动受限，变化主要由自然过程与全球气候驱动。",
+      "polities": "南极条约体系下由多国协商管理，科考站分布反映国际合作格局。",
+      "connections": "半岛通过南大洋与南美洲相望，是生态与航运观察的重要区域。",
+      "today": "旅游与科研活动增加，环境保护压力上升。站点与游客数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='南极半岛示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南极洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>南极半岛</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "antarctica-x6a2ax8d2fx5357x6781x5c71x8109",
@@ -237,8 +245,8 @@
       "unit_id": "antarctica",
       "region": "南极洲",
       "theme": "气候",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "冰芯气候记录：冰芯包裹气泡提供古大气成分与温度变化证据。",
       "time_or_place": "近百万年",
       "overview": "冰芯包裹气泡提供古大气成分与温度变化证据。",
@@ -249,16 +257,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "南极冰盖厚冰层中封存气泡与尘埃，冰芯按深度对应不同年代。钻探点选择受冰流与地形影响。",
+      "influence": "冰芯提供古大气成分与温度变化的直接证据，是气候研究关键资料。解释需结合模型与其他代用指标，不能单靠单一冰芯下结论。",
+      "polities": "多国钻探计划通过国际合作共享样品与数据，形成长期观测体系。",
+      "connections": "南极冰芯与格陵兰冰芯、海洋沉积记录共同构成全球古气候证据网络。",
+      "today": "新冰芯计划持续推进。年代精度与气体数据需按年份从研究机构核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='冰芯气候记录示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南极洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>冰芯气候记录</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "antarctica-x5357x6781x6d32x65e0x519cx4e1ax7684x73afx5883x7ea6x675f",

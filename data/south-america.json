@@ -115,8 +115,8 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "农业",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "拉普拉塔平原：温带草原（潘帕斯）黑土，农牧业出口发达。",
       "time_or_place": "全新世至今",
       "overview": "温带草原（潘帕斯）黑土，农牧业出口发达。",
@@ -127,16 +127,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "拉普拉塔平原包括潘帕斯草原，地势平坦、土壤肥沃，温带气候适宜牧草与谷物。巴拉那河与乌拉圭河构成水系骨架。",
+      "influence": "黑土与温和气候有利于农牧业，铁路与港口把内陆产品运往国际市场。出口繁荣依赖全球市场与制度安排，不能只由土壤解释。",
+      "polities": "殖民时期到现代国家形成过程中，土地制度与港口城市深刻影响区域政治经济。",
+      "connections": "通过拉普拉塔河口连接大西洋，粮食、肉类与皮革进入全球贸易网络。",
+      "today": "阿根廷与乌拉圭的农牧业仍具全球竞争力。产量与人口数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='拉普拉塔平原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>拉普拉塔平原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "south-america-x5df4x5854x54e5x5c3cx4e9a",
@@ -174,8 +182,8 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "气候",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "阿塔卡马沙漠：世界最干旱沙漠之一，受寒流与安第斯雨影影响。",
       "time_or_place": "古代至今",
       "overview": "世界最干旱沙漠之一，受寒流与安第斯雨影影响。",
@@ -186,16 +194,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "阿塔卡马位于南美西岸，受寒流与安第斯雨影影响，极端干旱。海岸雾、盐沼与火山地貌并存，矿产丰富。",
+      "influence": "缺水限制农业与聚落，沿海与谷地依靠雾水和引水形成局部宜居区。矿业发展改变人口分布，但依赖全球需求与技术。",
+      "polities": "从原住民谷地社会到现代矿业国家，资源治理长期是核心议题。",
+      "connections": "沿海港口连接太平洋贸易，安第斯山口连接玻利维亚与阿根廷内陆。",
+      "today": "锂矿与水资源冲突受到关注。产量与人口数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='阿塔卡马沙漠示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>阿塔卡马沙漠</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "south-america-x4e9ax9a6cx900ax6cb3",

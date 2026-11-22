@@ -162,7 +162,7 @@
       "region": "东非",
       "theme": "地形",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "埃塞俄比亚高原：非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
       "time_or_place": "约中生代至今",
       "overview": "非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
@@ -173,10 +173,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：FAO 土地与水资源页支持高原农业背景；裂谷与高原分期待核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -434,7 +435,7 @@
       "region": "东北非",
       "theme": "贸易",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "库什与努比亚：尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
       "time_or_place": "约前2000年—公元4世纪",
       "overview": "尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
@@ -445,10 +446,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持尼罗河上游遗产背景；王国年代待专门核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

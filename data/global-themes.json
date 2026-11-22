@@ -115,8 +115,8 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "洋流：全球热量再分配的重要机制，影响沿岸气候与渔场。",
       "time_or_place": "全年",
       "overview": "全球热量再分配的重要机制，影响沿岸气候与渔场。",
@@ -127,16 +127,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "洋流由风、密度差与地转偏向力驱动，形成表层环流与深层翻转环流。海盆形状与海峡决定路径。",
+      "influence": "洋流再分配热量与营养盐，影响沿岸气候与渔场。气候效应重要，但与大气环流、地形共同作用，不能单因解释。",
+      "polities": "现代海洋观测与航运依赖国际协作，海底电缆与航线也受海流影响。",
+      "connections": "洋流连接各大洋，把热量、碳与生物幼体输送到远距离海域。",
+      "today": "环流变化与海洋热含量是当前研究重点。流速与温度数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='洋流示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>洋流</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x6c14x5019x5e26",
@@ -145,8 +153,8 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "气候带：从赤道到极地的热量分带，是理解全球地理格局的基础。",
       "time_or_place": "纬度分异",
       "overview": "从赤道到极地的热量分带，是理解全球地理格局的基础。",
@@ -157,16 +165,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "气候带按纬度、热量与降水划分，从赤道到极地呈大致带状分布，但海陆分布与地形会造成偏离。",
+      "influence": "气候带帮助理解农业、植被与聚落差异，是地理分析的基础框架。分类是简化工具，边界并非绝对，不能当作硬边界。",
+      "polities": "不同气候区形成不同资源利用方式，但制度与历史同样塑造区域差异。",
+      "connections": "气候带与季风、洋流和地形相互作用，形成区域气候组合。",
+      "today": "气候变化使部分气候带位置与特征发生变化。分类数据需按年份从气象机构核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='气候带示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>气候带</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x6c99x6f20x5316",

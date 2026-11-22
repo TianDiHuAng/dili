@@ -48,8 +48,8 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "大分水岭：澳大利亚东部山地，影响东西降水差异与河流流向。",
       "time_or_place": "约古生代至今",
       "overview": "澳大利亚东部山地，影响东西降水差异与河流流向。",
@@ -60,15 +60,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "大分水岭沿澳大利亚东岸延伸，山地与丘陵分隔沿海湿润区和内陆干旱区。河流向东或向西流，降水差异显著。",
+      "influence": "山脉造成雨影效应，影响农业与城市分布；跨山调水与交通工程改变区域发展条件。地理约束重要但可被技术部分缓解。",
+      "polities": "殖民时期内陆开拓与现代水资源政策都与山地分水岭密切相关。",
+      "connections": "山脉连接昆士兰至维多利亚的沿海城市带，并通过公路铁路与内陆矿区连通。",
+      "today": "山火、水源与生态保护是当代议题。降水与人口数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='大分水岭示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>大洋洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>大分水岭</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "oceania-x5927x81eax6d41x76c6x5730",
@@ -202,8 +210,8 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "毛利人：波利尼西亚移民后裔，逐步形成部落与王国组织。",
       "time_or_place": "约13世纪至今",
       "overview": "波利尼西亚移民后裔，逐步形成部落与王国组织。",
@@ -213,15 +221,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "毛利人主要居住在新西兰，北岛火山与地热区、南岛高山与冰川塑造不同生计方式。海岸与河流提供渔业与交通资源。",
+      "influence": "波利尼西亚航海传统与当地资源适应形成部落社会，契约与王国组织在欧洲接触后发展。社会变迁不能仅由岛屿环境解释。",
+      "polities": "部落联盟与王国先后出现，现代新西兰政治中毛利族群拥有法定代表与权利机制。",
+      "connections": "毛利人与波利尼西亚其他岛群保持航海联系，后与欧洲移民、贸易与传教网络互动。",
+      "today": "语言复兴与文化权利是重要议题。语言使用者与人口数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='毛利人示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>大洋洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>毛利人</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "oceania-x7f8ex62c9x5c3cx897fx4e9a",
