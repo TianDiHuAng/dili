@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 4,
+  "last_round": 5,
   "history": [
     {
       "round": 1,
@@ -43,6 +43,18 @@
         "B7深度缺口"
       ],
       "gaps_found": 312,
+      "result": "非饱和"
+    },
+    {
+      "round": 5,
+      "methods_used": [
+        "B5待核实",
+        "B7深度缺口",
+        "B2覆盖矩阵",
+        "B4读者问题",
+        "B1来源探测"
+      ],
+      "gaps_found": 319,
       "result": "非饱和"
     }
   ],

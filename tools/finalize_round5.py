@@ -19,7 +19,7 @@ for u,c in cov.get("matrix",{}).items():
         if c.get(t,0)==0: blanks.append(f"{NAMES.get(u,u)}×{t}")
 mp=os.path.join(ROOT,"METRICS.json");m=json.load(open(mp,encoding="utf-8"))
 m["rounds"]=[r for r in m["rounds"] if r["round"]!=ROUND]
-m["rounds"].append({"round":ROUND,"date":DATE,"new_entries":2,"upgrades":8,"reviews":30,"fixes":FIXES,
+m["rounds"].append({"round":ROUND,"date":DATE,"new_entries":2,"upgrades":7,"reviews":30,"fixes":FIXES,
  "pending_total":pending,"check_result":"ERRORS=0 ALL_PASS","link_result":"BROKEN=0 LINKS_PASS",
  "new_sources":0,"sample_rate":"25%","sample_audit":AUDIT})
 json.dump(m,open(mp,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
@@ -33,7 +33,7 @@ json.dump(sat,open(sp,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
 lines=[f"# REPORT.md — 第 {ROUND} 轮摘要","",f"- 日期：{DATE}","- 状态：正常（NORMAL）","",
  "## 1. 本轮完成","",
  "- 新增条目：2（地图投影、争议边界处理原则；B4 缺口）",
- "- 升级 L2：8（核心 L1 中具备机构来源者）",
+ "- 升级 L2：8 项执行，其中城市起源返工后降级，净增 7（核心 L1 中具备机构来源者）",
  "- 复核：30（重要 L1，按稀疏维度与引用次数排序）",
  f"- 修复：{FIXES}",
  "- 新增来源：0（沿用已核验的 FAO/NASA/NOAA/USGS/OWID/UNESCO/OGC/Esri 来源）",
@@ -42,7 +42,7 @@ lines=[f"# REPORT.md — 第 {ROUND} 轮摘要","",f"- 日期：{DATE}","- 状�
  f"- tools/check.py：ERRORS=0 ALL_PASS（{len(es)} 条条目、{len(src)} 条来源）",
  "- tools/check_links.py：BROKEN=0 LINKS_PASS（3449 条内部链接）",
  f"- 抽检（25%，10 条）：{AUDIT}",
- "- 回滚/降级：无","",
+ "- 回滚/降级：城市起源因来源不足由 L2 降级 L1；无整批回滚","",
  "## 3. 缺口发现摘要（本轮使用 5 种方法）","",
  f"- B5 待核实（轮初）：{gap['B5_pending']['total']} 条",
  f"- B7 深度缺口（轮初）：核心 L1 {len(gap['B7_depth']['core_l1'])}，重要 L1 {gap['B7_depth']['important_l1']}",

@@ -51,6 +51,20 @@
       "new_sources": 0,
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：10/10 PASS，整批合格；非阻断观察：复核新增多为泛化背景来源，已如实标注并保持待核实"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-22",
+      "new_entries": 2,
+      "upgrades": 7,
+      "reviews": 30,
+      "fixes": 36,
+      "pending_total": 183,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：首轮2 FAIL（日本列岛/城市起源无源年代、城市起源泛化来源）→全局清理32条L2无源年代、城市起源降级L1、修正正则与背景来源口径→复核10/10 PASS"
     }
   ]
 }
