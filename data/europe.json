@@ -392,9 +392,9 @@
       "region": "中欧",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "抽检返工完成(第3轮)",
       "definition": "阿尔卑斯山：欧洲最高山脉，形成南北交通屏障与山口通道。",
-      "time_or_place": "约3000万年前至今",
+      "time_or_place": "中欧山地（形成年代待核）",
       "overview": "欧洲最高山脉，形成南北交通屏障与山口通道。",
       "related": [
         "europe-x610fx5927x5229x534ax5c9b",
@@ -402,19 +402,17 @@
         "europe-x7231x7434x6d77x4e16x754c"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "ap-human-geo"
+        "s056-earthquake-usgs-gov",
+        "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
+      "pending_notes": "返工：已移除约3000万年前与欧洲最高山脉表述；山口表述改为提供通道而非决定交通；山地形成年代待专门地质来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-22",
-      "geo": "阿尔卑斯山横贯中欧，冰川与河谷塑造地形，山口决定南北交通通道。海拔差异形成明显垂直气候带。",
+      "geo": "阿尔卑斯山横贯中欧，冰川与河谷塑造地形，山口为南北交通提供可能通道。海拔差异形成明显垂直气候带。",
       "influence": "山口与隧道降低阻隔，使意大利与中欧长期互动；山地农业与牧业适应坡地条件。交通变化是重要变量，不能把区域差异完全归因于山体。",
       "polities": "山地城邦、贵族领地与近代国家边界在此交汇，战略通道长期受重视。",
       "connections": "阿尔卑斯连接地中海与中欧，商旅、军队与思想沿山口流动。",

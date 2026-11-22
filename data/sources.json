@@ -2185,6 +2185,71 @@
       "verified": true,
       "page_title": "OpenStax",
       "note": "curl 实测 HTTP 200；页面标题：OpenStax；年份未标注。；页面为前端渲染，静态标题为站点名，需浏览器复核目录。"
+    },
+    {
+      "id": "usgs-dynamic-earth",
+      "title": "This Dynamic Earth: The Story of Plate Tectonics",
+      "author": "U.S. Geological Survey",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "This Dynamic Earth--Contents [USGS]",
+      "note": "curl 实测 HTTP 200；页面标题：This Dynamic Earth--Contents [USGS]；年份未标注。"
+    },
+    {
+      "id": "ogc-standards",
+      "title": "OGC Standards",
+      "author": "Open Geospatial Consortium",
+      "year": null,
+      "type": "标准组织",
+      "url": "https://www.ogc.org/standards/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "OGC Standards | WMS, WFS, GeoPackage & 80+ Open Geospatial Specs",
+      "note": "curl 实测 HTTP 200；页面标题：OGC Standards | WMS, WFS, GeoPackage & 80+ Open Geospatial Specs；年份未标注。"
+    },
+    {
+      "id": "esri-gis",
+      "title": "What is GIS?",
+      "author": "Esri",
+      "year": null,
+      "type": "行业机构",
+      "url": "https://www.esri.com/en-us/what-is-gis/overview",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "What is GIS? | Geographic Information System Mapping Technology",
+      "note": "curl 实测 HTTP 200；页面标题：What is GIS? | Geographic Information System Mapping Technology；年份未标注。"
+    },
+    {
+      "id": "fao-aquastat-basins",
+      "title": "AQUASTAT — Countries and Basins",
+      "author": "FAO",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.fao.org/aquastat/en/countries-and-basins",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "AQUASTAT - FAO's Global Information System on Water and Agriculture",
+      "note": "curl 实测 HTTP 200；页面标题：AQUASTAT - FAO's Global Information System on Water and Agriculture；年份未标注。"
+    },
+    {
+      "id": "noaa-glerl",
+      "title": "NOAA Great Lakes Environmental Research Laboratory",
+      "author": "NOAA",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.glerl.noaa.gov/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Home: NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI, USA",
+      "note": "curl 实测 HTTP 200；页面标题：Home: NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI, USA；年份未标注。"
     }
   ]
 }

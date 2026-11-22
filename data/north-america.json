@@ -212,9 +212,9 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "抽检返工完成(第3轮)",
       "definition": "五大湖：淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
-      "time_or_place": "冰后期至今",
+      "time_or_place": "北美中东部（湖群形成细节待核）",
       "overview": "淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
@@ -222,20 +222,18 @@
         "north-america-x5927x5e73x539f"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "ap-human-geo"
+        "noaa-glerl",
+        "s050-oceanservice-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
+      "pending_notes": "返工：已移除冰后期与具体成因断言；NOAA GLERL 支撑湖泊研究背景，形成过程与年代待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22",
-      "geo": "五大湖位于北美中东部，由冰川侵蚀形成，湖群通过圣劳伦斯河通向大西洋。湖岸平原与港口条件优越。",
+      "geo": "五大湖位于北美中东部，由地质与冰川过程塑造，湖群通过圣劳伦斯河通向大西洋。湖岸平原与港口条件优越。",
       "influence": "内河航运降低大宗货物运输成本，沿岸城市形成工业带；淡水与渔业支撑聚落。工业发展也与能源、劳动力和市场有关，非湖泊单一因素。",
       "polities": "美加边界沿湖划定，港口城市与州省政策共同影响区域发展。",
       "connections": "五大湖—圣劳伦斯航道连接北美内陆与大西洋，是粮食、矿产与制成品通道。",

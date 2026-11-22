@@ -23,8 +23,8 @@
       "id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第3轮)",
-      "source_count": 4,
+      "status": "抽检返工完成(第3轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -356,8 +356,8 @@
       "id": "asia-x957fx6c5fx6d41x57df",
       "level": "L2",
       "tier": "核心",
-      "status": "L2完成(第3轮)",
-      "source_count": 4,
+      "status": "抽检返工完成(第3轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -725,8 +725,8 @@
       "id": "europe-x963fx5c14x5351x65afx5c71",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第3轮)",
-      "source_count": 4,
+      "status": "抽检返工完成(第3轮)",
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -941,8 +941,8 @@
       "id": "north-america-x4e94x5927x6e56",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第3轮)",
-      "source_count": 4,
+      "status": "抽检返工完成(第3轮)",
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1409,8 +1409,8 @@
       "id": "antarctica-x5357x6781x534ax5c9b",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第3轮)",
-      "source_count": 4,
+      "status": "抽检返工完成(第3轮)",
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1508,8 +1508,8 @@
       "id": "global-themes-x5927x9646x6f02x79fb",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第3轮)",
-      "source_count": 3,
+      "status": "待复核(第3轮返工)",
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1625,8 +1625,8 @@
       "id": "global-themes-x5730x7406x4fe1x606fx7cfbx7edf",
       "level": "L1",
       "tier": "重要",
-      "status": "L1完成(第3轮)",
-      "source_count": 2,
+      "status": "抽检返工完成(第3轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     }

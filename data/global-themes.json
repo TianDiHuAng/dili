@@ -49,9 +49,9 @@
       "region": "全球",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "待复核(第3轮返工)",
       "definition": "大陆漂移：魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
-      "time_or_place": "1912年提出",
+      "time_or_place": "20世纪初（具体年份待专门来源核）",
       "overview": "魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
       "related": [
         "global-themes-x677fx5757x6784x9020",
@@ -59,12 +59,11 @@
         "global-themes-x5b63x98cex7cfbx7edf"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "usgs-dynamic-earth",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：USGS 与 NASA 地球科学页支持板块理论背景；魏格纳年代待专门来源核验。",
+      "pending_notes": "返工：USGS《This Dynamic Earth》已加入并核验，可支撑漂移与板块理论概述；魏格纳提出年份仍待专门史料核验，故状态回到待复核。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -464,19 +463,20 @@
       "region": "全球",
       "theme": "区域",
       "level": "L1",
-      "status": "L1完成(第3轮)",
-      "definition": "地理信息系统：地理信息系统通过采集、存储、分析与展示空间数据，支撑地图制图、资源管理与区域研究；其方法框架来自多门学科。",
-      "time_or_place": "20世纪后期至今（学科形成年代待专门来源核）",
+      "status": "抽检返工完成(第3轮)",
+      "definition": "地理信息系统：通过采集、存储、分析与展示空间数据来支撑制图与区域研究的方法体系；其形成年代与学科谱系待专门来源核验。",
+      "time_or_place": "空间数据方法（形成年代待专门来源核）",
       "overview": "地理信息系统通过采集、存储、分析与展示空间数据，支撑地图制图、资源管理与区域研究；其方法框架来自多门学科。",
       "related": [
         "global-themes-x677fx5757x6784x9020"
       ],
       "sources": [
-        "openstax-intro-geo",
+        "ogc-standards",
+        "esri-gis",
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。",
+      "pending_notes": "返工：已移除无源年代；OGC 标准页与 Esri GIS 定义页支撑方法概述，OpenStax 页面标题仅为站点名，未作为专题依据。学科形成年代待专门史料核验。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",

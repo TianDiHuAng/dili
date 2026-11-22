@@ -486,9 +486,9 @@
       "region": "东亚",
       "theme": "农业",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "抽检返工完成(第3轮)",
       "definition": "长江流域：稻作农业与密集水网支撑南方经济，中古以后经济重心南移。",
-      "time_or_place": "约前5000年至今",
+      "time_or_place": "长江流域（农业与城市密集区）",
       "overview": "稻作农业与密集水网支撑南方经济，中古以后经济重心南移。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
@@ -496,13 +496,12 @@
         "asia-x82cfx7f8ex5c14x57cex90a6"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "ap-human-geo"
+        "fao-aquastat-basins",
+        "s022-ourworldindata-org",
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
+      "pending_notes": "返工：已移除约前5000年与王朝序列；FAO 流域页支撑水系背景，稻作起源与年代待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -511,7 +510,7 @@
       "last_update": "2026-11-22",
       "geo": "长江发源于青藏高原，流经四川盆地与长江中下游平原，水量丰沛。流域横跨多种气候带，湖泊与支流构成密集水网。",
       "influence": "温暖湿润与稻作条件支撑人口密集和经济重心南移；水运降低大宗商品运输成本。水利与国家能力互为条件，不能简化为环境决定论。",
-      "polities": "六朝、隋唐以后南方政权地位上升，宋元明清时期长江流域成为粮食、手工业和商业核心。",
+      "polities": "中古以后经济重心逐渐南移，具体时期与政权序列待专门来源核验。",
       "connections": "长江通过大运河与黄河流域整合，通过沿海港口连接海上贸易网络。",
       "today": "流域仍是中国重要农业与城市带。人口、粮食产量与水质数据待按年份从权威来源补齐。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='长江流域示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>长江流域</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"

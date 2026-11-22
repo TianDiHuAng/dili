@@ -49,9 +49,9 @@
       "region": "南极洲",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "抽检返工完成(第3轮)",
       "definition": "南极半岛：向北伸出，气温相对温和，科考站密集。",
-      "time_or_place": "约中生代至今",
+      "time_or_place": "南极洲北部（地质年代待核）",
       "overview": "向北伸出，气温相对温和，科考站密集。",
       "related": [
         "antarctica-x5357x6781x5927x9646",
@@ -59,20 +59,18 @@
         "antarctica-x5357x6781x51b0x76d6"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "ap-human-geo"
+        "s038-earthobservatory-nasa-gov",
+        "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
+      "pending_notes": "返工：已移除约中生代与科考站密集的具体断言；原因表述改为多因素；半岛地质年代与站点数量待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-22",
       "geo": "南极半岛向北伸出，气温相对温和，海岸与冰架交错。海峡与岛屿使科考船易于接近，降水相对较多。",
-      "influence": "相对可达性使半岛成为科考密集区，温度升高与冰架崩解影响生态与观测。人类活动受限，变化主要由自然过程与全球气候驱动。",
+      "influence": "相对可达性使半岛成为科考密集区，区域升温与海洋过程共同影响冰架和生态。人类活动受限，变化原因需结合观测与模型，不作单因解释。",
       "polities": "南极条约体系下由多国协商管理，科考站分布反映国际合作格局。",
       "connections": "半岛通过南大洋与南美洲相望，是生态与航运观察的重要区域。",
       "today": "旅游与科研活动增加，环境保护压力上升。站点与游客数据待按年份核验。",
