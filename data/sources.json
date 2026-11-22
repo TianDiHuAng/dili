@@ -2561,7 +2561,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank Indicator API — Population (SP.POP.TOTL, CHN)",
-      "note": "JSON API 9885 字节；返回逐年人口数值与 year 字段（命中 200）。可作现状数据的年份-数值核对入口。 注：正则为 Population|value；返回 66 条、1976–2025 年，字段含 date/value。"
+      "note": "JSON API 9885 字节；返回逐年人口数值与 year 字段（命中 200）。可作现状数据的年份-数值核对入口。 注：正则为 Population|value；返回 66 条、1976–2025 年，字段含 date/value。 【第29轮退役】本端点为「指标级样例」且 URL 固定指向单一国家（CHN/BRA/EGY/WLD），"
     },
     {
       "id": "usgs-eq-api",
@@ -2600,7 +2600,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank Indicator API — Urban population (% of total)",
-      "note": "JSON API 200；11638 字节；返回逐年年城市化率（2025 年 66.34%，共 66 条）；正则为 urban|value。用于城市化水平条目的年份-数值核对。"
+      "note": "JSON API 200；11638 字节；返回逐年年城市化率（2025 年 66.34%，共 66 条）；正则为 urban|value。用于城市化水平条目的年份-数值核对。 【第29轮退役】本端点为「指标级样例」且 URL 固定指向单一国家（CHN/BRA/EGY/WLD），"
     },
     {
       "id": "wb-api-forest",
@@ -2613,7 +2613,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank Indicator API — Forest area (% of land area) AG.LND.FRST.ZS",
-      "note": "JSON API 200；返回逐年年森林覆盖率（巴西 2024 年 58.5%）；正则为 forest|value。"
+      "note": "JSON API 200；返回逐年年森林覆盖率（巴西 2024 年 58.5%）；正则为 forest|value。 【第29轮退役】本端点为「指标级样例」且 URL 固定指向单一国家（CHN/BRA/EGY/WLD），"
     },
     {
       "id": "wb-api-agri",
@@ -2626,7 +2626,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank Indicator API — Agriculture, value added (% of GDP) NV.AGR.TOTL.ZS",
-      "note": "JSON API 200；返回逐年农业增加值占 GDP 比重（埃及 2025 年 16.6%）；正则为 agr|value。"
+      "note": "JSON API 200；返回逐年农业增加值占 GDP 比重（埃及 2025 年 16.6%）；正则为 agr|value。 【第29轮退役】本端点为「指标级样例」且 URL 固定指向单一国家（CHN/BRA/EGY/WLD），"
     },
     {
       "id": "wb-api-life",
@@ -2639,7 +2639,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank Indicator API — Life expectancy at birth",
-      "note": "JSON API 200；返回逐年出生时预期寿命（**单位为年，非百分比**）；正则为 life|value。全球 2024 年 73.48 岁。"
+      "note": "JSON API 200；返回逐年出生时预期寿命（**单位为年，非百分比**）；正则为 life|value。全球 2024 年 73.48 岁。 【第29轮退役】本端点为「指标级样例」且 URL 固定指向单一国家（CHN/BRA/EGY/WLD），"
     },
     {
       "id": "wb-arg-pop",
@@ -3914,6 +3914,58 @@
       "verified": true,
       "page_title": "NOAA Climate at a Glance — Global Land and Ocean Temperature Departures (JSON)",
       "note": "JSON API 200；返回世界（WLD）或全球序列逐年数值；最新 基准期 1901-2000；2025 年 +1.12 °C，2024 年 +1.26 °C；单位为该指标原生单位。"
+    },
+    {
+      "id": "wb-jpn-pop",
+      "title": "World Bank API — 总人口 (SP.POP.TOTL, 日本)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 总人口 (SP.POP.TOTL, 日本)",
+      "note": "JSON API 200；国家 JPN（日本）＋指标 SP.POP.TOTL；最新值 123366734（2025 年）。"
+    },
+    {
+      "id": "wb-jpn-urban",
+      "title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 日本)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 日本)",
+      "note": "JSON API 200；国家 JPN（日本）＋指标 SP.URB.TOTL.IN.ZS；最新值 92.3001449420786（2025 年）。"
+    },
+    {
+      "id": "wb-jpn-life",
+      "title": "World Bank API — 预期寿命 (SP.DYN.LE00.IN, 日本)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 预期寿命 (SP.DYN.LE00.IN, 日本)",
+      "note": "JSON API 200；国家 JPN（日本）＋指标 SP.DYN.LE00.IN；最新值 84.0363414634146（2024 年）。"
+    },
+    {
+      "id": "wb-jpn-forest",
+      "title": "World Bank API — 森林覆盖率 (AG.LND.FRST.ZS, 日本)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/JPN/indicator/AG.LND.FRST.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 森林覆盖率 (AG.LND.FRST.ZS, 日本)",
+      "note": "JSON API 200；国家 JPN（日本）＋指标 AG.LND.FRST.ZS；最新值 68.3407407407407（2024 年）。"
     }
   ]
 }

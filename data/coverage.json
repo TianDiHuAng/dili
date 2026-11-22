@@ -425,7 +425,7 @@
       "id": "asia-x5b8bx4ee3",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第29轮·实证)",
+      "status": "已复核(第29轮·非实证)",
       "source_count": 8,
       "pending_count": 1,
       "last_update": "2026-11-22",
@@ -463,7 +463,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·实证)",
-      "source_count": 5,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1280,7 +1280,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true

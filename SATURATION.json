@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 28,
+  "last_round": 29,
   "history": [
     {
       "round": 1,
@@ -337,6 +337,19 @@
       ],
       "gaps_found": 273,
       "note": "today 无指标编号 47→25；世界银行库扩至 52 个国家/聚合",
+      "result": "非饱和"
+    },
+    {
+      "round": 29,
+      "methods_used": [
+        "实证复核(末条清零)",
+        "today量级声明",
+        "全球数据端点",
+        "事实核对",
+        "台账"
+      ],
+      "gaps_found": 273,
+      "note": "today 无编号 25→22（全球主题类难用国家数据，已用 WLD/NOAA 世界序列补 5 条）",
       "result": "非饱和"
     }
   ],
