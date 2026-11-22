@@ -1383,7 +1383,7 @@
       "region": "西亚",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第7轮)",
+      "status": "已复核(第9轮)",
       "definition": "安纳托利亚：高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
       "time_or_place": "古代至今",
       "overview": "高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
@@ -1399,7 +1399,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮复核：西亚×地形；新增背景来源 s038-earthobservatory-nasa-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第9轮复核：西亚×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1414,7 +1414,7 @@
       "region": "东亚",
       "theme": "气候",
       "level": "L1",
-      "status": "已复核(第7轮)",
+      "status": "已复核(第9轮)",
       "definition": "东亚季风：海陆热力差异导致的季节性风向反转，显著影响东亚降水与农业节律；其强度变化受多因素共同作用，不作单因决定论解释。",
       "time_or_place": "东亚季风区（现代观测与历史记载）",
       "overview": "海陆热力差异导致的季节性风向反转，显著影响稻作区降水节律与农业周期安排；具体影响程度还受地形、海洋温度与其他气候因子共同作用。",
@@ -1427,7 +1427,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮复核：东亚×气候；新增背景来源 无，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第9轮复核：东亚×气候；新增背景来源 无，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
