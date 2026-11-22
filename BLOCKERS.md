@@ -25,3 +25,7 @@
 ## 第6轮记录（非阻塞）
 - Livius 提供 Egypt/Mesopotamia/Polis/Athens/Greece 专题页，解锁 4 条核心 L2；其搜索接口不可用，未取得 Achaemenid/Maya/Rome Republic 等专门页面。
 - 城市起源等 6 条降级/来源缺口条目仍无对应专题来源，维持 L1 并记录。
+
+## 第7轮记录（非阻塞）
+- Livius Carthage / Roman Republic / Italy 专题页可用，但汉代、蒙古帝国、阿兹特克仍无对应专题页，维持 L1。
+- UNESCO Culture 页面在本沙箱 curl 存在间歇性连接重置；已改用 Livius/OWID 等页面作为抽检判据，来源记录仍保留。
