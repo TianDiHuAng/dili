@@ -21,3 +21,7 @@
 - Met Museum、Khan Academy、UNESCO WHC、World History Encyclopedia、OpenLearn 等 5 个候选域未能取得可核验专题标题，核心古代政权条目升级受阻。
 - 城市起源因泛化来源不能承载具体历史断言，已降级 L1，转入第6轮修复队列。
 - 全库 L2 无源年代已统一清理；剩余 5 条相对时期名（全新世/古代至今）为非阻断观察。
+
+## 第6轮记录（非阻塞）
+- Livius 提供 Egypt/Mesopotamia/Polis/Athens/Greece 专题页，解锁 4 条核心 L2；其搜索接口不可用，未取得 Achaemenid/Maya/Rome Republic 等专门页面。
+- 城市起源等 6 条降级/来源缺口条目仍无对应专题来源，维持 L1 并记录。
