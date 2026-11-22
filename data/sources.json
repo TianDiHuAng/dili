@@ -2510,6 +2510,19 @@
       "verified": true,
       "page_title": "Global Soil Partnership | FAO",
       "note": "curl 实测 HTTP 200；页面标题：Global Soil Partnership | FAO；D044/D050 剥离口径正文 5215 字符；第20轮按 D055 档①作专题页（命中 53）。"
+    },
+    {
+      "id": "usgs-plate-motions",
+      "title": "Understanding plate motions [This Dynamic Earth, USGS]",
+      "author": "U.S. Geological Survey",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Understanding plate motions [This Dynamic Earth, USGS]",
+      "note": "curl 实测 HTTP 200；D044/D050 剥离口径正文 17121 字符、tectonic|plate 命中 86；第22轮按 D055 档①作专题页。"
     }
   ]
 }

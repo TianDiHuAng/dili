@@ -1,0 +1,42 @@
+[
+  {
+    "topic": "板块构造",
+    "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+    "title": "Understanding plate motions [This Dynamic Earth, USGS]",
+    "body": 17121,
+    "hits": 86,
+    "gate": 5000
+  },
+  {
+    "topic": "冰芯气候记录",
+    "url": "https://earthobservatory.nasa.gov/features/Paleoclimatology_IceCores",
+    "title": "Paleoclimatology: The Ice Core Record - NASA Science",
+    "body": 18929,
+    "hits": 36,
+    "gate": 5000
+  },
+  {
+    "topic": "亚马逊盆地",
+    "url": "https://earthobservatory.nasa.gov/features/AmazonFire",
+    "title": "From Forest to Field: How Fire is Transforming the Amazon - NASA Science",
+    "body": 33279,
+    "hits": 189,
+    "gate": 5000
+  },
+  {
+    "topic": "南极冰盖",
+    "url": "https://climate.nasa.gov/vital-signs/ice-sheets/",
+    "title": "Ice Sheets - Earth Indicator - NASA Science",
+    "body": 8612,
+    "hits": 14,
+    "gate": 8000
+  },
+  {
+    "topic": "撒哈拉沙漠",
+    "url": "https://earthobservatory.nasa.gov/features/DustBowl",
+    "title": "From the Dust Bowl to the Sahel - NASA Science",
+    "body": 10327,
+    "hits": 11,
+    "gate": 8000
+  }
+]
