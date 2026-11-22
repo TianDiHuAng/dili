@@ -135,6 +135,20 @@
       "new_sources": 0,
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：10/10 PASS，整批合格；18个来源URL全部HTTP 200且标题一致"
+    },
+    {
+      "round": 11,
+      "date": "2026-11-22",
+      "new_entries": 10,
+      "upgrades": 0,
+      "reviews": 30,
+      "fixes": 0,
+      "pending_total": 213,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：10/10 PASS，整批合格；17个来源URL全部HTTP 200且标题一致"
     }
   ]
 }

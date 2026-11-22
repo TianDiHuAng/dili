@@ -42,3 +42,7 @@
 ## 第10轮记录（非阻塞）
 - 世界银行城市化 URL 落地页为通用 Development Topics 导航页；城市化水平条目以 OWID Urbanization 为主来源，抽检判定主题路径相符，未返工。
 - 5 条核心 L1 仍无专题来源，维持 L1。
+
+## 第11轮记录（非阻塞）
+- UNESCO Ocean 页面在 gzip 协商下返回空 body，改用 `Accept-Encoding: identity` 后可取到标题；来源核验仍判通过。
+- 5 条核心 L1 仍无专题来源，维持 L1。
