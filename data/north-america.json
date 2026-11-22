@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第8轮)",
+      "status": "已复核(第10轮)",
       "definition": "北美冰盖：劳伦泰德冰盖塑造五大湖与冰碛地貌。",
       "time_or_place": "更新世",
       "overview": "劳伦泰德冰盖塑造五大湖与冰碛地貌。",
@@ -66,7 +66,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第10轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -222,7 +222,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第8轮)",
+      "status": "已复核(第10轮)",
       "definition": "五大湖：北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
       "time_or_place": "北美中东部（湖群形成细节待核）",
       "overview": "北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
@@ -238,7 +238,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮复核：北美洲×地形；新增背景来源 s038-earthobservatory-nasa-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第10轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -254,7 +254,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第8轮)",
+      "status": "已复核(第10轮)",
       "definition": "科罗拉多高原：干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
       "time_or_place": "约中生代至今",
       "overview": "干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
@@ -271,7 +271,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮复核：北美洲×地形；新增背景来源 s038-earthobservatory-nasa-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第10轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -286,7 +286,7 @@
       "region": "北美洲",
       "theme": "气候",
       "level": "L1",
-      "status": "已复核(第8轮)",
+      "status": "已复核(第10轮)",
       "definition": "墨西哥湾：暖湿气流源，影响美国南部降水与飓风路径。",
       "time_or_place": "古代至今",
       "overview": "暖湿气流源，影响美国南部降水与飓风路径。",
@@ -301,7 +301,7 @@
         "s048-climate-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮复核：北美洲×气候；新增背景来源 s048-climate-gov，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第10轮复核：北美洲×气候；新增背景来源 无，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -428,7 +428,7 @@
       "region": "中美洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第8轮)",
+      "status": "已复核(第10轮)",
       "definition": "特奥蒂瓦坎：墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
       "time_or_place": "约1—7世纪",
       "overview": "墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
@@ -444,7 +444,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第10轮复核：中美洲×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -488,7 +488,7 @@
       "region": "北美洲",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第8轮)",
+      "status": "已复核(第10轮)",
       "definition": "北美原住民：多生态区适应形成多样社会，农业、狩猎与采集并存。",
       "time_or_place": "古代至今",
       "overview": "多生态区适应形成多样社会，农业、狩猎与采集并存。",
@@ -500,10 +500,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "un-m49"
+        "un-m49",
+        "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮复核：北美洲×区域；新增背景来源 un-m49，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第10轮复核：北美洲×区域；新增背景来源 s075-aag-org，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -548,7 +549,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第8轮)",
+      "status": "已复核(第10轮)",
       "definition": "格陵兰岛：世界最大岛，冰盖覆盖，因纽特人适应极地环境。",
       "time_or_place": "古代至今",
       "overview": "世界最大岛，冰盖覆盖，因纽特人适应极地环境。",
@@ -560,10 +561,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s056-earthquake-usgs-gov"
+        "s056-earthquake-usgs-gov",
+        "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第10轮复核：北美洲×地形；新增背景来源 s038-earthobservatory-nasa-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
