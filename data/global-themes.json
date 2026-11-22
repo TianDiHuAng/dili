@@ -356,7 +356,7 @@
       "region": "全球",
       "theme": "政权更替",
       "level": "L1",
-      "status": "二次返工降级L1(第5轮)",
+      "status": "来源再核未通过(第6轮)",
       "definition": "城市起源：农业剩余、贸易与权力集中等因素共同作用，使部分聚落发展为早期城市。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "农业剩余、贸易与权力集中等因素共同作用，使部分聚落发展为早期城市。",
@@ -369,7 +369,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮返工：现有 UNESCO 文化页与 OWID 城市化页为背景来源，不能支撑早期城市具体年代与地区序列，故降级 L1。",
+      "pending_notes": "第6轮来源复查：Livius 与 NatGeo 新来源不含城市起源专题页；维持 L1，待专门来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

@@ -23,7 +23,7 @@
       "id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第4轮)",
+      "status": "来源再核未通过(第6轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -93,10 +93,10 @@
     },
     {
       "id": "africa-x53e4x57c3x53cax53e4x738bx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第5轮)",
-      "source_count": 4,
+      "status": "L2完成(第6轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -228,19 +228,19 @@
     },
     {
       "id": "asia-x82cfx7f8ex5c14x57cex90a6",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第2轮)",
+      "status": "L2完成(第6轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
     {
       "id": "asia-x963fx5361x5fb7x5e1dx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第5轮)",
-      "source_count": 4,
+      "status": "L2完成(第6轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -356,7 +356,7 @@
       "id": "asia-x957fx6c5fx6d41x57df",
       "level": "L1",
       "tier": "核心",
-      "status": "已复核(第4轮)",
+      "status": "来源再核未通过(第6轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -642,9 +642,9 @@
     },
     {
       "id": "europe-x53e4x5e0cx814ax57cex90a6",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第3轮)",
+      "status": "L2完成(第6轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -725,7 +725,7 @@
       "id": "europe-x963fx5c14x5351x65afx5c71",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第4轮)",
+      "status": "来源再核未通过(第6轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -941,7 +941,7 @@
       "id": "north-america-x4e94x5927x6e56",
       "level": "L1",
       "tier": "重要",
-      "status": "来源再核未通过(第4轮)",
+      "status": "来源再核未通过(第6轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1409,7 +1409,7 @@
       "id": "antarctica-x5357x6781x534ax5c9b",
       "level": "L1",
       "tier": "重要",
-      "status": "来源再核未通过(第4轮)",
+      "status": "来源再核未通过(第6轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1589,7 +1589,7 @@
       "id": "global-themes-x57cex5e02x8d77x6e90",
       "level": "L1",
       "tier": "核心",
-      "status": "二次返工降级L1(第5轮)",
+      "status": "来源再核未通过(第6轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"

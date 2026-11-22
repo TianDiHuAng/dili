@@ -114,29 +114,35 @@
       "unit_id": "europe",
       "region": "南欧",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第3轮)",
-      "definition": "古希腊城邦：山地与海洋分割形成众多城邦，雅典与斯巴达模式差异显著。",
-      "time_or_place": "约前8—前4世纪",
-      "overview": "山地与海洋分割形成众多城邦，雅典与斯巴达模式差异显著。",
+      "level": "L2",
+      "status": "L2完成(第6轮)",
+      "definition": "古希腊城邦：以城市及其周边领土为基本单位的地方政治共同体，山地与海湾共同塑造其分立与互联格局。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "以城市及其周边领土为基本单位的地方政治共同体，山地与海湾共同塑造其分立与互联格局。",
       "related": [
         "europe-x514bx91ccx7279x6587x660e",
         "europe-x8fc8x9521x5c3cx6587x660e",
         "europe-x7231x7434x6d77x4e16x754c"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "livius-polis",
+        "livius-athens",
+        "livius-greece"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：UNESCO 文化页支持遗产背景；城邦制度细节待专门史料核验。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "希腊本土多山，平原狭小，海岸曲折且岛屿众多。山地分割与海上通道并存，地中海气候适宜橄榄、葡萄与谷物混合农业。",
+      "influence": "海洋交通促进贸易与殖民，山地限制大规模统一，但城邦制度不能仅由地形解释；制度选择与社会冲突同样关键。",
+      "polities": "Livius 的 Polis、Athens 与 Greece 页面提供城邦概念和主要城邦的专题入口，可支撑城邦作为基本单位的概述；具体政体演变待逐条核验。",
+      "connections": "爱琴海把希腊本土、岛屿、安纳托利亚与埃及连接成交换网络，陶器、金属与思想沿航线传播。",
+      "today": "遗址与博物馆是当代文化景观的重要部分。游客与遗产数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古希腊城邦示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古希腊城邦</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "europe-x9a6cx5176x987fx4e0ex4e9ax5386x5c71x5927",
@@ -397,7 +403,7 @@
       "region": "中欧",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "来源再核未通过(第6轮)",
       "definition": "阿尔卑斯山：横贯中欧的山地系统，河谷与山口影响区域交通。",
       "time_or_place": "中欧山地（形成年代待核）",
       "overview": "横贯中欧的山地系统，河谷与山口影响区域交通。",
@@ -411,7 +417,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：中欧×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮来源复查：Livius Greece 与 NatGeo Maya 与阿尔卑斯无关；维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -1,0 +1,80 @@
+{
+  "round": 6,
+  "gaps": {
+    "B1_new_sources": {
+      "verified": [
+        "livius-egypt",
+        "livius-mesopotamia",
+        "livius-polis",
+        "livius-athens",
+        "livius-greece",
+        "natgeo-maya"
+      ],
+      "unlocked": [
+        "古埃及古王国",
+        "苏美尔城邦",
+        "阿卡德帝国",
+        "古希腊城邦"
+      ],
+      "count": 4
+    },
+    "B5_pending": {
+      "total": 183
+    },
+    "B7_depth": {
+      "core_l1": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x8fe6x592ax57fa",
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x957fx6c5fx6d41x57df",
+        "asia-x6c49x4ee3",
+        "asia-x8499x53e4x5e1dx56fd",
+        "europe-x53e4x5e0cx814ax57cex90a6",
+        "europe-x7f57x9a6cx5171x548cx56fd",
+        "europe-x4e0dx5217x98a0x7fa4x5c9b",
+        "north-america-x963fx5179x7279x514b",
+        "global-themes-x57cex5e02x8d77x6e90"
+      ],
+      "important_l1": 89
+    },
+    "B2_matrix": {
+      "blanks": [],
+      "sparse": [
+        "非洲×气候",
+        "非洲×农业",
+        "非洲×区域",
+        "亚洲×地形",
+        "亚洲×气候",
+        "欧洲×气候",
+        "欧洲×农业",
+        "北美洲×气候",
+        "北美洲×农业",
+        "南美洲×气候",
+        "南美洲×贸易",
+        "南美洲×区域",
+        "大洋洲×气候",
+        "大洋洲×农业",
+        "大洋洲×贸易",
+        "大洋洲×政权更替",
+        "南极洲×气候",
+        "南极洲×农业",
+        "南极洲×贸易",
+        "南极洲×政权更替",
+        "南极洲×区域",
+        "全球主题×农业",
+        "全球主题×贸易",
+        "全球主题×政权更替"
+      ]
+    },
+    "B4_reader_recheck": {
+      "closed": [
+        "地图投影",
+        "争议边界处理原则",
+        "人口地理",
+        "城市地理"
+      ],
+      "remaining": [],
+      "count": 0
+    }
+  }
+}

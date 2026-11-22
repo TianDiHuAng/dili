@@ -87,7 +87,7 @@
       "region": "东北非",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "来源再核未通过(第6轮)",
       "definition": "尼罗河三角洲：尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
       "time_or_place": "埃及北部（地貌演化年代待核）",
       "overview": "尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
@@ -102,7 +102,7 @@
         "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东北非×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮来源复查：Livius Egypt 分类页为埃及史入口，不是三角洲专题；维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -348,29 +348,34 @@
       "unit_id": "africa",
       "region": "东北非",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第5轮)",
-      "definition": "古埃及古王国：以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
-      "time_or_place": "约前2686—前2181年",
-      "overview": "以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
+      "level": "L2",
+      "status": "L2完成(第6轮)",
+      "definition": "古埃及古王国：尼罗河谷早期统一国家阶段，以孟菲斯一带为政治中心，留下大规模石造陵墓与神庙遗存。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "尼罗河谷早期统一国家阶段，以孟菲斯一带为政治中心，留下大规模石造陵墓与神庙遗存。",
       "related": [
         "africa-x53e4x57c3x53cax65e9x738bx671d",
         "africa-x53e4x57c3x53cax4e2dx738bx56fd",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo",
+        "livius-egypt",
+        "s013-fao-org",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：东北非×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "核心区位于尼罗河谷与三角洲，河流定期泛滥带来沉积物，狭窄耕地与沙漠边缘共同塑造聚落格局。水资源与运输条件是长期变量。",
+      "influence": "尼罗河农业与运输为国家组织提供物质基础，但国家形成还取决于制度、军事与贸易，不能把政治形态简化为河流产物。",
+      "polities": "Livius 的 Egypt 分类页列出该时期相关王朝条目，可作为进一步核对王表与年表的入口；本站不在 L2 骨架中断言具体年代。",
+      "connections": "通过尼罗河与三角洲连接上埃及、下埃及和地中海沿岸，并通过红海与西亚保持交流。",
+      "today": "遗址保护与旅游是当代议题。游客量、人口与保护资金数据待按年份从权威机构补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古埃及古王国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古埃及古王国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x53e4x57c3x53cax4e2dx738bx56fd",

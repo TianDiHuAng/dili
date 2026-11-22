@@ -2263,6 +2263,84 @@
       "verified": true,
       "page_title": "The Great Lakes | US EPA",
       "note": "curl 实测 HTTP 200；页面标题：The Great Lakes | US EPA；年份未标注。"
+    },
+    {
+      "id": "livius-egypt",
+      "title": "Egypt - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/category/egypt/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Egypt - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Egypt - Livius；年份未标注。"
+    },
+    {
+      "id": "livius-mesopotamia",
+      "title": "Mesopotamia - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/articles/place/mesopotamia/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Mesopotamia - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Mesopotamia - Livius；年份未标注。"
+    },
+    {
+      "id": "livius-polis",
+      "title": "Polis - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/articles/concept/polis/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Polis - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Polis - Livius；年份未标注。"
+    },
+    {
+      "id": "livius-athens",
+      "title": "Athens - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/articles/place/athens/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Athens - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Athens - Livius；年份未标注。"
+    },
+    {
+      "id": "livius-greece",
+      "title": "Greece - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/category/greece/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Greece - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Greece - Livius；年份未标注。"
+    },
+    {
+      "id": "natgeo-maya",
+      "title": "New research challenges the idea that the Maya civilization collapsed",
+      "author": "National Geographic",
+      "year": null,
+      "type": "权威媒体",
+      "url": "https://www.nationalgeographic.com/history/article/maya",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "New research challenges the idea that the Maya civilization collapsed | National Geographic",
+      "note": "curl 实测 HTTP 200；页面标题：New research challenges the idea that the Maya civilization collapsed | National Geographic；年份未标注。"
     }
   ]
 }
