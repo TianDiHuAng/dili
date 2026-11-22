@@ -130,10 +130,12 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY **未纳入采集名单**（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -144,7 +146,7 @@
       "influence": "黑土与温和气候有利于农牧业，铁路与港口把内陆产品运往国际市场。出口繁荣依赖全球市场与制度安排，不能只由土壤解释。",
       "polities": "土地制度与港口城市深刻影响区域政治经济；具体政策、年代与政权变动待专门史料核验。",
       "connections": "通过拉普拉塔河口连接大西洋，粮食、肉类与皮革进入全球贸易网络。",
-      "today": "阿根廷与乌拉圭的农牧业仍具全球竞争力。产量与人口数据待按年份核验。",
+      "today": "以阿根廷与乌拉圭为例，来源：世界银行 API。阿根廷总人口 45,851,378（2025年）（SP.POP.TOTL）、城市化率 92.4%（2025年）（SP.URB.TOTL.IN.ZS）；乌拉圭总人口 3,384,688（2025年）、城市化率 95.7%（2025年）。两国农牧业产值与播种面积数据待专门统计来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='拉普拉塔平原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>拉普拉塔平原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

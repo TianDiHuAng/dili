@@ -356,6 +356,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：3 PASS/7 FAIL（A1「指标未返回」实为脚本请求失败=失实陈述、A3-A5缺指标编号且森林/农业值无来源、21条备注共用同一实测句缺D055判定、D059连二连三）→返工：补NGA/USA实测值、正文补指标编号、登记wb-api-forest/agri、L1渲染today、30条备注逐条化(唯一30/30含D055判定、s010改记200/218挑战页)",
       "note": "5条 today 段填入世界银行API实测值（含指标编号/年份/口径风险声明）；30条实证复核逐条化（唯一备注 30/30，含本条正则与D055判定）；L1 条目 today 现已渲染"
+    },
+    {
+      "round": 26,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 26,
+      "fixes": 16,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：A组数字全对但2处寿命单位错(应「岁」)、斯瓦希里用南非错配、ARG归因失实；B组刚果盆地判定反向；D059连批复核6条、D067实测句跨6条复用且7条自相矛盾→返工：寿命改岁、斯瓦希里换TZA/KEN、拉普拉塔补ARG/URY、刚果改未达标、撤回6条连批复核、补档位判定、提交site闭环D066",
+      "note": "11条L2 today 填入世界银行API实测值（19国×5指标库）；26条实证复核取自零复核池"
     }
   ]
 }

@@ -511,5 +511,140 @@
       "year": "2025",
       "country": "Russian Federation"
     }
+  },
+  "TZA": {
+    "urban_pct": {
+      "value": 36.8833115936643,
+      "year": "2025",
+      "country": "Tanzania"
+    },
+    "pop_total": {
+      "value": 70545865,
+      "year": "2025",
+      "country": "Tanzania"
+    },
+    "life_exp": {
+      "value": 67.212,
+      "year": "2024",
+      "country": "Tanzania"
+    },
+    "forest_pct": {
+      "value": 49.6255656108597,
+      "year": "2024",
+      "country": "Tanzania"
+    },
+    "agri_pct_gdp": {
+      "value": 22.9094775894812,
+      "year": "2025",
+      "country": "Tanzania"
+    }
+  },
+  "KEN": {
+    "urban_pct": {
+      "value": 32.2121192871745,
+      "year": "2025",
+      "country": "Kenya"
+    },
+    "pop_total": {
+      "value": 57532493,
+      "year": "2025",
+      "country": "Kenya"
+    },
+    "life_exp": {
+      "value": 63.834,
+      "year": "2024",
+      "country": "Kenya"
+    },
+    "forest_pct": {
+      "value": 6.62673874122022,
+      "year": "2024",
+      "country": "Kenya"
+    },
+    "agri_pct_gdp": {
+      "value": 23.1599874772131,
+      "year": "2025",
+      "country": "Kenya"
+    }
+  },
+  "ARG": {
+    "urban_pct": {
+      "value": 92.3519221615173,
+      "year": "2025",
+      "country": "Argentina"
+    },
+    "pop_total": {
+      "value": 45851378,
+      "year": "2025",
+      "country": "Argentina"
+    },
+    "life_exp": {
+      "value": 77.543,
+      "year": "2024",
+      "country": "Argentina"
+    },
+    "forest_pct": {
+      "value": 17.0927361155264,
+      "year": "2024",
+      "country": "Argentina"
+    },
+    "agri_pct_gdp": {
+      "value": 5.53265388071299,
+      "year": "2025",
+      "country": "Argentina"
+    }
+  },
+  "URY": {
+    "urban_pct": {
+      "value": 95.6537192104085,
+      "year": "2025",
+      "country": "Uruguay"
+    },
+    "pop_total": {
+      "value": 3384688,
+      "year": "2025",
+      "country": "Uruguay"
+    },
+    "life_exp": {
+      "value": 78.287,
+      "year": "2024",
+      "country": "Uruguay"
+    },
+    "forest_pct": {
+      "value": 11.4595808383234,
+      "year": "2024",
+      "country": "Uruguay"
+    },
+    "agri_pct_gdp": {
+      "value": 6.3800077320062,
+      "year": "2025",
+      "country": "Uruguay"
+    }
+  },
+  "CAN": {
+    "urban_pct": {
+      "value": 82.8757020253886,
+      "year": "2025",
+      "country": "Canada"
+    },
+    "pop_total": {
+      "value": 41651653,
+      "year": "2025",
+      "country": "Canada"
+    },
+    "life_exp": {
+      "value": 82.1080487804878,
+      "year": "2024",
+      "country": "Canada"
+    },
+    "forest_pct": {
+      "value": 41.9662373274773,
+      "year": "2024",
+      "country": "Canada"
+    },
+    "agri_pct_gdp": {
+      "value": 1.93275289413659,
+      "year": "2022",
+      "country": "Canada"
+    }
   }
 }

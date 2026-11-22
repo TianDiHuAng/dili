@@ -67,7 +67,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。 档位判定：本条标题为「苏美尔城邦」，正则 sumer 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -103,7 +103,7 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·阿卡德帝国】本条正则 akkad；livius-mesopotamia=200/正文3628字符/本条命中0；s010-unesco-org=200/正文218字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「阿卡德帝国」主题专题页。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·阿卡德帝国】本条正则 akkad；livius-mesopotamia=200/正文3628字符/本条命中0；s010-unesco-org=200/正文218字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「阿卡德帝国」主题专题页。 档位判定：本条标题为「阿卡德帝国」，正则 akkad 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -478,7 +478,7 @@
         "wb-api-agri"
       ],
       "needs_verification": false,
-      "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·黄河流域】本条正则 yellow river|huang he；br-yellow-river=200/正文4070字符/本条命中0；wk-yellow-river=200/正文4669字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4669字符；档①门槛5000/档②③8000）；缺口为「黄河流域」主题专题页。",
+      "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·黄河流域】本条正则 yellow river|huang he；br-yellow-river=200/正文4070字符/本条命中0；wk-yellow-river=200/正文4669字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4669字符；档①门槛5000/档②③8000）；缺口为「黄河流域」主题专题页。 档位判定：本条标题为「黄河流域」，正则 yellow river|huang he 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -856,7 +856,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 第5轮返工：已移除无专门来源的具体年代表述。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·日本列岛】本条正则 japan；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4707字符；档①门槛5000/档②③8000）；缺口为「日本列岛」主题专题页。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 第5轮返工：已移除无专门来源的具体年代表述。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·日本列岛】本条正则 japan；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4707字符；档①门槛5000/档②③8000）；缺口为「日本列岛」主题专题页。 档位判定：本条标题为「日本列岛」，正则 japan 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -867,7 +867,7 @@
       "influence": "海岸线曲折促进港口与海上交流，狭窄平原推动高密度土地利用。灾害风险管理是长期议题，但社会发展不能仅由地质条件解释。",
       "polities": "列岛历史上形成多个区域政权，近代以后政治结构经历显著变化；具体王朝与年代待专门来源核验。",
       "connections": "日本列岛通过东海、黄海与朝鲜半岛和中国相连，并通过太平洋航线与更广区域互动。",
-      "today": "来源：世界银行 API。总人口 123,366,734（2025年）（SP.POP.TOTL）、城市化率 92.3%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 68.3%（2024年）（AG.LND.FRST.ZS）、预期寿命 84.0%（2024年）（SP.DYN.LE00.IN）。列岛人口集中于沿海平原，具体分布数据待专门来源核验。",
+      "today": "来源：世界银行 API。总人口 123,366,734（2025年）（SP.POP.TOTL）、城市化率 92.3%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 68.3%（2024年）（AG.LND.FRST.ZS）、预期寿命 84.0 岁（2024年）（SP.DYN.LE00.IN）。列岛人口集中于沿海平原，具体分布数据待专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='日本列岛示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>日本列岛</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -926,7 +926,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。",
+      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。 档位判定：本条标题为「湄公河三角洲」，正则 mekong 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1261,7 +1261,7 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。 档位判定：本条标题为「青藏高原」，正则 tibet|plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

@@ -11,7 +11,7 @@
       "region": "大洋洲",
       "theme": "地形",
       "level": "L2",
-      "status": "已复核(第26轮·实证)",
+      "status": "已复核(第25轮·实证)",
       "definition": "澳大利亚大陆：最小大陆，内陆干旱、沿海湿润，地形与气候差异显著。",
       "time_or_place": "古代至今",
       "overview": "最小大陆，内陆干旱、沿海湿润，地形与气候差异显著。",
@@ -29,7 +29,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·澳大利亚大陆】正则 australia；britannica-regions(200/正文137675字符/命中14)；wikipedia-regions(200/正文5字符/命中0)。 D055 判定：达标（可升级候选）；两源均非「澳大利亚大陆」专题页时维持 L1。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·澳大利亚大陆】本条正则 australia；britannica-regions=200/正文137675字符/本条命中14；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：达标（可升级候选）；缺口为「澳大利亚大陆」主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·澳大利亚大陆】正则 australia；britannica-regions(200/正文137675字符/命中14)；wikipedia-regions(200/正文5字符/命中0)。 D055 判定：达标（可升级候选）；两源均非「澳大利亚大陆」专题页时维持 L1。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -88,7 +88,7 @@
       "region": "大洋洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第26轮·实证)",
+      "status": "已复核(第25轮·实证)",
       "definition": "大自流盆地：中部承压含水层，牧业依赖井水，盐度限制利用。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "中部承压含水层，牧业依赖井水，盐度限制利用。",
@@ -103,7 +103,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮实证复核·大自流盆地】本条正则 artesian；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；档①门槛5000/档②③8000）；缺口为「大自流盆地」主题专题页。",
+      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -156,7 +156,7 @@
       "region": "大洋洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第26轮·实证)",
+      "status": "已复核(第25轮·实证)",
       "definition": "新西兰北岛：火山与地热活动活跃，毛利聚落与港口城市集中。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "火山与地热活动活跃，毛利聚落与港口城市集中。",
@@ -170,7 +170,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮实证复核·新西兰北岛】本条正则 north island；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；档①门槛5000/档②③8000）；缺口为「新西兰北岛」主题专题页。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -185,7 +185,7 @@
       "region": "大洋洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第26轮·实证)",
+      "status": "已复核(第25轮·实证)",
       "definition": "新西兰南岛：南阿尔卑斯山与冰川地貌，降水丰富。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "南阿尔卑斯山与冰川地貌，降水丰富。",
@@ -199,7 +199,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮实证复核·新西兰南岛】本条正则 south island；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；档①门槛5000/档②③8000）；缺口为「新西兰南岛」主题专题页。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

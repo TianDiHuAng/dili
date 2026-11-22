@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 25,
+  "last_round": 26,
   "history": [
     {
       "round": 1,
@@ -298,6 +298,19 @@
       ],
       "gaps_found": 273,
       "note": "世界银行 API 实测值首次写入 today 段，长期'现状待核验'空白开始闭合",
+      "result": "非饱和"
+    },
+    {
+      "round": 26,
+      "methods_used": [
+        "B1取数层→today填充",
+        "实证复核(零复核池)",
+        "B5待核实",
+        "B7深度",
+        "B2覆盖矩阵"
+      ],
+      "gaps_found": 273,
+      "note": "零复核池从 42 降至 24；today 空白从 70 条开始闭合",
       "result": "非饱和"
     }
   ],
