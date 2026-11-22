@@ -37,6 +37,20 @@
       "new_sources": 11,
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：首轮7条FAIL→专题来源替换与无源年代移除→二次复核5条仍FAIL→来源不足的5条降级L1并补EPA来源→终审7/7 PASS，整批合格"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-22",
+      "new_entries": 2,
+      "upgrades": 0,
+      "reviews": 33,
+      "fixes": 5,
+      "pending_total": 181,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：10/10 PASS，整批合格；非阻断观察：复核新增多为泛化背景来源，已如实标注并保持待核实"
     }
   ]
 }
