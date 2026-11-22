@@ -1,0 +1,203 @@
+{
+  "CHN": {
+    "urban_pct": {
+      "value": 66.3429910348272,
+      "year": "2025",
+      "country": "China"
+    },
+    "pop_total": {
+      "value": 1406585000,
+      "year": "2025",
+      "country": "China"
+    },
+    "life_exp": {
+      "value": 78.017,
+      "year": "2024",
+      "country": "China"
+    },
+    "forest_pct": {
+      "value": 24.0239619693211,
+      "year": "2024",
+      "country": "China"
+    },
+    "agri_pct_gdp": {
+      "value": 6.65869070601804,
+      "year": "2025",
+      "country": "China"
+    }
+  },
+  "IND": {
+    "urban_pct": {
+      "value": 35.689155772396,
+      "year": "2025",
+      "country": "India"
+    },
+    "pop_total": {
+      "value": 1463865525,
+      "year": "2025",
+      "country": "India"
+    },
+    "life_exp": {
+      "value": 72.235,
+      "year": "2024",
+      "country": "India"
+    },
+    "forest_pct": {
+      "value": 24.436043441556,
+      "year": "2024",
+      "country": "India"
+    },
+    "agri_pct_gdp": {
+      "value": 16.2342483910129,
+      "year": "2025",
+      "country": "India"
+    }
+  },
+  "NGA": {
+    "pop_total": {
+      "value": 237527782,
+      "year": "2025",
+      "country": "Nigeria"
+    },
+    "life_exp": {
+      "value": 54.635,
+      "year": "2024",
+      "country": "Nigeria"
+    },
+    "forest_pct": {
+      "value": 18.9475279159393,
+      "year": "2024",
+      "country": "Nigeria"
+    },
+    "agri_pct_gdp": {
+      "value": 22.9790557916205,
+      "year": "2025",
+      "country": "Nigeria"
+    }
+  },
+  "BRA": {
+    "urban_pct": {
+      "value": 88.1772996487898,
+      "year": "2025",
+      "country": "Brazil"
+    },
+    "pop_total": {
+      "value": 212812405,
+      "year": "2025",
+      "country": "Brazil"
+    },
+    "life_exp": {
+      "value": 76.023,
+      "year": "2024",
+      "country": "Brazil"
+    },
+    "forest_pct": {
+      "value": 58.5468405650061,
+      "year": "2024",
+      "country": "Brazil"
+    },
+    "agri_pct_gdp": {
+      "value": 6.08621695565171,
+      "year": "2025",
+      "country": "Brazil"
+    }
+  },
+  "USA": {
+    "pop_total": {
+      "value": 341784857,
+      "year": "2025",
+      "country": "United States"
+    },
+    "life_exp": {
+      "value": 78.890243902439,
+      "year": "2024",
+      "country": "United States"
+    },
+    "forest_pct": {
+      "value": 33.7764090858406,
+      "year": "2024",
+      "country": "United States"
+    },
+    "agri_pct_gdp": {
+      "value": 0.942961672907101,
+      "year": "2021",
+      "country": "United States"
+    }
+  },
+  "EGY": {
+    "urban_pct": {
+      "value": 42.9043204925248,
+      "year": "2025",
+      "country": "Egypt, Arab Rep."
+    },
+    "pop_total": {
+      "value": 118365995,
+      "year": "2025",
+      "country": "Egypt, Arab Rep."
+    },
+    "life_exp": {
+      "value": 71.806,
+      "year": "2024",
+      "country": "Egypt, Arab Rep."
+    },
+    "forest_pct": {
+      "value": 0.0041187402682204,
+      "year": "2024",
+      "country": "Egypt, Arab Rep."
+    },
+    "agri_pct_gdp": {
+      "value": 16.551922508574,
+      "year": "2025",
+      "country": "Egypt, Arab Rep."
+    }
+  },
+  "IDN": {
+    "urban_pct": {
+      "value": 59.3929063969984,
+      "year": "2025",
+      "country": "Indonesia"
+    },
+    "life_exp": {
+      "value": 71.288,
+      "year": "2024",
+      "country": "Indonesia"
+    },
+    "forest_pct": {
+      "value": 50.6696830671111,
+      "year": "2024",
+      "country": "Indonesia"
+    },
+    "agri_pct_gdp": {
+      "value": 13.0995463199278,
+      "year": "2025",
+      "country": "Indonesia"
+    }
+  },
+  "MEX": {
+    "urban_pct": {
+      "value": 80.0408930629723,
+      "year": "2025",
+      "country": "Mexico"
+    },
+    "pop_total": {
+      "value": 131946900,
+      "year": "2025",
+      "country": "Mexico"
+    },
+    "life_exp": {
+      "value": 75.264,
+      "year": "2024",
+      "country": "Mexico"
+    },
+    "forest_pct": {
+      "value": 34.1538414053859,
+      "year": "2024",
+      "country": "Mexico"
+    },
+    "agri_pct_gdp": {
+      "value": 3.88408341898948,
+      "year": "2025",
+      "country": "Mexico"
+    }
+  }
+}

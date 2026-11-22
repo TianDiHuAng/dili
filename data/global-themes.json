@@ -532,10 +532,11 @@
       "sources": [
         "s023-ourworldindata-org",
         "s004-population-un-org",
-        "wb-api-pop"
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
@@ -545,7 +546,7 @@
       "influence": "人口增长与分布变化通过劳动力供给、消费结构与迁移流向影响区域发展；生育率、死亡率与迁移共同决定结构变化。人口现象需结合社会经济条件理解，不宜归因于单一因素。",
       "polities": "本条不展开政权序列；人口治理涉及户籍、移民与公共服务等制度安排，具体制度待专门资料核验。",
       "connections": "人口迁移把来源地与目的地连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
-      "today": "城市化与人口老龄化是主要趋势，统计口径因国家而异。人口总量、结构与城市化率需按年份从 UN/OWID 机构页核验。",
+      "today": "来源：世界银行 API（指标 SP.POP.TOTL）。总人口：印度 1,463,865,525（2025年）、中国 1,406,585,000（2025年）、美国 341,784,857（2025年）、尼日利亚 237,527,782（2025年）、巴西 212,812,405（2025年）、墨西哥 131,946,900（2025年）、埃及 118,365,995（2025年）。数据按世界银行口径，可能与各国普查结果略有差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><circle cx='120' cy='200' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='225' cy='245' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='330' cy='290' r='30' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='435' cy='200' r='36' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='540' cy='245' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='645' cy='290' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='40' y='360' class='dim'>人口地理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -1139,15 +1140,17 @@
         "s025-ourworldindata-org",
         "un-m49",
         "s026-ourworldindata-org",
-        "wb-api-urban"
+        "wb-api-urban",
+        "wb-api-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS）。城市人口占比：中国 66.3%（2025年）、印度 35.7%（2025年）、巴西 88.2%（2025年）、墨西哥 80.0%（2025年）、埃及 42.9%（2025年）。尼日利亚与美国该指标本期未返回，故不列。各国口径与统计年份不完全一致，跨国比较需注意定义差异。"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x53d8x5316",
@@ -1997,15 +2000,18 @@
       ],
       "sources": [
         "s066-worldbank-org",
-        "un-m49"
+        "un-m49",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
       "outlines": [
         "World Bank Latin America and the Caribbean 区域页",
         "World Bank DataBank WDI"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "以代表性国家为例，来源：世界银行 API。巴西城市化率 88.2%（2025年）、墨西哥 80.0%（2025年）；巴西总人口 212,812,405（2025年）、墨西哥 131,946,900（2025年）；巴西森林覆盖率 58.5%（2024年）。区域内部差异大，本数据仅示量级，不代表区域整体。"
     },
     {
       "id": "global-themes-x4e2dx4e1cx4e0ex5317x975ex533ax57dfx53d1x5c55",
@@ -2024,15 +2030,18 @@
       ],
       "sources": [
         "s067-worldbank-org",
-        "un-m49"
+        "un-m49",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
       "outlines": [
         "World Bank MENA 区域页",
         "World Bank DataBank WDI"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "以埃及为例，来源：世界银行 API。城市化率 42.9%（2025年）、总人口 118,365,995（2025年）、农业增加值占 GDP 16.6%（2025年）。区域内产油国与进口国差异显著，不宜以单一国家代表全域。"
     },
     {
       "id": "global-themes-x5357x4e9ax533ax57dfx53d1x5c55",
@@ -2051,15 +2060,18 @@
       ],
       "sources": [
         "s068-worldbank-org",
-        "un-m49"
+        "un-m49",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
       "outlines": [
         "World Bank South Asia 区域页",
         "World Bank DataBank WDI"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "以印度为例，来源：世界银行 API。城市化率 35.7%（2025年）、总人口 1,463,865,525（2025年）、森林覆盖率 24.4%（2024年）。南亚各国差异大，本数据仅示量级。"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x8dddx5e73",
