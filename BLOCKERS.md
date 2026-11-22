@@ -29,3 +29,7 @@
 ## 第7轮记录（非阻塞）
 - Livius Carthage / Roman Republic / Italy 专题页可用，但汉代、蒙古帝国、阿兹特克仍无对应专题页，维持 L1。
 - UNESCO Culture 页面在本沙箱 curl 存在间歇性连接重置；已改用 Livius/OWID 等页面作为抽检判据，来源记录仍保留。
+
+## 第8轮记录（非阻塞）
+- 10 个新增候选专题页均不可核验（Livius Han/Mongols/Aztec/Cities、UNESCO Silk Roads/Mongol Empire、NatGeo Aztec、Britannica Yangtze），5 条核心 L1 维持 L1。
+- REPORT 模板漏 f-string 已即时修正，数据层未受影响。

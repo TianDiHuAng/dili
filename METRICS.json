@@ -93,6 +93,20 @@
       "new_sources": 3,
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：10/10 PASS，整批合格；4条核心L2升级与6条L1来源再核记录通过；非阻断观察：UNESCO页面间歇性连接重置"
+    },
+    {
+      "round": 8,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 35,
+      "fixes": 5,
+      "pending_total": 183,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：10/10 PASS，整批合格；5条核心来源探测记录与5条重要L1复核均合规"
     }
   ]
 }
