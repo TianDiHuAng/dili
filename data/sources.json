@@ -3978,7 +3978,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "USGS Earthquake Catalog — M6+ events, 2025 (GeoJSON)",
-      "note": "JSON API 200；2025 年 1–12 月 M≥6 事件 144 次（features 计数）；数值随查询时刻变化（USGS/NOAA 为实时目录），以查询返回为准。"
+      "note": "JSON API 200；2025 年 1–12 月 M≥6 事件 144 次（features 计数）；该端点为实时目录，数值随查询时刻变化，以查询返回为准。"
     },
     {
       "id": "noaa-current-stations",
@@ -3991,7 +3991,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "NOAA CO-OPS — Currents Station Metadata (JSON)",
-      "note": "JSON API 200；返回 84 个洋流观测站（stations 数组长度）；数值随查询时刻变化（USGS/NOAA 为实时目录），以查询返回为准。"
+      "note": "JSON API 200；返回 84 个洋流观测站（stations 数组长度）；该端点为实时目录，数值随查询时刻变化，以查询返回为准。"
     },
     {
       "id": "wb-wld-pm25",
@@ -4004,7 +4004,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — PM2.5 air pollution, mean annual exposure (EN.ATM.PM25.MC.M3, 全球)",
-      "note": "JSON API 200；2023 年 32.87 μg/m³（全球人口加权年均暴露）；数值随查询时刻变化（USGS/NOAA 为实时目录），以查询返回为准。"
+      "note": "JSON API 200；2023 年 32.87 μg/m³（全球人口加权年均暴露）。**世界银行年度指标**，随年度更新与历史修订变化，非实时目录。"
     },
     {
       "id": "wb-wld-arable",

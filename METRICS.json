@@ -416,6 +416,21 @@
       "sample_rate": "25%（10条抽检 / 本轮16条去重改动 = 62.5%）",
       "sample_audit": "25%抽检10条：A组5条全球数据逐值全对；B组宋代实证为假命中（M49页噪声）→回退非实证、澳大利亚/日本仍挂CHN共享端点→建国别端点、共享端点退役、check.py加R14防复发",
       "note": "10条补量级声明、5条全球主题填数据、5条年份格式统一（合计16条去重）；宋代原判实证经抽检证伪已回退为非实证"
+    },
+    {
+      "round": 30,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 15,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 9,
+      "sample_rate": "25%（10条 / 本轮9条去重改动）",
+      "sample_audit": "25%抽检10条：9 PASS/1 FAIL（洋流写「2025年查询」实为2026-11-22、缺动态声明）→返工：洋流改查询时点+动态声明+站网覆盖范围、PM2.5 note纠正机构口径、气候带删无源分布断言、丝路补指标编号、status统一为无实证、R14加固",
+      "note": "8条today填全球/国别实测（USGS地震目录/NOAA洋流站/WB指标）；宋代5候选仍不可达"
     }
   ]
 }

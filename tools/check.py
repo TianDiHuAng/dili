@@ -172,7 +172,7 @@ CN2ISO = {
 def check_today_sources(e):
     """R14：today 中提到的国家，必须在该条 sources 的端点里有对应 ISO3（D072）。"""
     today = e.get("today") or ""
-    if "世界银行 API" not in today:
+    if ("世界银行" not in today) and not re.search(r"（20\d{2}年）", today):
         return
     named = {CN2ISO[n] for n in CN2ISO if n in today}
     if not named:

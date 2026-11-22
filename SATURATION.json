@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 29,
+  "last_round": 30,
   "history": [
     {
       "round": 1,
@@ -350,6 +350,19 @@
       ],
       "gaps_found": 273,
       "note": "today 无编号 25→22（全球主题类难用国家数据，已用 WLD/NOAA 世界序列补 5 条）",
+      "result": "非饱和"
+    },
+    {
+      "round": 30,
+      "methods_used": [
+        "B1观测数据端点",
+        "today填充",
+        "宋代探测",
+        "R14校验",
+        "台账"
+      ],
+      "gaps_found": 273,
+      "note": "today 含数值 54→59；仍无 14 条（南极/物候/火情等无对应数据源）",
       "result": "非饱和"
     }
   ],
