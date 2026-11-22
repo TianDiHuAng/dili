@@ -21,10 +21,12 @@ for u,c in cov.get("matrix",{}).items():
         if c.get(t,0)==0: blanks.append(f"{NAMES.get(u,u)}×{t}")
 
 mp=os.path.join(ROOT,"METRICS.json"); metrics=json.load(open(mp,encoding="utf-8"))
+for r in metrics["rounds"]:
+    if r["round"]==2: r["fixes"]=7
 metrics["rounds"]=[r for r in metrics["rounds"] if r["round"]!=ROUND]
 metrics["rounds"].append({"round":ROUND,"date":DATE,"new_entries":4,"upgrades":20,"reviews":16,
  "fixes":FIXES,"pending_total":pending,"check_result":"ERRORS=0 ALL_PASS","link_result":"BROKEN=0 LINKS_PASS",
- "new_sources":5,"sample_rate":"25%","sample_audit":AUDIT})
+ "new_sources":11,"sample_rate":"25%","sample_audit":AUDIT})
 json.dump(metrics,open(mp,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
 
 sp=os.path.join(ROOT,"SATURATION.json"); sat=json.load(open(sp,encoding="utf-8"))
@@ -41,13 +43,13 @@ lines=[f"# REPORT.md — 第 {ROUND} 轮摘要","",f"- 日期：{DATE}","- 状�
  "- 升级 L2：20（重要条目，跨八个单元均匀）",
  "- 复核：16（4 条结转 + 12 条新增复核）",
  f"- 修复：{FIXES}",
- "- 新增来源：5（NOAA 物候、NASA 北极火情、NASA 松岛冰川、OpenStax 两本教材目录页）",
+ "- 新增来源：11（B1/B6 5 条 + 返工专题来源 5 条 + EPA 大湖 1 条）",
  "- 提交：4 个批次提交，每批 10 任务且通过 check.py","",
  "## 2. 质量","",
- "- tools/check.py：ERRORS=0 ALL_PASS（181 条条目、168 条来源）",
+ f"- tools/check.py：ERRORS=0 ALL_PASS（{len(es)} 条条目、{len(src)} 条来源）",
  "- tools/check_links.py：BROKEN=0 LINKS_PASS（3385 条内部链接）",
  f"- 抽检（25%，10 条）：{AUDIT}",
- "- 回滚/降级批次：无","",
+ "- 回滚/降级：5 条因专题来源不足由 L2 降级 L1（尼罗河三角洲、长江流域、阿尔卑斯山、五大湖、南极半岛）；无整批回滚","",
  "## 3. 缺口发现摘要（本轮使用 5 种方法）","",
  f"- B1 权威大纲：OpenStax 教材目录 + AAG；缺 {gap['B1_outline']['count']} 个主题（本轮补 1，余 2 转下轮）",
  f"- B6 近期动态：NOAA/NASA 近期页面；缺 {gap['B6_recent']['count']} 个主题（本轮全部补入）",
