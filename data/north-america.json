@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第17轮)",
+      "status": "已复核(第17轮)·换源(第17轮二次)",
       "definition": "北美冰盖：地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
@@ -59,11 +59,11 @@
         "north-america-x5927x5e73x539f"
       ],
       "sources": [
-        "s038-earthobservatory-nasa-gov",
-        "s056-earthquake-usgs-gov"
+        "nasa-ice-cores",
+        "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。",
+      "pending_notes": "第17轮二次返工：原用 s038（NASA 门户）+ s056（USGS 站点迁移通告，0 命中）无法支撑主题；现改用 NASA『Paleoclimatology: The Ice Core Record』为专题页（D044 剥离后正文 18931 字符、ice sheet|ice core|glacier 命中 40），s038 作机构页，已摘除 s056。冰盖范围与时序仍待专门地质来源逐条核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -628,11 +628,10 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions",
-        "s011-unesco-org"
+        "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -221,6 +221,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：1 FAIL（阿契美尼德波斯换源不支撑驿道/行省断言、含无关机构页）+8条附缺陷→二次返工：五段收敛、移除无关来源、命中口径62、outlines回填、壳页标注、状态转「D041配对缺口」；复核后剩余1项配对缺口已标记",
       "note": "阿契美尼德波斯换源合规（Livius Cyrus，D044 达标）；新增8条用未使用已核验来源"
+    },
+    {
+      "round": 17,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 33,
+      "fixes": 10,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：2 FAIL（北美冰盖剩余来源全无关、十三殖民地残留s011）→返工：北美冰盖换NASA冰芯页(剥离后18931字符/40命中)、十三殖民地移除s011、清3条s056残留、新增s011/s056全库扫描报告；review改追加式",
+      "note": "清理7条泛化来源误贴（第16轮审查清单）；专题页探测14路径仅1可用"
     }
   ]
 }

@@ -99,11 +99,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo",
-        "s056-earthquake-usgs-gov"
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。",
+      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

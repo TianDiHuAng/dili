@@ -50,8 +50,8 @@ def review(title):
   for e in d["entries"]:
    if e["title"]==title:
     gap=GAP.get(e["theme"],"专题页")
-    e["pending_notes"]=(f"第17轮复核：{e['region']}×{e['theme']}；来源均已核验；"
-      f"按 D041/D044 仍缺{gap}（须正文≥8000字节且主题关键词命中≥5）。")
+    e["pending_notes"]=((e.get("pending_notes") or "")+
+      f" 【第17轮复核】{e['region']}×{e['theme']}；来源均已核验；按 D041/D044 仍缺{gap}（须正文≥8000字节且主题关键词命中≥5）。")
     e["last_update"]=TODAY;e["status"]="已复核(第17轮)"
     return e["id"]
  raise SystemExit("未找到:"+title)

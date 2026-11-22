@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 16,
+  "last_round": 17,
   "history": [
     {
       "round": 1,
@@ -187,6 +187,18 @@
         "B7深度缺口(含遗产L2)"
       ],
       "gaps_found": 291,
+      "result": "非饱和"
+    },
+    {
+      "round": 17,
+      "methods_used": [
+        "B1 D044专题页探测",
+        "B5待核实",
+        "B7深度(遗产L2)",
+        "B2覆盖矩阵",
+        "修复清理(第16轮遗留)"
+      ],
+      "gaps_found": 278,
       "result": "非饱和"
     }
   ],

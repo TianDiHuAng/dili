@@ -25,7 +25,7 @@
       "level": "L1",
       "tier": "重要",
       "status": "已复核(第17轮)",
-      "source_count": 3,
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -44,7 +44,7 @@
       "level": "L1",
       "tier": "重要",
       "status": "已复核(第17轮)",
-      "source_count": 5,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -910,7 +910,7 @@
       "id": "north-america-x5317x7f8ex51b0x76d6",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第17轮)",
+      "status": "已复核(第17轮)·换源(第17轮二次)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1068,7 +1068,7 @@
       "level": "L1",
       "tier": "重要",
       "status": "已复核(第17轮)",
-      "source_count": 3,
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1124,7 +1124,7 @@
       "level": "L1",
       "tier": "重要",
       "status": "已复核(第17轮)",
-      "source_count": 4,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

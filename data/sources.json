@@ -2471,6 +2471,19 @@
       "verified": true,
       "page_title": "Cyrus the Great - Livius",
       "note": "curl 实测 HTTP 200；页面标题：Cyrus the Great - Livius；D044 剥离口径（去 nav/header/footer/aside/script/style/form/noscript）正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62；未剥离 chrome 计数为 69，按 D044 不采用。"
+    },
+    {
+      "id": "nasa-ice-cores",
+      "title": "Paleoclimatology: The Ice Core Record - NASA Science",
+      "author": "NASA Earth Observatory",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://earthobservatory.nasa.gov/features/Paleoclimatology_IceCores",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Paleoclimatology: The Ice Core Record - NASA Science",
+      "note": "curl 实测 HTTP 200；页面标题：Paleoclimatology: The Ice Core Record - NASA Science；D044 剥离口径（去 nav/header/footer/aside/script/style/form/noscript）正文 18931 字符，正则 ice sheet|ice core|glacier 命中 40。"
     }
   ]
 }
