@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 27,
+  "last_round": 28,
   "history": [
     {
       "round": 1,
@@ -324,6 +324,19 @@
       ],
       "gaps_found": 273,
       "note": "零复核池 24→0 全部覆盖；today 待补 70→62",
+      "result": "非饱和"
+    },
+    {
+      "round": 28,
+      "methods_used": [
+        "B1取数层→today填充(22条)",
+        "状态恢复(9条)",
+        "实证复核(8条)",
+        "B5待核实",
+        "B7深度"
+      ],
+      "gaps_found": 273,
+      "note": "today 无指标编号 47→25；世界银行库扩至 52 个国家/聚合",
       "result": "非饱和"
     }
   ],

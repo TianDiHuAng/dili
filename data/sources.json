@@ -3836,6 +3836,19 @@
       "verified": true,
       "page_title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, VNM)",
       "note": "JSON API 200；国家/聚合 VNM（VNM）＋指标 SP.URB.TOTL.IN.ZS；最新值 38.8299160351294（2025 年）。本条专用端点，读者点开即为正文所述国家/指标。"
+    },
+    {
+      "id": "wb-rus-urban",
+      "title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 俄罗斯)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/RUS/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 俄罗斯)",
+      "note": "JSON API 200；国家 RUS（俄罗斯）＋指标 SP.URB.TOTL.IN.ZS；最新值 75.2506636608215（2025 年）。"
     }
   ]
 }
