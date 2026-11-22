@@ -534,7 +534,7 @@
       "region": "西欧",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "法兰克王国：查理曼帝国覆盖西欧大部，封建制度发展。",
       "time_or_place": "5—9世纪",
       "overview": "查理曼帝国覆盖西欧大部，封建制度发展。",
@@ -546,10 +546,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s011-unesco-org"
+        "s011-unesco-org",
+        "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：西欧×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：西欧×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -593,7 +594,7 @@
       "region": "地中海",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "十字军东征：宗教战争同时重启地中海东西贸易联系。",
       "time_or_place": "1096—1291年",
       "overview": "宗教战争同时重启地中海东西贸易联系。",
@@ -605,10 +606,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：地中海×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：地中海×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -652,7 +654,7 @@
       "region": "南欧",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "威尼斯：亚得里亚海潟湖城市，东西方贸易中介。",
       "time_or_place": "约8—18世纪",
       "overview": "亚得里亚海潟湖城市，东西方贸易中介。",
@@ -664,10 +666,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：南欧×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：南欧×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -780,7 +783,7 @@
       "region": "东南欧",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "巴尔干半岛：多山脉与海峡，处在欧亚交界，政权更替频繁。",
       "time_or_place": "古代至今",
       "overview": "多山脉与海峡，处在欧亚交界，政权更替频繁。",
@@ -792,10 +795,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "un-m49"
+        "un-m49",
+        "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东南欧×区域；新增背景来源 un-m49，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：东南欧×区域；新增背景来源 s075-aag-org，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -870,7 +874,7 @@
       "region": "东南欧",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "黑海海峡：博斯普鲁斯与达达尼尔海峡连接黑海与地中海，战略与贸易价值高。",
       "time_or_place": "古代至今",
       "overview": "博斯普鲁斯与达达尼尔海峡连接黑海与地中海，战略与贸易价值高。",
@@ -882,10 +886,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东南欧×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：东南欧×贸易；新增背景来源 s025-ourworldindata-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第4轮)",
+      "status": "已复核(第6轮)",
       "definition": "北美冰盖：劳伦泰德冰盖塑造五大湖与冰碛地貌。",
       "time_or_place": "更新世",
       "overview": "劳伦泰德冰盖塑造五大湖与冰碛地貌。",
@@ -62,10 +62,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "ap-human-geo",
-        "s056-earthquake-usgs-gov"
+        "s056-earthquake-usgs-gov",
+        "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第6轮复核：北美洲×地形；新增背景来源 s038-earthobservatory-nasa-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -221,7 +222,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "来源再核未通过(第6轮)",
+      "status": "已复核(第6轮)",
       "definition": "五大湖：北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
       "time_or_place": "北美中东部（湖群形成细节待核）",
       "overview": "北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
@@ -232,10 +233,11 @@
       ],
       "sources": [
         "epa-great-lakes",
-        "noaa-glerl"
+        "noaa-glerl",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮来源复查：EPA Great Lakes 与 NOAA GLERL 仍为最佳来源，缺航道/边界专题；维持 L1。",
+      "pending_notes": "第6轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -251,7 +253,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "已复核(第6轮)",
       "definition": "科罗拉多高原：干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
       "time_or_place": "约中生代至今",
       "overview": "干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
@@ -263,10 +265,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：USGS 地质页支持地貌背景；地层年代待专门来源核验。",
+      "pending_notes": "第6轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -281,7 +284,7 @@
       "region": "北美洲",
       "theme": "气候",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第6轮)",
       "definition": "墨西哥湾：暖湿气流源，影响美国南部降水与飓风路径。",
       "time_or_place": "古代至今",
       "overview": "暖湿气流源，影响美国南部降水与飓风路径。",
@@ -291,10 +294,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第6轮复核：北美洲×气候；新增背景来源 s039-climate-nasa-gov，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -421,7 +425,7 @@
       "region": "中美洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第6轮)",
       "definition": "特奥蒂瓦坎：墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
       "time_or_place": "约1—7世纪",
       "overview": "墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
@@ -432,10 +436,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第6轮复核：中美洲×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
