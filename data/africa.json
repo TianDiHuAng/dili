@@ -685,7 +685,7 @@
       "region": "西非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "桑海帝国：控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
       "time_or_place": "约1464—1591年",
       "overview": "控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
@@ -702,7 +702,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：西非×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：西非×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -717,7 +717,7 @@
       "region": "南部非洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "大津巴布韦：绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
       "time_or_place": "约11—15世纪",
       "overview": "绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
@@ -733,7 +733,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
