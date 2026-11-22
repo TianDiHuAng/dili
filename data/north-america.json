@@ -290,7 +290,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "definition": "墨西哥湾：北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
@@ -305,7 +305,7 @@
         "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。",
+      "pending_notes": "第17轮复核：北美洲×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -432,7 +432,7 @@
       "region": "中美洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "特奥蒂瓦坎：墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
       "time_or_place": "约1—7世纪",
       "overview": "墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
@@ -448,7 +448,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。",
+      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -492,7 +492,7 @@
       "region": "北美洲",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "北美原住民：多生态区适应形成多样社会，农业、狩猎与采集并存。",
       "time_or_place": "古代至今",
       "overview": "多生态区适应形成多样社会，农业、狩猎与采集并存。",
@@ -508,7 +508,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。",
+      "pending_notes": "第17轮复核：北美洲×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
