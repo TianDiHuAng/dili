@@ -1,0 +1,42 @@
+{
+  "round": 16,
+  "gaps": {
+    "B1_d044_probe": {
+      "candidates": 20,
+      "usable": 1,
+      "note": "按 D044（正文≥8000字节、命中≥5、剔除 chrome）探测 20 个路径，仅 Livius『Cyrus the Great』可用（body 9220/hits 45）；NPS/USGS/FAO/GBRMPA 多数 403/404/0 连接",
+      "count": 1
+    },
+    "B6_unused_sources": {
+      "count": 20,
+      "ids": [
+        "s002-unstats-un-org",
+        "s003-unstats-un-org",
+        "s012-fao-org",
+        "s017-fao-org",
+        "s024-ourworldindata-org",
+        "s027-ourworldindata-org",
+        "s040-science-nasa-gov",
+        "s043-earthobservatory-nasa-gov",
+        "s053-climate-gov",
+        "s055-ncei-noaa-gov",
+        "s059-worldbank-org",
+        "s066-worldbank-org"
+      ]
+    },
+    "B3_dangling": [],
+    "B2_matrix": {
+      "blanks": [
+        "北美洲×气候"
+      ]
+    },
+    "B5_pending": {
+      "total": 233
+    },
+    "B7_depth": {
+      "core_l1": 6,
+      "important_l1": 83,
+      "legacy_l2": 37
+    }
+  }
+}

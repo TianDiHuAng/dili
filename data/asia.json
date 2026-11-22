@@ -214,7 +214,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L2",
-      "status": "已复核(第4轮)（D041 前遗产 L2·待补专题页）",
+      "status": "L2合规换源(第16轮)",
       "definition": "阿契美尼德波斯：横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
@@ -224,14 +224,12 @@
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo",
-        "un-m49",
-        "s011-unesco-org"
+        "livius-cyrus",
+        "livius-mesopotamia",
+        "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：西亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。",
+      "pending_notes": "第16轮合规换源：原用 s011（UNESCO，间歇可达）等；现改用 Livius『Cyrus the Great』（正文 9220 字节、achaemenid/cyrus 命中 45）作专题页，Livius Mesopotamia 与 AQUASTAT 作区域/机构页。政权年代序列仍待专门史料逐条核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

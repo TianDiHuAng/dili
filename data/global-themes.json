@@ -1917,6 +1917,222 @@
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x62c9x4e01x7f8ex6d32x4e0ex52a0x52d2x6bd4x533ax57dfx53d1x5c55",
+      "title": "拉丁美洲与加勒比区域发展",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "拉丁美洲与加勒比区域发展：该区域包含多种气候带与经济体，发展指标差异大，需结合收入分组与统计口径阅读。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "该区域包含多种气候带与经济体，发展指标差异大，需结合收入分组与统计口径阅读。",
+      "related": [
+        "south-america-x5357x9525x4f53"
+      ],
+      "sources": [
+        "s066-worldbank-org",
+        "s057-databank-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4e2dx4e1cx4e0ex5317x975ex533ax57dfx53d1x5c55",
+      "title": "中东与北非区域发展",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "中东与北非区域发展：该区域以干旱气候与能源经济为特征，发展指标受资源结构与人口结构影响。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "该区域以干旱气候与能源经济为特征，发展指标受资源结构与人口结构影响。",
+      "related": [
+        "africa-x9a6cx683cx91ccx5e03"
+      ],
+      "sources": [
+        "s067-worldbank-org",
+        "s057-databank-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5357x4e9ax533ax57dfx53d1x5c55",
+      "title": "南亚区域发展",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "南亚区域发展：该区域人口密集、季风主导农业，发展指标与灌溉、城市化相关。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "该区域人口密集、季风主导农业，发展指标与灌溉、城市化相关。",
+      "related": [
+        "asia-x5370x5ea6x6cb3x6587x660e"
+      ],
+      "sources": [
+        "s068-worldbank-org",
+        "s057-databank-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5168x7403x6c14x6e29x8dddx5e73",
+      "title": "全球气温距平",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "全球气温距平：以长期平均为基准的温度偏离量，是描述全球变暖进程的核心指标，需说明基准期与观测方法。",
+      "time_or_place": "现代观测（年份以来源页面为准）",
+      "overview": "以长期平均为基准的温度偏离量，是描述全球变暖进程的核心指标，需说明基准期与观测方法。",
+      "related": [
+        "global-themes-x5168x7403x6c14x6e29x53d8x5316"
+      ],
+      "sources": [
+        "s053-climate-gov",
+        "s026-ourworldindata-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4e8cx6c27x5316x78b3x6392x653ex6e05x5355",
+      "title": "二氧化碳排放清单",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "二氧化碳排放清单：按国家或部门统计的二氧化碳排放量，口径差异影响跨国比较，需注明来源与核算方法。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "按国家或部门统计的二氧化碳排放量，口径差异影响跨国比较，需注明来源与核算方法。",
+      "related": [
+        "global-themes-x78b3x6392x653ex7a7ax95f4x5deex5f02"
+      ],
+      "sources": [
+        "s027-ourworldindata-org",
+        "s035-ourworldindata-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4fddx62a4x4e0ex4fddx80b2x533ax4f53x7cfb",
+      "title": "保护与保育区体系",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "保护与保育区体系：由国际公约与国内法设立的陆地与海洋保护空间，管理目标与治理模式因地区而异。",
+      "time_or_place": "现代管理实践（年份以来源页面为准）",
+      "overview": "由国际公约与国内法设立的陆地与海洋保护空间，管理目标与治理模式因地区而异。",
+      "related": [
+        "global-themes-x9646x5730x4fddx62a4x533a"
+      ],
+      "sources": [
+        "s072-cbd-int",
+        "s091-iucn-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x519cx4e1ax4f01x4e1ax4e0ex4ef7x503cx94fe",
+      "title": "农业企业与价值链",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "农业企业与价值链：从投入品、生产、加工到销售的链条组织方式，影响小农参与市场的方式与收益分配。",
+      "time_or_place": "现代产业实践（年份以来源页面为准）",
+      "overview": "从投入品、生产、加工到销售的链条组织方式，影响小农参与市场的方式与收益分配。",
+      "related": [
+        "global-themes-x4f5cx7269x5355x4ea7x5deex5f02"
+      ],
+      "sources": [
+        "s059-worldbank-org",
+        "s014-fao-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6c34x8d44x6e90x4f9bx7ed9x6982x89c8",
+      "title": "水资源供给概览",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成(第16轮)",
+      "definition": "水资源供给概览：可再生水资源量与取用水结构是评估水压力的基础，跨流域与跨边界分配是常见议题。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "可再生水资源量与取用水结构是评估水压力的基础，跨流域与跨边界分配是常见议题。",
+      "related": [
+        "global-themes-x6c34x8d44x6e90x7ba1x7406"
+      ],
+      "sources": [
+        "s017-fao-org",
+        "s013-fao-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "World Bank 区域/专题页",
+        "NOAA/OWID/CBD/IUCN/FAO 机构页"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

@@ -2458,6 +2458,19 @@
       "verified": true,
       "page_title": "Glaciers: Clues to Future Climate [USGS]",
       "note": "curl 实测 HTTP 200；页面标题：Glaciers: Clues to Future Climate [USGS]；正文 4962 字节；第15轮按 D041 规则用于专题支撑。 第15轮核验补充：该页为 PDF 下载门落户（正文仅冰川定义），不满足 D041 专题页要求，未用于升级。"
+    },
+    {
+      "id": "livius-cyrus",
+      "title": "Cyrus the Great - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/articles/person/cyrus-the-great/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Cyrus the Great - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Cyrus the Great - Livius；正文（剥离 chrome）约 9220 字节；achaemenid/cyrus/persia 命中 69；第16轮按 D044 作专题页使用。"
     }
   ]
 }
