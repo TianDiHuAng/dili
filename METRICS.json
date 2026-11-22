@@ -431,6 +431,21 @@
       "sample_rate": "25%（10条 / 本轮9条去重改动）",
       "sample_audit": "25%抽检10条：9 PASS/1 FAIL（洋流写「2025年查询」实为2026-11-22、缺动态声明）→返工：洋流改查询时点+动态声明+站网覆盖范围、PM2.5 note纠正机构口径、气候带删无源分布断言、丝路补指标编号、status统一为无实证、R14加固",
       "note": "8条today填全球/国别实测（USGS地震目录/NOAA洋流站/WB指标）；宋代5候选仍不可达"
+    },
+    {
+      "round": 31,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "超采样（10条 / 本轮4条去重改动）",
+      "sample_audit": "25%抽检10条：7 PASS/3 FAIL（CO2 AR5口径写反「含LULUCF」实为「不含」、A1与板块构造缺完整查询时点、D076残留2条）→返工：口径纠反4处、补查询时点、D076全库扫尾、check.py加R15机器化D075、finalize文案同步",
+      "note": "4条today填官方/机构数据（ATS缔约方名录、WLD CO2/农业用地/城市增长率）；today含数值63条"
     }
   ]
 }

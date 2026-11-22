@@ -112,6 +112,7 @@ def main():
                     check_svg(eid, e["svg"])
             if e.get("today"):
                 check_today_sources(e)
+                check_dynamic_source(e)
             all_entries.append(e)
 
     # R9 内部链接（相关条目）
@@ -168,6 +169,17 @@ CN2ISO = {
  "刚果民主共和国":"COD","乌兹别克斯坦":"UZB","格陵兰":"GRL","巴布亚新几内亚":"PNG","尼日尔":"NER",
  "塞内加尔":"SEN","加纳":"GHA","乍得":"TCD","蒙古":"MNG","孟加拉国":"BGD","斯里兰卡":"LKA","尼泊尔":"NPL",
 }
+
+DYN_WORDS = ("实时", "随查询", "随…变化", "名录", "目录为实时")
+
+def check_dynamic_source(e):
+    """R15：动态/名录类来源必须写明「查询时点 YYYY年MM月DD日」（D075）。"""
+    today = e.get("today") or ""
+    if not any(w in today for w in DYN_WORDS):
+        return
+    if not re.search(r"查询时点\s*\d{4}年\d{1,2}月\d{1,2}日", today):
+        err(f"R15 {e['id']}: today 描述了动态/名录类来源，但缺「查询时点 YYYY年MM月DD日」")
+
 
 def check_today_sources(e):
     """R14：today 中提到的国家，必须在该条 sources 的端点里有对应 ISO3（D072）。"""

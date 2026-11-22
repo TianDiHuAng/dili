@@ -4108,7 +4108,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Antarctic Treaty Secretariat — Parties",
-      "note": "HTTP 200；剥离后正文 5345 字符、主题命中 17；官方页；页面载明原始签署国为参与 1957–58 国际地球物理年的 12 国；缔约方名录随批准情况更新。；本页为缔约方名录，随批准更新，以页面当前状态为准。"
+      "note": "HTTP 200；剥离后正文 5345 字符、主题命中 17；官方页；页面载明原始签署国为参与 1957–58 国际地球物理年的 12 国；缔约方名录随批准情况更新。；本页为缔约方名录，随批准更新，以页面当前状态为准；查询时点 2026年11月22日。"
     },
     {
       "id": "wb-wld-co2",
@@ -4121,7 +4121,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — CO₂ emissions (EN.GHG.CO2.MT.CE.AR5, 全球)",
-      "note": "HTTP 200；剥离后正文 2163 字符、主题命中 48；2024 年 39,632.66 Mt CO₂e（含土地利用口径 AR5）；年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200；2024 年 39,632.66 Mt CO₂e。官方指标名为「CO2 emissions (total) **excluding LULUCF**」——**不含土地利用变化与林业**；年度指标，随年度更新与历史修订变化。此前 note 误写为「含土地利用口径 AR5」，已订正。"
     },
     {
       "id": "wb-wld-agriland",

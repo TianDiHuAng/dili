@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 30,
+  "last_round": 31,
   "history": [
     {
       "round": 1,
@@ -363,6 +363,19 @@
       ],
       "gaps_found": 273,
       "note": "today 含数值 54→59；仍无 14 条（南极/物候/火情等无对应数据源）",
+      "result": "非饱和"
+    },
+    {
+      "round": 31,
+      "methods_used": [
+        "B1观测端点",
+        "today填充",
+        "D075/D076复查",
+        "R14",
+        "台账"
+      ],
+      "gaps_found": 273,
+      "note": "today 含数值 59→63；无数值降至 10（南极大陆/物候/火情等无公开数据源）",
       "result": "非饱和"
     }
   ],
