@@ -2210,7 +2210,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "OGC Standards | WMS, WFS, GeoPackage & 80+ Open Geospatial Specs",
-      "note": "curl 实测 HTTP 200；页面标题：OGC Standards | WMS, WFS, GeoPackage & 80+ Open Geospatial Specs；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：OGC Standards | WMS, WFS, GeoPackage & 80+ Open Geospatial Specs；年份未标注。 第19轮核验补充：raw 约 1.25MB 但剥离 nav/header/script 后正文仅约 73 字符，内容主要在脚本与导航内；仅作入口，不构成独立依据。"
     },
     {
       "id": "esri-gis",

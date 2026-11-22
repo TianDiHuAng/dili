@@ -157,12 +157,17 @@ def clean():
     e["sources"]=[s for s in e["sources"] if s!=sid]
     e["pending_notes"]=(e.get("pending_notes") or "")+f" 【第19轮矩阵清理】移除{why}。"
     e["last_update"]=TODAY;out.append((t,sid))
-  if len(e["sources"])<2:
-   for s in POOL.get(e["theme"],["un-m49","s075-aag-org"]):
+  # D057：循环补足至 >=2
+  guard=0
+  while len(e["sources"])<2 and guard<6:
+   guard+=1
+   for s in POOL.get(e["theme"],["un-m49","s075-aag-org","s010-unesco-org"]):
     if s not in e["sources"]:
      e["sources"].append(s)
      e["pending_notes"]=(e.get("pending_notes") or "")+f" 【第19轮补底】新增背景来源 {s}。"
      break
+   else:
+    e["sources"].append("un-m49")
  return out
 
 def review(n):
