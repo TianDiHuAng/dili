@@ -54,14 +54,15 @@ def source_link(sid, sources):
 def srcgrade(e):
     """来源等级徽标：让 D041 缺口在页面上可见（诚实标注）。"""
     st = e.get("status") or ""
-    if "D041 前遗产" in st or "d041_legacy" in st:
+    pn = e.get("pending_notes") or ""
+    if e.get("level") == "L1":
+        return '<span class="tag">来源：骨架级</span>'
+    if "D041" in st or "D041" in pn or "D041 前遗产" in st:
         return '<span class="tag warn">来源：区域/机构级（待补专题页）</span>'
     if "配对说明" in st:
         return '<span class="tag">来源：专题页 + 入口页</span>'
     if "主题页" in st or "合规换源" in st or "专题来源" in st:
         return '<span class="tag">来源：专题页 + 机构页</span>'
-    if e.get("level") == "L1":
-        return '<span class="tag">来源：骨架级</span>'
     return ""
 
 
