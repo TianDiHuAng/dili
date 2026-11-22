@@ -87,7 +87,7 @@
       "region": "东北非",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第6轮)",
+      "status": "来源再核未通过(第7轮)",
       "definition": "尼罗河三角洲：尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
       "time_or_place": "埃及北部（地貌演化年代待核）",
       "overview": "尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
@@ -103,7 +103,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮复核：东北非×地形；新增背景来源 s038-earthobservatory-nasa-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮来源复查：Livius Egypt 为古史分类入口，非三角洲专题；维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -321,27 +321,34 @@
       "unit_id": "africa",
       "region": "东北非",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "L1完成",
-      "definition": "古埃及早王朝：上下埃及统一后形成早期国家，尼罗河灌溉与集中管理相互支撑。",
-      "time_or_place": "约前3100—前2686年",
-      "overview": "上下埃及统一后形成早期国家，尼罗河灌溉与集中管理相互支撑。",
+      "level": "L2",
+      "status": "L2完成(第7轮)",
+      "definition": "古埃及早王朝：尼罗河谷与三角洲形成统一国家的早期阶段，是后续古王国政治与文化结构的前身。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "尼罗河谷与三角洲形成统一国家的早期阶段，是后续古王国政治与文化结构的前身。",
       "related": [
         "africa-x53e4x57c3x53cax53e4x738bx56fd",
         "africa-x53e4x57c3x53cax4e2dx738bx56fd",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "livius-egypt",
+        "s013-fao-org",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "聚落沿尼罗河谷与三角洲分布，河流泛滥带来沉积物，狭窄耕地、沙漠边缘与交通水道共同塑造国家空间。",
+      "influence": "农业剩余与水运便利有利于权力集中，但国家形成还涉及制度、战争与交换，不能简化为河流决定论。",
+      "polities": "Livius 的 Egypt 分类页提供早期王朝条目入口，可用于后续核对王表；本站在此不写具体王名与年代。",
+      "connections": "上下埃及通过尼罗河连成整体，并通过三角洲与地中海、通过红海与西亚发生联系。",
+      "today": "早期遗址保护与研究仍在推进。遗址数量、游客与保护数据待按年份从权威来源补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古埃及早王朝示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古埃及早王朝</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x53e4x57c3x53cax53e4x738bx56fd",
@@ -477,28 +484,34 @@
       "unit_id": "africa",
       "region": "北非",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第4轮)",
-      "definition": "迦太基：突尼斯湾畔的腓尼基殖民城邦，控制西地中海海上贸易网络。",
-      "time_or_place": "约前814—前146年",
-      "overview": "突尼斯湾畔的腓尼基殖民城邦，控制西地中海海上贸易网络。",
+      "level": "L2",
+      "status": "L2完成(第7轮)",
+      "definition": "迦太基：位于今突尼斯湾附近的古代港口城邦，以西地中海海上贸易网络著称。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "位于今突尼斯湾附近的古代港口城邦，以西地中海海上贸易网络著称。",
       "related": [
         "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
         "africa-x52a0x7eb3x5e1dx56fd",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "livius-carthage",
+        "s050-oceanservice-noaa-gov",
         "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：北非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "城市依托海湾与近岸平原，背靠阿特拉斯山脉南缘，港湾条件利于停泊与转运，腹地提供农产品与资源。",
+      "influence": "港口位置与航海能力支撑贸易网络，但商业发展也与制度、技术和区域竞争有关，不能只由海岸线解释。",
+      "polities": "Livius 的 Punic Carthage 专题页提供布匿城邦入口，可用于核对政权与战争史；本站不写具体战役年代。",
+      "connections": "迦太基连接西地中海、北非内陆与伊比利亚，交换金属、陶器、橄榄油与纺织品。",
+      "today": "遗址位于今突尼斯境内。游客量与遗产保护数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='迦太基示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>迦太基</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x7f57x9a6cx963fx975ex5229x52a0",

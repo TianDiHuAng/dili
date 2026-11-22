@@ -222,7 +222,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第6轮)",
+      "status": "来源再核未通过(第7轮)",
       "definition": "五大湖：北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
       "time_or_place": "北美中东部（湖群形成细节待核）",
       "overview": "北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
@@ -237,7 +237,7 @@
         "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮来源复查：EPA/NOAA 仍为最佳可用来源，缺航道与边界专题；维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

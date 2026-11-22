@@ -2341,6 +2341,45 @@
       "verified": true,
       "page_title": "New research challenges the idea that the Maya civilization collapsed | National Geographic",
       "note": "curl 实测 HTTP 200；页面标题：New research challenges the idea that the Maya civilization collapsed | National Geographic；年份未标注。"
+    },
+    {
+      "id": "livius-carthage",
+      "title": "Punic Carthage - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/articles/place/carthage/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Punic Carthage - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Punic Carthage - Livius；年份未标注。"
+    },
+    {
+      "id": "livius-roman-republic",
+      "title": "Roman Republic - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/category/roman-republic/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Roman Republic - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Roman Republic - Livius；年份未标注。"
+    },
+    {
+      "id": "livius-italy",
+      "title": "Italy - Livius",
+      "author": "Livius.org",
+      "year": null,
+      "type": "学术百科",
+      "url": "https://www.livius.org/category/italy/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Italy - Livius",
+      "note": "curl 实测 HTTP 200；页面标题：Italy - Livius；年份未标注。"
     }
   ]
 }
