@@ -4096,6 +4096,58 @@
       "verified": true,
       "page_title": "World Bank API — 总人口 (SP.POP.TOTL, 乌兹别克斯坦)",
       "note": "JSON API 200；国家 UZB（乌兹别克斯坦）＋指标 SP.POP.TOTL；最新值 37053428（2025 年）。"
+    },
+    {
+      "id": "ats-parties",
+      "title": "Antarctic Treaty Secretariat — Parties",
+      "author": "Antarctic Treaty Secretariat",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.ats.aq/devAS/Parties?lang=e",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Antarctic Treaty Secretariat — Parties",
+      "note": "HTTP 200；剥离后正文 5345 字符、主题命中 17；官方页；页面载明原始签署国为参与 1957–58 国际地球物理年的 12 国；缔约方名录随批准情况更新。；本页为缔约方名录，随批准更新，以页面当前状态为准。"
+    },
+    {
+      "id": "wb-wld-co2",
+      "title": "World Bank API — CO₂ emissions (EN.GHG.CO2.MT.CE.AR5, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/EN.GHG.CO2.MT.CE.AR5?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — CO₂ emissions (EN.GHG.CO2.MT.CE.AR5, 全球)",
+      "note": "HTTP 200；剥离后正文 2163 字符、主题命中 48；2024 年 39,632.66 Mt CO₂e（含土地利用口径 AR5）；年度指标，随年度更新与历史修订变化。"
+    },
+    {
+      "id": "wb-wld-agriland",
+      "title": "World Bank API — Agricultural land (% of land area, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/AG.LND.AGRI.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — Agricultural land (% of land area, 全球)",
+      "note": "HTTP 200；剥离后正文 2508 字符、主题命中 44；2023 年 36.9%；年度指标，随年度更新与历史修订变化。"
+    },
+    {
+      "id": "wb-wld-urbangrow",
+      "title": "World Bank API — Urban population growth (annual %, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/SP.URB.GROW?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — Urban population growth (annual %, 全球)",
+      "note": "HTTP 200；剥离后正文 2497 字符、主题命中 44；2025 年 1.36%；年度指标，随年度更新与历史修订变化。"
     }
   ]
 }

@@ -577,10 +577,11 @@
       ],
       "sources": [
         "s025-ourworldindata-org",
-        "s075-aag-org"
+        "s075-aag-org",
+        "wb-wld-urbangrow"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s025 剥离后正文 37507 字符、urban 命中 127）；五段仅写来源可支撑的概述，具体年代/数值待核。  【第27轮实证复核·城市地理】本条正则 urban（英文源用英文正则，D070）；s025-ourworldindata-org=200/正文37505字符/本条命中127；s075-aag-org=200/正文8575字符/本条命中0。档位判定：档①5000（s025 Urbanization 含 urban）。D055 判定：达标（档①5000 门槛5000：正文37505≥5000、命中127）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s025 剥离后正文 37507 字符、urban 命中 127）；五段仅写来源可支撑的概述，具体年代/数值待核。  【第27轮实证复核·城市地理】本条正则 urban（英文源用英文正则，D070）；s025-ourworldindata-org=200/正文37505字符/本条命中127；s075-aag-org=200/正文8575字符/本条命中0。档位判定：档①5000（s025 Urbanization 含 urban）。D055 判定：达标（档①5000 门槛5000：正文37505≥5000、命中127）。 【第31轮现状数据】today 填入官方/机构端点实测或名录信息（含年份或更新说明；对动态名录不写死数量）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
@@ -590,7 +591,7 @@
       "influence": "聚集经济与交通可达性推动城市扩张，城市化又改变周边土地利用与生态过程。城市形态是经济、制度与技术共同作用的结果，不宜简化为地理决定。",
       "polities": "本条不展开具体政权序列；城市规划与土地制度因国家而异，细节待专门资料核验。",
       "connections": "城市通过交通与信息网络连接腹地与远方市场，形成等级化的城市体系与跨区域流动。",
-      "today": "全球城市人口比例持续上升，各口径差异明显。城市化率、城市人口规模与用地扩张数据需按年份从 OWID/UN 机构页核验。",
+      "today": "来源：世界银行 API（指标 SP.URB.GROW，城市人口年增长率）：全球 2025年 1.36%。该值为全球合计增速，各地区差异显著；城市内部结构与首位度等指标需城市统计资料核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><circle cx='120' cy='200' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='225' cy='245' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='330' cy='290' r='30' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='435' cy='200' r='36' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='540' cy='245' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='645' cy='290' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='40' y='360' class='dim'>城市地理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -2153,10 +2154,11 @@
       ],
       "sources": [
         "s027-ourworldindata-org",
-        "s035-ourworldindata-org"
+        "s035-ourworldindata-org",
+        "wb-wld-co2"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s027 标题即主题（CO₂ emissions），剥离后 23317 字符、co2|emission 命中 154）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·二氧化碳排放清单】本条正则 co2|emission（英文源用英文，D070）；s027-ourworldindata-org=200/正文23315字符/本条命中154；s035-ourworldindata-org=200/正文9972字符/本条命中50。档位判定：档①5000。D055 判定：达标（档①5000：正文23315、命中154）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s027 标题即主题（CO₂ emissions），剥离后 23317 字符、co2|emission 命中 154）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·二氧化碳排放清单】本条正则 co2|emission（英文源用英文，D070）；s027-ourworldindata-org=200/正文23315字符/本条命中154；s035-ourworldindata-org=200/正文9972字符/本条命中50。档位判定：档①5000。D055 判定：达标（档①5000：正文23315、命中154）。 【第31轮现状数据】today 填入官方/机构端点实测或名录信息（含年份或更新说明；对动态名录不写死数量）。",
       "outlines": [
         "Our World in Data CO₂ emissions",
         "Our World in Data Annual CO₂ emissions"
@@ -2166,7 +2168,7 @@
       "influence": "排放清单是气候政策的基础数据，口径差异（生产端/消费端）会显著改变国家排序，解读时需注明方法。",
       "polities": "本条不展开政权序列；核算规则与报告义务由国际框架约定。",
       "connections": "贸易使排放与消费地分离，形成碳转移与全球供应链上的排放关联。",
-      "today": "年度排放数据持续更新，各国提交与估算口径不完全一致。总量与人均排放需按年份从 OWID 数据页核验。",
+      "today": "来源：世界银行 API（指标 EN.GHG.CO2.MT.CE.AR5，含土地利用的 CO₂ 当量排放）：全球 2024年约 39,632.66 Mt CO₂e。该口径与仅计能源燃烧的清单不同，跨国比较须核对核算范围。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>二氧化碳排放清单 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -2213,10 +2215,11 @@
       ],
       "sources": [
         "s059-worldbank-org",
-        "s014-fao-org"
+        "s014-fao-org",
+        "wb-wld-agriland"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s059 标题即主题（Farming and Agribusiness），剥离后 10506 字符、agribusiness|farm 命中 48）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·农业企业与价值链】本条正则 agribusiness|value chain|farm（英文源用英文，D070）；s059-worldbank-org=200/正文10504字符/本条命中48；s014-fao-org=200/正文7字符/本条命中0。档位判定：档①5000。D055 判定：达标（档①5000：正文10504、命中48）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s059 标题即主题（Farming and Agribusiness），剥离后 10506 字符、agribusiness|farm 命中 48）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·农业企业与价值链】本条正则 agribusiness|value chain|farm（英文源用英文，D070）；s059-worldbank-org=200/正文10504字符/本条命中48；s014-fao-org=200/正文7字符/本条命中0。档位判定：档①5000。D055 判定：达标（档①5000：正文10504、命中48）。 【第31轮现状数据】today 填入官方/机构端点实测或名录信息（含年份或更新说明；对动态名录不写死数量）。",
       "outlines": [
         "World Bank Farming and Agribusiness",
         "FAOSTAT"
@@ -2226,7 +2229,7 @@
       "influence": "合同农业与合作社可改善投入与技术获取，但也可能带来议价与风险分配问题。效果取决于制度与市场结构，不能一概而论。",
       "polities": "本条不展开政权序列；土地制度与合作社法规影响组织方式。",
       "connections": "价值链把产地与城市、出口市场相连，标准与认证沿链条传导。",
-      "today": "农业企业与冷链投资在多地扩展。参与率、产值与就业数据需按年份从 World Bank/FAO 机构页核验。",
+      "today": "来源：世界银行 API（指标 AG.LND.AGRI.ZS，农业用地占土地面积比例）：全球 2023年 36.9%。农业用地占比反映生产空间基础，不等于价值链组织程度；加工、物流与合同关系的指标需专门调查数据。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>农业企业与价值链 · 简笔示意，非精确测绘</text></svg>"
     },
     {
