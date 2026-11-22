@@ -68,7 +68,7 @@
         "wb-can-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」**成立**；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。  【第27轮实证复核·北美冰盖】本条正则 ice sheet|glacier（英文源用英文正则，D070）；usgs-glaciers-pdf=200/正文208158字符/本条命中2；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文208158、命中2）。缺口为「北美冰盖」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 加拿大，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」成立；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。  【第27轮实证复核·北美冰盖】本条正则 ice sheet|glacier（英文源用英文正则，D070）；usgs-glaciers-pdf=200/正文208158字符/本条命中2；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文208158、命中2）。缺口为「北美冰盖」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 加拿大，D068 已核对国家—区域匹配；单位人、%）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -509,7 +509,7 @@
         "wb-mex-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。 【第32轮返工】① 来源 wikidata-q2608489 原 verified=false（429），复抓 200 后回填；② 修正精度标注（P576 精度=日）；③ 补 P580=1367 与「1325 建城 / 1430 前后三方联盟」的口径关系。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。 【第32轮返工】① 来源 wikidata-q2608489 原 verified=false（429），复抓 200 后回填；② 修正精度标注（P576 精度=日）；③ 补 P580=1367 与「1325 建城 / 1430 前后三方联盟」的口径关系。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -517,7 +517,7 @@
       "last_update": "2026-11-22",
       "geo": "核心位于墨西哥谷地的高原湖泊区，湖中岛与湖岸平原提供聚落与农业空间。chinampa（湖上人工田）依赖水位与泥沙管理，火山高地与谷地气候分层明显。",
       "influence": "湖泊环境与人工田支撑高密度人口，山地与水系的破碎地形促成城邦并立与朝贡网络。环境条件重要，但帝国形态由联盟、贡赋与军事组织塑造，不宜单因解释。",
-      "polities": "据 Wikidata 记录，P571（成立）= 1325年、P576（解散）= 1521年8月13日（精度到日）；同实体另记 P580（起始）= 1367年。**口径需说明**：1325 为特诺奇蒂特兰传统建城年，1367 为另一时间属性，三方联盟（特诺奇蒂特兰、特斯科科、特拉科潘）通常置于 15 世纪上半叶。三个时间点含义不同，不可互换；统治者序列与贡赋制度待专门史学来源核验。",
+      "polities": "据 Wikidata 记录，P571（成立）= 1325年、P576（解散）= 1521年8月13日（精度到日）；同实体另记 P580（起始）= 1367年。口径需说明：1325 为特诺奇蒂特兰传统建城年，1367 为另一时间属性，三方联盟（特诺奇蒂特兰、特斯科科、特拉科潘）通常置于 15 世纪上半叶。三个时间点含义不同，不可互换；统治者序列与贡赋制度待专门史学来源核验。",
       "connections": "通过朝贡与市场网络连接中美洲各地，玉石、可可、羽毛与黑曜石沿路线流动；与玛雅地区存在长期交流。",
       "today": "以墨西哥为例，来源：世界银行 API。总人口 131,946,900 人（2025年）（SP.POP.TOTL）、城市化率 80.0%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；墨西哥谷地今天的地面沉降与遗址保护数据需专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>阿兹特克 · 简笔示意，非精确测绘</text></svg>"
@@ -608,7 +608,7 @@
         "wb-grl-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。  【第27轮实证复核·格陵兰岛】本条正则 greenland（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中6；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：形式达标但**不作升级依据**——s039 为 NASA Climate 首页（泛化），命中来自导航/概览。  【第28轮现状数据】today 填世界银行实测（代表国 格陵兰，D068 已核对国家—区域匹配；单位人、%、岁）。",
+      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。  【第27轮实证复核·格陵兰岛】本条正则 greenland（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中6；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：形式达标但不作升级依据——s039 为 NASA Climate 首页（泛化），命中来自导航/概览。  【第28轮现状数据】today 填世界银行实测（代表国 格陵兰，D068 已核对国家—区域匹配；单位人、%、岁）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -234,7 +234,7 @@
         "wb-irn-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ **D041 配对缺口**：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。  【第27轮实证复核·阿契美尼德波斯】本条正则 achaemenid|persia|cyrus（英文源用英文正则，D070）；livius-cyrus=200/正文9218字符/本条命中62；livius-mesopotamia=200/正文3628字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：达标（档③8000+命中≥5 门槛8000：正文9218≥8000、命中62）。",
+      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ D041 配对缺口：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。  【第27轮实证复核·阿契美尼德波斯】本条正则 achaemenid|persia|cyrus（英文源用英文正则，D070）；livius-cyrus=200/正文9218字符/本条命中62；livius-mesopotamia=200/正文3628字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：达标（档③8000+命中≥5 门槛8000：正文9218≥8000、命中62）。",
       "outlines": [
         "Livius: Cyrus the Great",
         "Livius: Mesopotamia"
@@ -330,7 +330,7 @@
         "wb-ind-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（约前3000–前1800年）来自 Wikidata Q42534 的 P580/P582（精度=年）；FAO AQUASTAT 作机构背景、世界银行作现状端点。学界对年代上限与衰落原因有不同表述，已并列注明。 【第32轮返工】today 巴基斯坦人口由 251,269,164 订正为 255,219,554（2025年）——原值实为 2024 年数据（来源 note 记的正是 255219554/2025）。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第32轮升级：年代（约前3000–前1800年）来自 Wikidata Q42534 的 P580/P582（精度=年）；FAO AQUASTAT 作机构背景、世界银行作现状端点。学界对年代上限与衰落原因有不同表述，已并列注明。 【第32轮返工】today 巴基斯坦人口由 251,269,164 订正为 255,219,554（2025年）——原值实为 2024 年数据（来源 note 记的正是 255219554/2025）。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -443,7 +443,7 @@
       "level": "L2",
       "status": "L2完成(第33轮)-Wikidata年代",
       "definition": "笈多王朝：据 Wikidata 结构化记录为 320年–550年。",
-      "time_or_place": "320年–550年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "time_or_place": "320年–550年（Wikidata 属性值；口径差异见正文）",
       "overview": "据 Wikidata 结构化记录为 320年–550年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
@@ -455,7 +455,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：年代（320年–550年）来自 Wikidata Q11774 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（320年–550年）来自 Wikidata wikidata-q11774 的属性值；引文照录实体描述：「ancient Indian empire (c. 3rd century CE–575 CE)」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -463,9 +463,9 @@
       "last_update": "2026-11-22",
       "geo": "北印度恒河平原的冲积土与季风降水支撑密集农业，河谷是人口与城市重心；周边山地与森林提供资源与屏障。",
       "influence": "农业剩余与贸易网络支撑城市与文化繁荣；统一与分裂同地方势力与继承安排相关，地理条件提供基础而不决定政治周期。",
-      "polities": "据 Wikidata 记录，起于 320年、讫于 550年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，320年–550年。口径需说明：实体描述为「ancient Indian empire (c. 3rd century CE–575 CE)」，P571=320、P576=550。描述以世纪表述且终年作 575，与属性 320/550 不一致。本条取属性值并注明。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
       "connections": "经陆路连接中亚与西北印度，经孟加拉湾港口接入印度洋贸易，与东南亚存在文化与商业往来。",
-      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>320年</text><text x='560' y='252' class='lbl'>550年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>笈多王朝 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
@@ -519,7 +519,7 @@
       "level": "L2",
       "status": "L2完成(第32轮)-Wikidata",
       "definition": "长江流域：长江干流及其支流覆盖的区域，据 Wikidata 记录长江全长约 6300 千米，为亚洲最长河流。",
-      "time_or_place": "长江全长约6300千米（Wikidata P2043，精度=1千米；**该值为河流长度，非流域面积**）",
+      "time_or_place": "长江全长约6300千米（Wikidata P2043，精度=1千米；该值为河流长度，非流域面积）",
       "overview": "长江干流及其支流覆盖的区域，据 Wikidata 记录长江全长约 6300 千米，为亚洲最长河流。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
@@ -534,14 +534,14 @@
         "wb-chn-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。 【第32轮返工】① 明确标注所引 6300 千米为**河流长度**而非流域面积（流域实体 Q15758768 在 Wikidata 无面积属性）；② 删除「通过大运河与黄河流域整合」无源断言；③ fao-aquastat-basins 为流域目录页（无单流域正文），不作数值支撑。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。 【第32轮返工】① 明确标注所引 6300 千米为河流长度而非流域面积（流域实体 Q15758768 在 Wikidata 无面积属性）；② 删除「通过大运河与黄河流域整合」无源断言；③ fao-aquastat-basins 为流域目录页（无单流域正文），不作数值支撑。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22",
-      "geo": "流域自青藏高原发源，经四川盆地、长江中下游平原注入东海，跨越高原、盆地与平原多种地貌。水量丰沛、湖泊与支流众多，中下游形成密集水网与洪泛平原。**量值说明**：本条引用的 Wikidata 数值是长江**河流长度**（约6300千米），流域**面积**在本环境可获得的结构化数据中缺失，待专门水文来源核验。",
+      "geo": "流域自青藏高原发源，经四川盆地、长江中下游平原注入东海，跨越高原、盆地与平原多种地貌。水量丰沛、湖泊与支流众多，中下游形成密集水网与洪泛平原。量值说明：本条引用的 Wikidata 数值是长江河流长度（约6300千米），流域面积在本环境可获得的结构化数据中缺失，待专门水文来源核验。",
       "influence": "水运条件降低大宗物资运输成本，冲积平原与稻作条件支撑人口密集。流域水利与国家治理互为条件，地理条件提供基础，制度与技术在决定性环节同样关键。",
       "polities": "本条不展开具体政权序列；流域内的政治整合与行政沿革待专门史学来源核验。",
       "connections": "通过长江口与沿海港口连接海上贸易网络，形成内陆—沿海双重联系；与黄河流域的历史联系待专门史料核验。",
@@ -587,7 +587,7 @@
       "level": "L2",
       "status": "L2完成(第33轮)-Wikidata年代",
       "definition": "商代：据 Wikidata 结构化记录为 前1600年–前1046年。",
-      "time_or_place": "前1600年–前1046年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "time_or_place": "前1600年–前1046年（Wikidata 属性值；口径差异见正文）",
       "overview": "据 Wikidata 结构化记录为 前1600年–前1046年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
@@ -599,7 +599,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：年代（前1600年–前1046年）来自 Wikidata Q128938 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1600年–前1046年）来自 Wikidata wikidata-q128938 的属性值；引文照录实体描述：「the first ancient Chinese dynasty to leave historical records (1600-1046 BC)」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -607,9 +607,9 @@
       "last_update": "2026-11-22",
       "geo": "黄河中下游的冲积平原与黄土台地，河谷农业与青铜资源分布决定聚落与都邑迁徙；气候较今温暖湿润。",
       "influence": "河谷农业支撑人口与手工业，青铜礼器与占卜反映王权与祭祀组织；资源获取与军事行动同样重要，不能单由土壤解释。",
-      "polities": "据 Wikidata 记录，起于 前1600年、讫于 前1046年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，前1600年–前1046年。属性与描述一致（1600–1046 BC）。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
       "connections": "经黄河支流网络连接关中与华北，向北接触草原地带，向南延伸至长江中游的铜矿带。",
-      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前1600年</text><text x='560' y='252' class='lbl'>前1046年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>商代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
@@ -622,7 +622,7 @@
       "level": "L2",
       "status": "L2完成(第33轮)-Wikidata年代",
       "definition": "周代：据 Wikidata 结构化记录为 前1046年–前256年。",
-      "time_or_place": "前1046年–前256年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "time_or_place": "前1046年–前256年（Wikidata 属性值；口径差异见正文）",
       "overview": "据 Wikidata 结构化记录为 前1046年–前256年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
@@ -634,7 +634,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：年代（前1046年–前256年）来自 Wikidata Q35216 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1046年–前256年）来自 Wikidata wikidata-q35216 的属性值；引文照录实体描述：「dynasty of Ancient Chinese kings lasting from c. 1046 to 256 BC」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -642,9 +642,9 @@
       "last_update": "2026-11-22",
       "geo": "核心区在关中盆地与黄河中游，渭河谷地提供农业与防御条件；东向的华北平原则是封建诸侯的主要分布区。",
       "influence": "分封与宗法把亲属与功臣安置于要冲，地理距离与交通条件影响控制强度；制度设计是政治整合的主要机制，地理提供成本约束。",
-      "polities": "据 Wikidata 记录，起于 前1046年、讫于 前256年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，前1046年–前256年。P571 存在多个值（-1046 preferred、-1027、-1100 精度=世纪）；本条取 preferred rank 的 1046，与描述「c. 1046 to 256 BC」一致。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
       "connections": "以渭河—黄河轴心连接关中与中原，通过汉水与长江流域接触南方，向北与草原势力互动。",
-      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前1046年</text><text x='560' y='252' class='lbl'>前256年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>周代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
@@ -657,7 +657,7 @@
       "level": "L2",
       "status": "L2完成(第33轮)-Wikidata年代",
       "definition": "秦代：据 Wikidata 结构化记录为 前221年–前206年。",
-      "time_or_place": "前221年–前206年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "time_or_place": "前221年–前206年（Wikidata 属性值；口径差异见正文）",
       "overview": "据 Wikidata 结构化记录为 前221年–前206年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
@@ -669,7 +669,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：年代（前221年–前206年）来自 Wikidata Q7183 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前221年–前206年）来自 Wikidata wikidata-q7183 的属性值；引文照录实体描述：「dynasty that ruled in China from 221 to 206 BC」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -677,9 +677,9 @@
       "last_update": "2026-11-22",
       "geo": "以关中为根据地，渭河平原与函谷关等隘口构成易守难攻的地理优势；统一后覆盖黄河与长江两大流域。",
       "influence": "关中的农业与地形优势利于积蓄力量，但统一后的整合依赖郡县制、统一度量衡与交通工程，地理只是起点条件。",
-      "polities": "据 Wikidata 记录，起于 前221年、讫于 前206年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，前221年–前206年。属性与描述一致（221–206 BC）。另有口径差异：秦亡常系于前207年（见本书「汉代」条）；Wikidata 记 P576=206 BC。两说并存，本条取属性值并注明。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
       "connections": "修驰道与直道连接关中、华北与北方边地，南向延伸至岭南，形成首次跨流域的行政交通网。",
-      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前221年</text><text x='560' y='252' class='lbl'>前206年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>秦代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
@@ -706,7 +706,7 @@
         "wb-chn-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（前206–220年）来自 Wikidata Q7209 的结构化属性 P571/P576（精度=年），UNESCO Culture 作机构页、世界银行作现状数据端点。按 TASK 规则 Wikidata 仅为双源之一，帝系与年号待专门史学来源核验。 【第32轮返工】补年代口径：前206=汉元年/受封汉王、秦亡前207、通说建朝前202；并注明 Wikidata 自身描述写 202 BC 与 P571 的 206 BC 不一致。删除「中间有新朝中断」无源断言。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第32轮升级：年代（前206–220年）来自 Wikidata Q7209 的结构化属性 P571/P576（精度=年），UNESCO Culture 作机构页、世界银行作现状数据端点。按 TASK 规则 Wikidata 仅为双源之一，帝系与年号待专门史学来源核验。 【第32轮返工】补年代口径：前206=汉元年/受封汉王、秦亡前207、通说建朝前202；并注明 Wikidata 自身描述写 202 BC 与 P571 的 206 BC 不一致。删除「中间有新朝中断」无源断言。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -715,7 +715,7 @@
       "last_update": "2026-11-22",
       "geo": "帝国核心位于黄河中下游与关中平原，并向长江流域与河西走廊扩展。关中盆地与渭河平原提供农业基础，河西走廊是通往中亚的陆路通道。",
       "influence": "关中与关东平原的农业支撑人口与财政，河西走廊的通道条件支撑向西的交通与驻防。地理条件是重要基础，但帝国扩张与维系同样依赖制度、军事与财政安排。",
-      "polities": "据 Wikidata 结构化记录，P571（成立）= 前206年、P576（解散）= 220年。**口径需说明**：前206 为汉元年（刘邦受封汉王）；秦亡于前207；通说以刘邦称帝（前202）为汉朝建立。同一 Wikidata 实体的英文描述写「from **202 BC** to 220 AD」，与 P571 的 206 BC 并不一致。西汉—新朝—东汉的帝系与年号待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 结构化记录，P571（成立）= 前206年、P576（解散）= 220年。口径需说明：前206 为汉元年（刘邦受封汉王）；秦亡于前207；通说以刘邦称帝（前202）为汉朝建立。同一 Wikidata 实体的英文描述写「from 202 BC to 220 AD」，与 P571 的 206 BC 并不一致。西汉—新朝—东汉的帝系与年号待专门史学来源逐条核验。",
       "connections": "通过河西走廊与中亚绿洲相连，通过南方港口与海上航线接触东南亚与印度洋；丝绸之路的陆海两段在此交汇。",
       "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000 人（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；汉代疆域内的人口与经济数据属历史人口学议题，需专门研究核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>汉代 · 简笔示意，非精确测绘</text></svg>"
@@ -777,7 +777,7 @@
         "wb-chn-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但**逐词核对为噪声**：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条**不构成实证复核、不判达标**。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。",
+      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但逐词核对为噪声：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条不构成实证复核、不判达标。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -801,7 +801,7 @@
       "level": "L2",
       "status": "L2完成(第33轮)-Wikidata年代",
       "definition": "元代：据 Wikidata 结构化记录为 1271年–1368年。",
-      "time_or_place": "1271年–1368年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "time_or_place": "1271年–1368年（Wikidata 属性值；口径差异见正文）",
       "overview": "据 Wikidata 结构化记录为 1271年–1368年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
@@ -813,7 +813,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：年代（1271年–1368年）来自 Wikidata Q7313 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（1271年–1368年）来自 Wikidata wikidata-q7313 的属性值；引文照录实体描述：「Mongol-led imperial dynasty of China (1271–1368)」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -821,9 +821,9 @@
       "last_update": "2026-11-22",
       "geo": "以大都（今北京）为中枢，控制华北平原与蒙古高原的接合部；南北向的大运河与海运并用以输送南方粮赋。",
       "influence": "草原与农耕区的双重基础支撑统治，驿站与海运是关键基础设施；治理成效取决于制度与财政安排，不能仅由疆域解释。",
-      "polities": "据 Wikidata 记录，起于 1271年、讫于 1368年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，1271年–1368年。属性与描述一致（1271–1368）。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
       "connections": "驿站网络连接漠北、中原与中亚，海路连接东南亚与印度洋，形成陆海并用的交通格局。",
-      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>1271年</text><text x='560' y='252' class='lbl'>1368年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>元代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
@@ -1265,7 +1265,7 @@
         "wb-mng-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（1206–1368年）来自 Wikidata Q12557 的 P571/P576（精度=年）；UNESCO Culture 作机构页、世界银行作现状数据端点。汗国分化后的年代待专门来源核验。 【第32轮返工】修时序：1368 为元朝终年，分裂起于 1260、四汗国成于 1294，原「其后分化为多个汗国」时序颠倒已改；「首次大规模连通」改为「前现代最显著的一次」（避免无源最高级断言）。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第32轮升级：年代（1206–1368年）来自 Wikidata Q12557 的 P571/P576（精度=年）；UNESCO Culture 作机构页、世界银行作现状数据端点。汗国分化后的年代待专门来源核验。 【第32轮返工】修时序：1368 为元朝终年，分裂起于 1260、四汗国成于 1294，原「其后分化为多个汗国」时序颠倒已改；「首次大规模连通」改为「前现代最显著的一次」（避免无源最高级断言）。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1274,7 +1274,7 @@
       "last_update": "2026-11-22",
       "geo": "核心位于蒙古高原，草原环境支撑大规模牧养与骑兵机动。帝国扩展后覆盖华北、中亚、波斯与东欧平原，跨越多种生态带，交通与补给条件差异极大。",
       "influence": "草原创牧经济与机动能力是扩张的重要条件，但跨欧亚的统治依赖驿站、分封与地方代理等制度安排。地理条件提供路径，制度决定其能否维持。",
-      "polities": "据 Wikidata 记录，P571（成立）= 1206年、P576（解散）= 1368年。**时序需说明**：帝国自 1260 年忽必烈与阿里不哥之争后实际分裂，1294 年形成多个汗国；1368 年是元朝（中国部分）终结之年，并非全帝国同时终止。大汗世系与各汗国年代待专门史学来源核验。",
+      "polities": "据 Wikidata 记录，P571（成立）= 1206年、P576（解散）= 1368年。时序需说明：帝国自 1260 年忽必烈与阿里不哥之争后实际分裂，1294 年形成多个汗国；1368 年是元朝（中国部分）终结之年，并非全帝国同时终止。大汗世系与各汗国年代待专门史学来源核验。",
       "connections": "驿站网络把东亚、中亚、波斯与东欧连成一体，商队、使节与技术沿此流动；就欧亚陆路连通的规模而言，是前现代最显著的一次。",
       "today": "以蒙古为例，来源：世界银行 API。总人口 3,568,978 人（2025年）（SP.POP.TOTL）、城市化率 71.1%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；帝国时期的人口与疆域估算属史学议题，需专门研究核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>蒙古帝国 · 简笔示意，非精确测绘</text></svg>"
@@ -1368,7 +1368,7 @@
         "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：面积（3,200,000 km²）来自 Wikidata Q31945 的结构化属性。 【单源待互证】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。",
+      "pending_notes": "第33轮升级：面积（3,200,000 km²）来自 Wikidata Q31945 的结构化属性。 【单源待互证】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1378,7 +1378,7 @@
       "influence": "干旱条件限制定居农业，绿洲与商路位置成为政治经济重心；半岛的边缘性（红海与波斯湾两翼）使其长期充当东西方贸易中介。",
       "polities": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
       "connections": "西临红海连接埃及与东非，东临波斯湾连接美索不达米亚与印度洋航线，南北向商路贯穿绿洲带。",
-      "today": "本条以地理与区域概述为主，当代指标见相关「区域发展」类条目。",
+      "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='380' cy='200' rx='230' ry='105' fill='none' stroke='var(--accent)' stroke-width='3'/><text x='300' y='205' class='lbl'>阿拉伯半岛</text><text x='450' y='235' class='dim'>3,200,000 km²</text><text x='40' y='370' class='dim'>阿拉伯半岛 · 简笔示意，非精确测绘</text></svg>"
     },
     {

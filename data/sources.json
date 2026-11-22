@@ -4160,7 +4160,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q7209 — Han dynasty",
-      "note": "Wikidata 实体 Q7209；英文描述「imperial dynasty in China from **202 BC** to 220 AD」；P571=-0206（精度=年）、P576=+0220（精度=年）。**注意：描述写 202 BC 与 P571 的 206 BC 不一致**（汉元年/受封汉王 vs 称帝）。第32轮复抓 HTTP 200。众包数据，仅作双源之一。"
+      "note": "Wikidata 实体 Q7209；英文描述「imperial dynasty in China from **202 BC** to 220 AD」；P571=-0206（精度=年）、P576=+0220（精度=年）。**注意：描述写 202 BC 与 P571 的 206 BC 不一致**（汉元年/受封汉王 vs 称帝）。第32轮复抓 HTTP 200。众包数据，仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q12557",
@@ -4173,7 +4173,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q12557 — Mongol Empire",
-      "note": "Wikidata 实体 Q12557；英文描述「13th- and 14th-century empire originating in Mongolia」；P571=1206（精度=年）、P576=1368（精度=年）。**1368 为元朝终年**；帝国自 1260 年起分裂、1294 年成四汗国。第32轮复抓 HTTP 200。"
+      "note": "Wikidata 实体 Q12557；英文描述「13th- and 14th-century empire originating in Mongolia」；P571=1206（精度=年）、P576=1368（精度=年）。**1368 为元朝终年**；帝国自 1260 年起分裂、1294 年成四汗国。第32轮复抓 HTTP 200。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q2608489",
@@ -4186,7 +4186,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q2608489 — Aztec Empire",
-      "note": "Wikidata 实体 Q2608489；英文描述「former Mesoamerican empire」；P571=1325（精度=年）、P576=1521-08-13（精度=日）、P580=1367（精度=年）、P2046=300000 km²。第32轮返工复抓 HTTP 200 回填（此前 429 未核验）。众包数据，仅作双源之一。"
+      "note": "Wikidata 实体 Q2608489；英文描述「former Mesoamerican empire」；P571=1325（精度=年）、P576=1521-08-13（精度=日）、P580=1367（精度=年）、P2046=300000 km²。第32轮返工复抓 HTTP 200 回填（此前 429 未核验）。众包数据，仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q7462",
@@ -4199,7 +4199,7 @@
       "link_ok": false,
       "verified": false,
       "page_title": "Wikidata Q7462 — Song dynasty",
-      "note": "Wikidata 实体 Q7462；英文描述「former imperial dynasty of China (960–1279)」；结构化时间属性 P571（成立）/P576（解散）给出 960年–1279年（精度=年）。API 查询 HTTP 429。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+      "note": "Wikidata 实体 Q7462；英文描述「former imperial dynasty of China (960–1279)」；结构化时间属性 P571（成立）/P576（解散）给出 960年–1279年（精度=年）。API 查询 HTTP 429。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q5413",
@@ -4212,7 +4212,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q5413 — Yangtze River",
-      "note": "Wikidata 实体 Q5413（长江，非「长江流域」）；英文描述「longest river in Asia and third-longest in the world」；P2043=6300 千米（精度=1）。**该值为河流长度，不是流域面积**；流域实体 Q15758768 在 Wikidata 无面积属性。"
+      "note": "Wikidata 实体 Q5413（长江，非「长江流域」）；英文描述「longest river in Asia and third-longest in the world」；P2043=6300 千米（精度=1）。**该值为河流长度，不是流域面积**；流域实体 Q15758768 在 Wikidata 无面积属性。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q42534",
@@ -4225,7 +4225,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q42534 — Indus Valley Civilization",
-      "note": "英文描述「Bronze Age civilisation in South Asia」；P580（起始）= 前3000年、P582（结束）= 前1800年（精度=年）。；API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "英文描述「Bronze Age civilisation in South Asia」；P580（起始）= 前3000年、P582（结束）= 前1800年（精度=年）。；API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q180568",
@@ -4238,7 +4238,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q180568 — Egyptian Empire",
-      "note": "Wikidata 实体 Q180568；英文描述「period from 1570 to 1069 BC in Egypt」；起止 前1550年–前1070年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q180568；英文描述「period from 1570 to 1069 BC in Egypt」；起止 前1550年–前1070年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q241790",
@@ -4251,11 +4251,11 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q241790 — Kingdom of Kush",
-      "note": "Wikidata 实体 Q241790；英文描述「c. 1070 BCE – c. CE 350 / kingdom in Nubia」；起止 前2180年–350年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q241790；英文描述「c. 1070 BCE – c. CE 350 / kingdom in Nubia」；起止 前2180年–350年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q181238",
-      "title": "Wikidata Q181238 — Africa",
+      "title": "Wikidata Q181238 — Africa (Roman province)",
       "author": "Wikidata（Wikimedia 社区，CC0）",
       "year": null,
       "type": "开放数据集",
@@ -4263,8 +4263,8 @@
       "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q181238&props=claims&format=json",
       "link_ok": true,
       "verified": true,
-      "page_title": "Wikidata Q181238 — Africa",
-      "note": "Wikidata 实体 Q181238；英文描述「Roman province on the northern African coast」；起止 前146年–439年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "page_title": "Wikidata Q181238 — Africa (Roman province)",
+      "note": "Wikidata 实体 Q181238；英文描述「Roman province on the northern African coast」；起止 前146年–439年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q206789",
@@ -4277,7 +4277,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q206789 — Ghana Empire",
-      "note": "Wikidata 实体 Q206789；英文描述「West African empire based in modern-day Mauritania and Mali」；起止 100年–1200年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q206789；英文描述「West African empire based in modern-day Mauritania and Mali」；起止 100年–1200年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q202687",
@@ -4290,7 +4290,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q202687 — Songhai Empire",
-      "note": "Wikidata 实体 Q202687；英文描述「former state located in western Africa」；起止 1464年–1591年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q202687；英文描述「former state located in western Africa」；起止 1464年–1591年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q11774",
@@ -4303,7 +4303,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q11774 — Gupta Empire",
-      "note": "Wikidata 实体 Q11774；英文描述「ancient Indian empire (c. 3rd century CE–575 CE)」；起止 320年–550年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q11774；英文描述「ancient Indian empire (c. 3rd century CE–575 CE)」；起止 320年–550年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q128938",
@@ -4316,7 +4316,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q128938 — Shang dynasty",
-      "note": "Wikidata 实体 Q128938；英文描述「the first ancient Chinese dynasty to leave historical records」；起止 前1600年–前1046年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q128938；英文描述「the first ancient Chinese dynasty to leave historical records」；起止 前1600年–前1046年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q35216",
@@ -4329,7 +4329,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q35216 — Zhou dynasty",
-      "note": "Wikidata 实体 Q35216；英文描述「dynasty of Ancient Chinese kings lasting from 1046 BC to 256 BC」；起止 前1046年–前256年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q35216；英文描述「dynasty of Ancient Chinese kings lasting from 1046 BC to 256 BC」；起止 前1046年–前256年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q7183",
@@ -4342,7 +4342,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q7183 — Qin dynasty",
-      "note": "Wikidata 实体 Q7183；英文描述「dynasty that ruled in China from 221 to 206 BC」；起止 前221年–前206年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q7183；英文描述「dynasty that ruled in China from 221 to 206 BC」；起止 前221年–前206年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q7313",
@@ -4355,11 +4355,11 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q7313 — Yuan dynasty",
-      "note": "Wikidata 实体 Q7313；英文描述「Mongol-led imperial dynasty of China (1271–1368)」；起止 1271年–1368年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q7313；英文描述「Mongol-led imperial dynasty of China (1271–1368)」；起止 1271年–1368年（精度=年）。第33轮 API 查询成功。众包数据，按 TASK 规则仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q28227",
-      "title": "Wikidata Q28227 — 马格里布",
+      "title": "Wikidata Q28227 — Maghreb",
       "author": "Wikidata（Wikimedia 社区，CC0）",
       "year": null,
       "type": "开放数据集",
@@ -4367,12 +4367,12 @@
       "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q28227&props=claims&format=json",
       "link_ok": true,
       "verified": true,
-      "page_title": "Wikidata Q28227 — 马格里布",
-      "note": "Wikidata 实体 Q28227；英文描述「part of North Africa」；面积 = 6,045,741 km²（属性 P2046）。第33轮 API 成功。众包数据，仅作双源之一。"
+      "page_title": "Wikidata Q28227 — Maghreb",
+      "note": "Wikidata 实体 Q28227；英文描述「part of North Africa」；面积 = 6,045,741 km²（属性 P2046）。第33轮 API 成功。众包数据，仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q31945",
-      "title": "Wikidata Q31945 — 阿拉伯半岛",
+      "title": "Wikidata Q31945 — Arabian Peninsula",
       "author": "Wikidata（Wikimedia 社区，CC0）",
       "year": null,
       "type": "开放数据集",
@@ -4380,12 +4380,12 @@
       "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q31945&props=claims&format=json",
       "link_ok": true,
       "verified": true,
-      "page_title": "Wikidata Q31945 — 阿拉伯半岛",
-      "note": "Wikidata 实体 Q31945；英文描述「peninsula in Western Asia」；面积 = 3,200,000 km²（属性 P2046）。第33轮 API 成功。众包数据，仅作双源之一。"
+      "page_title": "Wikidata Q31945 — Arabian Peninsula",
+      "note": "Wikidata 实体 Q31945；英文描述「peninsula in Western Asia」；面积 = 3,200,000 km²（属性 P2046）。第33轮 API 成功。众包数据，仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     },
     {
       "id": "wikidata-q319288",
-      "title": "Wikidata Q319288 — 埃塞俄比亚高原",
+      "title": "Wikidata Q319288 — Ethiopian Highlands",
       "author": "Wikidata（Wikimedia 社区，CC0）",
       "year": null,
       "type": "开放数据集",
@@ -4393,8 +4393,8 @@
       "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q319288&props=claims&format=json",
       "link_ok": true,
       "verified": true,
-      "page_title": "Wikidata Q319288 — 埃塞俄比亚高原",
-      "note": "Wikidata 实体 Q319288；英文描述「mountain range in East Africa」；最高海拔 = 4,550 m（属性 P2044）。第33轮 API 成功。众包数据，仅作双源之一。"
+      "page_title": "Wikidata Q319288 — Ethiopian Highlands",
+      "note": "Wikidata 实体 Q319288；英文描述「mountain range in East Africa」；最高海拔 = 4,550 m（属性 P2044）。第33轮 API 成功。众包数据，仅作双源之一。 第33轮复测：DBpedia 资源页 HTTP 200 可达，但 abstract 为空且派生自 Wikipedia，不作独立内容来源。"
     }
   ]
 }

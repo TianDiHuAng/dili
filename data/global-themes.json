@@ -276,7 +276,7 @@
         "s016-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 **0**；s016（FAO Land overview）200 / 4070 字符 / 命中 **0**。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。",
+      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 0；s016（FAO Land overview）200 / 4070 字符 / 命中 0。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -306,7 +306,7 @@
         "s015-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——fao-mountain-partnership 为门户首页（39 次 mountain 命中全来自导航，soil/erosion/terrace/slope/altitude 均为 0）。已降级 L1，并移除定义中「梯田与多样作物组合」这一无源断言。待 FAO 山地正文页到位后再升级。 【第23轮实证复核】实测：s016（FAO Land overview）200 / 4070 字符 / mountain|terrace|slope 命中 **0**；s083（FAO 土壤数据）200 / 2268 字符 / 命中 **0**，且其 note 明写「mountain 命中 0，不用于山地条目」→ 已移除 s083。缺口为「FAO 山地农业正文页」。 已按 note 提示移除 s083（不用于山地条目），补入 s015/s018 区域农业机构页维持 ≥2。 【第25轮实证复核·山地农业】正则 mountain|terrace；s016-fao-org(200/正文4070字符/命中0)；s015-fao-org(200/正文9643字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「山地农业」专题页时维持 L1。",
+      "pending_notes": "二次返工：抽检 FAIL——fao-mountain-partnership 为门户首页（39 次 mountain 命中全来自导航，soil/erosion/terrace/slope/altitude 均为 0）。已降级 L1，并移除定义中「梯田与多样作物组合」这一无源断言。待 FAO 山地正文页到位后再升级。 【第23轮实证复核】实测：s016（FAO Land overview）200 / 4070 字符 / mountain|terrace|slope 命中 0；s083（FAO 土壤数据）200 / 2268 字符 / 命中 0，且其 note 明写「mountain 命中 0，不用于山地条目」→ 已移除 s083。缺口为「FAO 山地农业正文页」。 已按 note 提示移除 s083（不用于山地条目），补入 s015/s018 区域农业机构页维持 ≥2。 【第25轮实证复核·山地农业】正则 mountain|terrace；s016-fao-org(200/正文4070字符/命中0)；s015-fao-org(200/正文9643字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「山地农业」专题页时维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -373,7 +373,7 @@
         "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Cities/City 页面不可用，维持 L1。 【第18轮矩阵清理】移除s025（OWID Urbanization，与城市起源的政权/聚落史主题错配；D049 同型）。 【第18轮补底】新增 un-m49/s010 区域或文化机构背景来源。 【第23轮实证复核】实测：s010（UNESCO Culture）200 / 剥离后 **218 字符** / city|urban|settlement 命中 **0**；un-m49（UNSD M49）200 / 144945 字符 / 命中 **2**（仅国家分组级）。缺口为「早期城市/聚落考古专题页」（此前按 theme=政权更替 机械写为政权年代序列，已按主题纠正）。 【第24轮实证复核】s010-unesco-org=200/正文218字符/命中0；un-m49=200/正文144945字符/命中2。 【第25轮实证复核·城市起源】正则 city|urban；s010-unesco-org(200/正文218字符/命中0，UNESCO 返回 Cloudflare 挑战页；另有间歇 reset)；un-m49(200/正文144945字符/命中2)。 D055 判定：未达标（最高命中 2，最高正文 144945 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「城市起源」专题页时维持 L1。",
+      "pending_notes": "第8轮来源探测：Livius Cities/City 页面不可用，维持 L1。 【第18轮矩阵清理】移除s025（OWID Urbanization，与城市起源的政权/聚落史主题错配；D049 同型）。 【第18轮补底】新增 un-m49/s010 区域或文化机构背景来源。 【第23轮实证复核】实测：s010（UNESCO Culture）200 / 剥离后 218 字符 / city|urban|settlement 命中 0；un-m49（UNSD M49）200 / 144945 字符 / 命中 2（仅国家分组级）。缺口为「早期城市/聚落考古专题页」（此前按 theme=政权更替 机械写为政权年代序列，已按主题纠正）。 【第24轮实证复核】s010-unesco-org=200/正文218字符/命中0；un-m49=200/正文144945字符/命中2。 【第25轮实证复核·城市起源】正则 city|urban；s010-unesco-org(200/正文218字符/命中0，UNESCO 返回 Cloudflare 挑战页；另有间歇 reset)；un-m49(200/正文144945字符/命中2)。 D055 判定：未达标（最高命中 2，最高正文 144945 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「城市起源」专题页时维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -886,7 +886,7 @@
         "wb-wld-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。 【第29轮现状数据】today 填入 wb-wld-urban 实测值（全球口径，含年份与单位）。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。 【第29轮现状数据】today 填入 wb-wld-urban 实测值（全球口径，含年份与单位）。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
@@ -1165,7 +1165,7 @@
         "wb-mex-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
@@ -1262,7 +1262,7 @@
       "influence": "沙尘输送可以跨洲，既影响空气质量与交通，也把矿物质带入下游生态系统。影响强度取决于源区状况与大气环流。",
       "polities": "本条不展开政权序列；跨境沙尘监测与预警属区域合作议题。",
       "connections": "沙尘把干旱区与海洋、城市连接起来，是全球物质循环的一部分。",
-      "today": "来源：世界银行 API（指标 EN.ATM.PM25.MC.M3，细颗粒物年均暴露）：全球 2023年约 32.87 μg/m³。该指标是空气污染总体暴露，**不等于沙尘浓度**；沙尘贡献需依靠气溶胶组分与源区观测区分。",
+      "today": "来源：世界银行 API（指标 EN.ATM.PM25.MC.M3，细颗粒物年均暴露）：全球 2023年约 32.87 μg/m³。该指标是空气污染总体暴露，不等于沙尘浓度；沙尘贡献需依靠气溶胶组分与源区观测区分。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>沙尘暴 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -2168,7 +2168,7 @@
       "influence": "排放清单是气候政策的基础数据，口径差异（生产端/消费端）会显著改变国家排序，解读时需注明方法。",
       "polities": "本条不展开政权序列；核算规则与报告义务由国际框架约定。",
       "connections": "贸易使排放与消费地分离，形成碳转移与全球供应链上的排放关联。",
-      "today": "来源：世界银行 API（指标 EN.GHG.CO2.MT.CE.AR5，官方名为 「Carbon dioxide (CO2) emissions (total) **excluding LULUCF**」，单位 Mt CO₂e）：全球 2024年约 39,632.66 Mt CO₂e。该口径**不含土地利用变化与林业（LULUCF）**；与含 LULUCF 的清单、以及仅计能源燃烧的口径均不可直接比较，跨国比较须先核对核算范围。",
+      "today": "来源：世界银行 API（指标 EN.GHG.CO2.MT.CE.AR5，官方名为 「Carbon dioxide (CO2) emissions (total) excluding LULUCF」，单位 Mt CO₂e）：全球 2024年约 39,632.66 Mt CO₂e。该口径不含土地利用变化与林业（LULUCF）；与含 LULUCF 的清单、以及仅计能源燃烧的口径均不可直接比较，跨国比较须先核对核算范围。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>二氧化碳排放清单 · 简笔示意，非精确测绘</text></svg>"
     },
     {
