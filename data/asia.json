@@ -25,9 +25,9 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-agri"
+        "wb-irq-pop",
+        "wb-irq-urban",
+        "wb-irq-agri"
       ],
       "needs_verification": true,
       "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·两河流域】本条正则 mesopotamia|tigris|euphrates。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「两河流域」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为两河流域主题专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -65,8 +65,8 @@
         "livius-mesopotamia",
         "s013-fao-org",
         "s010-unesco-org",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-irq-pop",
+        "wb-irq-urban"
       ],
       "needs_verification": true,
       "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。 档位判定：本条标题为「苏美尔城邦」，正则 sumer 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -103,9 +103,8 @@
         "livius-mesopotamia",
         "s010-unesco-org",
         "s013-fao-org",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-agri"
+        "wb-irq-pop",
+        "wb-irq-agri"
       ],
       "needs_verification": true,
       "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·阿卡德帝国】本条正则 akkad；livius-mesopotamia=200/正文3628字符/本条命中0；s010-unesco-org=200/正文218字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「阿卡德帝国」主题专题页。 档位判定：本条标题为「阿卡德帝国」，正则 akkad 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -230,9 +229,9 @@
       "sources": [
         "livius-cyrus",
         "livius-mesopotamia",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-irn-pop",
+        "wb-irn-urban",
+        "wb-irn-life"
       ],
       "needs_verification": true,
       "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ **D041 配对缺口**：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。  【第27轮实证复核·阿契美尼德波斯】本条正则 achaemenid|persia|cyrus（英文源用英文正则，D070）；livius-cyrus=200/正文9218字符/本条命中62；livius-mesopotamia=200/正文3628字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：达标（档③8000+命中≥5 门槛8000：正文9218≥8000、命中62）。",
@@ -327,8 +326,8 @@
       "sources": [
         "s010-unesco-org",
         "s013-fao-org",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-ind-pop",
+        "wb-pak-pop"
       ],
       "needs_verification": true,
       "pending_notes": "第15轮 D041 合规检查：原 L2 仅以 4 个数据层别名页为来源，不符合「一专题页 + 一机构页」；现无可用印度河考古专题页（Livius 无对应分类、UNESCO WHC 403），降级 L1。待哈拉帕/摩亨佐达罗考古专题来源到位后再升级。 【第19轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第20轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
@@ -481,9 +480,9 @@
         "wk-yellow-river",
         "br-china",
         "wk-china",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-agri"
+        "wb-chn-pop",
+        "wb-chn-urban",
+        "wb-chn-agri"
       ],
       "needs_verification": false,
       "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·黄河流域】本条正则 yellow river|huang he；br-yellow-river=200/正文4070字符/本条命中0；wk-yellow-river=200/正文4669字符/本条命中0。D055 判定：未达标（最高命中0、最高正文4669字符；档①门槛5000/档②③8000）；缺口为「黄河流域」主题专题页。 档位判定：本条标题为「黄河流域」，正则 yellow river|huang he 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
@@ -733,9 +732,9 @@
         "un-m49",
         "ap-human-geo",
         "s014-fao-org",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-agri"
+        "wb-chn-pop",
+        "wb-chn-urban",
+        "wb-chn-agri"
       ],
       "needs_verification": true,
       "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（其中 s014-fao-org 为 FAOSTAT 壳页，可视正文约 7 字符，不构成正文依据）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：中国），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -934,8 +933,9 @@
         "fao-aquastat-basins",
         "s013-fao-org",
         "s018-fao-org",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-vnm-pop",
+        "wb-vnm-urban",
+        "wb-vnm-forest"
       ],
       "needs_verification": true,
       "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。 档位判定：本条标题为「湄公河三角洲」，正则 mekong 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
@@ -1271,11 +1271,11 @@
       "sources": [
         "s038-earthobservatory-nasa-gov",
         "s013-fao-org",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-chn-pop",
+        "wb-chn-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。 档位判定：本条标题为「青藏高原」，正则 tibet|plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 中国，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。 档位判定：本条标题为「青藏高原」，正则 tibet|plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 中国，D068 已核对国家—区域匹配；单位人、%）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

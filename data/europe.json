@@ -25,9 +25,9 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-grc-pop",
+        "wb-grc-urban",
+        "wb-grc-life"
       ],
       "needs_verification": true,
       "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·爱琴海世界】本条正则 aegean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「爱琴海世界」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为爱琴海世界主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -66,8 +66,8 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-grc-pop",
+        "wb-grc-urban"
       ],
       "needs_verification": true,
       "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·克里特文明】本条正则 crete|minoan。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「克里特文明」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为克里特文明主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -133,9 +133,9 @@
         "livius-polis",
         "livius-athens",
         "livius-greece",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-grc-pop",
+        "wb-grc-urban",
+        "wb-grc-life"
       ],
       "needs_verification": true,
       "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·古希腊城邦】本条正则 polis|greek；livius-polis=200/正文2469字符/本条命中12；livius-athens=200/正文6313字符/本条命中13。D055 判定：未达标（最高命中13、最高正文6313字符；档①门槛5000/档②③8000）；缺口为「古希腊城邦」主题专题页。 档位判定：本条标题为「古希腊城邦」，正则 polis|greek 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -203,9 +203,9 @@
         "livius-roman-republic",
         "livius-italy",
         "s010-unesco-org",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-ita-pop",
+        "wb-ita-urban",
+        "wb-ita-life"
       ],
       "needs_verification": true,
       "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·罗马共和国】本条正则 republic|rome；livius-roman-republic=200/正文25552字符/本条命中76；livius-italy=200/正文5515字符/本条命中12。D055 判定：未达标（实测未同时满足「正文≥门槛」与「命中≥3」，详见上句数字）；缺口为「罗马共和国」主题专题页。 档位判定：本条标题为「罗马共和国」，正则 republic|rome 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -243,12 +243,12 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-ita-pop",
+        "wb-ita-urban",
+        "wb-ita-life"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·罗马帝国】本条正则 roman empire。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「罗马帝国」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为罗马帝国主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 意大利，DN068 已核对国家—区域匹配；单位含「人/岁/%」）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·罗马帝国】本条正则 roman empire。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「罗马帝国」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为罗马帝国主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 意大利，D068 已核对国家—区域匹配；单位人、%、岁）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -407,9 +407,9 @@
         "s050-oceanservice-noaa-gov",
         "s039-climate-nasa-gov",
         "s018-fao-org",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-gbr-pop",
+        "wb-gbr-urban",
+        "wb-gbr-life"
       ],
       "needs_verification": true,
       "pending_notes": "第7轮升级：Livius/FAO/NOAA/UNESCO 机构页支撑概述；具体年代、王表、战役与现状数值待专门来源核验。 【第26轮实证复核·不列颠群岛】本条正则 britain|british；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s039-climate-nasa-gov=200/正文10544字符/本条命中0。D055 判定：未达标（最高命中0、最高正文10544字符；档①门槛5000/档②③8000）；缺口为「不列颠群岛」主题专题页。 档位判定：本条标题为「不列颠群岛」，正则 britain|british 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：英国），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -537,9 +537,9 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-nor-pop",
+        "wb-nor-urban",
+        "wb-nor-life"
       ],
       "needs_verification": true,
       "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
@@ -724,9 +724,9 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-life"
+        "wb-ita-pop",
+        "wb-ita-urban",
+        "wb-ita-life"
       ],
       "needs_verification": true,
       "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·文艺复兴意大利】本条正则 renaissance。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「文艺复兴意大利」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为文艺复兴意大利主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。",

@@ -532,8 +532,13 @@
       "sources": [
         "s023-ourworldindata-org",
         "s004-population-un-org",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-chn-pop",
+        "wb-ind-pop",
+        "wb-nga-pop",
+        "wb-bra-pop",
+        "wb-usa-pop",
+        "wb-egy-pop",
+        "wb-mex-pop"
       ],
       "needs_verification": true,
       "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。  【第27轮实证复核·人口地理】本条正则 population（英文源用英文正则，D070）；s023-ourworldindata-org=200/正文13570字符/本条命中95；s004-population-un-org=200/正文26字符/本条命中1。档位判定：档①5000（s023 Population Growth 含 population）。D055 判定：达标（档①5000 门槛5000：正文13570≥5000、命中95）。",
@@ -1140,8 +1145,13 @@
         "s025-ourworldindata-org",
         "un-m49",
         "s026-ourworldindata-org",
-        "wb-api-urban",
-        "wb-api-pop"
+        "wb-chn-urban",
+        "wb-ind-urban",
+        "wb-nga-urban",
+        "wb-bra-urban",
+        "wb-usa-urban",
+        "wb-egy-urban",
+        "wb-mex-urban"
       ],
       "needs_verification": true,
       "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
@@ -1199,7 +1209,7 @@
         "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s045 标题即主题（Defining Desertification），剥离后 22415 字符、desertif 命中 42）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·荒漠化】本条正则 desertif（英文源用英文，D070）；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中42；s018-fao-org=200/正文4707字符/本条命中1。档位判定：档①5000。D055 判定：达标（档①5000：正文22413、命中42）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s045 标题即主题（Defining Desertification），剥离后 22415 字符、desertif 命中 42）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·荒漠化】本条正则 desertif（英文源用英文，D070）；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中42；s018-fao-org=200/正文4707字符/本条命中1。档位判定：档①5000。D055 判定：达标（档①5000：正文22413、命中42）。 D053：第二源 s018（FAO Forestry）与本条主题错配（正文 4707 字符、本条正则命中 1），不构成独立依据。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
@@ -1231,7 +1241,7 @@
         "s045-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s046 标题含 dust/Sahel，剥离后 10329 字符、dust|sahel 命中 29）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·沙尘暴】本条正则 dust|sandstorm（英文源用英文，D070）；s046-earthobservatory-nasa-gov=200/正文10327字符/本条命中20；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中0。档位判定：档②/③8000。D055 判定：达标（档②/③8000：正文22413、命中20）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s046 标题含 dust/Sahel，剥离后 10329 字符、dust|sahel 命中 29）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·沙尘暴】本条正则 dust|sandstorm（英文源用英文，D070）；s046-earthobservatory-nasa-gov=200/正文10327字符/本条命中20；s045-earthobservatory-nasa-gov=200/正文22413字符/本条命中0。档位判定：档②/③8000。证据分开：s046（NASA Dust Bowl-to-Sahel）=200/正文10327/命中20（档②门槛8000，正文达标且命中≥3 → 本条达标依据）；s045（NASA Desertification）=200/正文22413/命中0（本条正则未命中，不构成依据）。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
@@ -2001,8 +2011,12 @@
       "sources": [
         "s066-worldbank-org",
         "un-m49",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-bra-pop",
+        "wb-mex-pop",
+        "wb-bra-urban",
+        "wb-mex-urban",
+        "wb-bra-forest",
+        "wb-mex-forest"
       ],
       "needs_verification": true,
       "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
@@ -2031,9 +2045,9 @@
       "sources": [
         "s067-worldbank-org",
         "un-m49",
-        "wb-api-pop",
-        "wb-api-urban",
-        "wb-api-agri"
+        "wb-egy-pop",
+        "wb-egy-urban",
+        "wb-egy-agri"
       ],
       "needs_verification": true,
       "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
@@ -2062,8 +2076,9 @@
       "sources": [
         "s068-worldbank-org",
         "un-m49",
-        "wb-api-pop",
-        "wb-api-urban"
+        "wb-ind-pop",
+        "wb-ind-urban",
+        "wb-ind-forest"
       ],
       "needs_verification": true,
       "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
