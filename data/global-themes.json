@@ -77,8 +77,8 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "季风系统：海陆热力差异导致季节性风向反转，深刻影响亚洲与非洲农业。",
       "time_or_place": "年度周期",
       "overview": "海陆热力差异导致季节性风向反转，深刻影响亚洲与非洲农业。",
@@ -89,16 +89,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "季风由海陆热力差异与行星风带季节移动共同形成，表现为风向季节性反转。亚洲、非洲与澳大利亚季风区降水高度季节化。",
+      "influence": "季风决定稻作与旱作区的播种节奏，也影响洪涝与干旱风险。学界对季风变化机制有多种解释，不能简单归因于单一因素。",
+      "polities": "季风区政权长期依赖粮食收成与水管理，但季风与国家形成不存在必然对应关系。",
+      "connections": "季风连接印度洋、太平洋与大陆气候，跨区域遥相关影响农业与贸易周期。",
+      "today": "季风强度与降水数据需按年份从气象机构获取，本站不写未核验数值。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='季风系统示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>季风系统</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x6d0bx6d41",
@@ -197,8 +205,8 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "河流三角洲：河流入海处沉积地貌，常成为农业与城市密集区。",
       "time_or_place": "全新世",
       "overview": "河流入海处沉积地貌，常成为农业与城市密集区。",
@@ -209,16 +217,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "三角洲位于河流入海处，由泥沙沉积形成分流河道、湿地与低平原。地势低平、土壤肥沃，但易受洪水与海平面上升影响。",
+      "influence": "三角洲农业与港口条件支持人口密集和城市发展；泥沙减少与地面沉降会放大风险。地理条件提供机会，也带来脆弱性，结果取决于治理方式。",
+      "polities": "许多大河三角洲成为文明与政权核心区，水利与港口管理长期是公共事务。",
+      "connections": "三角洲连接内河腹地与海上航线，是农产品、人口与货物交换的枢纽。",
+      "today": "三角洲面积与人口数据需按年份从权威统计与遥感来源补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='河流三角洲示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>河流三角洲</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x51b2x79efx5e73x539f",

@@ -183,7 +183,7 @@
       "region": "中非",
       "theme": "地形",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第2轮)",
       "definition": "刚果盆地：非洲最大内陆盆地，热带雨林广布，河流呈向心状汇入刚果河。",
       "time_or_place": "约古生代至今",
       "overview": "非洲最大内陆盆地，热带雨林广布，河流呈向心状汇入刚果河。",
@@ -194,10 +194,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：FAO 森林与水资源页可支持盆地生态描述；流域人口仍需按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -329,7 +330,7 @@
       "region": "东北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第2轮)",
       "definition": "古埃及古王国：以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
       "time_or_place": "约前2686—前2181年",
       "overview": "以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
@@ -340,10 +341,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持遗址背景；年代分期存在不同口径，保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

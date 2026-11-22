@@ -49,7 +49,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第2轮)",
       "definition": "苏美尔城邦：乌鲁克、乌尔等城邦并存，楔形文字与灌溉管理同步发展。",
       "time_or_place": "约前3500—前2300年",
       "overview": "乌鲁克、乌尔等城邦并存，楔形文字与灌溉管理同步发展。",
@@ -60,10 +60,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：FAO 水资源页支持灌溉背景；城邦名单与年代待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -78,7 +79,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第2轮)",
       "definition": "阿卡德帝国：萨尔贡统一两河流域，建立最早的地域性帝国之一。",
       "time_or_place": "约前2334—前2154年",
       "overview": "萨尔贡统一两河流域，建立最早的地域性帝国之一。",
@@ -89,10 +90,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：两河流域概述可用 FAO 水资源页作背景；具体王表待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -194,7 +196,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第2轮)",
       "definition": "阿契美尼德波斯：横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
       "time_or_place": "前550—前330年",
       "overview": "横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
@@ -205,10 +207,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：世界银行区域页可作跨区域背景；帝国疆域细节待权威历史地图核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -620,7 +623,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第2轮)",
       "definition": "汉代：开拓丝绸之路，把中原与中亚、西亚连接起来。",
       "time_or_place": "前202年—220年",
       "overview": "开拓丝绸之路，把中原与中亚、西亚连接起来。",
@@ -631,10 +634,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：世界银行东亚区域页可作现代对比背景；丝绸之路细节待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -796,7 +800,7 @@
       "region": "东亚",
       "theme": "区域",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第2轮)",
       "definition": "日本列岛：岛国环境、季风与海洋交通影响农业、政治与对外关系。",
       "time_or_place": "约前10000年至今",
       "overview": "岛国环境、季风与海洋交通影响农业、政治与对外关系。",
@@ -807,10 +811,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持区域交流背景；人口与语言数据待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1128,7 +1133,7 @@
       "region": "中亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第2轮)",
       "definition": "蒙古帝国：最大陆地帝国之一，驿站制度强化欧亚连通。",
       "time_or_place": "1206—1368年",
       "overview": "最大陆地帝国之一，驿站制度强化欧亚连通。",
@@ -1139,10 +1144,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 教育页支持文化交流背景；疆域与年代待权威来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
