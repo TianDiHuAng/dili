@@ -304,7 +304,7 @@
       "region": "南亚",
       "theme": "农业",
       "level": "L1",
-      "status": "D041合规降级L1(第15轮)",
+      "status": "已复核(第19轮)",
       "definition": "印度河文明：印度河及其支流沿岸的早期城市文明，以规划城市与灌溉农业著称。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "印度河及其支流沿岸的早期城市文明，以规划城市与灌溉农业著称。",
@@ -318,7 +318,7 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮 D041 合规检查：原 L2 仅以 4 个数据层别名页为来源，不符合「一专题页 + 一机构页」；现无可用印度河考古专题页（Livius 无对应分类、UNESCO WHC 403），降级 L1。待哈拉帕/摩亨佐达罗考古专题来源到位后再升级。",
+      "pending_notes": "第15轮 D041 合规检查：原 L2 仅以 4 个数据层别名页为来源，不符合「一专题页 + 一机构页」；现无可用印度河考古专题页（Livius 无对应分类、UNESCO WHC 403），降级 L1。待哈拉帕/摩亨佐达罗考古专题来源到位后再升级。 【第19轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -334,7 +334,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "吠陀时代：雅利安人进入印度河流域，部落社会与种姓制度逐渐形成。",
       "time_or_place": "约前1500—前600年",
       "overview": "雅利安人进入印度河流域，部落社会与种姓制度逐渐形成。",
@@ -349,7 +349,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -364,7 +364,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "孔雀王朝：阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
       "time_or_place": "约前324—前185年",
       "overview": "阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
@@ -379,7 +379,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -423,7 +423,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "笈多王朝：北印度统一，科学与文学繁荣，被视为古典时代。",
       "time_or_place": "约320—550年",
       "overview": "北印度统一，科学与文学繁荣，被视为古典时代。",
@@ -438,7 +438,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -491,7 +491,7 @@
       "region": "东亚",
       "theme": "农业",
       "level": "L1",
-      "status": "来源探测未通过(第8轮)",
+      "status": "已复核(第19轮)",
       "definition": "长江流域：长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
       "time_or_place": "长江流域（农业与城市密集区）",
       "overview": "长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
@@ -506,7 +506,7 @@
         "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius 无东亚流域专题，FAO AQUASTAT 仍为背景来源；维持 L1。",
+      "pending_notes": "第8轮来源探测：Livius 无东亚流域专题，FAO AQUASTAT 仍为背景来源；维持 L1。 【第19轮复核】东亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -551,7 +551,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "商代：青铜礼器与甲骨文记录早期王朝政治。",
       "time_or_place": "约前1600—前1046年",
       "overview": "青铜礼器与甲骨文记录早期王朝政治。",
@@ -566,7 +566,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -581,7 +581,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "周代：分封与宗法制度影响东亚政治秩序长期演变。",
       "time_or_place": "约前1046—前256年",
       "overview": "分封与宗法制度影响东亚政治秩序长期演变。",
@@ -596,7 +596,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -611,7 +611,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "秦代：统一文字、度量衡与郡县制，奠定中央集权模式。",
       "time_or_place": "前221—前207年",
       "overview": "统一文字、度量衡与郡县制，奠定中央集权模式。",
@@ -626,7 +626,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -641,7 +641,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "来源探测未通过(第8轮)",
+      "status": "已复核(第19轮)",
       "definition": "汉代：开拓丝绸之路，把中原与中亚、西亚连接起来。",
       "time_or_place": "前202年—220年",
       "overview": "开拓丝绸之路，把中原与中亚、西亚连接起来。",
@@ -656,7 +656,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Han 分类页、UNESCO Silk Roads 均无可用标题，维持 L1。",
+      "pending_notes": "第8轮来源探测：Livius Han 分类页、UNESCO Silk Roads 均无可用标题，维持 L1。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -672,7 +672,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "隋唐：大运河与长安国际性都市体现南北整合与对外交流。",
       "time_or_place": "581—907年",
       "overview": "大运河与长安国际性都市体现南北整合与对外交流。",
@@ -686,7 +686,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。",
+      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -740,7 +740,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "元代：蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
       "time_or_place": "1271—1368年",
       "overview": "蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
@@ -755,7 +755,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -770,7 +770,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第18轮)",
+      "status": "已复核(第19轮)",
       "definition": "明清：海禁与朝贡贸易交替，白银流入与人口增长显著。",
       "time_or_place": "1368—1912年",
       "overview": "海禁与朝贡贸易交替，白银流入与人口增长显著。",
@@ -784,7 +784,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。",
+      "pending_notes": "第16轮复核：东亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
