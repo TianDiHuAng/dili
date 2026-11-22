@@ -3849,6 +3849,71 @@
       "verified": true,
       "page_title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 俄罗斯)",
       "note": "JSON API 200；国家 RUS（俄罗斯）＋指标 SP.URB.TOTL.IN.ZS；最新值 75.2506636608215（2025 年）。"
+    },
+    {
+      "id": "wb-wld-forest",
+      "title": "World Bank API — Forest area (% of land area, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/AG.LND.FRST.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — Forest area (% of land area, 全球)",
+      "note": "JSON API 200；返回世界（WLD）或全球序列逐年数值；最新 2023 年 31.1%；单位为该指标原生单位。"
+    },
+    {
+      "id": "wb-wld-urban",
+      "title": "World Bank API — Urban population (% of total, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — Urban population (% of total, 全球)",
+      "note": "JSON API 200；返回世界（WLD）或全球序列逐年数值；最新 2025 年 57.8%；单位为该指标原生单位。"
+    },
+    {
+      "id": "wb-wld-fish",
+      "title": "World Bank API — Total fisheries production (metric tons, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/ER.FSH.PROD.MT?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — Total fisheries production (metric tons, 全球)",
+      "note": "JSON API 200；返回世界（WLD）或全球序列逐年数值；最新 2024 年 235,811,491 吨；单位为该指标原生单位。"
+    },
+    {
+      "id": "wb-wld-water",
+      "title": "World Bank API — Annual freshwater withdrawals (% of internal resources, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/ER.H2O.FWTL.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — Annual freshwater withdrawals (% of internal resources, 全球)",
+      "note": "JSON API 200；返回世界（WLD）或全球序列逐年数值；最新 2022 年 9.0%；单位为该指标原生单位。"
+    },
+    {
+      "id": "noaa-global-temp",
+      "title": "NOAA Climate at a Glance — Global Land and Ocean Temperature Departures (JSON)",
+      "author": "NOAA",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/globe/land_ocean/12/12/2015-2025.json",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "NOAA Climate at a Glance — Global Land and Ocean Temperature Departures (JSON)",
+      "note": "JSON API 200；返回世界（WLD）或全球序列逐年数值；最新 基准期 1901-2000；2025 年 +1.12 °C，2024 年 +1.26 °C；单位为该指标原生单位。"
     }
   ]
 }

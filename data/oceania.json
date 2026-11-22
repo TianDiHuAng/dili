@@ -40,7 +40,7 @@
       "influence": "降水分布限制农业与城市扩张，人口集中在海岸与少数河谷。内陆开发依赖地下水与牧业技术，环境约束长期存在，但并非唯一解释。",
       "polities": "原住民社会长期适应多样生态，外来统治后形成新的政治与经济结构；具体年代与政策待专门史料核验。",
       "connections": "澳大利亚通过印度洋—太平洋航线与东南亚、欧洲和美洲连接，矿产与农产品出口突出。",
-      "today": "来源：世界银行 API。总人口 27,614,411 人（2025年）（SP.POP.TOTL）、城市化率 87.7%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 17.4%（2024年）（AG.LND.FRST.ZS）。内陆人口密度与水资源数据待专门统计来源核验。",
+      "today": "来源：世界银行 API。总人口 27,614,411 人（2025年）（SP.POP.TOTL）、城市化率 87.7%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 17.4%（2024年）（AG.LND.FRST.ZS）。内陆人口密度与水资源数据待专门统计来源核验。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='澳大利亚大陆示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>大洋洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>澳大利亚大陆</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

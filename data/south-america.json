@@ -152,7 +152,7 @@
       "influence": "黑土与温和气候有利于农牧业，铁路与港口把内陆产品运往国际市场。出口繁荣依赖全球市场与制度安排，不能只由土壤解释。",
       "polities": "土地制度与港口城市深刻影响区域政治经济；具体政策、年代与政权变动待专门史料核验。",
       "connections": "通过拉普拉塔河口连接大西洋，粮食、肉类与皮革进入全球贸易网络。",
-      "today": "以阿根廷与乌拉圭为例，来源：世界银行 API。阿根廷总人口 45,851,378 人（2025年）（SP.POP.TOTL）、城市化率 92.4%（2025年）（SP.URB.TOTL.IN.ZS）；乌拉圭总人口 3,384,688 人（2025年）、城市化率 95.7%（2025年）。两国农牧业产值与播种面积数据待专门统计来源核验。",
+      "today": "以阿根廷与乌拉圭为例，来源：世界银行 API。阿根廷总人口 45,851,378 人（2025年）（SP.POP.TOTL）、城市化率 92.4%（2025年）（SP.URB.TOTL.IN.ZS）；乌拉圭总人口 3,384,688 人（2025年）、城市化率 95.7%（2025年）。两国农牧业产值与播种面积数据待专门统计来源核验。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='拉普拉塔平原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>拉普拉塔平原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

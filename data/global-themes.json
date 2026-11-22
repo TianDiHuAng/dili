@@ -656,15 +656,17 @@
       "related": [],
       "sources": [
         "s029-ourworldindata-org",
-        "s042-earthobservatory-nasa-gov"
+        "s042-earthobservatory-nasa-gov",
+        "wb-wld-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第29轮现状数据】today 填入 wb-wld-forest 实测值（全球口径，含年份与单位）。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "来源：世界银行 API（指标 AG.LND.FRST.ZS，森林面积占土地面积比例）：全球 2023 年 31.1%。森林覆盖率按各国上报口径汇总，区域差异与统计年份差异需注意。"
     },
     {
       "id": "global-themes-x571fx5730x5229x7528x53d8x5316",
@@ -873,15 +875,17 @@
       "sources": [
         "s025-ourworldindata-org",
         "s044-earthobservatory-nasa-gov",
-        "s039-climate-nasa-gov"
+        "s039-climate-nasa-gov",
+        "wb-wld-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。 【第29轮现状数据】today 填入 wb-wld-urban 实测值（全球口径，含年份与单位）。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS，城市人口占比）：全球 2025 年 57.8%。城市化率仅作背景，热岛强度需地面与卫星观测数据（地表温度差）核验，两者不可互换。"
     },
     {
       "id": "global-themes-x6e7fx5730x4e0ex6c34x8d44x6e90",
@@ -1270,10 +1274,11 @@
       ],
       "sources": [
         "noaa-sustainable-fisheries",
-        "s051-fisheries-noaa-gov"
+        "s051-fisheries-noaa-gov",
+        "wb-wld-fish"
       ],
       "needs_verification": true,
-      "pending_notes": "第20轮按 D055 档①升级：专题页 noaa-sustainable-fisheries 标题即主题、剥离后 19729 字符、fisher|sustainab 命中 165。五段已收敛到该页可支撑的管理内容（种群评估/限额/兼捕/重建），删除「上升流/大陆架/河口/水温饵料」等生态分布断言（该页 habitat/continental shelf/upwelling 命中为 0）。D053：第二源 s051 为 NOAA Fisheries 门户首页，不构成独立正文依据。 【第28轮实证复核·渔业资源】本条正则 fisher（英文源用英文，D070）；noaa-sustainable-fisheries=200/正文19729字符/本条命中142；s051-fisheries-noaa-gov=200/正文5255字符/本条命中20。档位判定：档①5000。D055 判定：达标（档①5000：正文19729、命中142）。",
+      "pending_notes": "第20轮按 D055 档①升级：专题页 noaa-sustainable-fisheries 标题即主题、剥离后 19729 字符、fisher|sustainab 命中 165。五段已收敛到该页可支撑的管理内容（种群评估/限额/兼捕/重建），删除「上升流/大陆架/河口/水温饵料」等生态分布断言（该页 habitat/continental shelf/upwelling 命中为 0）。D053：第二源 s051 为 NOAA Fisheries 门户首页，不构成独立正文依据。 【第28轮实证复核·渔业资源】本条正则 fisher（英文源用英文，D070）；noaa-sustainable-fisheries=200/正文19729字符/本条命中142；s051-fisheries-noaa-gov=200/正文5255字符/本条命中20。档位判定：档①5000。D055 判定：达标（档①5000：正文19729、命中142）。 【第29轮现状数据】today 填入 wb-wld-fish 实测值（全球口径，含年份与单位）。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
@@ -1282,7 +1287,7 @@
       "influence": "过度捕捞会削弱种群的生产力与恢复能力，兼捕则影响非目标物种与栖息地。限额管理、兼捕减少措施与种群重建计划是主要应对手段，成效取决于监测与执行。",
       "polities": "本条不展开政权序列；配额分配、渔业权属与执法属治理议题，具体制度待专门资料核验。",
       "connections": "渔业通过贸易与加工链连接产地与消费市场；共享种群与洄游物种使邻国间的管理协作成为必要。",
-      "today": "多国依据法定框架实施种群评估与捕捞限额。资源量、上岸量与配额数据需按年份从 NOAA/FAO 机构页核验。",
+      "today": "来源：世界银行 API（指标 ER.FSH.PROD.MT，渔业总产量）：全球 2024 年 235,811,491 吨。该值为总产量（含养殖与捕捞），分解数据与种群状况需专门渔业统计核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='渔业管理示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='300' cy='190' rx='130' ry='62' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='520' cy='240' rx='90' ry='45' fill='none' stroke='var(--accent)' stroke-width='3'/><path d='M300 190 L520 240' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='5 4'/><circle cx='300' cy='190' r='5' class='pt'/><text x='250' y='165' class='lbl'>种群评估</text><circle cx='520' cy='240' r='5' class='pt'/><text x='500' y='290' class='lbl'>限额管理</text><text x='40' y='370' class='dim'>渔业管理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -1432,10 +1437,11 @@
       ],
       "sources": [
         "s061-worldbank-org",
-        "s013-fao-org"
+        "s013-fao-org",
+        "wb-wld-water"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s061 标题即主题（Water），剥离后 26855 字符、water 命中 187）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·水资源管理】本条正则 water（英文源用英文，D070）；s061-worldbank-org=200/正文26853字符/本条命中187；s013-fao-org=200/正文898字符/本条命中3。档位判定：档①5000。D055 判定：达标（档①5000：正文26853、命中187）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s061 标题即主题（Water），剥离后 26855 字符、water 命中 187）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·水资源管理】本条正则 water（英文源用英文，D070）；s061-worldbank-org=200/正文26853字符/本条命中187；s013-fao-org=200/正文898字符/本条命中3。档位判定：档①5000。D055 判定：达标（档①5000：正文26853、命中187）。 【第29轮现状数据】today 填入 wb-wld-water 实测值（全球口径，含年份与单位）。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
@@ -1444,7 +1450,7 @@
       "influence": "管理方式影响农业产量、城市供给与生态流量。水价、权属与工程投资共同作用，不能只归因于自然禀赋。",
       "polities": "本条不展开政权序列；水权分配与跨边界协议属制度议题。",
       "connections": "流域把上下游与左右岸连成整体，跨边界河流的合作与争端是常见议题。",
-      "today": "水压力与地下水超采受到关注。取水量、蓄水量与水质指标需按年份从 World Bank/FAO 机构页核验。",
+      "today": "来源：世界银行 API（指标 ER.H2O.FWTL.ZS，年度淡水取用量占内部可再生资源比例）：全球 2022 年 9.0%。该比例是水压力的粗略指标，流域内与季节间的紧张程度可能远高于全球平均。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>水资源管理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -2106,10 +2112,11 @@
       ],
       "sources": [
         "s053-climate-gov",
-        "s026-ourworldindata-org"
+        "s026-ourworldindata-org",
+        "noaa-global-temp"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s053 标题即主题（climate change: global temperature），剥离后 11575 字符、temperature 命中 49）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·全球气温距平】本条正则 global temperature|temperature anomaly（英文源用英文，D070）；s053-climate-gov=200/正文11573字符/本条命中8；s026-ourworldindata-org=200/正文7460字符/本条命中4。档位判定：档②/③8000。D055 判定：达标（档②/③8000：正文11573、命中8）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s053 标题即主题（climate change: global temperature），剥离后 11575 字符、temperature 命中 49）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·全球气温距平】本条正则 global temperature|temperature anomaly（英文源用英文，D070）；s053-climate-gov=200/正文11573字符/本条命中8；s026-ourworldindata-org=200/正文7460字符/本条命中4。档位判定：档②/③8000。D055 判定：达标（档②/③8000：正文11573、命中8）。 【第29轮现状数据】today 填入 noaa-global-temp 实测值（全球口径，含年份与单位）。",
       "outlines": [
         "NOAA Climate.gov 全球温度页",
         "Our World in Data Climate Change"
@@ -2119,7 +2126,7 @@
       "influence": "气温距平是气候系统变化的综合指标之一，与海平面、极端事件和生态系统变化相关；单一年份波动不等同长期趋势。",
       "polities": "本条不展开政权序列；减排与适应政策属治理议题。",
       "connections": "大气环流把区域温度异常传递到更大范围，形成跨区域的相关性。",
-      "today": "近年全球平均温度持续偏高，具体年值与排名需按年份从 NOAA/OWID 机构页核验。",
+      "today": "来源：NOAA Climate at a Glance（全球陆海平均温度距平，基准期 1901–2000，单位 °C）：2023 年 +1.17、2024 年 +1.26、2025 年 +1.12。距平值随基准期与观测方法而变，跨数据集比较需核对口径。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 280 C 220 240 320 180 460 170 C 560 162 640 185 690 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M80 320 C 220 290 320 240 460 235 C 560 231 640 250 690 270' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='360' class='dim'>全球气温距平 · 简笔示意，非精确测绘</text></svg>"
     },
     {
