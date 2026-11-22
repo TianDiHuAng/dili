@@ -107,6 +107,20 @@
       "new_sources": 0,
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：10/10 PASS，整批合格；5条核心来源探测记录与5条重要L1复核均合规"
+    },
+    {
+      "round": 9,
+      "date": "2026-11-22",
+      "new_entries": 10,
+      "upgrades": 0,
+      "reviews": 30,
+      "fixes": 1,
+      "pending_total": 193,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：10/10 PASS，整批合格；已按非阻断观察把能源转型来源改为世界银行能源专题页"
     }
   ]
 }

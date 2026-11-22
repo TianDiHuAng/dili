@@ -33,3 +33,8 @@
 ## 第8轮记录（非阻塞）
 - 10 个新增候选专题页均不可核验（Livius Han/Mongols/Aztec/Cities、UNESCO Silk Roads/Mongol Empire、NatGeo Aztec、Britannica Yangtze），5 条核心 L1 维持 L1。
 - REPORT 模板漏 f-string 已即时修正，数据层未受影响。
+
+## 第9轮记录（非阻塞）
+- DuckDuckGo HTML 检索端点返回空内容，未能作为替代搜索渠道。
+- 能源转型条目曾引用世界银行城市化页，抽检后已改为 Energy 专题页。
+- 城市热岛引用 NASA Earth Observatory 城市化页，属背景来源，已保持 needs_verification=true，待补城市热岛专题页。
