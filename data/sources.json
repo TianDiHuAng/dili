@@ -2406,6 +2406,58 @@
       "verified": true,
       "page_title": "Grand Canyon National Park (U.S. National Park Service)",
       "note": "curl 实测 HTTP 200；页面标题：Grand Canyon National Park (U.S. National Park Service)；正文 87165 字节。"
+    },
+    {
+      "id": "nasa-ice-sheets",
+      "title": "Ice Sheets - Earth Indicator - NASA Science",
+      "author": "NASA",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://climate.nasa.gov/vital-signs/ice-sheets/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Ice Sheets - Earth Indicator - NASA Science",
+      "note": "curl 实测 HTTP 200；页面标题：Ice Sheets - Earth Indicator - NASA Science；正文 275446 字节；第15轮按 D041 规则用于专题支撑。"
+    },
+    {
+      "id": "fao-mountain-partnership",
+      "title": "Home | Mountain Partnership | FAO",
+      "author": "FAO",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.fao.org/mountain-partnership/en/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Home | Mountain Partnership | Food and Agriculture Organization of the United Nations",
+      "note": "curl 实测 HTTP 200；页面标题：Home | Mountain Partnership | Food and Agriculture Organization of the United Nations；正文 103211 字节；第15轮按 D041 规则用于专题支撑。"
+    },
+    {
+      "id": "owid-migration",
+      "title": "Migration | Our World in Data",
+      "author": "Our World in Data",
+      "year": null,
+      "type": "数据研究机构",
+      "url": "https://ourworldindata.org/migration",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Migration | Our World in Data",
+      "note": "curl 实测 HTTP 200；页面标题：Migration | Our World in Data；正文 211764 字节；第15轮按 D041 规则用于专题支撑。"
+    },
+    {
+      "id": "usgs-glaciers",
+      "title": "Glaciers: Clues to Future Climate [USGS]",
+      "author": "U.S. Geological Survey",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://pubs.usgs.gov/gip/glaciers/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Glaciers: Clues to Future Climate [USGS]",
+      "note": "curl 实测 HTTP 200；页面标题：Glaciers: Clues to Future Climate [USGS]；正文 4962 字节；第15轮按 D041 规则用于专题支撑。"
     }
   ]
 }

@@ -23,8 +23,8 @@
       "id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
       "level": "L1",
       "tier": "重要",
-      "status": "二次返工降级L1(第14轮)",
-      "source_count": 2,
+      "status": "已复核(第15轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -41,7 +41,7 @@
       "id": "africa-x57c3x585ex4fc4x6bd4x4e9ax9ad8x539f",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -59,7 +59,7 @@
       "id": "africa-x51e0x5185x4e9ax6e7ex6cbfx5cb8",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -113,7 +113,7 @@
       "id": "africa-x53e4x57c3x53cax65b0x738bx56fd",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -140,7 +140,7 @@
       "id": "africa-x7f57x9a6cx963fx975ex5229x52a0",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -167,7 +167,7 @@
       "id": "africa-x52a0x7eb3x5e1dx56fd",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -894,9 +894,9 @@
     },
     {
       "id": "north-america-x5317x7f8ex51b0x76d6",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "二次返工降级L1(第14轮)",
+      "status": "L2完成(第15轮)-D041专题来源",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1029,9 +1029,9 @@
     },
     {
       "id": "north-america-x683cx9675x5170x5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "二次返工降级L1(第14轮)",
+      "status": "L2完成(第15轮)-D041专题来源",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1569,9 +1569,9 @@
     },
     {
       "id": "global-themes-x5c71x5730x519cx4e1a",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "二次返工降级L1(第14轮)",
+      "status": "L2完成(第15轮)-D041专题来源",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1596,9 +1596,9 @@
     },
     {
       "id": "global-themes-x4ebax53e3x8fc1x79fb",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "二次返工降级L1(第14轮)",
+      "status": "L2完成(第15轮)-D041专题来源",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
