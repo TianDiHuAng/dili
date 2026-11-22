@@ -1,0 +1,74 @@
+{
+  "round": 8,
+  "gaps": {
+    "B1_source_probe": {
+      "tried": [
+        "Livius Han/Mongols/Aztec/Cities",
+        "UNESCO Silk Roads/Mongol Empire",
+        "NatGeo Aztec",
+        "Britannica Yangtze"
+      ],
+      "result": "10 个候选页均 404/403/无标题，未取得可核验专题来源",
+      "count": 10,
+      "blocked": [
+        "长江流域",
+        "汉代",
+        "蒙古帝国",
+        "阿兹特克",
+        "城市起源"
+      ]
+    },
+    "B5_pending": {
+      "total": 183
+    },
+    "B7_depth": {
+      "core_l1": [
+        "asia-x957fx6c5fx6d41x57df",
+        "asia-x6c49x4ee3",
+        "asia-x8499x53e4x5e1dx56fd",
+        "north-america-x963fx5179x7279x514b",
+        "global-themes-x57cex5e02x8d77x6e90"
+      ],
+      "important_l1": 87
+    },
+    "B2_matrix": {
+      "blanks": [],
+      "sparse": [
+        "非洲×气候",
+        "非洲×农业",
+        "非洲×区域",
+        "亚洲×地形",
+        "亚洲×气候",
+        "欧洲×气候",
+        "欧洲×农业",
+        "北美洲×气候",
+        "北美洲×农业",
+        "南美洲×气候",
+        "南美洲×贸易",
+        "南美洲×区域",
+        "大洋洲×气候",
+        "大洋洲×农业",
+        "大洋洲×贸易",
+        "大洋洲×政权更替",
+        "南极洲×气候",
+        "南极洲×农业",
+        "南极洲×贸易",
+        "南极洲×政权更替",
+        "南极洲×区域",
+        "全球主题×农业",
+        "全球主题×贸易",
+        "全球主题×政权更替"
+      ]
+    },
+    "B4_reader_recheck": {
+      "closed": [
+        "人口地理",
+        "城市地理",
+        "地图投影",
+        "争议边界处理原则"
+      ],
+      "remaining": [],
+      "count": 0
+    }
+  }
+}

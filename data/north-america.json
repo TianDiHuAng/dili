@@ -455,7 +455,7 @@
       "region": "中美洲",
       "theme": "政权更替",
       "level": "L1",
-      "status": "L1完成",
+      "status": "来源探测未通过(第8轮)",
       "definition": "阿兹特克：特诺奇蒂特兰建湖上都城，以朝贡与贸易维持帝国。",
       "time_or_place": "约1428—1521年",
       "overview": "特诺奇蒂特兰建湖上都城，以朝贡与贸易维持帝国。",
@@ -469,7 +469,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第8轮来源探测：Livius/NatGeo Aztec 页面不可用，维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

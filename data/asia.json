@@ -382,7 +382,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第6轮)",
+      "status": "已复核(第8轮)",
       "definition": "孔雀王朝：阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
       "time_or_place": "约前324—前185年",
       "overview": "阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
@@ -399,7 +399,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮复核：南亚×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第8轮复核：南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -443,7 +443,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第6轮)",
+      "status": "已复核(第8轮)",
       "definition": "笈多王朝：北印度统一，科学与文学繁荣，被视为古典时代。",
       "time_or_place": "约320—550年",
       "overview": "北印度统一，科学与文学繁荣，被视为古典时代。",
@@ -460,7 +460,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮复核：南亚×政权更替；新增背景来源 s058-worldbank-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第8轮复核：南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -513,7 +513,7 @@
       "region": "东亚",
       "theme": "农业",
       "level": "L1",
-      "status": "来源再核未通过(第7轮)",
+      "status": "来源探测未通过(第8轮)",
       "definition": "长江流域：长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
       "time_or_place": "长江流域（农业与城市密集区）",
       "overview": "长江干流及其支流覆盖的广阔区域，水网密集，是重要农业与城市密集区。",
@@ -528,7 +528,7 @@
         "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮来源复查：Livius 无东亚流域专题；维持 L1。",
+      "pending_notes": "第8轮来源探测：Livius 无东亚流域专题，FAO AQUASTAT 仍为背景来源；维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -666,7 +666,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第2轮)",
+      "status": "来源探测未通过(第8轮)",
       "definition": "汉代：开拓丝绸之路，把中原与中亚、西亚连接起来。",
       "time_or_place": "前202年—220年",
       "overview": "开拓丝绸之路，把中原与中亚、西亚连接起来。",
@@ -681,7 +681,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：世界银行东亚区域页可作现代对比背景；丝绸之路细节待专门来源核验。",
+      "pending_notes": "第8轮来源探测：Livius Han 分类页、UNESCO Silk Roads 均无可用标题，维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1214,7 +1214,7 @@
       "region": "中亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第2轮)",
+      "status": "来源探测未通过(第8轮)",
       "definition": "蒙古帝国：最大陆地帝国之一，驿站制度强化欧亚连通。",
       "time_or_place": "1206—1368年",
       "overview": "最大陆地帝国之一，驿站制度强化欧亚连通。",
@@ -1229,7 +1229,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：UNESCO 教育页支持文化交流背景；疆域与年代待权威来源核验。",
+      "pending_notes": "第8轮来源探测：Livius Mongols 与 UNESCO Mongol Empire 页面不可核验，维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
