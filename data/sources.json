@@ -559,7 +559,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Earth Observatory - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Earth Observatory - NASA Science；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Earth Observatory - NASA Science；页面未标注统一年份，年份留空不做推定。 第14轮核验补充：/features/WorldOfChange 现重定向至 science.nasa.gov/earth/earth-observatory/ 落地页，专题正文不再在该 URL 提供，引用时按机构页级别使用。"
     },
     {
       "id": "s044-earthobservatory-nasa-gov",
@@ -624,7 +624,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Climate | National Oceanic and Atmospheric Administration",
-      "note": "curl 实测 HTTP 200；页面标题：Climate | National Oceanic and Atmospheric Administration；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Climate | National Oceanic and Atmospheric Administration；页面未标注统一年份，年份留空不做推定。 第14轮核验补充：climate.gov 现 301 跳转至 noaa.gov/climate。"
     },
     {
       "id": "s049-ncei-noaa-gov",
@@ -728,7 +728,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "USGS Earthquake Hazards Program",
-      "note": "curl 实测 HTTP 200；页面标题：USGS Earthquake Hazards Program；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：USGS Earthquake Hazards Program；页面未标注统一年份，年份留空不做推定。 第14轮核验补充：根路径当前返回站点迁移通告（\"We have moved\"），不应作为地质内容依据，仅作机构入口。"
     },
     {
       "id": "s057-databank-worldbank-org",
@@ -1105,7 +1105,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "The ocean we need for the future we want | UNESCO",
-      "note": "curl 实测 HTTP 200；页面标题：The ocean we need for the future we want | UNESCO；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：The ocean we need for the future we want | UNESCO；页面未标注统一年份，年份留空不做推定。 第14轮核验补充：该页存在间歇性 connection reset，重试可取到标题。"
     },
     {
       "id": "s086-earthobservatory-nasa-gov",
@@ -2380,6 +2380,32 @@
       "verified": true,
       "page_title": "Italy - Livius",
       "note": "curl 实测 HTTP 200；页面标题：Italy - Livius；年份未标注。"
+    },
+    {
+      "id": "nps-grand-canyon-geology",
+      "title": "Geologic Formations - Grand Canyon National Park",
+      "author": "U.S. National Park Service",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.nps.gov/grca/learn/nature/geologicformations.htm",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Geologic Formations - Grand Canyon National Park (U.S. National Park Service)",
+      "note": "curl 实测 HTTP 200；页面标题：Geologic Formations - Grand Canyon National Park (U.S. National Park Service)；正文 44499 字节。"
+    },
+    {
+      "id": "nps-grand-canyon",
+      "title": "Grand Canyon National Park",
+      "author": "U.S. National Park Service",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.nps.gov/grca/index.htm",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Grand Canyon National Park (U.S. National Park Service)",
+      "note": "curl 实测 HTTP 200；页面标题：Grand Canyon National Park (U.S. National Park Service)；正文 87165 字节。"
     }
   ]
 }

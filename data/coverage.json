@@ -21,9 +21,9 @@
     },
     {
       "id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -471,9 +471,9 @@
     },
     {
       "id": "asia-x6e44x516cx6cb3x4e09x89d2x6d32",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -894,9 +894,9 @@
     },
     {
       "id": "north-america-x5317x7f8ex51b0x76d6",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -941,7 +941,7 @@
       "id": "north-america-x4e94x5927x6e56",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "L2完成(第14轮)-专题来源",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -950,16 +950,16 @@
       "id": "north-america-x79d1x7f57x62c9x591ax9ad8x539f",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "L2完成(第14轮)-专题来源",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
     {
       "id": "north-america-x58a8x897fx54e5x6e7e",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1029,9 +1029,9 @@
     },
     {
       "id": "north-america-x683cx9675x5170x5c9b",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1362,9 +1362,9 @@
     },
     {
       "id": "oceania-x5927x5821x7901",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1560,18 +1560,18 @@
     },
     {
       "id": "global-themes-x51b2x79efx5e73x539f",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
     {
       "id": "global-themes-x5c71x5730x519cx4e1a",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1596,9 +1596,9 @@
     },
     {
       "id": "global-themes-x4ebax53e3x8fc1x79fb",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第14轮)-窄化自然地理",
+      "status": "二次返工降级L1(第14轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -2143,10 +2143,9 @@
       "农业": 1
     },
     "north-america": {
-      "地形": 7,
+      "地形": 8,
       "农业": 2,
       "贸易": 5,
-      "气候": 1,
       "区域": 3,
       "政权更替": 4
     },

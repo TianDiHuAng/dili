@@ -401,11 +401,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "地形",
-      "level": "L2",
-      "status": "L2完成(第14轮)-窄化自然地理",
-      "definition": "大堡礁：澳大利亚东北岸外的珊瑚礁系统，是世界上规模最大的珊瑚礁群，由珊瑚虫骨骼长期堆积形成。",
+      "level": "L1",
+      "status": "二次返工降级L1(第14轮)",
+      "definition": "大堡礁：澳大利亚东北岸外的珊瑚礁群，由珊瑚骨骼长期堆积形成，是重要的海洋生态系统。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "澳大利亚东北岸外的珊瑚礁系统，是世界上规模最大的珊瑚礁群，由珊瑚虫骨骼长期堆积形成。",
+      "overview": "澳大利亚东北岸外的珊瑚礁群，由珊瑚骨骼长期堆积形成，是重要的海洋生态系统。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax5927x9646",
         "oceania-x5927x5206x6c34x5cad",
@@ -416,19 +416,13 @@
         "s085-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
+      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
-      "geo": "礁体分布于热带浅海，依赖温暖水质、清澈度与适宜盐度。珊瑚与共生藻的关系对水温变化敏感，强光、径流与风暴都会影响礁体状态。",
-      "influence": "珊瑚礁支撑渔业与海岸防护，其健康与海温、水质和人为压力相关。保护成效取决于管理措施与区域环境条件，需结合监测数据判断。",
-      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
-      "connections": "礁区与邻近海岸带、河口和开阔海域存在水体与生物幼体交换，是区域生态连通的一部分。",
-      "today": "海水升温与珊瑚白化是主要关注点；保护区管理与监测持续进行。珊瑚覆盖率与水温数据需按年份从 NOAA/UNESCO 等机构页面核验。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='大堡礁示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>大洋洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>大堡礁</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "oceania-x592ax5e73x6d0bx6b96x6c11x822ax7ebf",

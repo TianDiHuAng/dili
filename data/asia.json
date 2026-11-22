@@ -936,11 +936,11 @@
       "unit_id": "asia",
       "region": "东南亚",
       "theme": "农业",
-      "level": "L2",
-      "status": "L2完成(第14轮)-窄化自然地理",
-      "definition": "湄公河三角洲：湄公河入海处的低平冲积平原，位于越南南部并延伸至柬埔寨东南部。",
+      "level": "L1",
+      "status": "二次返工降级L1(第14轮)",
+      "definition": "湄公河三角洲：湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "湄公河入海处的低平冲积平原，位于越南南部并延伸至柬埔寨东南部。",
+      "overview": "湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
         "asia-x5370x5ea6x6cb3x6587x660e",
@@ -951,19 +951,13 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
+      "pending_notes": "二次返工：抽检判 PASS 但来源仅目录级（不含湄公河/三角洲正文）；按整批返工原则一并降级 L1，待 AQUASTAT 流域剖面页到位后再升级。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
-      "geo": "三角洲由河流泥沙长期沉积形成，水网密集、地势低洼，受季风降水与上游来水共同影响。咸潮入侵与沉积速率是重要水文特征。",
-      "influence": "水网与冲积土支撑稻作农业与密集聚落；低洼地形使区域对洪水与盐水入侵敏感。种植制度与水利安排的具体演变需专门资料。",
-      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
-      "connections": "三角洲通过河口与南海相连，通过湄公河干流与上游流域（含中国、老挝、泰国、柬埔寨）形成跨国的水文联系。",
-      "today": "咸潮入侵、地面沉降与上游水坝影响是主要议题。面积、产量与沉降数据需按年份从 FAO 等机构页面核验。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='湄公河三角洲示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东南亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>湄公河三角洲</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "asia-x5434x54e5",
