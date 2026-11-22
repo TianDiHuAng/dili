@@ -1279,7 +1279,7 @@
       "region": "西亚",
       "theme": "区域",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "阿拉伯半岛：干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
       "time_or_place": "古代至今",
       "overview": "干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
@@ -1290,10 +1290,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：西亚×区域；新增背景来源 un-m49，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1338,7 +1339,7 @@
       "region": "西亚",
       "theme": "地形",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第5轮)",
       "definition": "安纳托利亚：高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
       "time_or_place": "古代至今",
       "overview": "高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
@@ -1349,10 +1350,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮复核：西亚×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1367,7 +1369,7 @@
       "region": "东亚",
       "theme": "气候",
       "level": "L1",
-      "status": "抽检返工完成(第2轮)",
+      "status": "已复核(第5轮)",
       "definition": "东亚季风：海陆热力差异导致的季节性风向反转，显著影响东亚降水与农业节律；其强度变化受多因素共同作用，不作单因决定论解释。",
       "time_or_place": "东亚季风区（现代观测与历史记载）",
       "overview": "海陆热力差异导致的季节性风向反转，显著影响稻作区降水节律与农业周期安排；具体影响程度还受地形、海洋温度与其他气候因子共同作用。",
@@ -1376,10 +1378,11 @@
       ],
       "sources": [
         "s048-climate-gov",
-        "s038-earthobservatory-nasa-gov"
+        "s038-earthobservatory-nasa-gov",
+        "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "抽检返工：已移除无来源的起始年代，软化决定论表述；季风起始时间与长期变化机制待专门来源核验。",
+      "pending_notes": "第5轮复核：东亚×气候；新增背景来源 s039-climate-nasa-gov，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
