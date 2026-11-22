@@ -51,6 +51,20 @@ def source_link(sid, sources):
     return f'<a href="{esc(s["url"])}" target="_blank" rel="noopener">{flag}{esc(s["title"])}</a>'
 
 
+def srcgrade(e):
+    """来源等级徽标：让 D041 缺口在页面上可见（诚实标注）。"""
+    st = e.get("status") or ""
+    if "D041 前遗产" in st or "d041_legacy" in st:
+        return '<span class="tag warn">来源：区域/机构级（待补专题页）</span>'
+    if "配对说明" in st:
+        return '<span class="tag">来源：专题页 + 入口页</span>'
+    if "主题页" in st or "合规换源" in st or "专题来源" in st:
+        return '<span class="tag">来源：专题页 + 机构页</span>'
+    if e.get("level") == "L1":
+        return '<span class="tag">来源：骨架级</span>'
+    return ""
+
+
 def entry_card(e):
     return f'''<a class="card tier-{esc(e['tier'])}" href="../entries/{esc(e['id'])}.html"><span class="tier">{esc(e['tier'])}</span><h3>{esc(e['title'])}</h3><p>{esc(e['time_or_place'])} · {esc(e['theme'])}</p><p class="dim">{esc(e['overview'][:60])}…</p></a>'''
 
@@ -138,7 +152,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
     # 条目页
     for eid, e in entries.items():
         parts = [f'''<div class="crumb"><a href="../index.html">首页</a> / <a href="../units/{esc(e['unit_id'])}.html">{esc(UNIT_NAMES[e['unit_id']])}</a> / {esc(e['title'])}</div>
-<h1>{esc(e['title'])}</h1><p><span class="tag">{esc(e['tier'])}</span><span class="tag">{esc(e['level'])}</span><span class="tag">{esc(e['region'])}</span><span class="tag">{esc(e['theme'])}</span></p>
+<h1>{esc(e['title'])}</h1><p><span class="tag">{esc(e['tier'])}</span><span class="tag">{esc(e['level'])}</span><span class="tag">{esc(e['region'])}</span><span class="tag">{esc(e['theme'])}</span>{srcgrade(e)}</p>
 <div class="section"><h2>定义</h2><p>{esc(e['definition'])}</p></div>
 <div class="section"><h2>时间或位置</h2><p>{esc(e['time_or_place'])}</p></div>
 <div class="section"><h2>概述</h2><p>{esc(e['overview'])}</p></div>''']
