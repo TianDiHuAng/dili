@@ -87,7 +87,7 @@
       "region": "东北非",
       "theme": "地形",
       "level": "L1",
-      "status": "来源再核未通过(第4轮)",
+      "status": "已复核(第4轮)",
       "definition": "尼罗河三角洲：尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
       "time_or_place": "埃及北部（地貌演化年代待核）",
       "overview": "尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
@@ -98,10 +98,11 @@
       ],
       "sources": [
         "fao-aquastat-basins",
-        "br-nile"
+        "br-nile",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮来源再核：World History Encyclopedia、Encyclopedia.com、EOL 均不可达或被拒绝；FAO AQUASTAT 与 NASA 页面标题非三角洲专题，维持 L1 与待核实。",
+      "pending_notes": "第4轮复核：东北非×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -282,7 +283,7 @@
       "region": "北非",
       "theme": "区域",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第4轮)",
       "definition": "马格里布：阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
       "time_or_place": "古代至今",
       "overview": "阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
@@ -292,10 +293,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第4轮复核：北非×区域；新增背景来源 un-m49，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -427,7 +429,7 @@
       "region": "东北非",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "已复核(第4轮)",
       "definition": "库什与努比亚：尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
       "time_or_place": "约前2000年—公元4世纪",
       "overview": "尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
@@ -439,10 +441,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：UNESCO 文化页支持尼罗河上游遗产背景；王国年代待专门核验。",
+      "pending_notes": "第4轮复核：东北非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -457,7 +460,7 @@
       "region": "北非",
       "theme": "贸易",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第4轮)",
       "definition": "迦太基：突尼斯湾畔的腓尼基殖民城邦，控制西地中海海上贸易网络。",
       "time_or_place": "约前814—前146年",
       "overview": "突尼斯湾畔的腓尼基殖民城邦，控制西地中海海上贸易网络。",
@@ -468,10 +471,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第4轮复核：北非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -515,7 +519,7 @@
       "region": "北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第4轮)",
       "definition": "阿拉伯征服北非：阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
       "time_or_place": "7—8世纪",
       "overview": "阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
@@ -526,10 +530,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第4轮复核：北非×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -698,7 +703,7 @@
       "region": "东非",
       "theme": "贸易",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "已复核(第4轮)",
       "definition": "斯瓦希里海岸：东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
       "time_or_place": "约8—16世纪",
       "overview": "东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
@@ -711,10 +716,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
+      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

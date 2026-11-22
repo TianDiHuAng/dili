@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第3轮)",
+      "status": "已复核(第4轮)",
       "definition": "北美冰盖：劳伦泰德冰盖塑造五大湖与冰碛地貌。",
       "time_or_place": "更新世",
       "overview": "劳伦泰德冰盖塑造五大湖与冰碛地貌。",
@@ -61,10 +61,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：NASA 地球观测页支持冰川地貌背景；冰盖范围细节待专门研究核验。",
+      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -146,7 +147,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L2",
-      "status": "L2完成(第3轮)",
+      "status": "已复核(第4轮)",
       "definition": "落基山脉：北美西部主干山脉，影响降水分布与交通走向。",
       "time_or_place": "约8000万年前至今",
       "overview": "北美西部主干山脉，影响降水分布与交通走向。",
@@ -159,10 +160,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
+      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
