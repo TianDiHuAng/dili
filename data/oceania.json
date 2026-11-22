@@ -344,7 +344,7 @@
       "region": "大洋洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第23轮·实证)",
+      "status": "已复核(第24轮·实证)",
       "definition": "夏威夷群岛：火山岛链，波利尼西亚航海者定居后形成王国。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "火山岛链，波利尼西亚航海者定居后形成王国。",
@@ -358,7 +358,7 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约500万年前至今」无专门来源支撑，已收敛为待核表述。 【第23轮实证复核】实测：britannica-regions 实为 UNSD M49 方法论页（200 / 剥离后 137675 字符 / hawaii|island 命中 29，属区域统计口径而非专题）；wikipedia-regions 实为 UN SDG 数据门户（200 / **5 字符 JS 壳页** / 命中 0）。D053：第二源为壳别名，不构成独立依据；两源均非「夏威夷」专题页，故缺口为「太平洋岛屿专题页（D055 档①或②）」。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约500万年前至今」无专门来源支撑，已收敛为待核表述。 【第23轮实证复核】实测：britannica-regions 实为 UNSD M49 方法论页（200 / 剥离后 137675 字符 / hawaii|island 命中 29，属区域统计口径而非专题）；wikipedia-regions 实为 UN SDG 数据门户（200 / **5 字符 JS 壳页** / 命中 0）。D053：第二源为壳别名，不构成独立依据；两源均非「夏威夷」专题页，故缺口为「太平洋岛屿专题页（D055 档①或②）」。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中29；wikipedia-regions=200/正文5字符/命中0。判定：按 D055，来源需正文≥8000字符且命中≥5（标题即主题且命中≥30 时门槛 5000），当前未达标。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -402,7 +402,7 @@
       "region": "大洋洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第23轮·实证)",
+      "status": "已复核(第24轮·实证)",
       "definition": "大堡礁：澳大利亚东北岸外的珊瑚礁群，由珊瑚骨骼长期堆积形成，是重要的海洋生态系统。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "澳大利亚东北岸外的珊瑚礁群，由珊瑚骨骼长期堆积形成，是重要的海洋生态系统。",
@@ -416,7 +416,7 @@
         "s085-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 **0**；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO **大堡礁世界遗产**页；当前两源对珊瑚礁主题均无正文支撑。",
+      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 **0**；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO **大堡礁世界遗产**页；当前两源对珊瑚礁主题均无正文支撑。 【第24轮实证复核】s050-oceanservice-noaa-gov=200/正文2753字符/命中0；s085-unesco-org=0/正文0字符/命中0。判定：按 D055，来源需正文≥8000字符且命中≥5（标题即主题且命中≥30 时门槛 5000），当前未达标。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
