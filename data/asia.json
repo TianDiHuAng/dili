@@ -440,28 +440,33 @@
       "unit_id": "asia",
       "region": "南亚",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "笈多王朝：北印度统一，科学与文学繁荣，被视为古典时代。",
-      "time_or_place": "约320—550年",
-      "overview": "北印度统一，科学与文学繁荣，被视为古典时代。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "笈多王朝：据 Wikidata 结构化记录为 320年–550年。",
+      "time_or_place": "320年–550年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 320年–550年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "wikidata-q11774",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（320年–550年）来自 Wikidata Q11774 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "北印度恒河平原的冲积土与季风降水支撑密集农业，河谷是人口与城市重心；周边山地与森林提供资源与屏障。",
+      "influence": "农业剩余与贸易网络支撑城市与文化繁荣；统一与分裂同地方势力与继承安排相关，地理条件提供基础而不决定政治周期。",
+      "polities": "据 Wikidata 记录，起于 320年、讫于 550年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "经陆路连接中亚与西北印度，经孟加拉湾港口接入印度洋贸易，与东南亚存在文化与商业往来。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>320年</text><text x='560' y='252' class='lbl'>550年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>笈多王朝 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x9ec4x6cb3x6d41x57df",
@@ -579,28 +584,33 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "商代：青铜礼器与甲骨文记录早期王朝政治。",
-      "time_or_place": "约前1600—前1046年",
-      "overview": "青铜礼器与甲骨文记录早期王朝政治。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "商代：据 Wikidata 结构化记录为 前1600年–前1046年。",
+      "time_or_place": "前1600年–前1046年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 前1600年–前1046年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "wikidata-q128938",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（前1600年–前1046年）来自 Wikidata Q128938 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "黄河中下游的冲积平原与黄土台地，河谷农业与青铜资源分布决定聚落与都邑迁徙；气候较今温暖湿润。",
+      "influence": "河谷农业支撑人口与手工业，青铜礼器与占卜反映王权与祭祀组织；资源获取与军事行动同样重要，不能单由土壤解释。",
+      "polities": "据 Wikidata 记录，起于 前1600年、讫于 前1046年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "经黄河支流网络连接关中与华北，向北接触草原地带，向南延伸至长江中游的铜矿带。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前1600年</text><text x='560' y='252' class='lbl'>前1046年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>商代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x5468x4ee3",
@@ -609,28 +619,33 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "周代：分封与宗法制度影响东亚政治秩序长期演变。",
-      "time_or_place": "约前1046—前256年",
-      "overview": "分封与宗法制度影响东亚政治秩序长期演变。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "周代：据 Wikidata 结构化记录为 前1046年–前256年。",
+      "time_or_place": "前1046年–前256年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 前1046年–前256年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "wikidata-q35216",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（前1046年–前256年）来自 Wikidata Q35216 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "核心区在关中盆地与黄河中游，渭河谷地提供农业与防御条件；东向的华北平原则是封建诸侯的主要分布区。",
+      "influence": "分封与宗法把亲属与功臣安置于要冲，地理距离与交通条件影响控制强度；制度设计是政治整合的主要机制，地理提供成本约束。",
+      "polities": "据 Wikidata 记录，起于 前1046年、讫于 前256年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "以渭河—黄河轴心连接关中与中原，通过汉水与长江流域接触南方，向北与草原势力互动。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前1046年</text><text x='560' y='252' class='lbl'>前256年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>周代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x79e6x4ee3",
@@ -639,28 +654,33 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "秦代：统一文字、度量衡与郡县制，奠定中央集权模式。",
-      "time_or_place": "前221—前207年",
-      "overview": "统一文字、度量衡与郡县制，奠定中央集权模式。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "秦代：据 Wikidata 结构化记录为 前221年–前206年。",
+      "time_or_place": "前221年–前206年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 前221年–前206年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "wikidata-q7183",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（前221年–前206年）来自 Wikidata Q7183 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "以关中为根据地，渭河平原与函谷关等隘口构成易守难攻的地理优势；统一后覆盖黄河与长江两大流域。",
+      "influence": "关中的农业与地形优势利于积蓄力量，但统一后的整合依赖郡县制、统一度量衡与交通工程，地理只是起点条件。",
+      "polities": "据 Wikidata 记录，起于 前221年、讫于 前206年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "修驰道与直道连接关中、华北与北方边地，南向延伸至岭南，形成首次跨流域的行政交通网。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前221年</text><text x='560' y='252' class='lbl'>前206年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>秦代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x6c49x4ee3",
@@ -778,28 +798,33 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "元代：蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
-      "time_or_place": "1271—1368年",
-      "overview": "蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "元代：据 Wikidata 结构化记录为 1271年–1368年。",
+      "time_or_place": "1271年–1368年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 1271年–1368年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "wikidata-q7313",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（1271年–1368年）来自 Wikidata Q7313 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "以大都（今北京）为中枢，控制华北平原与蒙古高原的接合部；南北向的大运河与海运并用以输送南方粮赋。",
+      "influence": "草原与农耕区的双重基础支撑统治，驿站与海运是关键基础设施；治理成效取决于制度与财政安排，不能仅由疆域解释。",
+      "polities": "据 Wikidata 记录，起于 1271年、讫于 1368年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "驿站网络连接漠北、中原与中亚，海路连接东南亚与印度洋，形成陆海并用的交通格局。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>1271年</text><text x='560' y='252' class='lbl'>1368年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>元代 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x660ex6e05",
@@ -1328,29 +1353,33 @@
       "unit_id": "asia",
       "region": "西亚",
       "theme": "区域",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "阿拉伯半岛：干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
-      "time_or_place": "古代至今",
-      "overview": "干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata量值",
+      "definition": "阿拉伯半岛：据 Wikidata 结构化记录，面积为 3,200,000 km²。",
+      "time_or_place": "面积 3,200,000 km²（Wikidata P2046）",
+      "overview": "据 Wikidata 结构化记录，面积为 3,200,000 km²；具体边界与内部差异待专门地理来源核验。",
       "related": [
         "asia-x671dx9c9cx534ax5c9b",
         "asia-x65e5x672cx5217x5c9b",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "s075-aag-org"
+        "wikidata-q31945",
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西亚×区域；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，区域边界、人口与现状数据的专题来源 仍待补。 【第20轮复核】西亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。",
+      "pending_notes": "第33轮升级：面积（3,200,000 km²）来自 Wikidata Q31945 的结构化属性。 【单源待互证】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "干旱高原与沙漠为主，边缘山地与沿海平原降水稍多；绿洲、井泉与沿海港口决定人口与商路节点分布。",
+      "influence": "干旱条件限制定居农业，绿洲与商路位置成为政治经济重心；半岛的边缘性（红海与波斯湾两翼）使其长期充当东西方贸易中介。",
+      "polities": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "西临红海连接埃及与东非，东临波斯湾连接美索不达米亚与印度洋航线，南北向商路贯穿绿洲带。",
+      "today": "本条以地理与区域概述为主，当代指标见相关「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='380' cy='200' rx='230' ry='105' fill='none' stroke='var(--accent)' stroke-width='3'/><text x='300' y='205' class='lbl'>阿拉伯半岛</text><text x='450' y='235' class='dim'>3,200,000 km²</text><text x='40' y='370' class='dim'>阿拉伯半岛 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x9ecex51e1x7279",

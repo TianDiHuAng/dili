@@ -1,0 +1,62 @@
+{
+  "埃塞俄比亚高原": {
+    "qid": "Q319288",
+    "desc": "mountain range in East Africa",
+    "vals": {
+      "elev": [
+        "+4550",
+        "m"
+      ]
+    }
+  },
+  "几内亚湾沿岸": {
+    "qid": "Q41430",
+    "desc": "gulf on the west coast of Africa",
+    "vals": {
+      "elev": [
+        "+0",
+        "m"
+      ]
+    }
+  },
+  "马格里布": {
+    "qid": "Q28227",
+    "desc": "part of North Africa",
+    "vals": {
+      "mass": [
+        "+6045741",
+        "km²"
+      ]
+    }
+  },
+  "阿拉伯半岛": {
+    "qid": "Q31945",
+    "desc": "peninsula in Western Asia",
+    "vals": {
+      "mass": [
+        "+3200000",
+        "km²"
+      ]
+    }
+  },
+  "黎凡特": {
+    "qid": "Q15761348",
+    "desc": "academic journal",
+    "vals": {}
+  },
+  "大自流盆地": {
+    "qid": "Q656985",
+    "desc": "large Artesian aquifer in Australia",
+    "vals": {
+      "elev": [
+        "+138",
+        "m"
+      ]
+    }
+  },
+  "澳大利亚内陆干旱气候": {
+    "qid": "Q569073",
+    "desc": "vast, remote, arid low population areas of Australia",
+    "vals": {}
+  }
+}

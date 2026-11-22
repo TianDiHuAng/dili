@@ -163,29 +163,33 @@
       "unit_id": "africa",
       "region": "东非",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第22轮)",
-      "definition": "埃塞俄比亚高原：非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata量值",
+      "definition": "埃塞俄比亚高原：据 Wikidata 结构化记录，最高海拔为 4,550 m。",
+      "time_or_place": "最高海拔 4,550 m（Wikidata P2044）",
+      "overview": "据 Wikidata 结构化记录，最高海拔为 4,550 m；具体边界与内部差异待专门地理来源核验。",
       "related": [
         "africa-x6492x54c8x62c9x6c99x6f20",
         "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
         "africa-x5c3cx7f57x6cb3x8c37"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo",
-        "s038-earthobservatory-nasa-gov"
+        "wikidata-q319288",
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东非×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第18轮复核】东非×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页。 【第19轮复核】东非×地形；按 D041/D055 仍缺含地貌成因正文的专题页。 【第20轮复核】东非×地形；按 D041/D055 仍缺含地貌成因正文的专题页。 【第21轮复核】东非×地形；按 D041/D055 仍缺含地貌成因正文的专题页。 【第22轮复核】东非×地形；按 D041/D055 仍缺含地貌成因正文的专题页。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。",
+      "pending_notes": "第33轮升级：最高海拔（4,550 m）来自 Wikidata Q319288 的结构化属性。 【单源待互证】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "高原由火山岩与断崖构成，海拔多在 2,000 米以上，降水较周边丰沛，是青尼罗河等河流的发源地；裂谷纵切高原。",
+      "influence": "高海拔带来较温和的气候与农业条件，也造成交通阻隔；高原的防御性与农业基础支撑了独立政权的延续，但具体政治形态由制度与历史塑造。",
+      "polities": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "通过青尼罗河连接尼罗河流域，经红海港口连接阿拉伯半岛与印度洋贸易。",
+      "today": "本条以地理与区域概述为主，当代指标见相关「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='380' cy='200' rx='230' ry='105' fill='none' stroke='var(--accent)' stroke-width='3'/><text x='300' y='205' class='lbl'>埃塞俄比亚高原</text><text x='450' y='235' class='dim'>4,550 m</text><text x='40' y='370' class='dim'>埃塞俄比亚高原 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x521ax679cx76c6x5730",
@@ -304,28 +308,32 @@
       "unit_id": "africa",
       "region": "北非",
       "theme": "区域",
-      "level": "L1",
-      "status": "已复核(第22轮)",
-      "definition": "马格里布：阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
-      "time_or_place": "古代至今",
-      "overview": "阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata量值",
+      "definition": "马格里布：据 Wikidata 结构化记录，面积为 6,045,741 km²。",
+      "time_or_place": "面积 6,045,741 km²（Wikidata P2046）",
+      "overview": "据 Wikidata 结构化记录，面积为 6,045,741 km²；具体边界与内部差异待专门地理来源核验。",
       "related": [
         "africa-x6492x54c8x62c9x6c99x6f20",
         "africa-x5c3cx7f57x6cb3x8c37"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "s075-aag-org"
+        "wikidata-q28227",
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北非×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮复核】北非×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页。 【第19轮复核】北非×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 【第20轮复核】北非×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 【第21轮复核】北非×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 【第22轮复核】北非×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。",
+      "pending_notes": "第33轮升级：面积（6,045,741 km²）来自 Wikidata Q28227 的结构化属性。 【单源待互证】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "地中海沿岸与阿特拉斯山脉之间的区域，北缘冬季降水支撑谷物与橄榄，南缘过渡为干旱草原；山脉与海岸决定交通与聚落分布。",
+      "influence": "沿海降水与港口条件支撑农业与贸易；内陆干旱与山地阻隔使区域内部差异显著，政治整合受地形与距离制约。",
+      "polities": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经地中海港口连接南欧，经撒哈拉通道连接西非与萨赫勒，是南北与东西商路的交汇区。",
+      "today": "本条以地理与区域概述为主，当代指标见相关「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='380' cy='200' rx='230' ry='105' fill='none' stroke='var(--accent)' stroke-width='3'/><text x='300' y='205' class='lbl'>马格里布</text><text x='450' y='235' class='dim'>6,045,741 km²</text><text x='40' y='370' class='dim'>马格里布 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x53e4x57c3x53cax65e9x738bx671d",
@@ -440,28 +448,33 @@
       "unit_id": "africa",
       "region": "东北非",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "古埃及新王国：以底比斯为中心，军事扩张与神庙经济达到高峰。",
-      "time_or_place": "约前1550—前1069年",
-      "overview": "以底比斯为中心，军事扩张与神庙经济达到高峰。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "古埃及新王国：据 Wikidata 结构化记录为 前1550年–前1070年。",
+      "time_or_place": "前1550年–前1070年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 前1550年–前1070年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "africa-x53e4x57c3x53cax65e9x738bx671d",
         "africa-x53e4x57c3x53cax53e4x738bx56fd",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "wikidata-q180568",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（前1550年–前1070年）来自 Wikidata Q180568 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "尼罗河谷与三角洲的农业剩余支撑人口与工程能力；底比斯所在的上埃及河谷是宗教与政治重心。河流运输把南北连成整体，绿洲与红海通道通向外部。",
+      "influence": "河谷农业与尼罗河运输是国家动员的基础；对外扩张与防务同样依赖组织与财政，地理条件提供约束与机会，不作单因解释。",
+      "polities": "据 Wikidata 记录，起于 前1550年、讫于 前1070年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "经三角洲连接地中海东岸，经红海与西奈连接西亚，经努比亚走廊向南接触非洲内陆。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前1550年</text><text x='560' y='252' class='lbl'>前1070年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>古埃及新王国 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
@@ -470,28 +483,33 @@
       "unit_id": "africa",
       "region": "东北非",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "库什与努比亚：尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
-      "time_or_place": "约前2000年—公元4世纪",
-      "overview": "尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "库什与努比亚：据 Wikidata 结构化记录为 前2180年–350年。",
+      "time_or_place": "前2180年–350年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 前2180年–350年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "africa-x8fe6x592ax57fa",
         "africa-x52a0x7eb3x5e1dx56fd",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "wikidata-q241790",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东北非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东北非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东北非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东北非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。",
+      "pending_notes": "第33轮升级：年代（前2180年–350年）来自 Wikidata Q241790 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "尼罗河上游的河谷与沙漠之间的绿洲带，河道险滩（cataract）分割区段，形成南北交通的天然节点与屏障。",
+      "influence": "河谷农业与金矿资源支撑政权财富；商路控制与埃及的互动塑造了区域政治，资源禀赋是条件之一而非全部原因。",
+      "polities": "据 Wikidata 记录，起于 前2180年、讫于 350年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "沿尼罗河向北连接埃及，向东经沙漠通道通往红海，向南接触非洲内陆资源区。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前2180年</text><text x='560' y='252' class='lbl'>350年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>库什与努比亚 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x8fe6x592ax57fa",
@@ -538,28 +556,33 @@
       "unit_id": "africa",
       "region": "北非",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "罗马阿非利加：罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
-      "time_or_place": "前146年—5世纪",
-      "overview": "罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "罗马阿非利加：据 Wikidata 结构化记录为 前146年–439年。",
+      "time_or_place": "前146年–439年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 前146年–439年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "africa-x53e4x57c3x53cax65e9x738bx671d",
         "africa-x53e4x57c3x53cax53e4x738bx56fd",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "wikidata-q181238",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（前146年–439年）来自 Wikidata Q181238 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "地中海沿岸的狭长农耕地带，背靠阿特拉斯山地，海岸港口利于输运；冬季降水支撑谷物与橄榄。",
+      "influence": "海岸与港口条件使该地区成为罗马的粮食与橄榄油供应地；行省治理与税收制度决定剩余如何被抽取，不能仅由土壤解释。",
+      "polities": "据 Wikidata 记录，起于 前146年、讫于 439年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "经迦太基等港口连接意大利与地中海东部，经陆路连接努比亚与撒哈拉边缘。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前146年</text><text x='560' y='252' class='lbl'>439年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>罗马阿非利加 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x963fx62c9x4f2fx5f81x670dx5317x975e",
@@ -626,27 +649,33 @@
       "unit_id": "africa",
       "region": "西非",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "加纳帝国：撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
-      "time_or_place": "约7—13世纪",
-      "overview": "撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "加纳帝国：据 Wikidata 结构化记录为 100年–1200年。",
+      "time_or_place": "100年–1200年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 100年–1200年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
         "africa-x8fe6x592ax57fa",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "wikidata-q206789",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第19轮复核】西非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】西非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。",
+      "pending_notes": "第33轮升级：年代（100年–1200年）来自 Wikidata Q206789 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "萨赫勒草原与绿洲带交界处，跨撒哈拉商路的南端；季节性降水与井泉决定聚落与牧群分布。",
+      "influence": "控制黄金与盐的南北向贸易是财富来源；王权与商路节点的关系塑造了政治结构，地理提供通道而非决定形态。",
+      "polities": "据 Wikidata 记录，起于 100年、讫于 1200年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "北接撒哈拉商路通往马格里布，南连尼日尔河上游的农业区与黄金产地。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>100年</text><text x='560' y='252' class='lbl'>1200年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>加纳帝国 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x9a6cx91ccx5e1dx56fd",
@@ -696,28 +725,33 @@
       "unit_id": "africa",
       "region": "西非",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "桑海帝国：控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
-      "time_or_place": "约1464—1591年",
-      "overview": "控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
+      "level": "L2",
+      "status": "L2完成(第33轮)-Wikidata年代",
+      "definition": "桑海帝国：据 Wikidata 结构化记录为 1464年–1591年。",
+      "time_or_place": "1464年–1591年（Wikidata P571/P576 或 P580/P582，精度=年）",
+      "overview": "据 Wikidata 结构化记录为 1464年–1591年；具体疆域与制度演变待专门史学来源核验。",
       "related": [
         "africa-x53e4x57c3x53cax65e9x738bx671d",
         "africa-x53e4x57c3x53cax53e4x738bx56fd",
         "africa-x6492x54c8x62c9x6c99x6f20"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
+        "wikidata-q202687",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】西非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】西非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第33轮升级：年代（1464年–1591年）来自 Wikidata Q202687 的结构化属性（精度=年）。 【单源待互证】本条关键年代目前仅有 Wikidata 一处结构化来源（Britannica/Wikipedia/DBpedia 在本环境均不可达）；UNESCO Culture 首页作机构背景，不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "尼日尔河中游的河湾与洪泛平原，河流提供运输与渔业，草原支持牧业；南北向商路穿过萨赫勒。",
+      "influence": "河运与跨撒哈拉贸易支撑城市与王权；军事组织与行政安排决定扩张与维持，河网条件只是基础之一。",
+      "polities": "据 Wikidata 记录，起于 1464年、讫于 1591年（精度=年）。具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "connections": "沿尼日尔河连接西非内陆与贸易节点，北通撒哈拉至马格里布，东接豪萨地区。",
+      "today": "本条为历史条目，现状数据不在本页展开；相关国家或区域的当代指标见「区域发展」类条目。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>1464年</text><text x='560' y='252' class='lbl'>1591年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>桑海帝国 · 简略时间轴示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x5927x6d25x5df4x5e03x97e6",

@@ -1,0 +1,155 @@
+{
+  "古埃及新王国": {
+    "qid": "Q180568",
+    "label": "Egyptian Empire",
+    "desc": "period from 1570 to 1069 BC in Egypt",
+    "start": "前1550年",
+    "end": "前1070年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "库什与努比亚": {
+    "qid": "Q241790",
+    "label": "Kingdom of Kush",
+    "desc": "c. 1070 BCE – c. CE 350 / kingdom in Nubia (modern-day Sudan), northeast Africa",
+    "start": "前2180年",
+    "end": "350年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "罗马阿非利加": {
+    "qid": "Q181238",
+    "label": "Africa",
+    "desc": "Roman province on the northern African coast covering parts of present-day Tunisia, Algeria, and Libya",
+    "start": "前146年",
+    "end": "439年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "加纳帝国": {
+    "qid": "Q206789",
+    "label": "Ghana Empire",
+    "desc": "West African empire based in modern-day Mauritania and Mali (c. 200–c. 1200s)",
+    "start": "100年",
+    "end": "1200年",
+    "prec_start": 9,
+    "prec_end": 7
+  },
+  "桑海帝国": {
+    "qid": "Q202687",
+    "label": "Songhai Empire",
+    "desc": "former state located in western Africa",
+    "start": "1464年",
+    "end": "1591年",
+    "prec_start": 9,
+    "prec_end": 11
+  },
+  "大津巴布韦": {
+    "err": "search_fail"
+  },
+  "古巴比伦": {
+    "err": "search_fail"
+  },
+  "亚述帝国": {
+    "err": "search_fail"
+  },
+  "帕提亚帝国": {
+    "err": "search_fail"
+  },
+  "萨珊波斯": {
+    "err": "search_fail"
+  },
+  "吠陀时代": {
+    "err": "search_fail"
+  },
+  "孔雀王朝": {
+    "err": "search_fail"
+  },
+  "笈多王朝": {
+    "qid": "Q11774",
+    "label": "Gupta Empire",
+    "desc": "ancient Indian empire (c. 3rd century CE–575 CE)",
+    "start": "320年",
+    "end": "550年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "商代": {
+    "qid": "Q128938",
+    "label": "Shang dynasty",
+    "desc": "the first ancient Chinese dynasty to leave historical records (1600-1046 BC); the empire ruled by this dynasty",
+    "start": "前1600年",
+    "end": "前1046年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "周代": {
+    "qid": "Q35216",
+    "label": "Zhou dynasty",
+    "desc": "dynasty of Ancient Chinese kings (王) lasting from c. 1046 to 256 BC",
+    "start": "前1046年",
+    "end": "前256年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "秦代": {
+    "qid": "Q7183",
+    "label": "Qin dynasty",
+    "desc": "dynasty that ruled in China from 221 to 206 BC",
+    "start": "前221年",
+    "end": "前206年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "元代": {
+    "qid": "Q7313",
+    "label": "Yuan dynasty",
+    "desc": "Mongol-led imperial dynasty of China (1271–1368)",
+    "start": "1271年",
+    "end": "1368年",
+    "prec_start": 9,
+    "prec_end": 9
+  },
+  "明清": {
+    "err": "search_fail"
+  },
+  "吴哥": {
+    "err": "search_fail"
+  },
+  "河中地区": {
+    "err": "search_fail"
+  },
+  "匈奴": {
+    "err": "search_fail"
+  },
+  "突厥": {
+    "err": "search_fail"
+  },
+  "马其顿与亚历山大": {
+    "err": "search_fail"
+  },
+  "拜占庭帝国": {
+    "err": "search_fail"
+  },
+  "法兰克王国": {
+    "err": "search_fail"
+  },
+  "十字军东征": {
+    "err": "search_fail"
+  },
+  "威尼斯": {
+    "err": "search_fail"
+  },
+  "莫斯科公国": {
+    "err": "search_fail"
+  },
+  "特奥蒂瓦坎": {
+    "err": "search_fail"
+  },
+  "十三殖民地": {
+    "err": "search_fail"
+  },
+  "蒂亚瓦纳科": {
+    "err": "search_fail"
+  }
+}
