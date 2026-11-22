@@ -121,7 +121,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "古巴比伦：汉谟拉比时期编纂法典，控制两河流域中下游。",
       "time_or_place": "约前1894—前1595年",
       "overview": "汉谟拉比时期编纂法典，控制两河流域中下游。",
@@ -133,10 +133,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：西亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：西亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -151,7 +152,7 @@
       "region": "西亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第5轮)",
+      "status": "已复核(第7轮)",
       "definition": "亚述帝国：以尼尼微为中心，军事扩张覆盖西亚与埃及部分地区。",
       "time_or_place": "约前911—前612年",
       "overview": "以尼尼微为中心，军事扩张覆盖西亚与埃及部分地区。",
@@ -163,10 +164,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮复核：西亚×政权更替；新增背景来源 s010-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第7轮复核：西亚×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
