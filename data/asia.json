@@ -704,7 +704,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "隋唐：大运河与长安国际性都市体现南北整合与对外交流。",
       "time_or_place": "581—907年",
       "overview": "大运河与长安国际性都市体现南北整合与对外交流。",
@@ -720,7 +720,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：东亚×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：东亚×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -774,7 +774,7 @@
       "region": "东亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "元代：蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
       "time_or_place": "1271—1368年",
       "overview": "蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
@@ -791,7 +791,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：东亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：东亚×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -937,7 +937,7 @@
       "region": "东南亚",
       "theme": "农业",
       "level": "L1",
-      "status": "二次返工降级L1(第14轮)",
+      "status": "已复核(第15轮)",
       "definition": "湄公河三角洲：湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
@@ -948,10 +948,11 @@
       ],
       "sources": [
         "fao-aquastat-basins",
-        "s013-fao-org"
+        "s013-fao-org",
+        "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检判 PASS 但来源仅目录级（不含湄公河/三角洲正文）；按整批返工原则一并降级 L1，待 AQUASTAT 流域剖面页到位后再升级。",
+      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1158,7 +1159,7 @@
       "region": "中亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "匈奴：游牧联盟，与秦汉长期互动，推动草原贸易与冲突。",
       "time_or_place": "约前3世纪—1世纪",
       "overview": "游牧联盟，与秦汉长期互动，推动草原贸易与冲突。",
@@ -1175,7 +1176,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：中亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：中亚×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1318,7 +1319,7 @@
       "region": "西亚",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "阿拉伯半岛：干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
       "time_or_place": "古代至今",
       "overview": "干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
@@ -1334,7 +1335,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：西亚×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：西亚×区域；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，区域边界、人口与现状数据的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1380,7 +1381,7 @@
       "region": "西亚",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "安纳托利亚：高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
       "time_or_place": "古代至今",
       "overview": "高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
@@ -1396,7 +1397,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：西亚×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：西亚×地形；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1411,7 +1412,7 @@
       "region": "东亚",
       "theme": "气候",
       "level": "L1",
-      "status": "已复核(第13轮)",
+      "status": "已复核(第15轮)",
       "definition": "东亚季风：海陆热力差异导致的季节性风向反转，显著影响东亚降水与农业节律；其强度变化受多因素共同作用，不作单因决定论解释。",
       "time_or_place": "东亚季风区（现代观测与历史记载）",
       "overview": "海陆热力差异导致的季节性风向反转，显著影响稻作区降水节律与农业周期安排；具体影响程度还受地形、海洋温度与其他气候因子共同作用。",
@@ -1424,7 +1425,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第13轮复核：东亚×气候；新增背景来源 无，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第15轮复核：东亚×气候；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，气候机制与长期变化数据的专题来源 仍待补。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
