@@ -48,9 +48,9 @@
     },
     {
       "id": "africa-x521ax679cx76c6x5730",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第2轮)",
+      "status": "L2完成(第5轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -453,9 +453,9 @@
     },
     {
       "id": "asia-x65e5x672cx5217x5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第2轮)",
+      "status": "L2完成(第5轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -570,9 +570,9 @@
     },
     {
       "id": "asia-x9752x85cfx9ad8x539f",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第3轮)",
+      "status": "L2完成(第5轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -912,10 +912,10 @@
     },
     {
       "id": "north-america-x5bc6x897fx897fx6bd4x6cb3",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第5轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -966,10 +966,10 @@
     },
     {
       "id": "north-america-x4e2dx7f8ex6d32x5730x5ce1",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第5轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1137,10 +1137,10 @@
     },
     {
       "id": "south-america-x4e9ax9a6cx900ax6cb3",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第5轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1578,19 +1578,19 @@
     },
     {
       "id": "global-themes-x6e38x7267",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第5轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
     {
       "id": "global-themes-x57cex5e02x8d77x6e90",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第5轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1644,6 +1644,24 @@
       "level": "L1",
       "tier": "重要",
       "status": "L1完成(第4轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5730x56fex6295x5f71",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第5轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4e89x8baex8fb9x754cx5904x7406x539fx5219",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第5轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1712,7 +1730,7 @@
       "农业": 2,
       "贸易": 1,
       "政权更替": 1,
-      "区域": 4
+      "区域": 6
     }
   },
   "round": 1,

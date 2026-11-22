@@ -117,27 +117,34 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成",
-      "definition": "密西西比河：北美最大水系，连接内陆与墨西哥湾，冲积平原农业发达。",
-      "time_or_place": "古代至今",
-      "overview": "北美最大水系，连接内陆与墨西哥湾，冲积平原农业发达。",
+      "level": "L2",
+      "status": "L2完成(第5轮)",
+      "definition": "密西西比河：北美洲主要水系，连接内陆大平原与墨西哥湾，是航运与农业区的重要骨架。",
+      "time_or_place": "地理与生态特征（具体演化年代待核）",
+      "overview": "北美洲主要水系，连接内陆大平原与墨西哥湾，是航运与农业区的重要骨架。",
       "related": [
         "north-america-x7279x5965x8482x74e6x574e",
         "north-america-x897fx5317x6d77x5cb8",
         "north-america-x767dx4ee4x9646x6865"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "fao-aquastat-basins",
+        "s013-fao-org",
+        "s077-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "干流自北向南流经中央低地，接纳众多支流，下游形成广阔冲积平原与三角洲。流域跨越多种气候区，水量与泥沙受季节和土地利用影响。",
+      "influence": "内河航运降低大宗农产品运输成本，冲积平原支撑密集农业。洪水风险与水资源管理是长期议题，结果取决于工程与治理，不只由河流决定。",
+      "polities": "流域与原住民社会、殖民边疆和现代州际治理密切相关；具体政治事件待专门史料核验。",
+      "connections": "密西西比河水系连接五大湖—圣劳伦斯系统与墨西哥湾港口，是北美内陆物流的重要通道。",
+      "today": "洪水、水质与航运是当代议题。人口、货运量与径流数据需按年份从权威机构补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='密西西比河示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>密西西比河</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x843dx57fax5c71x8109",
@@ -301,28 +308,35 @@
       "unit_id": "north-america",
       "region": "中美洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成",
-      "definition": "中美洲地峡：连接南北美洲的狭窄陆地，形成独特生物地理走廊。",
-      "time_or_place": "古代至今",
-      "overview": "连接南北美洲的狭窄陆地，形成独特生物地理走廊。",
+      "level": "L2",
+      "status": "L2完成(第5轮)",
+      "definition": "中美洲地峡：连接南北美洲的狭窄陆桥，山地、火山与海岸共同塑造区域生态与交通。",
+      "time_or_place": "地理与生态特征（具体演化年代待核）",
+      "overview": "连接南北美洲的狭窄陆桥，山地、火山与海岸共同塑造区域生态与交通。",
       "related": [
         "north-america-x5317x7f8ex539fx4f4fx6c11",
         "north-america-x53e4x5df4x5c9b",
         "north-america-x767dx4ee4x9646x6865"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "s056-earthquake-usgs-gov",
+        "s050-oceanservice-noaa-gov",
+        "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "地峡由火山山脉、高原与狭窄沿海平原组成，两侧临海。板块交界带来火山和地震活动，低地与山地之间气候差异明显。",
+      "influence": "狭窄地形缩短东西向交通距离，山口与谷地成为通道；农业垂直分异明显。地质活动是重要条件，但聚落与社会变化还受贸易和制度影响。",
+      "polities": "地峡历史上连接中美洲文明与南美、加勒比区域，近代形成多个国家；具体政权序列待专门来源核验。",
+      "connections": "地峡连接北美与南美，太平洋与加勒比海航线在此靠近，是生物地理与贸易交流的走廊。",
+      "today": "交通、火山灾害与生态连通性是当代议题。人口与货运数据需按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='中美洲地峡示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>中美洲地峡</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x5965x5c14x6885x514b",

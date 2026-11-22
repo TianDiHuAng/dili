@@ -824,29 +824,35 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "区域",
-      "level": "L1",
-      "status": "已复核(第2轮)",
-      "definition": "日本列岛：岛国环境、季风与海洋交通影响农业、政治与对外关系。",
+      "level": "L2",
+      "status": "L2完成(第5轮)",
+      "definition": "日本列岛：东亚太平洋边缘的岛弧，山地多、平原狭小，海洋交通与地质活动深刻影响人居环境。",
       "time_or_place": "约前10000年至今",
-      "overview": "岛国环境、季风与海洋交通影响农业、政治与对外关系。",
+      "overview": "东亚太平洋边缘的岛弧，山地多、平原狭小，海洋交通与地质活动深刻影响人居环境。",
       "related": [
         "asia-x671dx9c9cx534ax5c9b",
         "asia-x4e2dx5357x534ax5c9b",
         "asia-x4e24x6cb3x6d41x57df"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "s050-oceanservice-noaa-gov",
+        "s056-earthquake-usgs-gov",
+        "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：UNESCO 文化页支持区域交流背景；人口与语言数据待按年份补齐。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "列岛由多条弧形岛屿组成，山地与丘陵占大部，沿海平原狭窄。位于板块交界附近，地震与火山活动频繁；海洋性气候带来丰沛降水。",
+      "influence": "海岸线曲折促进港口与海上交流，狭窄平原推动高密度土地利用。灾害风险管理是长期议题，但社会发展不能仅由地质条件解释。",
+      "polities": "列岛历史上形成多个区域政权，近代以后政治结构经历显著变化；具体王朝与年代待专门来源核验。",
+      "connections": "日本列岛通过东海、黄海与朝鲜半岛和中国相连，并通过太平洋航线与更广区域互动。",
+      "today": "人口、能源与灾害管理是当代议题。相关数据需按年份从权威统计机构补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='日本列岛示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>日本列岛</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "asia-x4e2dx5357x534ax5c9b",
@@ -1223,29 +1229,35 @@
       "unit_id": "asia",
       "region": "中亚/东亚",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第3轮)",
-      "definition": "青藏高原：世界最高高原，亚洲多条大河发源地，高寒环境影响交通与聚落。",
-      "time_or_place": "约5000万年前至今",
-      "overview": "世界最高高原，亚洲多条大河发源地，高寒环境影响交通与聚落。",
+      "level": "L2",
+      "status": "L2完成(第5轮)",
+      "definition": "青藏高原：亚洲高海拔广大高原，是多条大河的发源区，高寒环境影响交通与聚落分布。",
+      "time_or_place": "地理与生态特征（具体演化年代待核）",
+      "overview": "亚洲高海拔广大高原，是多条大河的发源区，高寒环境影响交通与聚落分布。",
       "related": [
         "asia-x5b89x7eb3x6258x5229x4e9a",
         "asia-x4e24x6cb3x6d41x57df",
         "asia-x82cfx7f8ex5c14x57cex90a6"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "s038-earthobservatory-nasa-gov",
+        "s056-earthquake-usgs-gov",
+        "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：NASA 地球观测页支持高寒地貌背景；河流源头与海拔数据待专门来源核验。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "高原平均海拔极高，边缘由山脉围限，内部包含盆地、湖泊与宽谷。高寒气候、冻土与强烈日照并存；冰川和河流源区是其重要自然特征。",
+      "influence": "高海拔与寒冷限制农业和交通，河谷与低海拔地带更适合聚落。高原对亚洲水系与气候具有重要影响，但人类活动的结果取决于技术、制度与交流，不是环境单因决定。",
+      "polities": "历史上高原与周边地区存在长期互动，形成多样的地方政权与宗教文化网络；具体年代与政权序列待专门来源核验。",
+      "connections": "高原通过河流与东亚、南亚、中亚相连，山口与河谷构成交通通道，也是多条大河源头。",
+      "today": "生态保护和气候变化是重要议题。海拔、人口与冰川数据需按年份从权威机构核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='青藏高原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中亚/东亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>青藏高原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "asia-x963fx62c9x4f2fx534ax5c9b",

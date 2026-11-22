@@ -184,28 +184,34 @@
       "unit_id": "africa",
       "region": "中非",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第2轮)",
-      "definition": "刚果盆地：非洲最大内陆盆地，热带雨林广布，河流呈向心状汇入刚果河。",
-      "time_or_place": "约古生代至今",
-      "overview": "非洲最大内陆盆地，热带雨林广布，河流呈向心状汇入刚果河。",
+      "level": "L2",
+      "status": "L2完成(第5轮)",
+      "definition": "刚果盆地：非洲中部的大型盆地，热带雨林广布，河网呈向心状汇入刚果河。",
+      "time_or_place": "地理与生态特征（具体演化年代待核）",
+      "overview": "非洲中部的大型盆地，热带雨林广布，河网呈向心状汇入刚果河。",
       "related": [
         "africa-x6492x54c8x62c9x6c99x6f20",
         "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
         "africa-x5c3cx7f57x6cb3x8c37"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo"
+        "s018-fao-org",
+        "s042-earthobservatory-nasa-gov",
+        "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "复核：FAO 森林与水资源页可支持盆地生态描述；流域人口仍需按年份核验。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "盆地四周被高地环绕，中部低平，热带雨林覆盖广阔。刚果河及其支流构成密集水网，降水丰沛且季节分布相对均匀；资源包括森林、水力与矿产。",
+      "influence": "雨林与水系支撑多样的生计方式，河流是区域交通的重要通道。森林覆盖与土地利用受人口、政策和全球需求共同影响，不能把区域差异简化为环境决定。",
+      "polities": "前殖民时期存在多种社群与区域网络，近代殖民边界与资源开发改变了政治经济格局。具体政权序列需专门史料核验。",
+      "connections": "盆地通过刚果河与大西洋连接，并通过陆地通道与东非大湖区、撒哈拉南缘互动。",
+      "today": "森林覆盖变化与水力资源是当代议题。森林面积、人口与经济数据需按年份从权威机构补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='刚果盆地示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>刚果盆地</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x51e0x5185x4e9ax6e7ex6cbfx5cb8",

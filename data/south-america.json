@@ -221,27 +221,34 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成",
-      "definition": "亚马逊河：世界流量最大河流，内陆水运与生态廊道。",
-      "time_or_place": "古代至今",
-      "overview": "世界流量最大河流，内陆水运与生态廊道。",
+      "level": "L2",
+      "status": "L2完成(第5轮)",
+      "definition": "亚马逊河：南美洲流量巨大的河流，横贯亚马逊盆地，支撑广阔热带雨林与水运网络。",
+      "time_or_place": "地理与生态特征（具体演化年代待核）",
+      "overview": "南美洲流量巨大的河流，横贯亚马逊盆地，支撑广阔热带雨林与水运网络。",
       "related": [
         "south-america-x5357x7f8ex8d38x6613x7f51x7edc",
         "south-america-x5b89x7b2cx65afx5c71x8109",
         "south-america-x4e9ax9a6cx900ax76c6x5730"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "fao-aquastat-basins",
+        "s086-earthobservatory-nasa-gov",
+        "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "河流发源于安第斯地区，向东流经低平盆地注入大西洋。主干与支流水量巨大，季节涨落塑造河岸湿地与洪泛林。",
+      "influence": "河流是盆地内部最重要的交通廊道，渔业与洪泛农业沿河分布。雨林生态与河流过程相互联系，土地利用变化的影响需结合多源证据，不能单因解释。",
+      "polities": "前殖民时期存在多样的流域社会，殖民与现代开发改变了资源利用格局；具体政权序列不在本站骨架内展开。",
+      "connections": "亚马逊河通过大西洋航线与外部市场连接，安第斯山口又把流域与西岸地区联系起来。",
+      "today": "森林砍伐、水文变化与生态保护是当代重点。径流量与森林面积需按年份从权威来源获取。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='亚马逊河示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>亚马逊河</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "south-america-x7684x7684x5580x5580x6e56",
