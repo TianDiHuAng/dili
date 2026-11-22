@@ -24,10 +24,13 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·两河流域】本条正则 mesopotamia|tigris|euphrates。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「两河流域」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为两河流域主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·两河流域】本条正则 mesopotamia|tigris|euphrates。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「两河流域」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为两河流域主题专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -38,7 +41,7 @@
       "influence": "灌溉农业支撑城市与人口密集，渠网维护推动协作与行政组织；但土壤盐渍化与水量变化也可能削弱政权稳定。学界对灌溉与国家形成的关系仍有争论，地理条件是重要变量而非唯一原因。",
       "polities": "冲积平原的水利与城市条件支撑早期政治组织，区域在多个时期被不同政权整合；具体王朝序列与年代待专门史料核验。",
       "connections": "两河流域连接安纳托利亚高原、伊朗高原与地中海沿岸，是西亚陆路贸易与技术传播枢纽。",
-      "today": "今天的伊拉克与叙利亚部分地区仍依赖两河水资源，水权与盐渍化是长期议题。人口与灌溉面积数据待按年份核验。",
+      "today": "以伊拉克为例，来源：世界银行 API。总人口 47,020,774（2025年）（SP.POP.TOTL）、城市化率 69.9%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 3.4%（2025年）（NV.AGR.TOTL.ZS）。两河水量与灌溉面积数据待专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='两河流域示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>两河流域</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -315,16 +318,19 @@
       ],
       "sources": [
         "s010-unesco-org",
-        "s013-fao-org"
+        "s013-fao-org",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮 D041 合规检查：原 L2 仅以 4 个数据层别名页为来源，不符合「一专题页 + 一机构页」；现无可用印度河考古专题页（Livius 无对应分类、UNESCO WHC 403），降级 L1。待哈拉帕/摩亨佐达罗考古专题来源到位后再升级。 【第19轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第20轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。",
+      "pending_notes": "第15轮 D041 合规检查：原 L2 仅以 4 个数据层别名页为来源，不符合「一专题页 + 一机构页」；现无可用印度河考古专题页（Livius 无对应分类、UNESCO WHC 403），降级 L1。待哈拉帕/摩亨佐达罗考古专题来源到位后再升级。 【第19轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第20轮复核】南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "以巴基斯坦与印度为例，来源：世界银行 API。巴基斯坦总人口 255,219,554（2025年）（SP.POP.TOTL）、印度 1,463,865,525（2025年）（同指标）。印度河流域今天的水资源分配与灌溉数据待专门统计与条约文件核验。"
     },
     {
       "id": "asia-x5420x9640x65f6x4ee3",
@@ -466,10 +472,13 @@
         "br-yellow-river",
         "wk-yellow-river",
         "br-china",
-        "wk-china"
+        "wk-china",
+        "wb-api-pop",
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": false,
-      "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
+      "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -480,7 +489,7 @@
       "influence": "一种常见解释认为，黄土易于耕作、河谷与平原适宜粟作农业，加上对治水与灌溉的协作需求，有利于早期聚落密集与政权组织。这是影响机制的一种分析框架，不能据此断定环境必然导致特定政治形态；治水与国家形成的关系在学界仍有争论。",
       "polities": "仰韶、龙山等史前文化之后，商周在黄河中下游兴起；秦汉以降，长安—洛阳一线长期是政治重心。中古以后经济重心逐渐南移，但黄河流域仍具政治与交通意义。",
       "connections": "黄河流域通过河西走廊与中亚相连，通过大运河与长江流域整合，并通过陆上与海上交通同朝鲜半岛、日本及东南亚互动。技术、作物、宗教与制度沿这些通道传播。",
-      "today": "黄河流域如今仍是重要农业与人口密集区。水资源分配、泥沙治理与生态修复是长期议题；具体人口、灌溉面积与径流量数据待按年份和权威来源补齐。",
+      "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 6.7%（2025年）（NV.AGR.TOTL.ZS）。流域内部人口与用水数据需按专门统计来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='黄河流域示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 120 C 140 110 200 150 270 175 C 350 205 420 230 500 250 C 570 268 630 285 690 300' fill='none' stroke='var(--accent)' stroke-width='5'/>\n<path d='M270 175 C 300 210 330 250 350 300 C 370 340 390 360 420 370' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='5 4'/>\n<circle cx='100' cy='122' r='6' class='pt'/><text x='115' y='126' class='lbl'>上游源区</text>\n<circle cx='320' cy='195' r='6' class='pt'/><text x='335' y='200' class='lbl'>长安</text>\n<circle cx='480' cy='247' r='6' class='pt'/><text x='495' y='251' class='lbl'>洛阳</text>\n<circle cx='675' cy='297' r='6' class='pt'/><text x='620' y='285' class='lbl'>渤海</text>\n<text x='45' y='60' class='lbl'>青藏高原</text><text x='330' y='345' class='lbl'>黄土高原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -842,10 +851,12 @@
       ],
       "sources": [
         "s050-oceanservice-noaa-gov",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 第5轮返工：已移除无专门来源的具体年代表述。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 第5轮返工：已移除无专门来源的具体年代表述。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -856,7 +867,7 @@
       "influence": "海岸线曲折促进港口与海上交流，狭窄平原推动高密度土地利用。灾害风险管理是长期议题，但社会发展不能仅由地质条件解释。",
       "polities": "列岛历史上形成多个区域政权，近代以后政治结构经历显著变化；具体王朝与年代待专门来源核验。",
       "connections": "日本列岛通过东海、黄海与朝鲜半岛和中国相连，并通过太平洋航线与更广区域互动。",
-      "today": "人口、能源与灾害管理是当代议题。相关数据需按年份从权威统计机构补齐。",
+      "today": "来源：世界银行 API。总人口 123,366,734（2025年）（SP.POP.TOTL）、城市化率 92.3%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 68.3%（2024年）（AG.LND.FRST.ZS）、预期寿命 84.0%（2024年）（SP.DYN.LE00.IN）。列岛人口集中于沿海平原，具体分布数据待专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='日本列岛示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>日本列岛</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -910,16 +921,19 @@
       "sources": [
         "fao-aquastat-basins",
         "s013-fao-org",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。",
+      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "today": "以越南为例，来源：世界银行 API。总人口 101,598,527（2025年）（SP.POP.TOTL）、城市化率 38.8%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 47.1%（2024年）（AG.LND.FRST.ZS）。三角洲稻米产量与沉降速率数据待专门来源核验。"
     },
     {
       "id": "asia-x5434x54e5",

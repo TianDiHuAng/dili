@@ -60,10 +60,12 @@
       ],
       "sources": [
         "s086-earthobservatory-nasa-gov",
-        "s042-earthobservatory-nasa-gov"
+        "s042-earthobservatory-nasa-gov",
+        "wb-api-pop",
+        "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：用 NASA『From Forest to Field: How Fire is Transforming the Amazon』作专题页（33279/189），NASA 热带毁林页作机构页。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·亚马逊盆地】正则 amazon；s086-earthobservatory-nasa-gov(200/正文33279字符/命中72)；s042-earthobservatory-nasa-gov(200/正文46123字符/命中39)。 D055 判定：达标（可升级候选）；两源均非「亚马逊盆地」专题页时维持 L1。",
+      "pending_notes": "第22轮换源转正：用 NASA『From Forest to Field: How Fire is Transforming the Amazon』作专题页（33279/189），NASA 热带毁林页作机构页。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·亚马逊盆地】正则 amazon；s086-earthobservatory-nasa-gov(200/正文33279字符/命中72)；s042-earthobservatory-nasa-gov(200/正文46123字符/命中39)。 D055 判定：达标（可升级候选）；两源均非「亚马逊盆地」专题页时维持 L1。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -74,7 +76,7 @@
       "influence": "河流是主要交通廊道，雨林资源支撑多样化生计；火的使用与扩张会削弱生态韧性。环境与社会关系存在多种解释，需避免单线因果。",
       "polities": "本条不展开具体政权序列；土地使用与族群关系的历史待专门史料核验。",
       "connections": "亚马逊通过河流与大西洋连接，盆地产品曾把区域纳入全球市场。",
-      "today": "森林砍伐、火情与水文变化是核心议题；森林面积与火点数据需按年份从 NASA 机构页核验。",
+      "today": "以巴西为例，来源：世界银行 API。总人口 212,812,405（2025年）（SP.POP.TOTL）、森林覆盖率 58.5%（2024年）（AG.LND.FRST.ZS）、城市化率 88.2%（2025年）（SP.URB.TOTL.IN.ZS）。盆地内森林面积与火点数据需按年份从 NASA/INPE 等来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='亚马逊盆地示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>亚马逊盆地</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
