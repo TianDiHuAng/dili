@@ -1135,10 +1135,11 @@
         "global-themes-x57cex5e02x5730x7406"
       ],
       "sources": [
-        "un-m49"
+        "un-m49",
+        "s026-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
