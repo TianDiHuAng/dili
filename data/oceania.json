@@ -411,6 +411,62 @@
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x6fb3x5927x5229x4e9ax5185x9646x5e72x65f1x6c14x5019",
+      "title": "澳大利亚内陆干旱气候",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "澳大利亚",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第2轮)",
+      "definition": "澳大利亚内陆干旱气候：内陆远离海洋且受副热带高压控制，降水稀少且变率大，限制定居与农业。",
+      "time_or_place": "约中新世至今",
+      "overview": "内陆远离海洋且受副热带高压控制，降水稀少且变率大，限制定居与农业。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646"
+      ],
+      "sources": [
+        "s039-climate-nasa-gov",
+        "s048-climate-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "outlines": [
+        "UN M49 标准地理分区",
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x6fb3x5927x5229x4e9ax6df7x5408x519cx4e1a",
+      "title": "澳大利亚混合农业",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "澳大利亚",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第2轮)",
+      "definition": "澳大利亚混合农业：小麦种植与放牧相结合的农业体系，适应降水季节性与地广人稀条件。",
+      "time_or_place": "19世纪至今",
+      "overview": "小麦种植与放牧相结合的农业体系，适应降水季节性与地广人稀条件。",
+      "related": [
+        "oceania-x5927x81eax6d41x76c6x5730"
+      ],
+      "sources": [
+        "s014-fao-org",
+        "s022-ourworldindata-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "outlines": [
+        "UN M49 标准地理分区",
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

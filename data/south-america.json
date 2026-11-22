@@ -530,6 +530,34 @@
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5357x9525x4f53",
+      "title": "南锥体",
+      "tier": "补充",
+      "unit_id": "south-america",
+      "region": "南美洲南部",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第2轮)",
+      "definition": "南锥体：指南美洲南部锥形区域，包含潘帕斯草原与巴塔哥尼亚，农牧业与温带气候突出。",
+      "time_or_place": "古代至今",
+      "overview": "指南美洲南部锥形区域，包含潘帕斯草原与巴塔哥尼亚，农牧业与温带气候突出。",
+      "related": [
+        "south-america-x62c9x666ex62c9x5854x5e73x539f"
+      ],
+      "sources": [
+        "s057-databank-worldbank-org",
+        "s026-ourworldindata-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "outlines": [
+        "UN M49 标准地理分区",
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

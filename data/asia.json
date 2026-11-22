@@ -1271,6 +1271,34 @@
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x4e1cx4e9ax5b63x98ce",
+      "title": "东亚季风",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第2轮)",
+      "definition": "东亚季风：东亚海陆热力差异导致的季节性风向反转，决定稻作区降水节律与农业周期。",
+      "time_or_place": "约前6000年至今",
+      "overview": "东亚海陆热力差异导致的季节性风向反转，决定稻作区降水节律与农业周期。",
+      "related": [
+        "global-themes-x5b63x98cex7cfbx7edf"
+      ],
+      "sources": [
+        "s048-climate-gov",
+        "s038-earthobservatory-nasa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "outlines": [
+        "UN M49 标准地理分区",
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

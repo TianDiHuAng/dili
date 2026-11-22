@@ -10,8 +10,8 @@
       "unit_id": "africa",
       "region": "北非",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "撒哈拉沙漠：世界最大热带沙漠，横跨北非十余国，其扩张与收缩与季风变化相关。",
       "time_or_place": "约700万年前至今",
       "overview": "世界最大热带沙漠，横跨北非十余国，其扩张与收缩与季风变化相关。",
@@ -22,16 +22,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "撒哈拉横跨北非，地貌包括石漠、砾漠与沙丘，气候极端干旱且昼夜温差大。水系稀少，仅在绿洲与季节性水道处有可利用水源；资源以石油、磷酸盐和太阳能潜能为主。",
+      "influence": "较普遍的解释是，干旱限制连续耕作，绿洲与商路节点因而成为人口与聚落集中区。沙漠既阻隔也连接：它分隔南北，却也通过跨撒哈拉商路把西非黄金与地中海市场联系起来。这是影响机制的一种分析，不是环境决定论。",
+      "polities": "北非沿海政权与撒哈拉商路国家长期互动，加纳、马里、桑海等西非政权的兴衰与贸易线路变化密切关联。近代殖民边界与资源开发进一步改变了区域格局。",
+      "connections": "穿越撒哈拉的商路连接马格里布、尼罗河谷与西非，交换黄金、盐、纺织品与知识；红海与地中海航线又把它接入更广阔的贸易网络。",
+      "today": "今天撒哈拉周边国家面临水资源压力与土地退化风险。人口与绿洲面积数据需按年份从权威统计与遥感产品补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='撒哈拉沙漠示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>撒哈拉沙漠</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x5c3cx7f57x6cb3x8c37",
@@ -107,8 +115,8 @@
       "unit_id": "africa",
       "region": "东非",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "东非大裂谷：板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
       "time_or_place": "约3000万年前至今",
       "overview": "板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
@@ -119,16 +127,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "东非大裂谷是非洲板块内部张裂形成的断陷带，两侧断层崖与谷底湖泊链构成显著地貌。谷内气候随海拔变化，从干旱低地到湿润高地并存，火山与地热活动活跃。",
+      "influence": "裂谷湖盆提供水源与渔业，高地降雨与火山土有利于农业，但断层与干旱也限制交通和聚落扩张。学界对其在人类演化中的作用有讨论，不宜简化为单一因果。",
+      "polities": "沿裂谷分布的高地政权与湖畔王国依托农业剩余和贸易路线发展，埃塞俄比亚高原政权与沿海斯瓦希里城邦之间长期互动。",
+      "connections": "裂谷是东北非与南部非洲之间的通道，连接尼罗河上游、大湖地区与印度洋海岸，促进人口、牲畜与商品流动。",
+      "today": "裂谷沿线人口增长快，水资源与土地压力上升。具体人口与湖泊水位数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='东非大裂谷示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>东非大裂谷</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x57c3x585ex4fc4x6bd4x4e9ax9ad8x539f",

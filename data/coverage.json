@@ -3,10 +3,10 @@
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -30,10 +30,10 @@
     },
     {
       "id": "africa-x4e1cx975ex5927x88c2x8c37",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -605,6 +605,15 @@
       "last_update": "2026-11-22"
     },
     {
+      "id": "asia-x4e1cx4e9ax5b63x98ce",
+      "level": "L1",
+      "tier": "重要",
+      "status": "L1完成(第2轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
       "id": "europe-x7231x7434x6d77x4e16x754c",
       "level": "L1",
       "tier": "核心",
@@ -852,6 +861,24 @@
       "level": "L1",
       "tier": "重要",
       "status": "骨架",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x6b27x6d32x6e29x5e26x6d77x6d0bx6027x6c14x5019",
+      "level": "L1",
+      "tier": "重要",
+      "status": "L1完成(第2轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x4e2dx4e16x7eaax6b27x6d32x5e84x56edx519cx4e1a",
+      "level": "L1",
+      "tier": "重要",
+      "status": "L1完成(第2轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1217,6 +1244,15 @@
       "last_update": "2026-11-22"
     },
     {
+      "id": "south-america-x5357x9525x4f53",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第2轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
       "id": "oceania-x6fb3x5927x5229x4e9ax5927x9646",
       "level": "L1",
       "tier": "核心",
@@ -1343,6 +1379,24 @@
       "last_update": "2026-11-22"
     },
     {
+      "id": "oceania-x6fb3x5927x5229x4e9ax5185x9646x5e72x65f1x6c14x5019",
+      "level": "L1",
+      "tier": "重要",
+      "status": "L1完成(第2轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x6fb3x5927x5229x4e9ax6df7x5408x519cx4e1a",
+      "level": "L1",
+      "tier": "重要",
+      "status": "L1完成(第2轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
       "id": "antarctica-x5357x6781x5927x9646",
       "level": "L1",
       "tier": "核心",
@@ -1410,6 +1464,24 @@
       "level": "L1",
       "tier": "重要",
       "status": "骨架",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x6d32x65e0x519cx4e1ax7684x73afx5883x7ea6x675f",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第2轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x7279x522bx4fddx62a4x533a",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第2轮)",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1537,13 +1609,16 @@
       "政权更替": 19,
       "贸易": 10,
       "区域": 5,
-      "地形": 2
+      "地形": 2,
+      "气候": 1
     },
     "europe": {
       "贸易": 7,
       "政权更替": 12,
       "地形": 4,
-      "区域": 5
+      "区域": 5,
+      "气候": 1,
+      "农业": 1
     },
     "north-america": {
       "地形": 7,
@@ -1558,19 +1633,24 @@
       "农业": 4,
       "气候": 2,
       "贸易": 2,
-      "政权更替": 5
+      "政权更替": 5,
+      "区域": 1
     },
     "oceania": {
       "地形": 7,
       "区域": 4,
       "政权更替": 1,
-      "贸易": 2
+      "贸易": 2,
+      "气候": 1,
+      "农业": 1
     },
     "antarctica": {
       "地形": 4,
       "气候": 2,
       "政权更替": 1,
-      "贸易": 1
+      "贸易": 1,
+      "农业": 1,
+      "区域": 1
     },
     "global-themes": {
       "地形": 3,

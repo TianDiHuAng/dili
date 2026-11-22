@@ -1,0 +1,15 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "date": "2026-11-22",
+      "new_entries": 169,
+      "upgrades": 2,
+      "reviews": 0,
+      "pending_total": 167,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 163
+    }
+  ]
+}

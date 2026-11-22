@@ -235,6 +235,62 @@
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x6d32x65e0x519cx4e1ax7684x73afx5883x7ea6x675f",
+      "title": "南极洲无农业的环境约束",
+      "tier": "补充",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第2轮)",
+      "definition": "南极洲无农业的环境约束：极端低温、极夜与缺乏可耕作土壤使定居农业无法形成，食物依赖外部补给。",
+      "time_or_place": "现代",
+      "overview": "极端低温、极夜与缺乏可耕作土壤使定居农业无法形成，食物依赖外部补给。",
+      "related": [
+        "antarctica-x5357x6781x5927x9646"
+      ],
+      "sources": [
+        "s039-climate-nasa-gov",
+        "s049-ncei-noaa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "outlines": [
+        "UN M49 标准地理分区",
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x7279x522bx4fddx62a4x533a",
+      "title": "南极特别保护区",
+      "tier": "补充",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第2轮)",
+      "definition": "南极特别保护区：南极条约体系下为保护科研与生态而划定的区域，体现国际协商管理。",
+      "time_or_place": "1961年至今",
+      "overview": "南极条约体系下为保护科研与生态而划定的区域，体现国际协商管理。",
+      "related": [
+        "antarctica-x5357x6781x6761x7ea6x4f53x7cfb"
+      ],
+      "sources": [
+        "s070-cbd-int",
+        "s071-cbd-int"
+      ],
+      "needs_verification": true,
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。",
+      "outlines": [
+        "UN M49 标准地理分区",
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

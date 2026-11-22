@@ -1,31 +1,23 @@
-# PROGRESS.md — 进度（每次启动先读本文件）
+# PROGRESS.md — 每次启动先读本文件（AUTONOMOUS 协议 ledger）
 
-- 状态：**ALL_DONE**（本轮搭建完成）
-- 当前阶段：阶段5 完成；阶段0–5 全部执行
-- 当前轮次：第 1 轮（已用满 40 条配额）
-- 下一轮起点：第 2 轮从 core 列表中未标记「L1完成」的条目继续；优先补齐 REPORT.md 列出的 8 个空白格子，再按 核心→重要→补充 升级 L2。
+- 状态：正常循环（NORMAL）
+- 当前轮次：**第 2 轮执行中**
+- 上一轮（第1轮）：完成项目搭建；169 条 L1 骨架、2 条 L2 样板、163 来源、103 已核验；已提交 `8448776` 并推送到 GitHub。
+- 本轮缺口发现（已完成）：B2 覆盖矩阵 8 空格/8 稀疏格；B3 悬空引用 0；B4 读者问题缺口 0；B5 待核实 167；B7 深度缺口 135（核心 L1 42、重要 L1 93）。报告：`reports/gap_round2.json`。
+- 本轮队列：40 任务（8 新增 + 24 升级 L2 + 8 复核），见 BACKLOG.md。
+- 下一轮起点：第 3 轮从 BACKLOG.md 剩余复核项（R2-R09 起）与未升级的重要 L1 条目继续。
 
-## 已完成
-- [x] 阅读 TASK_geo.md 与 WORKFLOW.md
-- [x] 建立目录骨架、DECISIONS.md
-- [x] 阶段0：scope.md（169 条，三份权威大纲取并集）、data/coverage.json、reports/coverage_matrix.md
-- [x] 阶段1：data/sources.json（163 条来源，103 条 curl 实测核验，超过 80 条要求）
-- [x] 阶段2：tools/check.py（R1–R13），ERRORS=0
-- [x] 阶段3：2 个 L2 样板（尼罗河谷、黄河流域），SVG 通过出界/脚本检查
-- [x] 阶段4：169 条全部达到 L1 骨架；第 1 轮处理 40 条
-- [x] 阶段5：site/ 184 个 HTML（首页/8 单元/169 条目/索引/时间线/来源/覆盖/覆盖明细/关于），REPORT.md
-- [x] tools/check_links.py：3193 条内部链接，BROKEN=0
-- [x] 样式：统一 CSS 变量、深色模式、内联 SVG、无图片零 JS
+## 本轮执行清单
+- [x] A 读状态、check.py 通过
+- [x] B 缺口发现（5 种方法）
+- [x] C 排序入队 BACKLOG.md
+- [ ] D 执行批次 1/4（8 新 + 2 升级）
+- [ ] D 执行批次 2/4（10 升级）
+- [ ] D 执行批次 3/4（10 升级）
+- [ ] D 执行批次 4/4（2 升级 + 8 复核）
+- [ ] E 抽检 10%（≥3 条）并完成质量闸
+- [ ] G 更新 METRICS/SATURATION/REPORT 并提交推送
 
-## 验证命令（全部通过）
-```
-python -X utf8 tools/check.py        # ERRORS=0 ALL_PASS
-python -X utf8 tools/gen_site.py     # 生成完成
-python -X utf8 tools/check_links.py  # BROKEN=0 LINKS_PASS
-python -X utf8 tools/write_report.py # REPORT.md 已生成
-```
-
-## 未完成（后续轮次，不属于本次「搭建」范围）
-- 167 条仍为 L1 骨架并标待核实；按任务书每轮 40 条继续升级 L2。
-- 8 个覆盖矩阵空白格子待补条目。
-- 现状数据（人口、面积、边界）未写具体数值，待按年份与权威来源补齐。
+## 状态文件
+- BACKLOG.md / METRICS.json / SATURATION.json / BLOCKERS.md 已建立。
+- 不再写 ALL_DONE；饱和判定见 SATURATION.json。
