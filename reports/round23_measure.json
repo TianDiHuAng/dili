@@ -1,0 +1,82 @@
+{
+  "britannica-regions": [
+    200,
+    137675,
+    29
+  ],
+  "wikipedia-regions": [
+    200,
+    5,
+    0
+  ],
+  "s050-oceanservice-noaa-gov": [
+    200,
+    2753,
+    0
+  ],
+  "s085-unesco-org": [
+    0,
+    0,
+    0
+  ],
+  "s039-climate-nasa-gov": [
+    200,
+    10544,
+    0
+  ],
+  "s048-climate-gov": [
+    403,
+    553,
+    0
+  ],
+  "s014-fao-org": [
+    200,
+    7,
+    0
+  ],
+  "s022-ourworldindata-org": [
+    200,
+    22764,
+    5
+  ],
+  "s038-earthobservatory-nasa-gov": [
+    200,
+    7143,
+    1
+  ],
+  "s049-ncei-noaa-gov": [
+    200,
+    2471,
+    0
+  ],
+  "nasa-pine-island": [
+    200,
+    7719,
+    25
+  ],
+  "s015-fao-org": [
+    200,
+    9643,
+    0
+  ],
+  "s016-fao-org": [
+    200,
+    4070,
+    0
+  ],
+  "s083-fao-org": [
+    200,
+    2268,
+    0
+  ],
+  "s010-unesco-org": [
+    200,
+    218,
+    0
+  ],
+  "un-m49": [
+    200,
+    144945,
+    2
+  ]
+}

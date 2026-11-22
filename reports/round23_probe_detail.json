@@ -1,0 +1,245 @@
+{
+  "round": 23,
+  "candidates": 23,
+  "usable": 0,
+  "hosts": {
+    "oceanservice.noaa.gov": {
+      "tried": 2,
+      "ok": 0
+    },
+    "www.noaa.gov": {
+      "tried": 3,
+      "ok": 0
+    },
+    "www.nps.gov": {
+      "tried": 9,
+      "ok": 0
+    },
+    "earthobservatory.nasa.gov": {
+      "tried": 4,
+      "ok": 0
+    },
+    "www.usda.gov": {
+      "tried": 1,
+      "ok": 0
+    },
+    "www.bom.gov.au": {
+      "tried": 2,
+      "ok": 0
+    },
+    "www.metmuseum.org": {
+      "tried": 2,
+      "ok": 0
+    }
+  },
+  "rows": [
+    {
+      "topic": "洋流",
+      "url": "https://oceanservice.noaa.gov/facts/current.html",
+      "http": 200,
+      "title": "What is a current?",
+      "body": 2165,
+      "hits": 20,
+      "reason": "正文不足（2165 < 8000）"
+    },
+    {
+      "topic": "洋流",
+      "url": "https://www.noaa.gov/jetstream/ocean/ocean-currents",
+      "http": 403,
+      "title": "ERROR: The request could not be satisfied",
+      "body": 553,
+      "hits": 0,
+      "reason": "HTTP 403"
+    },
+    {
+      "topic": "季风系统",
+      "url": "https://www.noaa.gov/jetstream/global/monsoon",
+      "http": 403,
+      "title": "ERROR: The request could not be satisfied",
+      "body": 553,
+      "hits": 0,
+      "reason": "HTTP 403"
+    },
+    {
+      "topic": "气候带",
+      "url": "https://www.noaa.gov/jetstream/global/climate-zones",
+      "http": 403,
+      "title": "ERROR: The request could not be satisfied",
+      "body": 553,
+      "hits": 0,
+      "reason": "HTTP 403"
+    },
+    {
+      "topic": "河流三角洲",
+      "url": "https://oceanservice.noaa.gov/facts/river-delta.html",
+      "http": 200,
+      "title": "Page Not Found: Error 404",
+      "body": 334,
+      "hits": 0,
+      "reason": "标题为错误页"
+    },
+    {
+      "topic": "河流三角洲",
+      "url": "https://www.nps.gov/subjects/geology/deltas.htm",
+      "http": 404,
+      "title": "Requested Page Not Found (404)",
+      "body": 486,
+      "hits": 0,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "撒哈拉沙漠",
+      "url": "https://earthobservatory.nasa.gov/features/Sahara",
+      "http": 200,
+      "title": "Earth Observatory - NASA Science",
+      "body": 7143,
+      "hits": 0,
+      "reason": "正文不足（7143 < 8000）"
+    },
+    {
+      "topic": "东非大裂谷",
+      "url": "https://earthobservatory.nasa.gov/features/EastAfricanRift",
+      "http": 200,
+      "title": "Earth Observatory - NASA Science",
+      "body": 7143,
+      "hits": 0,
+      "reason": "正文不足（7143 < 8000）"
+    },
+    {
+      "topic": "东非大裂谷",
+      "url": "https://www.nps.gov/subjects/geology/rift-valleys.htm",
+      "http": 404,
+      "title": "Requested Page Not Found (404)",
+      "body": 486,
+      "hits": 0,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "两河流域",
+      "url": "https://www.nps.gov/subjects/archeology/mesopotamia.htm",
+      "http": 404,
+      "title": "Requested Page Not Found (404)",
+      "body": 486,
+      "hits": 0,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "丝绸之路",
+      "url": "https://www.nps.gov/subjects/internationalcapacitybuilding/silk-road.htm",
+      "http": 404,
+      "title": "Requested Page Not Found (404)",
+      "body": 486,
+      "hits": 0,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "罗马帝国",
+      "url": "https://www.nps.gov/subjects/archeology/roman-empire.htm",
+      "http": 404,
+      "title": "Requested Page Not Found (404)",
+      "body": 486,
+      "hits": 0,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "玛雅文明",
+      "url": "https://www.nps.gov/subjects/archeology/maya.htm",
+      "http": 404,
+      "title": "Requested Page Not Found (404)",
+      "body": 486,
+      "hits": 0,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "安第斯山脉",
+      "url": "https://earthobservatory.nasa.gov/features/AndesMountains",
+      "http": 200,
+      "title": "Earth Observatory - NASA Science",
+      "body": 7143,
+      "hits": 0,
+      "reason": "正文不足（7143 < 8000）"
+    },
+    {
+      "topic": "大平原",
+      "url": "https://www.nps.gov/subjects/grasslands/index.htm",
+      "http": 200,
+      "title": "Grasslands & Prairies (U.S. National Park Service)",
+      "body": 1123,
+      "hits": 7,
+      "reason": "正文不足（1123 < 8000）"
+    },
+    {
+      "topic": "大平原",
+      "url": "https://www.usda.gov/oce/grassland",
+      "http": 403,
+      "title": "Access Denied",
+      "body": 219,
+      "hits": 1,
+      "reason": "HTTP 403"
+    },
+    {
+      "topic": "白令陆桥",
+      "url": "https://www.nps.gov/subjects/beringia/index.htm",
+      "http": 200,
+      "title": "Beringia (U.S. National Park Service)",
+      "body": 1584,
+      "hits": 7,
+      "reason": "正文不足（1584 < 8000）"
+    },
+    {
+      "topic": "大分水岭",
+      "url": "https://www.bom.gov.au/climate/about-australian-weather",
+      "http": 404,
+      "title": "Bureau of Meteorology - The page you requested was not found on this server",
+      "body": 2820,
+      "hits": 2,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "澳大利亚大陆",
+      "url": "https://www.bom.gov.au/climate/about-australian-weather",
+      "http": 404,
+      "title": "Bureau of Meteorology - The page you requested was not found on this server",
+      "body": 2820,
+      "hits": 5,
+      "reason": "HTTP 404"
+    },
+    {
+      "topic": "长江流域",
+      "url": "https://earthobservatory.nasa.gov/features/YangtzeRiver",
+      "http": 200,
+      "title": "Earth Observatory - NASA Science",
+      "body": 7143,
+      "hits": 0,
+      "reason": "正文不足（7143 < 8000）"
+    },
+    {
+      "topic": "汉代",
+      "url": "https://www.metmuseum.org/toah/hd/hand/hd_hand.htm",
+      "http": 0,
+      "title": null,
+      "body": 0,
+      "hits": 0,
+      "reason": "无标题"
+    },
+    {
+      "topic": "阿兹特克",
+      "url": "https://www.metmuseum.org/toah/hd/azte/hd_azte.htm",
+      "http": 0,
+      "title": null,
+      "body": 0,
+      "hits": 0,
+      "reason": "无标题"
+    },
+    {
+      "topic": "城市起源",
+      "url": "https://www.nps.gov/subjects/archeology/cities.htm",
+      "http": 404,
+      "title": "Requested Page Not Found (404)",
+      "body": 486,
+      "hits": 0,
+      "reason": "HTTP 404"
+    }
+  ],
+  "note": "本机可达的 7 个主机中 6 个在 r17–r22 已反复探测；主导失败模式为 WAF 拦截 / 门户迁移 / 门落户，并非「无对题页面」。单轮 0 收益不足以判定渠道饱和。"
+}

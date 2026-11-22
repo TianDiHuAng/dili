@@ -311,6 +311,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：7 PASS/3 FAIL（板块构造备注与来源矛盾、南极冰盖第二源门户未披露、复核空转）→返工：两处配对说明改写、15条无源年代收敛、复核改选从未复核的13条中取4条、台账note修正",
       "note": "4条遗产L2换源转正（legacy 36→32）；32条重复备注合并为轮次索引"
+    },
+    {
+      "round": 23,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 9,
+      "fixes": 32,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：9条复核被判空转（纯标签、3对逐字重复、跨13处复用同句）+3处事实矛盾+徽标2处误标→返工：9条改为实测实证（含URL/正文/命中/档位）、山地农业移除s083并补足、松岛冰川记录7719/25近失值、徽标改用coverage标志位、B1探测23条明细落盘",
+      "note": "9条首轮复核；32条备注双标签合并；站点新增来源等级徽标（骨架/专题/遗产三类）"
     }
   ]
 }

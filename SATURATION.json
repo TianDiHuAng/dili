@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 22,
+  "last_round": 23,
   "history": [
     {
       "round": 1,
@@ -259,6 +259,19 @@
         "B2覆盖矩阵"
       ],
       "gaps_found": 273,
+      "result": "非饱和"
+    },
+    {
+      "round": 23,
+      "methods_used": [
+        "B1专题页探测(0可用)",
+        "B5待核实",
+        "B7深度",
+        "B2覆盖矩阵",
+        "首个复核队列清零"
+      ],
+      "gaps_found": 273,
+      "note": "B1 探测 23 候选 0 可用——专题页渠道接近饱和",
       "result": "非饱和"
     }
   ],

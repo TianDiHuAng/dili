@@ -49,7 +49,7 @@
       "region": "南极洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第23轮)",
+      "status": "已复核(第23轮·实证)",
       "definition": "南极半岛：南极大陆向北伸出的半岛，靠近南美洲。",
       "time_or_place": "南极洲北部（地质年代待核）",
       "overview": "南极大陆向北伸出的半岛，靠近南美洲。",
@@ -63,7 +63,7 @@
         "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮·首轮复核】南极洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。",
+      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 **1**；s049（NCEI 首页）200 / 2471 字符 / 命中 **0**。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -328,7 +328,7 @@
       "region": "南极洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第23轮)",
+      "status": "已复核(第23轮·实证)",
       "definition": "松岛冰川退缩：松岛冰川是南极冰盖向海洋输出冰体的重要通道，其退缩与冰架变薄被用作研究冰盖稳定性的案例。",
       "time_or_place": "现代卫星观测期（起讫年份以来源为准）",
       "overview": "松岛冰川是南极冰盖向海洋输出冰体的重要通道，其退缩与冰架变薄被用作研究冰盖稳定性的案例。",
@@ -340,7 +340,7 @@
         "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。 【第23轮·首轮复核】南极洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。",
+      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。 【第23轮实证复核】实测：nasa-pine-island 200 / 剥离后 **7719 字符** / glacier|pine island|retreat 命中 **25** → D055 **档②（门槛 8000）**，**差 281 字符未达标**。这是可核的近失值，而非「缺专题页」；待该页扩写或另寻 ≥8000 字符的冰川专题页即可升级。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
