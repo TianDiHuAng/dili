@@ -382,6 +382,90 @@
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x690dx7269x7269x5019x53d8x5316",
+      "title": "植物物候变化",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第3轮)",
+      "definition": "植物物候变化：气候变暖改变春季展叶、开花与迁徙的时间，使植物事件与传粉者、农事日历之间出现错配风险。",
+      "time_or_place": "近年观测（具体时段以来源页面为准）",
+      "overview": "气候变暖改变春季展叶、开花与迁徙的时间，使植物事件与传粉者、农事日历之间出现错配风险。",
+      "related": [
+        "global-themes-x6c14x5019x5e26"
+      ],
+      "sources": [
+        "noaa-phenology",
+        "s026-ourworldindata-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。",
+      "outlines": [
+        "OpenStax Geography 教材目录",
+        "NOAA/NASA 近期动态",
+        "UN M49"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5317x6781x706bx60c5x53d8x5316",
+      "title": "北极火情变化",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "北极",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第3轮)",
+      "definition": "北极火情变化：北极地区火 regime 受升温、干燥与闪电变化影响，冻土与植被碳储量使火情具有全球气候意义。",
+      "time_or_place": "近年观测（具体时段以来源页面为准）",
+      "overview": "北极地区火 regime 受升温、干燥与闪电变化影响，冻土与植被碳储量使火情具有全球气候意义。",
+      "related": [
+        "global-themes-x6c14x5019x5e26"
+      ],
+      "sources": [
+        "nasa-arctic-fire",
+        "s039-climate-nasa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。",
+      "outlines": [
+        "OpenStax Geography 教材目录",
+        "NOAA/NASA 近期动态",
+        "UN M49"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5730x7406x4fe1x606fx7cfbx7edf",
+      "title": "地理信息系统",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第3轮)",
+      "definition": "地理信息系统：地理信息系统通过采集、存储、分析与展示空间数据，支撑地图制图、资源管理与区域研究；其方法框架来自多门学科。",
+      "time_or_place": "20世纪后期至今（学科形成年代待专门来源核）",
+      "overview": "地理信息系统通过采集、存储、分析与展示空间数据，支撑地图制图、资源管理与区域研究；其方法框架来自多门学科。",
+      "related": [
+        "global-themes-x677fx5757x6784x9020"
+      ],
+      "sources": [
+        "openstax-intro-geo",
+        "s075-aag-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。",
+      "outlines": [
+        "OpenStax Geography 教材目录",
+        "NOAA/NASA 近期动态",
+        "UN M49"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

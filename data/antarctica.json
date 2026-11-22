@@ -315,6 +315,34 @@
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x677ex5c9bx51b0x5dddx9000x7f29",
+      "title": "松岛冰川退缩",
+      "tier": "重要",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成(第3轮)",
+      "definition": "松岛冰川退缩：松岛冰川是南极冰盖向海洋输出冰体的重要通道，其退缩与冰架变薄被用作研究冰盖稳定性的案例。",
+      "time_or_place": "现代卫星观测期（起讫年份以来源为准）",
+      "overview": "松岛冰川是南极冰盖向海洋输出冰体的重要通道，其退缩与冰架变薄被用作研究冰盖稳定性的案例。",
+      "related": [
+        "antarctica-x5357x6781x51b0x76d6"
+      ],
+      "sources": [
+        "nasa-pine-island",
+        "s049-ncei-noaa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。",
+      "outlines": [
+        "OpenStax Geography 教材目录",
+        "NOAA/NASA 近期动态",
+        "UN M49"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

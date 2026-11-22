@@ -2120,6 +2120,71 @@
       "verified": false,
       "page_title": "Checking your browser before accessing. Just a moment...",
       "note": "curl 实测 HTTP 403；未通过核验，内容不得直接引用。"
+    },
+    {
+      "id": "noaa-phenology",
+      "title": "How spring plant milestones are shifting in response to changing climate",
+      "author": "NOAA Climate.gov",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.climate.gov/news-features/event-tracker/how-spring-plant-milestones-are-shifting-response-changing-climate",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "How spring plant milestones are shifting in response to changing climate | NOAA Climate.gov",
+      "note": "curl 实测 HTTP 200；页面标题：How spring plant milestones are shifting in response to changing climate | NOAA Climate.gov；年份未标注。"
+    },
+    {
+      "id": "nasa-arctic-fire",
+      "title": "Fire on Ice: The Arctic’s Changing Fire Regime",
+      "author": "NASA Earth Observatory",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fire-on-ice-the-arctics-changing-fire-regime/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Fire on Ice: The Arctic’s Changing Fire Regime - NASA Science",
+      "note": "curl 实测 HTTP 200；页面标题：Fire on Ice: The Arctic’s Changing Fire Regime - NASA Science；年份未标注。"
+    },
+    {
+      "id": "nasa-pine-island",
+      "title": "Retreat at Pine Island Glacier",
+      "author": "NASA Earth Observatory",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://science.nasa.gov/earth/earth-observatory/retreat-at-pine-island-glacier/",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Retreat at Pine Island Glacier - NASA Science",
+      "note": "curl 实测 HTTP 200；页面标题：Retreat at Pine Island Glacier - NASA Science；年份未标注。"
+    },
+    {
+      "id": "openstax-intro-geo",
+      "title": "Introduction to Geography",
+      "author": "OpenStax",
+      "year": null,
+      "type": "教材目录",
+      "url": "https://openstax.org/details/books/introduction-geography",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "OpenStax",
+      "note": "curl 实测 HTTP 200；页面标题：OpenStax；年份未标注。；页面为前端渲染，静态标题为站点名，需浏览器复核目录。"
+    },
+    {
+      "id": "openstax-human-geo",
+      "title": "Human Geography",
+      "author": "OpenStax",
+      "year": null,
+      "type": "教材目录",
+      "url": "https://openstax.org/details/books/human-geography",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "OpenStax",
+      "note": "curl 实测 HTTP 200；页面标题：OpenStax；年份未标注。；页面为前端渲染，静态标题为站点名，需浏览器复核目录。"
     }
   ]
 }

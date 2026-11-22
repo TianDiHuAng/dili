@@ -1,0 +1,68 @@
+{
+  "round": 3,
+  "gaps": {
+    "B1_outline": {
+      "sources": [
+        "openstax-intro-geo",
+        "openstax-human-geo",
+        "s075-aag-org"
+      ],
+      "missing_topics": [
+        "地理信息系统",
+        "人口地理",
+        "城市地理"
+      ],
+      "count": 3
+    },
+    "B6_recent": {
+      "sources": [
+        "noaa-phenology",
+        "nasa-arctic-fire",
+        "nasa-pine-island"
+      ],
+      "missing_topics": [
+        "植物物候变化",
+        "北极火情变化",
+        "松岛冰川退缩"
+      ],
+      "count": 3
+    },
+    "B2_matrix": {
+      "blanks": [],
+      "sparse": [
+        "africa×气候",
+        "africa×农业",
+        "africa×区域",
+        "asia×地形",
+        "asia×气候",
+        "europe×气候",
+        "europe×农业",
+        "north-america×气候",
+        "north-america×农业",
+        "south-america×气候",
+        "south-america×贸易",
+        "south-america×区域",
+        "oceania×气候",
+        "oceania×农业",
+        "oceania×贸易",
+        "oceania×政权更替",
+        "antarctica×气候",
+        "antarctica×农业",
+        "antarctica×贸易",
+        "antarctica×政权更替",
+        "antarctica×区域",
+        "global-themes×农业",
+        "global-themes×贸易",
+        "global-themes×政权更替",
+        "global-themes×区域"
+      ]
+    },
+    "B5_pending": {
+      "total": 175
+    },
+    "B7_depth": {
+      "important_l1": 97,
+      "core_l1": 19
+    }
+  }
+}

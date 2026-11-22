@@ -1193,7 +1193,7 @@
       "region": "中亚/东亚",
       "theme": "地形",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第3轮)",
       "definition": "青藏高原：世界最高高原，亚洲多条大河发源地，高寒环境影响交通与聚落。",
       "time_or_place": "约5000万年前至今",
       "overview": "世界最高高原，亚洲多条大河发源地，高寒环境影响交通与聚落。",
@@ -1204,10 +1204,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：NASA 地球观测页支持高寒地貌背景；河流源头与海拔数据待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

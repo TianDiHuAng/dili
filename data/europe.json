@@ -107,7 +107,7 @@
       "region": "南欧",
       "theme": "政权更替",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第3轮)",
       "definition": "古希腊城邦：山地与海洋分割形成众多城邦，雅典与斯巴达模式差异显著。",
       "time_or_place": "约前8—前4世纪",
       "overview": "山地与海洋分割形成众多城邦，雅典与斯巴达模式差异显著。",
@@ -118,10 +118,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持遗产背景；城邦制度细节待专门史料核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -166,7 +167,7 @@
       "region": "南欧",
       "theme": "政权更替",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第3轮)",
       "definition": "罗马共和国：从台伯河畔城邦扩张到地中海霸权，共和制度影响后世。",
       "time_or_place": "前509—前27年",
       "overview": "从台伯河畔城邦扩张到地中海霸权，共和制度影响后世。",
@@ -177,10 +178,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持地中海遗产背景；共和年代待专门核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -349,7 +351,7 @@
       "region": "西北欧",
       "theme": "区域",
       "level": "L1",
-      "status": "L1完成",
+      "status": "已复核(第3轮)",
       "definition": "不列颠群岛：岛国位置影响其海洋贸易与政治发展路径。",
       "time_or_place": "古代至今",
       "overview": "岛国位置影响其海洋贸易与政治发展路径。",
@@ -360,10 +362,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：NOAA 海洋页支持海洋性气候背景；人口数据待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
