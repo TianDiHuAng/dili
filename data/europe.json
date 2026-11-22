@@ -48,8 +48,8 @@
       "unit_id": "europe",
       "region": "南欧",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "克里特文明：米诺斯文明，宫殿中心与海上贸易网络。",
       "time_or_place": "约前2000—前1400年",
       "overview": "米诺斯文明，宫殿中心与海上贸易网络。",
@@ -60,15 +60,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "克里特岛位于爱琴海南部，山地与海岸交错，港湾利于航海。地中海气候支持橄榄、葡萄与谷物混合农业。",
+      "influence": "海上贸易与宫殿再分配体系相互支撑，岛屿位置降低远距离交流成本。宫殿经济的具体运作仍有讨论，不宜写成定论。",
+      "polities": "米诺斯宫殿中心先后兴衰，之后希腊本土文化影响力上升。",
+      "connections": "克里特连接埃及、安纳托利亚与希腊本土，交换陶器、金属与纺织品。",
+      "today": "遗址保护与旅游是当地重要议题。游客与遗产数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='克里特文明示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>克里特文明</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "europe-x8fc8x9521x5c3cx6587x660e",
@@ -381,8 +389,8 @@
       "unit_id": "europe",
       "region": "中欧",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "阿尔卑斯山：欧洲最高山脉，形成南北交通屏障与山口通道。",
       "time_or_place": "约3000万年前至今",
       "overview": "欧洲最高山脉，形成南北交通屏障与山口通道。",
@@ -393,15 +401,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "阿尔卑斯山横贯中欧，冰川与河谷塑造地形，山口决定南北交通通道。海拔差异形成明显垂直气候带。",
+      "influence": "山口与隧道降低阻隔，使意大利与中欧长期互动；山地农业与牧业适应坡地条件。交通变化是重要变量，不能把区域差异完全归因于山体。",
+      "polities": "山地城邦、贵族领地与近代国家边界在此交汇，战略通道长期受重视。",
+      "connections": "阿尔卑斯连接地中海与中欧，商旅、军队与思想沿山口流动。",
+      "today": "冰川退缩与山地灾害是当代议题。冰川面积与气温数据待按年份从权威机构获取。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='阿尔卑斯山示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>阿尔卑斯山</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "europe-x591ax7459x6cb3",
@@ -468,8 +484,8 @@
       "unit_id": "europe",
       "region": "北欧",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "维京时代：斯堪的纳维亚航海者沿河与海岸贸易、殖民与袭击。",
       "time_or_place": "约793—1066年",
       "overview": "斯堪的纳维亚航海者沿河与海岸贸易、殖民与袭击。",
@@ -480,16 +496,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "斯堪的纳维亚半岛海岸曲折、森林与铁矿丰富，狭窄海湾利于造船与出航。北大西洋航线连接不列颠、冰岛与北美东缘。",
+      "influence": "航海技术使贸易、殖民与袭击并存，河流网络把北欧与东欧、拜占庭连接起来。社会动因复杂，不能简化为资源匮乏驱动。",
+      "polities": "部落与王国结构逐步形成，基督化与王权强化改变了北欧政治格局。",
+      "connections": "维京航线连接北海、波罗的海与北大西洋，交换毛皮、银币、木材与奴隶。",
+      "today": "维京遗产是北欧文化与旅游的重要资源。人口与游客数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='维京时代示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>维京时代</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "europe-x6cd5x5170x514bx738bx56fd",

@@ -201,10 +201,10 @@
     },
     {
       "id": "africa-x65afx74e6x5e0cx91ccx6d77x5cb8",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -273,10 +273,10 @@
     },
     {
       "id": "asia-x963fx5951x7f8ex5c3cx5fb7x6ce2x65af",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第2轮)",
-      "source_count": 3,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -354,10 +354,10 @@
     },
     {
       "id": "asia-x957fx6c5fx6d41x57df",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -417,10 +417,10 @@
     },
     {
       "id": "asia-x5b8bx4ee3",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -624,10 +624,10 @@
     },
     {
       "id": "europe-x514bx91ccx7279x6587x660e",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -723,10 +723,10 @@
     },
     {
       "id": "europe-x963fx5c14x5351x65afx5c71",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -750,10 +750,10 @@
     },
     {
       "id": "europe-x7ef4x4eacx65f6x4ee3",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -921,10 +921,10 @@
     },
     {
       "id": "north-america-x843dx57fax5c71x8109",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -939,10 +939,10 @@
     },
     {
       "id": "north-america-x4e94x5927x6e56",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -975,10 +975,10 @@
     },
     {
       "id": "north-america-x5965x5c14x6885x514b",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第3轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

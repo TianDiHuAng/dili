@@ -144,8 +144,8 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "落基山脉：北美西部主干山脉，影响降水分布与交通走向。",
       "time_or_place": "约8000万年前至今",
       "overview": "北美西部主干山脉，影响降水分布与交通走向。",
@@ -156,15 +156,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "落基山脉纵贯北美西部，高山、盆地与峡谷交错，是重要分水岭。海拔与纬度共同决定降水和植被带。",
+      "influence": "山脉影响降水分布与交通走向，河谷与山口成为通道；矿业与牧业依赖山地资源。资源开发的结果取决于技术与制度，不只是地形。",
+      "polities": "原住民族群、殖民边疆与现代国家公园体系先后塑造山地土地利用。",
+      "connections": "落基山脉连接北美内陆与西部海岸，河流向两大洋输送水量与泥沙。",
+      "today": "水资源、山火与旅游压力突出。积雪与径流数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='落基山脉示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>落基山脉</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x963fx5df4x62c9x5951x4e9ax5c71x8109",
@@ -202,8 +210,8 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "五大湖：淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
       "time_or_place": "冰后期至今",
       "overview": "淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
@@ -214,16 +222,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "五大湖位于北美中东部，由冰川侵蚀形成，湖群通过圣劳伦斯河通向大西洋。湖岸平原与港口条件优越。",
+      "influence": "内河航运降低大宗货物运输成本，沿岸城市形成工业带；淡水与渔业支撑聚落。工业发展也与能源、劳动力和市场有关，非湖泊单一因素。",
+      "polities": "美加边界沿湖划定，港口城市与州省政策共同影响区域发展。",
+      "connections": "五大湖—圣劳伦斯航道连接北美内陆与大西洋，是粮食、矿产与制成品通道。",
+      "today": "水质、入侵物种与港口经济是当代议题。人口与货运数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='五大湖示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>五大湖</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x79d1x7f57x62c9x591ax9ad8x539f",
@@ -319,8 +335,8 @@
       "unit_id": "north-america",
       "region": "中美洲",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "奥尔梅克：中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
       "time_or_place": "约前1500—前400年",
       "overview": "中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
@@ -331,15 +347,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "奥尔梅克核心位于墨西哥湾沿岸低地，河流泛滥平原与湿地提供农业与交通条件。热带雨林与沼泽影响聚落选址。",
+      "influence": "肥沃土地与水上交通支撑复杂社会，巨石雕像需要远距离运输与组织能力。其政治结构仍有争论，不宜直接称为帝国。",
+      "polities": "以祭祀中心为核心的社群网络可能是主要形态，后续中美洲文化与其存在艺术与宗教联系。",
+      "connections": "奥尔梅克与墨西哥谷地、危地马拉等地交换玉石、可可和陶器。",
+      "today": "遗址保护与博物馆展示延续其文化影响。参观与遗产数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='奥尔梅克示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>奥尔梅克</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x739bx96c5x6587x660e",

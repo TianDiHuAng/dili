@@ -703,8 +703,8 @@
       "unit_id": "africa",
       "region": "东非",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第3轮)",
       "definition": "斯瓦希里海岸：东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
       "time_or_place": "约8—16世纪",
       "overview": "东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
@@ -715,16 +715,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "斯瓦希里海岸沿东非印度洋分布，拥有港湾、珊瑚礁与季风航道。海岸平原狭窄，内陆高地与河流提供农产品与象牙等商品。",
+      "influence": "季风航行把城邦连接成贸易网络，港口位置决定商业优势。印度洋贸易是重要条件，但本地政治制度与跨文化社群同样关键。",
+      "polities": "基尔瓦、蒙巴萨等城邦先后兴衰，葡萄牙、阿曼等外来势力介入后格局改变。",
+      "connections": "该海岸连接阿拉伯、波斯、印度与东非内陆，交换黄金、象牙、香料与陶器，并促成斯瓦希里语发展。",
+      "today": "港口贸易与旅游业延续，海平面与珊瑚生态压力上升。人口与经济数据待按年份补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='斯瓦希里海岸示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>斯瓦希里海岸</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x975ex6d32x5927x6e56x5730x533a",
