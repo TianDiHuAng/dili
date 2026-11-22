@@ -24,7 +24,7 @@
       "id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -43,7 +43,7 @@
       "id": "africa-x57c3x585ex4fc4x6bd4x4e9ax9ad8x539f",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -61,7 +61,7 @@
       "id": "africa-x51e0x5185x4e9ax6e7ex6cbfx5cb8",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -910,8 +910,8 @@
       "id": "north-america-x5317x7f8ex51b0x76d6",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 3,
+      "status": "已复核(第17轮)",
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1067,8 +1067,8 @@
       "id": "north-america-x5341x4e09x6b96x6c11x5730",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 4,
+      "status": "已复核(第17轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1076,8 +1076,8 @@
       "id": "north-america-x7f8ex56fdx897fx8fdb",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 4,
+      "status": "已复核(第17轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1085,8 +1085,8 @@
       "id": "north-america-x52a0x52d2x6bd4x6d77x7fa4x5c9b",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 4,
+      "status": "已复核(第17轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1123,8 +1123,8 @@
       "id": "south-america-x5df4x897fx9ad8x539f",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 5,
+      "status": "已复核(第17轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1261,8 +1261,8 @@
       "id": "south-america-x5df4x897fx6b96x6c11x7ecfx6d4e",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 3,
+      "status": "已复核(第17轮)",
+      "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1299,8 +1299,8 @@
       "id": "oceania-x5927x81eax6d41x76c6x5730",
       "level": "L1",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 4,
+      "status": "已复核(第17轮)",
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

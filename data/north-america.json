@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "北美冰盖：地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
@@ -60,11 +60,10 @@
       ],
       "sources": [
         "s038-earthobservatory-nasa-gov",
-        "s056-earthquake-usgs-gov",
-        "s017-fao-org"
+        "s056-earthquake-usgs-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。",
+      "pending_notes": "第16轮复核：北美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -618,7 +617,7 @@
       "region": "北美洲",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "十三殖民地：大西洋沿岸英国殖民地，后成为美国建国基础。",
       "time_or_place": "17—18世纪",
       "overview": "大西洋沿岸英国殖民地，后成为美国建国基础。",
@@ -630,11 +629,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s011-unesco-org",
-        "s058-worldbank-org"
+        "s011-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -649,7 +647,7 @@
       "region": "北美洲",
       "theme": "农业",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "美国西进：向西部扩张，铁路与移民改变大平原与西部土地利用。",
       "time_or_place": "19世纪",
       "overview": "向西部扩张，铁路与移民改变大平原与西部土地利用。",
@@ -661,11 +659,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s018-fao-org",
-        "s059-worldbank-org"
+        "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。",
+      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s059-worldbank-org（D040/D047 同型问题）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -681,7 +678,7 @@
       "region": "中美洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "加勒比海群岛：岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
       "time_or_place": "古代至今",
       "overview": "岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
@@ -693,11 +690,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org",
-        "s025-ourworldindata-org"
+        "s057-databank-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
