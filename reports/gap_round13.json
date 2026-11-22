@@ -1,0 +1,65 @@
+{
+  "round": 13,
+  "gaps": {
+    "B6_thematic_sources": {
+      "verified_topics": [
+        "教育机会地域差异",
+        "儿童发展地域差异",
+        "农业气候风险",
+        "农业统计体系",
+        "全球人口规模",
+        "地球系统科学",
+        "环境数据访问",
+        "人文地理学",
+        "撒哈拉以南非洲发展数据",
+        "东亚与太平洋区域发展"
+      ],
+      "count": 10,
+      "basis": "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+    },
+    "B5_pending": {
+      "total": 223
+    },
+    "B7_depth": {
+      "core_l1": [
+        "asia-x957fx6c5fx6d41x57df",
+        "asia-x6c49x4ee3",
+        "asia-x8499x53e4x5e1dx56fd",
+        "north-america-x963fx5179x7279x514b",
+        "global-themes-x57cex5e02x8d77x6e90"
+      ],
+      "important_l1": 87
+    },
+    "B2_matrix": {
+      "blanks": [],
+      "sparse": [
+        "非洲×气候",
+        "非洲×农业",
+        "非洲×区域",
+        "亚洲×地形",
+        "亚洲×气候",
+        "欧洲×气候",
+        "欧洲×农业",
+        "北美洲×气候",
+        "北美洲×农业",
+        "南美洲×气候",
+        "南美洲×贸易",
+        "南美洲×区域",
+        "大洋洲×气候",
+        "大洋洲×农业",
+        "大洋洲×贸易",
+        "大洋洲×政权更替",
+        "南极洲×气候",
+        "南极洲×农业",
+        "南极洲×贸易",
+        "南极洲×政权更替",
+        "南极洲×区域",
+        "全球主题×政权更替"
+      ]
+    },
+    "B4_reader_recheck": {
+      "remaining": [],
+      "count": 0
+    }
+  }
+}

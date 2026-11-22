@@ -1652,6 +1652,264 @@
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6559x80b2x673ax4f1ax5730x57dfx5deex5f02",
+      "title": "教育机会地域差异",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "教育机会地域差异：教育可及性与完成率在地区间差异显著，受人口结构、经济条件与公共服务供给影响。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "教育可及性与完成率在地区间差异显著，受人口结构、经济条件与公共服务供给影响。",
+      "related": [],
+      "sources": [
+        "s008-unesco-org",
+        "s074-unicef-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x513fx7ae5x53d1x5c55x5730x57dfx5deex5f02",
+      "title": "儿童发展地域差异",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "儿童发展地域差异：儿童健康、营养与教育指标具有明显地域差异，与家庭收入、卫生服务与环境条件相关。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "儿童健康、营养与教育指标具有明显地域差异，与家庭收入、卫生服务与环境条件相关。",
+      "related": [
+        "global-themes-x5065x5eb7x5730x7406x6570x636e"
+      ],
+      "sources": [
+        "s074-unicef-org",
+        "s005-who-int"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x519cx4e1ax6c14x5019x98cex9669",
+      "title": "农业气候风险",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "农业气候风险：农业生产受温度、降水与极端事件影响，风险暴露与适应能力因地区而异。",
+      "time_or_place": "现代农业实践（年份以来源页面为准）",
+      "overview": "农业生产受温度、降水与极端事件影响，风险暴露与适应能力因地区而异。",
+      "related": [
+        "global-themes-x6c14x5019x9002x5e94x653fx7b56"
+      ],
+      "sources": [
+        "s019-fao-org",
+        "s060-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x519cx4e1ax7edfx8ba1x4f53x7cfb",
+      "title": "农业统计体系",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "农业统计体系：农业统计通过耕地、产量与投入指标支持粮食安全评估，口径统一是跨区域比较的前提。",
+      "time_or_place": "现代统计体系（年份以来源页面为准）",
+      "overview": "农业统计通过耕地、产量与投入指标支持粮食安全评估，口径统一是跨区域比较的前提。",
+      "related": [
+        "global-themes-x4f5cx7269x5355x4ea7x5deex5f02"
+      ],
+      "sources": [
+        "s021-fao-org",
+        "s014-fao-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5168x7403x4ebax53e3x89c4x6a21",
+      "title": "全球人口规模",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "全球人口规模：全球人口总量的时序变化由出生、死亡与迁移共同决定，是资源与环境分析的基础变量。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "全球人口总量的时序变化由出生、死亡与迁移共同决定，是资源与环境分析的基础变量。",
+      "related": [
+        "global-themes-x4ebax53e3x589ex957f"
+      ],
+      "sources": [
+        "s032-ourworldindata-org",
+        "s004-population-un-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5730x7403x7cfbx7edfx79d1x5b66",
+      "title": "地球系统科学",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "地球系统科学：地球系统科学把大气、水圈、岩石圈与生物圈作为相互作用整体，强调跨圈层过程。",
+      "time_or_place": "现代科学研究（年份以来源页面为准）",
+      "overview": "地球系统科学把大气、水圈、岩石圈与生物圈作为相互作用整体，强调跨圈层过程。",
+      "related": [
+        "global-themes-x677fx5757x6784x9020"
+      ],
+      "sources": [
+        "s037-science-nasa-gov",
+        "s009-unesco-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x73afx5883x6570x636ex8bbfx95ee",
+      "title": "环境数据访问",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "环境数据访问：环境数据的访问与产品化使观测资料可用于研究与规划，元数据说明是使用前提。",
+      "time_or_place": "现代数据服务（年份以来源页面为准）",
+      "overview": "环境数据的访问与产品化使观测资料可用于研究与规划，元数据说明是使用前提。",
+      "related": [
+        "global-themes-x5730x7406x7a7ax95f4x6570x636ex4ea7x54c1"
+      ],
+      "sources": [
+        "s049-ncei-noaa-gov",
+        "s054-ncei-noaa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax6587x5730x7406x5b66",
+      "title": "人文地理学",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "人文地理学：人文地理学研究人类活动的空间组织、区域差异与地方联系，关注文化、经济与政治过程。",
+      "time_or_place": "学科概述（形成年代待专门来源核）",
+      "overview": "人文地理学研究人类活动的空间组织、区域差异与地方联系，关注文化、经济与政治过程。",
+      "related": [
+        "global-themes-x4ebax53e3x5730x7406"
+      ],
+      "sources": [
+        "openstax-human-geo",
+        "s075-aag-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6492x54c8x62c9x4ee5x5357x975ex6d32x53d1x5c55x6570x636e",
+      "title": "撒哈拉以南非洲发展数据",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "撒哈拉以南非洲发展数据：该区域发展指标差异显著，数据需结合国家收入分类与统计口径阅读，避免单一指标概括。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "该区域发展指标差异显著，数据需结合国家收入分类与统计口径阅读，避免单一指标概括。",
+      "related": [
+        "global-themes-x56fdx5bb6x6536x5165x5206x7c7b"
+      ],
+      "sources": [
+        "s064-worldbank-org",
+        "s057-databank-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4e1cx4e9ax4e0ex592ax5e73x6d0bx533ax57dfx53d1x5c55",
+      "title": "东亚与太平洋区域发展",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第13轮)",
+      "definition": "东亚与太平洋区域发展：该区域包含多样经济体和地理单元，发展指标与城市化、贸易联系密切，口径需逐项核对。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "该区域包含多样经济体和地理单元，发展指标与城市化、贸易联系密切，口径需逐项核对。",
+      "related": [
+        "global-themes-x56fdx5bb6x6536x5165x5206x7c7b"
+      ],
+      "sources": [
+        "s065-worldbank-org",
+        "s057-databank-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }
