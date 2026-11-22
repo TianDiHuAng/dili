@@ -1116,10 +1116,14 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-kaz-pop",
+        "wb-kaz-urban",
+        "wb-uzb-pop",
+        "wb-uzb-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·丝绸之路】本条正则 silk road|trade route。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「丝绸之路」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为丝绸之路主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·丝绸之路】本条正则 silk road|trade route。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「丝绸之路」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为丝绸之路主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1130,7 +1134,7 @@
       "influence": "地理条件塑造了商队节奏与商品结构：丝绸、香料、马匹与玻璃沿网络流动，技术、宗教与艺术也随之传播。把交流完全归因于贸易路线过于简单，政权保护与民间迁徙同样关键。",
       "polities": "沿线政权为商路提供安全与制度条件，绿洲城邦在商队与定居社会之间充当中介；具体政权与时段划分待专门史料核验。",
       "connections": "丝绸之路把中国、中亚、西亚、地中海与印度洋连成整体，是跨区域联系的典型网络。",
-      "today": "今天相关地区仍是陆海联通的重要走廊。现代交通与贸易数据需按年份从权威机构获取。",
+      "today": "以哈萨克斯坦与乌兹别克斯坦为例，来源：世界银行 API。哈萨克斯坦总人口 20,843,754 人（2025年）（SP.POP.TOTL）、城市化率 62.4%（2025年）（SP.URB.TOTL.IN.ZS）；乌兹别克斯坦总人口 37,053,428 人（2025年）、城市化率 51.0%（2025年）。上述为两国全国口径数据，仅示量级；丝路沿线货运量与过境流量需专门统计核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='丝绸之路示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>丝绸之路</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

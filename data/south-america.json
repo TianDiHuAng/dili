@@ -244,10 +244,12 @@
       "sources": [
         "fao-aquastat-basins",
         "s086-earthobservatory-nasa-gov",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-bra-pop",
+        "wb-bra-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。  【第27轮实证复核·亚马逊河】本条正则 amazon（英文源用英文正则，D070）；fao-aquastat-basins=200/正文1581字符/本条命中0；s086-earthobservatory-nasa-gov=200/正文33279字符/本条命中72。档位判定：档①5000（s086 Amazon Fire 含 Amazon）。D055 判定：达标（档①5000 门槛5000：正文33279≥5000、命中72）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。  【第27轮实证复核·亚马逊河】本条正则 amazon（英文源用英文正则，D070）；fao-aquastat-basins=200/正文1581字符/本条命中0；s086-earthobservatory-nasa-gov=200/正文33279字符/本条命中72。档位判定：档①5000（s086 Amazon Fire 含 Amazon）。D055 判定：达标（档①5000 门槛5000：正文33279≥5000、命中72）。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -257,7 +259,7 @@
       "influence": "河流是盆地内部最重要的交通廊道，渔业与洪泛农业沿河分布。雨林生态与河流过程相互联系，土地利用变化的影响需结合多源证据，不能单因解释。",
       "polities": "前殖民时期存在多样的流域社会，殖民与现代开发改变了资源利用格局；具体政权序列不在本站骨架内展开。",
       "connections": "亚马逊河通过大西洋航线与外部市场连接，安第斯山口又把流域与西岸地区联系起来。",
-      "today": "森林砍伐、水文变化与生态保护是当代重点。径流量与森林面积需按年份从权威来源获取。",
+      "today": "以巴西为例，来源：世界银行 API。巴西总人口 212,812,405 人（2025年）（SP.POP.TOTL）、森林覆盖率 58.5%（2024年）（AG.LND.FRST.ZS）。上述为全国口径，仅示量级；亚马逊流域的径流量与航运数据需专门水文与遥感来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='亚马逊河示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>亚马逊河</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

@@ -535,7 +535,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 8,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1162,7 +1162,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第5轮)·已复核(第27轮)",
-      "source_count": 3,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1568,7 +1568,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第25轮·实证)",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1615,7 +1615,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·实证)",
-      "source_count": 3,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1633,7 +1633,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第15轮)-D041专题来源·已复核(第27轮)",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

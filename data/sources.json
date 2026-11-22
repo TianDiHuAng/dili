@@ -4005,6 +4005,97 @@
       "verified": true,
       "page_title": "World Bank API — PM2.5 air pollution, mean annual exposure (EN.ATM.PM25.MC.M3, 全球)",
       "note": "JSON API 200；2023 年 32.87 μg/m³（全球人口加权年均暴露）；数值随查询时刻变化（USGS/NOAA 为实时目录），以查询返回为准。"
+    },
+    {
+      "id": "wb-wld-arable",
+      "title": "World Bank API — Arable land (% of land area, 全球)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/AG.LND.ARBL.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — Arable land (% of land area, 全球)",
+      "note": "JSON API 200；返回世界可耕地占土地面积比例；2023 年 10.67%。"
+    },
+    {
+      "id": "wb-uzb-urban",
+      "title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 乌兹别克斯坦)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/UZB/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 乌兹别克斯坦)",
+      "note": "JSON API 200；国家 UZB（乌兹别克斯坦）＋指标 SP.URB.TOTL.IN.ZS；最新值 51.0173495084299（2025 年）。"
+    },
+    {
+      "id": "wb-mng-pop",
+      "title": "World Bank API — 总人口 (SP.POP.TOTL, 蒙古)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/MNG/indicator/SP.POP.TOTL?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 总人口 (SP.POP.TOTL, 蒙古)",
+      "note": "JSON API 200；国家 MNG（蒙古）＋指标 SP.POP.TOTL；最新值 3568978（2025 年）。"
+    },
+    {
+      "id": "wb-mng-urban",
+      "title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 蒙古)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/MNG/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 蒙古)",
+      "note": "JSON API 200；国家 MNG（蒙古）＋指标 SP.URB.TOTL.IN.ZS；最新值 71.1450719126123（2025 年）。"
+    },
+    {
+      "id": "wb-kaz-pop",
+      "title": "World Bank API — 总人口 (SP.POP.TOTL, 哈萨克斯坦)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/KAZ/indicator/SP.POP.TOTL?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 总人口 (SP.POP.TOTL, 哈萨克斯坦)",
+      "note": "JSON API 200；国家 KAZ（哈萨克斯坦）＋指标 SP.POP.TOTL；最新值 20843754（2025 年）。"
+    },
+    {
+      "id": "wb-kaz-urban",
+      "title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 哈萨克斯坦)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/KAZ/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 城市化率 (SP.URB.TOTL.IN.ZS, 哈萨克斯坦)",
+      "note": "JSON API 200；国家 KAZ（哈萨克斯坦）＋指标 SP.URB.TOTL.IN.ZS；最新值 62.3855569507987（2025 年）。"
+    },
+    {
+      "id": "wb-uzb-pop",
+      "title": "World Bank API — 总人口 (SP.POP.TOTL, 乌兹别克斯坦)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/UZB/indicator/SP.POP.TOTL?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — 总人口 (SP.POP.TOTL, 乌兹别克斯坦)",
+      "note": "JSON API 200；国家 UZB（乌兹别克斯坦）＋指标 SP.POP.TOTL；最新值 37053428（2025 年）。"
     }
   ]
 }

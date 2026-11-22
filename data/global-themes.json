@@ -168,10 +168,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "wb-wld-arable"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·气候带】本条正则 climate zone。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「气候带」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为气候带主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·气候带】本条正则 climate zone。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「气候带」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为气候带主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -182,7 +183,7 @@
       "influence": "气候带帮助理解农业、植被与聚落差异，是地理分析的基础框架。分类是简化工具，边界并非绝对，不能当作硬边界。",
       "polities": "不同气候区的资源利用方式各异，制度与历史同样塑造区域差异；具体分类体系待专门来源核验。",
       "connections": "气候带与季风、洋流和地形相互作用，形成区域气候组合。",
-      "today": "气候变化使部分气候带位置与特征发生变化。分类数据需按年份从气象机构核验。",
+      "today": "来源：世界银行 API（指标 AG.LND.ARBL.ZS，可耕地占土地面积比例）：全球 2023年 10.67%。可耕地在各气候带内分布极不均（温带与热带季风区占比高、干旱与寒带极低），全球均值仅作量级参考；气候带界线与面积数据需专门气候分类来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='气候带示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>气候带</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -332,10 +333,12 @@
       "sources": [
         "s018-fao-org",
         "s077-ourworldindata-org",
-        "s013-fao-org"
+        "s013-fao-org",
+        "wb-mng-pop",
+        "wb-mng-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。  【第27轮实证复核·游牧】本条正则 nomad（英文源用英文正则，D070）；s018-fao-org=200/正文4707字符/本条命中0；s077-ourworldindata-org=200/正文15652字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文15652、命中0）。缺口为「游牧」主题专题页。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。  【第27轮实证复核·游牧】本条正则 nomad（英文源用英文正则，D070）；s018-fao-org=200/正文4707字符/本条命中0；s077-ourworldindata-org=200/正文15652字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文15652、命中0）。缺口为「游牧」主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -346,7 +349,7 @@
       "influence": "移动性使牧民能够利用分散资源，并与定居农业区交换畜产品与粮食。游牧并非环境单因产物，市场、制度与冲突同样塑造其形态。",
       "polities": "草原联盟、绿洲城邦与定居政权长期互动，贸易与冲突并存；具体政权名称与年代待专门来源核验。",
       "connections": "游牧网络把草原、沙漠与绿洲城市连接成交换通道，是跨区域贸易与文化传播的重要载体。",
-      "today": "牧业社区面临气候变化、土地权属与市场整合压力。人口与牲畜数据需按年份从权威机构补齐。",
+      "today": "以蒙古为例，来源：世界银行 API。蒙古总人口 3,568,978 人（2025年）（SP.POP.TOTL）、城市化率 71.1%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；牧业人口占比与草场载畜量需专门牧业统计核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='游牧示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>游牧</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -397,10 +400,11 @@
       ],
       "sources": [
         "owid-migration",
-        "s004-population-un-org"
+        "s004-population-un-org",
+        "wb-wld-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页 owid-migration 正文含 migration/migrant 关键词，支撑迁移流与存量概述；s004 为 UN 人口司 WPP 机构页（首页为 JS 壳，无正文，仅作机构入口）。theme 受现有枚举限制标为「区域」，实指人口/迁移维度；数值待按年份核验。  【第27轮实证复核·人口迁移】本条正则 migration|migrant（英文源用英文正则，D070）；owid-migration=200/正文31570字符/本条命中159；s004-population-un-org=200/正文26字符/本条命中0。档位判定：档①5000（owid-migration 含 Migration）。D055 判定：达标（档①5000 门槛5000：正文31570≥5000、命中159）。",
+      "pending_notes": "第15轮按 D041 升级：专题页 owid-migration 正文含 migration/migrant 关键词，支撑迁移流与存量概述；s004 为 UN 人口司 WPP 机构页（首页为 JS 壳，无正文，仅作机构入口）。theme 受现有枚举限制标为「区域」，实指人口/迁移维度；数值待按年份核验。  【第27轮实证复核·人口迁移】本条正则 migration|migrant（英文源用英文正则，D070）；owid-migration=200/正文31570字符/本条命中159；s004-population-un-org=200/正文26字符/本条命中0。档位判定：档①5000（owid-migration 含 Migration）。D055 判定：达标（档①5000 门槛5000：正文31570≥5000、命中159）。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -411,7 +415,7 @@
       "influence": "迁移改变人口分布与年龄结构，也影响来源地与目的地的劳动力与公共服务。迁移决策由多因素驱动，不宜归因于单一环境压力。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
       "connections": "迁移把不同区域连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
-      "today": "城市化与国际迁移是当代主要趋势，统计口径因国家而异。净迁移率、城市化率与人口分布数据需按年份从 UN/OWID 机构页核验。",
+      "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS，城市人口占比）：全球 2025年 57.8%。城市化是迁移的主要流向指标之一，但不能替代净迁移率；跨国迁移存量与流向需专门迁移统计（如 UN 迁移存量表）核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='人口迁移流向示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M140 280 C 260 200 400 190 600 155' fill='none' stroke='var(--accent)' stroke-width='3'/><path d='M600 155 L578 148 M600 155 L582 168' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='140' cy='280' r='7' class='pt'/><text x='105' y='302' class='lbl'>来源地</text><circle cx='610' cy='150' r='7' class='pt'/><text x='590' y='130' class='lbl'>目的地</text><text x='340' y='185' class='lbl'>迁移流</text><text x='40' y='370' class='dim'>示意图，非精确测绘</text></svg>"
     },
     {
