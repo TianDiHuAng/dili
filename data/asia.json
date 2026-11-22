@@ -1338,7 +1338,7 @@
       "region": "西亚",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "黎凡特：东地中海沿岸走廊，连接埃及、安纳托利亚与两河流域。",
       "time_or_place": "古代至今",
       "overview": "东地中海沿岸走廊，连接埃及、安纳托利亚与两河流域。",
@@ -1354,7 +1354,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：西亚×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。",
+      "pending_notes": "第17轮复核：西亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1369,7 +1369,7 @@
       "region": "西亚",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "definition": "安纳托利亚：高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
       "time_or_place": "古代至今",
       "overview": "高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
@@ -1385,7 +1385,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西亚×地形；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。",
+      "pending_notes": "第17轮复核：西亚×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1400,7 +1400,7 @@
       "region": "东亚",
       "theme": "气候",
       "level": "L1",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "definition": "东亚季风：海陆热力差异导致的季节性风向反转，显著影响东亚降水与农业节律；其强度变化受多因素共同作用，不作单因决定论解释。",
       "time_or_place": "东亚季风区（现代观测与历史记载）",
       "overview": "海陆热力差异导致的季节性风向反转，显著影响稻作区降水节律与农业周期安排；具体影响程度还受地形、海洋温度与其他气候因子共同作用。",
@@ -1413,7 +1413,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东亚×气候；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，气候机制与长期变化数据的专题来源 仍待补。",
+      "pending_notes": "第17轮复核：东亚×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
