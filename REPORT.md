@@ -6,10 +6,13 @@
 ## 1. 本轮完成
 
 - 新增条目：0
-- 升级 L2：4（格陵兰岛、北美冰盖、山地农业、人口迁移——首次按 D041 规则，专题页正文均命中主题关键词）
+- 升级 L2 尝试：4；两次返工后实际净增 2 条（格陵兰岛、人口迁移保留；北美冰盖、山地农业因专题页不合格降级 L1）
+- 换源保留 1 条：萨赫勒带改由 NASA 萨赫勒/荒漠化两个真专题页支撑（L2 仍为 1，来源合规化）
+- 合规降级：印度河文明（原 L2 仅用数据层别名，无考古专题页）
 - 复核：36（重要 L1；pending_notes 统一加注 D041 要求仍待专题页）
 - 修复：4
-- 新增来源：4（nasa-ice-sheets、fao-mountain-partnership、owid-migration、usgs-glaciers，均 curl 核验）
+- 新增来源：4（nasa-ice-sheets、fao-mountain-partnership、owid-migration、usgs-glaciers，均 curl 核验；其中后两条经复核判定不满足 D041，未用于 L2）
+- 遗产标记：37 条 D041 生效前的 L2 加 status 后缀并在 coverage 置 d041_legacy=true
 - 提交：4 个批次提交，每批 10 任务且通过 check.py
 
 ## 2. 质量
