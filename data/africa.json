@@ -291,7 +291,7 @@
       "region": "北非",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "马格里布：阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
       "time_or_place": "古代至今",
       "overview": "阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
@@ -306,7 +306,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北非×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。",
+      "pending_notes": "第17轮复核：北非×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -422,7 +422,7 @@
       "region": "东北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "definition": "古埃及新王国：以底比斯为中心，军事扩张与神庙经济达到高峰。",
       "time_or_place": "约前1550—前1069年",
       "overview": "以底比斯为中心，军事扩张与神庙经济达到高峰。",
@@ -439,7 +439,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东北非×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
+      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -454,7 +454,7 @@
       "region": "东北非",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "库什与努比亚：尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
       "time_or_place": "约前2000年—公元4世纪",
       "overview": "尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
@@ -471,7 +471,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东北非×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。",
+      "pending_notes": "第17轮复核：东北非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -522,7 +522,7 @@
       "region": "北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "definition": "罗马阿非利加：罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
       "time_or_place": "前146年—5世纪",
       "overview": "罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
@@ -539,7 +539,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：北非×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
+      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -554,7 +554,7 @@
       "region": "北非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第16轮)",
+      "status": "已复核(第17轮)",
       "definition": "阿拉伯征服北非：阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
       "time_or_place": "7—8世纪",
       "overview": "阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
@@ -570,7 +570,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北非×政权更替；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。",
+      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -614,7 +614,7 @@
       "region": "西非",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "definition": "加纳帝国：撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
       "time_or_place": "约7—13世纪",
       "overview": "撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
@@ -630,7 +630,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西非×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。",
+      "pending_notes": "第17轮复核：西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -683,7 +683,7 @@
       "region": "西非",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第15轮)",
+      "status": "已复核(第17轮)",
       "definition": "桑海帝国：控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
       "time_or_place": "约1464—1591年",
       "overview": "控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
@@ -700,7 +700,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西非×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。",
+      "pending_notes": "第17轮复核：西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
