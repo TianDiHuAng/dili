@@ -296,6 +296,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：9 PASS/1 FAIL（玛雅文明influence残留「古典期」分期+单因断言）→定点返工：玛雅两段修正、8处分期词去年代化、编辑口径句移出正文；polities重复度全批630对均值0.315、无同句复制",
       "note": "36条遗产L2的polities收敛：删政权名/王朝序列/年代断言，保留地理-政治关系概述"
+    },
+    {
+      "round": 22,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 4,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 1,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：7 PASS/3 FAIL（板块构造备注与来源矛盾、南极冰盖第二源门户未披露、复核空转）→返工：两处配对说明改写、15条无源年代收敛、复核改选从未复核的13条中取4条、台账note修正",
+      "note": "4条遗产L2换源转正（legacy 36→32）；32条重复备注合并为轮次索引"
     }
   ]
 }
