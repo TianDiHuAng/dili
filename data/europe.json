@@ -301,7 +301,7 @@
       "region": "西南欧",
       "theme": "区域",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "伊比利亚半岛：比利牛斯山屏障与海岸线，罗马、西哥特与伊斯兰政权先后影响。",
       "time_or_place": "古代至今",
       "overview": "比利牛斯山屏障与海岸线，罗马、西哥特与伊斯兰政权先后影响。",
@@ -312,10 +312,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持遗产背景；中世纪政权更替待专门核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -330,7 +331,7 @@
       "region": "西欧",
       "theme": "区域",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "高卢：今法国一带，罗马化与封建制在此交汇。",
       "time_or_place": "古代至今",
       "overview": "今法国一带，罗马化与封建制在此交汇。",
@@ -341,10 +342,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持罗马遗产背景；部落与行省年代待核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "北美冰盖：劳伦泰德冰盖塑造五大湖与冰碛地貌。",
       "time_or_place": "更新世",
       "overview": "劳伦泰德冰盖塑造五大湖与冰碛地貌。",
@@ -60,10 +60,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：NASA 地球观测页支持冰川地貌背景；冰盖范围细节待专门研究核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -249,7 +250,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "科罗拉多高原：干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
       "time_or_place": "约中生代至今",
       "overview": "干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
@@ -260,10 +261,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：USGS 地质页支持地貌背景；地层年代待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

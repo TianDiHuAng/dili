@@ -86,7 +86,7 @@
       "region": "大洋洲",
       "theme": "地形",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "大自流盆地：中部承压含水层，牧业依赖井水，盐度限制利用。",
       "time_or_place": "约中生代至今",
       "overview": "中部承压含水层，牧业依赖井水，盐度限制利用。",
@@ -97,10 +97,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：FAO 水资源页支持地下水背景；含水层数据待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

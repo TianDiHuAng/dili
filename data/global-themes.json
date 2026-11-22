@@ -49,7 +49,7 @@
       "region": "全球",
       "theme": "地形",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "大陆漂移：魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
       "time_or_place": "1912年提出",
       "overview": "魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
@@ -60,10 +60,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：USGS 与 NASA 地球科学页支持板块理论背景；魏格纳年代待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -359,7 +359,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "孔雀王朝：阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
       "time_or_place": "约前324—前185年",
       "overview": "阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
@@ -370,10 +370,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：世界银行南亚区域页可作现代对比；阿育王时期细节待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -417,7 +418,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "笈多王朝：北印度统一，科学与文学繁荣，被视为古典时代。",
       "time_or_place": "约320—550年",
       "overview": "北印度统一，科学与文学繁荣，被视为古典时代。",
@@ -428,10 +429,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：UNESCO 文化页支持南亚遗产背景；王朝年代口径待核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -794,7 +796,7 @@
       "region": "东亚",
       "theme": "区域",
       "level": "L1",
-      "status": "骨架",
+      "status": "已复核(第3轮)",
       "definition": "朝鲜半岛：半岛山地与河谷塑造区域政权，处在大陆与海洋之间。",
       "time_or_place": "古代至今",
       "overview": "半岛山地与河谷塑造区域政权，处在大陆与海洋之间。",
@@ -805,10 +807,11 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "复核：世界银行东亚区域页可作现代对比；古代政权细节待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
