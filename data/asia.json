@@ -386,7 +386,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第10轮)",
+      "status": "已复核(第12轮)",
       "definition": "孔雀王朝：阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
       "time_or_place": "约前324—前185年",
       "overview": "阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
@@ -403,7 +403,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第10轮复核：南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第12轮复核：南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -447,7 +447,7 @@
       "region": "南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第10轮)",
+      "status": "已复核(第12轮)",
       "definition": "笈多王朝：北印度统一，科学与文学繁荣，被视为古典时代。",
       "time_or_place": "约320—550年",
       "overview": "北印度统一，科学与文学繁荣，被视为古典时代。",
@@ -464,7 +464,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第10轮复核：南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第12轮复核：南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -806,7 +806,7 @@
       "region": "东亚",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第10轮)",
+      "status": "已复核(第12轮)",
       "definition": "明清：海禁与朝贡贸易交替，白银流入与人口增长显著。",
       "time_or_place": "1368—1912年",
       "overview": "海禁与朝贡贸易交替，白银流入与人口增长显著。",
@@ -822,7 +822,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第10轮复核：东亚×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第12轮复核：东亚×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -837,7 +837,7 @@
       "region": "东亚",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第10轮)",
+      "status": "已复核(第12轮)",
       "definition": "朝鲜半岛：半岛山地与河谷塑造区域政权，处在大陆与海洋之间。",
       "time_or_place": "古代至今",
       "overview": "半岛山地与河谷塑造区域政权，处在大陆与海洋之间。",
@@ -854,7 +854,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第10轮复核：东亚×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第12轮复核：东亚×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -906,7 +906,7 @@
       "region": "东南亚",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第10轮)",
+      "status": "已复核(第12轮)",
       "definition": "中南半岛：山河相间纵列分布，湄公河与红河塑造稻作文明。",
       "time_or_place": "古代至今",
       "overview": "山河相间纵列分布，湄公河与红河塑造稻作文明。",
@@ -922,7 +922,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第10轮复核：东南亚×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第12轮复核：东南亚×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -937,7 +937,7 @@
       "region": "东南亚",
       "theme": "农业",
       "level": "L1",
-      "status": "已复核(第10轮)",
+      "status": "已复核(第12轮)",
       "definition": "湄公河三角洲：越南南部主要稻米产区，受上游水文与海平面影响。",
       "time_or_place": "全新世至今",
       "overview": "越南南部主要稻米产区，受上游水文与海平面影响。",
@@ -954,7 +954,7 @@
         "s077-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第10轮复核：东南亚×农业；新增背景来源 无，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第12轮复核：东南亚×农业；新增背景来源 无，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -970,7 +970,7 @@
       "region": "东南亚",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第10轮)",
+      "status": "已复核(第12轮)",
       "definition": "吴哥：高棉帝国中心，水利系统与寺庙建筑体现国家组织能力。",
       "time_or_place": "约9—15世纪",
       "overview": "高棉帝国中心，水利系统与寺庙建筑体现国家组织能力。",
@@ -986,7 +986,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第10轮复核：东南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第12轮复核：东南亚×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
