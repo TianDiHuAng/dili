@@ -49,7 +49,7 @@
       "region": "南极洲",
       "theme": "地形",
       "level": "L1",
-      "status": "已复核(第24轮·实证)",
+      "status": "已复核(第25轮·实证)",
       "definition": "南极半岛：南极大陆向北伸出的半岛，靠近南美洲。",
       "time_or_place": "南极洲北部（地质年代待核）",
       "overview": "南极大陆向北伸出的半岛，靠近南美洲。",
@@ -63,7 +63,7 @@
         "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 **1**；s049（NCEI 首页）200 / 2471 字符 / 命中 **0**。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。",
+      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 **1**；s049（NCEI 首页）200 / 2471 字符 / 命中 **0**。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。 【第25轮实证复核·南极半岛】正则 antarctic peninsula；s038-earthobservatory-nasa-gov(200/正文7143字符/命中0)；s049-ncei-noaa-gov(200/正文2471字符/命中0)。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
