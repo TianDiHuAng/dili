@@ -38,3 +38,7 @@
 - DuckDuckGo HTML 检索端点返回空内容，未能作为替代搜索渠道。
 - 能源转型条目曾引用世界银行城市化页，抽检后已改为 Energy 专题页。
 - 城市热岛引用 NASA Earth Observatory 城市化页，属背景来源，已保持 needs_verification=true，待补城市热岛专题页。
+
+## 第10轮记录（非阻塞）
+- 世界银行城市化 URL 落地页为通用 Development Topics 导航页；城市化水平条目以 OWID Urbanization 为主来源，抽检判定主题路径相符，未返工。
+- 5 条核心 L1 仍无专题来源，维持 L1。
