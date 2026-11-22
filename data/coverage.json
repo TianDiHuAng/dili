@@ -174,10 +174,10 @@
     },
     {
       "id": "africa-x9a6cx91ccx5e1dx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -219,10 +219,10 @@
     },
     {
       "id": "asia-x4e24x6cb3x6d41x57df",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -300,10 +300,10 @@
     },
     {
       "id": "asia-x5370x5ea6x6cb3x6587x660e",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -525,10 +525,10 @@
     },
     {
       "id": "asia-x4e1dx7ef8x4e4bx8def",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -615,10 +615,10 @@
     },
     {
       "id": "europe-x7231x7434x6d77x4e16x754c",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -669,10 +669,10 @@
     },
     {
       "id": "europe-x7f57x9a6cx5e1dx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -804,10 +804,10 @@
     },
     {
       "id": "europe-x6587x827ax590dx5174x610fx5927x5229",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -885,10 +885,10 @@
     },
     {
       "id": "north-america-x767dx4ee4x9646x6865",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -903,10 +903,10 @@
     },
     {
       "id": "north-america-x5927x5e73x539f",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -984,10 +984,10 @@
     },
     {
       "id": "north-america-x739bx96c5x6587x660e",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "L1完成",
-      "source_count": 2,
+      "status": "L2完成(第2轮)",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

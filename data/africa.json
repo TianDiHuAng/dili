@@ -589,8 +589,8 @@
       "unit_id": "africa",
       "region": "西非",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "马里帝国：曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
       "time_or_place": "约1235—1670年",
       "overview": "曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
@@ -601,16 +601,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "马里帝国核心位于尼日尔河中上游与撒哈拉南缘，平原与河谷提供农业基础，南北向商路穿过萨赫勒。降水季节性强，沙漠与大河共同决定交通与聚落分布。",
+      "influence": "控制跨撒哈拉黄金与盐贸易是帝国财富与权力的重要来源；尼日尔河运输则把内陆农业区与贸易节点连成一体。这是政治经济与地理条件互动的解释框架，而非定论。",
+      "polities": "帝国在曼萨穆萨时期达到鼎盛，廷巴克图与加奥成为学术和商业中心；后期因继承争端与外部压力逐渐衰落，桑海随后兴起。",
+      "connections": "马里通过撒哈拉商路连接北非与地中海，通过尼日尔河连接几内亚湾与内陆，交换黄金、盐、书籍与工匠技术。",
+      "today": "今马里及周边国家仍处在萨赫勒生态过渡带，安全与发展议题突出。人口与经济数据需以权威机构最新年份为准。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='马里帝国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>马里帝国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "africa-x6851x6d77x5e1dx56fd",

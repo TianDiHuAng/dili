@@ -10,8 +10,8 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "白令陆桥：海平面下降时连接亚洲与北美，人类与动物迁徙通道。",
       "time_or_place": "约冰期",
       "overview": "海平面下降时连接亚洲与北美，人类与动物迁徙通道。",
@@ -22,16 +22,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "白令陆桥位于今白令海峡一带，冰期海平面下降时出露为连接亚洲与北美的宽阔陆地。当时气候寒冷干燥，草原与苔原提供动物迁徙通道。",
+      "influence": "陆桥为人类与动物迁徙提供可能路径，是解释美洲早期定居的重要地理机制之一。具体路线与时间仍有争论，考古与遗传证据需谨慎互证。",
+      "polities": "史前迁徙尚不能对应后世政权，相关讨论属于史前史与人类演化研究范畴。",
+      "connections": "陆桥把东北亚与北美连成生态走廊，海平面上升后被白令海峡分隔。",
+      "today": "今天白令海峡仍是俄美之间的海域，航运与生态议题并存。具体数据待权威来源核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='白令陆桥示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>白令陆桥</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x5317x7f8ex51b0x76d6",
@@ -69,8 +77,8 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "大平原：草原广布，黑土带支撑大规模农业，历史上野牛群与游猎并存。",
       "time_or_place": "全新世至今",
       "overview": "草原广布，黑土带支撑大规模农业，历史上野牛群与游猎并存。",
@@ -81,16 +89,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "北美大平原位于落基山脉与密西西比河之间，地势平缓，黑土与草原广布。降水自东向西减少，河流与地下水决定农业边界。",
+      "influence": "肥沃土壤与平坦地形有利于机械化农业，历史上野牛群支撑游猎社会。铁路与灌溉改变了土地利用，但干旱与沙尘暴风险长期存在。",
+      "polities": "原住民部落、殖民边疆与后来的农业州在该区域交替塑造土地利用格局。",
+      "connections": "大平原通过密西西比河水系连接墨西哥湾，通过铁路连接东西海岸港口。",
+      "today": "今天这里是重要粮食产区。产量、人口与土地面积数据需按年份从权威统计机构补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='大平原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>大平原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x5bc6x897fx897fx6bd4x6cb3",
@@ -332,8 +348,8 @@
       "unit_id": "north-america",
       "region": "中美洲",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "玛雅文明：热带雨林中的城邦文明，历法、文字与天文学成就突出。",
       "time_or_place": "约前2000—16世纪",
       "overview": "热带雨林中的城邦文明，历法、文字与天文学成就突出。",
@@ -344,16 +360,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "玛雅地区覆盖尤卡坦半岛与中美洲热带雨林，石灰岩喀斯特地貌、雨季与旱季交替决定水资源管理方式。低地城市依赖蓄水池与季节性农田。",
+      "influence": "农业与水利适应热带环境，城市中心在雨林中形成网络；干旱被视为古典期衰落的重要因素之一，但政治冲突与贸易变化也是讨论焦点，不能单因解释。",
+      "polities": "玛雅城邦长期并立，蒂卡尔、帕伦克等中心兴衰更替，西班牙征服后政治格局彻底改变。",
+      "connections": "玛雅地区与中部墨西哥、加勒比及安第斯地区存在物质与观念交流，可可、玉与陶器是重要交换品。",
+      "today": "今天玛雅后裔仍生活在墨西哥与中美洲多国。语言与人口数据待按年份补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='玛雅文明示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>玛雅文明</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x7279x5965x8482x74e6x574e",

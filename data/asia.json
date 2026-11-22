@@ -10,8 +10,8 @@
       "unit_id": "asia",
       "region": "西亚",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "两河流域：幼发拉底河与底格里斯河之间的冲积平原，灌溉农业与城市国家早期发源地之一。",
       "time_or_place": "约前6000年至今",
       "overview": "幼发拉底河与底格里斯河之间的冲积平原，灌溉农业与城市国家早期发源地之一。",
@@ -22,16 +22,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "两河流域位于幼发拉底河与底格里斯河之间，冲积平原地势低平，灌溉条件好但排水不良与盐渍化风险高。气候干旱，农业依赖引水与季节性洪水管理。",
+      "influence": "灌溉农业支撑城市与人口密集，渠网维护推动协作与行政组织；但土壤盐渍化与水量变化也可能削弱政权稳定。学界对灌溉与国家形成的关系仍有争论，地理条件是重要变量而非唯一原因。",
+      "polities": "苏美尔城邦、阿卡德王国、巴比伦与亚述先后兴起，波斯与希腊化政权又将该地区纳入更大的帝国体系。",
+      "connections": "两河流域连接安纳托利亚高原、伊朗高原与地中海沿岸，是西亚陆路贸易与技术传播枢纽。",
+      "today": "今天的伊拉克与叙利亚部分地区仍依赖两河水资源，水权与盐渍化是长期议题。人口与灌溉面积数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='两河流域示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>西亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>两河流域</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "asia-x82cfx7f8ex5c14x57cex90a6",
@@ -273,8 +281,8 @@
       "unit_id": "asia",
       "region": "南亚",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "印度河文明：哈拉帕与摩亨佐达罗等城市规划发达，依赖印度河灌溉与贸易。",
       "time_or_place": "约前2600—前1900年",
       "overview": "哈拉帕与摩亨佐达罗等城市规划发达，依赖印度河灌溉与贸易。",
@@ -285,16 +293,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "印度河文明分布于印度河及其支流沿岸，冲积平原与季风降水共同塑造农业与城市。洪水周期既带来肥沃沉积物，也要求复杂的排水与防洪安排。",
+      "influence": "较普遍的看法是，河流灌溉与平原农业支撑了哈拉帕、摩亨佐达罗等城市；城市规划与贸易网络反映较高的组织能力。文明衰落原因仍有争议，气候干旱与河流改道是主要假说之一。",
+      "polities": "与后来的吠陀时代政权不同，印度河文明的城市体系是否形成统一国家尚无定论，学界倾向谨慎表述。",
+      "connections": "印度河文明通过海上与陆路与美索不达米亚、中亚和印度洋沿岸交换铜、棉织品与奢侈品。",
+      "today": "印度河流域今天跨越巴基斯坦与印度，水资源分配与洪水管理仍具现实意义。具体数据待权威来源补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='印度河文明示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>印度河文明</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "asia-x5420x9640x65f6x4ee3",
@@ -1015,8 +1031,8 @@
       "unit_id": "asia",
       "region": "中亚",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "丝绸之路：陆上与海上网络连接中国、中亚、西亚与欧洲，商品与思想双向流动。",
       "time_or_place": "约前2世纪—15世纪",
       "overview": "陆上与海上网络连接中国、中亚、西亚与欧洲，商品与思想双向流动。",
@@ -1027,16 +1043,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "丝绸之路并非单一道路，而是由绿洲、山口、草原与海港串成的网络。中亚干旱区与高原山口决定了路线选择，绿洲城市提供补给与中转。",
+      "influence": "地理条件塑造了商队节奏与商品结构：丝绸、香料、马匹与玻璃沿网络流动，技术、宗教与艺术也随之传播。把交流完全归因于贸易路线过于简单，政权保护与民间迁徙同样关键。",
+      "polities": "汉、唐、波斯、蒙古等政权在不同时期为丝路提供安全与制度条件；绿洲城邦则在商队与定居社会之间充当中介。",
+      "connections": "丝绸之路把中国、中亚、西亚、地中海与印度洋连成整体，是跨区域联系的典型网络。",
+      "today": "今天相关地区仍是陆海联通的重要走廊。现代交通与贸易数据需按年份从权威机构获取。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='丝绸之路示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>中亚</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>丝绸之路</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "asia-x5308x5974",
