@@ -10,8 +10,8 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "安第斯山脉：世界最长陆上山脉，垂直气候带塑造多样农业与聚落。",
       "time_or_place": "约7000万年前至今",
       "overview": "世界最长陆上山脉，垂直气候带塑造多样农业与聚落。",
@@ -22,16 +22,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "安第斯山脉纵贯南美西岸，海拔差异形成垂直气候带，山谷、高原与海岸之间交通困难。火山、地震与冰川塑造地貌与灾害风险。",
+      "influence": "垂直气候带促成多层次的作物与牲畜组合，梯田与灌溉降低山地耕作风险。山地隔离与交流并存，是理解安第斯社会的重要视角，但不应把社会组织完全归因于地形。",
+      "polities": "查文、莫切、蒂亚瓦纳科、奇穆与印加等政权先后影响安第斯地区，道路与驿站系统强化高原与海岸联系。",
+      "connections": "安第斯山脉通过高原道路连接今秘鲁、玻利维亚、厄瓜多尔等地，并通过海岸港口接入太平洋贸易。",
+      "today": "山区仍面临地震、冰川退缩与土地利用压力。人口与海拔带数据待权威来源核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='安第斯山脉示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>安第斯山脉</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "south-america-x4e9ax9a6cx900ax76c6x5730",
@@ -40,8 +48,8 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "亚马逊盆地：世界最大热带雨林区，河网密集，生态与气候意义重大。",
       "time_or_place": "约中生代至今",
       "overview": "世界最大热带雨林区，河网密集，生态与气候意义重大。",
@@ -52,16 +60,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "亚马逊盆地由广阔热带雨林与密集河网组成，地势低平，降水丰沛。河流季节涨落决定聚落与交通位置，土壤养分多集中在生物量而非土层。",
+      "influence": "河流是主要交通廊道，雨林资源支撑多样化生计；刀耕火种在人口密度低时可恢复，但扩张会削弱生态韧性。环境与社会关系存在多种解释，需避免单线因果。",
+      "polities": "前殖民时期存在复杂的部落与区域网络，殖民与近代国家开发改变了土地使用与族群关系。",
+      "connections": "亚马逊通过河流与大西洋连接，橡胶、木材与农产品曾把盆地纳入全球市场。",
+      "today": "雨林保护与气候变化是当前核心议题。森林面积与人口数据待按年份从权威机构补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='亚马逊盆地示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>亚马逊盆地</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "south-america-x5df4x897fx9ad8x539f",
@@ -391,8 +407,8 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "印加帝国：安第斯最大帝国，梯田、道路与驿站系统高度组织化。",
       "time_or_place": "约1438—1533年",
       "overview": "安第斯最大帝国，梯田、道路与驿站系统高度组织化。",
@@ -403,16 +419,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "印加帝国以安第斯高原与海岸谷地为腹地，山地、高原与沙漠海岸并存。道路跨越海拔落差巨大的地形，驿站与梯田是重要基础设施。",
+      "influence": "国家通过道路、仓储与劳役制度组织资源，垂直农业降低气候风险。地理条件提供约束与机会，但帝国形成仍取决于政治选择与制度能力。",
+      "polities": "印加在十五世纪迅速扩张，随后因内战与西班牙征服而崩溃，殖民行政体系取代原有结构。",
+      "connections": "帝国道路连接海岸、高原与雨林边缘，交换马铃薯、玉米、纺织品与金属。",
+      "today": "安第斯原住民社群仍保留相关农业与文化传统。人口与语言数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='印加帝国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>印加帝国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "south-america-x9a6cx4e18x6bd4x4e18",

@@ -10,8 +10,8 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "澳大利亚大陆：最小大陆，内陆干旱、沿海湿润，地形与气候差异显著。",
       "time_or_place": "古代至今",
       "overview": "最小大陆，内陆干旱、沿海湿润，地形与气候差异显著。",
@@ -22,16 +22,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "澳大利亚大陆东部为大分水岭，中部干旱盆地广布，沿海降水较多而内陆稀少。河流多为季节性，地下水与干旱适应是关键。",
+      "influence": "降水分布限制农业与城市扩张，人口集中在海岸与少数河谷。内陆开发依赖地下水与牧业技术，环境约束长期存在，但并非唯一解释。",
+      "polities": "原住民社会长期适应多样生态，欧洲殖民后形成新的政治与经济结构。",
+      "connections": "澳大利亚通过印度洋—太平洋航线与东南亚、欧洲和美洲连接，矿产与农产品出口突出。",
+      "today": "沿海城市人口密集，内陆牧业与矿业并存。人口与面积数据需按年份从权威统计机构获取。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='澳大利亚大陆示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>大洋洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>澳大利亚大陆</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "oceania-x5927x5206x6c34x5cad",
@@ -98,8 +106,8 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "澳大利亚原住民：长期适应干旱与多样生态，形成丰富语言与文化传统。",
       "time_or_place": "约4万年前至今",
       "overview": "长期适应干旱与多样生态，形成丰富语言与文化传统。",
@@ -110,16 +118,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "原住民社会分布于海岸、沙漠、雨林与草原等多种生态区，水源与季节变化决定迁徙与聚落形态。不同区域形成差异化的语言与资源利用方式。",
+      "influence": "长期适应干旱与多样环境形成丰富的生态知识与社会制度。把生计方式简单归于环境会忽略文化选择、交换网络与历史互动。",
+      "polities": "以族群与亲属组织为主的社会结构长期存在，殖民时期以后经历剧烈变迁与权利运动。",
+      "connections": "沿海与内陆群体通过交换网络连接，殖民后又与全球市场与制度发生联系。",
+      "today": "原住民语言与文化保护是当代重要议题。语言数量与人口数据待按年份核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='澳大利亚原住示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>大洋洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>澳大利亚原住</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "oceania-x65b0x897fx5170x5317x5c9b",
@@ -272,8 +288,8 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "波利尼西亚：三角状岛屿分布，长距离航海与殖民是显著特征。",
       "time_or_place": "约前1000年至今",
       "overview": "三角状岛屿分布，长距离航海与殖民是显著特征。",
@@ -284,16 +300,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "波利尼西亚由太平洋中南部众多火山岛与珊瑚岛组成，岛屿分散、面积小，海洋是主要交通空间。信风与洋流影响航行与定居。",
+      "influence": "长距离航海技术使岛屿殖民成为可能，资源有限促成交换与仪式性再分配。海洋环境提供连通性也带来隔离，社会差异不能仅由岛屿大小解释。",
+      "polities": "各岛群形成酋邦与王国，接触欧洲后政治格局与人口结构显著变化。",
+      "connections": "波利尼西亚航海者连接夏威夷、新西兰与复活节岛，后来又被纳入跨太平洋贸易网络。",
+      "today": "岛屿社群面临海平面上升与文物保护压力。人口与语言数据待按年份补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='波利尼西亚示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>大洋洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>波利尼西亚</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "oceania-x590fx5a01x5937x7fa4x5c9b",

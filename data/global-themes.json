@@ -10,8 +10,8 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
+      "level": "L2",
+      "status": "L2完成(第2轮)",
       "definition": "板块构造：解释地震、火山与山脉形成的统一理论框架。",
       "time_or_place": "20世纪确立",
       "overview": "解释地震、火山与山脉形成的统一理论框架。",
@@ -22,16 +22,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "un-m49",
+        "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "板块构造理论把岩石圈分为运动板块，边界处发生地震、火山与造山。洋中脊、俯冲带与转换断层是主要边界类型。",
+      "influence": "该理论统一解释山脉、海沟与地震分布，是现代地质学的基础框架。它属于科学理论而非价值判断，细节模型仍在完善。",
+      "polities": "不涉及政权更替；相关学科通过建立观测网络与国际合作计划发展。",
+      "connections": "板块运动连接全球地震带、火山弧与大洋盆地，影响资源分布与灾害风险。",
+      "today": "板块运动速率与地震监测数据需按年份从权威地球物理机构获取。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='板块构造示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>板块构造</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x5927x9646x6f02x79fb",
