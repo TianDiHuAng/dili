@@ -40,7 +40,7 @@
       "influence": "较普遍的解释是，干旱限制连续耕作，绿洲与商路节点因而成为人口与聚落集中区。沙漠既阻隔也连接：它分隔南北，却也通过跨撒哈拉商路把西非黄金与地中海市场联系起来。这是影响机制的一种分析，不是环境决定论。",
       "polities": "跨越撒哈拉的商路使绿洲与沿海区域长期保持互动，政权更替与商路走向、绿洲分布相关；具体政权名称、年代与疆域待专门史料核验。",
       "connections": "穿越撒哈拉的商路连接马格里布、尼罗河谷与西非，交换黄金、盐、纺织品与知识；红海与地中海航线又把它接入更广阔的贸易网络。",
-      "today": "以阿尔及利亚与埃及为例，来源：世界银行 API。阿尔及利亚 总人口 47,435,312（2025年）（SP.POP.TOTL）、城市化率 75.8%（2025年）（SP.URB.TOTL.IN.ZS）；埃及 总人口 118,365,995（2025年）（SP.POP.TOTL）、城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）。沙哈拉腹地人口稀少，两国人口集中于沿海与河谷；沙漠区内人口与绿洲面积数据待遥感与专门统计核验。",
+      "today": "以阿尔及利亚与埃及为例，来源：世界银行 API。阿尔及利亚 总人口 47,435,312 人（2025年）（SP.POP.TOTL）、城市化率 75.8%（2025年）（SP.URB.TOTL.IN.ZS）；埃及 总人口 118,365,995 人（2025年）（SP.POP.TOTL）、城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）。撒哈拉腹地人口稀少，两国人口集中于沿海与河谷；沙漠区内人口与绿洲面积数据待遥感与专门统计核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='撒哈拉沙漠示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>撒哈拉沙漠</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -81,7 +81,7 @@
       "influence": "学界较普遍的看法是，尼罗河季节性泛滥带来的肥沃淤泥与可预测的耕作周期，降低了早期定居农业的风险，支撑人口密集与剩余产品积累，进而有利于国家组织与大型工程。需要强调的是，这是地理条件影响社会发展的一种解释方式，不是地理决定论式定论；灌溉管理到底是原因还是结果，学界仍有讨论。",
       "polities": "早王朝与古王国以孟菲斯为中心，中王国与新王国先后兴起，底比斯成为南部宗教与政治重心；其后努比亚、托勒密与罗马时期延续了对河谷与三角洲的控制。政权更替与尼罗河运输、灌溉和粮税体系密切相关。",
       "connections": "尼罗河谷通过三角洲与地中海世界相连，通过上游努比亚与中非的黄金、象牙贸易通道相接，并经红海与西奈通向西亚。交流内容包括石材、金属、粮食、宗教观念与工艺技术。",
-      "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995（2025年）（SP.POP.TOTL）、城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。河谷与三角洲仍是人口与农业最密集的区域，具体流域内分布数据需专门统计源核验。",
+      "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995 人（2025年）（SP.POP.TOTL）、城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。河谷与三角洲仍是人口与农业最密集的区域，具体流域内分布数据需专门统计源核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='尼罗河谷示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 90 C 170 70 260 110 340 150 C 430 195 500 240 560 300 C 600 335 650 350 700 350' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='6 5'/>\n<path d='M300 45 C 310 110 330 160 340 210 C 350 260 360 300 365 352' fill='none' stroke='var(--accent)' stroke-width='6'/>\n<path d='M365 352 L 340 382 M365 352 L 390 382 M365 352 L 365 385' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='345' cy='205' r='6' class='pt'/><text x='360' y='210' class='lbl'>底比斯</text>\n<circle cx='360' cy='300' r='6' class='pt'/><text x='375' y='305' class='lbl'>孟菲斯</text>\n<circle cx='365' cy='365' r='5' class='pt'/><text x='380' y='370' class='lbl'>三角洲</text>\n<text x='55' y='60' class='lbl'>撒哈拉</text><text x='600' y='70' class='lbl'>红海</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -352,7 +352,7 @@
       "influence": "农业剩余与水运便利有利于权力集中，但国家形成还涉及制度、战争与交换，不能简化为河流决定论。",
       "polities": "Livius 的 Egypt 分类页提供早期王朝条目入口，可用于后续核对王表；本站在此不写具体王名与年代。",
       "connections": "上下埃及通过尼罗河连成整体，并通过三角洲与地中海、通过红海与西亚发生联系。",
-      "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995（2025年）（SP.POP.TOTL）、城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。早期王朝时期的遗址保护与考古研究现状需专门来源核验。",
+      "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995 人（2025年）（SP.POP.TOTL）、城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。早期王朝时期的遗址保护与考古研究现状需专门来源核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古埃及早王朝示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古埃及早王朝</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -391,7 +391,7 @@
       "influence": "尼罗河农业与运输为国家组织提供物质基础，但国家形成还取决于制度、军事与贸易，不能把政治形态简化为河流产物。",
       "polities": "Livius 的 Egypt 分类页列出该时期相关王朝条目，可作为进一步核对王表与年表的入口；本站不在 L2 骨架中断言具体年代。",
       "connections": "通过尼罗河与三角洲连接上埃及、下埃及和地中海沿岸，并通过红海与西亚保持交流。",
-      "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995（2025年）（SP.POP.TOTL）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。金字塔区遗址保护与游客数据待专门来源核验。",
+      "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995 人（2025年）（SP.POP.TOTL）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。金字塔区遗址保护与游客数据待专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古埃及古王国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古埃及古王国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -518,7 +518,7 @@
       "influence": "港口位置与航海能力支撑贸易网络，但商业发展也与制度、技术和区域竞争有关，不能只由海岸线解释。",
       "polities": "Livius 的 Punic Carthage 专题页提供布匿城邦入口，可用于核对政权与战争史；本站不写具体战役年代。",
       "connections": "迦太基连接西地中海、北非内陆与伊比利亚，交换金属、陶器、橄榄油与纺织品。",
-      "today": "以突尼斯为例，来源：世界银行 API。总人口 12,348,573（2025年）（SP.POP.TOTL）、城市化率 70.7%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 76.7 岁（2024年）（SP.DYN.LE00.IN）。迦太基遗址位于今突尼斯境内，遗产保护与游客数据待核验。",
+      "today": "以突尼斯为例，来源：世界银行 API。总人口 12,348,573 人（2025年）（SP.POP.TOTL）、城市化率 70.7%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 76.7 岁（2024年）（SP.DYN.LE00.IN）。迦太基遗址位于今突尼斯境内，遗产保护与游客数据待核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='迦太基示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>迦太基</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
@@ -772,7 +772,7 @@
       "influence": "季风航行把城邦连接成贸易网络，港口位置决定商业优势。印度洋贸易是重要条件，但本地政治制度与跨文化社群同样关键。",
       "polities": "海岸城邦依托港湾与季风航道形成贸易网络，外来势力介入改变区域格局；具体城邦名单与年代待专门史料核验。",
       "connections": "该海岸连接阿拉伯、波斯、印度与东非内陆，交换黄金、象牙、香料与陶器，并促成斯瓦希里语发展。",
-      "today": "以坦桑尼亚与肯尼亚为例，来源：世界银行 API。坦桑尼亚总人口 70,545,865（2025年）（SP.POP.TOTL）、城市化率 36.9%（2025年）（SP.URB.TOTL.IN.ZS）；肯尼亚总人口 57,532,493（2025年）、城市化率 32.2%（2025年）。东非海岸港口吞吐与城市人口数据需专门来源核验。",
+      "today": "以坦桑尼亚与肯尼亚为例，来源：世界银行 API。坦桑尼亚总人口 70,545,865 人（2025年）（SP.POP.TOTL）、城市化率 36.9%（2025年）（SP.URB.TOTL.IN.ZS）；肯尼亚总人口 57,532,493 人（2025年）、城市化率 32.2%（2025年）。东非海岸港口吞吐与城市人口数据需专门来源核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='斯瓦希里海岸示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>斯瓦希里海岸</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {

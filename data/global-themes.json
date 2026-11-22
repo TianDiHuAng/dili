@@ -11,7 +11,7 @@
       "region": "全球",
       "theme": "地形",
       "level": "L2",
-      "status": "已复核(第27轮·实证)",
+      "status": "L2·配对说明(第22轮)·已复核(第27轮)",
       "definition": "板块构造：把岩石圈划分为运动板块的理论，用以解释地震、火山与造山的分布。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "把岩石圈划分为运动板块的理论，用以解释地震、火山与造山的分布。",
@@ -26,7 +26,7 @@
         "usgs-eq-api"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。 【第24轮数据端点】新增 usgs-eq-api（USGS 地震目录 API 提供事件时刻与震级字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第27轮实证复核·板块构造】本条正则 plate tectonic；usgs-plate-motions=200/正文17121字符/本条命中1；usgs-dynamic-earth=200/正文2123字符/本条命中1。D055 判定：未达标（最高命中1、最高正文17121字符；门槛8000）；缺口为「板块构造」主题专题页。",
+      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。 【第24轮数据端点】新增 usgs-eq-api（USGS 地震目录 API 提供事件时刻与震级字段），用于按年份核对数值口径；本条正文未写入具体数值。  【第27轮实证复核·板块构造】本条正则 plate tectonic（英文源用英文正则，D070）；usgs-plate-motions=200/正文17121字符/本条命中1；usgs-dynamic-earth=200/正文2123字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文17121、命中1）。缺口为「板块构造」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -333,7 +333,7 @@
         "s013-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第27轮实证复核·游牧】本条正则 nomad；s018-fao-org=200/正文4707字符/本条命中0；s077-ourworldindata-org=200/正文15652字符/本条命中0。D055 判定：未达标（最高命中0、最高正文15652字符；门槛8000）；缺口为「游牧」主题专题页。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。  【第27轮实证复核·游牧】本条正则 nomad（英文源用英文正则，D070）；s018-fao-org=200/正文4707字符/本条命中0；s077-ourworldindata-org=200/正文15652字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文15652、命中0）。缺口为「游牧」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -398,7 +398,7 @@
         "s004-population-un-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页 owid-migration 正文含 migration/migrant 关键词，支撑迁移流与存量概述；s004 为 UN 人口司 WPP 机构页（首页为 JS 壳，无正文，仅作机构入口）。theme 受现有枚举限制标为「区域」，实指人口/迁移维度；数值待按年份核验。 【第27轮实证复核·人口迁移】本条正则 人口迁移；owid-migration=200/正文31570字符/本条命中0；s004-population-un-org=200/正文26字符/本条命中0。D055 判定：未达标（最高命中0、最高正文31570字符；门槛8000）；缺口为「人口迁移」主题专题页。",
+      "pending_notes": "第15轮按 D041 升级：专题页 owid-migration 正文含 migration/migrant 关键词，支撑迁移流与存量概述；s004 为 UN 人口司 WPP 机构页（首页为 JS 壳，无正文，仅作机构入口）。theme 受现有枚举限制标为「区域」，实指人口/迁移维度；数值待按年份核验。  【第27轮实证复核·人口迁移】本条正则 migration|migrant（英文源用英文正则，D070）；owid-migration=200/正文31570字符/本条命中159；s004-population-un-org=200/正文26字符/本条命中0。档位判定：档①5000（owid-migration 含 Migration）。D055 判定：达标（档①5000 门槛5000：正文31570≥5000、命中159）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -432,7 +432,7 @@
         "s026-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（noaa-phenology 标题即主题，剥离后 10512 字符、spring|plant|phenolog 命中 26）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「传粉者/植食者错配」「生态系统碳交换」等无源断言（NOAA 页 pollinat/insect/mismatch/carbon 命中均为 0），改为正文可支撑的同步性与农事时序。 D053：第二源 s026（OWID Climate Change）正文 phenolog/plant 命中 0，不构成独立依据。 【第27轮实证复核·植物物候变化】本条正则 phenolog；noaa-phenology=200/正文10510字符/本条命中2；s026-ourworldindata-org=200/正文7460字符/本条命中0。D055 判定：未达标（最高命中2、最高正文10510字符；门槛8000）；缺口为「植物物候变化」主题专题页。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（noaa-phenology 标题即主题，剥离后 10512 字符、spring|plant|phenolog 命中 26）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「传粉者/植食者错配」「生态系统碳交换」等无源断言（NOAA 页 pollinat/insect/mismatch/carbon 命中均为 0），改为正文可支撑的同步性与农事时序。 D053：第二源 s026（OWID Climate Change）正文 phenolog/plant 命中 0，不构成独立依据。  【第27轮实证复核·植物物候变化】本条正则 phenolog|spring（英文源用英文正则，D070）；noaa-phenology=200/正文10510字符/本条命中22；s026-ourworldindata-org=200/正文7460字符/本条命中1。档位判定：档②8000（noaa-phenology 含 spring plant）。D055 判定：达标（档②8000 门槛8000：正文10510≥8000、命中22）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
@@ -466,7 +466,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（nasa-arctic-fire 标题即主题，剥离后 16957 字符、fire|arctic 命中 87）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「改变地表反照率并形成正反馈」「烟雾与碳输送到中纬度」等无源断言（albedo/feedback 命中为 0，smoke 仅健康风险语境），改为正文可支撑的富碳土层燃烧、水文改变、融雪加速与烟雾健康风险。 【第27轮实证复核·北极火情变化】本条正则 arctic fire；nasa-arctic-fire=200/正文16955字符/本条命中3；s039-climate-nasa-gov=200/正文10544字符/本条命中0。D055 判定：达标（可作升级候选）；缺口为「北极火情变化」主题专题页。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（nasa-arctic-fire 标题即主题，剥离后 16957 字符、fire|arctic 命中 87）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「改变地表反照率并形成正反馈」「烟雾与碳输送到中纬度」等无源断言（albedo/feedback 命中为 0，smoke 仅健康风险语境），改为正文可支撑的富碳土层燃烧、水文改变、融雪加速与烟雾健康风险。  【第27轮实证复核·北极火情变化】本条正则 arctic fire|fire regime（英文源用英文正则，D070）；nasa-arctic-fire=200/正文16955字符/本条命中7；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档②8000（nasa-arctic-fire 含 Arctic Fire）。D055 判定：达标（档②8000 门槛8000：正文16955≥8000、命中7）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
@@ -500,7 +500,7 @@
         "ogc-standards"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（esri-gis 标题即主题（What is GIS?），剥离后 5006 字符、gis|geographic information 命中 39（D055 放宽档））；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】geo 已改为来源页实有表述（把位置数据与描述信息连到地图、空间分析与制图），删「叠加分析/缓冲区/网络分析」等无源列举；修正 time_or_place 错字。 D053：第二源 ogc-standards 剥离后正文仅约 73 字符（内容在 script/nav 内），不构成独立依据。 【第27轮实证复核·地理信息系统】本条正则 地理信息；esri-gis=200/正文5004字符/本条命中0；ogc-standards=200/正文73字符/本条命中0。D055 判定：未达标（最高命中0、最高正文5004字符；门槛8000）；缺口为「地理信息系统」主题专题页。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（esri-gis 标题即主题（What is GIS?），剥离后 5006 字符、gis|geographic information 命中 39（D055 放宽档））；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】geo 已改为来源页实有表述（把位置数据与描述信息连到地图、空间分析与制图），删「叠加分析/缓冲区/网络分析」等无源列举；修正 time_or_place 错字。 D053：第二源 ogc-standards 剥离后正文仅约 73 字符（内容在 script/nav 内），不构成独立依据。  【第27轮实证复核·地理信息系统】本条正则 gis|geographic information（英文源用英文正则，D070）；esri-gis=200/正文5004字符/本条命中39；ogc-standards=200/正文73字符/本条命中0。档位判定：档①5000（esri-gis（What is GIS?）含 GIS）。D055 判定：达标（档①5000 门槛5000：正文5004≥5000、命中39）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
@@ -536,7 +536,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。 【第27轮实证复核·人口地理】本条正则 人口地理；s023-ourworldindata-org=200/正文13570字符/本条命中0；s004-population-un-org=200/正文26字符/本条命中0。D055 判定：未达标（最高命中0、最高正文13570字符；门槛8000）；缺口为「人口地理」主题专题页。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。  【第27轮实证复核·人口地理】本条正则 population（英文源用英文正则，D070）；s023-ourworldindata-org=200/正文13570字符/本条命中95；s004-population-un-org=200/正文26字符/本条命中1。档位判定：档①5000（s023 Population Growth 含 population）。D055 判定：达标（档①5000 门槛5000：正文13570≥5000、命中95）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
@@ -546,7 +546,7 @@
       "influence": "人口增长与分布变化通过劳动力供给、消费结构与迁移流向影响区域发展；生育率、死亡率与迁移共同决定结构变化。人口现象需结合社会经济条件理解，不宜归因于单一因素。",
       "polities": "本条不展开政权序列；人口治理涉及户籍、移民与公共服务等制度安排，具体制度待专门资料核验。",
       "connections": "人口迁移把来源地与目的地连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
-      "today": "来源：世界银行 API。总人口（指标 SP.POP.TOTL）：印度 1,463,865,525（2025年）、中国 1,406,585,000（2025年）、美国 341,784,857（2025年）、尼日利亚 237,527,782（2025年）、巴西 212,812,405（2025年）、墨西哥 131,946,900（2025年）、埃及 118,365,995（2025年）。数据按世界银行口径，可能与各国普查结果略有差异。",
+      "today": "来源：世界银行 API。总人口（指标 SP.POP.TOTL）：印度 1,463,865,525（2025年）、中国 1,406,585,000（2025年）、美国 341,784,857（2025年）、尼日利亚 237,527,782（2025年）、巴西 212,812,405（2025年）、墨西哥 131,946,900（2025年）、埃及 118,365,995（2025年）。数据按世界银行口径，可能与各国普查结果略有差异。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><circle cx='120' cy='200' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='225' cy='245' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='330' cy='290' r='30' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='435' cy='200' r='36' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='540' cy='245' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='645' cy='290' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='40' y='360' class='dim'>人口地理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -569,7 +569,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s025 剥离后正文 37507 字符、urban 命中 127）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第27轮实证复核·城市地理】本条正则 城市地理；s025-ourworldindata-org=200/正文37505字符/本条命中0；s075-aag-org=200/正文8575字符/本条命中0。D055 判定：未达标（最高命中0、最高正文37505字符；门槛8000）；缺口为「城市地理」主题专题页。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s025 剥离后正文 37507 字符、urban 命中 127）；五段仅写来源可支撑的概述，具体年代/数值待核。  【第27轮实证复核·城市地理】本条正则 urban（英文源用英文正则，D070）；s025-ourworldindata-org=200/正文37505字符/本条命中127；s075-aag-org=200/正文8575字符/本条命中0。档位判定：档①5000（s025 Urbanization 含 urban）。D055 判定：达标（档①5000 门槛5000：正文37505≥5000、命中127）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
@@ -1150,7 +1150,7 @@
         "UN/FAO/World Bank/NASA 机构页"
       ],
       "last_update": "2026-11-22",
-      "today": "来源：世界银行 API。城市人口占比（指标 SP.URB.TOTL.IN.ZS）：中国 66.3%（2025年）、印度 35.7%（2025年）、巴西 88.2%（2025年）、墨西哥 80.0%（2025年）、埃及 42.9%（2025年）、尼日利亚 63.8%（2025年）、美国 80.2%（2025年）。各国统计口径与年份不完全一致，跨国比较需注意定义差异。"
+      "today": "来源：世界银行 API。城市人口占比（指标 SP.URB.TOTL.IN.ZS）：中国 66.3%（2025年）、印度 35.7%（2025年）、巴西 88.2%（2025年）、墨西哥 80.0%（2025年）、埃及 42.9%（2025年）、尼日利亚 63.8%（2025年）、美国 80.2%（2025年）。各国统计口径与年份不完全一致，跨国比较需注意定义差异。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x53d8x5316",
@@ -2011,7 +2011,7 @@
         "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22",
-      "today": "以代表性国家为例，来源：世界银行 API。巴西城市化率 88.2%（2025年）（SP.URB.TOTL.IN.ZS）、墨西哥 80.0%（2025年）（同指标）；巴西总人口 212,812,405（2025年）（SP.POP.TOTL）、墨西哥 131,946,900（2025年）；巴西森林覆盖率 58.5%（2024年）（AG.LND.FRST.ZS）。区域内部差异大，本数据仅示量级，不代表区域整体。"
+      "today": "以代表性国家为例，来源：世界银行 API。巴西城市化率 88.2%（2025年）（SP.URB.TOTL.IN.ZS）、墨西哥 80.0%（2025年）（同指标）；巴西总人口 212,812,405 人（2025年）（SP.POP.TOTL）、墨西哥 131,946,900（2025年）；巴西森林覆盖率 58.5%（2024年）（AG.LND.FRST.ZS）。区域内部差异大，本数据仅示量级，不代表区域整体。"
     },
     {
       "id": "global-themes-x4e2dx4e1cx4e0ex5317x975ex533ax57dfx53d1x5c55",
@@ -2042,7 +2042,7 @@
         "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22",
-      "today": "以埃及为例，来源：世界银行 API。城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 118,365,995（2025年）（SP.POP.TOTL）、农业增加值占 GDP 16.6%（2025年）（NV.AGR.TOTL.ZS）。区域内产油国与进口国差异显著，不宜以单一国家代表全域。"
+      "today": "以埃及为例，来源：世界银行 API。城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 118,365,995 人（2025年）（SP.POP.TOTL）、农业增加值占 GDP 16.6%（2025年）（NV.AGR.TOTL.ZS）。区域内产油国与进口国差异显著，不宜以单一国家代表全域。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。"
     },
     {
       "id": "global-themes-x5357x4e9ax533ax57dfx53d1x5c55",
@@ -2072,7 +2072,7 @@
         "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22",
-      "today": "以印度为例，来源：世界银行 API。城市化率 35.7%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 1,463,865,525（2025年）（SP.POP.TOTL）、森林覆盖率 24.4%（2024年）（AG.LND.FRST.ZS）。南亚各国差异大，本数据仅示量级。"
+      "today": "以印度为例，来源：世界银行 API。城市化率 35.7%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 1,463,865,525 人（2025年）（SP.POP.TOTL）、森林覆盖率 24.4%（2024年）（AG.LND.FRST.ZS）。南亚各国差异大，本数据仅示量级。"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x8dddx5e73",
