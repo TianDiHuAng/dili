@@ -49,7 +49,7 @@
       "region": "北美洲",
       "theme": "地形",
       "level": "L1",
-      "status": "二次返工降级L1(第15轮)",
+      "status": "已复核(第16轮)",
       "definition": "北美冰盖：地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "地质历史时期覆盖北美北部的巨大冰体，对当地地形与水系留下深远影响。",
@@ -60,10 +60,11 @@
       ],
       "sources": [
         "s038-earthobservatory-nasa-gov",
-        "s056-earthquake-usgs-gov"
+        "s056-earthquake-usgs-gov",
+        "s017-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——usgs-glaciers 实为 PDF 下载门落户（正文仅冰川定义），nps-grand-canyon-geology 为大峡谷地层页（冰川关键词 0），属跨条目凑数；geo 的「侵蚀基岩/冰碛/冰川湖/覆盖北美北部」无源。已降级 L1。待含 Laurentide / continental ice sheet 正文的专题页到位后再升级。",
+      "pending_notes": "第16轮复核：北美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -432,7 +433,7 @@
       "region": "中美洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第14轮)",
+      "status": "已复核(第16轮)",
       "definition": "特奥蒂瓦坎：墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
       "time_or_place": "约1—7世纪",
       "overview": "墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
@@ -448,7 +449,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮复核：中美洲×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -492,7 +493,7 @@
       "region": "北美洲",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第14轮)",
+      "status": "已复核(第16轮)",
       "definition": "北美原住民：多生态区适应形成多样社会，农业、狩猎与采集并存。",
       "time_or_place": "古代至今",
       "overview": "多生态区适应形成多样社会，农业、狩猎与采集并存。",
@@ -508,7 +509,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮复核：北美洲×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第16轮复核：北美洲×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -617,7 +618,7 @@
       "region": "北美洲",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第14轮)",
+      "status": "已复核(第16轮)",
       "definition": "十三殖民地：大西洋沿岸英国殖民地，后成为美国建国基础。",
       "time_or_place": "17—18世纪",
       "overview": "大西洋沿岸英国殖民地，后成为美国建国基础。",
@@ -629,10 +630,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s011-unesco-org"
+        "s011-unesco-org",
+        "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮复核：北美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -647,7 +649,7 @@
       "region": "北美洲",
       "theme": "农业",
       "level": "L1",
-      "status": "已复核(第14轮)",
+      "status": "已复核(第16轮)",
       "definition": "美国西进：向西部扩张，铁路与移民改变大平原与西部土地利用。",
       "time_or_place": "19世纪",
       "overview": "向西部扩张，铁路与移民改变大平原与西部土地利用。",
@@ -659,10 +661,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s018-fao-org"
+        "s018-fao-org",
+        "s059-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮复核：北美洲×农业；新增背景来源 s018-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -678,7 +681,7 @@
       "region": "中美洲",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第14轮)",
+      "status": "已复核(第16轮)",
       "definition": "加勒比海群岛：岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
       "time_or_place": "古代至今",
       "overview": "岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
@@ -690,10 +693,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s057-databank-worldbank-org"
+        "s057-databank-worldbank-org",
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮复核：中美洲×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

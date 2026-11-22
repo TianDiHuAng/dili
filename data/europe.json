@@ -894,7 +894,7 @@
       "region": "东南欧",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第14轮)",
+      "status": "已复核(第16轮)",
       "definition": "黑海海峡：博斯普鲁斯与达达尼尔海峡连接黑海与地中海，战略与贸易价值高。",
       "time_or_place": "古代至今",
       "overview": "博斯普鲁斯与达达尼尔海峡连接黑海与地中海，战略与贸易价值高。",
@@ -910,7 +910,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮复核：东南欧×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第16轮复核：东南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
