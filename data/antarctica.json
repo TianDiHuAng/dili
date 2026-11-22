@@ -48,11 +48,11 @@
       "unit_id": "antarctica",
       "region": "南极洲",
       "theme": "地形",
-      "level": "L2",
-      "status": "抽检返工完成(第3轮)",
-      "definition": "南极半岛：向北伸出，气温相对温和，科考站密集。",
+      "level": "L1",
+      "status": "二次返工降级L1(第3轮)",
+      "definition": "南极半岛：南极大陆向北伸出的半岛，靠近南美洲。",
       "time_or_place": "南极洲北部（地质年代待核）",
-      "overview": "向北伸出，气温相对温和，科考站密集。",
+      "overview": "南极大陆向北伸出的半岛，靠近南美洲。",
       "related": [
         "antarctica-x5357x6781x5927x9646",
         "antarctica-x6a2ax8d2fx5357x6781x5c71x8109",
@@ -63,18 +63,12 @@
         "s049-ncei-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "返工：已移除约中生代与科考站密集的具体断言；原因表述改为多因素；半岛地质年代与站点数量待专门来源核验。",
+      "pending_notes": "二次返工：移除科考站密集与气温温和表述并降级为 L1；半岛地质与生态专题来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
-      "geo": "南极半岛向北伸出，气温相对温和，海岸与冰架交错。海峡与岛屿使科考船易于接近，降水相对较多。",
-      "influence": "相对可达性使半岛成为科考密集区，区域升温与海洋过程共同影响冰架和生态。人类活动受限，变化原因需结合观测与模型，不作单因解释。",
-      "polities": "南极条约体系下由多国协商管理，科考站分布反映国际合作格局。",
-      "connections": "半岛通过南大洋与南美洲相望，是生态与航运观察的重要区域。",
-      "today": "旅游与科研活动增加，环境保护压力上升。站点与游客数据待按年份核验。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='南极半岛示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南极洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>南极半岛</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "antarctica-x6a2ax8d2fx5357x6781x5c71x8109",

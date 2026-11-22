@@ -2250,6 +2250,19 @@
       "verified": true,
       "page_title": "Home: NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI, USA",
       "note": "curl 实测 HTTP 200；页面标题：Home: NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI, USA；年份未标注。"
+    },
+    {
+      "id": "epa-great-lakes",
+      "title": "The Great Lakes",
+      "author": "US EPA",
+      "year": null,
+      "type": "官方机构",
+      "url": "https://www.epa.gov/greatlakes",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Great Lakes | US EPA",
+      "note": "curl 实测 HTTP 200；页面标题：The Great Lakes | US EPA；年份未标注。"
     }
   ]
 }

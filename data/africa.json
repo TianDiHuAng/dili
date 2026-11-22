@@ -86,11 +86,11 @@
       "unit_id": "africa",
       "region": "东北非",
       "theme": "地形",
-      "level": "L2",
-      "status": "抽检返工完成(第3轮)",
-      "definition": "尼罗河三角洲：尼罗河入地中海处扇形沉积平原，地势低平、水网密布，是埃及人口与农业核心。",
+      "level": "L1",
+      "status": "二次返工降级L1(第3轮)",
+      "definition": "尼罗河三角洲：尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
       "time_or_place": "埃及北部（地貌演化年代待核）",
-      "overview": "尼罗河入地中海处扇形沉积平原，地势低平、水网密布，是埃及人口与农业核心。",
+      "overview": "尼罗河入地中海处的冲积平原，地势低平、水网密布，是埃及重要农业区。",
       "related": [
         "africa-x6492x54c8x62c9x6c99x6f20",
         "africa-x4e1cx975ex5927x88c2x8c37",
@@ -98,22 +98,15 @@
       ],
       "sources": [
         "fao-aquastat-basins",
-        "br-nile",
-        "wk-nile"
+        "br-nile"
       ],
       "needs_verification": true,
-      "pending_notes": "返工：已移除全新世与王朝具体序列；FAO AQUASTAT 流域页支撑水资源背景，三角洲演化年代待专门地貌来源核验。",
+      "pending_notes": "二次返工：专题来源不足，五段深度内容降级为 L1；三角洲演化年代、盐水入侵与海平面风险待专门来源核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
-      "geo": "尼罗河三角洲位于埃及北部，地势低平、河网分流，泥沙沉积形成扇形平原。北缘受地中海波浪与盐水入侵影响，低洼地排水困难。",
-      "influence": "肥沃冲积土与便利灌溉支撑密集农业与城市，三角洲因而长期是埃及经济重心。地势低平也带来洪涝与盐化风险，治理能力影响结果，不能把繁荣单纯归因于河流。",
-      "polities": "历史上多个政权把三角洲与河谷作为经济重心；具体王朝序列需专门史料核验。",
-      "connections": "三角洲通过地中海连接南欧与西亚，通过尼罗河连接非洲内陆，是粮食、石材与思想交流的枢纽。",
-      "today": "今天三角洲面临海平面上升、地面沉降与水资源压力。人口与耕地数据需按年份从权威统计与遥感来源补齐。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='尼罗河三角洲示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>尼罗河三角洲</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "africa-x4e1cx975ex5927x88c2x8c37",

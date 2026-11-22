@@ -211,34 +211,28 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L2",
-      "status": "抽检返工完成(第3轮)",
-      "definition": "五大湖：淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
+      "level": "L1",
+      "status": "二次返工降级L1(第3轮)",
+      "definition": "五大湖：北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
       "time_or_place": "北美中东部（湖群形成细节待核）",
-      "overview": "淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
+      "overview": "北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6",
         "north-america-x5927x5e73x539f"
       ],
       "sources": [
-        "noaa-glerl",
-        "s050-oceanservice-noaa-gov"
+        "epa-great-lakes",
+        "noaa-glerl"
       ],
       "needs_verification": true,
-      "pending_notes": "返工：已移除冰后期与具体成因断言；NOAA GLERL 支撑湖泊研究背景，形成过程与年代待专门来源核验。",
+      "pending_notes": "二次返工：降级为 L1；航道、工业带与美加边界专题来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
-      "geo": "五大湖位于北美中东部，由地质与冰川过程塑造，湖群通过圣劳伦斯河通向大西洋。湖岸平原与港口条件优越。",
-      "influence": "内河航运降低大宗货物运输成本，沿岸城市形成工业带；淡水与渔业支撑聚落。工业发展也与能源、劳动力和市场有关，非湖泊单一因素。",
-      "polities": "美加边界沿湖划定，港口城市与州省政策共同影响区域发展。",
-      "connections": "五大湖—圣劳伦斯航道连接北美内陆与大西洋，是粮食、矿产与制成品通道。",
-      "today": "水质、入侵物种与港口经济是当代议题。人口与货运数据待按年份核验。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='五大湖示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>五大湖</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "north-america-x79d1x7f57x62c9x591ax9ad8x539f",
