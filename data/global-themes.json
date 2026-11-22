@@ -22,10 +22,11 @@
       ],
       "sources": [
         "usgs-plate-motions",
-        "usgs-dynamic-earth"
+        "usgs-dynamic-earth",
+        "usgs-eq-api"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。",
+      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。 【第24轮数据端点】新增 usgs-eq-api（USGS 地震目录 API 提供事件时刻与震级字段），用于按年份核对数值口径；本条正文未写入具体数值。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -530,10 +531,11 @@
       ],
       "sources": [
         "s023-ourworldindata-org",
-        "s004-population-un-org"
+        "s004-population-un-org",
+        "wb-api-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
@@ -1136,10 +1138,11 @@
       "sources": [
         "s025-ourworldindata-org",
         "un-m49",
-        "s026-ourworldindata-org"
+        "s026-ourworldindata-org",
+        "wb-api-country"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"

@@ -1,0 +1,79 @@
+{
+  "round": 24,
+  "layer": "api/pdf",
+  "rows": [
+    {
+      "topic": "世界银行国家数据",
+      "url": "https://api.worldbank.org/v2/country/CHN?format=json",
+      "http": 200,
+      "bytes": 457,
+      "hits": 2,
+      "reason": "达标"
+    },
+    {
+      "topic": "世界银行指标",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json",
+      "http": 200,
+      "bytes": 9885,
+      "hits": 200,
+      "reason": "达标"
+    },
+    {
+      "topic": "USGS 地震目录",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=5",
+      "http": 200,
+      "bytes": 3885,
+      "hits": 2,
+      "reason": "达标"
+    },
+    {
+      "topic": "NASA 图像库",
+      "url": "https://images-api.nasa.gov/search?q=amazon%20deforestation",
+      "http": 200,
+      "bytes": 10789,
+      "hits": 7,
+      "reason": "达标"
+    },
+    {
+      "topic": "NPS 公园数据",
+      "url": "https://developer.nps.gov/api/v1/parks?limit=2&api_key=DEMO_KEY",
+      "http": 200,
+      "bytes": 23293,
+      "hits": 15,
+      "reason": "达标"
+    },
+    {
+      "topic": "OWID 图表数据",
+      "url": "https://ourworldindata.org/grapher/population.csv",
+      "http": 200,
+      "bytes": 1594182,
+      "hits": 2,
+      "reason": "达标"
+    },
+    {
+      "topic": "USGS 冰川 PDF",
+      "url": "https://pubs.usgs.gov/gip/glaciers/glaciers.pdf",
+      "http": 200,
+      "bytes": 440010,
+      "hits": 27,
+      "reason": "达标"
+    },
+    {
+      "topic": "IPCC 报告",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf",
+      "http": 200,
+      "bytes": 2021260,
+      "hits": 0,
+      "reason": "关键词未命中 0"
+    },
+    {
+      "topic": "FAO 统计 API",
+      "url": "https://fenixservices.fao.org/faostat/api/v1/en/data/QCL?area=351&item=15&element=5510&year=2022",
+      "http": 521,
+      "bytes": 7022,
+      "hits": 0,
+      "reason": "HTTP 521"
+    }
+  ],
+  "usable": 7
+}

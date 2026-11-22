@@ -2523,6 +2523,71 @@
       "verified": true,
       "page_title": "Understanding plate motions [This Dynamic Earth, USGS]",
       "note": "curl 实测 HTTP 200；D044/D050 剥离口径正文 17121 字符、tectonic|plate 命中 86；第22轮按 D055 档①作专题页。"
+    },
+    {
+      "id": "usgs-glaciers-pdf",
+      "title": "Glaciers: Clues to Future Climate (PDF)",
+      "author": "U.S. Geological Survey",
+      "year": null,
+      "type": "官方文档",
+      "url": "https://pubs.usgs.gov/gip/glaciers/glaciers.pdf",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Glaciers: Clues to Future Climate (PDF)",
+      "note": "PDF 777779 字节；解压后文本 284151 字节、约 3583 词；glacier 命中 58、moraine 1。第24轮按 D064 作 PDF 专题文档使用。"
+    },
+    {
+      "id": "wb-api-country",
+      "title": "World Bank Country API (CHN)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/CHN?format=json",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank Country API (CHN)",
+      "note": "JSON API 457 字节；返回国家元数据（iso2/iso3、region、incomeLevel）。用于现状数据的机构口径核对。"
+    },
+    {
+      "id": "wb-api-pop",
+      "title": "World Bank Indicator API — Population (SP.POP.TOTL, CHN)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank Indicator API — Population (SP.POP.TOTL, CHN)",
+      "note": "JSON API 9885 字节；返回逐年人口数值与 year 字段（命中 200）。可作现状数据的年份-数值核对入口。"
+    },
+    {
+      "id": "usgs-eq-api",
+      "title": "USGS Earthquake Catalog API (GeoJSON)",
+      "author": "U.S. Geological Survey",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=5",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "USGS Earthquake Catalog API (GeoJSON)",
+      "note": "GeoJSON API 3885 字节；含 features/metadata，可核验地震事件的时刻与震级字段。"
+    },
+    {
+      "id": "nps-api-parks",
+      "title": "NPS Data API — Parks",
+      "author": "U.S. National Park Service",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://developer.nps.gov/api/v1/parks?limit=2&api_key=DEMO_KEY",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "NPS Data API — Parks",
+      "note": "JSON API 23293 字节；返回公园名录与描述字段（命中 15）。用于地名/机构口径核对。"
     }
   ]
 }
