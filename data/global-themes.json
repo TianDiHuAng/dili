@@ -13,7 +13,7 @@
       "level": "L2",
       "status": "L2完成(第2轮)",
       "definition": "板块构造：解释地震、火山与山脉形成的统一理论框架。",
-      "time_or_place": "20世纪确立",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "解释地震、火山与山脉形成的统一理论框架。",
       "related": [
         "global-themes-x5927x9646x6f02x79fb",
@@ -27,7 +27,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -355,10 +355,10 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "政权更替",
-      "level": "L2",
-      "status": "L2完成(第5轮)",
+      "level": "L1",
+      "status": "二次返工降级L1(第5轮)",
       "definition": "城市起源：农业剩余、贸易与权力集中等因素共同作用，使部分聚落发展为早期城市。",
-      "time_or_place": "约前3500年起",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "农业剩余、贸易与权力集中等因素共同作用，使部分聚落发展为早期城市。",
       "related": [
         "global-themes-x677fx5757x6784x9020",
@@ -366,23 +366,16 @@
       ],
       "sources": [
         "s010-unesco-org",
-        "s025-ourworldindata-org",
-        "s044-earthobservatory-nasa-gov"
+        "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。",
+      "pending_notes": "第5轮返工：现有 UNESCO 文化页与 OWID 城市化页为背景来源，不能支撑早期城市具体年代与地区序列，故降级 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
-      "geo": "早期城市多出现在河流冲积平原、绿洲或海岸港口附近，水源、交通与可耕地是常见条件。地形并非唯一因素。",
-      "influence": "农业剩余支持人口集中，贸易扩大资源来源，权力组织管理公共事务。学界对主次原因有不同看法，本站并列而不下结论。",
-      "polities": "两河、尼罗河、印度河与东亚等地区出现早期城市，具体时间与政治形态各异；本站不把不同地区归入单一模式。",
-      "connections": "城市通过商路连接腹地与远方市场，技术、宗教与艺术沿网络传播。",
-      "today": "城市化仍是全球性过程。城市人口与面积数据需按年份从权威统计机构补齐。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='城市起源示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>城市起源</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+      "last_update": "2026-11-22"
     },
     {
       "id": "global-themes-x4ebax53e3x8fc1x79fb",
@@ -572,11 +565,10 @@
         "esri-gis"
       ],
       "needs_verification": true,
-      "pending_notes": "B4 缺口补入；专题方法与历史演变待专门来源核验。",
+      "pending_notes": "背景来源 OGC 标准页与 Esri GIS 定义页已核验；投影分类与历史演变待专题来源核验。",
       "outlines": [
         "OGC 标准",
-        "Esri GIS 定义",
-        "UN M49"
+        "Esri GIS 定义"
       ],
       "last_update": "2026-11-22"
     },
@@ -600,11 +592,10 @@
         "s070-cbd-int"
       ],
       "needs_verification": true,
-      "pending_notes": "B4 缺口补入；专题方法与历史演变待专门来源核验。",
+      "pending_notes": "背景来源 UN M49 与 CBD 页面已核验；本站只描述立场、不画线的编辑原则非事实断言，专题方法来源待补。",
       "outlines": [
-        "OGC 标准",
-        "Esri GIS 定义",
-        "UN M49"
+        "UN M49",
+        "CBD 公约页面"
       ],
       "last_update": "2026-11-22"
     }

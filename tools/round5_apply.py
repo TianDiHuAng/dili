@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """第5轮：2新增 + 8核心升级L2 + 30复核，分4批。"""
-import json, os, sys
+import json, os, re, sys
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from round2_apply import sid, make_svg, update_coverage
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -125,7 +125,7 @@ def upgrade(docs,title):
             if e["title"]==title:
                 c=CONTENT[title]
                 e.update({"level":"L2","status":"L2完成(第5轮)","definition":c["defn"],"overview":c["defn"].split("：",1)[1],
-                 "time_or_place":"地理与生态特征（具体演化年代待核）" if "年前" in e["time_or_place"] or "代" in e["time_or_place"] else e["time_or_place"],
+                 "time_or_place":("时期与年代待专门来源核验（详见待核实）" if re.search(r"\d|万年前|亿年前|世纪|冰期", e["time_or_place"]) else e["time_or_place"]),
                  "geo":c["geo"],"influence":c["influence"],"polities":c["polities"],
                  "connections":c["connections"],"today":c["today"],
                  "svg":make_svg(title,e["region"],e["theme"]),"sources":c["sources"],
