@@ -330,14 +330,14 @@
         "wb-ind-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（约前3000–前1800年）来自 Wikidata Q42534 的 P580/P582（精度=年）；FAO AQUASTAT 作机构背景、世界银行作现状端点。学界对年代上限与衰落原因有不同表述，已并列注明。",
+      "pending_notes": "第32轮升级：年代（约前3000–前1800年）来自 Wikidata Q42534 的 P580/P582（精度=年）；FAO AQUASTAT 作机构背景、世界银行作现状端点。学界对年代上限与衰落原因有不同表述，已并列注明。 【第32轮返工】today 巴基斯坦人口由 251,269,164 订正为 255,219,554（2025年）——原值实为 2024 年数据（来源 note 记的正是 255219554/2025）。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22",
-      "today": "以巴基斯坦与印度为例，来源：世界银行 API。巴基斯坦总人口 251,269,164 人（2025年）（SP.POP.TOTL）、印度 1,463,865,525 人（同指标）。上述为两国全国口径，仅示量级；印度河流域今天的水资源分配与灌溉数据需专门统计与条约文件核验。",
+      "today": "以巴基斯坦与印度为例，来源：世界银行 API。巴基斯坦总人口 255,219,554 人（2025年）（SP.POP.TOTL）、印度 1,463,865,525 人（同指标）。上述为两国全国口径，仅示量级；印度河流域今天的水资源分配与灌溉数据需专门统计与条约文件核验。",
       "geo": "分布于印度河及其支流沿岸的冲积平原，另有季节河与沿海遗址。季风降水与河流洪水共同塑造农业条件，洪水既带来肥沃沉积物也要求排水与防洪安排。",
       "influence": "河流灌溉支撑城市与人口集中，城市规划与排水设施反映较高的组织能力。文明衰落的原因存在多种解释（气候干旱、河流改道、贸易变化），学界尚无定论。",
       "polities": "据 Wikidata 记录，该文明约为前 3000 年至前 1800 年（精度=年）；学界对起始与成熟期年代有不同表述。是否形成统一国家尚无定论，城市体系的治理形态待专门考古研究核验。",
@@ -514,7 +514,7 @@
       "level": "L2",
       "status": "L2完成(第32轮)-Wikidata",
       "definition": "长江流域：长江干流及其支流覆盖的区域，据 Wikidata 记录长江全长约 6300 千米，为亚洲最长河流。",
-      "time_or_place": "长江全长约6300千米（Wikidata P2043）",
+      "time_or_place": "长江全长约6300千米（Wikidata P2043，精度=1千米；**该值为河流长度，非流域面积**）",
       "overview": "长江干流及其支流覆盖的区域，据 Wikidata 记录长江全长约 6300 千米，为亚洲最长河流。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
@@ -529,17 +529,17 @@
         "wb-chn-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。",
+      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。 【第32轮返工】① 明确标注所引 6300 千米为**河流长度**而非流域面积（流域实体 Q15758768 在 Wikidata 无面积属性）；② 删除「通过大运河与黄河流域整合」无源断言；③ fao-aquastat-basins 为流域目录页（无单流域正文），不作数值支撑。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22",
-      "geo": "流域自青藏高原发源，经四川盆地、长江中下游平原注入东海，跨越高原、盆地与平原多种地貌。水量丰沛、湖泊与支流众多，中下游形成密集水网与洪泛平原。",
+      "geo": "流域自青藏高原发源，经四川盆地、长江中下游平原注入东海，跨越高原、盆地与平原多种地貌。水量丰沛、湖泊与支流众多，中下游形成密集水网与洪泛平原。**量值说明**：本条引用的 Wikidata 数值是长江**河流长度**（约6300千米），流域**面积**在本环境可获得的结构化数据中缺失，待专门水文来源核验。",
       "influence": "水运条件降低大宗物资运输成本，冲积平原与稻作条件支撑人口密集。流域水利与国家治理互为条件，地理条件提供基础，制度与技术在决定性环节同样关键。",
       "polities": "本条不展开具体政权序列；流域内的政治整合与行政沿革待专门史学来源核验。",
-      "connections": "通过大运河与黄河流域整合，通过长江口与沿海港口连接海上贸易网络，形成内陆—沿海双重联系。",
+      "connections": "通过长江口与沿海港口连接海上贸易网络，形成内陆—沿海双重联系；与黄河流域的历史联系待专门史料核验。",
       "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000 人（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 6.7%（2025年）（NV.AGR.TOTL.ZS）。上述为全国口径，仅示量级；流域内人口、径流量与水质数据需专门统计与遥感来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 160 C 200 140 300 200 420 220 C 520 236 620 250 690 280' fill='none' stroke='var(--accent)' stroke-width='5'/><path d='M300 200 C 330 250 360 300 380 350' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><circle cx='120' cy='155' r='6' class='pt'/><text x='100' y='135' class='lbl'>源区</text><circle cx='420' cy='220' r='6' class='pt'/><text x='400' y='200' class='lbl'>中游</text><circle cx='680' cy='278' r='6' class='pt'/><text x='620' y='262' class='lbl'>入海</text><text x='40' y='370' class='dim'>长江流域 · 简笔示意，非精确测绘</text></svg>"
     },
@@ -672,7 +672,7 @@
       "level": "L2",
       "status": "L2完成(第32轮)-Wikidata年代",
       "definition": "汉代：中国历史上的帝国王朝，据 Wikidata 结构化记录为公元前 206 年至公元 220 年。",
-      "time_or_place": "前206年–220年（Wikidata P571/P576，精度=年）",
+      "time_or_place": "前206年–220年（Wikidata P571/P576，精度=年；通说建朝为前202年，口径差异见正文）",
       "overview": "中国历史上的帝国王朝，据 Wikidata 结构化记录为公元前 206 年至公元 220 年。",
       "related": [
         "asia-x5e15x63d0x4e9ax5e1dx56fd",
@@ -686,7 +686,7 @@
         "wb-chn-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（前206–220年）来自 Wikidata Q7209 的结构化属性 P571/P576（精度=年），UNESCO Culture 作机构页、世界银行作现状数据端点。按 TASK 规则 Wikidata 仅为双源之一，帝系与年号待专门史学来源核验。",
+      "pending_notes": "第32轮升级：年代（前206–220年）来自 Wikidata Q7209 的结构化属性 P571/P576（精度=年），UNESCO Culture 作机构页、世界银行作现状数据端点。按 TASK 规则 Wikidata 仅为双源之一，帝系与年号待专门史学来源核验。 【第32轮返工】补年代口径：前206=汉元年/受封汉王、秦亡前207、通说建朝前202；并注明 Wikidata 自身描述写 202 BC 与 P571 的 206 BC 不一致。删除「中间有新朝中断」无源断言。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -695,7 +695,7 @@
       "last_update": "2026-11-22",
       "geo": "帝国核心位于黄河中下游与关中平原，并向长江流域与河西走廊扩展。关中盆地与渭河平原提供农业基础，河西走廊是通往中亚的陆路通道。",
       "influence": "关中与关东平原的农业支撑人口与财政，河西走廊的通道条件支撑向西的交通与驻防。地理条件是重要基础，但帝国扩张与维系同样依赖制度、军事与财政安排。",
-      "polities": "据 Wikidata 记录，汉代起于前 206 年、止于 220 年（精度到年）；其间分为西汉与东汉两段，中间有新朝中断。具体帝系、年号与制度演变待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 结构化记录，P571（成立）= 前206年、P576（解散）= 220年。**口径需说明**：前206 为汉元年（刘邦受封汉王）；秦亡于前207；通说以刘邦称帝（前202）为汉朝建立。同一 Wikidata 实体的英文描述写「from **202 BC** to 220 AD」，与 P571 的 206 BC 并不一致。西汉—新朝—东汉的帝系与年号待专门史学来源逐条核验。",
       "connections": "通过河西走廊与中亚绿洲相连，通过南方港口与海上航线接触东南亚与印度洋；丝绸之路的陆海两段在此交汇。",
       "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000 人（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；汉代疆域内的人口与经济数据属历史人口学议题，需专门研究核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>汉代 · 简笔示意，非精确测绘</text></svg>"
@@ -1240,7 +1240,7 @@
         "wb-mng-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（1206–1368年）来自 Wikidata Q12557 的 P571/P576（精度=年）；UNESCO Culture 作机构页、世界银行作现状数据端点。汗国分化后的年代待专门来源核验。",
+      "pending_notes": "第32轮升级：年代（1206–1368年）来自 Wikidata Q12557 的 P571/P576（精度=年）；UNESCO Culture 作机构页、世界银行作现状数据端点。汗国分化后的年代待专门来源核验。 【第32轮返工】修时序：1368 为元朝终年，分裂起于 1260、四汗国成于 1294，原「其后分化为多个汗国」时序颠倒已改；「首次大规模连通」改为「前现代最显著的一次」（避免无源最高级断言）。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1249,8 +1249,8 @@
       "last_update": "2026-11-22",
       "geo": "核心位于蒙古高原，草原环境支撑大规模牧养与骑兵机动。帝国扩展后覆盖华北、中亚、波斯与东欧平原，跨越多种生态带，交通与补给条件差异极大。",
       "influence": "草原创牧经济与机动能力是扩张的重要条件，但跨欧亚的统治依赖驿站、分封与地方代理等制度安排。地理条件提供路径，制度决定其能否维持。",
-      "polities": "据 Wikidata 记录，帝国起于 1206 年、止于 1368 年（精度到年），其后分化为多个汗国。具体大汗世系、分封与各汗国年代待专门史学来源逐条核验。",
-      "connections": "驿站网络把东亚、中亚、波斯与东欧连成一体，商队、使节与技术沿此流动，是欧亚大陆首次大规模连通。",
+      "polities": "据 Wikidata 记录，P571（成立）= 1206年、P576（解散）= 1368年。**时序需说明**：帝国自 1260 年忽必烈与阿里不哥之争后实际分裂，1294 年形成多个汗国；1368 年是元朝（中国部分）终结之年，并非全帝国同时终止。大汗世系与各汗国年代待专门史学来源核验。",
+      "connections": "驿站网络把东亚、中亚、波斯与东欧连成一体，商队、使节与技术沿此流动；就欧亚陆路连通的规模而言，是前现代最显著的一次。",
       "today": "以蒙古为例，来源：世界银行 API。总人口 3,568,978 人（2025年）（SP.POP.TOTL）、城市化率 71.1%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；帝国时期的人口与疆域估算属史学议题，需专门研究核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>蒙古帝国 · 简笔示意，非精确测绘</text></svg>"
     },

@@ -446,6 +446,21 @@
       "sample_rate": "超采样（10条 / 本轮4条去重改动）",
       "sample_audit": "25%抽检10条：7 PASS/3 FAIL（CO2 AR5口径写反「含LULUCF」实为「不含」、A1与板块构造缺完整查询时点、D076残留2条）→返工：口径纠反4处、补查询时点、D076全库扫尾、check.py加R15机器化D075、finalize文案同步",
       "note": "4条today填官方/机构数据（ATS缔约方名录、WLD CO2/农业用地/城市增长率）；today含数值63条"
+    },
+    {
+      "round": 32,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 5,
+      "reviews": 0,
+      "fixes": 5,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "25%（10条 / 本轮5条去重改动）",
+      "sample_audit": "25%抽检10条：A组5条全FAIL（阿兹特克来源429未核验、印度河2024值标成2025、汉代前206与描述202BC矛盾未调和、蒙古1368时序颠倒、长江用河长当流域指标；且双源实为单源+机构首页凑数）→返工：复抓回填、数值订正、补口径与时序、标注河长≠流域面积、5条统一标「单源待互证」、渲染新增该标签、R15扩词",
+      "note": "Wikidata API 解锁 5 条核心 L2 升级；核心 L1 6→1"
     }
   ]
 }

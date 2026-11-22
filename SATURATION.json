@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 31,
+  "last_round": 32,
   "history": [
     {
       "round": 1,
@@ -376,6 +376,19 @@
       ],
       "gaps_found": 273,
       "note": "today 含数值 59→63；无数值降至 10（南极大陆/物候/火情等无公开数据源）",
+      "result": "非饱和"
+    },
+    {
+      "round": 32,
+      "methods_used": [
+        "B1 Wikidata/DBpedia 探测",
+        "核心L1攻坚",
+        "today填充",
+        "R14/R15",
+        "台账"
+      ],
+      "gaps_found": 273,
+      "note": "核心L1 6→1；Wikidata 提供可核验的结构化年代与量值",
       "result": "非饱和"
     }
   ],

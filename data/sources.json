@@ -4160,7 +4160,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q7209 — Han dynasty",
-      "note": "Wikidata 实体 Q7209；英文描述「imperial dynasty in China from 202 BC to 220 AD」；结构化时间属性 P571（成立）/P576（解散）给出 前206年–220年（精度=年）。API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+      "note": "Wikidata 实体 Q7209；英文描述「imperial dynasty in China from **202 BC** to 220 AD」；P571=-0206（精度=年）、P576=+0220（精度=年）。**注意：描述写 202 BC 与 P571 的 206 BC 不一致**（汉元年/受封汉王 vs 称帝）。第32轮复抓 HTTP 200。众包数据，仅作双源之一。"
     },
     {
       "id": "wikidata-q12557",
@@ -4173,7 +4173,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q12557 — Mongol Empire",
-      "note": "Wikidata 实体 Q12557；英文描述「13th- and 14th-century empire originating in Mongolia」；结构化时间属性 P571（成立）/P576（解散）给出 1206年–1368年（精度=年）。API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+      "note": "Wikidata 实体 Q12557；英文描述「13th- and 14th-century empire originating in Mongolia」；P571=1206（精度=年）、P576=1368（精度=年）。**1368 为元朝终年**；帝国自 1260 年起分裂、1294 年成四汗国。第32轮复抓 HTTP 200。"
     },
     {
       "id": "wikidata-q2608489",
@@ -4183,10 +4183,10 @@
       "type": "开放数据集",
       "url": "https://www.wikidata.org/wiki/Q2608489",
       "url2": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2608489&props=claims|descriptions&languages=en&format=json",
-      "link_ok": false,
-      "verified": false,
+      "link_ok": true,
+      "verified": true,
       "page_title": "Wikidata Q2608489 — Aztec Empire",
-      "note": "Wikidata 实体 Q2608489；英文描述「former Mesoamerican empire」；结构化时间属性 P571（成立）/P576（解散）给出 1325年–1521年（精度=年）。API 查询 HTTP 429。众包数据，按 TASK 规则仅作双源之一，须与机构/学术来源互证。"
+      "note": "Wikidata 实体 Q2608489；英文描述「former Mesoamerican empire」；P571=1325（精度=年）、P576=1521-08-13（精度=日）、P580=1367（精度=年）、P2046=300000 km²。第32轮返工复抓 HTTP 200 回填（此前 429 未核验）。众包数据，仅作双源之一。"
     },
     {
       "id": "wikidata-q7462",
@@ -4212,7 +4212,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Wikidata Q5413 — Yangtze River",
-      "note": "英文描述「longest river in Asia and third-longest in the world」；P2043（长度）= 6300 千米（精度=1）。；API 查询 HTTP 200。众包数据，按 TASK 规则仅作双源之一。"
+      "note": "Wikidata 实体 Q5413（长江，非「长江流域」）；英文描述「longest river in Asia and third-longest in the world」；P2043=6300 千米（精度=1）。**该值为河流长度，不是流域面积**；流域实体 Q15758768 在 Wikidata 无面积属性。"
     },
     {
       "id": "wikidata-q42534",

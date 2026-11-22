@@ -495,7 +495,7 @@
       "level": "L2",
       "status": "L2完成(第32轮)-Wikidata年代",
       "definition": "阿兹特克：中美洲墨西哥谷地的帝国政体，据 Wikidata 记录为 1325 年至 1521 年。",
-      "time_or_place": "1325年–1521年（Wikidata P571/P576，精度=年）",
+      "time_or_place": "1325年–1521年8月13日（Wikidata P571/P576；P571 精度=年、P576 精度=日）",
       "overview": "中美洲墨西哥谷地的帝国政体，据 Wikidata 记录为 1325 年至 1521 年。",
       "related": [
         "north-america-x5965x5c14x6885x514b",
@@ -509,7 +509,7 @@
         "wb-mex-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。",
+      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。 【第32轮返工】① 来源 wikidata-q2608489 原 verified=false（429），复抓 200 后回填；② 修正精度标注（P576 精度=日）；③ 补 P580=1367 与「1325 建城 / 1430 前后三方联盟」的口径关系。 【单源待互证】本条关键年代/量值目前**仅有 Wikidata 一处结构化来源**（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -517,7 +517,7 @@
       "last_update": "2026-11-22",
       "geo": "核心位于墨西哥谷地的高原湖泊区，湖中岛与湖岸平原提供聚落与农业空间。chinampa（湖上人工田）依赖水位与泥沙管理，火山高地与谷地气候分层明显。",
       "influence": "湖泊环境与人工田支撑高密度人口，山地与水系的破碎地形促成城邦并立与朝贡网络。环境条件重要，但帝国形态由联盟、贡赋与军事组织塑造，不宜单因解释。",
-      "polities": "据 Wikidata 记录，政体起于 1325 年、止于 1521 年（精度到年）；通常以三方联盟（特诺奇蒂特兰、特斯科科、特拉科潘）形式运作。统治者序列与贡赋制度待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，P571（成立）= 1325年、P576（解散）= 1521年8月13日（精度到日）；同实体另记 P580（起始）= 1367年。**口径需说明**：1325 为特诺奇蒂特兰传统建城年，1367 为另一时间属性，三方联盟（特诺奇蒂特兰、特斯科科、特拉科潘）通常置于 15 世纪上半叶。三个时间点含义不同，不可互换；统治者序列与贡赋制度待专门史学来源核验。",
       "connections": "通过朝贡与市场网络连接中美洲各地，玉石、可可、羽毛与黑曜石沿路线流动；与玛雅地区存在长期交流。",
       "today": "以墨西哥为例，来源：世界银行 API。总人口 131,946,900 人（2025年）（SP.POP.TOTL）、城市化率 80.0%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；墨西哥谷地今天的地面沉降与遗址保护数据需专门来源核验。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L200 240 L320 210 L450 220 L580 250 L680 300' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='200' cy='240' r='6' class='pt'/><circle cx='450' cy='220' r='6' class='pt'/><circle cx='580' cy='250' r='6' class='pt'/><text x='150' y='220' class='lbl'>欧亚/中美洲示意</text><text x='40' y='370' class='dim'>阿兹特克 · 简笔示意，非精确测绘</text></svg>"

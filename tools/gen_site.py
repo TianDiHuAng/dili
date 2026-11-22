@@ -61,6 +61,8 @@ def srcgrade(e, flags=None):
     if flags.get("d041_legacy"):
         return '<span class="tag warn">来源：区域/机构级（待补专题页）</span>'
     st = e.get("status") or ""
+    if "Wikidata" in st:
+        return '<span class="tag warn">来源：结构化数据集（单源待互证）</span>'
     if "主题页" in st or "合规换源" in st or "专题来源" in st:
         return '<span class="tag">来源：专题页 + 机构页</span>'
     if "配对说明" in st:
