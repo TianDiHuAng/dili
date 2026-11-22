@@ -598,6 +598,274 @@
         "CBD 公约页面"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x68eex6797x8986x76d6x53d8x5316",
+      "title": "森林覆盖变化",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "森林覆盖变化：森林面积与覆盖质量的变化是全球土地利用与碳循环研究的核心指标，受农业扩张、林业政策与自然扰动共同影响。",
+      "time_or_place": "现代观测（年份以来源页面为准）",
+      "overview": "森林面积与覆盖质量的变化是全球土地利用与碳循环研究的核心指标，受农业扩张、林业政策与自然扰动共同影响。",
+      "related": [],
+      "sources": [
+        "s029-ourworldindata-org",
+        "s042-earthobservatory-nasa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x571fx5730x5229x7528x53d8x5316",
+      "title": "土地利用变化",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "土地利用变化：人类把自然地转为耕地、牧场、城市或基础设施的过程，改变生态过程与区域气候，也影响粮食与能源供应。",
+      "time_or_place": "现代观测（年份以来源页面为准）",
+      "overview": "人类把自然地转为耕地、牧场、城市或基础设施的过程，改变生态过程与区域气候，也影响粮食与能源供应。",
+      "related": [
+        "global-themes-x5c71x5730x519cx4e1a"
+      ],
+      "sources": [
+        "s077-ourworldindata-org",
+        "s018-fao-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x751fx7269x591ax6837x6027x5206x5e03",
+      "title": "生物多样性分布",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "生物多样性分布：物种与生态系统在地球表面的分布不均，受气候、地形、历史与人类活动共同影响，是保护规划的基础。",
+      "time_or_place": "现代观测（年份以来源页面为准）",
+      "overview": "物种与生态系统在地球表面的分布不均，受气候、地形、历史与人类活动共同影响，是保护规划的基础。",
+      "related": [
+        "south-america-x4e9ax9a6cx900ax76c6x5730"
+      ],
+      "sources": [
+        "s030-ourworldindata-org",
+        "s073-iucn-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6d77x6d0bx4fddx62a4x533a",
+      "title": "海洋保护区",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "海洋保护区：为保护海洋生态与资源而划定管理的海域，其成效取决于执法、监测与周边社区参与。",
+      "time_or_place": "现代管理实践（年份以来源页面为准）",
+      "overview": "为保护海洋生态与资源而划定管理的海域，其成效取决于执法、监测与周边社区参与。",
+      "related": [
+        "oceania-x5927x5821x7901"
+      ],
+      "sources": [
+        "s070-cbd-int",
+        "s050-oceanservice-noaa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6781x7aefx8d2bx56f0x7a7ax95f4x5206x5e03",
+      "title": "极端贫困空间分布",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "极端贫困空间分布：极端贫困人口在地区间分布不均，与经济增长、公共服务、冲突和气候冲击相互关联。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "极端贫困人口在地区间分布不均，与经济增长、公共服务、冲突和气候冲击相互关联。",
+      "related": [
+        "global-themes-x4ebax53e3x8fc1x79fb"
+      ],
+      "sources": [
+        "s082-ourworldindata-org",
+        "s057-databank-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x80fdx6e90x8f6cx578b",
+      "title": "能源转型",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "能源转型：能源结构从高碳向低碳来源调整的过程，涉及技术、基础设施、价格和政策，具有明显的区域差异。",
+      "time_or_place": "近现代（具体年份待核）",
+      "overview": "能源结构从高碳向低碳来源调整的过程，涉及技术、基础设施、价格和政策，具有明显的区域差异。",
+      "related": [
+        "asia-x4e1dx7ef8x4e4bx8def"
+      ],
+      "sources": [
+        "s028-ourworldindata-org",
+        "s058-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x78b3x6392x653ex7a7ax95f4x5deex5f02",
+      "title": "碳排放空间差异",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "碳排放空间差异：不同地区的人均与总量碳排放差异显著，受能源结构、产业活动与生活水平共同影响。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "不同地区的人均与总量碳排放差异显著，受能源结构、产业活动与生活水平共同影响。",
+      "related": [
+        "global-themes-x6c14x5019x5e26"
+      ],
+      "sources": [
+        "s035-ourworldindata-org",
+        "s039-climate-nasa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax53e3x5e74x9f84x7ed3x6784",
+      "title": "人口年龄结构",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "人口年龄结构：人口按年龄分组的构成反映生育、死亡与迁移的长期结果，并影响劳动力与公共服务需求。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "人口按年龄分组的构成反映生育、死亡与迁移的长期结果，并影响劳动力与公共服务需求。",
+      "related": [
+        "global-themes-x4ebax53e3x5730x7406"
+      ],
+      "sources": [
+        "s081-ourworldindata-org",
+        "s004-population-un-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x57cex5e02x70edx5c9b",
+      "title": "城市热岛",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "城市热岛：城市地表温度通常高于周边乡村，与不透水表面、建筑形态和绿地减少有关，也受区域气候背景影响。",
+      "time_or_place": "现代观测（年份以来源页面为准）",
+      "overview": "城市地表温度通常高于周边乡村，与不透水表面、建筑形态和绿地减少有关，也受区域气候背景影响。",
+      "related": [
+        "global-themes-x57cex5e02x5730x7406"
+      ],
+      "sources": [
+        "s044-earthobservatory-nasa-gov",
+        "s025-ourworldindata-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6e7fx5730x4e0ex6c34x8d44x6e90",
+      "title": "湿地与水资源",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成(第9轮)",
+      "definition": "湿地与水资源：湿地在蓄洪、净水和生物栖息方面具有重要作用，水资源管理需兼顾生态与人类需求。",
+      "time_or_place": "现代管理实践（年份以来源页面为准）",
+      "overview": "湿地在蓄洪、净水和生物栖息方面具有重要作用，水资源管理需兼顾生态与人类需求。",
+      "related": [
+        "global-themes-x6cb3x6d41x4e09x89d2x6d32"
+      ],
+      "sources": [
+        "fao-aquastat-basins",
+        "s050-oceanservice-noaa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "FAO/NASA/NOAA/CBD/UN 机构页"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }
