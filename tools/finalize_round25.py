@@ -19,7 +19,7 @@ m["rounds"]=[r for r in m["rounds"] if r["round"]!=ROUND]
 m["rounds"].append({"round":ROUND,"date":DATE,"new_entries":0,"upgrades":0,"reviews":30,"fixes":FIXES,
  "pending_total":pending,"check_result":"ERRORS=0 ALL_PASS","link_result":"BROKEN=0 LINKS_PASS",
  "new_sources":0,"sample_rate":"25%","sample_audit":AUDIT,
- "note":"5条条目 today 段填入世界银行API实测值（带年份与指标编号）；30条实证复核（备注唯一、零模板句）"})
+ "note":"5条 today 段填入世界银行API实测值（含指标编号/年份/口径风险声明）；30条实证复核逐条化（唯一备注 30/30，含本条正则与D055判定）；L1 条目 today 现已渲染"})
 json.dump(m,open(mp,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
 sp=os.path.join(ROOT,"SATURATION.json");sat=json.load(open(sp,encoding="utf-8"))
 sat["zero_gap_rounds"]=0;sat["saturated"]=False;sat["last_round"]=ROUND
@@ -34,7 +34,7 @@ lines=[f"# REPORT.md — 第 {ROUND} 轮摘要","",f"- 日期：{DATE}","- 状�
  "- 新增条目：0","- 升级 L2：0",
  f"- 修复：{FIXES}（5 条区域/全球条目的 **today 段填入世界银行 API 实测值**：城市化水平、人口地理、拉丁美洲与加勒比、中东与北非、南亚——每条带指标编号、年份与口径说明）",
  "- 复核：30（实证式，每条备注含**本条专属正则**与实测数字；30 条备注互不相同、零模板尾句）",
- "- 新增来源：0（沿用 wb-api-pop / wb-api-urban）","",
+ "- 新增来源：2（wb-api-forest、wb-api-agri，用于森林覆盖率与农业占比的可追溯）","",
  "## 2. 质量","",
  f"- tools/check.py：ERRORS=0 ALL_PASS（{len(es)} 条条目、{len(src)} 条来源）",
  "- tools/check_links.py：BROKEN=0 LINKS_PASS",
@@ -42,7 +42,7 @@ lines=[f"# REPORT.md — 第 {ROUND} 轮摘要","",f"- 日期：{DATE}","- 状�
  "- 自查：30 条实证备注唯一性 = 30/30；模板尾句出现 0 次","",
  "## 3. 缺口发现摘要","",
  "- 取数层继续产出：世界银行 API 返回 8 国 × 5 指标（含年份），首次可用于填充现状数据",
- "- 部分国家该指标本期未返回（尼日利亚/美国城市化率），已如实标注「不列」而非估算",
+ "- 返工更正：尼日利亚/美国城市化率并非「指标未返回」，而是首轮抓取脚本请求失败；已补实测值（63.8% / 80.2%，2025年）",
  f"- B5 待核实：{pending}","",
  "## 4. 累计","",
  f"- 总条目：{len(es)}（核心 {tiers['核心']} / 重要 {tiers['重要']} / 补充 {tiers['补充']}）",

@@ -341,6 +341,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：1 FAIL（洋流备注与他条逐字重复、模板尾句）→返工：D064正式立条、计量口径修正(16844字符/31命中，非284151)、北美冰盖状态改配对说明并置pairing_gap、删除全库10处模板尾句、洋流备注重写含正则、城市化水平换wb-api-urban、probe字节口径修正；其余9条PASS",
       "note": "换取数层：API/PDF 探测 9 候选 7 达标；北美冰盖用 USGS 冰川 PDF 升级 L2"
+    },
+    {
+      "round": 25,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 30,
+      "fixes": 10,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：3 PASS/7 FAIL（A1「指标未返回」实为脚本请求失败=失实陈述、A3-A5缺指标编号且森林/农业值无来源、21条备注共用同一实测句缺D055判定、D059连二连三）→返工：补NGA/USA实测值、正文补指标编号、登记wb-api-forest/agri、L1渲染today、30条备注逐条化(唯一30/30含D055判定、s010改记200/218挑战页)",
+      "note": "5条 today 段填入世界银行API实测值（含指标编号/年份/口径风险声明）；30条实证复核逐条化（唯一备注 30/30，含本条正则与D055判定）；L1 条目 today 现已渲染"
     }
   ]
 }
