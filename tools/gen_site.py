@@ -170,6 +170,8 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
             if e.get("svg"):
                 cap = "简笔示意，不代表精确位置与边界。" if "非精确测绘" in e["svg"] else "示意图，非精确测绘。"
                 parts.append(f'<div class="section"><h2>示意地图</h2>{sanitize_svg(e["svg"])}<p class="dim">{cap}</p></div>')
+        if e.get("level") == "L1" and e.get("today"):
+            parts.append(f'<div class="section"><h2>今天的状况</h2><p>{esc(e["today"])}</p></div>')
         if e.get("needs_verification"):
             parts.append(f'<div class="section warn"><h2>待核实</h2><p>{esc(e["pending_notes"])}</p></div>')
         parts.append('<div class="section"><h2>来源</h2><ul class="src">' + "".join(f"<li>{source_link(s, sources)}</li>" for s in e["sources"]) + "</ul></div>")

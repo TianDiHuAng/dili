@@ -93,7 +93,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】「本站不写未核验数值」编辑口径已移入本备注，正文不再出现编辑自述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·季风系统】正则 monsoon；britannica-regions(200/正文137675字符/命中0)；wikipedia-regions(200/正文5字符/命中0)。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】「本站不写未核验数值」编辑口径已移入本备注，正文不再出现编辑自述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·季风系统】本条正则 monsoon。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「季风系统」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为季风系统主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -131,7 +131,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核·洋流】本条正则 ocean current|gyre|current：un-m49（UNSD M49 概述页）实测 200 / 正文 144945 字符 / 命中 0；wikipedia-regions（UNSDG 入口）实测 200 / 正文 5 字符 / 命中 0。两源均非洋流专题，D055 未达标；所需专题页为「洋流机制正文页」（NOAA/NASA 渠道待试 API 或 PDF）。 【第25轮实证复核·洋流】正则 ocean current|gyre；britannica-regions(200/正文137675字符/命中0)；wikipedia-regions(200/正文5字符/命中0)。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核·洋流】本条正则 ocean current|gyre|current：un-m49（UNSD M49 概述页）实测 200 / 正文 144945 字符 / 命中 0；wikipedia-regions（UNSDG 入口）实测 200 / 正文 5 字符 / 命中 0。两源均非洋流专题，D055 未达标；所需专题页为「洋流机制正文页」（NOAA/NASA 渠道待试 API 或 PDF）。 【第25轮实证复核·洋流】本条正则 ocean current|gyre。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「洋流」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为洋流主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -169,7 +169,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·气候带】正则 climate zone；britannica-regions(200/正文137675字符/命中0)；wikipedia-regions(200/正文5字符/命中0)。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·气候带】本条正则 climate zone。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「气候带」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为气候带主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -237,7 +237,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世」无专门来源支撑，已收敛为待核表述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·河流三角洲】正则 delta；britannica-regions(200/正文137675字符/命中0)；wikipedia-regions(200/正文5字符/命中0)。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世」无专门来源支撑，已收敛为待核表述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·河流三角洲】本条正则 delta。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「河流三角洲」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为河流三角洲主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -273,7 +273,7 @@
         "s016-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 **0**；s016（FAO Land overview）200 / 4070 字符 / 命中 **0**。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。",
+      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 **0**；s016（FAO Land overview）200 / 4070 字符 / 命中 **0**。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -303,7 +303,7 @@
         "s015-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——fao-mountain-partnership 为门户首页（39 次 mountain 命中全来自导航，soil/erosion/terrace/slope/altitude 均为 0）。已降级 L1，并移除定义中「梯田与多样作物组合」这一无源断言。待 FAO 山地正文页到位后再升级。 【第23轮实证复核】实测：s016（FAO Land overview）200 / 4070 字符 / mountain|terrace|slope 命中 **0**；s083（FAO 土壤数据）200 / 2268 字符 / 命中 **0**，且其 note 明写「mountain 命中 0，不用于山地条目」→ 已移除 s083。缺口为「FAO 山地农业正文页」。 已按 note 提示移除 s083（不用于山地条目），补入 s015/s018 区域农业机构页维持 ≥2。 【第25轮实证复核·山地农业】正则 mountain|terrace；s016-fao-org(200/正文4070字符/命中0)；s015-fao-org(200/正文9643字符/命中0)。",
+      "pending_notes": "二次返工：抽检 FAIL——fao-mountain-partnership 为门户首页（39 次 mountain 命中全来自导航，soil/erosion/terrace/slope/altitude 均为 0）。已降级 L1，并移除定义中「梯田与多样作物组合」这一无源断言。待 FAO 山地正文页到位后再升级。 【第23轮实证复核】实测：s016（FAO Land overview）200 / 4070 字符 / mountain|terrace|slope 命中 **0**；s083（FAO 土壤数据）200 / 2268 字符 / 命中 **0**，且其 note 明写「mountain 命中 0，不用于山地条目」→ 已移除 s083。缺口为「FAO 山地农业正文页」。 已按 note 提示移除 s083（不用于山地条目），补入 s015/s018 区域农业机构页维持 ≥2。 【第25轮实证复核·山地农业】正则 mountain|terrace；s016-fao-org(200/正文4070字符/命中0)；s015-fao-org(200/正文9643字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「山地农业」专题页时维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -368,7 +368,7 @@
         "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Cities/City 页面不可用，维持 L1。 【第18轮矩阵清理】移除s025（OWID Urbanization，与城市起源的政权/聚落史主题错配；D049 同型）。 【第18轮补底】新增 un-m49/s010 区域或文化机构背景来源。 【第23轮实证复核】实测：s010（UNESCO Culture）200 / 剥离后 **218 字符** / city|urban|settlement 命中 **0**；un-m49（UNSD M49）200 / 144945 字符 / 命中 **2**（仅国家分组级）。缺口为「早期城市/聚落考古专题页」（此前按 theme=政权更替 机械写为政权年代序列，已按主题纠正）。 【第24轮实证复核】s010-unesco-org=200/正文218字符/命中0；un-m49=200/正文144945字符/命中2。 【第25轮实证复核·城市起源】正则 city|urban；s010-unesco-org(0/正文0字符/命中0)；un-m49(200/正文144945字符/命中2)。",
+      "pending_notes": "第8轮来源探测：Livius Cities/City 页面不可用，维持 L1。 【第18轮矩阵清理】移除s025（OWID Urbanization，与城市起源的政权/聚落史主题错配；D049 同型）。 【第18轮补底】新增 un-m49/s010 区域或文化机构背景来源。 【第23轮实证复核】实测：s010（UNESCO Culture）200 / 剥离后 **218 字符** / city|urban|settlement 命中 **0**；un-m49（UNSD M49）200 / 144945 字符 / 命中 **2**（仅国家分组级）。缺口为「早期城市/聚落考古专题页」（此前按 theme=政权更替 机械写为政权年代序列，已按主题纠正）。 【第24轮实证复核】s010-unesco-org=200/正文218字符/命中0；un-m49=200/正文144945字符/命中2。 【第25轮实证复核·城市起源】正则 city|urban；s010-unesco-org(200/正文218字符/命中0，UNESCO 返回 Cloudflare 挑战页；另有间歇 reset)；un-m49(200/正文144945字符/命中2)。 D055 判定：未达标（最高命中 2，最高正文 144945 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「城市起源」专题页时维持 L1。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -536,7 +536,7 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
@@ -546,7 +546,7 @@
       "influence": "人口增长与分布变化通过劳动力供给、消费结构与迁移流向影响区域发展；生育率、死亡率与迁移共同决定结构变化。人口现象需结合社会经济条件理解，不宜归因于单一因素。",
       "polities": "本条不展开政权序列；人口治理涉及户籍、移民与公共服务等制度安排，具体制度待专门资料核验。",
       "connections": "人口迁移把来源地与目的地连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
-      "today": "来源：世界银行 API（指标 SP.POP.TOTL）。总人口：印度 1,463,865,525（2025年）、中国 1,406,585,000（2025年）、美国 341,784,857（2025年）、尼日利亚 237,527,782（2025年）、巴西 212,812,405（2025年）、墨西哥 131,946,900（2025年）、埃及 118,365,995（2025年）。数据按世界银行口径，可能与各国普查结果略有差异。",
+      "today": "来源：世界银行 API。总人口（指标 SP.POP.TOTL）：印度 1,463,865,525（2025年）、中国 1,406,585,000（2025年）、美国 341,784,857（2025年）、尼日利亚 237,527,782（2025年）、巴西 212,812,405（2025年）、墨西哥 131,946,900（2025年）、埃及 118,365,995（2025年）。数据按世界银行口径，可能与各国普查结果略有差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><circle cx='120' cy='200' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='225' cy='245' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='330' cy='290' r='30' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='435' cy='200' r='36' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='540' cy='245' r='18' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='645' cy='290' r='24' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='40' y='360' class='dim'>人口地理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
@@ -1144,13 +1144,13 @@
         "wb-api-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按**条目主题**判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
       "last_update": "2026-11-22",
-      "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS）。城市人口占比：中国 66.3%（2025年）、印度 35.7%（2025年）、巴西 88.2%（2025年）、墨西哥 80.0%（2025年）、埃及 42.9%（2025年）。尼日利亚与美国该指标本期未返回，故不列。各国口径与统计年份不完全一致，跨国比较需注意定义差异。"
+      "today": "来源：世界银行 API。城市人口占比（指标 SP.URB.TOTL.IN.ZS）：中国 66.3%（2025年）、印度 35.7%（2025年）、巴西 88.2%（2025年）、墨西哥 80.0%（2025年）、埃及 42.9%（2025年）、尼日利亚 63.8%（2025年）、美国 80.2%（2025年）。各国统计口径与年份不完全一致，跨国比较需注意定义差异。"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x53d8x5316",
@@ -2005,13 +2005,13 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
       "outlines": [
         "World Bank Latin America and the Caribbean 区域页",
         "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22",
-      "today": "以代表性国家为例，来源：世界银行 API。巴西城市化率 88.2%（2025年）、墨西哥 80.0%（2025年）；巴西总人口 212,812,405（2025年）、墨西哥 131,946,900（2025年）；巴西森林覆盖率 58.5%（2024年）。区域内部差异大，本数据仅示量级，不代表区域整体。"
+      "today": "以代表性国家为例，来源：世界银行 API。巴西城市化率 88.2%（2025年）（SP.URB.TOTL.IN.ZS）、墨西哥 80.0%（2025年）（同指标）；巴西总人口 212,812,405（2025年）（SP.POP.TOTL）、墨西哥 131,946,900（2025年）；巴西森林覆盖率 58.5%（2024年）（AG.LND.FRST.ZS）。区域内部差异大，本数据仅示量级，不代表区域整体。"
     },
     {
       "id": "global-themes-x4e2dx4e1cx4e0ex5317x975ex533ax57dfx53d1x5c55",
@@ -2032,16 +2032,17 @@
         "s067-worldbank-org",
         "un-m49",
         "wb-api-pop",
-        "wb-api-urban"
+        "wb-api-urban",
+        "wb-api-agri"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
       "outlines": [
         "World Bank MENA 区域页",
         "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22",
-      "today": "以埃及为例，来源：世界银行 API。城市化率 42.9%（2025年）、总人口 118,365,995（2025年）、农业增加值占 GDP 16.6%（2025年）。区域内产油国与进口国差异显著，不宜以单一国家代表全域。"
+      "today": "以埃及为例，来源：世界银行 API。城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 118,365,995（2025年）（SP.POP.TOTL）、农业增加值占 GDP 16.6%（2025年）（NV.AGR.TOTL.ZS）。区域内产油国与进口国差异显著，不宜以单一国家代表全域。"
     },
     {
       "id": "global-themes-x5357x4e9ax533ax57dfx53d1x5c55",
@@ -2065,13 +2066,13 @@
         "wb-api-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按国家+指标复现；跨国比较的口径差异已在正文注明。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
       "outlines": [
         "World Bank South Asia 区域页",
         "World Bank DataBank WDI"
       ],
       "last_update": "2026-11-22",
-      "today": "以印度为例，来源：世界银行 API。城市化率 35.7%（2025年）、总人口 1,463,865,525（2025年）、森林覆盖率 24.4%（2024年）。南亚各国差异大，本数据仅示量级。"
+      "today": "以印度为例，来源：世界银行 API。城市化率 35.7%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 1,463,865,525（2025年）（SP.POP.TOTL）、森林覆盖率 24.4%（2024年）（AG.LND.FRST.ZS）。南亚各国差异大，本数据仅示量级。"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x8dddx5e73",

@@ -2601,6 +2601,32 @@
       "verified": true,
       "page_title": "World Bank Indicator API — Urban population (% of total)",
       "note": "JSON API 200；11638 字节；返回逐年年城市化率（2025 年 66.34%，共 66 条）；正则为 urban|value。用于城市化水平条目的年份-数值核对。"
+    },
+    {
+      "id": "wb-api-forest",
+      "title": "World Bank Indicator API — Forest area (% of land area) AG.LND.FRST.ZS",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/AG.LND.FRST.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank Indicator API — Forest area (% of land area) AG.LND.FRST.ZS",
+      "note": "JSON API 200；返回逐年年森林覆盖率（巴西 2024 年 58.5%）；正则为 forest|value。"
+    },
+    {
+      "id": "wb-api-agri",
+      "title": "World Bank Indicator API — Agriculture, value added (% of GDP) NV.AGR.TOTL.ZS",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/EGY/indicator/NV.AGR.TOTL.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank Indicator API — Agriculture, value added (% of GDP) NV.AGR.TOTL.ZS",
+      "note": "JSON API 200；返回逐年农业增加值占 GDP 比重（埃及 2025 年 16.6%）；正则为 agr|value。"
     }
   ]
 }

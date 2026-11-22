@@ -73,6 +73,11 @@
       "value": 22.9790557916205,
       "year": "2025",
       "country": "Nigeria"
+    },
+    "urban_pct": {
+      "value": 63.7754180467872,
+      "year": "2025",
+      "country": "Nigeria"
     }
   },
   "BRA": {
@@ -121,6 +126,11 @@
     "agri_pct_gdp": {
       "value": 0.942961672907101,
       "year": "2021",
+      "country": "United States"
+    },
+    "urban_pct": {
+      "value": 80.1921733027869,
+      "year": "2025",
       "country": "United States"
     }
   },
