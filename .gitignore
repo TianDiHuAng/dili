@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 reports/_*.pdf
+wbchk_*.json
+*.tmp.html
