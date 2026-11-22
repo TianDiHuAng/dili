@@ -758,10 +758,10 @@
       ],
       "sources": [
         "s082-ourworldindata-org",
-        "s057-databank-worldbank-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
@@ -866,10 +866,10 @@
       ],
       "sources": [
         "s044-earthobservatory-nasa-gov",
-        "s025-ourworldindata-org"
+        "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
@@ -1135,11 +1135,10 @@
         "global-themes-x57cex5e02x5730x7406"
       ],
       "sources": [
-        "s025-ourworldindata-org",
-        "s058-worldbank-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
@@ -1384,10 +1383,10 @@
       ],
       "sources": [
         "s088-worldbank-org",
-        "s025-ourworldindata-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
@@ -1547,11 +1546,11 @@
       "overview": "适应政策通过基础设施、预警与生态管理降低气候影响，成效取决于实施能力与地方条件。",
       "related": [],
       "sources": [
-        "s011-unesco-org",
-        "s060-worldbank-org"
+        "s060-worldbank-org",
+        "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s011（UNESCO Climate action 政策页，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
@@ -1936,10 +1935,10 @@
       ],
       "sources": [
         "s064-worldbank-org",
-        "s057-databank-worldbank-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
@@ -1962,10 +1961,10 @@
       ],
       "sources": [
         "s065-worldbank-org",
-        "s057-databank-worldbank-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
@@ -1988,10 +1987,10 @@
       ],
       "sources": [
         "s066-worldbank-org",
-        "s057-databank-worldbank-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "World Bank Latin America and the Caribbean 区域页",
         "World Bank DataBank WDI"
@@ -2015,10 +2014,10 @@
       ],
       "sources": [
         "s067-worldbank-org",
-        "s057-databank-worldbank-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "World Bank MENA 区域页",
         "World Bank DataBank WDI"
@@ -2042,10 +2041,10 @@
       ],
       "sources": [
         "s068-worldbank-org",
-        "s057-databank-worldbank-org"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
       "outlines": [
         "World Bank South Asia 区域页",
         "World Bank DataBank WDI"
