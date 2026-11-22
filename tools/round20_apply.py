@@ -77,6 +77,7 @@ for t,e in T.items():
   e["pending_notes"]=(e.get("pending_notes") or "")+line
   e["last_update"]=TODAY;n+=1
 
+for t in C: upgrade(t)   # D058：升级必须实际调用
 for u,d in docs.items(): json.dump(d,open(os.path.join(DATA,u+".json"),"w",encoding="utf-8"),ensure_ascii=False,indent=2)
 update_coverage(docs)
 print("升级",list(C),"遗产分级标注",n)

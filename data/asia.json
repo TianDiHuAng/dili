@@ -718,7 +718,7 @@
         "s014-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。 【第20轮来源分级】别名 4 + 机构 1（专题页缺失）；所需专题页类型：农业类正文页（D055 达标）。",
+      "pending_notes": "第4轮复核：东亚×农业；新增背景来源 s014-fao-org，现有来源均已核验，但 作物制度、农业起源与水利细节的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 标记】本条为规则生效前的 L2，来源以数据层别名为主，未满足「一专题页+一机构页」，待补专题来源后重新校验。 【第20轮来源分级】全别名（其中 s014-fao-org 为 FAOSTAT 壳页，可视正文约 7 字符，不构成正文依据）；所需专题页类型：农业类正文页（D055 达标）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1188,7 +1188,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Mongols 与 UNESCO Mongol Empire 页面不可核验，维持 L1。 【第20轮复核】中亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第8轮来源探测：Livius Mongols 与 UNESCO Mongol Empire 页面不可核验，维持 L1。 【第20轮复核】中亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 D053：现有来源含壳别名（wikipedia-regions 约 5 字符）与门户首页（s075 AAG），均不构成独立正文依据。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1316,7 +1316,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第20轮复核】西亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。",
+      "pending_notes": "第17轮复核：西亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第20轮复核】西亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 D053：现有来源含壳别名（wikipedia-regions 约 5 字符）与门户首页（s075 AAG），均不构成独立正文依据。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

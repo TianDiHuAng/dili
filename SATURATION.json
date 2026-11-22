@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 19,
+  "last_round": 20,
   "history": [
     {
       "round": 1,
@@ -218,6 +218,18 @@
       "methods_used": [
         "B1主题页复核(D055)",
         "修复(矩阵清理)",
+        "B5待核实",
+        "B7深度",
+        "B2覆盖矩阵"
+      ],
+      "gaps_found": 325,
+      "result": "非饱和"
+    },
+    {
+      "round": 20,
+      "methods_used": [
+        "B1主题页探测",
+        "遗产L2来源分级",
         "B5待核实",
         "B7深度",
         "B2覆盖矩阵"

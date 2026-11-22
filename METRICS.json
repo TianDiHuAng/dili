@@ -266,6 +266,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：6 PASS/4 FAIL（GIS达线仅余4字符+表述超源、植物物候与北极火情各含无源断言、城市化水平补底源零相关）→返工：删无源断言、改GIS表述与错字、恢复s025到正确主题、补D053标注、D055三档规则文本入库",
       "note": "D055 长度分档首次应用：12条升级（4条重要+8条补充）；矩阵清理13处"
+    },
+    {
+      "round": 20,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 38,
+      "fixes": 36,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 2,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：1条升级未落盘(脚本未调用upgrade)、渔业五段超源、土壤GSP实质正文仅2076字符、宋代分级高估→返工：补跑渔业升级并收敛为管理导向五段、土壤保持L1、三处D053标注、宋代分级改写；新增D058流程规则",
+      "note": "渔业资源/土壤资源按D055升级；36条遗产L2来源分级标注"
     }
   ]
 }

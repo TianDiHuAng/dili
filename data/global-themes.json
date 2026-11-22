@@ -1246,24 +1246,30 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "渔业资源：海洋与内陆渔业资源受水文、生态与捕捞压力影响，是沿海与岛国经济的重要组成部分。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "海洋与内陆渔业资源受水文、生态与捕捞压力影响，是沿海与岛国经济的重要组成部分。",
+      "level": "L2",
+      "status": "L2完成(第20轮)-主题页",
+      "definition": "渔业资源：可被捕捞利用的鱼类与无脊椎动物种群，其状况由种群评估判断，并受捕捞压力与管理措施影响。",
+      "time_or_place": "现代渔业管理实践（年份以来源页面为准）",
+      "overview": "可被捕捞利用的鱼类与无脊椎动物种群，其状况由种群评估判断，并受捕捞压力与管理措施影响。",
       "related": [
         "global-themes-x6d77x6d0bx4fddx62a4x533a"
       ],
       "sources": [
-        "s051-fisheries-noaa-gov",
-        "s050-oceanservice-noaa-gov"
+        "noaa-sustainable-fisheries",
+        "s051-fisheries-noaa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "第20轮按 D055 档①升级：专题页 noaa-sustainable-fisheries 标题即主题、剥离后 19729 字符、fisher|sustainab 命中 165。五段已收敛到该页可支撑的管理内容（种群评估/限额/兼捕/重建），删除「上升流/大陆架/河口/水温饵料」等生态分布断言（该页 habitat/continental shelf/upwelling 命中为 0）。D053：第二源 s051 为 NOAA Fisheries 门户首页，不构成独立正文依据。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "渔业资源分布于海洋与内陆水域，资源状况需按种群分别评估。种群评估以渔获、调查与生物学数据推算资源量与可持续捕捞水平，是管理决策的技术基础。",
+      "influence": "过度捕捞会削弱种群的生产力与恢复能力，兼捕则影响非目标物种与栖息地。限额管理、兼捕减少措施与种群重建计划是主要应对手段，成效取决于监测与执行。",
+      "polities": "本条不展开政权序列；配额分配、渔业权属与执法属治理议题，具体制度待专门资料核验。",
+      "connections": "渔业通过贸易与加工链连接产地与消费市场；共享种群与洄游物种使邻国间的管理协作成为必要。",
+      "today": "多国依据法定框架实施种群评估与捕捞限额。资源量、上岸量与配额数据需按年份从 NOAA/FAO 机构页核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='渔业管理示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='300' cy='190' rx='130' ry='62' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='520' cy='240' rx='90' ry='45' fill='none' stroke='var(--accent)' stroke-width='3'/><path d='M300 190 L520 240' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='5 4'/><circle cx='300' cy='190' r='5' class='pt'/><text x='250' y='165' class='lbl'>种群评估</text><circle cx='520' cy='240' r='5' class='pt'/><text x='500' y='290' class='lbl'>限额管理</text><text x='40' y='370' class='dim'>渔业管理 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x6781x7aefx5929x6c14x9884x8b66",
@@ -1311,7 +1317,7 @@
         "s018-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第20轮】拟按 D055 升级未成立：fao-global-soil-partnership 剥离后 5215 字符，但剔除新闻块与视频列表后实质正文约 2076 字符（<5000 门槛），页面主体为伙伴关系治理而非土壤本体；相应五段（盐渍化/有机质/固碳/保护性耕作/母质/地带性）在该页命中为 0。保持 L1，待土壤本体专题页（≥5000 实质字符）到位后再升级。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
