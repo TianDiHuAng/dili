@@ -866,6 +866,276 @@
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x9884x671fx5bffx547dx7a7ax95f4x5deex5f02",
+      "title": "预期寿命空间差异",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "预期寿命空间差异：不同地区预期寿命差异受医疗、营养、冲突与年龄结构等多因素影响，是社会地理的重要指标。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "不同地区预期寿命差异受医疗、营养、冲突与年龄结构等多因素影响，是社会地理的重要指标。",
+      "related": [
+        "global-themes-x4ebax53e3x5e74x9f84x7ed3x6784"
+      ],
+      "sources": [
+        "s033-ourworldindata-org",
+        "s004-population-un-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax5747x4ea7x51fax7a7ax95f4x5deex5f02",
+      "title": "人均产出空间差异",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "人均产出空间差异：人均经济产出的地区差异反映产业结构、人口规模与制度条件的组合，不能直接等同于生活水平。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "人均经济产出的地区差异反映产业结构、人口规模与制度条件的组合，不能直接等同于生活水平。",
+      "related": [
+        "global-themes-x6781x7aefx8d2bx56f0x7a7ax95f4x5206x5e03"
+      ],
+      "sources": [
+        "s034-ourworldindata-org",
+        "s057-databank-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4f5cx7269x5355x4ea7x5deex5f02",
+      "title": "作物单产差异",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "作物单产差异：单位面积作物产量差异与土壤、气候、投入品和管理方式有关，是粮食安全分析的基础。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "单位面积作物产量差异与土壤、气候、投入品和管理方式有关，是粮食安全分析的基础。",
+      "related": [
+        "global-themes-x571fx5730x5229x7528x53d8x5316"
+      ],
+      "sources": [
+        "s078-ourworldindata-org",
+        "s014-fao-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x80a5x6599x4f7fx7528x4e0ex73afx5883",
+      "title": "肥料使用与环境",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "肥料使用与环境：肥料投入提高作物产量，也可能通过径流与氧化亚氮排放影响水土与气候，需结合区域条件评估。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "肥料投入提高作物产量，也可能通过径流与氧化亚氮排放影响水土与气候，需结合区域条件评估。",
+      "related": [
+        "global-themes-x4f5cx7269x5355x4ea7x5deex5f02"
+      ],
+      "sources": [
+        "s079-ourworldindata-org",
+        "s018-fao-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x8089x5976x751fx4ea7x4e0ex571fx5730",
+      "title": "肉奶生产与土地",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "肉奶生产与土地：肉奶生产需要饲料与牧场，土地利用与温室气体排放随生产方式和区域条件变化。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "肉奶生产需要饲料与牧场，土地利用与温室气体排放随生产方式和区域条件变化。",
+      "related": [
+        "global-themes-x571fx5730x5229x7528x53d8x5316"
+      ],
+      "sources": [
+        "s080-ourworldindata-org",
+        "s077-ourworldindata-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x81eax7136x707ex5bb3x98cex9669",
+      "title": "自然灾害风险",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "自然灾害风险：灾害风险是致灾因子、暴露程度与脆弱性共同作用的结果，地理分布并不等同于风险本身。",
+      "time_or_place": "现代观测（年份以来源页面为准）",
+      "overview": "灾害风险是致灾因子、暴露程度与脆弱性共同作用的结果，地理分布并不等同于风险本身。",
+      "related": [
+        "global-themes-x6c14x5019x5e26"
+      ],
+      "sources": [
+        "s031-ourworldindata-org",
+        "s056-earthquake-usgs-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x68eex6797x9762x79efx5360x6bd4",
+      "title": "森林面积占比",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "森林面积占比：森林覆盖率反映土地利用与生态状况，其变化与气候、木材需求和政策共同关联。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "森林覆盖率反映土地利用与生态状况，其变化与气候、木材需求和政策共同关联。",
+      "related": [
+        "global-themes-x68eex6797x8986x76d6x53d8x5316"
+      ],
+      "sources": [
+        "s036-ourworldindata-org",
+        "s018-fao-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax53e3x589ex957f",
+      "title": "人口增长",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "人口增长：人口增长由出生、死亡与迁移共同决定，地区差异与年龄结构、城市化和政策环境相关。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "人口增长由出生、死亡与迁移共同决定，地区差异与年龄结构、城市化和政策环境相关。",
+      "related": [
+        "global-themes-x4ebax53e3x5730x7406"
+      ],
+      "sources": [
+        "s023-ourworldindata-org",
+        "s004-population-un-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x57cex5e02x5316x6c34x5e73",
+      "title": "城市化水平",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "城市化水平：城市人口比例变化反映经济结构、迁移与公共服务供给，不同国家口径可能不同。",
+      "time_or_place": "现代统计（年份以来源页面为准）",
+      "overview": "城市人口比例变化反映经济结构、迁移与公共服务供给，不同国家口径可能不同。",
+      "related": [
+        "global-themes-x57cex5e02x5730x7406"
+      ],
+      "sources": [
+        "s025-ourworldindata-org",
+        "s058-worldbank-org"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5168x7403x6c14x6e29x53d8x5316",
+      "title": "全球气温变化",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成(第10轮)",
+      "definition": "全球气温变化：全球平均气温变化是气候系统状态的核心指标，区域差异明显，解读需结合长期序列与观测方法。",
+      "time_or_place": "现代观测（年份以来源页面为准）",
+      "overview": "全球平均气温变化是气候系统状态的核心指标，区域差异明显，解读需结合长期序列与观测方法。",
+      "related": [
+        "global-themes-x78b3x6392x653ex7a7ax95f4x5deex5f02"
+      ],
+      "sources": [
+        "s026-ourworldindata-org",
+        "s039-climate-nasa-gov"
+      ],
+      "needs_verification": true,
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "outlines": [
+        "Our World in Data 主题页",
+        "UN/FAO/World Bank/NASA 机构页"
+      ],
+      "last_update": "2026-11-22"
     }
   ]
 }

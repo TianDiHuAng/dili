@@ -1755,6 +1755,96 @@
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x9884x671fx5bffx547dx7a7ax95f4x5deex5f02",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax5747x4ea7x51fax7a7ax95f4x5deex5f02",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4f5cx7269x5355x4ea7x5deex5f02",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x80a5x6599x4f7fx7528x4e0ex73afx5883",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x8089x5976x751fx4ea7x4e0ex571fx5730",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x81eax7136x707ex5bb3x98cex9669",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x68eex6797x9762x79efx5360x6bd4",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax53e3x589ex957f",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x57cex5e02x5316x6c34x5e73",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5168x7403x6c14x6e29x53d8x5316",
+      "level": "L1",
+      "tier": "补充",
+      "status": "L1完成(第10轮)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
     }
   ],
   "matrix": {
@@ -1816,11 +1906,11 @@
     },
     "global-themes": {
       "地形": 4,
-      "气候": 9,
-      "农业": 3,
-      "贸易": 2,
+      "气候": 12,
+      "农业": 6,
+      "贸易": 3,
       "政权更替": 1,
-      "区域": 10
+      "区域": 13
     }
   },
   "round": 1,
