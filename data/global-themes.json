@@ -259,28 +259,34 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "冲积平原：河流泛滥沉积形成肥沃平原，是早期文明摇篮。",
-      "time_or_place": "全新世",
-      "overview": "河流泛滥沉积形成肥沃平原，是早期文明摇篮。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "冲积平原：河流搬运的泥沙在河道两侧或下游堆积形成的平坦地形，常见于大河中下游。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "河流搬运的泥沙在河道两侧或下游堆积形成的平坦地形，常见于大河中下游。",
       "related": [
         "global-themes-x5c71x5730x519cx4e1a",
         "global-themes-x677fx5757x6784x9020",
         "global-themes-x5927x9646x6f02x79fb"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "s015-fao-org",
+        "s016-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "地形由河流沉积作用形成，土层深厚、地势平缓，河网与古河道交错。沉积物粒径与厚度记录了水动力变化，洪水泛滥是塑造过程的一部分。",
+      "influence": "深厚土层与灌溉便利有利于农业，地势低平也带来洪涝与排水问题。土地利用与防洪体系相关，不能仅由地形推断社会形态。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "冲积平原与上游流域、下游三角洲和沿海湿地在物质输移上连成一体，泥沙与养分沿水系传递。",
+      "today": "洪水管理、地面沉降与土壤质量是主要议题。沉积速率、耕地面积与洪水频率需按年份从 FAO 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='冲积平原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>冲积平原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x5c71x5730x519cx4e1a",
@@ -289,28 +295,34 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "山地农业：梯田与垂直土地利用是山地适应的普遍方式。",
-      "time_or_place": "古代至今",
-      "overview": "梯田与垂直土地利用是山地适应的普遍方式。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "山地农业：在高差大、坡度陡的地区进行的农业活动，常以梯田、轮作与多样作物组合适应环境。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "在高差大、坡度陡的地区进行的农业活动，常以梯田、轮作与多样作物组合适应环境。",
       "related": [
         "global-themes-x51b2x79efx5e73x539f",
         "global-themes-x677fx5757x6784x9020",
         "global-themes-x5927x9646x6f02x79fb"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "s016-fao-org",
+        "s083-fao-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "山地具有明显的垂直气候带，气温与降水随海拔变化，土层薄且易受侵蚀。坡面水文过程快，水土保持是耕作的前提条件。",
+      "influence": "垂直分带使同一区域可种植不同作物，梯田与等高耕作有助于保持水土。耕作方式受土地制度与技术条件影响，不是环境的必然结果。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "山地农业区常与低地市场形成垂直交换，山货与粮食沿山路与河谷流动。",
+      "today": "坡地退化、劳动力变化与气候变化是主要议题。耕地面积、产量与土壤侵蚀数据需按年份从 FAO 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='山地农业示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<g stroke='var(--accent)' stroke-width='2'><rect x='80' y='210' width='60' height='90' fill='none'/><rect x='175' y='210' width='60' height='90' fill='none'/><rect x='270' y='210' width='60' height='90' fill='none'/><rect x='365' y='210' width='60' height='90' fill='none'/><rect x='460' y='210' width='60' height='90' fill='none'/><rect x='555' y='210' width='60' height='90' fill='none'/><rect x='650' y='210' width='60' height='90' fill='none'/></g>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>山地农业</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x6e38x7267",
@@ -384,27 +396,33 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "人口迁移：环境、经济与政治因素驱动人口流动，改变区域分布。",
-      "time_or_place": "史前至今",
-      "overview": "环境、经济与政治因素驱动人口流动，改变区域分布。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "人口迁移：人口在地理空间上的移动，按范围可分为区域内、跨区域与国际迁移。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "人口在地理空间上的移动，按范围可分为区域内、跨区域与国际迁移。",
       "related": [
         "global-themes-x677fx5757x6784x9020",
         "global-themes-x5927x9646x6f02x79fb"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions"
+        "s004-population-un-org",
+        "s023-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "迁移流与来源地、目的地之间的经济机会、环境条件与交通可达性相关；迁移网络一旦形成，会沿既有路径持续。",
+      "influence": "迁移改变人口分布与年龄结构，也影响来源地与目的地的劳动力与公共服务。迁移决策由多因素驱动，不宜归因于单一环境压力。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "迁移把不同区域连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
+      "today": "城市化与国际迁移是当代主要趋势，统计口径因国家而异。净迁移率、城市化率与人口分布数据需按年份从 UN/OWID 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='人口迁移示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<ellipse cx='380' cy='220' rx='230' ry='110' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>全球</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>人口迁移</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "global-themes-x690dx7269x7269x5019x53d8x5316",

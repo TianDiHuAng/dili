@@ -48,30 +48,33 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第12轮)",
-      "definition": "北美冰盖：劳伦泰德冰盖塑造五大湖与冰碛地貌。",
-      "time_or_place": "更新世",
-      "overview": "劳伦泰德冰盖塑造五大湖与冰碛地貌。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "北美冰盖：更新世时期覆盖北美北部的巨大冰体，对地形、水系与沉积物分布留下深远影响。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "更新世时期覆盖北美北部的巨大冰体，对地形、水系与沉积物分布留下深远影响。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x843dx57fax5c71x8109",
         "north-america-x5927x5e73x539f"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo",
-        "s056-earthquake-usgs-gov",
-        "s038-earthobservatory-nasa-gov"
+        "s038-earthobservatory-nasa-gov",
+        "s043-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "冰盖中心位于今加拿大北部，向南推进时侵蚀基岩、搬运碎屑，并在退却后留下冰碛、鼓丘与冰川湖。冰体消长与气候波动同步。",
+      "influence": "冰川作用塑造了五大湖盆地、冰碛丘陵与河谷，影响后来的水系与土壤分布。地貌与气候的因果关系有明确证据，但具体时序仍需区域资料细化。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "冰盖范围变化改变了水系与海岸线，进而影响生物迁移与后续人类活动的地理条件。",
+      "today": "作为古环境研究对象，其范围与消退时间由地质与湖泊沉积记录重建。年代与范围数据需按年份从 USGS/NASA 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='北美冰盖示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>北美冰盖</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x5927x5e73x539f",
@@ -221,11 +224,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第12轮)",
-      "definition": "五大湖：北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
-      "time_or_place": "北美中东部（湖群形成细节待核）",
-      "overview": "北美中东部的淡水湖群，通过圣劳伦斯河与大西洋相连。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "五大湖：北美中东部的淡水湖群，位于美加交界地带，由地质与冰川过程塑造，通过圣劳伦斯河通向大西洋。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "北美中东部的淡水湖群，位于美加交界地带，由地质与冰川过程塑造，通过圣劳伦斯河通向大西洋。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6",
@@ -233,18 +236,22 @@
       ],
       "sources": [
         "epa-great-lakes",
-        "noaa-glerl",
-        "s056-earthquake-usgs-gov",
-        "s038-earthobservatory-nasa-gov"
+        "noaa-glerl"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "湖群由多个相连的大型淡水湖组成，湖岸线曲折，水域面积广阔。湖区受温带气候影响，冬季结冰与季节水位变化是重要水文特征；湖泊沉积与岸线形态记录了冰川作用的影响。",
+      "influence": "淡水与航运条件支撑沿岸聚落与产业，湖泊生态对营养盐输入和外来物种敏感。人类利用方式与流域管理相关，具体开发格局需结合专门资料，不作单一环境解释。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "湖群经河道与运河网络连接大西洋水系，湖区内部以水道相连，形成跨区域的淡水与运输系统。",
+      "today": "湖泊富营养化、外来物种与水位波动是长期管理议题；渔业与饮用水供给依赖持续监测。面积、水量与水质指标需按年份从 EPA/NOAA 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='五大湖示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>五大湖</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x79d1x7f57x62c9x591ax9ad8x539f",
@@ -253,30 +260,33 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第12轮)",
-      "definition": "科罗拉多高原：干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
-      "time_or_place": "约中生代至今",
-      "overview": "干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "科罗拉多高原：北美西南部的高原区，以层状沉积岩、深切峡谷与干旱地貌著称。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "北美西南部的高原区，以层状沉积岩、深切峡谷与干旱地貌著称。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6",
         "north-america-x5927x5e73x539f"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "ap-human-geo",
         "s056-earthquake-usgs-gov",
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "高原由多套沉积岩层构成，河流下切形成深峡谷。气候干旱，降水集中于短时强降雨，物理风化与流水侵蚀主导地貌演化。",
+      "influence": "干旱与深切地形限制农业与交通，河谷与泉水点决定聚落位置。地貌与气候条件提供约束，土地利用方式还受制度与技术影响。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "高原通过河流系统与下游干旱区相连，水系把泥沙与溶解物质输送到更远区域。",
+      "today": "水资源分配、侵蚀与旅游管理是当代议题。降水、径流与地层数据需按年份从 USGS/NASA 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='科罗拉多高原示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>科罗拉多高原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x58a8x897fx54e5x6e7e",
@@ -285,28 +295,32 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "气候",
-      "level": "L1",
-      "status": "已复核(第12轮)",
-      "definition": "墨西哥湾：暖湿气流源，影响美国南部降水与飓风路径。",
-      "time_or_place": "古代至今",
-      "overview": "暖湿气流源，影响美国南部降水与飓风路径。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "墨西哥湾：北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "s039-climate-nasa-gov",
+        "s050-oceanservice-noaa-gov",
         "s048-climate-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：北美洲×气候；新增背景来源 无，现有来源均已核验，但 气候机制与长期变化数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "海湾水深较浅，沿岸有三角洲、湿地与堡礁带。暖湿海面为风暴提供水汽与能量，季节性的环流与径流输入影响盐度与营养分布。",
+      "influence": "海湾渔业与航运价值高，暖湿条件也使沿岸易受飓风影响。灾害风险取决于暴露程度与防护能力，不能只由气候条件解释。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "海湾与加勒比海、大西洋水体交换，密西西比河等河流带来淡水与泥沙，形成独特的河口生态。",
+      "today": "湿地流失、缺氧区与风暴灾害是管理重点。海温、水位与渔业数据需按年份从 NOAA 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='墨西哥湾示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 180 C180 150 300 210 420 170 C540 130 620 190 700 160' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='8 6'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>墨西哥湾</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x4e2dx7f8ex6d32x5730x5ce1",
@@ -548,29 +562,33 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第12轮)",
-      "definition": "格陵兰岛：世界最大岛，冰盖覆盖，因纽特人适应极地环境。",
-      "time_or_place": "古代至今",
-      "overview": "世界最大岛，冰盖覆盖，因纽特人适应极地环境。",
+      "level": "L2",
+      "status": "L2完成(第14轮)-窄化自然地理",
+      "definition": "格陵兰岛：世界最大岛屿，大部分面积被冰盖覆盖，位于北大西洋与北冰洋之间。",
+      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "overview": "世界最大岛屿，大部分面积被冰盖覆盖，位于北大西洋与北冰洋之间。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6",
         "north-america-x5927x5e73x539f"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "s056-earthquake-usgs-gov",
-        "s038-earthobservatory-nasa-gov"
+        "s037-science-nasa-gov",
+        "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：北美洲×地形；新增背景来源 无，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮窄化升级：仅写来源可支撑的自然地理/生态/人口内容，政权与年代细节留待专门史料；现状数值待按年份核验。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-22",
+      "geo": "岛屿内陆为巨厚冰盖，边缘分布冰原、峡湾与裸露岩地。高纬位置带来极昼极夜与严寒气候，冰盖积累与消融决定冰体质量平衡。",
+      "influence": "冰盖储量变化影响全球海平面，是气候系统的关键变量；沿海地带受海冰与洋流影响，人类活动集中于少数定居点。具体影响需结合观测，不作单因推断。",
+      "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+      "connections": "岛屿与北大西洋、北冰洋水域相连，冰盖与海洋通过冰川输出和大气环流相互作用。",
+      "today": "冰盖质量变化与海平面关系是研究重点。冰量、气温与融水数据需按年份从 NASA/NOAA 等机构页面核验。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='格陵兰岛示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 300 L180 190 L260 250 L360 140 L470 250 L580 170 L700 300' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北美洲</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>格陵兰岛</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
     },
     {
       "id": "north-america-x65b0x6cd5x5170x897f",

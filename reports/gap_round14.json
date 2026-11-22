@@ -1,0 +1,107 @@
+{
+  "round": 14,
+  "gaps": {
+    "B1_source_fit": {
+      "method": "把 L2 内容窄化为来源可支撑的自然地理/生态/人口部分，政权与年代细节留待专门史料",
+      "candidates": [
+        [
+          "五大湖",
+          [
+            "epa-great-lakes",
+            "noaa-glerl"
+          ]
+        ],
+        [
+          "大堡礁",
+          [
+            "s050-oceanservice-noaa-gov",
+            "s085-unesco-org"
+          ]
+        ],
+        [
+          "格陵兰岛",
+          [
+            "s037-science-nasa-gov",
+            "s039-climate-nasa-gov"
+          ]
+        ],
+        [
+          "北美冰盖",
+          [
+            "s038-earthobservatory-nasa-gov",
+            "s043-earthobservatory-nasa-gov"
+          ]
+        ],
+        [
+          "科罗拉多高原",
+          [
+            "s056-earthquake-usgs-gov",
+            "s038-earthobservatory-nasa-gov"
+          ]
+        ],
+        [
+          "墨西哥湾",
+          [
+            "s050-oceanservice-noaa-gov",
+            "s048-climate-gov"
+          ]
+        ],
+        [
+          "尼罗河三角洲",
+          [
+            "fao-aquastat-basins",
+            "s013-fao-org"
+          ]
+        ],
+        [
+          "湄公河三角洲",
+          [
+            "fao-aquastat-basins",
+            "s013-fao-org"
+          ]
+        ],
+        [
+          "冲积平原",
+          [
+            "s015-fao-org",
+            "s016-fao-org"
+          ]
+        ],
+        [
+          "山地农业",
+          [
+            "s016-fao-org",
+            "s083-fao-org"
+          ]
+        ],
+        [
+          "人口迁移",
+          [
+            "s004-population-un-org",
+            "s023-ourworldindata-org"
+          ]
+        ]
+      ],
+      "count": 11
+    },
+    "B3_dangling": [],
+    "B4_reader_questions": {
+      "checked": 10,
+      "missing": [],
+      "count": 0
+    },
+    "B5_pending": {
+      "total": 233
+    },
+    "B7_depth": {
+      "core_l1": [
+        "asia-x957fx6c5fx6d41x57df",
+        "asia-x6c49x4ee3",
+        "asia-x8499x53e4x5e1dx56fd",
+        "north-america-x963fx5179x7279x514b",
+        "global-themes-x57cex5e02x8d77x6e90"
+      ],
+      "important_l1": 87
+    }
+  }
+}
