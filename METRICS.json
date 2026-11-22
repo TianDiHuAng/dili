@@ -177,6 +177,20 @@
       "new_sources": 0,
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：10/10 PASS，整批合格；18个来源URL全部HTTP 200且标题一致；World Bank区域页与主题对应"
+    },
+    {
+      "round": 14,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 11,
+      "reviews": 29,
+      "fixes": 10,
+      "pending_total": 233,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "首轮25%抽检10条：6 FAIL（来源换成机构首页/新闻页、3处越界残留）→整批返工：9条降级L1、保留2条并用NPS专题页重写→复核11/11 PASS；附条件4项已全部补齐（related语义、五大湖细节与五湖SVG、polities标题、台账）"
     }
   ]
 }

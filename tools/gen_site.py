@@ -146,9 +146,12 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
             labels = [("geo","地理概况"),("influence","地理条件对定居/农业/贸易/政治的影响"),("polities","主要文明或政权更替"),("connections","与相邻区域的联系"),("today","今天的状况")]
             for k, label in labels:
                 if e.get(k):
+                    if k == "polities" and str(e[k]).startswith("本条只写"):
+                        label = "政权与年代（本条不展开）"
                     parts.append(f'<div class="section"><h2>{label}</h2><p>{esc(e[k])}</p></div>')
             if e.get("svg"):
-                parts.append(f'<div class="section"><h2>示意地图</h2>{sanitize_svg(e["svg"])}<p class="dim">示意图，非精确测绘。</p></div>')
+                cap = "简笔示意，不代表精确位置与边界。" if "非精确测绘" in e["svg"] else "示意图，非精确测绘。"
+                parts.append(f'<div class="section"><h2>示意地图</h2>{sanitize_svg(e["svg"])}<p class="dim">{cap}</p></div>')
         if e.get("needs_verification"):
             parts.append(f'<div class="section warn"><h2>待核实</h2><p>{esc(e["pending_notes"])}</p></div>')
         parts.append('<div class="section"><h2>来源</h2><ul class="src">' + "".join(f"<li>{source_link(s, sources)}</li>" for s in e["sources"]) + "</ul></div>")

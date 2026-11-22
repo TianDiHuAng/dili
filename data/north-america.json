@@ -220,13 +220,13 @@
       "theme": "地形",
       "level": "L2",
       "status": "L2完成(第14轮)-专题来源",
-      "definition": "五大湖：北美中东部的五个相连大型淡水湖群，位于美加交界地带，经河道与大西洋水系相连。",
+      "definition": "五大湖：北美中东部的五个相连大型淡水湖群，位于美加交界地带，属圣劳伦斯水系。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "北美中东部的五个相连大型淡水湖群，位于美加交界地带，经河道与大西洋水系相连。",
+      "overview": "北美中东部的五个相连大型淡水湖群，位于美加交界地带，属圣劳伦斯水系。",
       "related": [
-        "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6",
-        "north-america-x5927x5e73x539f"
+        "north-america-x5bc6x897fx897fx6bd4x6cb3",
+        "north-america-x79d1x7f57x62c9x591ax9ad8x539f"
       ],
       "sources": [
         "epa-great-lakes",
@@ -240,12 +240,12 @@
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-22",
-      "geo": "湖群由五个相连的大型淡水湖组成，湖岸线曲折、水域面积广阔。湖区属温带气候，季节水位变化是重要水文特征。",
+      "geo": "湖群由五个相连的大型淡水湖组成，分别是苏必利尔湖、密歇根湖、休伦湖、伊利湖与安大略湖。湖区属温带气候，季节水位变化是重要水文特征。",
       "influence": "淡水与航运条件支撑沿岸聚落与产业，湖泊生态对营养盐输入和外来物种敏感。人类利用方式与流域管理相关，不作单一环境解释。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
-      "connections": "湖群内部以水道相连，并经河道与运河网络通向大西洋水系，构成跨区域的淡水与运输系统。",
+      "connections": "五个湖泊以水道相连，并汇入圣劳伦斯水系；具体通航与流域边界细节待专题页核验。",
       "today": "富营养化、外来物种与水位波动是长期管理议题；渔业与饮用水供给依赖持续监测。面积、水量与水质指标需按年份从 EPA/NOAA 机构页面核验。",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='250' cy='200' rx='90' ry='60' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='420' cy='170' rx='70' ry='45' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='530' cy='235' rx='60' ry='40' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='300' cy='170' r='5' class='pt'/><text x='315' y='175' class='lbl'>上湖</text><text x='60' y='370' class='dim'>示意图，非精确测绘</text></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='五大湖示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><ellipse cx='250' cy='150' rx='85' ry='55' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='330' cy='245' rx='55' ry='45' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='430' cy='205' rx='60' ry='50' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='515' cy='275' rx='50' ry='32' fill='none' stroke='var(--accent)' stroke-width='3'/><ellipse cx='585' cy='330' rx='45' ry='25' fill='none' stroke='var(--accent)' stroke-width='3'/><path d='M585 330 L660 352' fill='none' stroke='var(--accent2)' stroke-width='3' stroke-dasharray='6 4'/><circle cx='250' cy='150' r='5' class='pt'/><text x='175' y='120' class='lbl'>苏必利尔</text><circle cx='330' cy='245' r='5' class='pt'/><text x='300' y='275' class='lbl'>密歇根</text><circle cx='430' cy='205' r='5' class='pt'/><text x='405' y='180' class='lbl'>休伦</text><circle cx='515' cy='275' r='5' class='pt'/><text x='495' y='300' class='lbl'>伊利</text><circle cx='585' cy='330' r='5' class='pt'/><text x='570' y='300' class='lbl'>安大略</text><text x='665' y='356' class='lbl'>圣劳伦斯</text><text x='40' y='370' class='dim'>示意图，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x79d1x7f57x62c9x591ax9ad8x539f",
@@ -260,9 +260,9 @@
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "北美西南部的高原区，以层状沉积岩与深切峡谷著称，大峡谷是其代表地貌。",
       "related": [
-        "north-america-x767dx4ee4x9646x6865",
-        "north-america-x5317x7f8ex51b0x76d6",
-        "north-america-x5927x5e73x539f"
+        "north-america-x843dx57fax5c71x8109",
+        "north-america-x5927x5e73x539f",
+        "north-america-x5317x7f8ex51b0x76d6"
       ],
       "sources": [
         "nps-grand-canyon-geology",
@@ -295,8 +295,9 @@
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
       "overview": "北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
       "related": [
-        "north-america-x767dx4ee4x9646x6865",
-        "north-america-x5317x7f8ex51b0x76d6"
+        "north-america-x5bc6x897fx897fx6bd4x6cb3",
+        "north-america-x52a0x52d2x6bd4x6d77x7fa4x5c9b",
+        "north-america-x5927x5e73x539f"
       ],
       "sources": [
         "s050-oceanservice-noaa-gov",
