@@ -321,7 +321,7 @@
       "region": "西南欧",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第12轮)",
+      "status": "已复核(第14轮)",
       "definition": "伊比利亚半岛：比利牛斯山屏障与海岸线，罗马、西哥特与伊斯兰政权先后影响。",
       "time_or_place": "古代至今",
       "overview": "比利牛斯山屏障与海岸线，罗马、西哥特与伊斯兰政权先后影响。",
@@ -338,7 +338,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：西南欧×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮复核：西南欧×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -353,7 +353,7 @@
       "region": "西欧",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第12轮)",
+      "status": "已复核(第14轮)",
       "definition": "高卢：今法国一带，罗马化与封建制在此交汇。",
       "time_or_place": "古代至今",
       "overview": "今法国一带，罗马化与封建制在此交汇。",
@@ -370,7 +370,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：西欧×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮复核：西欧×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -451,7 +451,7 @@
       "region": "中欧",
       "theme": "区域",
       "level": "L1",
-      "status": "已复核(第12轮)",
+      "status": "已复核(第14轮)",
       "definition": "多瑙河：欧洲第二长河，连接多个政权与生态区。",
       "time_or_place": "古代至今",
       "overview": "欧洲第二长河，连接多个政权与生态区。",
@@ -467,7 +467,7 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：中欧×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮复核：中欧×区域；新增背景来源 无，现有来源均已核验，但 区域边界、人口与现状数据的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -482,7 +482,7 @@
       "region": "西欧",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第12轮)",
+      "status": "已复核(第14轮)",
       "definition": "莱茵河：重要内河航道，沿岸城市带与工业带密集。",
       "time_or_place": "古代至今",
       "overview": "重要内河航道，沿岸城市带与工业带密集。",
@@ -498,7 +498,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：西欧×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮复核：西欧×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -551,7 +551,7 @@
       "region": "西欧",
       "theme": "政权更替",
       "level": "L1",
-      "status": "已复核(第12轮)",
+      "status": "已复核(第14轮)",
       "definition": "法兰克王国：查理曼帝国覆盖西欧大部，封建制度发展。",
       "time_or_place": "5—9世纪",
       "overview": "查理曼帝国覆盖西欧大部，封建制度发展。",
@@ -567,7 +567,7 @@
         "s058-worldbank-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：西欧×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮复核：西欧×政权更替；新增背景来源 无，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -611,7 +611,7 @@
       "region": "地中海",
       "theme": "贸易",
       "level": "L1",
-      "status": "已复核(第12轮)",
+      "status": "已复核(第14轮)",
       "definition": "十字军东征：宗教战争同时重启地中海东西贸易联系。",
       "time_or_place": "1096—1291年",
       "overview": "宗教战争同时重启地中海东西贸易联系。",
@@ -627,7 +627,7 @@
         "s025-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第12轮复核：地中海×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
+      "pending_notes": "第14轮复核：地中海×贸易；新增背景来源 无，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
