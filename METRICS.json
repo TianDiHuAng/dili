@@ -281,6 +281,21 @@
       "sample_rate": "25%",
       "sample_audit": "25%抽检10条：1条升级未落盘(脚本未调用upgrade)、渔业五段超源、土壤GSP实质正文仅2076字符、宋代分级高估→返工：补跑渔业升级并收敛为管理导向五段、土壤保持L1、三处D053标注、宋代分级改写；新增D058流程规则",
       "note": "渔业资源/土壤资源按D055升级；36条遗产L2来源分级标注"
+    },
+    {
+      "round": 21,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 4,
+      "fixes": 40,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "25%",
+      "sample_audit": "25%抽检10条：9 PASS/1 FAIL（玛雅文明influence残留「古典期」分期+单因断言）→定点返工：玛雅两段修正、8处分期词去年代化、编辑口径句移出正文；polities重复度全批630对均值0.315、无同句复制",
+      "note": "36条遗产L2的polities收敛：删政权名/王朝序列/年代断言，保留地理-政治关系概述"
     }
   ]
 }

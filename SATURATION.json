@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 20,
+  "last_round": 21,
   "history": [
     {
       "round": 1,
@@ -233,6 +233,18 @@
         "B5待核实",
         "B7深度",
         "B2覆盖矩阵"
+      ],
+      "gaps_found": 325,
+      "result": "非饱和"
+    },
+    {
+      "round": 21,
+      "methods_used": [
+        "内容收敛(遗产L2 polities)",
+        "B5待核实",
+        "B7深度",
+        "B2覆盖矩阵",
+        "B1专题页"
       ],
       "gaps_found": 325,
       "result": "非饱和"
