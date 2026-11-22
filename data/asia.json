@@ -1,0 +1,1276 @@
+{
+  "unit_id": "asia",
+  "title": "亚洲",
+  "continent": "亚洲",
+  "entries": [
+    {
+      "id": "asia-x4e24x6cb3x6d41x57df",
+      "title": "两河流域",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "两河流域：幼发拉底河与底格里斯河之间的冲积平原，灌溉农业与城市国家早期发源地之一。",
+      "time_or_place": "约前6000年至今",
+      "overview": "幼发拉底河与底格里斯河之间的冲积平原，灌溉农业与城市国家早期发源地之一。",
+      "related": [
+        "asia-x5370x5ea6x6cb3x6587x660e",
+        "asia-x9ec4x6cb3x6d41x57df",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x82cfx7f8ex5c14x57cex90a6",
+      "title": "苏美尔城邦",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "苏美尔城邦：乌鲁克、乌尔等城邦并存，楔形文字与灌溉管理同步发展。",
+      "time_or_place": "约前3500—前2300年",
+      "overview": "乌鲁克、乌尔等城邦并存，楔形文字与灌溉管理同步发展。",
+      "related": [
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x53e4x5df4x6bd4x4f26",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x963fx5361x5fb7x5e1dx56fd",
+      "title": "阿卡德帝国",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "阿卡德帝国：萨尔贡统一两河流域，建立最早的地域性帝国之一。",
+      "time_or_place": "约前2334—前2154年",
+      "overview": "萨尔贡统一两河流域，建立最早的地域性帝国之一。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x53e4x5df4x6bd4x4f26",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x53e4x5df4x6bd4x4f26",
+      "title": "古巴比伦",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "古巴比伦：汉谟拉比时期编纂法典，控制两河流域中下游。",
+      "time_or_place": "约前1894—前1595年",
+      "overview": "汉谟拉比时期编纂法典，控制两河流域中下游。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x4e9ax8ff0x5e1dx56fd",
+      "title": "亚述帝国",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "亚述帝国：以尼尼微为中心，军事扩张覆盖西亚与埃及部分地区。",
+      "time_or_place": "约前911—前612年",
+      "overview": "以尼尼微为中心，军事扩张覆盖西亚与埃及部分地区。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x8d6bx68afx738bx56fd",
+      "title": "赫梯王国",
+      "tier": "补充",
+      "unit_id": "asia",
+      "region": "安纳托利亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "赫梯王国：安纳托利亚高原强国，冶铁技术传播与条约记录著称。",
+      "time_or_place": "约前1650—前1200年",
+      "overview": "安纳托利亚高原强国，冶铁技术传播与条约记录著称。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x963fx5951x7f8ex5c3cx5fb7x6ce2x65af",
+      "title": "阿契美尼德波斯",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "阿契美尼德波斯：横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
+      "time_or_place": "前550—前330年",
+      "overview": "横跨三大洲的帝国，驿道与行省制度促进跨区域交流。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5e15x63d0x4e9ax5e1dx56fd",
+      "title": "帕提亚帝国",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "帕提亚帝国：控制丝绸之路西段，连接地中海与中亚。",
+      "time_or_place": "前247年—224年",
+      "overview": "控制丝绸之路西段，连接地中海与中亚。",
+      "related": [
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x6c49x4ee3",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x8428x73cax6ce2x65af",
+      "title": "萨珊波斯",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "萨珊波斯：波斯本部复兴，祆教国教化，与罗马长期争战。",
+      "time_or_place": "224—651年",
+      "overview": "波斯本部复兴，祆教国教化，与罗马长期争战。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5370x5ea6x6cb3x6587x660e",
+      "title": "印度河文明",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "南亚",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "印度河文明：哈拉帕与摩亨佐达罗等城市规划发达，依赖印度河灌溉与贸易。",
+      "time_or_place": "约前2600—前1900年",
+      "overview": "哈拉帕与摩亨佐达罗等城市规划发达，依赖印度河灌溉与贸易。",
+      "related": [
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x9ec4x6cb3x6d41x57df",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5420x9640x65f6x4ee3",
+      "title": "吠陀时代",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "南亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "吠陀时代：雅利安人进入印度河流域，部落社会与种姓制度逐渐形成。",
+      "time_or_place": "约前1500—前600年",
+      "overview": "雅利安人进入印度河流域，部落社会与种姓制度逐渐形成。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5b54x96c0x738bx671d",
+      "title": "孔雀王朝",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "南亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "孔雀王朝：阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
+      "time_or_place": "约前324—前185年",
+      "overview": "阿育王时期几乎统一南亚次大陆，佛教传播扩大。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x8d35x971cx5e1dx56fd",
+      "title": "贵霜帝国",
+      "tier": "补充",
+      "unit_id": "asia",
+      "region": "中亚/南亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "贵霜帝国：连接印度、中亚与中国的枢纽，佛教艺术交流活跃。",
+      "time_or_place": "约1—3世纪",
+      "overview": "连接印度、中亚与中国的枢纽，佛教艺术交流活跃。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x6c49x4ee3",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x7b08x591ax738bx671d",
+      "title": "笈多王朝",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "南亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "笈多王朝：北印度统一，科学与文学繁荣，被视为古典时代。",
+      "time_or_place": "约320—550年",
+      "overview": "北印度统一，科学与文学繁荣，被视为古典时代。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x9ec4x6cb3x6d41x57df",
+      "title": "黄河流域",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "农业",
+      "level": "L2",
+      "status": "L2完成",
+      "definition": "黄河流域：黄土高原与华北平原构成早期中国农业与王朝核心区。",
+      "time_or_place": "约前6000年至今",
+      "overview": "黄土高原与华北平原构成早期中国农业与王朝核心区。",
+      "related": [
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x5370x5ea6x6cb3x6587x660e",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "br-yellow-river",
+        "wk-yellow-river",
+        "br-china",
+        "wk-china"
+      ],
+      "needs_verification": false,
+      "pending_notes": "暂无待核实关键事实；具体人口、径流量与灌溉面积待按年份与权威来源补齐。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22",
+      "geo": "黄河发源于青藏高原，东流经过黄土高原与华北平原，最终注入渤海。中游流经黄土区，河流含沙量高，下游形成地上河与冲积平原。流域跨越干旱、半干旱与温带季风气候区，降水集中于夏季，水旱灾害风险长期存在。",
+      "influence": "一种常见解释认为，黄土易于耕作、河谷与平原适宜粟作农业，加上对治水与灌溉的协作需求，有利于早期聚落密集与政权组织。这是影响机制的一种分析框架，不能据此断定环境必然导致特定政治形态；治水与国家形成的关系在学界仍有争论。",
+      "polities": "仰韶、龙山等史前文化之后，商周在黄河中下游兴起；秦汉以降，长安—洛阳一线长期是政治重心。中古以后经济重心逐渐南移，但黄河流域仍具政治与交通意义。",
+      "connections": "黄河流域通过河西走廊与中亚相连，通过大运河与长江流域整合，并通过陆上与海上交通同朝鲜半岛、日本及东南亚互动。技术、作物、宗教与制度沿这些通道传播。",
+      "today": "黄河流域如今仍是重要农业与人口密集区。水资源分配、泥沙治理与生态修复是长期议题；具体人口、灌溉面积与径流量数据待按年份和权威来源补齐。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='黄河流域示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 120 C 140 110 200 150 270 175 C 350 205 420 230 500 250 C 570 268 630 285 690 300' fill='none' stroke='var(--accent)' stroke-width='5'/>\n<path d='M270 175 C 300 210 330 250 350 300 C 370 340 390 360 420 370' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='5 4'/>\n<circle cx='100' cy='122' r='6' class='pt'/><text x='115' y='126' class='lbl'>上游源区</text>\n<circle cx='320' cy='195' r='6' class='pt'/><text x='335' y='200' class='lbl'>长安</text>\n<circle cx='480' cy='247' r='6' class='pt'/><text x='495' y='251' class='lbl'>洛阳</text>\n<circle cx='675' cy='297' r='6' class='pt'/><text x='620' y='285' class='lbl'>渤海</text>\n<text x='45' y='60' class='lbl'>青藏高原</text><text x='330' y='345' class='lbl'>黄土高原</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+    },
+    {
+      "id": "asia-x957fx6c5fx6d41x57df",
+      "title": "长江流域",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "长江流域：稻作农业与密集水网支撑南方经济，中古以后经济重心南移。",
+      "time_or_place": "约前5000年至今",
+      "overview": "稻作农业与密集水网支撑南方经济，中古以后经济重心南移。",
+      "related": [
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x5370x5ea6x6cb3x6587x660e",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x4ef0x97f6x6587x5316",
+      "title": "仰韶文化",
+      "tier": "补充",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "仰韶文化：黄河中游彩陶文化，粟作农业与村落定居。",
+      "time_or_place": "约前5000—前3000年",
+      "overview": "黄河中游彩陶文化，粟作农业与村落定居。",
+      "related": [
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x5370x5ea6x6cb3x6587x660e",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5546x4ee3",
+      "title": "商代",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "商代：青铜礼器与甲骨文记录早期王朝政治。",
+      "time_or_place": "约前1600—前1046年",
+      "overview": "青铜礼器与甲骨文记录早期王朝政治。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5468x4ee3",
+      "title": "周代",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "周代：分封与宗法制度影响东亚政治秩序长期演变。",
+      "time_or_place": "约前1046—前256年",
+      "overview": "分封与宗法制度影响东亚政治秩序长期演变。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x79e6x4ee3",
+      "title": "秦代",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "秦代：统一文字、度量衡与郡县制，奠定中央集权模式。",
+      "time_or_place": "前221—前207年",
+      "overview": "统一文字、度量衡与郡县制，奠定中央集权模式。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x6c49x4ee3",
+      "title": "汉代",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "汉代：开拓丝绸之路，把中原与中亚、西亚连接起来。",
+      "time_or_place": "前202年—220年",
+      "overview": "开拓丝绸之路，把中原与中亚、西亚连接起来。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x968bx5510",
+      "title": "隋唐",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "隋唐：大运河与长安国际性都市体现南北整合与对外交流。",
+      "time_or_place": "581—907年",
+      "overview": "大运河与长安国际性都市体现南北整合与对外交流。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5b8bx4ee3",
+      "title": "宋代",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "宋代：经济重心南移，稻作、海外贸易与城市商业显著发展。",
+      "time_or_place": "960—1279年",
+      "overview": "经济重心南移，稻作、海外贸易与城市商业显著发展。",
+      "related": [
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x5370x5ea6x6cb3x6587x660e",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5143x4ee3",
+      "title": "元代",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "元代：蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
+      "time_or_place": "1271—1368年",
+      "overview": "蒙古统治下的跨欧亚帝国，驿站网络促进交流。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x660ex6e05",
+      "title": "明清",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "明清：海禁与朝贡贸易交替，白银流入与人口增长显著。",
+      "time_or_place": "1368—1912年",
+      "overview": "海禁与朝贡贸易交替，白银流入与人口增长显著。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x671dx9c9cx534ax5c9b",
+      "title": "朝鲜半岛",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "朝鲜半岛：半岛山地与河谷塑造区域政权，处在大陆与海洋之间。",
+      "time_or_place": "古代至今",
+      "overview": "半岛山地与河谷塑造区域政权，处在大陆与海洋之间。",
+      "related": [
+        "asia-x65e5x672cx5217x5c9b",
+        "asia-x4e2dx5357x534ax5c9b",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x65e5x672cx5217x5c9b",
+      "title": "日本列岛",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "东亚",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "日本列岛：岛国环境、季风与海洋交通影响农业、政治与对外关系。",
+      "time_or_place": "约前10000年至今",
+      "overview": "岛国环境、季风与海洋交通影响农业、政治与对外关系。",
+      "related": [
+        "asia-x671dx9c9cx534ax5c9b",
+        "asia-x4e2dx5357x534ax5c9b",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x4e2dx5357x534ax5c9b",
+      "title": "中南半岛",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东南亚",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "中南半岛：山河相间纵列分布，湄公河与红河塑造稻作文明。",
+      "time_or_place": "古代至今",
+      "overview": "山河相间纵列分布，湄公河与红河塑造稻作文明。",
+      "related": [
+        "asia-x671dx9c9cx534ax5c9b",
+        "asia-x65e5x672cx5217x5c9b",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x6e44x516cx6cb3x4e09x89d2x6d32",
+      "title": "湄公河三角洲",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东南亚",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "湄公河三角洲：越南南部主要稻米产区，受上游水文与海平面影响。",
+      "time_or_place": "全新世至今",
+      "overview": "越南南部主要稻米产区，受上游水文与海平面影响。",
+      "related": [
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x5370x5ea6x6cb3x6587x660e",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5434x54e5",
+      "title": "吴哥",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东南亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "吴哥：高棉帝国中心，水利系统与寺庙建筑体现国家组织能力。",
+      "time_or_place": "约9—15世纪",
+      "overview": "高棉帝国中心，水利系统与寺庙建筑体现国家组织能力。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x9a6cx6765x7fa4x5c9b",
+      "title": "马来群岛",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "东南亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "马来群岛：海岛世界连接印度洋与太平洋，香料贸易长期活跃。",
+      "time_or_place": "古代至今",
+      "overview": "海岛世界连接印度洋与太平洋，香料贸易长期活跃。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5ba4x5229x4f5bx901d",
+      "title": "室利佛逝",
+      "tier": "补充",
+      "unit_id": "asia",
+      "region": "东南亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "室利佛逝：苏门答腊based海上帝国，控制马六甲海峡周边航线。",
+      "time_or_place": "约7—14世纪",
+      "overview": "苏门答腊based海上帝国，控制马六甲海峡周边航线。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x6ee1x8005x4f2fx5937",
+      "title": "满者伯夷",
+      "tier": "补充",
+      "unit_id": "asia",
+      "region": "东南亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "满者伯夷：爪哇岛东部王国，海上贸易网络延伸到马鲁古香料群岛。",
+      "time_or_place": "约1293—1527年",
+      "overview": "爪哇岛东部王国，海上贸易网络延伸到马鲁古香料群岛。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x6cb3x4e2dx5730x533a",
+      "title": "河中地区",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "中亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "河中地区：阿姆河与锡尔河之间，绿洲城市是丝绸之路枢纽。",
+      "time_or_place": "古代至今",
+      "overview": "阿姆河与锡尔河之间，绿洲城市是丝绸之路枢纽。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x4e1dx7ef8x4e4bx8def",
+      "title": "丝绸之路",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "中亚",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "丝绸之路：陆上与海上网络连接中国、中亚、西亚与欧洲，商品与思想双向流动。",
+      "time_or_place": "约前2世纪—15世纪",
+      "overview": "陆上与海上网络连接中国、中亚、西亚与欧洲，商品与思想双向流动。",
+      "related": [
+        "asia-x5e15x63d0x4e9ax5e1dx56fd",
+        "asia-x8d35x971cx5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5308x5974",
+      "title": "匈奴",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "中亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "匈奴：游牧联盟，与秦汉长期互动，推动草原贸易与冲突。",
+      "time_or_place": "约前3世纪—1世纪",
+      "overview": "游牧联盟，与秦汉长期互动，推动草原贸易与冲突。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x7a81x53a5",
+      "title": "突厥",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "中亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "突厥：草原汗国，突厥语族扩散的重要阶段。",
+      "time_or_place": "约6—8世纪",
+      "overview": "草原汗国，突厥语族扩散的重要阶段。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x8499x53e4x5e1dx56fd",
+      "title": "蒙古帝国",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "中亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "蒙古帝国：最大陆地帝国之一，驿站制度强化欧亚连通。",
+      "time_or_place": "1206—1368年",
+      "overview": "最大陆地帝国之一，驿站制度强化欧亚连通。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5e16x6728x513fx5e1dx56fd",
+      "title": "帖木儿帝国",
+      "tier": "补充",
+      "unit_id": "asia",
+      "region": "中亚",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "帖木儿帝国：以撒马尔罕为中心，帖木儿文艺复兴影响中亚与波斯。",
+      "time_or_place": "1370—1505年",
+      "overview": "以撒马尔罕为中心，帖木儿文艺复兴影响中亚与波斯。",
+      "related": [
+        "asia-x82cfx7f8ex5c14x57cex90a6",
+        "asia-x963fx5361x5fb7x5e1dx56fd",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x9752x85cfx9ad8x539f",
+      "title": "青藏高原",
+      "tier": "核心",
+      "unit_id": "asia",
+      "region": "中亚/东亚",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "青藏高原：世界最高高原，亚洲多条大河发源地，高寒环境影响交通与聚落。",
+      "time_or_place": "约5000万年前至今",
+      "overview": "世界最高高原，亚洲多条大河发源地，高寒环境影响交通与聚落。",
+      "related": [
+        "asia-x5b89x7eb3x6258x5229x4e9a",
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x963fx62c9x4f2fx534ax5c9b",
+      "title": "阿拉伯半岛",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "阿拉伯半岛：干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
+      "time_or_place": "古代至今",
+      "overview": "干旱半岛，绿洲与红海沿岸支撑贸易网络，伊斯兰教兴起地。",
+      "related": [
+        "asia-x671dx9c9cx534ax5c9b",
+        "asia-x65e5x672cx5217x5c9b",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x9ecex51e1x7279",
+      "title": "黎凡特",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "黎凡特：东地中海沿岸走廊，连接埃及、安纳托利亚与两河流域。",
+      "time_or_place": "古代至今",
+      "overview": "东地中海沿岸走廊，连接埃及、安纳托利亚与两河流域。",
+      "related": [
+        "asia-x671dx9c9cx534ax5c9b",
+        "asia-x65e5x672cx5217x5c9b",
+        "asia-x4e24x6cb3x6d41x57df"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "asia-x5b89x7eb3x6258x5229x4e9a",
+      "title": "安纳托利亚",
+      "tier": "重要",
+      "unit_id": "asia",
+      "region": "西亚",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "安纳托利亚：高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
+      "time_or_place": "古代至今",
+      "overview": "高原与海岸并存的半岛，是欧亚陆桥与多个文明交汇区。",
+      "related": [
+        "asia-x9752x85cfx9ad8x539f",
+        "asia-x4e24x6cb3x6d41x57df",
+        "asia-x82cfx7f8ex5c14x57cex90a6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "unit_id": "africa",
+  "title": "非洲",
+  "continent": "非洲",
+  "entries": [
+    {
+      "id": "africa-x6492x54c8x62c9x6c99x6f20",
+      "title": "撒哈拉沙漠",
+      "tier": "核心",
+      "unit_id": "africa",
+      "region": "北非",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "撒哈拉沙漠：世界最大热带沙漠，横跨北非十余国，其扩张与收缩与季风变化相关。",
+      "time_or_place": "约700万年前至今",
+      "overview": "世界最大热带沙漠，横跨北非十余国，其扩张与收缩与季风变化相关。",
+      "related": [
+        "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
+        "africa-x4e1cx975ex5927x88c2x8c37",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x5c3cx7f57x6cb3x8c37",
+      "title": "尼罗河谷",
+      "tier": "核心",
+      "unit_id": "africa",
+      "region": "东北非",
+      "theme": "农业",
+      "level": "L2",
+      "status": "L2完成",
+      "definition": "尼罗河谷：尼罗河定期泛滥塑造狭窄肥沃走廊，支撑古埃及定居农业与国家形成。",
+      "time_or_place": "约公元前1万年至今",
+      "overview": "尼罗河定期泛滥塑造狭窄肥沃走廊，支撑古埃及定居农业与国家形成。",
+      "related": [
+        "africa-x975ex6d32x5927x6e56x5730x533a",
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32"
+      ],
+      "sources": [
+        "br-nile",
+        "wk-nile",
+        "br-egypt",
+        "wk-egypt"
+      ],
+      "needs_verification": false,
+      "pending_notes": "暂无待核实关键事实；具体人口与耕地数值待按年份与权威统计来源补齐。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22",
+      "geo": "尼罗河谷沿尼罗河两岸展开，上游为狭窄的侵蚀谷，下游为广阔的冲积平原与三角洲。流域跨越东非高原与撒哈拉沙漠边缘，气候从热带草原过渡到干旱沙漠，降水高度季节化。水系以尼罗河干流为轴，支流与泛滥平原构成灌溉与交通基础；资源包括肥沃冲积土、芦苇、鱼类与石材。",
+      "influence": "学界较普遍的看法是，尼罗河季节性泛滥带来的肥沃淤泥与可预测的耕作周期，降低了早期定居农业的风险，支撑人口密集与剩余产品积累，进而有利于国家组织与大型工程。需要强调的是，这是地理条件影响社会发展的一种解释方式，不是地理决定论式定论；灌溉管理到底是原因还是结果，学界仍有讨论。",
+      "polities": "早王朝与古王国以孟菲斯为中心，中王国与新王国先后兴起，底比斯成为南部宗教与政治重心；其后努比亚、托勒密与罗马时期延续了对河谷与三角洲的控制。政权更替与尼罗河运输、灌溉和粮税体系密切相关。",
+      "connections": "尼罗河谷通过三角洲与地中海世界相连，通过上游努比亚与中非的黄金、象牙贸易通道相接，并经红海与西奈通向西亚。交流内容包括石材、金属、粮食、宗教观念与工艺技术。",
+      "today": "今天河谷与三角洲仍是埃及人口与农业最密集的区域。具体人口、耕地面积与用水数据随年份变化，本站不在此写具体数值，待以权威统计机构数据补齐并标注年份与来源。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='尼罗河谷示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M60 90 C 170 70 260 110 340 150 C 430 195 500 240 560 300 C 600 335 650 350 700 350' fill='none' stroke='var(--accent)' stroke-width='3' stroke-dasharray='6 5'/>\n<path d='M300 45 C 310 110 330 160 340 210 C 350 260 360 300 365 352' fill='none' stroke='var(--accent)' stroke-width='6'/>\n<path d='M365 352 L 340 382 M365 352 L 390 382 M365 352 L 365 385' fill='none' stroke='var(--accent)' stroke-width='4'/>\n<circle cx='345' cy='205' r='6' class='pt'/><text x='360' y='210' class='lbl'>底比斯</text>\n<circle cx='360' cy='300' r='6' class='pt'/><text x='375' y='305' class='lbl'>孟菲斯</text>\n<circle cx='365' cy='365' r='5' class='pt'/><text x='380' y='370' class='lbl'>三角洲</text>\n<text x='55' y='60' class='lbl'>撒哈拉</text><text x='600' y='70' class='lbl'>红海</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
+    },
+    {
+      "id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
+      "title": "尼罗河三角洲",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "东北非",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "尼罗河三角洲：尼罗河入地中海处扇形沉积平原，地势低平、水网密布，是埃及人口与农业核心。",
+      "time_or_place": "全新世至今",
+      "overview": "尼罗河入地中海处扇形沉积平原，地势低平、水网密布，是埃及人口与农业核心。",
+      "related": [
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x4e1cx975ex5927x88c2x8c37",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x4e1cx975ex5927x88c2x8c37",
+      "title": "东非大裂谷",
+      "tier": "核心",
+      "unit_id": "africa",
+      "region": "东非",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "东非大裂谷：板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
+      "time_or_place": "约3000万年前至今",
+      "overview": "板块张裂形成的巨大断陷带，深刻影响东非地貌、湖泊分布与人类演化环境。",
+      "related": [
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x57c3x585ex4fc4x6bd4x4e9ax9ad8x539f",
+      "title": "埃塞俄比亚高原",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "东非",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "埃塞俄比亚高原：非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
+      "time_or_place": "约中生代至今",
+      "overview": "非洲之角的高原，被裂谷切割，是多条河流发源地与古代阿克苏姆文明腹地。",
+      "related": [
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x521ax679cx76c6x5730",
+      "title": "刚果盆地",
+      "tier": "核心",
+      "unit_id": "africa",
+      "region": "中非",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "刚果盆地：非洲最大内陆盆地，热带雨林广布，河流呈向心状汇入刚果河。",
+      "time_or_place": "约古生代至今",
+      "overview": "非洲最大内陆盆地，热带雨林广布，河流呈向心状汇入刚果河。",
+      "related": [
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x51e0x5185x4e9ax6e7ex6cbfx5cb8",
+      "title": "几内亚湾沿岸",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "西非",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "几内亚湾沿岸：几内亚湾暖湿气流带来丰沛降水，形成雨林与可可、油棕种植带。",
+      "time_or_place": "热带雨林与季风区",
+      "overview": "几内亚湾暖湿气流带来丰沛降水，形成雨林与可可、油棕种植带。",
+      "related": [
+        "africa-x8428x8d6bx52d2x5e26",
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x8428x8d6bx52d2x5e26",
+      "title": "萨赫勒带",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "西非",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "萨赫勒带：撒哈拉南缘半干旱过渡带，降水年际变率大，游牧与定居农业长期交错。",
+      "time_or_place": "约公元前5000年至今",
+      "overview": "撒哈拉南缘半干旱过渡带，降水年际变率大，游牧与定居农业长期交错。",
+      "related": [
+        "africa-x51e0x5185x4e9ax6e7ex6cbfx5cb8",
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x9a6cx683cx91ccx5e03",
+      "title": "马格里布",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "北非",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "马格里布：阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
+      "time_or_place": "古代至今",
+      "overview": "阿特拉斯山脉以北及沿海平原，地中海气候适合谷物与橄榄，历史上为地中海贸易枢纽。",
+      "related": [
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x8c37"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x53e4x57c3x53cax65e9x738bx671d",
+      "title": "古埃及早王朝",
+      "tier": "核心",
+      "unit_id": "africa",
+      "region": "东北非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "古埃及早王朝：上下埃及统一后形成早期国家，尼罗河灌溉与集中管理相互支撑。",
+      "time_or_place": "约前3100—前2686年",
+      "overview": "上下埃及统一后形成早期国家，尼罗河灌溉与集中管理相互支撑。",
+      "related": [
+        "africa-x53e4x57c3x53cax53e4x738bx56fd",
+        "africa-x53e4x57c3x53cax4e2dx738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x53e4x57c3x53cax53e4x738bx56fd",
+      "title": "古埃及古王国",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "东北非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "古埃及古王国：以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
+      "time_or_place": "约前2686—前2181年",
+      "overview": "以孟菲斯为中心，金字塔建造体现国家动员能力与尼罗河谷农业剩余。",
+      "related": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x53e4x57c3x53cax4e2dx738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x53e4x57c3x53cax4e2dx738bx56fd",
+      "title": "古埃及中王国",
+      "tier": "补充",
+      "unit_id": "africa",
+      "region": "东北非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "古埃及中王国：重新统一后向努比亚扩展，灌溉与贸易恢复。",
+      "time_or_place": "约前2055—前1650年",
+      "overview": "重新统一后向努比亚扩展，灌溉与贸易恢复。",
+      "related": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x53e4x57c3x53cax53e4x738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x53e4x57c3x53cax65b0x738bx56fd",
+      "title": "古埃及新王国",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "东北非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "古埃及新王国：以底比斯为中心，军事扩张与神庙经济达到高峰。",
+      "time_or_place": "约前1550—前1069年",
+      "overview": "以底比斯为中心，军事扩张与神庙经济达到高峰。",
+      "related": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x53e4x57c3x53cax53e4x738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
+      "title": "库什与努比亚",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "东北非",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "库什与努比亚：尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
+      "time_or_place": "约前2000年—公元4世纪",
+      "overview": "尼罗河上游区域，黄金与象牙贸易连接中非与地中海世界。",
+      "related": [
+        "africa-x8fe6x592ax57fa",
+        "africa-x52a0x7eb3x5e1dx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x8fe6x592ax57fa",
+      "title": "迦太基",
+      "tier": "核心",
+      "unit_id": "africa",
+      "region": "北非",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "迦太基：突尼斯湾畔的腓尼基殖民城邦，控制西地中海海上贸易网络。",
+      "time_or_place": "约前814—前146年",
+      "overview": "突尼斯湾畔的腓尼基殖民城邦，控制西地中海海上贸易网络。",
+      "related": [
+        "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
+        "africa-x52a0x7eb3x5e1dx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x7f57x9a6cx963fx975ex5229x52a0",
+      "title": "罗马阿非利加",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "北非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "罗马阿非利加：罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
+      "time_or_place": "前146年—5世纪",
+      "overview": "罗马征服迦太基后设行省，北非成为帝国谷物与橄榄油供应地。",
+      "related": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x53e4x57c3x53cax53e4x738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x963fx62c9x4f2fx5f81x670dx5317x975e",
+      "title": "阿拉伯征服北非",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "北非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "阿拉伯征服北非：阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
+      "time_or_place": "7—8世纪",
+      "overview": "阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
+      "related": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x53e4x57c3x53cax53e4x738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x6cd5x8482x739bx738bx671d",
+      "title": "法蒂玛王朝",
+      "tier": "补充",
+      "unit_id": "africa",
+      "region": "北非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "法蒂玛王朝：什叶派王朝，控制北非与埃及，开罗成为贸易与学术中心。",
+      "time_or_place": "909—1171年",
+      "overview": "什叶派王朝，控制北非与埃及，开罗成为贸易与学术中心。",
+      "related": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x53e4x57c3x53cax53e4x738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x52a0x7eb3x5e1dx56fd",
+      "title": "加纳帝国",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "西非",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "加纳帝国：撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
+      "time_or_place": "约7—13世纪",
+      "overview": "撒哈拉商路西端，以黄金与盐贸易闻名，政权控制跨撒哈拉通道。",
+      "related": [
+        "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
+        "africa-x8fe6x592ax57fa",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x9a6cx91ccx5e1dx56fd",
+      "title": "马里帝国",
+      "tier": "核心",
+      "unit_id": "africa",
+      "region": "西非",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "马里帝国：曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
+      "time_or_place": "约1235—1670年",
+      "overview": "曼萨穆萨时期跨撒哈拉贸易繁荣，廷巴克图成为学术与商业中心。",
+      "related": [
+        "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
+        "africa-x8fe6x592ax57fa",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x6851x6d77x5e1dx56fd",
+      "title": "桑海帝国",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "西非",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "桑海帝国：控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
+      "time_or_place": "约1464—1591年",
+      "overview": "控制尼日尔河中游与撒哈拉商路，后被摩洛哥入侵削弱。",
+      "related": [
+        "africa-x53e4x57c3x53cax65e9x738bx671d",
+        "africa-x53e4x57c3x53cax53e4x738bx56fd",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x5927x6d25x5df4x5e03x97e6",
+      "title": "大津巴布韦",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "南部非洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "大津巴布韦：绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
+      "time_or_place": "约11—15世纪",
+      "overview": "绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
+      "related": [
+        "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
+        "africa-x8fe6x592ax57fa",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x65afx74e6x5e0cx91ccx6d77x5cb8",
+      "title": "斯瓦希里海岸",
+      "tier": "重要",
+      "unit_id": "africa",
+      "region": "东非",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "斯瓦希里海岸：东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
+      "time_or_place": "约8—16世纪",
+      "overview": "东非海岸城邦群，连接印度洋贸易网络，斯瓦希里语为商贸通用语之一。",
+      "related": [
+        "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
+        "africa-x8fe6x592ax57fa",
+        "africa-x6492x54c8x62c9x6c99x6f20"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "africa-x975ex6d32x5927x6e56x5730x533a",
+      "title": "非洲大湖地区",
+      "tier": "补充",
+      "unit_id": "africa",
+      "region": "东非",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "非洲大湖地区：维多利亚湖、坦噶尼喀湖等大湖周边人口密集，湖岸农业与渔业发达。",
+      "time_or_place": "全新世至今",
+      "overview": "维多利亚湖、坦噶尼喀湖等大湖周边人口密集，湖岸农业与渔业发达。",
+      "related": [
+        "africa-x5c3cx7f57x6cb3x8c37",
+        "africa-x6492x54c8x62c9x6c99x6f20",
+        "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}

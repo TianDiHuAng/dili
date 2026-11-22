@@ -1,0 +1,651 @@
+{
+  "unit_id": "north-america",
+  "title": "北美洲",
+  "continent": "北美洲",
+  "entries": [
+    {
+      "id": "north-america-x767dx4ee4x9646x6865",
+      "title": "白令陆桥",
+      "tier": "核心",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "白令陆桥：海平面下降时连接亚洲与北美，人类与动物迁徙通道。",
+      "time_or_place": "约冰期",
+      "overview": "海平面下降时连接亚洲与北美，人类与动物迁徙通道。",
+      "related": [
+        "north-america-x5317x7f8ex51b0x76d6",
+        "north-america-x843dx57fax5c71x8109",
+        "north-america-x5927x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x5317x7f8ex51b0x76d6",
+      "title": "北美冰盖",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "北美冰盖：劳伦泰德冰盖塑造五大湖与冰碛地貌。",
+      "time_or_place": "更新世",
+      "overview": "劳伦泰德冰盖塑造五大湖与冰碛地貌。",
+      "related": [
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x843dx57fax5c71x8109",
+        "north-america-x5927x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x5927x5e73x539f",
+      "title": "大平原",
+      "tier": "核心",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "农业",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "大平原：草原广布，黑土带支撑大规模农业，历史上野牛群与游猎并存。",
+      "time_or_place": "全新世至今",
+      "overview": "草原广布，黑土带支撑大规模农业，历史上野牛群与游猎并存。",
+      "related": [
+        "north-america-x7f8ex56fdx897fx8fdb",
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x5bc6x897fx897fx6bd4x6cb3",
+      "title": "密西西比河",
+      "tier": "核心",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "密西西比河：北美最大水系，连接内陆与墨西哥湾，冲积平原农业发达。",
+      "time_or_place": "古代至今",
+      "overview": "北美最大水系，连接内陆与墨西哥湾，冲积平原农业发达。",
+      "related": [
+        "north-america-x7279x5965x8482x74e6x574e",
+        "north-america-x897fx5317x6d77x5cb8",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x843dx57fax5c71x8109",
+      "title": "落基山脉",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "落基山脉：北美西部主干山脉，影响降水分布与交通走向。",
+      "time_or_place": "约8000万年前至今",
+      "overview": "北美西部主干山脉，影响降水分布与交通走向。",
+      "related": [
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6",
+        "north-america-x5927x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x963fx5df4x62c9x5951x4e9ax5c71x8109",
+      "title": "阿巴拉契亚山脉",
+      "tier": "补充",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "阿巴拉契亚山脉：古老山地，东侧大西洋沿岸平原与内陆之间形成屏障。",
+      "time_or_place": "约3亿年前",
+      "overview": "古老山地，东侧大西洋沿岸平原与内陆之间形成屏障。",
+      "related": [
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6",
+        "north-america-x5927x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x4e94x5927x6e56",
+      "title": "五大湖",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "五大湖：淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
+      "time_or_place": "冰后期至今",
+      "overview": "淡水湖群，连接圣劳伦斯航道，工业与城市带沿湖分布。",
+      "related": [
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6",
+        "north-america-x5927x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x79d1x7f57x62c9x591ax9ad8x539f",
+      "title": "科罗拉多高原",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "科罗拉多高原：干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
+      "time_or_place": "约中生代至今",
+      "overview": "干旱高原与深切峡谷，科罗拉多河切割出大峡谷。",
+      "related": [
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6",
+        "north-america-x5927x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x58a8x897fx54e5x6e7e",
+      "title": "墨西哥湾",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "墨西哥湾：暖湿气流源，影响美国南部降水与飓风路径。",
+      "time_or_place": "古代至今",
+      "overview": "暖湿气流源，影响美国南部降水与飓风路径。",
+      "related": [
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x4e2dx7f8ex6d32x5730x5ce1",
+      "title": "中美洲地峡",
+      "tier": "核心",
+      "unit_id": "north-america",
+      "region": "中美洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "中美洲地峡：连接南北美洲的狭窄陆地，形成独特生物地理走廊。",
+      "time_or_place": "古代至今",
+      "overview": "连接南北美洲的狭窄陆地，形成独特生物地理走廊。",
+      "related": [
+        "north-america-x5317x7f8ex539fx4f4fx6c11",
+        "north-america-x53e4x5df4x5c9b",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x5965x5c14x6885x514b",
+      "title": "奥尔梅克",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "中美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "奥尔梅克：中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
+      "time_or_place": "约前1500—前400年",
+      "overview": "中美洲早期文明，巨石头像与祭祀中心影响后续文化。",
+      "related": [
+        "north-america-x739bx96c5x6587x660e",
+        "north-america-x963fx5179x7279x514b",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x739bx96c5x6587x660e",
+      "title": "玛雅文明",
+      "tier": "核心",
+      "unit_id": "north-america",
+      "region": "中美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "玛雅文明：热带雨林中的城邦文明，历法、文字与天文学成就突出。",
+      "time_or_place": "约前2000—16世纪",
+      "overview": "热带雨林中的城邦文明，历法、文字与天文学成就突出。",
+      "related": [
+        "north-america-x5965x5c14x6885x514b",
+        "north-america-x963fx5179x7279x514b",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x7279x5965x8482x74e6x574e",
+      "title": "特奥蒂瓦坎",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "中美洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "特奥蒂瓦坎：墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
+      "time_or_place": "约1—7世纪",
+      "overview": "墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
+      "related": [
+        "north-america-x5bc6x897fx897fx6bd4x6cb3",
+        "north-america-x897fx5317x6d77x5cb8",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x963fx5179x7279x514b",
+      "title": "阿兹特克",
+      "tier": "核心",
+      "unit_id": "north-america",
+      "region": "中美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "阿兹特克：特诺奇蒂特兰建湖上都城，以朝贡与贸易维持帝国。",
+      "time_or_place": "约1428—1521年",
+      "overview": "特诺奇蒂特兰建湖上都城，以朝贡与贸易维持帝国。",
+      "related": [
+        "north-america-x5965x5c14x6885x514b",
+        "north-america-x739bx96c5x6587x660e",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x5317x7f8ex539fx4f4fx6c11",
+      "title": "北美原住民",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "北美原住民：多生态区适应形成多样社会，农业、狩猎与采集并存。",
+      "time_or_place": "古代至今",
+      "overview": "多生态区适应形成多样社会，农业、狩猎与采集并存。",
+      "related": [
+        "north-america-x4e2dx7f8ex6d32x5730x5ce1",
+        "north-america-x53e4x5df4x5c9b",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x897fx5317x6d77x5cb8",
+      "title": "西北海岸",
+      "tier": "补充",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "西北海岸：海岸资源丰富，原住民发展出复杂的交换与仪式体系。",
+      "time_or_place": "古代至今",
+      "overview": "海岸资源丰富，原住民发展出复杂的交换与仪式体系。",
+      "related": [
+        "north-america-x5bc6x897fx897fx6bd4x6cb3",
+        "north-america-x7279x5965x8482x74e6x574e",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x683cx9675x5170x5c9b",
+      "title": "格陵兰岛",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "格陵兰岛：世界最大岛，冰盖覆盖，因纽特人适应极地环境。",
+      "time_or_place": "古代至今",
+      "overview": "世界最大岛，冰盖覆盖，因纽特人适应极地环境。",
+      "related": [
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6",
+        "north-america-x5927x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x65b0x6cd5x5170x897f",
+      "title": "新法兰西",
+      "tier": "补充",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "新法兰西：法国在圣劳伦斯河流域的殖民据点，毛皮贸易为主。",
+      "time_or_place": "16—18世纪",
+      "overview": "法国在圣劳伦斯河流域的殖民据点，毛皮贸易为主。",
+      "related": [
+        "north-america-x5bc6x897fx897fx6bd4x6cb3",
+        "north-america-x7279x5965x8482x74e6x574e",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x5341x4e09x6b96x6c11x5730",
+      "title": "十三殖民地",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "十三殖民地：大西洋沿岸英国殖民地，后成为美国建国基础。",
+      "time_or_place": "17—18世纪",
+      "overview": "大西洋沿岸英国殖民地，后成为美国建国基础。",
+      "related": [
+        "north-america-x5965x5c14x6885x514b",
+        "north-america-x739bx96c5x6587x660e",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x7f8ex56fdx897fx8fdb",
+      "title": "美国西进",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "北美洲",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "美国西进：向西部扩张，铁路与移民改变大平原与西部土地利用。",
+      "time_or_place": "19世纪",
+      "overview": "向西部扩张，铁路与移民改变大平原与西部土地利用。",
+      "related": [
+        "north-america-x5927x5e73x539f",
+        "north-america-x767dx4ee4x9646x6865",
+        "north-america-x5317x7f8ex51b0x76d6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x52a0x52d2x6bd4x6d77x7fa4x5c9b",
+      "title": "加勒比海群岛",
+      "tier": "重要",
+      "unit_id": "north-america",
+      "region": "中美洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "加勒比海群岛：岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
+      "time_or_place": "古代至今",
+      "overview": "岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
+      "related": [
+        "north-america-x5bc6x897fx897fx6bd4x6cb3",
+        "north-america-x7279x5965x8482x74e6x574e",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "north-america-x53e4x5df4x5c9b",
+      "title": "古巴岛",
+      "tier": "补充",
+      "unit_id": "north-america",
+      "region": "中美洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "古巴岛：加勒比最大岛，甘蔗种植与港口贸易长期重要。",
+      "time_or_place": "古代至今",
+      "overview": "加勒比最大岛，甘蔗种植与港口贸易长期重要。",
+      "related": [
+        "north-america-x4e2dx7f8ex6d32x5730x5ce1",
+        "north-america-x5317x7f8ex539fx4f4fx6c11",
+        "north-america-x767dx4ee4x9646x6865"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}

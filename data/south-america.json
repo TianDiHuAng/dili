@@ -1,0 +1,535 @@
+{
+  "unit_id": "south-america",
+  "title": "南美洲",
+  "continent": "南美洲",
+  "entries": [
+    {
+      "id": "south-america-x5b89x7b2cx65afx5c71x8109",
+      "title": "安第斯山脉",
+      "tier": "核心",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "安第斯山脉：世界最长陆上山脉，垂直气候带塑造多样农业与聚落。",
+      "time_or_place": "约7000万年前至今",
+      "overview": "世界最长陆上山脉，垂直气候带塑造多样农业与聚落。",
+      "related": [
+        "south-america-x4e9ax9a6cx900ax76c6x5730",
+        "south-america-x5df4x897fx9ad8x539f",
+        "south-america-x62c9x666ex62c9x5854x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x4e9ax9a6cx900ax76c6x5730",
+      "title": "亚马逊盆地",
+      "tier": "核心",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "亚马逊盆地：世界最大热带雨林区，河网密集，生态与气候意义重大。",
+      "time_or_place": "约中生代至今",
+      "overview": "世界最大热带雨林区，河网密集，生态与气候意义重大。",
+      "related": [
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x5df4x897fx9ad8x539f",
+        "south-america-x62c9x666ex62c9x5854x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5df4x897fx9ad8x539f",
+      "title": "巴西高原",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "巴西高原：古老高原，东南沿海咖啡与矿业经济重要。",
+      "time_or_place": "约古代至今",
+      "overview": "古老高原，东南沿海咖啡与矿业经济重要。",
+      "related": [
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x4e9ax9a6cx900ax76c6x5730",
+        "south-america-x62c9x666ex62c9x5854x5e73x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x62c9x666ex62c9x5854x5e73x539f",
+      "title": "拉普拉塔平原",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "拉普拉塔平原：温带草原（潘帕斯）黑土，农牧业出口发达。",
+      "time_or_place": "全新世至今",
+      "overview": "温带草原（潘帕斯）黑土，农牧业出口发达。",
+      "related": [
+        "south-america-x7684x7684x5580x5580x6e56",
+        "south-america-x83abx5207x6587x5316",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5df4x5854x54e5x5c3cx4e9a",
+      "title": "巴塔哥尼亚",
+      "tier": "补充",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "巴塔哥尼亚：安第斯东侧干旱高原，强风与冰川地貌显著。",
+      "time_or_place": "古代至今",
+      "overview": "安第斯东侧干旱高原，强风与冰川地貌显著。",
+      "related": [
+        "south-america-x963fx5854x5361x9a6cx6c99x6f20",
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x4e9ax9a6cx900ax76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x963fx5854x5361x9a6cx6c99x6f20",
+      "title": "阿塔卡马沙漠",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "阿塔卡马沙漠：世界最干旱沙漠之一，受寒流与安第斯雨影影响。",
+      "time_or_place": "古代至今",
+      "overview": "世界最干旱沙漠之一，受寒流与安第斯雨影影响。",
+      "related": [
+        "south-america-x5df4x5854x54e5x5c3cx4e9a",
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x4e9ax9a6cx900ax76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x4e9ax9a6cx900ax6cb3",
+      "title": "亚马逊河",
+      "tier": "核心",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "亚马逊河：世界流量最大河流，内陆水运与生态廊道。",
+      "time_or_place": "古代至今",
+      "overview": "世界流量最大河流，内陆水运与生态廊道。",
+      "related": [
+        "south-america-x5357x7f8ex8d38x6613x7f51x7edc",
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x4e9ax9a6cx900ax76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x7684x7684x5580x5580x6e56",
+      "title": "的的喀喀湖",
+      "tier": "补充",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "的的喀喀湖：安第斯高原湖泊，周边梯田与鱼类资源丰富。",
+      "time_or_place": "古代至今",
+      "overview": "安第斯高原湖泊，周边梯田与鱼类资源丰富。",
+      "related": [
+        "south-america-x62c9x666ex62c9x5854x5e73x539f",
+        "south-america-x83abx5207x6587x5316",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x67e5x6587x6587x5316",
+      "title": "查文文化",
+      "tier": "补充",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "查文文化：安第斯早期宗教中心，影响后续工艺与信仰。",
+      "time_or_place": "约前900—前200年",
+      "overview": "安第斯早期宗教中心，影响后续工艺与信仰。",
+      "related": [
+        "south-america-x8482x4e9ax74e6x7eb3x79d1",
+        "south-america-x5947x7a46x5e1dx56fd",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x83abx5207x6587x5316",
+      "title": "莫切文化",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "莫切文化：秘鲁北岸灌溉农业社会，金字塔与陶器闻名。",
+      "time_or_place": "约1—7世纪",
+      "overview": "秘鲁北岸灌溉农业社会，金字塔与陶器闻名。",
+      "related": [
+        "south-america-x62c9x666ex62c9x5854x5e73x539f",
+        "south-america-x7684x7684x5580x5580x6e56",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x7eb3x65afx5361x6587x5316",
+      "title": "纳斯卡文化",
+      "tier": "补充",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "纳斯卡文化：干旱海岸谷地，纳斯卡线条与地下水渠（puquios）著名。",
+      "time_or_place": "约前100—700年",
+      "overview": "干旱海岸谷地，纳斯卡线条与地下水渠（puquios）著名。",
+      "related": [
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x4e9ax9a6cx900ax76c6x5730",
+        "south-america-x5df4x897fx9ad8x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x8482x4e9ax74e6x7eb3x79d1",
+      "title": "蒂亚瓦纳科",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "蒂亚瓦纳科：的的喀喀湖畔高原城市，影响安第斯中部。",
+      "time_or_place": "约500—1000年",
+      "overview": "的的喀喀湖畔高原城市，影响安第斯中部。",
+      "related": [
+        "south-america-x67e5x6587x6587x5316",
+        "south-america-x5947x7a46x5e1dx56fd",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5947x7a46x5e1dx56fd",
+      "title": "奇穆帝国",
+      "tier": "补充",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "奇穆帝国：秘鲁北岸国家，灌溉城市昌昌为都城。",
+      "time_or_place": "约900—1470年",
+      "overview": "秘鲁北岸国家，灌溉城市昌昌为都城。",
+      "related": [
+        "south-america-x67e5x6587x6587x5316",
+        "south-america-x8482x4e9ax74e6x7eb3x79d1",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5370x52a0x5e1dx56fd",
+      "title": "印加帝国",
+      "tier": "核心",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "印加帝国：安第斯最大帝国，梯田、道路与驿站系统高度组织化。",
+      "time_or_place": "约1438—1533年",
+      "overview": "安第斯最大帝国，梯田、道路与驿站系统高度组织化。",
+      "related": [
+        "south-america-x67e5x6587x6587x5316",
+        "south-america-x8482x4e9ax74e6x7eb3x79d1",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x9a6cx4e18x6bd4x4e18",
+      "title": "马丘比丘",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "马丘比丘：安第斯山间印加遗址，体现山地选址与梯田工程。",
+      "time_or_place": "约15世纪",
+      "overview": "安第斯山间印加遗址，体现山地选址与梯田工程。",
+      "related": [
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x4e9ax9a6cx900ax76c6x5730",
+        "south-america-x5df4x897fx9ad8x539f"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5b89x7b2cx65afx5782x76f4x519cx4e1a",
+      "title": "安第斯垂直农业",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "安第斯垂直农业：按海拔分层种植不同作物，是适应山地环境的典型方式。",
+      "time_or_place": "古代至今",
+      "overview": "按海拔分层种植不同作物，是适应山地环境的典型方式。",
+      "related": [
+        "south-america-x62c9x666ex62c9x5854x5e73x539f",
+        "south-america-x7684x7684x5580x5580x6e56",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5357x7f8ex8d38x6613x7f51x7edc",
+      "title": "南美贸易网络",
+      "tier": "补充",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "南美贸易网络：从安第斯高原到海岸的垂直交换与远距离贸易并存。",
+      "time_or_place": "古代至今",
+      "overview": "从安第斯高原到海岸的垂直交换与远距离贸易并存。",
+      "related": [
+        "south-america-x4e9ax9a6cx900ax6cb3",
+        "south-america-x5b89x7b2cx65afx5c71x8109",
+        "south-america-x4e9ax9a6cx900ax76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "south-america-x5df4x897fx6b96x6c11x7ecfx6d4e",
+      "title": "巴西殖民经济",
+      "tier": "重要",
+      "unit_id": "south-america",
+      "region": "南美洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "巴西殖民经济：糖、黄金与咖啡周期塑造沿海与内陆开发格局。",
+      "time_or_place": "16—19世纪",
+      "overview": "糖、黄金与咖啡周期塑造沿海与内陆开发格局。",
+      "related": [
+        "south-america-x67e5x6587x6587x5316",
+        "south-america-x8482x4e9ax74e6x7eb3x79d1",
+        "south-america-x5b89x7b2cx65afx5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}

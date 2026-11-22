@@ -1,0 +1,757 @@
+[
+  {
+    "url": "https://unstats.un.org/unsd/methodology/m49/",
+    "code": 200,
+    "title": "UNSD — Methodology"
+  },
+  {
+    "url": "https://unstats.un.org/unsd/methodology/m49/overview/",
+    "code": 200,
+    "title": "UNSD — Methodology"
+  },
+  {
+    "url": "https://unstats.un.org/unsd/methodology/m49/notes/",
+    "code": 404,
+    "title": "404 - File or directory not found."
+  },
+  {
+    "url": "https://unstats.un.org/sdgs/dataportal",
+    "code": 200,
+    "title": "UNSDG"
+  },
+  {
+    "url": "https://unstats.un.org/unsd/statcom/",
+    "code": 200,
+    "title": null
+  },
+  {
+    "url": "https://unstats.un.org/home/",
+    "code": 200,
+    "title": null
+  },
+  {
+    "url": "https://population.un.org/wpp/",
+    "code": 200,
+    "title": "World Population Prospects"
+  },
+  {
+    "url": "https://population.un.org/wpp/Download/Standard/Population/",
+    "code": 404,
+    "title": "World Population Prospects"
+  },
+  {
+    "url": "https://www.who.int/data",
+    "code": 200,
+    "title": "Data at WHO"
+  },
+  {
+    "url": "https://www.who.int/data/gho",
+    "code": 200,
+    "title": "Global Health Observatory"
+  },
+  {
+    "url": "https://www.who.int/health-topics/climate-change",
+    "code": 200,
+    "title": "Climate change"
+  },
+  {
+    "url": "https://www.unesco.org/en",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.unesco.org/en/education",
+    "code": 200,
+    "title": "Education transforms lives | UNESCO"
+  },
+  {
+    "url": "https://www.unesco.org/en/natural-sciences",
+    "code": 200,
+    "title": "Sciences for the people and the planet | UNESCO"
+  },
+  {
+    "url": "https://www.unesco.org/en/social-human-sciences",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.unesco.org/en/culture",
+    "code": 200,
+    "title": "Culture | UNESCO"
+  },
+  {
+    "url": "https://www.unesco.org/en/communication-information",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.unesco.org/en/sustainable-development",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.unesco.org/en/water",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.unesco.org/en/climate-change",
+    "code": 200,
+    "title": "Climate action | UNESCO"
+  },
+  {
+    "url": "https://www.unesco.org/en/biosphere-reserves",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://whc.unesco.org/en/list/",
+    "code": 403,
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.fao.org/home/en",
+    "code": 200,
+    "title": "Home | Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://www.fao.org/aquastat/en/",
+    "code": 200,
+    "title": "AQUASTAT - FAO's Global Information System on Water and Agriculture"
+  },
+  {
+    "url": "https://www.fao.org/faostat/en/",
+    "code": 200,
+    "title": "FAOSTAT"
+  },
+  {
+    "url": "https://www.fao.org/land-water/en/",
+    "code": 200,
+    "title": "Land, Soil and Water | FAO"
+  },
+  {
+    "url": "https://www.fao.org/land-water/land/en/",
+    "code": 200,
+    "title": "Land overview | Land, Soil and Water | FAO"
+  },
+  {
+    "url": "https://www.fao.org/land-water/water/en/",
+    "code": 200,
+    "title": "Water overview | Land, Soil and Water | FAO"
+  },
+  {
+    "url": "https://www.fao.org/forestry/en/",
+    "code": 200,
+    "title": "Forestry | FAO | Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://www.fao.org/fishery/en",
+    "code": 200,
+    "title": ""
+  },
+  {
+    "url": "https://www.fao.org/climate-change/en/",
+    "code": 200,
+    "title": "Home | Climate change | Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://www.fao.org/natural-resources/en/",
+    "code": 404,
+    "title": "404 Error Page"
+  },
+  {
+    "url": "https://www.fao.org/agriculture/en/",
+    "code": 404,
+    "title": "Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://www.fao.org/food/en/",
+    "code": 200,
+    "title": "Nutrition | Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://www.fao.org/documents/en/",
+    "code": 404,
+    "title": "404 Error Page"
+  },
+  {
+    "url": "https://www.fao.org/statistics/en/",
+    "code": 200,
+    "title": "Statistics | FAO | Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://www.fao.org/economic/en/",
+    "code": 404,
+    "title": "Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://www.fao.org/in-action/en/",
+    "code": 404,
+    "title": "Food and Agriculture Organization of the United Nations"
+  },
+  {
+    "url": "https://ourworldindata.org/",
+    "code": 200,
+    "title": "Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/population-growth",
+    "code": 200,
+    "title": "Population Growth | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/world-population-growth",
+    "code": 200,
+    "title": "Population Growth | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/urbanization",
+    "code": 200,
+    "title": "Urbanization | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/climate-change",
+    "code": 200,
+    "title": "Climate Change | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/co2-emissions",
+    "code": 200,
+    "title": "CO₂ emissions | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/energy",
+    "code": 200,
+    "title": "Energy | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/food",
+    "code": 404,
+    "title": "404 Not Found | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/agriculture",
+    "code": 404,
+    "title": "404 Not Found | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/water",
+    "code": 404,
+    "title": "404 Not Found | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/forests",
+    "code": 200,
+    "title": "Forests and Deforestation | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/biodiversity",
+    "code": 200,
+    "title": "Biodiversity | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/natural-disasters",
+    "code": 200,
+    "title": "Natural Disasters | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/population",
+    "code": 200,
+    "title": "Population | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/life-expectancy",
+    "code": 200,
+    "title": "Life expectancy | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank",
+    "code": 200,
+    "title": "GDP per capita | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/annual-co2-emissions-per-country",
+    "code": 200,
+    "title": "Annual CO₂ emissions | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/urban-population-wb",
+    "code": 404,
+    "title": "404 Not Found | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/forest-area-as-share-of-land-area",
+    "code": 200,
+    "title": "Share of land covered by forest | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/water-withdrawals-annual-total",
+    "code": 404,
+    "title": "404 Not Found | Our World in Data"
+  },
+  {
+    "url": "https://science.nasa.gov/earth/",
+    "code": 200,
+    "title": "Earth - NASA Science"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/",
+    "code": 200,
+    "title": "Earth Observatory - NASA Science"
+  },
+  {
+    "url": "https://climate.nasa.gov/",
+    "code": 200,
+    "title": "Climate Change - NASA Science"
+  },
+  {
+    "url": "https://www.nasa.gov/",
+    "code": 429,
+    "title": "429 Too Many Requests"
+  },
+  {
+    "url": "https://science.nasa.gov/earth/earth-observatory/",
+    "code": 200,
+    "title": "Earth Observatory - NASA Science"
+  },
+  {
+    "url": "https://science.nasa.gov/mission/landsat/",
+    "code": 200,
+    "title": "Landsat - NASA Science"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/features/Deforestation",
+    "code": 200,
+    "title": "Tropical Deforestation - NASA Science"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/features/WorldOfChange",
+    "code": 200,
+    "title": "Earth Observatory - NASA Science"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/features/Urbanization",
+    "code": 200,
+    "title": "Earth Observatory - NASA Science"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/features/Desertification",
+    "code": 200,
+    "title": "Defining Desertification - NASA Science"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/features/DustBowl",
+    "code": 200,
+    "title": "From the Dust Bowl to the Sahel - NASA Science"
+  },
+  {
+    "url": "https://science.nasa.gov/earth/faq/what-is-earth-science/",
+    "code": 404,
+    "title": "Page not found - NASA Science"
+  },
+  {
+    "url": "https://www.noaa.gov/",
+    "code": 200,
+    "title": "National Oceanic and Atmospheric Administration Home"
+  },
+  {
+    "url": "https://www.climate.gov/",
+    "code": 200,
+    "title": "Climate | National Oceanic and Atmospheric Administration"
+  },
+  {
+    "url": "https://www.ncei.noaa.gov/",
+    "code": 200,
+    "title": "National Centers for Environmental Information (NCEI)"
+  },
+  {
+    "url": "https://oceanservice.noaa.gov/",
+    "code": 200,
+    "title": "NOAA's National Ocean Service"
+  },
+  {
+    "url": "https://www.fisheries.noaa.gov/",
+    "code": 200,
+    "title": "Welcome to NOAA | NOAA Fisheries"
+  },
+  {
+    "url": "https://www.weather.gov/",
+    "code": 200,
+    "title": "National Weather Service"
+  },
+  {
+    "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature",
+    "code": 200,
+    "title": "Climate change: global temperature | NOAA Climate.gov"
+  },
+  {
+    "url": "https://oceanservice.noaa.gov/facts/ocean-currents.html",
+    "code": 200,
+    "title": "Page Not Found: Error 404"
+  },
+  {
+    "url": "https://oceanservice.noaa.gov/facts/el-nino-la-nina.html",
+    "code": 200,
+    "title": "Page Not Found: Error 404"
+  },
+  {
+    "url": "https://www.ncei.noaa.gov/access/",
+    "code": 200,
+    "title": "Access | National Centers for Environmental Information (NCEI)"
+  },
+  {
+    "url": "https://www.ncei.noaa.gov/products/",
+    "code": 200,
+    "title": "Products | National Centers for Environmental Information (NCEI)"
+  },
+  {
+    "url": "https://www.usgs.gov/",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://earthquake.usgs.gov/",
+    "code": 200,
+    "title": "USGS Earthquake Hazards Program"
+  },
+  {
+    "url": "https://water.usgs.gov/",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://www.usgs.gov/programs/earthquake-hazards",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://www.usgs.gov/programs/national-cooperative-geologic-mapping-program",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://www.usgs.gov/centers/eros",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://www.usgs.gov/programs/mineral-resources-program",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://www.usgs.gov/programs/national-water-quality-program",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://databank.worldbank.org/source/world-development-indicators",
+    "code": 200,
+    "title": "World Development Indicators | DataBank"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/urbanization",
+    "code": 200,
+    "title": "Development Topics | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/agriculture",
+    "code": 200,
+    "title": "Farming and Agribusiness | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/climatechange",
+    "code": 200,
+    "title": "Climate Change | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/water",
+    "code": 200,
+    "title": "Water | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/environment",
+    "code": 200,
+    "title": "Environment | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/transport",
+    "code": 200,
+    "title": "Transport | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/region/afr",
+    "code": 200,
+    "title": "Africa | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/region/eap",
+    "code": 200,
+    "title": "East Asia & Pacific | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/region/eur",
+    "code": 404,
+    "title": "404 Error - Page Not Found"
+  },
+  {
+    "url": "https://www.worldbank.org/en/region/lac",
+    "code": 200,
+    "title": "Latin America and the Caribbean | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/region/mena",
+    "code": 200,
+    "title": "Middle East, North Africa, Afghanistan & Pakistan | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/region/sar",
+    "code": 200,
+    "title": "South Asia | World Bank Group"
+  },
+  {
+    "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups",
+    "code": 200,
+    "title": "World Bank Country and Lending Groups – World Bank Data Help Desk"
+  },
+  {
+    "url": "https://www.cbd.int/",
+    "code": 200,
+    "title": "Home | Convention on Biological Diversity"
+  },
+  {
+    "url": "https://www.cbd.int/convention/",
+    "code": 200,
+    "title": "The Convention on Biological Diversity"
+  },
+  {
+    "url": "https://www.cbd.int/protected/",
+    "code": 200,
+    "title": "Protected and Conserved Areas"
+  },
+  {
+    "url": "https://unfccc.int/",
+    "code": 200,
+    "title": null
+  },
+  {
+    "url": "https://unfccc.int/topics",
+    "code": 200,
+    "title": null
+  },
+  {
+    "url": "https://www.iucn.org/",
+    "code": 200,
+    "title": "IUCN"
+  },
+  {
+    "url": "https://www.unep.org/",
+    "code": 403,
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.un-habitat.org/",
+    "code": 403,
+    "title": "Checking your browser before accessing. Just a moment..."
+  },
+  {
+    "url": "https://www.unicef.org/",
+    "code": 200,
+    "title": "UNICEF, for every child"
+  },
+  {
+    "url": "https://www.iau-aiu.net/",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.igc.org.uk/",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.geolsoc.org.uk/",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.aag.org/",
+    "code": 200,
+    "title": "Home - AAG"
+  },
+  {
+    "url": "https://www.nationalacademies.org/",
+    "code": 403,
+    "title": "Access Denied"
+  },
+  {
+    "url": "https://www.sciencedirect.com/",
+    "code": 403,
+    "title": "ScienceDirect"
+  },
+  {
+    "url": "https://www.springer.com/",
+    "code": 200,
+    "title": "Springer, serving the global research community"
+  },
+  {
+    "url": "https://www.tandfonline.com/",
+    "code": 403,
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.sAGEpub.com/",
+    "code": 403,
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "https://ourworldindata.org/land-use",
+    "code": 200,
+    "title": "Land Use | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/crop-yields",
+    "code": 200,
+    "title": "Crop Yields | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/fertilizers",
+    "code": 200,
+    "title": "Fertilizers | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/meat-production",
+    "code": 200,
+    "title": "Meat and Dairy Production | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/urban-population-percent-wb",
+    "code": 404,
+    "title": "404 Not Found | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/rural-population",
+    "code": 404,
+    "title": "404 Not Found | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/population-by-age-group",
+    "code": 200,
+    "title": "Population by age group | Our World in Data"
+  },
+  {
+    "url": "https://ourworldindata.org/grapher/number-of-people-in-extreme-poverty",
+    "code": 200,
+    "title": "Number of people living in extreme poverty | Our World in Data"
+  },
+  {
+    "url": "https://www.fao.org/soils-portal/en/",
+    "code": 200,
+    "title": "Soil data | Global Soil Partnership | FAO"
+  },
+  {
+    "url": "https://www.fao.org/land-water/land/land-governance/en/",
+    "code": 404,
+    "title": "404 Error Page"
+  },
+  {
+    "url": "https://www.fao.org/climate-change/climate-change-and-food-security/en/",
+    "code": 404,
+    "title": "404 Error Page"
+  },
+  {
+    "url": "https://www.fao.org/nr/water/aquastat/main/index.stm",
+    "code": 200,
+    "title": "AQUASTAT - FAO's Global Information System on Water and Agriculture"
+  },
+  {
+    "url": "https://unstats.un.org/unsd/methodology/m49/aggregate/",
+    "code": 404,
+    "title": "404 - File or directory not found."
+  },
+  {
+    "url": "https://unstats.un.org/unsd/methodology/m49/structure/",
+    "code": 404,
+    "title": "404 - File or directory not found."
+  },
+  {
+    "url": "https://www.unesco.org/en/memory-of-the-world",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.unesco.org/en/igcp",
+    "code": 0,
+    "title": null
+  },
+  {
+    "url": "https://www.unesco.org/en/ocean",
+    "code": 200,
+    "title": "The ocean we need for the future we want | UNESCO"
+  },
+  {
+    "url": "https://science.nasa.gov/earth/earth-observatory/earth-matters/",
+    "code": 404,
+    "title": "Page not found - NASA Science"
+  },
+  {
+    "url": "https://science.nasa.gov/earth/faq/how-do-we-study-earth-from-space/",
+    "code": 404,
+    "title": "Page not found - NASA Science"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/features/AmazonFire",
+    "code": 200,
+    "title": "From Forest to Field: How Fire is Transforming the Amazon - NASA Science"
+  },
+  {
+    "url": "https://www.ncei.noaa.gov/maps-and-geospatial-products/",
+    "code": 200,
+    "title": "Maps and Geospatial Products | National Centers for Environmental Information (NCEI)"
+  },
+  {
+    "url": "https://oceanservice.noaa.gov/facts/coralreef.html",
+    "code": 200,
+    "title": "Page Not Found: Error 404"
+  },
+  {
+    "url": "https://www.usgs.gov/news/",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://www.usgs.gov/programs/volcano-hazards",
+    "code": 405,
+    "title": "Human Verification"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/poverty",
+    "code": 200,
+    "title": "Poverty | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/health",
+    "code": 200,
+    "title": "Health | World Bank Group"
+  },
+  {
+    "url": "https://www.worldbank.org/en/topic/energy",
+    "code": 200,
+    "title": "Energy | World Bank Group"
+  },
+  {
+    "url": "https://www.iucn.org/theme/protected-areas",
+    "code": 200,
+    "title": "Protected areas and land use | IUCN"
+  },
+  {
+    "url": "https://www.unep.org/resources/report",
+    "code": 403,
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.un-habitat.org/urbanization/",
+    "code": 403,
+    "title": "Checking your browser before accessing. Just a moment..."
+  }
+]

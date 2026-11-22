@@ -1,0 +1,826 @@
+{
+  "unit_id": "europe",
+  "title": "欧洲",
+  "continent": "欧洲",
+  "entries": [
+    {
+      "id": "europe-x7231x7434x6d77x4e16x754c",
+      "title": "爱琴海世界",
+      "tier": "核心",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "爱琴海世界：海洋分割成众多岛屿与港湾，早期航海贸易与城邦发展。",
+      "time_or_place": "约前2000年至今",
+      "overview": "海洋分割成众多岛屿与港湾，早期航海贸易与城邦发展。",
+      "related": [
+        "europe-x83b1x8335x6cb3",
+        "europe-x7ef4x4eacx65f6x4ee3",
+        "europe-x514bx91ccx7279x6587x660e"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x514bx91ccx7279x6587x660e",
+      "title": "克里特文明",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "克里特文明：米诺斯文明，宫殿中心与海上贸易网络。",
+      "time_or_place": "约前2000—前1400年",
+      "overview": "米诺斯文明，宫殿中心与海上贸易网络。",
+      "related": [
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x53e4x5e0cx814ax57cex90a6",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x8fc8x9521x5c3cx6587x660e",
+      "title": "迈锡尼文明",
+      "tier": "补充",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "迈锡尼文明：希腊本土青铜文明，线性文字B记录行政管理体系。",
+      "time_or_place": "约前1600—前1100年",
+      "overview": "希腊本土青铜文明，线性文字B记录行政管理体系。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x53e4x5e0cx814ax57cex90a6",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x53e4x5e0cx814ax57cex90a6",
+      "title": "古希腊城邦",
+      "tier": "核心",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "古希腊城邦：山地与海洋分割形成众多城邦，雅典与斯巴达模式差异显著。",
+      "time_or_place": "约前8—前4世纪",
+      "overview": "山地与海洋分割形成众多城邦，雅典与斯巴达模式差异显著。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x9a6cx5176x987fx4e0ex4e9ax5386x5c71x5927",
+      "title": "马其顿与亚历山大",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "马其顿与亚历山大：征服波斯帝国，开启希腊化时代，促进东西文化交流。",
+      "time_or_place": "前4世纪",
+      "overview": "征服波斯帝国，开启希腊化时代，促进东西文化交流。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x7f57x9a6cx5171x548cx56fd",
+      "title": "罗马共和国",
+      "tier": "核心",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "罗马共和国：从台伯河畔城邦扩张到地中海霸权，共和制度影响后世。",
+      "time_or_place": "前509—前27年",
+      "overview": "从台伯河畔城邦扩张到地中海霸权，共和制度影响后世。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x7f57x9a6cx5e1dx56fd",
+      "title": "罗马帝国",
+      "tier": "核心",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "罗马帝国：地中海统一市场与道路网络促进贸易与城市化。",
+      "time_or_place": "前27年—476年（西）",
+      "overview": "地中海统一市场与道路网络促进贸易与城市化。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x62dcx5360x5eadx5e1dx56fd",
+      "title": "拜占庭帝国",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "东南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "拜占庭帝国：东罗马延续千年，君士坦丁堡扼守欧亚通道。",
+      "time_or_place": "330—1453年",
+      "overview": "东罗马延续千年，君士坦丁堡扼守欧亚通道。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x610fx5927x5229x534ax5c9b",
+      "title": "意大利半岛",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "意大利半岛：亚平宁山脉纵贯半岛，台伯河与港口城市塑造历史地理。",
+      "time_or_place": "古代至今",
+      "overview": "亚平宁山脉纵贯半岛，台伯河与港口城市塑造历史地理。",
+      "related": [
+        "europe-x963fx5c14x5351x65afx5c71",
+        "europe-x65afx582ax7684x7eb3x7ef4x4e9a",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
+      "title": "伊比利亚半岛",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "西南欧",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "伊比利亚半岛：比利牛斯山屏障与海岸线，罗马、西哥特与伊斯兰政权先后影响。",
+      "time_or_place": "古代至今",
+      "overview": "比利牛斯山屏障与海岸线，罗马、西哥特与伊斯兰政权先后影响。",
+      "related": [
+        "europe-x9ad8x5362",
+        "europe-x4e0dx5217x98a0x7fa4x5c9b",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x9ad8x5362",
+      "title": "高卢",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "西欧",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "高卢：今法国一带，罗马化与封建制在此交汇。",
+      "time_or_place": "古代至今",
+      "overview": "今法国一带，罗马化与封建制在此交汇。",
+      "related": [
+        "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
+        "europe-x4e0dx5217x98a0x7fa4x5c9b",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x4e0dx5217x98a0x7fa4x5c9b",
+      "title": "不列颠群岛",
+      "tier": "核心",
+      "unit_id": "europe",
+      "region": "西北欧",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "不列颠群岛：岛国位置影响其海洋贸易与政治发展路径。",
+      "time_or_place": "古代至今",
+      "overview": "岛国位置影响其海洋贸易与政治发展路径。",
+      "related": [
+        "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
+        "europe-x9ad8x5362",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x963fx5c14x5351x65afx5c71",
+      "title": "阿尔卑斯山",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "中欧",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "阿尔卑斯山：欧洲最高山脉，形成南北交通屏障与山口通道。",
+      "time_or_place": "约3000万年前至今",
+      "overview": "欧洲最高山脉，形成南北交通屏障与山口通道。",
+      "related": [
+        "europe-x610fx5927x5229x534ax5c9b",
+        "europe-x65afx582ax7684x7eb3x7ef4x4e9a",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x591ax7459x6cb3",
+      "title": "多瑙河",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "中欧",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "多瑙河：欧洲第二长河，连接多个政权与生态区。",
+      "time_or_place": "古代至今",
+      "overview": "欧洲第二长河，连接多个政权与生态区。",
+      "related": [
+        "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
+        "europe-x9ad8x5362",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x83b1x8335x6cb3",
+      "title": "莱茵河",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "西欧",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "莱茵河：重要内河航道，沿岸城市带与工业带密集。",
+      "time_or_place": "古代至今",
+      "overview": "重要内河航道，沿岸城市带与工业带密集。",
+      "related": [
+        "europe-x7231x7434x6d77x4e16x754c",
+        "europe-x7ef4x4eacx65f6x4ee3",
+        "europe-x514bx91ccx7279x6587x660e"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x7ef4x4eacx65f6x4ee3",
+      "title": "维京时代",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "北欧",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "维京时代：斯堪的纳维亚航海者沿河与海岸贸易、殖民与袭击。",
+      "time_or_place": "约793—1066年",
+      "overview": "斯堪的纳维亚航海者沿河与海岸贸易、殖民与袭击。",
+      "related": [
+        "europe-x7231x7434x6d77x4e16x754c",
+        "europe-x83b1x8335x6cb3",
+        "europe-x514bx91ccx7279x6587x660e"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x6cd5x5170x514bx738bx56fd",
+      "title": "法兰克王国",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "西欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "法兰克王国：查理曼帝国覆盖西欧大部，封建制度发展。",
+      "time_or_place": "5—9世纪",
+      "overview": "查理曼帝国覆盖西欧大部，封建制度发展。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x795ex5723x7f57x9a6cx5e1dx56fd",
+      "title": "神圣罗马帝国",
+      "tier": "补充",
+      "unit_id": "europe",
+      "region": "中欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "神圣罗马帝国：松散的帝国结构，诸侯割据与城市自治并存。",
+      "time_or_place": "962—1806年",
+      "overview": "松散的帝国结构，诸侯割据与城市自治并存。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x5341x5b57x519bx4e1cx5f81",
+      "title": "十字军东征",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "地中海",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "十字军东征：宗教战争同时重启地中海东西贸易联系。",
+      "time_or_place": "1096—1291年",
+      "overview": "宗教战争同时重启地中海东西贸易联系。",
+      "related": [
+        "europe-x7231x7434x6d77x4e16x754c",
+        "europe-x83b1x8335x6cb3",
+        "europe-x514bx91ccx7279x6587x660e"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x6c49x8428x540cx76df",
+      "title": "汉萨同盟",
+      "tier": "补充",
+      "unit_id": "europe",
+      "region": "北欧",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "汉萨同盟：波罗的海与北海城市商业联盟，垄断区域航运。",
+      "time_or_place": "约13—17世纪",
+      "overview": "波罗的海与北海城市商业联盟，垄断区域航运。",
+      "related": [
+        "europe-x7231x7434x6d77x4e16x754c",
+        "europe-x83b1x8335x6cb3",
+        "europe-x514bx91ccx7279x6587x660e"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x5a01x5c3cx65af",
+      "title": "威尼斯",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "威尼斯：亚得里亚海潟湖城市，东西方贸易中介。",
+      "time_or_place": "约8—18世纪",
+      "overview": "亚得里亚海潟湖城市，东西方贸易中介。",
+      "related": [
+        "europe-x7231x7434x6d77x4e16x754c",
+        "europe-x83b1x8335x6cb3",
+        "europe-x514bx91ccx7279x6587x660e"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x6587x827ax590dx5174x610fx5927x5229",
+      "title": "文艺复兴意大利",
+      "tier": "核心",
+      "unit_id": "europe",
+      "region": "南欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "文艺复兴意大利：城邦竞争与商业财富支撑艺术与思想变革。",
+      "time_or_place": "约14—17世纪",
+      "overview": "城邦竞争与商业财富支撑艺术与思想变革。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x57fax8f85x7f57x65af",
+      "title": "基辅罗斯",
+      "tier": "补充",
+      "unit_id": "europe",
+      "region": "东欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "基辅罗斯：第聂伯河上游的罗斯国家，后受蒙古冲击。",
+      "time_or_place": "约9—13世纪",
+      "overview": "第聂伯河上游的罗斯国家，后受蒙古冲击。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x83abx65afx79d1x516cx56fd",
+      "title": "莫斯科公国",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "东欧",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "莫斯科公国：从蒙古统治下崛起，逐步统一东北罗斯。",
+      "time_or_place": "约13—16世纪",
+      "overview": "从蒙古统治下崛起，逐步统一东北罗斯。",
+      "related": [
+        "europe-x514bx91ccx7279x6587x660e",
+        "europe-x8fc8x9521x5c3cx6587x660e",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x5df4x5c14x5e72x534ax5c9b",
+      "title": "巴尔干半岛",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "东南欧",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "巴尔干半岛：多山脉与海峡，处在欧亚交界，政权更替频繁。",
+      "time_or_place": "古代至今",
+      "overview": "多山脉与海峡，处在欧亚交界，政权更替频繁。",
+      "related": [
+        "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
+        "europe-x9ad8x5362",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x65afx582ax7684x7eb3x7ef4x4e9a",
+      "title": "斯堪的纳维亚",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "北欧",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "斯堪的纳维亚：半岛与冰川地貌，森林、铁矿与海洋资源丰富。",
+      "time_or_place": "古代至今",
+      "overview": "半岛与冰川地貌，森林、铁矿与海洋资源丰富。",
+      "related": [
+        "europe-x610fx5927x5229x534ax5c9b",
+        "europe-x963fx5c14x5351x65afx5c71",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x6b27x6d32x51b0x671fx5730x8c8c",
+      "title": "欧洲冰期地貌",
+      "tier": "补充",
+      "unit_id": "europe",
+      "region": "北欧",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "欧洲冰期地貌：冰川侵蚀塑造峡湾、湖泊与冰碛地貌。",
+      "time_or_place": "约260万年前至今",
+      "overview": "冰川侵蚀塑造峡湾、湖泊与冰碛地貌。",
+      "related": [
+        "europe-x610fx5927x5229x534ax5c9b",
+        "europe-x963fx5c14x5351x65afx5c71",
+        "europe-x7231x7434x6d77x4e16x754c"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x9ed1x6d77x6d77x5ce1",
+      "title": "黑海海峡",
+      "tier": "重要",
+      "unit_id": "europe",
+      "region": "东南欧",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "黑海海峡：博斯普鲁斯与达达尼尔海峡连接黑海与地中海，战略与贸易价值高。",
+      "time_or_place": "古代至今",
+      "overview": "博斯普鲁斯与达达尼尔海峡连接黑海与地中海，战略与贸易价值高。",
+      "related": [
+        "europe-x7231x7434x6d77x4e16x754c",
+        "europe-x83b1x8335x6cb3",
+        "europe-x514bx91ccx7279x6587x660e"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}

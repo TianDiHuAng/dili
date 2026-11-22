@@ -1,0 +1,363 @@
+{
+  "unit_id": "global-themes",
+  "title": "全球主题",
+  "continent": "跨洲",
+  "entries": [
+    {
+      "id": "global-themes-x677fx5757x6784x9020",
+      "title": "板块构造",
+      "tier": "核心",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "板块构造：解释地震、火山与山脉形成的统一理论框架。",
+      "time_or_place": "20世纪确立",
+      "overview": "解释地震、火山与山脉形成的统一理论框架。",
+      "related": [
+        "global-themes-x5927x9646x6f02x79fb",
+        "global-themes-x6cb3x6d41x4e09x89d2x6d32",
+        "global-themes-x5b63x98cex7cfbx7edf"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5927x9646x6f02x79fb",
+      "title": "大陆漂移",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "大陆漂移：魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
+      "time_or_place": "1912年提出",
+      "overview": "魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
+      "related": [
+        "global-themes-x677fx5757x6784x9020",
+        "global-themes-x6cb3x6d41x4e09x89d2x6d32",
+        "global-themes-x5b63x98cex7cfbx7edf"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5b63x98cex7cfbx7edf",
+      "title": "季风系统",
+      "tier": "核心",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "季风系统：海陆热力差异导致季节性风向反转，深刻影响亚洲与非洲农业。",
+      "time_or_place": "年度周期",
+      "overview": "海陆热力差异导致季节性风向反转，深刻影响亚洲与非洲农业。",
+      "related": [
+        "global-themes-x6d0bx6d41",
+        "global-themes-x6c14x5019x5e26",
+        "global-themes-x677fx5757x6784x9020"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6d0bx6d41",
+      "title": "洋流",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "洋流：全球热量再分配的重要机制，影响沿岸气候与渔场。",
+      "time_or_place": "全年",
+      "overview": "全球热量再分配的重要机制，影响沿岸气候与渔场。",
+      "related": [
+        "global-themes-x5b63x98cex7cfbx7edf",
+        "global-themes-x6c14x5019x5e26",
+        "global-themes-x677fx5757x6784x9020"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6c14x5019x5e26",
+      "title": "气候带",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "气候带：从赤道到极地的热量分带，是理解全球地理格局的基础。",
+      "time_or_place": "纬度分异",
+      "overview": "从赤道到极地的热量分带，是理解全球地理格局的基础。",
+      "related": [
+        "global-themes-x5b63x98cex7cfbx7edf",
+        "global-themes-x6d0bx6d41",
+        "global-themes-x677fx5757x6784x9020"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6c99x6f20x5316",
+      "title": "沙漠化",
+      "tier": "补充",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "沙漠化：干旱区土地退化过程，受气候波动与人类活动共同影响。",
+      "time_or_place": "近现代",
+      "overview": "干旱区土地退化过程，受气候波动与人类活动共同影响。",
+      "related": [
+        "global-themes-x5b63x98cex7cfbx7edf",
+        "global-themes-x6d0bx6d41",
+        "global-themes-x677fx5757x6784x9020"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6cb3x6d41x4e09x89d2x6d32",
+      "title": "河流三角洲",
+      "tier": "核心",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "河流三角洲：河流入海处沉积地貌，常成为农业与城市密集区。",
+      "time_or_place": "全新世",
+      "overview": "河流入海处沉积地貌，常成为农业与城市密集区。",
+      "related": [
+        "global-themes-x677fx5757x6784x9020",
+        "global-themes-x5927x9646x6f02x79fb",
+        "global-themes-x5b63x98cex7cfbx7edf"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x51b2x79efx5e73x539f",
+      "title": "冲积平原",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "冲积平原：河流泛滥沉积形成肥沃平原，是早期文明摇篮。",
+      "time_or_place": "全新世",
+      "overview": "河流泛滥沉积形成肥沃平原，是早期文明摇篮。",
+      "related": [
+        "global-themes-x5c71x5730x519cx4e1a",
+        "global-themes-x677fx5757x6784x9020",
+        "global-themes-x5927x9646x6f02x79fb"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x5c71x5730x519cx4e1a",
+      "title": "山地农业",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "农业",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "山地农业：梯田与垂直土地利用是山地适应的普遍方式。",
+      "time_or_place": "古代至今",
+      "overview": "梯田与垂直土地利用是山地适应的普遍方式。",
+      "related": [
+        "global-themes-x51b2x79efx5e73x539f",
+        "global-themes-x677fx5757x6784x9020",
+        "global-themes-x5927x9646x6f02x79fb"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x6e38x7267",
+      "title": "游牧",
+      "tier": "核心",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "游牧：随季节迁移的生存方式，连接草原、沙漠与绿洲贸易。",
+      "time_or_place": "古代至今",
+      "overview": "随季节迁移的生存方式，连接草原、沙漠与绿洲贸易。",
+      "related": [
+        "global-themes-x677fx5757x6784x9020",
+        "global-themes-x5927x9646x6f02x79fb"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x57cex5e02x8d77x6e90",
+      "title": "城市起源",
+      "tier": "核心",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "城市起源：农业剩余、贸易与权力集中推动早期城市出现。",
+      "time_or_place": "约前3500年起",
+      "overview": "农业剩余、贸易与权力集中推动早期城市出现。",
+      "related": [
+        "global-themes-x677fx5757x6784x9020",
+        "global-themes-x5927x9646x6f02x79fb"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "global-themes-x4ebax53e3x8fc1x79fb",
+      "title": "人口迁移",
+      "tier": "重要",
+      "unit_id": "global-themes",
+      "region": "全球",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "人口迁移：环境、经济与政治因素驱动人口流动，改变区域分布。",
+      "time_or_place": "史前至今",
+      "overview": "环境、经济与政治因素驱动人口流动，改变区域分布。",
+      "related": [
+        "global-themes-x677fx5757x6784x9020",
+        "global-themes-x5927x9646x6f02x79fb"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}

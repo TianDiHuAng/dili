@@ -1,0 +1,240 @@
+{
+  "unit_id": "antarctica",
+  "title": "南极洲",
+  "continent": "南极洲",
+  "entries": [
+    {
+      "id": "antarctica-x5357x6781x5927x9646",
+      "title": "南极大陆",
+      "tier": "核心",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "南极大陆：冰盖覆盖的大陆，气候极端，无永久居民。",
+      "time_or_place": "约中生代至今",
+      "overview": "冰盖覆盖的大陆，气候极端，无永久居民。",
+      "related": [
+        "antarctica-x5357x6781x534ax5c9b",
+        "antarctica-x6a2ax8d2fx5357x6781x5c71x8109",
+        "antarctica-x5357x6781x51b0x76d6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x534ax5c9b",
+      "title": "南极半岛",
+      "tier": "重要",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "南极半岛：向北伸出，气温相对温和，科考站密集。",
+      "time_or_place": "约中生代至今",
+      "overview": "向北伸出，气温相对温和，科考站密集。",
+      "related": [
+        "antarctica-x5357x6781x5927x9646",
+        "antarctica-x6a2ax8d2fx5357x6781x5c71x8109",
+        "antarctica-x5357x6781x51b0x76d6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x6a2ax8d2fx5357x6781x5c71x8109",
+      "title": "横贯南极山脉",
+      "tier": "补充",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "横贯南极山脉：把南极分为东南与西南两部分，冰川穿切。",
+      "time_or_place": "约古生代至今",
+      "overview": "把南极分为东南与西南两部分，冰川穿切。",
+      "related": [
+        "antarctica-x5357x6781x5927x9646",
+        "antarctica-x5357x6781x534ax5c9b",
+        "antarctica-x5357x6781x51b0x76d6"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x51b0x76d6",
+      "title": "南极冰盖",
+      "tier": "核心",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "气候",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "南极冰盖：世界最大冰体，海平面变化的关键变量。",
+      "time_or_place": "约3400万年前至今",
+      "overview": "世界最大冰体，海平面变化的关键变量。",
+      "related": [
+        "antarctica-x51b0x82afx6c14x5019x8bb0x5f55",
+        "antarctica-x5357x6781x5927x9646",
+        "antarctica-x5357x6781x534ax5c9b"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x7f57x65afx6d77",
+      "title": "罗斯海",
+      "tier": "补充",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "罗斯海：深入大陆的海湾，海冰与冰架系统显著。",
+      "time_or_place": "古代至今",
+      "overview": "深入大陆的海湾，海冰与冰架系统显著。",
+      "related": [
+        "antarctica-x5357x6781x5927x9646",
+        "antarctica-x5357x6781x534ax5c9b",
+        "antarctica-x6a2ax8d2fx5357x6781x5c71x8109"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x6761x7ea6x4f53x7cfb",
+      "title": "南极条约体系",
+      "tier": "重要",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "南极条约体系：冻结领土主张、禁止军事活动，规范科考合作。",
+      "time_or_place": "1961年至今",
+      "overview": "冻结领土主张、禁止军事活动，规范科考合作。",
+      "related": [
+        "antarctica-x5357x6781x5927x9646",
+        "antarctica-x5357x6781x534ax5c9b"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x5357x6781x79d1x8003x7ad9",
+      "title": "南极科考站",
+      "tier": "补充",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "南极科考站：多国设立研究站，观测气候、冰川与生物。",
+      "time_or_place": "20世纪至今",
+      "overview": "多国设立研究站，观测气候、冰川与生物。",
+      "related": [
+        "antarctica-x5357x6781x5927x9646",
+        "antarctica-x5357x6781x534ax5c9b"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "antarctica-x51b0x82afx6c14x5019x8bb0x5f55",
+      "title": "冰芯气候记录",
+      "tier": "重要",
+      "unit_id": "antarctica",
+      "region": "南极洲",
+      "theme": "气候",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "冰芯气候记录：冰芯包裹气泡提供古大气成分与温度变化证据。",
+      "time_or_place": "近百万年",
+      "overview": "冰芯包裹气泡提供古大气成分与温度变化证据。",
+      "related": [
+        "antarctica-x5357x6781x51b0x76d6",
+        "antarctica-x5357x6781x5927x9646",
+        "antarctica-x5357x6781x534ax5c9b"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}

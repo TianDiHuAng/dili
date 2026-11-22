@@ -1,0 +1,416 @@
+{
+  "unit_id": "oceania",
+  "title": "大洋洲",
+  "continent": "大洋洲",
+  "entries": [
+    {
+      "id": "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+      "title": "澳大利亚大陆",
+      "tier": "核心",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "澳大利亚大陆：最小大陆，内陆干旱、沿海湿润，地形与气候差异显著。",
+      "time_or_place": "古代至今",
+      "overview": "最小大陆，内陆干旱、沿海湿润，地形与气候差异显著。",
+      "related": [
+        "oceania-x5927x5206x6c34x5cad",
+        "oceania-x5927x81eax6d41x76c6x5730",
+        "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x5927x5206x6c34x5cad",
+      "title": "大分水岭",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "大分水岭：澳大利亚东部山地，影响东西降水差异与河流流向。",
+      "time_or_place": "约古生代至今",
+      "overview": "澳大利亚东部山地，影响东西降水差异与河流流向。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x81eax6d41x76c6x5730",
+        "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x5927x81eax6d41x76c6x5730",
+      "title": "大自流盆地",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "大自流盆地：中部承压含水层，牧业依赖井水，盐度限制利用。",
+      "time_or_place": "约中生代至今",
+      "overview": "中部承压含水层，牧业依赖井水，盐度限制利用。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad",
+        "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
+      "title": "澳大利亚原住民",
+      "tier": "核心",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "澳大利亚原住民：长期适应干旱与多样生态，形成丰富语言与文化传统。",
+      "time_or_place": "约4万年前至今",
+      "overview": "长期适应干旱与多样生态，形成丰富语言与文化传统。",
+      "related": [
+        "oceania-x7f8ex62c9x5c3cx897fx4e9a",
+        "oceania-x5bc6x514bx7f57x5c3cx897fx4e9a",
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x65b0x897fx5170x5317x5c9b",
+      "title": "新西兰北岛",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "新西兰北岛：火山与地热活动活跃，毛利聚落与港口城市集中。",
+      "time_or_place": "约中生代至今",
+      "overview": "火山与地热活动活跃，毛利聚落与港口城市集中。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad",
+        "oceania-x5927x81eax6d41x76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x65b0x897fx5170x5357x5c9b",
+      "title": "新西兰南岛",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "新西兰南岛：南阿尔卑斯山与冰川地貌，降水丰富。",
+      "time_or_place": "约中生代至今",
+      "overview": "南阿尔卑斯山与冰川地貌，降水丰富。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad",
+        "oceania-x5927x81eax6d41x76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x6bdbx5229x4eba",
+      "title": "毛利人",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "政权更替",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "毛利人：波利尼西亚移民后裔，逐步形成部落与王国组织。",
+      "time_or_place": "约13世纪至今",
+      "overview": "波利尼西亚移民后裔，逐步形成部落与王国组织。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x7f8ex62c9x5c3cx897fx4e9a",
+      "title": "美拉尼西亚",
+      "tier": "补充",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "美拉尼西亚：新几内亚及所罗门等岛屿，语言与文化高度多样。",
+      "time_or_place": "古代至今",
+      "overview": "新几内亚及所罗门等岛屿，语言与文化高度多样。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
+        "oceania-x5bc6x514bx7f57x5c3cx897fx4e9a",
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x5bc6x514bx7f57x5c3cx897fx4e9a",
+      "title": "密克罗尼西亚",
+      "tier": "补充",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "密克罗尼西亚：小岛密集，航海与海洋资源丰富。",
+      "time_or_place": "古代至今",
+      "overview": "小岛密集，航海与海洋资源丰富。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
+        "oceania-x7f8ex62c9x5c3cx897fx4e9a",
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x6ce2x5229x5c3cx897fx4e9a",
+      "title": "波利尼西亚",
+      "tier": "核心",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "L1完成",
+      "definition": "波利尼西亚：三角状岛屿分布，长距离航海与殖民是显著特征。",
+      "time_or_place": "约前1000年至今",
+      "overview": "三角状岛屿分布，长距离航海与殖民是显著特征。",
+      "related": [
+        "oceania-x592ax5e73x6d0bx6b96x6c11x822ax7ebf",
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x590fx5a01x5937x7fa4x5c9b",
+      "title": "夏威夷群岛",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "夏威夷群岛：火山岛链，波利尼西亚航海者定居后形成王国。",
+      "time_or_place": "约500万年前至今",
+      "overview": "火山岛链，波利尼西亚航海者定居后形成王国。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad",
+        "oceania-x5927x81eax6d41x76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x590dx6d3bx8282x5c9b",
+      "title": "复活节岛",
+      "tier": "补充",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "区域",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "复活节岛：东南太平洋孤立岛屿，摩艾石像体现波利尼西亚文化。",
+      "time_or_place": "约公元1000年至今",
+      "overview": "东南太平洋孤立岛屿，摩艾石像体现波利尼西亚文化。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
+        "oceania-x7f8ex62c9x5c3cx897fx4e9a",
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x5927x5821x7901",
+      "title": "大堡礁",
+      "tier": "重要",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "地形",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "大堡礁：世界最大珊瑚礁系统，受海温与径流影响。",
+      "time_or_place": "全新世至今",
+      "overview": "世界最大珊瑚礁系统，受海温与径流影响。",
+      "related": [
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad",
+        "oceania-x5927x81eax6d41x76c6x5730"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world",
+        "AP Human Geography 主题框架"
+      ],
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "oceania-x592ax5e73x6d0bx6b96x6c11x822ax7ebf",
+      "title": "太平洋殖民航线",
+      "tier": "补充",
+      "unit_id": "oceania",
+      "region": "大洋洲",
+      "theme": "贸易",
+      "level": "L1",
+      "status": "骨架",
+      "definition": "太平洋殖民航线：欧洲航海者穿越太平洋，改变岛屿贸易与政治格局。",
+      "time_or_place": "16—19世纪",
+      "overview": "欧洲航海者穿越太平洋，改变岛屿贸易与政治格局。",
+      "related": [
+        "oceania-x6ce2x5229x5c3cx897fx4e9a",
+        "oceania-x6fb3x5927x5229x4e9ax5927x9646",
+        "oceania-x5927x5206x6c34x5cad"
+      ],
+      "sources": [
+        "britannica-regions",
+        "wikipedia-regions"
+      ],
+      "needs_verification": true,
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "outlines": [
+        "Britannica Continents & Regions",
+        "Wikipedia List of regions of the world"
+      ],
+      "last_update": "2026-11-22"
+    }
+  ]
+}
