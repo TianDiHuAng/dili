@@ -85,11 +85,11 @@
       "unit_id": "antarctica",
       "region": "南极洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "横贯南极山脉：把南极分为东南与西南两部分，冰川穿切。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "把南极分为东南与西南两部分，冰川穿切。",
+      "level": "L2",
+      "status": "L2完成(第39轮)-学术文献",
+      "definition": "横贯南极山脉：横贯南极大陆、分隔东南极与西南极的山脉，全长约3000千米。",
+      "time_or_place": "地质尺度（新生代以来；所引研究为其隆升机制）",
+      "overview": "横贯南极山脉：横贯南极大陆、分隔东南极与西南极的山脉，全长约3000千米。",
       "related": [
         "antarctica-x5357x6781x5927x9646",
         "antarctica-x5357x6781x534ax5c9b",
@@ -97,15 +97,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2091566445",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约古生代至今」无专门来源支撑，已收敛为待核表述。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约古生代至今」无专门来源支撑，已收敛为待核表述。 【第39轮升级 L2】第二来源为 OpenAlex openalex-W2091566445（1989年，《Flexural uplift of the Transantarctic Mountains》，Journal of Geophysical Research Atmospheres，DOI https://doi.org/10.1029/jb094ib08p10315，被引 217）。 机制/影响段据其摘要撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "山脉沿东南极与西南极的边界延伸，长约3000千米；山脉北侧为罗斯海与维多利亚地盆地，南侧为东南极冰盖。山体被冰盖覆盖，仅山脊与少数冰原岛峰出露。",
+      "influence": "所引 1989 年研究指出，该山脉形成于东南极与西南极的陆—陆边界，高热流、薄地壳、正断层与火山活动表明这条约3000千米的边界具有张裂性质，并发育出横贯南极山脉、威尔克斯盆地与维多利亚地盆地三个主要构造。这为理解山脉隆升提供了机制解释。",
+      "polities": "本条为自然地理/科考主题条目，不展开政权序列。",
+      "connections": "山脉把东南极冰盖与西南极冰盖分隔，影响冰流路径；其北侧为罗斯海与罗斯冰架，是南极物质平衡研究的关键区。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 260 C220 225 350 210 480 218 C580 224 650 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='214' r='7' class='pt'/><text x='290' y='192' class='lbl'>横贯南极山脉</text><text x='40' y='370' class='dim'>横贯南极山脉 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "antarctica-x5357x6781x51b0x76d6",
@@ -150,11 +158,11 @@
       "unit_id": "antarctica",
       "region": "南极洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "罗斯海：深入大陆的海湾，海冰与冰架系统显著。",
-      "time_or_place": "古代至今",
-      "overview": "深入大陆的海湾，海冰与冰架系统显著。",
+      "level": "L2",
+      "status": "L2完成(第39轮)-学术文献",
+      "definition": "罗斯海：南太平洋扇形海域，南接罗斯冰架，是南极洲附近最深的边缘海。",
+      "time_or_place": "现代海洋观测（所引研究覆盖近40年记录）",
+      "overview": "罗斯海：南太平洋扇形海域，南接罗斯冰架，是南极洲附近最深的边缘海。",
       "related": [
         "antarctica-x5357x6781x5927x9646",
         "antarctica-x5357x6781x534ax5c9b",
@@ -162,15 +170,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2024312440",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮升级 L2】第二来源为 OpenAlex openalex-W2024312440（2002年，《Freshening of the Ross Sea During the Late 20th Century》，Science，DOI https://doi.org/10.1126/science.1069574，被引 448）。 机制/影响段据其摘要撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "海域南部被罗斯冰架覆盖，北部通向开阔洋；大陆架水深较大，是南极底层水形成的重要区域之一。海冰与冰架的季节变化显著。",
+      "influence": "所引 2002 年研究以近四十年的海洋观测（南极附近最长的记录之一）指出：陆架水盐度与罗斯环流表层盐度明显下降（即淡化），同期罗斯岛大气增温、陆架以北约300米深处海水增温、南方涛动指数更偏负、并伴有冰层减薄。这些变化同向出现，提示海冰—淡水通量—环流的耦合。",
+      "polities": "本条为自然地理/科考主题条目，不展开政权序列。",
+      "connections": "与罗斯冰架、南极底层水形成、南大洋环流相连，是全球热盐环流的重要源区之一。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 260 C220 225 350 210 480 218 C580 224 650 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='214' r='7' class='pt'/><text x='290' y='192' class='lbl'>罗斯海</text><text x='40' y='370' class='dim'>罗斯海 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "antarctica-x5357x6781x6761x7ea6x4f53x7cfb",
@@ -216,26 +232,34 @@
       "unit_id": "antarctica",
       "region": "南极洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "南极科考站：多国设立研究站，观测气候、冰川与生物。",
-      "time_or_place": "20世纪至今",
-      "overview": "多国设立研究站，观测气候、冰川与生物。",
+      "level": "L2",
+      "status": "L2完成(第39轮)-学术文献",
+      "definition": "南极科考站：各国在南极大陆及其岛屿设立的常年或夏季科学考察站。",
+      "time_or_place": "科考活动现状（所引 2009 年调查，覆盖28国站点）",
+      "overview": "南极科考站：各国在南极大陆及其岛屿设立的常年或夏季科学考察站。",
       "related": [
         "antarctica-x5357x6781x5927x9646",
         "antarctica-x5357x6781x534ax5c9b"
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2135820861",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮升级 L2】第二来源为 OpenAlex openalex-W2135820861（2009年，《Survey of waste water disposal practices at Antarctic research stations》，Polar Research，DOI https://doi.org/10.3402/polar.v28i2.6109，被引 138）。 机制/影响段据其摘要撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "站点分布不均：南极半岛与沿岸岛屿最密集，东南极内陆与高原站稀少；内陆站海拔高、气温极低，补给线长。选址受冰况、地形与后勤可达性约束。",
+      "influence": "所引 2009 年研究由瑞典极地研究秘书处发起，就南极 28 国站点的废水与灰水处置实践做问卷普查（2005年秋发出）。研究以瑞典 Wasa 站（毛德皇后地）为参照，说明科考站的环境管理已成为南极治理的一部分，而非仅是科研后勤问题。",
+      "polities": "本条为自然地理/科考主题条目，不展开政权序列。",
+      "connections": "通过海运与空运补给线连接各国本土与南极，站点之间通过条约体系下的信息网络（如环境官员网络）协调。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 260 C220 225 350 210 480 218 C580 224 650 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='214' r='7' class='pt'/><text x='290' y='192' class='lbl'>南极科考站</text><text x='40' y='370' class='dim'>南极科考站 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "antarctica-x51b0x82afx6c14x5019x8bb0x5f55",

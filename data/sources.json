@@ -6488,6 +6488,45 @@
       "verified": true,
       "page_title": "Human geography in the French Institute: New discipline or missed opportunity?",
       "note": "OpenAlex 作品 W2038018335；1987年；Journal of the History of the Behavioral Sciences；DOI https://doi.org/10.1002/1520-6696(198710)23:4<332::aid-jhbs2300230403>3.0.co;2-z；被引 36。HTTP 200，12141 字节。摘要节录：The geography section of the Class of Moral and Political Sciences of the French National Institute, which was in existence from December 1795 to January 1803, responded inadequately to the theoretical challenges of Mont…"
+    },
+    {
+      "id": "openalex-W2091566445",
+      "title": "OpenAlex W2091566445 — Flexural uplift of the Transantarctic Mountains",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1989,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2091566445",
+      "url2": "https://doi.org/10.1029/jb094ib08p10315",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Flexural uplift of the Transantarctic Mountains",
+      "note": "OpenAlex 作品 W2091566445；1989年；Journal of Geophysical Research Atmospheres；DOI https://doi.org/10.1029/jb094ib08p10315；被引 217。HTTP 200，16668 字节。摘要节录：The Transantarctic Mountains have formed at the continent‐continent boundary between East and West Antarctica. High heat flow, thin crust, normal faulting, and past and present volcanism indicate that this approximately 3000‐km‐long boundar…"
+    },
+    {
+      "id": "openalex-W2024312440",
+      "title": "OpenAlex W2024312440 — Freshening of the Ross Sea During the Late 20th Century",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2002,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2024312440",
+      "url2": "https://doi.org/10.1126/science.1069574",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Freshening of the Ross Sea During the Late 20th Century",
+      "note": "OpenAlex 作品 W2024312440；2002年；Science；DOI https://doi.org/10.1126/science.1069574；被引 448。HTTP 200，16263 字节。摘要节录：Ocean measurements in the Ross Sea over the past four decades, one of the longest records near Antarctica, reveal marked decreases in shelf water salinity and the surface salinity within the Ross Gyre. These changes have been accompanied by…"
+    },
+    {
+      "id": "openalex-W2135820861",
+      "title": "OpenAlex W2135820861 — Survey of waste water disposal practices at Antarctic research stations",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2009,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2135820861",
+      "url2": "https://doi.org/10.3402/polar.v28i2.6109",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Survey of waste water disposal practices at Antarctic research stations",
+      "note": "OpenAlex 作品 W2135820861；2009年；Polar Research；DOI https://doi.org/10.3402/polar.v28i2.6109；被引 138。HTTP 200，18210 字节。摘要节录：To inform the future practices to be employed for handling waste water and grey water at the Swedish Antarctic station,Wasa, in Dronning Maud Land, the Swedish Polar Research Secretariat took the initiative to survey the practices of the 28…"
     }
   ]
 }
