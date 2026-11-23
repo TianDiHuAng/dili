@@ -209,7 +209,7 @@
       "level": "L2",
       "status": "L2完成(第41轮)-学术文献",
       "definition": "阿巴拉契亚山脉：北美东部的山系，由古生代多次造山事件叠加形成。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
+      "time_or_place": "晚古生代阿勒格尼造山期（320–260 Ma，据 2002 年 GSA 研究）；更早的造山事件始于早古生代",
       "overview": "阿巴拉契亚山脉：北美东部的山系，由古生代多次造山事件叠加形成。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
@@ -223,14 +223,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约3亿年前」无专门来源支撑，已收敛为待核表述。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1902061871（2002年，《Alleghanian (Appalachian) orogeny, a product of zipper tectonics: Rotational transpressive continent-continent collision and closing of ancient oceans along irregular margins》，Geological Society of America eBooks，DOI 10.1130/0-8137-2364-7.199，被引 163），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约3亿年前」无专门来源支撑，已收敛为待核表述。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1902061871（2002年，《Alleghanian (Appalachian) orogeny, a product of zipper tectonics: Rotational transpressive continent-continent collision and closing of ancient oceans along irregular margins》，Geological Society of America eBooks，DOI 10.1130/0-8137-2364-7.199，被引 163），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第41轮返工】① time_or_place 原写「时期与年代待专门来源核验」，与 influence 已给出的 320–260 Ma 矛盾，已同步；② 末句「不同机制」收紧为「多期事件叠加，阿勒格尼期为斜向旋转碰撞机制」——摘要只支持多期，未对早期事件断言机制。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "山系自加拿大东南部延伸至美国阿拉巴马，由谷岭区（褶皱与推覆构造）、蓝岭、阿巴拉契亚高原等平行带组成；东侧为山麓与海岸平原，西侧为密西西比河流域。",
-      "influence": "所引 2002 年研究（被引 163）指出：阿巴拉契亚造山带形成于早古生代开始、以阿勒格尼造山运动（Alleghanian，320–260 Ma）结束的过程，由大陆—大陆碰撞与 Theic 洋最终闭合驱动。作者以阿勒格尼造山作为「拉链式构造（zipper tectonics）」的例证：斜向碰撞后板块旋转、洋盆自一端向另一端逐步闭合。这说明同一山系可由多期、不同机制的造山事件叠加而成。",
+      "influence": "所引 2002 年研究（被引 163）指出：阿巴拉契亚造山带形成于早古生代开始、以阿勒格尼造山运动（Alleghanian，320–260 Ma）结束的过程，由大陆—大陆碰撞与 Theic 洋最终闭合驱动。作者以阿勒格尼造山作为「拉链式构造（zipper tectonics）」的例证：斜向碰撞后板块旋转、洋盆自一端向另一端逐步闭合。就本条所引研究而言，它支持「同一山系由多期事件叠加而成」，阿勒格尼期为斜向旋转碰撞机制。",
       "connections": "西侧经阿巴拉契亚高原与密西西比水系相连，东侧经山麓与海岸平原通向大西洋，是北美东部南北向的天然分界与通道。",
       "polities": "本条为自然地理/概念主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",

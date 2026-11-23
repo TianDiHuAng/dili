@@ -910,7 +910,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Home | Convention on Biological Diversity",
-      "note": "curl 实测 HTTP 200；页面标题：Home | Convention on Biological Diversity；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Home | Convention on Biological Diversity；页面未标注统一年份，年份留空不做推定。 【第41轮标注】《生物多样性公约》首页，与南极条约体系口径相邻但非同一制度，不含本条主题正文，不作内容依据。"
     },
     {
       "id": "s071-cbd-int",
@@ -923,7 +923,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "The Convention on Biological Diversity",
-      "note": "curl 实测 HTTP 200；页面标题：The Convention on Biological Diversity；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：The Convention on Biological Diversity；页面未标注统一年份，年份留空不做推定。 【第41轮标注】《生物多样性公约》首页，与南极条约体系口径相邻但非同一制度，不含本条主题正文，不作内容依据。"
     },
     {
       "id": "s072-cbd-int",

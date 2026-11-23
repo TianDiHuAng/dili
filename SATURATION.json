@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 40,
+  "last_round": 41,
   "history": [
     {
       "round": 1,
@@ -493,22 +493,38 @@
       "gaps_found": 246,
       "note": "补充L2 75→90；总L2 223→238（98%）；仅剩5条L1",
       "result": "非饱和（剩5条）"
+    },
+    {
+      "round": 41,
+      "methods_used": [
+        "B1 Crossref→OpenAlex DOI桥",
+        "最后5条攻坚",
+        "D092结论句核对",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "L1 归零，243/243 全部 L2；剩余缺口仅为待核实项与单源声明",
+      "result": "层级条件全部达成"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
   "blocked": false,
   "blocked_reason": null,
   "final_state": {
-    "rounds_completed": 33,
+    "rounds_completed": 41,
     "entries": 243,
-    "L2": 91,
-    "sources": 338,
-    "core_l2": "43/44",
-    "important_l2": "40/104",
-    "single_source_pending": 18,
+    "L2": 243,
+    "L1": 0,
+    "core_l2": "44/44",
+    "important_l2": "104/104",
+    "supplementary_l2": "95/95",
+    "sources": 522,
+    "pending": 241,
     "saturated": false,
-    "goal_achieved": false
+    "all_l2": true,
+    "note": "层级 L2 全覆盖；证据质量口径仍以单源为主，未饱和"
   },
   "core_all_l2": true,
-  "important_all_l2": true
+  "important_all_l2": true,
+  "all_l2": true
 }

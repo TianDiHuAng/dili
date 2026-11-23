@@ -581,6 +581,21 @@
       "sample_rate": "25%（10条 / 本轮15条升级）",
       "sample_audit": "10条抽检5PASS/5FAIL：城市热岛(我的「城市规模非线性」替换了摘要的纬度梯度与6%方差)、生物多样性(与摘要「保护区已较好覆盖PD」相反且墨西哥个案当通例)、极端天气(DOI预印本错配+结论句读反)、南极无农业(露岩1%/两种维管植物为常识归因给文献)、查文(所引前1300-600BC与条目900-200BC未分开+贝壳黑曜石无源)、可持续交通「车ownnership」拼写硬伤)→全部重写；另4条微调(沙漠化/自然灾害/城市贫困/火灾生态)+非洲大湖删外推",
       "note": "Crossref→OpenAlex DOI 桥绕过 search 端点 429；升级 15 条，总 L2 达 238/243（98%）"
+    },
+    {
+      "round": 41,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 5,
+      "reviews": 0,
+      "fixes": 5,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 5,
+      "sample_rate": "100%（本轮5条全部抽检）",
+      "sample_audit": "5条100%抽检：4 PASS附必改、1 FAIL（环境治理把「学习与情境适配」这项研究缺口写成已确立成因）→返工；另修阿巴拉契亚time_or_place矛盾、D081声明id按实际sources校正、CBD链接标注、gen_site徽标白名单（174页误显「待补配对」降至46页）、台账补齐。里程碑判定：层级口径243/243成立，证据质量口径仍为单源为主（pending 241）",
+      "note": "最后5条升级，全部243条达到L2（L1归零）"
     }
   ]
 }
