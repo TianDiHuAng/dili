@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 33,
+  "last_round": 34,
   "history": [
     {
       "round": 1,
@@ -403,11 +403,24 @@
       "gaps_found": 337,
       "note": "重要L1 77→64；总L2 78→91",
       "result": "非饱和"
+    },
+    {
+      "round": 34,
+      "methods_used": [
+        "B1 OpenAlex学术API",
+        "核心/重要L1攻坚",
+        "Wikidata状态入账",
+        "R12/R14/R15",
+        "台账"
+      ],
+      "gaps_found": 272,
+      "note": "核心L2 44/44 达成；重要L2 40→73；OpenAlex 提供含摘要的学术第二来源",
+      "result": "非饱和"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
-  "blocked": true,
-  "blocked_reason": "外部来源渠道阻塞：Wikipedia/Britannica/DBpedia(abstract空)/Met/Smithsonian/UNESCO WHC/GBRMPA 均不可达，仅 Wikidata 可用且为众包单源，无法满足 TASK 要求的「两个独立来源互证」。该条件自第 8 轮持续至第 33 轮（约 25 轮）未解除，导致重要 L1 64 条、核心 L1 1 条、遗产 L2 32 条无法继续升级。",
+  "blocked": false,
+  "blocked_reason": null,
   "final_state": {
     "rounds_completed": 33,
     "entries": 243,

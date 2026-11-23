@@ -27,7 +27,7 @@
         "ap-human-geo"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。  【第27轮实证复核·南极大陆】本条正则 antarctic（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中1；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中1）。缺口为「南极大陆」主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第27轮实证复核·南极大陆】本条正则 antarctic（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中1；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中1）。缺口为「南极大陆」主题专题页。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -52,7 +52,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "南极半岛：南极洲伸向西南方向的长条形半岛，是南极变暖最显著的区域之一。",
       "time_or_place": "持续观测（冰架崩解事件集中于近数十年）",
-      "overview": "南极半岛：南极洲伸向西南方向的长条形半岛，是南极变暖最显著的区域之一。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "南极半岛：南极洲伸向西南方向的长条形半岛，是南极变暖最显著的区域之一。",
       "related": [
         "antarctica-x5357x6781x5927x9646",
         "antarctica-x6a2ax8d2fx5357x6781x5c71x8109",
@@ -65,7 +65,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 1；s049（NCEI 首页）200 / 2471 字符 / 命中 0。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。 【第25轮实证复核·南极半岛】正则 antarctic peninsula；s038-earthobservatory-nasa-gov(200/正文7143字符/命中0)；s049-ncei-noaa-gov(200/正文2471字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 7143 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「南极半岛」专题页时维持 L1。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1989199622（2000年，「The link between climate warming and break-up of ice shelves in 」，DOI https://doi.org/10.3189/172756500781833043，Journal of Glaciology）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「持续观测（冰架崩解事件集中于近数十年）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 1；s049（NCEI 首页）200 / 2471 字符 / 命中 0。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。 【第25轮实证复核·南极半岛】正则 antarctic peninsula；s038-earthobservatory-nasa-gov(200/正文7143字符/命中0)；s049-ncei-noaa-gov(200/正文2471字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 7143 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「南极半岛」专题页时维持 L1。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1989199622（2000年，「The link between climate warming and break-up of ice shelves in 」，DOI https://doi.org/10.3189/172756500781833043，Journal of Glaciology）； 年代以「持续观测（冰架崩解事件集中于近数十年）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -129,7 +129,7 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：专题页 NASA『Ice Sheets』指标页（剥离后 8612 字符、命中 14，D055 档② 门槛 8000，余量较薄）；第二来源 s038 为 Earth Observatory 门户首页（剥离后 7143 字符、命中 1），无正文，仅作机构入口，不构成独立依据（D053）。冰盖质量与海平面数据待按年份从 NASA 机构页核验。  【第27轮实证复核·南极冰盖】本条正则 ice sheet（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中8；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档②8000（nasa-ice-sheets 含 Ice Sheets）。D055 判定：形式达标但不作升级依据——nasa-ice-sheets 指标页（8612/8）属机构指标页，可作背景但非专题正文。 ",
+      "pending_notes": "第22轮换源转正：专题页 NASA『Ice Sheets』指标页（剥离后 8612 字符、命中 14，D055 档② 门槛 8000，余量较薄）；第二来源 s038 为 Earth Observatory 门户首页（剥离后 7143 字符、命中 1），无正文，仅作机构入口，不构成独立依据（D053）。冰盖质量与海平面数据待按年份从 NASA 机构页核验。 【第27轮实证复核·南极冰盖】本条正则 ice sheet（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中8；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档②8000（nasa-ice-sheets 含 Ice Sheets）。D055 判定：形式达标但不作升级依据——nasa-ice-sheets 指标页（8612/8）属机构指标页，可作背景但非专题正文。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -196,7 +196,7 @@
         "ats-parties"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。  【第27轮实证复核·南极条约体系】本条正则 antarctic treaty（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「南极条约体系」主题专题页。 【第31轮现状数据】today 填入官方/机构端点实测或名录信息（含年份或更新说明；对动态名录不写死数量）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·南极条约体系】本条正则 antarctic treaty（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「南极条约体系」主题专题页。 【第31轮现状数据】today 填入官方/机构端点实测或名录信息（含年份或更新说明；对动态名录不写死数量）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -259,7 +259,7 @@
         "nasa-ice-sheets"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：用 NASA『Paleoclimatology: The Ice Core Record』作专题页（18929/36），NASA 冰盖指标页作机构页。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。  【第27轮实证复核·冰芯气候记录】本条正则 ice core（英文源用英文正则，D070）；nasa-ice-cores=200/正文18929字符/本条命中15；nasa-ice-sheets=200/正文8612字符/本条命中0。档位判定：档②8000（nasa-ice-cores 含 Ice Core）。D055 判定：达标（档②8000 门槛8000：正文18929≥8000、命中15）。",
+      "pending_notes": "第22轮换源转正：用 NASA『Paleoclimatology: The Ice Core Record』作专题页（18929/36），NASA 冰盖指标页作机构页。 D053 配对：专题页 + 机构页各一。具体数值与年代待按年份核验。 【第27轮实证复核·冰芯气候记录】本条正则 ice core（英文源用英文正则，D070）；nasa-ice-cores=200/正文18929字符/本条命中15；nasa-ice-sheets=200/正文8612字符/本条命中0。档位判定：档②8000（nasa-ice-cores 含 Ice Core）。D055 判定：达标（档②8000 门槛8000：正文18929≥8000、命中15）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -340,7 +340,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "松岛冰川退缩：西南极的松岛冰川质量损失与接地线后退现象。",
       "time_or_place": "20世纪末以来持续观测（加速信号见于1990年代以后）",
-      "overview": "松岛冰川退缩：西南极的松岛冰川质量损失与接地线后退现象。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "松岛冰川退缩：西南极的松岛冰川质量损失与接地线后退现象。",
       "related": [
         "antarctica-x5357x6781x51b0x76d6"
       ],
@@ -351,7 +351,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。 【第23轮实证复核】实测：nasa-pine-island 200 / 剥离后 7719 字符 / glacier|pine island|retreat 命中 25 → D055 档②（门槛 8000），差 281 字符未达标。这是可核的近失值，而非「缺专题页」；待该页扩写或另寻 ≥8000 字符的冰川专题页即可升级。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2016162897（2002年，「Acceleration of Pine Island and Thwaites Glaciers, West Antarcti」，DOI https://doi.org/10.3189/172756402781817950，Annals of Glaciology）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「20世纪末以来持续观测（加速信号见于1990年代以后）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。 【第23轮实证复核】实测：nasa-pine-island 200 / 剥离后 7719 字符 / glacier|pine island|retreat 命中 25 → D055 档②（门槛 8000），差 281 字符未达标。这是可核的近失值，而非「缺专题页」；待该页扩写或另寻 ≥8000 字符的冰川专题页即可升级。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2016162897（2002年，「Acceleration of Pine Island and Thwaites Glaciers, West Antarcti」，DOI https://doi.org/10.3189/172756402781817950，Annals of Glaciology）； 年代以「20世纪末以来持续观测（加速信号见于1990年代以后）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】① 原 influence 把「暖深层海水入侵」写成由卫星观测支持的机制，而所引文献摘要明说「were not sufficient to determine the cause」，属无源归因，已改。 ② 来源 nasa-pine-island 复测已无可剥离正文（仅导航样板），其早年记录的正文与命中数不可复现，已在该源 note 标注。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
@@ -359,7 +359,7 @@
       ],
       "last_update": "2026-11-23",
       "geo": "冰川注入阿蒙森海，冰架漂浮于暖海水之上，海底地形与洋流温度决定融化速率；周围无大型冰架遮挡。",
-      "influence": "暖深层海水入侵冰架底部是退缩的重要机制，这一机制由卫星测高与测厚观测支持；但冰盖模式的预测范围仍有较大不确定性。",
+      "influence": "所引 2002 年《Annals of Glaciology》研究显示：1990 年代该冰川与思韦茨冰川加速、8 年内冰流速度增加约 18±2%，并明确指出当时的观测**尚不足以确定原因**。海洋暖水入侵作为机制属于后续研究的方向，本条不将其写作已由该文献证实的结论。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "与思韦茨冰川同属西南极冰盖的脆弱区，二者合计的潜在海平面贡献是海平面研究关注重点。",
       "today": "（本条的当代指标不在本页展开。）",

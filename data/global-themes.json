@@ -27,7 +27,7 @@
         "usgs-eq-m6"
       ],
       "needs_verification": true,
-      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。 【第24轮数据端点】新增 usgs-eq-api（USGS 地震目录 API 提供事件时刻与震级字段），用于按年份核对数值口径；本条正文未写入具体数值。  【第27轮实证复核·板块构造】本条正则 plate tectonic（英文源用英文正则，D070）；usgs-plate-motions=200/正文17121字符/本条命中1；usgs-dynamic-earth=200/正文2123字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文17121、命中1）。缺口为「板块构造」主题专题页。 【第30轮现状数据】today 填入 usgs-eq-m6 实测值（全球口径，含年份或查询时点说明；已声明指标局限）。",
+      "pending_notes": "第22轮换源转正：专题页 USGS『Understanding plate motions』（剥离后 17121 字符、tectonic|plate 命中 86，D055 档① 达标）；第二来源为同站系列目录页『This Dynamic Earth--Contents』（剥离后 2123 字符、命中 4，无正文），仅作系列入口，不构成独立依据（D053）。五段按板块边界类型与理论作用重写，不含具体速率数值；板块速率与地震数据待按年份从 USGS 机构页核验。 【第24轮数据端点】新增 usgs-eq-api（USGS 地震目录 API 提供事件时刻与震级字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第27轮实证复核·板块构造】本条正则 plate tectonic（英文源用英文正则，D070）；usgs-plate-motions=200/正文17121字符/本条命中1；usgs-dynamic-earth=200/正文2123字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文17121、命中1）。缺口为「板块构造」主题专题页。 【第30轮现状数据】today 填入 usgs-eq-m6 实测值（全球口径，含年份或查询时点说明；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -52,7 +52,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。",
       "time_or_place": "20世纪初提出的学说（魏格纳 1912年前后），后由板块构造理论取代并整合",
-      "overview": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。",
       "related": [
         "global-themes-x677fx5757x6784x9020",
         "global-themes-x6cb3x6d41x4e09x89d2x6d32",
@@ -65,7 +65,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "返工：USGS《This Dynamic Earth》已加入并核验，可支撑漂移与板块理论概述；魏格纳提出年份仍待专门史料核验，故状态回到待复核。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2476421376（2012年，「The Continental Drift Controversy Wegener and the Early Debate」，DOI https://doi.org/10.1017/cbo9780511842368，Cambridge University Press eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「20世纪初提出的学说（魏格纳 1912年前后），后由板块构造理论取代并整合」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "返工：USGS《This Dynamic Earth》已加入并核验，可支撑漂移与板块理论概述；魏格纳提出年份仍待专门史料核验，故状态回到待复核。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2476421376（2012年，「The Continental Drift Controversy Wegener and the Early Debate」，DOI https://doi.org/10.1017/cbo9780511842368，Cambridge University Press eBooks）； 年代以「20世纪初提出的学说（魏格纳 1912年前后），后由板块构造理论取代并整合」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -346,7 +346,7 @@
         "wb-mng-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。  【第27轮实证复核·游牧】本条正则 nomad（英文源用英文正则，D070）；s018-fao-org=200/正文4707字符/本条命中0；s077-ourworldindata-org=200/正文15652字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文15652、命中0）。缺口为「游牧」主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第27轮实证复核·游牧】本条正则 nomad（英文源用英文正则，D070）；s018-fao-org=200/正文4707字符/本条命中0；s077-ourworldindata-org=200/正文15652字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文15652、命中0）。缺口为「游牧」主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -418,7 +418,7 @@
         "wb-wld-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页 owid-migration 正文含 migration/migrant 关键词，支撑迁移流与存量概述；s004 为 UN 人口司 WPP 机构页（首页为 JS 壳，无正文，仅作机构入口）。theme 受现有枚举限制标为「区域」，实指人口/迁移维度；数值待按年份核验。  【第27轮实证复核·人口迁移】本条正则 migration|migrant（英文源用英文正则，D070）；owid-migration=200/正文31570字符/本条命中159；s004-population-un-org=200/正文26字符/本条命中0。档位判定：档①5000（owid-migration 含 Migration）。D055 判定：达标（档①5000 门槛5000：正文31570≥5000、命中159）。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
+      "pending_notes": "第15轮按 D041 升级：专题页 owid-migration 正文含 migration/migrant 关键词，支撑迁移流与存量概述；s004 为 UN 人口司 WPP 机构页（首页为 JS 壳，无正文，仅作机构入口）。theme 受现有枚举限制标为「区域」，实指人口/迁移维度；数值待按年份核验。 【第27轮实证复核·人口迁移】本条正则 migration|migrant（英文源用英文正则，D070）；owid-migration=200/正文31570字符/本条命中159；s004-population-un-org=200/正文26字符/本条命中0。档位判定：档①5000（owid-migration 含 Migration）。D055 判定：达标（档①5000 门槛5000：正文31570≥5000、命中159）。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -452,7 +452,7 @@
         "s026-ourworldindata-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（noaa-phenology 标题即主题，剥离后 10512 字符、spring|plant|phenolog 命中 26）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「传粉者/植食者错配」「生态系统碳交换」等无源断言（NOAA 页 pollinat/insect/mismatch/carbon 命中均为 0），改为正文可支撑的同步性与农事时序。 D053：第二源 s026（OWID Climate Change）正文 phenolog/plant 命中 0，不构成独立依据。  【第27轮实证复核·植物物候变化】本条正则 phenolog|spring（英文源用英文正则，D070）；noaa-phenology=200/正文10510字符/本条命中22；s026-ourworldindata-org=200/正文7460字符/本条命中1。档位判定：档②8000（noaa-phenology 含 spring plant）。D055 判定：达标（档②8000 门槛8000：正文10510≥8000、命中22）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（noaa-phenology 标题即主题，剥离后 10512 字符、spring|plant|phenolog 命中 26）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「传粉者/植食者错配」「生态系统碳交换」等无源断言（NOAA 页 pollinat/insect/mismatch/carbon 命中均为 0），改为正文可支撑的同步性与农事时序。 D053：第二源 s026（OWID Climate Change）正文 phenolog/plant 命中 0，不构成独立依据。 【第27轮实证复核·植物物候变化】本条正则 phenolog|spring（英文源用英文正则，D070）；noaa-phenology=200/正文10510字符/本条命中22；s026-ourworldindata-org=200/正文7460字符/本条命中1。档位判定：档②8000（noaa-phenology 含 spring plant）。D055 判定：达标（档②8000 门槛8000：正文10510≥8000、命中22）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
@@ -486,7 +486,7 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（nasa-arctic-fire 标题即主题，剥离后 16957 字符、fire|arctic 命中 87）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「改变地表反照率并形成正反馈」「烟雾与碳输送到中纬度」等无源断言（albedo/feedback 命中为 0，smoke 仅健康风险语境），改为正文可支撑的富碳土层燃烧、水文改变、融雪加速与烟雾健康风险。  【第27轮实证复核·北极火情变化】本条正则 arctic fire|fire regime（英文源用英文正则，D070）；nasa-arctic-fire=200/正文16955字符/本条命中7；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档②8000（nasa-arctic-fire 含 Arctic Fire）。D055 判定：达标（档②8000 门槛8000：正文16955≥8000、命中7）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（nasa-arctic-fire 标题即主题，剥离后 16957 字符、fire|arctic 命中 87）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】删除「改变地表反照率并形成正反馈」「烟雾与碳输送到中纬度」等无源断言（albedo/feedback 命中为 0，smoke 仅健康风险语境），改为正文可支撑的富碳土层燃烧、水文改变、融雪加速与烟雾健康风险。 【第27轮实证复核·北极火情变化】本条正则 arctic fire|fire regime（英文源用英文正则，D070）；nasa-arctic-fire=200/正文16955字符/本条命中7；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档②8000（nasa-arctic-fire 含 Arctic Fire）。D055 判定：达标（档②8000 门槛8000：正文16955≥8000、命中7）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
@@ -520,7 +520,7 @@
         "ogc-standards"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（esri-gis 标题即主题（What is GIS?），剥离后 5006 字符、gis|geographic information 命中 39（D055 放宽档））；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】geo 已改为来源页实有表述（把位置数据与描述信息连到地图、空间分析与制图），删「叠加分析/缓冲区/网络分析」等无源列举；修正 time_or_place 错字。 D053：第二源 ogc-standards 剥离后正文仅约 73 字符（内容在 script/nav 内），不构成独立依据。  【第27轮实证复核·地理信息系统】本条正则 gis|geographic information（英文源用英文正则，D070）；esri-gis=200/正文5004字符/本条命中39；ogc-standards=200/正文73字符/本条命中0。档位判定：档①5000（esri-gis（What is GIS?）含 GIS）。D055 判定：达标（档①5000 门槛5000：正文5004≥5000、命中39）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（esri-gis 标题即主题（What is GIS?），剥离后 5006 字符、gis|geographic information 命中 39（D055 放宽档））；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮返工】geo 已改为来源页实有表述（把位置数据与描述信息连到地图、空间分析与制图），删「叠加分析/缓冲区/网络分析」等无源列举；修正 time_or_place 错字。 D053：第二源 ogc-standards 剥离后正文仅约 73 字符（内容在 script/nav 内），不构成独立依据。 【第27轮实证复核·地理信息系统】本条正则 gis|geographic information（英文源用英文正则，D070）；esri-gis=200/正文5004字符/本条命中39；ogc-standards=200/正文73字符/本条命中0。档位判定：档①5000（esri-gis（What is GIS?）含 GIS）。D055 判定：达标（档①5000 门槛5000：正文5004≥5000、命中39）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
@@ -561,7 +561,7 @@
         "wb-mex-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。  【第27轮实证复核·人口地理】本条正则 population（英文源用英文正则，D070）；s023-ourworldindata-org=200/正文13570字符/本条命中95；s004-population-un-org=200/正文26字符/本条命中1。档位判定：档①5000（s023 Population Growth 含 population）。D055 判定：达标（档①5000 门槛5000：正文13570≥5000、命中95）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s023 剥离后正文 13572 字符、population 命中 95）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第19轮 D053 标注】s004（UN Population Prospects 首页，剥离后约 26 字符 JS 壳页），不构成第二独立依据；已列入下轮换源清单。 【第24轮数据端点】新增 wb-api-pop（世界银行人口指标 API 提供逐年数值与 year 字段），用于按年份核对数值口径；本条正文未写入具体数值。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。 【第27轮实证复核·人口地理】本条正则 population（英文源用英文正则，D070）；s023-ourworldindata-org=200/正文13570字符/本条命中95；s004-population-un-org=200/正文26字符/本条命中1。档位判定：档①5000（s023 Population Growth 含 population）。D055 判定：达标（档①5000 门槛5000：正文13570≥5000、命中95）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"
@@ -595,7 +595,7 @@
         "wb-wld-urbangrow"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s025 剥离后正文 37507 字符、urban 命中 127）；五段仅写来源可支撑的概述，具体年代/数值待核。  【第27轮实证复核·城市地理】本条正则 urban（英文源用英文正则，D070）；s025-ourworldindata-org=200/正文37505字符/本条命中127；s075-aag-org=200/正文8575字符/本条命中0。档位判定：档①5000（s025 Urbanization 含 urban）。D055 判定：达标（档①5000 门槛5000：正文37505≥5000、命中127）。 【第31轮现状数据】today 填入官方/机构端点实测或名录信息（含年份或更新说明；对动态名录不写死数量）。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s025 剥离后正文 37507 字符、urban 命中 127）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第27轮实证复核·城市地理】本条正则 urban（英文源用英文正则，D070）；s025-ourworldindata-org=200/正文37505字符/本条命中127；s075-aag-org=200/正文8575字符/本条命中0。档位判定：档①5000（s025 Urbanization 含 urban）。D055 判定：达标（档①5000 门槛5000：正文37505≥5000、命中127）。 【第31轮现状数据】today 填入官方/机构端点实测或名录信息（含年份或更新说明；对动态名录不写死数量）。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "AAG 学科页面"

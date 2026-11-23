@@ -68,7 +68,7 @@
         "wb-can-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」成立；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。  【第27轮实证复核·北美冰盖】本条正则 ice sheet|glacier（英文源用英文正则，D070）；usgs-glaciers-pdf=200/正文208158字符/本条命中2；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文208158、命中2）。缺口为「北美冰盖」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 加拿大，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "第24轮按 D064 升级：专题文档为 USGS《Glaciers: Clues to Future Climate》PDF——文件 777779 字节，可提取正文 16844 字符（Tj 单串口径；含 TJ 数组的完整提取约 22300），glacier 命中 31（完整提取口径约 58），D055 档①门槛 5000 达标。D064 门落户与本体分判：其 HTML 入口页（4962 字节/约 1374 字符/命中 6）在第15轮被判「PDF 门落户」成立；本轮是首次探测 PDF 本体，非推翻旧裁定。D053/D060：第二来源 NASA Earth Observatory 为机构入口（7143 字符、命中 1），不构成独立正文，故状态用「配对说明」。五段不含具体数值。 【第27轮实证复核·北美冰盖】本条正则 ice sheet|glacier（英文源用英文正则，D070）；usgs-glaciers-pdf=200/正文208158字符/本条命中2；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文208158、命中2）。缺口为「北美冰盖」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 加拿大，D068 已核对国家—区域匹配；单位人、%）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -359,7 +359,7 @@
         "wb-gtm-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。  【第27轮实证复核·中美洲地峡】本条正则 isthmus（英文源用英文正则，D070）；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文4707、命中0）。缺口为「中美洲地峡」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 危地马拉，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第27轮实证复核·中美洲地峡】本条正则 isthmus（英文源用英文正则，D070）；s050-oceanservice-noaa-gov=200/正文2753字符/本条命中0；s018-fao-org=200/正文4707字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文4707、命中0）。缺口为「中美洲地峡」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 危地马拉，D068 已核对国家—区域匹配；单位人、%）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -399,7 +399,7 @@
         "wb-mex-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。  【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 墨西哥，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 墨西哥，D068 已核对国家—区域匹配；单位人、%）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -442,7 +442,7 @@
         "wb-mex-forest"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】删除 influence 的「古典期」考古分期与「衰落主因」单因断言；删除 polities 的「殖民时期后」时期标签。  【第27轮实证复核·玛雅文明】本条正则 maya（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「玛雅文明」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 危地马拉，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】删除 influence 的「古典期」考古分期与「衰落主因」单因断言；删除 polities 的「殖民时期后」时期标签。 【第27轮实证复核·玛雅文明】本条正则 maya（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「玛雅文明」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 危地马拉，D068 已核对国家—区域匹配；单位人、%）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -467,7 +467,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "特奥蒂瓦坎：墨西哥谷地东北部的大型古代城市。",
       "time_or_place": "约公元前1世纪至公元7世纪（起讫年学界有不同表述）",
-      "overview": "特奥蒂瓦坎：墨西哥谷地东北部的大型古代城市。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "特奥蒂瓦坎：墨西哥谷地东北部的大型古代城市。",
       "related": [
         "north-america-x5bc6x897fx897fx6bd4x6cb3",
         "north-america-x897fx5317x6d77x5cb8",
@@ -480,7 +480,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）； 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -518,7 +518,7 @@
         "openalex-W2331608140"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。 【第32轮返工】① 来源 wikidata-q2608489 原 verified=false（429），复抓 200 后回填；② 修正精度标注（P576 精度=日）；③ 补 P580=1367 与「1325 建城 / 1430 前后三方联盟」的口径关系。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮第二来源（中）】OpenAlex openalex-W2331608140（2010年，「Egalitarian Ideology and Political Power in Prehispanic Cent」，DOI https://doi.org/10.7183/1045-6635.21.3.227）：论前西班牙时期中墨西哥的政治权力与意识形态，可支撑政治组织表述；未给年代。",
+      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。 【第32轮返工】① 来源 wikidata-q2608489 原 verified=false（429），复抓 200 后回填；② 修正精度标注（P576 精度=日）；③ 补 P580=1367 与「1325 建城 / 1430 前后三方联盟」的口径关系。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮第二来源（中）】OpenAlex openalex-W2331608140（2010年，「Egalitarian Ideology and Political Power in Prehispanic Cent」，DOI https://doi.org/10.7183/1045-6635.21.3.227）：论前西班牙时期中墨西哥的政治权力与意识形态，可支撑政治组织表述；未给年代。 【第34轮返工·引用范围澄清】所引文献研究的是 **Tlaxcallan（特拉斯卡拉）**——阿兹特克的敌对城邦，不能代表阿兹特克本身；本条年代依赖 Wikidata（当前不可达），标为待核。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -617,7 +617,7 @@
         "wb-grl-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。  【第27轮实证复核·格陵兰岛】本条正则 greenland（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中6；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：形式达标但不作升级依据——s039 为 NASA Climate 首页（泛化），命中来自导航/概览。  【第28轮现状数据】today 填世界银行实测（代表国 格陵兰，D068 已核对国家—区域匹配；单位人、%、岁）。",
+      "pending_notes": "第15轮按 D041 升级：专题页 nasa-ice-sheets（Earth Indicator: Ice Sheets）正文含 greenland/ice sheet 关键词，支撑冰体质量变化与海平面关联的概述；s039 为 NASA 气候机构页。政权与年代不展开；冰量、气温与融水数值待按年份从 NASA 冰盖指标页核验。 【第27轮实证复核·格陵兰岛】本条正则 greenland（英文源用英文正则，D070）；nasa-ice-sheets=200/正文8612字符/本条命中6；s039-climate-nasa-gov=200/正文10544字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：形式达标但不作升级依据——s039 为 NASA Climate 首页（泛化），命中来自导航/概览。 【第28轮现状数据】today 填世界银行实测（代表国 格陵兰，D068 已核对国家—区域匹配；单位人、%、岁）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -667,10 +667,10 @@
       "region": "北美洲",
       "theme": "政权更替",
       "level": "L2",
-      "status": "L2完成(第34轮)-学术文献",
+      "status": "L2完成(第34轮)-来源撤出待补",
       "definition": "十三殖民地：北美东岸自新英格兰到乔治亚的十三个英属殖民地。",
-      "time_or_place": "17世纪初至1783年（据专著以1763年为断面）",
-      "overview": "十三殖民地：北美东岸自新英格兰到乔治亚的十三个英属殖民地。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "time_or_place": "17世纪初至1783年（巴黎条约承认独立）；本条原引文献仅覆盖**1763年断面**，1783 年待专门来源核验",
+      "overview": "十三殖民地：北美东岸自新英格兰到乔治亚的十三个英属殖民地，1763年是常被用作断面的时点。本条以地理描述为主；政治与制度细节待专门史学来源核验。",
       "related": [
         "north-america-x5965x5c14x6885x514b",
         "north-america-x739bx96c5x6587x660e",
@@ -679,11 +679,10 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "openalex-W2491281325",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）； 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】原第二来源（OpenAlex W2491281325，《The American Revolution》全书简介）摘要是独立战争通史，**不含十三殖民地地理或制度内容**，属「只沾边当全面来源」，已撤出。 1783 年不在任何现存来源中，已标待核。本条关键年代现无学术第二来源支撑，证据强度下调，需补专门来源方可确认 L2。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

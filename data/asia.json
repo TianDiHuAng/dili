@@ -161,7 +161,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "亚述帝国：以两河北部为核心、以军事扩张与强制迁徙著称的古代帝国。",
       "time_or_place": "新亚述时期约公元前10–前7世纪（具体起讫年学界有不同表述）",
-      "overview": "亚述帝国：以两河北部为核心、以军事扩张与强制迁徙著称的古代帝国。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "亚述帝国：以两河北部为核心、以军事扩张与强制迁徙著称的古代帝国。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
@@ -174,7 +174,7 @@
         "openalex-W52369814"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西亚×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】西亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W52369814（2005年，「Landscape and Settlement in the Neo-Assyrian Empire」，DOI https://doi.org/10.1086/basor25066913，Bulletin of the American Schools of Oriental Research）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「新亚述时期约公元前10–前7世纪（具体起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第15轮复核：西亚×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】西亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W52369814（2005年，「Landscape and Settlement in the Neo-Assyrian Empire」，DOI https://doi.org/10.1086/basor25066913，Bulletin of the American Schools of Oriental Research）； 年代以「新亚述时期约公元前10–前7世纪（具体起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -241,7 +241,7 @@
         "wb-irn-life"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ D041 配对缺口：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。  【第27轮实证复核·阿契美尼德波斯】本条正则 achaemenid|persia|cyrus（英文源用英文正则，D070）；livius-cyrus=200/正文9218字符/本条命中62；livius-mesopotamia=200/正文3628字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：达标（档③8000+命中≥5 门槛8000：正文9218≥8000、命中62）。",
+      "pending_notes": "第16轮二次返工：① 五段已收敛到 Livius Cyrus 实证范围（删驿道/行省制度/三大洲/度量衡/印度河征服等无源断言）；② 专题页 D044 口径：正文 9220 字符、正则 achaemenid|cyrus|persia 命中 62（剥离 nav/header/footer/aside/script/style/form/noscript）；③ D041 配对缺口：本机可达的机构页实测 8 个候选全部不可用（UNESCO WHC/Met/Smithsonian/Iranica/Britannica/British Museum 403 或不通，Penn Museum 0 命中），故本条暂标「配对缺口」，待可核验机构页到位后转正；④ livius-mesopotamia 正文 3630 字符（<8000），仅作区域背景。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊朗），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第27轮实证复核·阿契美尼德波斯】本条正则 achaemenid|persia|cyrus（英文源用英文正则，D070）；livius-cyrus=200/正文9218字符/本条命中62；livius-mesopotamia=200/正文3628字符/本条命中1。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：达标（档③8000+命中≥5 门槛8000：正文9218≥8000、命中62）。",
       "outlines": [
         "Livius: Cyrus the Great",
         "Livius: Mesopotamia"
@@ -265,7 +265,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "帕提亚帝国（安息）：伊朗高原上的王朝，控制从美索不达米亚到中亚的商路区段。",
       "time_or_place": "公元前3世纪中叶至公元3世纪初（帕提亚/安息王朝；具体起讫年学界有不同表述）",
-      "overview": "帕提亚帝国（安息）：伊朗高原上的王朝，控制从美索不达米亚到中亚的商路区段。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "帕提亚帝国（安息）：伊朗高原上的王朝，控制从美索不达米亚到中亚的商路区段。",
       "related": [
         "asia-x8d35x971cx5e1dx56fd",
         "asia-x6c49x4ee3",
@@ -278,7 +278,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】西亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】西亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】西亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2895092346（2018年，「Long Distance Trade and the Parthian Empire: Reclaiming Parthian」，DOI https://doi.org/10.25710/2v84-6x06，Western CEDAR (Western Washington University)）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「公元前3世纪中叶至公元3世纪初（帕提亚/安息王朝；具体起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：西亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】西亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】西亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】西亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2895092346（2018年，「Long Distance Trade and the Parthian Empire: Reclaiming Parthian」，DOI https://doi.org/10.25710/2v84-6x06，Western CEDAR (Western Washington University)）； 年代以「公元前3世纪中叶至公元3世纪初（帕提亚/安息王朝；具体起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -302,7 +302,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "萨珊波斯：伊朗高原的王朝，与罗马—拜占庭长期对峙，控制波斯湾与陆上商路。",
       "time_or_place": "公元3世纪至7世纪中叶（萨珊王朝；起讫年学界有不同表述）",
-      "overview": "萨珊波斯：伊朗高原的王朝，与罗马—拜占庭长期对峙，控制波斯湾与陆上商路。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "萨珊波斯：伊朗高原的王朝，与罗马—拜占庭长期对峙，控制波斯湾与陆上商路。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
@@ -315,7 +315,7 @@
         "openalex-W4232054564"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】西亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W4232054564（2008年，「Decline and Fall of the Sasanian Empire: The Sasanian–Parthian C」，DOI https://doi.org/10.5040/9780755695270，I.B. Tauris & Co Ltd eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「公元3世纪至7世纪中叶（萨珊王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：西亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】西亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】西亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W4232054564（2008年，「Decline and Fall of the Sasanian Empire: The Sasanian–Parthian C」，DOI https://doi.org/10.5040/9780755695270，I.B. Tauris & Co Ltd eBooks）； 年代以「公元3世纪至7世纪中叶（萨珊王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -408,7 +408,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "孔雀王朝：首次统一印度次大陆大部分地区的古代帝国，阿育王时期达到鼎盛。",
       "time_or_place": "约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述）",
-      "overview": "孔雀王朝：首次统一印度次大陆大部分地区的古代帝国，阿育王时期达到鼎盛。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "孔雀王朝：首次统一印度次大陆大部分地区的古代帝国，阿育王时期达到鼎盛。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
@@ -422,7 +422,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1977985637（1962年，「Asoka and the Decline of the Mauryas」，DOI https://doi.org/10.1086/ahr/67.3.730，The American Historical Review）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1977985637（1962年，「Asoka and the Decline of the Mauryas」，DOI https://doi.org/10.1086/ahr/67.3.730，The American Historical Review）； 年代以「约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -567,7 +567,7 @@
         "openalex-W2805650462"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。 【第32轮返工】① 明确标注所引 6300 千米为河流长度而非流域面积（流域实体 Q15758768 在 Wikidata 无面积属性）；② 删除「通过大运河与黄河流域整合」无源断言；③ fao-aquastat-basins 为流域目录页（无单流域正文），不作数值支撑。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮第二来源（中）】OpenAlex openalex-W2805650462（2018年，「Exploring spatiotemporal changes of the Yangtze River (Chang」，DOI https://doi.org/10.1016/j.watres.2018.06.006）：《Water Research》2018 论文，主题为长江流域氮磷输运（1900–2010），可支撑「流域为完整水文单元」的表述；未涉河长。",
+      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。 【第32轮返工】① 明确标注所引 6300 千米为河流长度而非流域面积（流域实体 Q15758768 在 Wikidata 无面积属性）；② 删除「通过大运河与黄河流域整合」无源断言；③ fao-aquastat-basins 为流域目录页（无单流域正文），不作数值支撑。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮第二来源（中）】OpenAlex openalex-W2805650462（2018年，「Exploring spatiotemporal changes of the Yangtze River (Changjiang) nitrogen and phosphorus sources, retention and export to the East China Sea and Yellow Sea」，DOI https://doi.org/10.1016/j.watres.2018.06.006）：《Water Research》2018 论文，主题为长江流域氮磷输运（1900–2010），可支撑「流域为完整水文单元」的表述；未涉河长。 【第34轮返工·引用范围澄清】所引文献为长江氮磷污染来源解析，**不支撑河长数值**；河长 6300 千米仅来自 Wikidata（当前不可达），标为待核。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -767,7 +767,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "隋唐：中国6世纪末至10世纪初的两个统一王朝，隋代重建统一，唐代扩展并制度化。",
       "time_or_place": "隋 581–618年；唐 618–907年",
-      "overview": "隋唐：中国6世纪末至10世纪初的两个统一王朝，隋代重建统一，唐代扩展并制度化。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "隋唐：中国6世纪末至10世纪初的两个统一王朝，隋代重建统一，唐代扩展并制度化。",
       "related": [
         "asia-x5e15x63d0x4e9ax5e1dx56fd",
         "asia-x8d35x971cx5e1dx56fd",
@@ -780,7 +780,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；文献主题属本条领域，用于支撑地理与机制表述。年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。",
+      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1010,11 +1010,11 @@
       "unit_id": "asia",
       "region": "东南亚",
       "theme": "农业",
-      "level": "L1",
-      "status": "已复核(第26轮·无实证)",
-      "definition": "湄公河三角洲：湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "湄公河入海处的低平冲积平原，水网密集，是重要的稻作区。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "湄公河三角洲：湄公河在越南南部入海形成的三角洲平原。",
+      "time_or_place": "现代水文观测（本条引 2014 年地面沉降研究）",
+      "overview": "湄公河三角洲：湄公河在越南南部入海形成的三角洲平原。 本条以学术文献与地理描述为主。",
       "related": [
         "asia-x4e2dx5357x534ax5c9b",
         "asia-x9a6cx6765x7fa4x5c9b",
@@ -1026,17 +1026,24 @@
         "s018-fao-org",
         "wb-vnm-pop",
         "wb-vnm-urban",
-        "wb-vnm-forest"
+        "wb-vnm-forest",
+        "openalex-W2165261460",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。 档位判定：本条标题为「湄公河三角洲」，正则 mekong 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。",
+      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。 档位判定：本条标题为「湄公河三角洲」，正则 mekong 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2165261460（2014年，「Groundwater extraction, land subsidence, and sea-level rise in the Mekong Delta, Vietnam」，DOI https://doi.org/10.1088/1748-9326/9/8/084010）；",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
-      "today": "以越南为例，来源：世界银行 API。总人口 101,598,527 人（2025年）（SP.POP.TOTL）、城市化率 38.8%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 47.1%（2024年）（AG.LND.FRST.ZS）。三角洲稻米产量与沉降速率数据待专门来源核验。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异。"
+      "last_update": "2026-11-23",
+      "today": "以越南为例，来源：世界银行 API。总人口 101,598,527 人（2025年）（SP.POP.TOTL）、城市化率 38.8%（2025年）（SP.URB.TOTL.IN.ZS）、森林覆盖率 47.1%（2024年）（AG.LND.FRST.ZS）。三角洲稻米产量与沉降速率数据待专门来源核验。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
+      "geo": "三角洲地势低平、河网密布，由河流泥沙沉积形成；潮汐与季风洪水共同塑造水道。地势低使高程对海平面变化极为敏感。",
+      "influence": "泥沙补给与地面沉降决定三角洲能否维持高程；地下水抽取引起的地面沉降与海平面上升叠加，是当代最直接的物理风险，研究表明两者共同作用。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经南海航道连接区域与全球市场，内陆经湄公河干流通柬埔寨与泰国东北部。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 280 L230 240 L380 220 L520 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='300' y='200' class='lbl'>湄公河三角洲</text><text x='40' y='370' class='dim'>湄公河三角洲 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x5434x54e5",
@@ -1166,7 +1173,7 @@
       "status": "L2完成(第34轮)-学术文献",
       "definition": "河中地区（Transoxiana）：阿姆河与锡尔河之间的中亚绿洲地带。",
       "time_or_place": "区域地理与历史；本条引 2017 年多学科研究",
-      "overview": "河中地区（Transoxiana）：阿姆河与锡尔河之间的中亚绿洲地带。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
+      "overview": "河中地区（Transoxiana）：阿姆河与锡尔河之间的中亚绿洲地带。",
       "related": [
         "asia-x5e15x63d0x4e9ax5e1dx56fd",
         "asia-x8d35x971cx5e1dx56fd",
@@ -1179,7 +1186,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】中亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第20轮复核】中亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2621257476（2017年，「The Connection of the Genetic, Cultural and Geographic Landsca」，DOI https://doi.org/10.1038/s41598-017-03176-z）；文献主题属本条领域，用于支撑地理与机制表述。年代以「区域地理与历史；本条引 2017 年多学科研究」表述，未编造精确年份。",
+      "pending_notes": "第16轮复核：中亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】中亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第20轮复核】中亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2621257476（2017年，「The Connection of the Genetic, Cultural and Geographic Landsca」，DOI https://doi.org/10.1038/s41598-017-03176-z）；年代以「区域地理与历史；本条引 2017 年多学科研究」表述，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1424,7 +1431,7 @@
         "openalex-W3217685633"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：面积（3,200,000 km²）来自 Wikidata Q31945 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W3217685633（2021年，「Genetic structure of Arabian Peninsula dromedary camels reve」，DOI https://doi.org/10.1016/j.sjbs.2021.11.032）；其摘要含 Arabian Peninsula，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。",
+      "pending_notes": "第33轮升级：面积（3,200,000 km²）来自 Wikidata Q31945 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W3217685633（2021年，「Genetic structure of Arabian Peninsula dromedary camels reve」，DOI https://doi.org/10.1016/j.sjbs.2021.11.032）；其摘要含 Arabian Peninsula，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第34轮返工·引用范围澄清】所引文献为单峰驼群体遗传结构研究，**仅涉该半岛的骆驼种群**，不含年代或面积信息；本条面积数值依赖的 Wikidata 端点当前不可达，故该数值标为待核。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1505,27 +1512,35 @@
       "unit_id": "asia",
       "region": "东亚",
       "theme": "气候",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "东亚季风：海陆热力差异导致的季节性风向反转，显著影响东亚降水与农业节律；其强度变化受多因素共同作用，不作单因决定论解释。",
-      "time_or_place": "东亚季风区（现代观测与历史记载）",
-      "overview": "海陆热力差异导致的季节性风向反转，显著影响稻作区降水节律与农业周期安排；具体影响程度还受地形、海洋温度与其他气候因子共同作用。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "东亚季风：东亚地区随季节反转的盛行风系统，夏季湿润、冬季干冷。",
+      "time_or_place": "气候尺度（本条引 2015 年降水变率研究）",
+      "overview": "东亚季风：东亚地区随季节反转的盛行风系统，夏季湿润、冬季干冷。 本条以学术文献与地理描述为主。",
       "related": [
         "global-themes-x5b63x98cex7cfbx7edf"
       ],
       "sources": [
         "s048-climate-gov",
         "s038-earthobservatory-nasa-gov",
-        "s039-climate-nasa-gov"
+        "s039-climate-nasa-gov",
+        "openalex-W2404462665",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：东亚×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2404462665（2015年，「East Asian summer monsoon precipitation variability since the last deglaciation」，DOI https://doi.org/10.1038/srep11186）；",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "海陆热力差异与青藏高原、西太平洋副热带高压共同决定季风的进退；雨带随季节自南向北推进，形成华南前汛期、江淮梅雨与华北雨季。",
+      "influence": "季风降水的时间与空间集中度决定农业窗口与洪涝风险；古气候记录显示季风强度存在千年尺度变化，这使「稳定季风」的假设不成立。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "与印度季风、西太平洋暖池及厄尔尼诺—南方涛动相互关联，一个区域的异常常通过大气环流影响另一区域。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 280 L230 240 L380 220 L520 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='300' y='200' class='lbl'>东亚季风</text><text x='40' y='370' class='dim'>东亚季风 · 简笔示意，非精确测绘</text></svg>"
     }
   ]
 }
