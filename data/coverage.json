@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-22",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -158,10 +158,10 @@
     },
     {
       "id": "africa-x6cd5x8482x739bx738bx671d",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -214,10 +214,10 @@
     },
     {
       "id": "africa-x975ex6d32x5927x6e56x5730x533a",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1177,10 +1177,10 @@
     },
     {
       "id": "south-america-x67e5x6587x6587x5316",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1268,10 +1268,10 @@
     },
     {
       "id": "south-america-x5357x9525x4f53",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第2轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1500,10 +1500,10 @@
     },
     {
       "id": "antarctica-x5357x6781x6d32x65e0x519cx4e1ax7684x73afx5883x7ea6x675f",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "抽检返工完成(第2轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1575,10 +1575,10 @@
     },
     {
       "id": "global-themes-x6c99x6f20x5316",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1720,10 +1720,10 @@
     },
     {
       "id": "global-themes-x751fx7269x591ax6837x6027x5206x5e03",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第9轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1774,10 +1774,10 @@
     },
     {
       "id": "global-themes-x57cex5e02x70edx5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第9轮)",
-      "source_count": 4,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1837,10 +1837,10 @@
     },
     {
       "id": "global-themes-x81eax7136x707ex5bb3x98cex9669",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第10轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1909,10 +1909,10 @@
     },
     {
       "id": "global-themes-x6781x7aefx5929x6c14x9884x8b66",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第11轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1945,10 +1945,10 @@
     },
     {
       "id": "global-themes-x57cex5e02x8d2bx56f0",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第11轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2017,10 +2017,10 @@
     },
     {
       "id": "global-themes-x53efx6301x7eedx4ea4x901a",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第12轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2035,10 +2035,10 @@
     },
     {
       "id": "global-themes-x706bx707ex751fx6001",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第12轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

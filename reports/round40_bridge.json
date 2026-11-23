@@ -1,0 +1,200 @@
+{
+  "沙漠化": {
+    "doi": "10.1002/(sici)1099-145x(199809/10)9:5<393::aid-ldr301>3.0.co;2-f",
+    "title": "Ecological impacts of global change on drylands and their implications for desertification",
+    "year": 1998,
+    "oa_id": "W1981593648",
+    "cited": 139,
+    "type": "article",
+    "abs_len": 1357,
+    "abstract": "Potential impacts of global change on dryland ecosystems are reviewed from four perspectives. First, results are reviewed from recent research on vegetation change, land degradation and desertification. The role of disturbances and low recurrence events in triggering non-linear changes by driving ecosystems beyond their resilience thresholds is outlined. Particular attention is paid to the development of spatial structures as feedbacks that tend to buffer degradation. Secondly, the synergetic operation of climatic and anthropogenic forcing factors of dryland degradation is discussed in the light of some case histories. Changes in one group of those factors often render the ecosystems particularly sensitive to changes of those in the second group. Thirdly, off-site effects of dryland degradation are summarized, including feedbacks to the atmosphere, changes in biological diversity and downstream impacts in river catchments. Finally, the implications of global change for land degradation control policies are outlined. The importance of prevention is emphasized, as well as the need to carefully consider where to apply rehabilitation and restoration. Prevention includes soft and cheap measures based on management practices, while restoration calls for massive and expensive interventions on soil or vegetation. © 1998 John Wiley & Sons, Ltd.",
+    "host": "Land Degradation and Development"
+  },
+  "城市热岛": {
+    "doi": "10.1127/0941-2948/2005/0069",
+    "title": "The dependence of the urban heat island intensity on latitude A statistical approach",
+    "year": 2005,
+    "oa_id": "W2093386355",
+    "cited": 114,
+    "type": "article",
+    "abs_len": 1069,
+    "abstract": "The question about a possible dependence of the Urban Heat Island (UHI) on latitude and its causes has not been solved satisfactorily up to now. This paper tries to give an answer to the problem by extracting the UHI of cities on a global scale from the available international scientific literature and treating them with various statistical methods. In addition parameters like the city population, use of primary energy, topographic features, height above sea level and the energy balance of the earth's surface are included into the statistical calculations in order to substantiate a latitudinal variation of the UHI. Three main results could be derived from the statistical examinations, namely: 1. The UHI shows a trend to increase from low to high latitudes 2. The part of the observed variance of the UHI explained by its latitudinal variation, however, remains relatively small with about 6 %. 3. A statistically significant dependence of the UHI on latitude is based mainly on the latitudinal variation of anthropogenic heat production and radiation balance.",
+    "host": "Meteorologische Zeitschrift"
+  },
+  "生物多样性分布": {
+    "doi": "10.1016/j.gecco.2021.e01834",
+    "title": "Assessing spatial patterns of phylogenetic diversity of Mexican mammals for biodiversity conservation",
+    "year": 2021,
+    "oa_id": "W3037032979",
+    "cited": 32,
+    "type": "article",
+    "abs_len": 1702,
+    "abstract": "Phylogenetic diversity is a biodiversity measurement that describes the amount of evolutionary history contained by the taxonomic units in a region. It has proven to be an important metric for determining conservation priorities. Mammalian phylogenetic diversity patterns have been suggested as potential surrogates of biodiversity for establishing priority areas for conservation. This study aims to identify areas of high mammalian phylogenetic diversity in Mexico, a megadiverse country with high mammalian richness, and to assess how well protected areas encompass the phylogenetic diversity. IUCN distribution data for 479 Mexican mammals were used to estimate species richness. Data for the molecular markers cytB, 12S and COI, was gathered from GenBank and from laboratory extractions for reconstructing a maximum-likelihood phylogenetic tree. Spatial patterns in phylogenetic diversity were estimated by summing the branch lengths of the phylogenetic tree representing species presence across grid cells. The results were compared with the distribution of protected areas in Mexico in order to assess if phylogenetic diversity is effectively conserved. The southeastern part of Mexico was found to be the most diverse. The breadth of the phylogenetic tree was well represented within the protected areas. Beta-diversity analyses showed that the species composition between protected and unprotected areas is very similar. Protected areas group based on the phylogenetic composition of mammal species into three clusters corresponding to the Nearctic, Neotropical, and Mexican Transition Zone biogeographical regions, which suggests that protected areas could be managed based on these clusters.",
+    "host": "Global Ecology and Conservation"
+  },
+  "自然灾害风险": {
+    "doi": "10.1093/acrefore/9780199389407.013.8",
+    "title": "Urban and Spatial Planning in Natural Hazard Risk Management",
+    "year": 2016,
+    "oa_id": "W2603960055",
+    "cited": 2,
+    "type": "reference-entry",
+    "abs_len": 1303,
+    "abstract": "This is an advance summary of a forthcoming article in the Oxford Research Encyclopedia of Natural Hazard Science. Please check back later for the full article. Spatial and urban planning are acknowledged as important tools and processes that influence exposure to natural and technical hazards and risk accumulation, as well as risk and vulnerability reduction. Even though natural hazards (such as floods) and technical hazards have been discussed in spatial and urban planning for quite some time in various countries and regions, only in a very few cities and regions has there been a sufficient and systematic approach to establish risk management as part of the planning task within the field of spatial planning and urban land-use planning. Risk management strategies in spatial and urban planning have often been strengthened after major crises, such as severe fires in the middle ages in cities in Europe, or after major floods or hurricanes in North America, Asia, and Latin America, as well as Europe and Africa. In this context, risk management is understood as a cluster of concrete and practical strategies and actions on how to handle risks, and in terms of spatial and urban planning, including those risks that are of spatial importance or significant with regard to planning processes.",
+    "host": "Oxford University Press eBooks"
+  },
+  "极端天气预警": {
+    "doi": "10.21203/rs.3.rs-1343486/v1",
+    "title": "A canary, a coal mine, and imperfect data: determining the efficacy of open-source climate change models in detecting and predicting extreme weather events in Northern and Western Kenya",
+    "year": 2022,
+    "oa_id": "W4306771028",
+    "cited": 3,
+    "type": "article",
+    "abs_len": 974,
+    "abstract": "Climate models, by accurately forecasting future weather events, can be a critical tool in developing countermeasures to reduce crop loss and decrease adverse effects on animal husbandry and fishing. In this paper, we investigate the efficacy of various regional versions of the climate models, RCMs, and the commonly available weather datasets in Kenya in predicting extreme weather patterns in northern and western Kenya. We identified two models that may be used to predict flood risks and potential drought events in these regions. The combination of artificial neural networks (ANNs) and weather station data was the most effective in predicting future drought occurrences in Turkana and Wajir with accuracies ranging from 78 to 90%. In the case of flood forecasting, isolation forests models using weather station data had the best overall performance. The above models and datasets may form the basis of an early warning system for use in Kenya’s agricultural sector.",
+    "host": "Climatic Change"
+  },
+  "城市贫困": {
+    "doi": "10.1007/978-0-230-27275-0_1",
+    "title": "The Spatial Dimensions of Urban Social Exclusion and Integration",
+    "year": 2006,
+    "oa_id": "W2169088426",
+    "cited": 38,
+    "type": "book-chapter",
+    "abs_len": 1534,
+    "abstract": "Urban social questions are often related to issues of participation, inclusion and integration of the population in the urban society. When formulated the other way around, it regards a ‘fight’ against social exclusion, often also against segregation, separation and disintegration. Urban-oriented policy makers and politicians, who are operating at the level of the city, urban region or metropolis, frequently consider the understanding and reduction of social exclusion and the stimulation of integration or inclusion of subsections of the population as their most important tasks. An interesting element is that most of them appear to think, some explicitly, others implicitly, that ‘space matters’ in these urban questions. The state and city they are in; the place where people are; the space they are in; the composition of the space they use; the location relative to other important locations; these are all considered of crucial importance to understand the life chances of citizens. In the European realm, proof of this assertion can easily be found at various geographical levels. We simply have to refer to the welfare state comparisons (Esping-Andersen, 1990); or to studies, which address the economic prospects of cities (Parkinson et al , 1992). We may also refer to the enormous volume of area-based policies, which have been developed over the past decade and which often are legitimized by the idea that the spatial setting has extra and independent effects upon people’s opportunities (Burgers and Vranken, 2003).",
+    "host": "Palgrave Macmillan UK eBooks"
+  },
+  "可持续交通": {
+    "doi": "10.1108/s2044-994120150000007020",
+    "title": "Car Sharing Systems as a Sustainable Transport Policy: A Case Study from Lisbon, Portugal",
+    "year": 2015,
+    "oa_id": "W2483902998",
+    "cited": 28,
+    "type": "book-chapter",
+    "abs_len": 4236,
+    "abstract": "Purpose The dominance of road transport, both on passenger and freight movements, has reached alarming levels in what concerns their negative environmental impacts as well as societal and economic costs. To reverse this trend, a technology-driven approach and a behavioral change attitude need to be pursued. Promising results have been reported in Europe in the reduction of vehicle ownership, due to the introduction of an alternative transport mode known as car sharing. This work evaluates the contribution of car sharing to sustainable transport, based both in a technological shift and a potential behavioral change. Methodology/approach The state of the art on car sharing and policies presents the effects of these systems and how they have been promoted. As those effects can vary according to the geographical area, the users profile, and service characteristics, a worldwide analysis on car sharing systems covering more than 400 cities was performed. Average service indicators were quantified and characterization variables were accounted to those cities’ urban areas. Considering those normalized values, the authors performed an analysis of the car sharing system in Lisbon (Portugal). An initial assessment was made to estimate its current energy and environmental impacts. This outcome was then compared with the environmental and economic effects of using alternative vehicle technologies in car sharing. The results obtained enable a discussion of the more important variables for the success of the system and, consequently, to choose what policy instruments can help car sharing to succeed. Findings The results of the existing car sharing schemes reveal the positive contribution of car sharing to fill a “mobility gap” in sustainable transport. It works as a complement to other sustainable transport options and it impacts positively both society and car-sharers in terms of mobility costs, environmental, and energy implications. These results are more significant if a technology shift to electric mobility is promoted. Within the case study in Lisbon, the adoption of electric mobility would allow decreases up to 47% and 65% in energy consumption and CO2 emissions, respectively. Moreover, the present value economic analysis revealed that, these systems will only be economically viable after approximately 7 years. A sensitivity analysis to the economic model was performed showing that the variables having higher influence were cost-related variables (reducing the break-even timeframe from 36% to 57%), such as vehicle purchase cost, insurance, maintenance and tax costs, and fuel cost. Social implications Car sharing systems generally present social benefits to society as it leads to the reduction of car ownership, with all the positive effects that has on a lower demand for parking space, less congestion, reduced local pollutants and emissions. If the technology used by car sharing vehicles shifts from conventional to another type of technology, the effects both for society and car sharers are even more appealing from a social point of view. In the particular case study approached in the chapter, given the small scale of the car sharing network and low usage patterns, the local results have a low social impact at the city scale. A larger promotion of the system either with a more aggressive marketing campaign targeting specific population niches (e.g., environmentally conscious people), larger vehicle and parking availability, or better integration with the city’s public transport system could foster the deployment of the system, similarly to other cities. Originality/value Overall, the results obtained from this research work quantify the contribution of car sharing to sustainable transport and highlights the positive effects of promoting a technological shift. These facts reinforce the need for public policies to support the integration of car sharing within the city’s solutions to promote a more sustainable mobility. The successful deployment of car sharing systems can be influenced by policies targeting features such as allocation of parking, the fees and complementarity with public transport, signage and markings, and marketing of social and environmental benefits.",
+    "host": "Emerald Group Publishing Limited eBooks"
+  },
+  "环境治理": {
+    "doi": "10.1332/policypress/9781529202168.003.0008",
+    "title": "Environmental Migration Governance at the Regional Level",
+    "year": 2020,
+    "oa_id": "W4214870461",
+    "cited": 1,
+    "type": "book-chapter",
+    "abs_len": 970,
+    "abstract": "This chapter presents insights into regional migration governance. It identifies domestic and international drivers behind regional responses and focuses on Latin America. The authors argue that state responses alone might not be sufficient to regulate migration patterns and respond to related environmental changes. In fact, Latin America has become more sensitive to the implications of environmentally induced migration and has established instruments to face more effectively the challenges posed by environmental changes, natural disasters and migration. Thus, governments have created national and regional responses to migration, some of which explicitly deal with the topic of environmental refugees form the region. The authors also point out that regional governance arrangements are important, as they facilitate the implementation of migration instruments elaborated at the global level and can serve as opportunities to develop and exchange best practices.",
+    "host": "Policy Press eBooks"
+  },
+  "火灾生态": {
+    "doi": "10.1111/1365-2435.12372",
+    "title": "Bark thickness and fire regime",
+    "year": 2014,
+    "oa_id": "W2105570511",
+    "cited": 506,
+    "type": "article",
+    "abs_len": 1582,
+    "abstract": "Summary Bark is a vital and very visible part of woody plants, yet only recently has bark characteristics started to be considered as key traits structuring communities and biomes. Bark thickness is very variable among woody plants, and I hypothesize that fire is a key factor selecting for a thick bark, and thus, at the global scale, a significant proportion of the variability in bark thickness is explained by the variability in fire regimes. Previous research has focused on the importance of bark thickness mainly in surface‐fire regimes; here I generalize this idea and present a conceptual framework to explain how the different drivers that affect fire intensity have shaped bark thickness, in conjunction with other plant traits. I first review methods used to study bark thickness and then provide examples of bark thickness patterns from a wide range of ecosystems subject to different fire regimes (understorey fires, grass‐fuelled surface fires, grass‐fuelled crown fires and infrequent fires). There are some fire regimes that select for thick barks, while some only in the base of the trunk (e.g. understorey fires), others select for a thick bark on the whole plant (e.g. grass‐fuelled crown fires). There are also fire regimes in which allocating resources to a thick bark is not adaptive (e.g. woody‐fulled crown fires). Fire regime can explain a large proportion of the variability of bark thickness at the global scale, and thus, this trait varies across ecosystems in a predictable manner; however, the current paucity of data limits a fully accurate analysis.",
+    "host": "Functional Ecology"
+  },
+  "争议边界处理原则": {
+    "doi": "10.1080/00690805.1981.10438139",
+    "title": "Contemporary Cartography: Tasmanian 1:25 000 map series",
+    "year": 1981,
+    "oa_id": "W2032120186",
+    "cited": 2,
+    "type": "article",
+    "abs_len": 365,
+    "abstract": "Following the completion of the 1:100000 series efforts were channelled into a multi-function large-scale series. This was preceded by a comprehensive assessment into mapping requirements in Tasmania. The new series of 1:25 000 were developed and aimed to satisfy a broad spectrum of users, with specifications tailored to available manpower and economic resources.",
+    "host": "Cartography"
+  },
+  "南极特别保护区": {
+    "doi": "10.1017/s0954102005002385",
+    "title": "The thermophilic bryoflora of Deception Island: unique plant communities as a criterion for designating an Antarctic Specially Protected Area",
+    "year": 2005,
+    "oa_id": "W2053091848",
+    "cited": 60,
+    "type": "article",
+    "abs_len": 1491,
+    "abstract": "Deception Island in the South Shetland Islands is one of the most volcanically active sites south of 60°S. Between 1967 and 1970 three major eruptions devastated large expanses of the landscape and its vegetation. Since 1970 extensive recolonization has occurred on the more stable surfaces. Unheated ground supports several bryophyte and lichen communities typical of much of the Maritime Antarctic, but geothermal habitats possess remarkable associations of bryophytes, many of which are unknown or very rare elsewhere in the Antarctic. Nine geothermal sites and their vegetation are described. Communities associated with more transient sites have disappeared when the geothermal activity ceased. Mosses and liverworts occur to within a few centimetres of the vents where temperatures reach 90–95°C, while temperatures within adjacent moss turf can reach 35–50°C or more and remain consistently between 25 and 45°C. Most of the bryoflora has a Patagonian–Fuegian provenance. It is presumed that, unlike most species, the thermophiles are not pre-adapted to the Antarctic environment, being able to colonize only where the warm and humid conditions prevail. The floristic and ecological importance of these thermophilic communities, and their sensitivity to perturbation by the rapidly increasing annual summer influx of tourists, as well as scientists, has resulted in these unique sites being proposed as components of a new Antarctic Specially Protected Area under the Antarctic Treaty.",
+    "host": "Antarctic Science"
+  },
+  "南极洲无农业的环境约束": {
+    "doi": "10.4324/9781315845166-3",
+    "title": "The terrestrial environment",
+    "year": 2014,
+    "oa_id": "W2994660888",
+    "cited": 8,
+    "type": "book-chapter",
+    "abs_len": 935,
+    "abstract": "This chapter describes and explains the glacial and periglacial systems that characterise the Antarctic; the functioning of the Antarctic terrestrial ecosystem that allows life to cling to the peripheries of the continent; and the marked geographical variations. The Antarctic terrestrial environment comprises glacier ice and floating ice shelves, together with areas free of surface ice but often with a permanently frozen subsurface. Glaciers develop when summer temperatures are insufficient to melt all the winter snow, so a high ratio of annual precipitation falling as snow and low summer temperatures are fundamental requirements for glacier existence. Since glacial erosion is one of the most dominant land-forming influences in the Antarctic. Using the classification of glacial erosional landscapes of Sugden and John, it is possible to summarise the Antarctic landscape in terms of the type and severity of glacial erosion.",
+    "host": "Routledge eBooks"
+  },
+  "法蒂玛王朝": {
+    "doi": "10.37862/aaeportal.00258.",
+    "title": "\"Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid Architecture\"",
+    "year": 2020,
+    "oa_id": "W4285722466",
+    "cited": 17,
+    "type": "book",
+    "abs_len": 1525,
+    "abstract": "Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid ArchitectureJennifer A. PruittThis groundbreaking study investigates the early architecture of the Fatimids, an Ismaili Shi'i Muslim dynasty that dominated the Mediterranean world from the 10th to the 12th century. This period, considered a golden age of multicultural and interfaith tolerance, witnessed the construction of iconic structures, including Cairo's al-Azhar and al-Hakim mosques and crucial renovations to Jerusalem's Dome of the Rock and Aqsa Mosque. However, it also featured large-scale destruction of churches under the notorious reign of al-Hakim bi-Amr Allah, most notably the Church of the Holy Sepulcher in Jerusalem. Jennifer A. Pruitt offers a new interpretation of these and other key moments in the history of Islamic architecture, using newly available medieval primary sources by Ismaili writers and rarely considered Arabic Christian sources. Building the Caliphate contextualizes early Fatimid architecture within the wider Mediterranean and Islamic world and demonstrates how rulers manipulated architectural form and urban topographies to express political legitimacy on a global stage.*This eBook is available exclusively on the A&AePortal.*AuthorJennifer A. PruittPublisherYale University PressPrint publication date February 2020 (in print)Print ISBN 9780300246827EISBN 9780300264029Copyright© 2020 by Jennifer A. PruittIllustrations 90Print Status in print Publisher (in print) WorldCat Google Books",
+    "host": "Yale University Press eBooks"
+  },
+  "非洲大湖地区": {
+    "doi": "10.1201/9780203748978-6",
+    "title": "Comparison of Hydrology and Physical Limnology of the East African Great Lakes: Tanganyika, Malawi, Victoria, Kivu and Turkana (with reference to some North American Great Lakes)",
+    "year": 2019,
+    "oa_id": "W2967976954",
+    "cited": 34,
+    "type": "book-chapter",
+    "abs_len": 962,
+    "abstract": "The lake basins exhibit a variety of types, including the very deep, elongated and steep-sided troughs of Lakes Tanganyika and Malawi, and the more nearly circular, relatively shallow basin on Lake Victoria, with its highly complex, indented shoreline. Hydrologic and hydrodynamic data from these lakes are scarce, fragmentary and often not easily accessible. Victoria is, however, relatively shallow compared with both the North American lakes and the other East African lakes. The North American Great Lakes, although elongated, have larger width to length aspect ratios than the deep, narrow African rift lakes, and more gently sloping sides. Groundwater flows have been neglected in the balances for all African lakes, and have been incorporated into the inflow term for Lake Ontario. The water balances of Lakes Tanganyika, Malawi and Victoria are dominated by rainfall on the lakes and evaporation, with river inflow and outflow making minor contributions.",
+    "host": "Routledge eBooks"
+  },
+  "古巴岛": {
+    "doi": "10.5744/florida/9781683400905.001.0001",
+    "title": "Picturing Cuba: Art, Culture, and Identity on the Island and in the Diaspora",
+    "year": 2019,
+    "oa_id": "W4237577095",
+    "cited": 5,
+    "type": "book",
+    "abs_len": 1653,
+    "abstract": "This book delves into several defining moments of Cuba’s artistic evolution from a multidisciplinary perspective, including art history, architecture, photography, history, literary criticism, and cultural studies. Situating Cuban art within a wider social and historical context, fifteen prominent scholars and collectors scrutinize the enduring links between Cuban art and cultural identity. Covering the main periods in Cuban art (the colonial, republican, and postrevolutionary phases, as well as the contemporary diaspora), the contributors identify both the constant and changing elements and symbols in the visual representation of Cuba’s national identity. The essays collected in this volume provide insightful information and interpretation on the historical trajectory of Cuban and Cuban-American art. From colonial engravers to contemporary photographers, several generations of Cuban artists have been fascinated—perhaps even obsessed—with picturing Cuba’s landscapes, architecture, people, and customs. Each generation of artists focused on various tropes of Cuban identity, whether it was the tropical environment, the lights and colors of the island, certain human types, the fusion of European and African traditions, or the uprootedness produced by exile and resettlement in another country. Even when artists shed the attempt to represent their subject matter realistically, they sought to contribute to a longstanding national tradition in dialogue with a broader international scenario. The cumulative result of more than three centuries of Cuban art is a kaleidoscopic view of the island’s nature, population, culture, and history.",
+    "host": "University Press of Florida eBooks"
+  },
+  "查文文化": {
+    "doi": "10.1525/ap3a.2005.14.071",
+    "title": "The Evolution of Authority and Power at Chavin de Huantar, Peru",
+    "year": 2004,
+    "oa_id": "W1979034930",
+    "cited": 124,
+    "type": "article",
+    "abs_len": 1267,
+    "abstract": "The Early Horizon type site of Chavín de Huántar, located in the north‐central Andes of modern Peru, is distinguished by a long sequence of construction, as well as outstanding features such as abundant lithic art, use of cut stone in construction, a complex of underground gallery systems, and exceptional alteration of local land forms. This chapter explores the implications of these characteristics for the evolution of power and authority at this site across the later Initial Period and Early Horizon (approximately 1300 to 600 B.C.). Particular attention is focused on the concepts of power and authority in relation to religious belief systems and the intrinsic factors that might have connected the site's characteristics to a developing system for convincing populations to increasingly accept the dominance of a priestly leadership. These characteristics argue that not only were the emerging authorities at Chavín exceptionally creative in their manipulation of the human mind through landscape, architecture, images, sound, light, and the use of psychoactive drugs but also that this apparent highly planned ritual context demonstrates the very intentional and conscious strategies employed in the transformation of early politico‐religious organization.",
+    "host": "Archeological Papers of the American Anthropological Association"
+  },
+  "南美贸易网络": {
+    "doi": "10.3390/w13243544",
+    "title": "Engineering Resilience to Water Stress in the Late Prehispanic North-Central Andean Highlands (~600–1200 BP)",
+    "year": 2021,
+    "oa_id": "W4200175763",
+    "cited": 13,
+    "type": "article",
+    "abs_len": 1427,
+    "abstract": "The Andes are defined by human struggles to provide for, and control, water. Nowhere is this challenge more apparent than in the unglaciated western mountain range Cordillera Negra of the Andes where rain runoff provides the only natural source of water for herding and farming economies. Based on over 20 years of systematic field surveys and taking a political ecology and resilience theory focus, this article evaluates how the Prehispanic North-Central highlands Huaylas ethnic group transformed the landscape of the Andes through the largescale construction of complex hydraulic engineering works in the Cordillera Negra of the Ancash Province, North-Central Peru. It is likely that construction of these engineered landscapes commenced during the Middle Horizon (AD 600–1000), reaching their apogee under the Late Intermediate Period (Huaylas group, AD 1000–1450) and Inca (AD 1450–1532) period, before falling into disuse during the early Spanish colony (AD 1532–1615) through a combination of disease, depopulation, and disruption. Persistent water stress in the western Pacific-facing Andean cordillera was ameliorated through the construction of interlinked dams and reservoirs controlling the water, soil, and wetlands. The modern study of these systems provides useful case-studies for infrastructure rehabilitation potentially providing low-cost, though technologically complex, solutions to modern water security.",
+    "host": "Water"
+  },
+  "南锥体": {
+    "doi": "10.4324/9781003250401-10",
+    "title": "The Spanish postwar emigration to the Southern Cone (1946–1960)",
+    "year": 2022,
+    "oa_id": "W4224441281",
+    "cited": 3,
+    "type": "book-chapter",
+    "abs_len": 1103,
+    "abstract": "This chapter reconsiders the characteristics of the last migratory flow from Spain to the Southern Cone during the 20th century. The chronological framework includes the reinstatement of intercontinental displacements after World War II, the immigration agreement between Franco’s Spain and Peron’s Argentina, the economic boom period in Brazil at the beginning of the 1950s and the change of direction of migratory flows from 1956 to other overseas destinations such as Venezuela, but above all to Europe. In this context, the chapter addresses the efforts of Latin American governments, and especially Argentina, to attract Spanish immigrants hoping that they would contribute to their development and industrialization. At the same time, it scrutinizes the processes of labor insertion in destination countries from an intersectional approach. Through a transversal analysis of the categories of gender, class, ethnicity, and age, it analyzes testimonies of women immigrants who underwent a different process of integration and experienced challenges that men didn’t have to face in the labor market.",
+    "host": "Routledge eBooks"
+  }
+}
