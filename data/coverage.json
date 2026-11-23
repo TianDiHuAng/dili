@@ -1030,10 +1030,10 @@
     },
     {
       "id": "north-america-x5317x7f8ex539fx4f4fx6c11",
-      "level": "L2",
+      "level": "L1",
       "tier": "重要",
-      "status": "L2完成(第35轮)-学术文献",
-      "source_count": 6,
+      "status": "L1·来源撤回(第35轮)",
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 24,
-  "round_processed": 40,
+  "round": 35,
+  "round_processed": 31,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

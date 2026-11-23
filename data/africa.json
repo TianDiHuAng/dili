@@ -628,7 +628,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W4285072712（2020年，《A Gateway To Hell, A Gateway To Paradise. The North African Response to the Arab Conquest》，DOI https://doi.org/10.2307/j.ctv1b9f5dj，Gerlach Press eBooks）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W4285072712（2020年，《A Gateway To Hell, A Gateway To Paradise. The North African Response to the Arab Conquest》，DOI https://doi.org/10.2307/j.ctv1b9f5dj，Gerlach Press eBooks）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -807,14 +807,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】南部非洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2004999962（1998年，《Cognitive Archaeology and Imaginary History at Great Zimbabwe》，DOI https://doi.org/10.1086/204698，Current Anthropology）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】南部非洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2004999962（1998年，《Cognitive Archaeology and Imaginary History at Great Zimbabwe》，DOI https://doi.org/10.1086/204698，Current Anthropology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）」表述并注明学界有不同版本。 【第35轮返工】原 influence 把批评对象写成「殖民时代对遗址的想象性历史」，实为批评 Huffman 的认知考古重建；并删除了「鸟形石雕、干砌技术」的错误归因（该文摘要未提）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "位于南部非洲高原，花岗岩节理发育，便于开采薄石板用于干砌建筑；周边草原适合牧养，季风边缘的降水变率大。",
-      "influence": "所引 1998 年研究批评了殖民时代对该遗址的**想象性历史**解释，强调应从本地物质文化（如鸟形石雕、干砌技术）出发理解其意义，而非外来起源假说。",
+      "influence": "所引 1998 年研究批评的是**Huffman 式的认知考古重建**（认为其依赖「被误读的文献、可疑的口述传统与不当类比」），并主张以**绍纳（Shona）历史与人类学材料**重建该政体的政治过程，同时承认其模型「不企图解释每一处细节」。 该文讨论的是考古解释的方法问题，不是「殖民时代想象性历史」的一般批评。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经林波波河与印度洋港口连接东非海岸贸易，象牙、黄金与铜沿此输出。",
       "today": "（本条的当代指标不在本页展开。）",

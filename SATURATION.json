@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 34,
+  "last_round": 35,
   "history": [
     {
       "round": 1,
@@ -416,6 +416,19 @@
       "gaps_found": 272,
       "note": "核心L2 44/44 达成；重要L2 40→73；OpenAlex 提供含摘要的学术第二来源",
       "result": "非饱和"
+    },
+    {
+      "round": 35,
+      "methods_used": [
+        "B1 OpenAlex（带退避重试）",
+        "核心/重要L1清零",
+        "误匹配剔除",
+        "R14/R15",
+        "台账"
+      ],
+      "gaps_found": 328,
+      "note": "核心44/44、重要104/104 全部L2；补充层仍87条L1，缺口仍在故未饱和",
+      "result": "非饱和"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -431,5 +444,7 @@
     "single_source_pending": 18,
     "saturated": false,
     "goal_achieved": false
-  }
+  },
+  "core_all_l2": true,
+  "important_all_l2": true
 }
