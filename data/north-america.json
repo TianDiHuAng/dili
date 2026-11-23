@@ -206,11 +206,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "阿巴拉契亚山脉：古老山地，东侧大西洋沿岸平原与内陆之间形成屏障。",
+      "level": "L2",
+      "status": "L2完成(第41轮)-学术文献",
+      "definition": "阿巴拉契亚山脉：北美东部的山系，由古生代多次造山事件叠加形成。",
       "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "古老山地，东侧大西洋沿岸平原与内陆之间形成屏障。",
+      "overview": "阿巴拉契亚山脉：北美东部的山系，由古生代多次造山事件叠加形成。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6",
@@ -218,15 +218,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W1902061871",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约3亿年前」无专门来源支撑，已收敛为待核表述。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约3亿年前」无专门来源支撑，已收敛为待核表述。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1902061871（2002年，《Alleghanian (Appalachian) orogeny, a product of zipper tectonics: Rotational transpressive continent-continent collision and closing of ancient oceans along irregular margins》，Geological Society of America eBooks，DOI 10.1130/0-8137-2364-7.199，被引 163），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "山系自加拿大东南部延伸至美国阿拉巴马，由谷岭区（褶皱与推覆构造）、蓝岭、阿巴拉契亚高原等平行带组成；东侧为山麓与海岸平原，西侧为密西西比河流域。",
+      "influence": "所引 2002 年研究（被引 163）指出：阿巴拉契亚造山带形成于早古生代开始、以阿勒格尼造山运动（Alleghanian，320–260 Ma）结束的过程，由大陆—大陆碰撞与 Theic 洋最终闭合驱动。作者以阿勒格尼造山作为「拉链式构造（zipper tectonics）」的例证：斜向碰撞后板块旋转、洋盆自一端向另一端逐步闭合。这说明同一山系可由多期、不同机制的造山事件叠加而成。",
+      "connections": "西侧经阿巴拉契亚高原与密西西比水系相连，东侧经山麓与海岸平原通向大西洋，是北美东部南北向的天然分界与通道。",
+      "polities": "本条为自然地理/概念主题条目，不展开具体政权序列。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 275 L235 238 L375 218 L515 236 L645 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='218' r='7' class='pt'/><text x='275' y='196' class='lbl'>阿巴拉契亚山脉</text><text x='40' y='370' class='dim'>阿巴拉契亚山脉 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x4e94x5927x6e56",
@@ -807,11 +815,11 @@
       "unit_id": "north-america",
       "region": "中美洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "古巴岛：加勒比最大岛，甘蔗种植与港口贸易长期重要。",
+      "level": "L2",
+      "status": "L2完成(第41轮)-学术文献",
+      "definition": "古巴岛：加勒比海最大的岛屿，位于佛罗里达半岛以南、尤卡坦半岛以东。",
       "time_or_place": "古代至今",
-      "overview": "加勒比最大岛，甘蔗种植与港口贸易长期重要。",
+      "overview": "古巴岛：加勒比海最大的岛屿，位于佛罗里达半岛以南、尤卡坦半岛以东。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
       "related": [
         "north-america-x4e2dx7f8ex6d32x5730x5ce1",
         "north-america-x5317x7f8ex539fx4f4fx6c11",
@@ -819,15 +827,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W1987038906",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1987038906（2004年，《Age and Tectonic Setting of the Camagüey Volcanic‐Intrusive Arc, Cuba: Late Cretaceous Extension and Uplift in the Western Greater Antilles》，The Journal of Geology，DOI 10.1086/422664，被引 28），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23"
+      "last_update": "2026-11-23",
+      "geo": "岛屿呈西北—东南走向，地貌以平原与丘陵为主，东南部为马埃斯特腊山脉；北部为石灰岩台地与喀斯特，海岸多珊瑚礁与海湾。",
+      "influence": "所引 2004 年研究以古巴中部 Camagüey 地区的 Ar/Ar 定年约束该区构造事件：火山岩全岩年龄为 74–72 Ma，比夹层沉积岩中化石指示的 100–80 Ma 明显年轻；侵入其中的正长岩与花岗闪长岩给出 75–72 Ma。作者把这一年龄解释为火山—侵入弧的较快抬升与冷却，并用于约束古巴向北迁移进入加勒比及随后与巴哈马台地碰撞的时间。 这说明岛屿的现今位置是板块迁移与碰撞的结果。",
+      "connections": "北隔佛罗里达海峡与美国相望，西隔尤卡坦海峡与墨西哥相望，东经向风海峡接伊斯帕尼奥拉岛，是加勒比海北部航路的中枢。",
+      "polities": "本条为自然地理/概念主题条目，不展开具体政权序列。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 275 L235 238 L375 218 L515 236 L645 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='218' r='7' class='pt'/><text x='275' y='196' class='lbl'>古巴岛</text><text x='40' y='370' class='dim'>古巴岛 · 简笔示意，非精确测绘</text></svg>"
     }
   ]
 }

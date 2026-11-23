@@ -340,26 +340,34 @@
       "unit_id": "antarctica",
       "region": "南极洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "抽检返工完成(第2轮)",
-      "definition": "南极特别保护区：南极条约体系下为保护科研与生态而划定的区域，体现国际协商管理。",
+      "level": "L2",
+      "status": "L2完成(第41轮)-学术文献",
+      "definition": "南极特别保护区（ASPA）：南极条约区域内保护级别最高的陆域保护区类别。",
       "time_or_place": "南极条约体系建立后（年份待核）",
-      "overview": "南极条约体系下为保护科研与生态而划定的区域，体现国际协商管理。",
+      "overview": "南极特别保护区（ASPA）：南极条约区域内保护级别最高的陆域保护区类别。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
       "related": [
         "antarctica-x5357x6781x6761x7ea6x4f53x7cfb"
       ],
       "sources": [
         "s070-cbd-int",
-        "s071-cbd-int"
+        "s071-cbd-int",
+        "openalex-W2138317156",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "抽检返工：已移除未经来源支持的年份；保护区名录与时间线待官方来源核验。 【第39轮渠道探测】OpenAlex 检索「Antarctic Specially Protected Area」无标题含该短语且有摘要的记录；ATS 保护区名录为动态清单页，不宜作内容来源。 本轮未升级；该条保持 L1 骨架。",
+      "pending_notes": "抽检返工：已移除未经来源支持的年份；保护区名录与时间线待官方来源核验。 【第39轮渠道探测】OpenAlex 检索「Antarctic Specially Protected Area」无标题含该短语且有摘要的记录；ATS 保护区名录为动态清单页，不宜作内容来源。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W2138317156（2013年，《Management of Antarctic Specially Protected Areas: permitting, visitation and information exchange practices》，Antarctic Science，DOI 10.1017/s0954102012001204，被引 41），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23"
+      "last_update": "2026-11-23",
+      "geo": "ASPA 分布于南极大陆与亚南极岛屿，选址以代表性生态系统、特有物种与长期监测价值为依据；多数面积很小，位于沿岸露岩区与企鹅、海豹繁殖地附近。",
+      "influence": "所引 2013 年研究说明制度安排：访客须遵守该区管理计划并取得国家主管机关的进入许可；南极条约环境议定书缔约方须交换①下一季的许可发放数与②上一季的实际访问数。作者以 2008/09–2010/11 提交至电子信息交换系统的数据评估现行许可与信息交换实践，发现各方对义务的解释与执行并不一致。这提示「划定保护区」与「管理到位」之间存在制度执行差距。",
+      "connections": "经电子信息交换系统在缔约方之间共享许可与访问数据；与南极科考站、旅游活动及环境保护议定书的履约机制相连。",
+      "polities": "本条为自然地理/概念主题条目，不展开具体政权序列。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 275 L235 238 L375 218 L515 236 L645 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='218' r='7' class='pt'/><text x='275' y='196' class='lbl'>南极特别保护区</text><text x='40' y='370' class='dim'>南极特别保护区 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "antarctica-x677ex5c9bx51b0x5dddx9000x7f29",

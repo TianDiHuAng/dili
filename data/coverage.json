@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-22",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -947,10 +947,10 @@
     },
     {
       "id": "north-america-x963fx5df4x62c9x5951x4e9ax5c71x8109",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第41轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1093,10 +1093,10 @@
     },
     {
       "id": "north-america-x53e4x5df4x5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第41轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1509,10 +1509,10 @@
     },
     {
       "id": "antarctica-x5357x6781x7279x522bx4fddx62a4x533a",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "抽检返工完成(第2轮)",
-      "source_count": 2,
+      "status": "L2完成(第41轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1693,10 +1693,10 @@
     },
     {
       "id": "global-themes-x4e89x8baex8fb9x754cx5904x7406x539fx5219",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第5轮)",
-      "source_count": 2,
+      "status": "L2完成(第41轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2008,10 +2008,10 @@
     },
     {
       "id": "global-themes-x73afx5883x6cbbx7406",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第12轮)",
-      "source_count": 2,
+      "status": "L2完成(第41轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
