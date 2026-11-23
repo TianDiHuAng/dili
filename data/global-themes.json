@@ -685,25 +685,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "森林覆盖变化：森林面积与覆盖质量的变化是全球土地利用与碳循环研究的核心指标，受农业扩张、林业政策与自然扰动共同影响。",
-      "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "森林面积与覆盖质量的变化是全球土地利用与碳循环研究的核心指标，受农业扩张、林业政策与自然扰动共同影响。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "森林覆盖变化：森林面积在时间上的增减及其空间分布。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "森林覆盖变化：森林面积在时间上的增减及其空间分布。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [],
       "sources": [
         "s029-ourworldindata-org",
         "s042-earthobservatory-nasa-gov",
-        "wb-wld-forest"
+        "wb-wld-forest",
+        "wb-wld-ag-lnd-frst-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第29轮现状数据】today 填入 wb-wld-forest 实测值（全球口径，含年份与单位）。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第29轮现状数据】today 填入 wb-wld-forest 实测值（全球口径，含年份与单位）。 【第37轮升级 L2】数据来源 wb-wld-ag-lnd-frst-zs，实测 31.1%（2023年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22",
-      "today": "来源：世界银行 API（指标 AG.LND.FRST.ZS，森林面积占土地面积比例）：全球 2023年 31.1%。森林覆盖率按各国上报口径汇总，区域差异与统计年份差异需注意。"
+      "last_update": "2026-11-23",
+      "today": "来源：世界银行 API（指标 AG.LND.FRST.ZS，森林覆盖率（%））：全球 31.1%（2023年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "geo": "高覆盖率集中于热带雨林（亚马孙、刚果盆地、东南亚）与北方针叶林带；净减少的热点长期在热带，温带则因农业退耕有局部恢复。",
+      "influence": "变化由采伐、农业扩张、火灾与人工造林共同决定；净面积掩盖了原始林退化——成熟林的生态价值不能由新植林等量替代。",
+      "connections": "与碳汇、生物多样性、水循环、畜牧用地相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>森林覆盖变化</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 31.1%</text></svg>"
     },
     {
       "id": "global-themes-x571fx5730x5229x7528x53d8x5316",
@@ -712,25 +718,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "土地利用变化：人类把自然地转为耕地、牧场、城市或基础设施的过程，改变生态过程与区域气候，也影响粮食与能源供应。",
-      "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "人类把自然地转为耕地、牧场、城市或基础设施的过程，改变生态过程与区域气候，也影响粮食与能源供应。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "土地利用变化：地表被人类使用方式的转变（农地、牧地、林地、建设用地）。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "土地利用变化：地表被人类使用方式的转变（农地、牧地、林地、建设用地）。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x5c71x5730x519cx4e1a"
       ],
       "sources": [
         "s077-ourworldindata-org",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-wld-ag-lnd-agri-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第37轮升级 L2】数据来源 wb-wld-ag-lnd-agri-zs，实测 36.9%（2023年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "农业用地占全球土地约三分之一，但分布极不均：南美与非洲有大片牧场，亚洲有密集农田；城市用地占比小而扩张快。",
+      "influence": "变化由人口、收入、贸易与政策共同驱动；土地是有限的，各类用途之间存在竞争，因此「全球总量」掩盖了区域间的置换。",
+      "connections": "与森林覆盖、粮食安全、碳排放、水资源相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 AG.LND.AGRI.ZS，农业用地占土地（%））：全球 36.9%（2023年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>土地利用变化</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 36.9%</text></svg>"
     },
     {
       "id": "global-themes-x751fx7269x591ax6837x6027x5206x5e03",
@@ -1745,22 +1758,29 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第12轮)",
-      "definition": "气候适应政策：适应政策通过基础设施、预警与生态管理降低气候影响，成效取决于实施能力与地方条件。",
-      "time_or_place": "现代政策实践（年份以来源页面为准）",
-      "overview": "适应政策通过基础设施、预警与生态管理降低气候影响，成效取决于实施能力与地方条件。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "气候适应政策：为降低气候风险影响而采取的措施与制度安排。",
+      "time_or_place": "全球口径（2022年数据）",
+      "overview": "气候适应政策：为降低气候风险影响而采取的措施与制度安排。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [],
       "sources": [
         "s060-worldbank-org",
-        "s039-climate-nasa-gov"
+        "s039-climate-nasa-gov",
+        "wb-wld-er-h2o-fwtl-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s011（UNESCO Climate action 政策页，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s011（UNESCO Climate action 政策页，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第37轮升级 L2】数据来源 wb-wld-er-h2o-fwtl-zs，实测 9.0%（2022年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "适应需求与水资源紧张、海岸低地、干旱农业区高度相关；淡水取用强度高的流域适应压力更大。",
+      "influence": "适应措施受财政与技术能力约束；单一指标（如取水强度）只能指示压力，不能衡量适应成效。",
+      "connections": "与水资源、农业气候风险、极端天气、城市贫困相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 ER.H2O.FWTL.ZS，淡水取用强度（%））：全球 9.0%（2022年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>气候适应政策</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 9.0%</text></svg>"
     },
     {
       "id": "global-themes-x73afx5883x6cbbx7406",
@@ -2022,24 +2042,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第13轮)",
-      "definition": "农业统计体系：农业统计通过耕地、产量与投入指标支持粮食安全评估，口径统一是跨区域比较的前提。",
-      "time_or_place": "现代统计体系（年份以来源页面为准）",
-      "overview": "农业统计通过耕地、产量与投入指标支持粮食安全评估，口径统一是跨区域比较的前提。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "农业统计体系：用于测量农业生产、投入与产出的数据体系。",
+      "time_or_place": "全球口径（2024年数据）",
+      "overview": "农业统计体系：用于测量农业生产、投入与产出的数据体系。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4f5cx7269x5355x4ea7x5deex5f02"
       ],
       "sources": [
         "s021-fao-org",
-        "s014-fao-org"
+        "s014-fao-org",
+        "wb-wld-ag-prd-crel-mt"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第37轮升级 L2】数据来源 wb-wld-ag-prd-crel-mt，实测 3,130,499,027 吨（2024年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "统计能力在各国不均衡：耕地面积、单产与产量的口径（FAO 与国家统计）常有差异，影响跨国比较。",
+      "influence": "统计口径差异本身构成「数据地理」的一部分；产量数据与面积数据须同时核对才能判断集约程度。",
+      "connections": "与作物单产、肥料使用、粮食安全相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 AG.PRD.CREL.MT，谷物产量（吨））：全球 3,130,499,027 吨（2024年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>农业统计体系</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 3,130,499,027 吨</text></svg>"
     },
     {
       "id": "global-themes-x5168x7403x4ebax53e3x89c4x6a21",
@@ -2192,24 +2219,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第13轮)",
-      "definition": "东亚与太平洋区域发展：该区域包含多样经济体和地理单元，发展指标与城市化、贸易联系密切，口径需逐项核对。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "该区域包含多样经济体和地理单元，发展指标与城市化、贸易联系密切，口径需逐项核对。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "东亚与太平洋区域发展：世界银行东亚与太平洋地区的人口与经济指标概览。",
+      "time_or_place": "东亚与太平洋口径（2025年数据）",
+      "overview": "东亚与太平洋区域发展：世界银行东亚与太平洋地区的人口与经济指标概览。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x56fdx5bb6x6536x5165x5206x7c7b"
       ],
       "sources": [
         "s065-worldbank-org",
-        "un-m49"
+        "un-m49",
+        "wb-eas-sp-pop-totl"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第37轮升级 L2】数据来源 wb-eas-sp-pop-totl，实测 2,390,873,921 人（2025年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "区域内差异极大：从高收入经济体到太平洋岛国，人口规模、城市化与收入水平相距悬殊。",
+      "influence": "区域聚合值主要由人口大国拉动，不能代表小岛国或内陆国家的情形。",
+      "connections": "与人口增长、城市化、贫困、气候风险相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SP.POP.TOTL，总人口（EAS））：东亚与太平洋 2,390,873,921 人（2025年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>东亚与太平洋区域发展</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 2,390,873,921 人</text></svg>"
     },
     {
       "id": "global-themes-x62c9x4e01x7f8ex6d32x4e0ex52a0x52d2x6bd4x533ax57dfx53d1x5c55",
@@ -2218,11 +2252,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "拉丁美洲与加勒比区域发展：该区域包含多种气候带与经济体，发展指标差异大，需结合收入分组与统计口径阅读。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "该区域包含多种气候带与经济体，发展指标差异大，需结合收入分组与统计口径阅读。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "拉丁美洲与加勒比区域发展：该区域的人口与经济指标概览。",
+      "time_or_place": "拉丁美洲与加勒比口径（2025年数据）",
+      "overview": "拉丁美洲与加勒比区域发展：该区域的人口与经济指标概览。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "south-america-x5357x9525x4f53"
       ],
@@ -2234,16 +2268,22 @@
         "wb-bra-urban",
         "wb-mex-urban",
         "wb-bra-forest",
-        "wb-mex-forest"
+        "wb-mex-forest",
+        "wb-lcn-sp-pop-totl"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。 【第37轮升级 L2】数据来源 wb-lcn-sp-pop-totl，实测 666,592,570 人（2025年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "World Bank Latin America and the Caribbean 区域页",
         "World Bank DataBank WDI"
       ],
-      "last_update": "2026-11-22",
-      "today": "以代表性国家为例，来源：世界银行 API。巴西城市化率 88.2%（2025年）（SP.URB.TOTL.IN.ZS）、墨西哥 80.0%（2025年）（同指标）；巴西总人口 212,812,405 人（2025年）（SP.POP.TOTL）、墨西哥 131,946,900（2025年）；巴西森林覆盖率 58.5%（2024年）（AG.LND.FRST.ZS）。区域内部差异大，本数据仅示量级，不代表区域整体。"
+      "last_update": "2026-11-23",
+      "today": "来源：世界银行 API（指标 SP.POP.TOTL，总人口（LCN））：拉丁美洲与加勒比 666,592,570 人（2025年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "geo": "城市化率全球最高之列，人口集中于大城市与沿海；加勒比小岛国的人口规模与拉美大陆国家差异极大。",
+      "influence": "区域聚合掩盖了大陆国家与小岛国之间的结构性差异。",
+      "connections": "与城市化、贫困、自然灾害风险相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>拉丁美洲与加勒比区域发展</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 666,592,570 人</text></svg>"
     },
     {
       "id": "global-themes-x4e2dx4e1cx4e0ex5317x975ex533ax57dfx53d1x5c55",
@@ -2252,11 +2292,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "中东与北非区域发展：该区域以干旱气候与能源经济为特征，发展指标受资源结构与人口结构影响。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "该区域以干旱气候与能源经济为特征，发展指标受资源结构与人口结构影响。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "中东与北非区域发展：该区域的人口与经济指标概览。",
+      "time_or_place": "中东与北非口径（2025年数据）",
+      "overview": "中东与北非区域发展：该区域的人口与经济指标概览。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "africa-x9a6cx683cx91ccx5e03"
       ],
@@ -2265,16 +2305,22 @@
         "un-m49",
         "wb-egy-pop",
         "wb-egy-urban",
-        "wb-egy-agri"
+        "wb-egy-agri",
+        "wb-mea-sp-pop-totl"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。 【第37轮升级 L2】数据来源 wb-mea-sp-pop-totl，实测 828,025,185 人（2025年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "World Bank MENA 区域页",
         "World Bank DataBank WDI"
       ],
-      "last_update": "2026-11-22",
-      "today": "以埃及为例，来源：世界银行 API。城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 118,365,995 人（2025年）（SP.POP.TOTL）、农业增加值占 GDP 16.6%（2025年）（NV.AGR.TOTL.ZS）。区域内产油国与进口国差异显著，不宜以单一国家代表全域。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。"
+      "last_update": "2026-11-23",
+      "today": "来源：世界银行 API（指标 SP.POP.TOTL，总人口（MEA））：中东与北非 828,025,185 人（2025年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "geo": "人口集中于河谷、绿洲与沿海，干旱区面积广大；区域内既有高收入产油国，也有受冲突影响的国家。",
+      "influence": "水资源稀缺与油气收入共同塑造区域经济；聚合值掩盖了国家间的巨大分化。",
+      "connections": "与水资源、能源、贫困、人口年龄结构相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>中东与北非区域发展</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 828,025,185 人</text></svg>"
     },
     {
       "id": "global-themes-x5357x4e9ax533ax57dfx53d1x5c55",
@@ -2283,11 +2329,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "南亚区域发展：该区域人口密集、季风主导农业，发展指标与灌溉、城市化相关。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "该区域人口密集、季风主导农业，发展指标与灌溉、城市化相关。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "南亚区域发展：该区域的人口与经济指标概览。",
+      "time_or_place": "南亚口径（2025年数据）",
+      "overview": "南亚区域发展：该区域的人口与经济指标概览。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "asia-x5370x5ea6x6cb3x6587x660e"
       ],
@@ -2296,16 +2342,22 @@
         "un-m49",
         "wb-ind-pop",
         "wb-ind-urban",
-        "wb-ind-forest"
+        "wb-ind-forest",
+        "wb-sas-sp-pop-totl"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。 【第37轮升级 L2】数据来源 wb-sas-sp-pop-totl，实测 1,692,252,900 人（2025年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "World Bank South Asia 区域页",
         "World Bank DataBank WDI"
       ],
-      "last_update": "2026-11-22",
-      "today": "以印度为例，来源：世界银行 API。城市化率 35.7%（2025年）（SP.URB.TOTL.IN.ZS）、总人口 1,463,865,525 人（2025年）（SP.POP.TOTL）、森林覆盖率 24.4%（2024年）（AG.LND.FRST.ZS）。南亚各国差异大，本数据仅示量级。"
+      "last_update": "2026-11-23",
+      "today": "来源：世界银行 API（指标 SP.POP.TOTL，总人口（SAS））：南亚 1,692,252,900 人（2025年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "geo": "人口高度密集于印度河—恒河平原与沿海，季风降水决定农业年景。",
+      "influence": "区域内差异显著：人口大国与山地小国的指标水平相距很远；聚合值主要由人口大国主导。",
+      "connections": "与人口增长、贫困、农业单产、季风相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>南亚区域发展</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 1,692,252,900 人</text></svg>"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x8dddx5e73",
@@ -2382,25 +2434,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "保护与保育区体系：由国际公约与国内法设立的陆地与海洋保护空间，管理目标与治理模式因地区而异。",
-      "time_or_place": "现代管理实践（年份以来源页面为准）",
-      "overview": "由国际公约与国内法设立的陆地与海洋保护空间，管理目标与治理模式因地区而异。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-指标数据",
+      "definition": "保护与保育区体系：以法律或协议划定、用于维护生物多样性的陆域与海域网络。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "保护与保育区体系：以法律或协议划定、用于维护生物多样性的陆域与海域网络。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x9646x5730x4fddx62a4x533a"
       ],
       "sources": [
         "s072-cbd-int",
-        "s091-iucn-org"
+        "s091-iucn-org",
+        "wb-wld-er-lnd-ptld-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 本条实际维度为生态/环境治理，theme 因枚举限制标为「区域」。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 本条实际维度为生态/环境治理，theme 因枚举限制标为「区域」。 【第37轮升级 L2】数据来源 wb-wld-er-lnd-ptld-zs，实测 16.5%（2025年）；空间差异与机制描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "CBD Protected and Conserved Areas",
         "IUCN Protected areas and land use"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "陆地保护区覆盖比例在部分拉美与非洲国家较高，小岛国与高纬度地区亦高；海洋保护区覆盖低于陆地。",
+      "influence": "覆盖比例不等于管理成效；「纸上保护区」与经费不足使实际保护效果需与实地评估并用。",
+      "connections": "与生物多样性、森林覆盖、海洋保护区、气候适应相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 ER.LND.PTLD.ZS，陆地保护区占比（%））：全球 16.5%（2025年）。该值为合计或均值，掩盖内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='100' y='150' width='150' height='150' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='300' y='190' width='150' height='110' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='500' y='225' width='150' height='75' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='100' y='140' class='lbl'>保护与保育区体系</text><text x='100' y='340' class='dim'>分档示意（非实际数值） · 16.5%</text></svg>"
     },
     {
       "id": "global-themes-x519cx4e1ax4f01x4e1ax4e0ex4ef7x503cx94fe",

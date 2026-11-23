@@ -456,11 +456,11 @@
       "unit_id": "asia",
       "region": "中亚/南亚",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "贵霜帝国：连接印度、中亚与中国的枢纽，佛教艺术交流活跃。",
-      "time_or_place": "约1—3世纪",
-      "overview": "连接印度、中亚与中国的枢纽，佛教艺术交流活跃。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "贵霜帝国：内亚的古代帝国，约公元50–250年间支配中亚、南亚与东亚的部分地区。",
+      "time_or_place": "约公元50–250年（据所引专著）",
+      "overview": "贵霜帝国：内亚的古代帝国，约公元50–250年间支配中亚、南亚与东亚的部分地区。",
       "related": [
         "asia-x5e15x63d0x4e9ax5e1dx56fd",
         "asia-x6c49x4ee3",
@@ -468,15 +468,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W4205265904",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4205265904（2021年，《The Kushan Empire》，DOI https://doi.org/10.1093/oso/9780197532768.003.0011，Oxford University Press eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元50–250年（据所引专著）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在中亚的巴克特里亚与犍陀罗（今阿富汗北部与巴基斯坦北部），处在印度、中亚与东亚之间的通道交汇处；山地与河谷控制商路节点。",
+      "influence": "所引 2021 年研究称其为「欧亚的十字路口」：贵霜同时掌握政治军事控制与跨区域商路，成为文化（佛教艺术、钱币、文字）交流的枢纽。这说明过境位置在特定条件下可转化为制度性权力。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "南接印度河与恒河流域，东通塔里木盆地与中国，西连波斯与地中海东岸，是陆路丝绸之路的中段。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>贵霜帝国</text><text x='40' y='370' class='dim'>贵霜帝国 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x7b08x591ax738bx671d",
@@ -1165,11 +1173,11 @@
       "unit_id": "asia",
       "region": "东南亚",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "室利佛逝：苏门答腊based海上帝国，控制马六甲海峡周边航线。",
-      "time_or_place": "约7—14世纪",
-      "overview": "苏门答腊based海上帝国，控制马六甲海峡周边航线。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "室利佛逝：苏门答腊与马来半岛一带的海上城邦国家，7–13世纪间为印度洋与南海贸易的主要参与者。",
+      "time_or_place": "7–13世纪（据所引 2021 年研究）",
+      "overview": "室利佛逝：苏门答腊与马来半岛一带的海上城邦国家，7–13世纪间为印度洋与南海贸易的主要参与者。",
       "related": [
         "asia-x5e15x63d0x4e9ax5e1dx56fd",
         "asia-x8d35x971cx5e1dx56fd",
@@ -1177,15 +1185,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W3153775132",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W3153775132（2021年，《Srivijaya: Trade and Connectivity in the Pre-modern Malay World》，DOI https://doi.org/10.1484/j.jua.5.123677，Journal of Urban Archaeology）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「7–13世纪（据所引 2021 年研究）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在苏门答腊东南部与马来半岛，扼马六甲海峡与巽他海峡的通道；季风风向决定帆船的往返季节，海峡位置因此具有枢纽价值。",
+      "influence": "所引 2021 年研究强调其成长于「复杂网络」的中心：不是靠征服大片领土，而是靠对海峡通行与港口节点的控制。这说明海上政权可以不依赖陆地疆域而获得权力。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "西接印度洋航路（印度、阿拉伯），东连南海与中国港口，是两条海上贸易圈的交汇点。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>室利佛逝</text><text x='40' y='370' class='dim'>室利佛逝 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x6ee1x8005x4f2fx5937",
@@ -1194,11 +1210,11 @@
       "unit_id": "asia",
       "region": "东南亚",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "满者伯夷：爪哇岛东部王国，海上贸易网络延伸到马鲁古香料群岛。",
-      "time_or_place": "约1293—1527年",
-      "overview": "爪哇岛东部王国，海上贸易网络延伸到马鲁古香料群岛。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "满者伯夷：爪哇东部的古代帝国，被后世印尼民族运动视为国家荣光的象征。",
+      "time_or_place": "13–16世纪（满者伯夷；本条引 2022 年研究）",
+      "overview": "满者伯夷：爪哇东部的古代帝国，被后世印尼民族运动视为国家荣光的象征。",
       "related": [
         "asia-x5e15x63d0x4e9ax5e1dx56fd",
         "asia-x8d35x971cx5e1dx56fd",
@@ -1206,15 +1222,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W4384790179",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4384790179（2022年，《Sejarah Sosial Politik Kerajaan Majapahit》，DOI https://doi.org/10.31942/jlp.2022.1.1.8124，Jurnal Lanskap Politik）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「13–16世纪（满者伯夷；本条引 2022 年研究）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在爪哇东部布兰塔斯河下游的三角洲平原，火山土与季风降水支撑密集稻作；河网与港口连接内陆与外海。",
+      "influence": "所引 2022 年研究讨论其社会政治史，并指出20世纪初印尼民族觉醒运动将其塑造为「过去荣光」的样板。这提示：历史叙述本身会被后世政治需要重新框架（D083 的立场问题）。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "经爪哇海连接苏门答腊、婆罗洲与马来半岛，经香料群岛通向东印尼的香料产地。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>满者伯夷</text><text x='40' y='370' class='dim'>满者伯夷 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x6cb3x4e2dx5730x533a",
@@ -1417,11 +1441,11 @@
       "unit_id": "asia",
       "region": "中亚",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "帖木儿帝国：以撒马尔罕为中心，帖木儿文艺复兴影响中亚与波斯。",
-      "time_or_place": "1370—1505年",
-      "overview": "以撒马尔罕为中心，帖木儿文艺复兴影响中亚与波斯。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "帖木儿帝国：由阿米尔·帖木儿在14世纪末建立的中亚帝国，以撒马尔罕与赫拉特为中心。",
+      "time_or_place": "14世纪末至15世纪（据所引 2025 年研究）",
+      "overview": "帖木儿帝国：由阿米尔·帖木儿在14世纪末建立的中亚帝国，以撒马尔罕与赫拉特为中心。",
       "related": [
         "asia-x82cfx7f8ex5c14x57cex90a6",
         "asia-x963fx5361x5fb7x5e1dx56fd",
@@ -1429,15 +1453,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W7215189000",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W7215189000（2025年，《THE HISTORICAL SIGNIFICANCE OF THE TIMURID EMPIRE IN THE DEVELOPMENT OF CENTRAL ASIA》，DOI 无，Journal of Applied Science and Social Science）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「14世纪末至15世纪（据所引 2025 年研究）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在河中地区（阿姆河与锡尔河之间）的绿洲带，撒马尔罕与赫拉特分别位于泽拉夫尚河与哈里河绿洲；绿洲之间的距离使城市成为控制点。",
+      "influence": "所引 2025 年研究称该帝国在伊斯兰世界、蒙古遗产与波斯文化之间起**桥梁**作用，深刻影响中亚的建筑、文化与学术。这说明政权更替后文化生产可以延续并转型。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "东接天山与塔里木通中国，西经波斯通西亚，南越兴都库什通印度，北接草原。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>帖木儿帝国</text><text x='40' y='370' class='dim'>帖木儿帝国 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "asia-x9752x85cfx9ad8x539f",

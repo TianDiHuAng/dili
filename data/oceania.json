@@ -282,11 +282,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "美拉尼西亚：新几内亚及所罗门等岛屿，语言与文化高度多样。",
-      "time_or_place": "古代至今",
-      "overview": "新几内亚及所罗门等岛屿，语言与文化高度多样。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "美拉尼西亚：太平洋西南部的岛群，包括新几内亚、所罗门、瓦努阿图、斐济等。",
+      "time_or_place": "区域地理与近代史（所引 1985 年研究讨论「平定」过程）",
+      "overview": "美拉尼西亚：太平洋西南部的岛群，包括新几内亚、所罗门、瓦努阿图、斐济等。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
         "oceania-x5bc6x514bx7f57x5c3cx897fx4e9a",
@@ -294,15 +294,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W1499262168",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W1499262168（1985年，《The Pacification of Melanesia.》，DOI https://doi.org/10.2307/2802419，Man）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「区域地理与近代史（所引 1985 年研究讨论「平定」过程）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "岛屿多为大陆型与大岛，山地与雨林为主，语言与族群极度多样；火山与珊瑚礁并存，岛屿间的海距较短。",
+      "influence": "所引 1985 年研究挑战「殖民统治与传教决定了平定进程」的通行看法，强调**岛民自身的利益与主动**在从部落战争走向持久和平中的作用。这提示外部力量并非唯一变量。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "经俾斯麦群岛与所罗门链连接新几内亚与波利尼西亚交界，是太平洋西南的航海与交换区。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>美拉尼西亚</text><text x='40' y='370' class='dim'>美拉尼西亚 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "oceania-x5bc6x514bx7f57x5c3cx897fx4e9a",
@@ -311,11 +319,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "密克罗尼西亚：小岛密集，航海与海洋资源丰富。",
-      "time_or_place": "古代至今",
-      "overview": "小岛密集，航海与海洋资源丰富。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "密克罗尼西亚：太平洋西部的众多小岛群，包括马里亚纳、加罗林、马绍尔等。",
+      "time_or_place": "区域地理与海洋生态（所引 2014 年研究）",
+      "overview": "密克罗尼西亚：太平洋西部的众多小岛群，包括马里亚纳、加罗林、马绍尔等。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
         "oceania-x7f8ex62c9x5c3cx897fx4e9a",
@@ -323,15 +331,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2145990868",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2145990868（2014年，《Exploring the role of Micronesian islands in the maintenance of coral genetic diversity in the Pacific Ocean》，DOI https://doi.org/10.1111/mec.13005，Molecular Ecology）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「区域地理与海洋生态（所引 2014 年研究）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "岛屿多为珊瑚环礁与低平小岛，海拔极低、陆地面积小；海beyond为深海，淡水依赖降雨透镜，对海平面上升极为敏感。",
+      "influence": "所引 2014 年研究讨论密克罗尼西亚岛屿在维持珊瑚礁遗传多样性中的作用，指出散布的小岛可能充当珊瑚三角区遗传多样性的**中转节点**。这说明小岛在生态网络中可以有超出其面积的重要性。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "位于珊瑚三角区以东，是太平洋生物扩散的踏脚石，也是近代跨太平洋航线的中继。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>密克罗尼西亚</text><text x='40' y='370' class='dim'>密克罗尼西亚 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "oceania-x6ce2x5229x5c3cx897fx4e9a",
@@ -417,11 +433,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "复活节岛：东南太平洋孤立岛屿，摩艾石像体现波利尼西亚文化。",
-      "time_or_place": "约公元1000年至今",
-      "overview": "东南太平洋孤立岛屿，摩艾石像体现波利尼西亚文化。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "复活节岛（Rapa Nui）：东南太平洋的孤立火山岛，以巨型石像著称。",
+      "time_or_place": "约公元1200年至历史时期（所引 2006 年研究：12世纪起清理棕榈）",
+      "overview": "复活节岛（Rapa Nui）：东南太平洋的孤立火山岛，以巨型石像著称。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
         "oceania-x7f8ex62c9x5c3cx897fx4e9a",
@@ -429,15 +445,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2130117805",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2130117805（2006年，《Prehistoric and early historic agriculture at Maunga Orito, Easter Island (Rapa Nui), Chile》，DOI https://doi.org/10.1017/s0003598x00094515，Antiquity）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元1200年至历史时期（所引 2006 年研究：12世纪起清理棕榈）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "面积小、远离大陆，火山土有限；淡水与海洋资源是生存基础，森林（棕榈）在12世纪起被清理。",
+      "influence": "所引 2006 年研究以 Maunga Orito 的剖面揭示农业策略的序列：12世纪清理棕榈、开园种植薯蓣与芋，15世纪延续，17–19世纪出现覆土与石堆园。这说明岛屿社会长期**调整农业技术**以适应环境变化，而非单一崩溃叙事。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "与波利尼西亚东部群岛（马克萨斯、社会群岛）存在航海联系，是波利尼西亚三角的东南顶点。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>复活节岛</text><text x='40' y='370' class='dim'>复活节岛 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "oceania-x5927x5821x7901",
@@ -484,11 +508,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "太平洋殖民航线：欧洲航海者穿越太平洋，改变岛屿贸易与政治格局。",
-      "time_or_place": "16—19世纪",
-      "overview": "欧洲航海者穿越太平洋，改变岛屿贸易与政治格局。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "太平洋殖民航线：人类自东南亚向太平洋诸岛扩散的航海路线与技术水平。",
+      "time_or_place": "约公元前1500年至公元后（Lapita 航海至东波利尼西亚）",
+      "overview": "太平洋殖民航线：人类自东南亚向太平洋诸岛扩散的航海路线与技术水平。",
       "related": [
         "oceania-x6ce2x5229x5c3cx897fx4e9a",
         "oceania-x6fb3x5927x5229x4e9ax5927x9646",
@@ -496,15 +520,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2148027005",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2148027005（2008年，《Pacific Seascapes, Canoe Performance, and a Review of Lapita Voyaging with Regard to Theories of Migration》，DOI https://doi.org/10.1353/asi.2008.0002，Asian perspectives）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1500年至公元后（Lapita 航海至东波利尼西亚）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "航线跨越从近大洋洲到远大洋洲的广阔海域，风向与洋流决定可行航向；岛屿间的距离逐步增大，对船只与导航的要求递增。",
+      "influence": "所引 2008 年研究比较了不同阶段的海域难度：Lapita 航海者的海域**比近大洋洲更具挑战、但明显弱于后来东波利尼西亚人所面对的**；并据独木舟形制与性能估算航行能力。这说明「航海能力」应与具体海域条件匹配评估。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "从东南亚经近大洋洲到远大洋洲，最终抵达夏威夷、复活节岛与新西兰，构成地球史上最大规模的海洋扩散。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>太平洋殖民航线</text><text x='40' y='370' class='dim'>太平洋殖民航线 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "oceania-x6fb3x5927x5229x4e9ax5185x9646x5e72x65f1x6c14x5019",

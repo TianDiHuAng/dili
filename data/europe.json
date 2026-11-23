@@ -90,11 +90,11 @@
       "unit_id": "europe",
       "region": "南欧",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "迈锡尼文明：希腊本土青铜文明，线性文字B记录行政管理体系。",
-      "time_or_place": "约前1600—前1100年",
-      "overview": "希腊本土青铜文明，线性文字B记录行政管理体系。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "迈锡尼文明：青铜时代晚期希腊大陆的文明，以城堡、线形文字 B 与广泛的贸易联系著称。",
+      "time_or_place": "约公元前1600–前1100年（迈锡尼时期；所引研究聚焦前1400年后的扩张）",
+      "overview": "迈锡尼文明：青铜时代晚期希腊大陆的文明，以城堡、线形文字 B 与广泛的贸易联系著称。",
       "related": [
         "europe-x514bx91ccx7279x6587x660e",
         "europe-x53e4x5e0cx814ax57cex90a6",
@@ -102,15 +102,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2492031384",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2492031384（1975年，《THE EXPANSION OF MYCENAEAN CIVILIZATION》，DOI https://doi.org/10.1017/chol9780521086912.009，Cambridge University Press eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1600–前1100年（迈锡尼时期；所引研究聚焦前1400年后的扩张）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在伯罗奔尼撒与希腊中部的山谷，城堡建于居高临下的丘陵；爱琴海的岛屿与航线提供交通，橄榄与葡萄适合山地。",
+      "influence": "所引 1975 年研究指出，前1400年后迈锡尼文明有近两百年的繁荣期，部分建立在其已吸收的米诺斯文化之上；底比斯的陷落是该时期可确定的事件之一。这说明文明的扩张常以既有文化积累为基础。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "经爱琴海岛屿连接克里特与安纳托利亚西岸，经地中海东部航线通塞浦路斯、黎凡特与埃及。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>迈锡尼文明</text><text x='40' y='370' class='dim'>迈锡尼文明 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x53e4x5e0cx814ax57cex90a6",
@@ -662,11 +670,11 @@
       "unit_id": "europe",
       "region": "中欧",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "神圣罗马帝国：松散的帝国结构，诸侯割据与城市自治并存。",
-      "time_or_place": "962—1806年",
-      "overview": "松散的帝国结构，诸侯割据与城市自治并存。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "神圣罗马帝国：中欧的帝国体制，以「统一的基督教文明」为理念，延续约千年。",
+      "time_or_place": "约800/962年至1806年（所引专著称其延续千年）",
+      "overview": "神圣罗马帝国：中欧的帝国体制，以「统一的基督教文明」为理念，延续约千年。",
       "related": [
         "europe-x514bx91ccx7279x6587x660e",
         "europe-x8fc8x9521x5c3cx6587x660e",
@@ -674,15 +682,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W4247689949",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4247689949（2016年，《Heart of Europe: A History of the Holy Roman Empire》，DOI https://doi.org/10.4159/9780674915909，Harvard University Press eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约800/962年至1806年（所引专著称其延续千年）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "覆盖今德国、奥地利、捷克、意大利北部与低地国家的广大区域，地形从阿尔卑斯山到北海沿岸；河流（莱茵、多瑙、易北）构成交通骨架。",
+      "influence": "所引 2016 年专著（Peter Wilson）认为，帝国的连续性建立在理念而非集权行政之上，其遗产至今见于关于欧盟性质的讨论。这说明「帝国」可以是一种制度安排而非单一主权体。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "莱茵河与多瑙河分别通向北海与黑海，阿尔卑斯山口连接意大利，是中欧与地中海、东欧之间的枢纽。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>神圣罗马帝国</text><text x='40' y='370' class='dim'>神圣罗马帝国 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x5341x5b57x519bx4e1cx5f81",
@@ -728,11 +744,11 @@
       "unit_id": "europe",
       "region": "北欧",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "汉萨同盟：波罗的海与北海城市商业联盟，垄断区域航运。",
-      "time_or_place": "约13—17世纪",
-      "overview": "波罗的海与北海城市商业联盟，垄断区域航运。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "汉萨同盟：北德与波罗的海沿岸城市组成的商业同盟。",
+      "time_or_place": "13–17世纪（同盟 1669 年解散，据所引 2025 年研究）",
+      "overview": "汉萨同盟：北德与波罗的海沿岸城市组成的商业同盟。",
       "related": [
         "europe-x7231x7434x6d77x4e16x754c",
         "europe-x83b1x8335x6cb3",
@@ -740,15 +756,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W4411023422",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4411023422（2025年，《Networks in trade — Evidence from the legacy of the Hanseatic league》，DOI https://doi.org/10.1016/j.jinteco.2025.104102，Journal of International Economics）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「13–17世纪（同盟 1669 年解散，据所引 2025 年研究）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在波罗的海与北海之间的低地平原与海峡城市（吕贝克、汉堡、但泽等），海运与河运交汇；鲱鱼与谷物是主要货类。",
+      "influence": "所引 2025 年研究用 190 年的新贸易数据发现：1669 年同盟解散后，原汉萨航线的贸易量已回到引力模型的预测水平，但**同盟网络仍持续影响贸易构成**。这说明制度遗产可以在组织消亡后延续。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "经波罗的海通北欧与俄罗斯（诺夫哥罗德），经北海通英格兰与低地国家，是北欧贸易的骨干。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>汉萨同盟</text><text x='40' y='370' class='dim'>汉萨同盟 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x5a01x5c3cx65af",
@@ -835,11 +859,11 @@
       "unit_id": "europe",
       "region": "东欧",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第4轮)",
-      "definition": "基辅罗斯：第聂伯河上游的罗斯国家，后受蒙古冲击。",
-      "time_or_place": "约9—13世纪",
-      "overview": "第聂伯河上游的罗斯国家，后受蒙古冲击。",
+      "level": "L2",
+      "status": "L2完成(第37轮)-学术文献",
+      "definition": "基辅罗斯：中世纪东欧的政治体，以基辅为中心，连接北欧与拜占庭、东方。",
+      "time_or_place": "9–13世纪（基辅罗斯；所引 2025 年专著）",
+      "overview": "基辅罗斯：中世纪东欧的政治体，以基辅为中心，连接北欧与拜占庭、东方。",
       "related": [
         "europe-x514bx91ccx7279x6587x660e",
         "europe-x8fc8x9521x5c3cx6587x660e",
@@ -847,15 +871,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W4407989916",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东欧×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。",
+      "pending_notes": "第4轮复核：东欧×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但 政权年代序列与制度细节的专题来源 仍待补，故保留待核实。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4407989916（2025年，《Kyivan Rus in Medieval Europe》，DOI https://doi.org/10.1017/9781009570022，Cambridge University Press eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「9–13世纪（基辅罗斯；所引 2025 年专著）」表述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在第聂伯河与伏尔加河水系的上游，森林与森林草原交错；河流的南北走向使其成为「从瓦良格人到希腊人」的商路通道。",
+      "influence": "所引 2025 年专著批评把罗斯简化为「拜占庭共同体」一部分的传统框架，认为这一框架**低估了与西欧的联系、放大了拜占庭影响**，并指出该叙事被民族主义修辞用于把俄罗斯与欧洲分隔。这属立场问题（D083）。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "北经波罗的海通斯堪的纳维亚，南沿第聂伯河通黑海与拜占庭，东经伏尔加河通伏尔加保加尔与东方。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>基辅罗斯</text><text x='40' y='370' class='dim'>基辅罗斯 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x83abx65afx79d1x516cx56fd",

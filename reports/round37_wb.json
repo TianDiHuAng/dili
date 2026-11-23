@@ -1,0 +1,79 @@
+{
+  "森林覆盖变化": {
+    "code": "AG.LND.FRST.ZS",
+    "label": "森林覆盖率（%）",
+    "value": 31.0951828663057,
+    "year": "2023",
+    "agg": "WLD"
+  },
+  "土地利用变化": {
+    "code": "AG.LND.AGRI.ZS",
+    "label": "农业用地占土地（%）",
+    "value": 36.9301461380685,
+    "year": "2023",
+    "agg": "WLD"
+  },
+  "沙漠化": {
+    "code": "AG.LND.FRST.ZS",
+    "label": "森林覆盖率",
+    "value": 31.0951828663057,
+    "year": "2023",
+    "agg": "WLD"
+  },
+  "保护与保育区体系": {
+    "code": "ER.LND.PTLD.ZS",
+    "label": "陆地保护区占比（%）",
+    "value": 16.511660312023,
+    "year": "2025",
+    "agg": "WLD"
+  },
+  "东亚与太平洋区域发展": {
+    "code": "SP.POP.TOTL",
+    "label": "总人口（EAS）",
+    "value": 2390873921,
+    "year": "2025",
+    "agg": "EAS"
+  },
+  "拉丁美洲与加勒比区域发展": {
+    "code": "SP.POP.TOTL",
+    "label": "总人口（LCN）",
+    "value": 666592570,
+    "year": "2025",
+    "agg": "LCN"
+  },
+  "中东与北非区域发展": {
+    "code": "SP.POP.TOTL",
+    "label": "总人口（MEA）",
+    "value": 828025185,
+    "year": "2025",
+    "agg": "MEA"
+  },
+  "南亚区域发展": {
+    "code": "SP.POP.TOTL",
+    "label": "总人口（SAS）",
+    "value": 1692252900,
+    "year": "2025",
+    "agg": "SAS"
+  },
+  "农业统计体系": {
+    "code": "AG.PRD.CREL.MT",
+    "label": "谷物产量（吨）",
+    "value": 3130499027.03,
+    "year": "2024",
+    "agg": "WLD"
+  },
+  "气候适应政策": {
+    "code": "ER.H2O.FWTL.ZS",
+    "label": "淡水取用强度（%）",
+    "value": 9.0058287959941,
+    "year": "2022",
+    "agg": "WLD"
+  },
+  "煤炭与能源": {
+    "code": "EG.ELC.ACCS.ZS",
+    "label": "通电率（%）",
+    "value": 91.9264843853681,
+    "year": "2024",
+    "agg": "WLD"
+  }
+}
