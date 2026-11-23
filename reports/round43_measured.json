@@ -1,0 +1,10 @@
+{
+  "round": 43,
+  "measured": {
+    "zero": 52,
+    "one": 167,
+    "ge2": 24
+  },
+  "note": "实测口径：按来源 note 中记录的字节/字符数判定是否有正文；排除 livius stub；补入 s042(46123)/nasa-ice-sheets(8612)/noaa-sustainable-fisheries(19729)/s051(5255)",
+  "d095_compliant_note": "即便 ≥2 实测源，仍需逐条过「正文落点」；本轮已为 17 条补落点句，其余标旁证"
+}

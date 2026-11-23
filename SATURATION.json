@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 42,
+  "last_round": 43,
   "history": [
     {
       "round": 1,
@@ -517,6 +517,17 @@
       "gaps_found": 241,
       "note": "≥2内容源条目 125→143；另46条仅单个内容源",
       "result": "证据质量推进"
+    },
+    {
+      "round": 43,
+      "methods_used": [
+        "B1 全站来源口径复核",
+        "B1 0源条目补源（摘要多次命中筛选）",
+        "台账"
+      ],
+      "gaps_found": 293,
+      "note": "发现「≥2内容源143」含机构首页属虚高，真实为12；补源后0源52、≥2源24",
+      "result": "证据口径订正"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -539,5 +550,11 @@
   "core_all_l2": true,
   "important_all_l2": true,
   "all_l2": true,
-  "multi_source_entries": 143
+  "multi_source_entries": 143,
+  "evidence": {
+    "zero_source": 52,
+    "one_source": 167,
+    "two_plus": 24,
+    "definition": "仅计有实际正文或摘要的来源；机构首页与世界银行指标端点不计"
+  }
 }

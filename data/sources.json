@@ -7397,7 +7397,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Analyzing and managing human settlement growth in the Nile Valley, Egypt",
-      "note": "OpenAlex 作品 W4381279037（经 Crossref DOI 10.3990/1.9789036556576 定位）；2023年；None；被引 1。HTTP 200，27413 字节。摘要长度 7852 字符，对象词命中 12 次。"
+      "note": "OpenAlex 作品 W4381279037（经 Crossref DOI 10.3990/1.9789036556576 定位）；2023年；学位论文（Crossref 未提供容器）；被引 1。HTTP 200，27413 字节。摘要长度 7852 字符，对象词命中 12 次。"
     },
     {
       "id": "openalex-W2982377291",
@@ -7456,7 +7456,7 @@
       "title": "OpenAlex W1565082269 — The last giant of Beringia: the mystery of the Bering Land Bridge",
       "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
       "year": 2005,
-      "type": "学术文献",
+      "type": "书评（不作内容来源）",
       "url": "https://api.openalex.org/works/W1565082269",
       "url2": "https://doi.org/10.5860/choice.42-3515",
       "link_ok": true,
@@ -7540,7 +7540,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Aboriginal Australians abroad 1606–1875",
-      "note": "OpenAlex 作品 W2260197586（经 Crossref DOI 10.22459/ah.12.2011.03 定位）；2011年；Aboriginal History Journal；被引 5。HTTP 200，14790 字节。摘要长度 2179 字符，对象词命中 3 次。"
+      "note": "OpenAlex 作品 W2260197586（经 Crossref DOI 10.22459/ah.12.2011.03 定位）；2011年；Aboriginal History Journal；被引 5。HTTP 200，14790 字节。摘要长度 2179 字符，对象词命中 3 次。 【第43轮标记】研究对象为 19 世纪原住民板球队员访英史，非生态/语言主题。"
     },
     {
       "id": "openalex-W2904560534",
