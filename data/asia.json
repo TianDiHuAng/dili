@@ -225,7 +225,7 @@
       ],
       "last_update": "2026-11-23",
       "geo": "核心在安纳托利亚高原中部的哈图沙一带，高原干旱、河谷适合农业；四周山地提供木材与矿料，北向黑海、南向叙利亚的通道决定其对外方向。",
-      "influence": "所引 2022 年专著《The Hittite Empire》讨论其国家形态：档案文书显示王权与条约体系并重，与埃及的卡叠什对峙是古代近东外交的典型案例。",
+      "influence": "所引 2022 年专著讨论其国家形态：档案文书显示王权与条约体系并重，并涉及权力的委任安排。（与埃及的卡叠什对峙是古代近东外交的著名事件，属本条补充的史实，不挂该专著。）",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "南经托罗斯山口通叙利亚与美索不达米亚，西接爱琴海沿岸（与迈锡尼世界有接触），北向黑海沿岸。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -621,7 +621,7 @@
       "level": "L2",
       "status": "L2完成(第38轮)-学术文献",
       "definition": "仰韶文化：中国新石器时代中期的考古文化，以彩陶与粟作农业为特征。",
-      "time_or_place": "约公元前5000–前3000年（仰韶文化；所引研究覆盖 7000–4000 BP）",
+      "time_or_place": "约公元前5000–前3000年（仰韶文化；所引研究覆盖约公元前5000–前2000年）",
       "overview": "仰韶文化：中国新石器时代中期的考古文化，以彩陶与粟作农业为特征。",
       "related": [
         "asia-x4e24x6cb3x6d41x57df",
@@ -635,14 +635,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2019734673（2001年，《Diet and health changes at the end of the Chinese neolithic: The Yangshao/Longshan transition in Shaanxi province》，DOI https://doi.org/10.1002/ajpa.10014）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2019734673（2001年，《Diet and health changes at the end of the Chinese neolithic: The Yangshao/Longshan transition in Shaanxi province》，DOI https://doi.org/10.1002/ajpa.10014）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工·硬错】原稿把摘要的「the fifth millennium BP」（距今约5000年≈前3000年）写成「公元前第五千纪」（前5000年），差约2000年，且与条目自身年代矛盾；已改为「距今约5000年（约公元前3000年）」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "核心在黄河中游（陕西、河南、山西）的黄土台地与河谷，黄土肥沃、易于耕作；气候较今温暖湿润，粟与黍是主要作物。",
-      "influence": "所引 2001 年研究以陕西仰韶时期人骨的饮食与健康变化为线索，指出公元前第五千纪前后的气候波动之后进入较冷期，与聚落平等性的变化相伴随。这说明农业社会的社会结构与气候—生计条件相互关联，但非单一决定。",
+      "influence": "所引 2001 年研究以陕西仰韶时期人骨的饮食与健康变化为线索，指出在约公元前3000年（原文作「距今第五千纪」）之后出现降温，若干指标随之变化；作者把这一转折与仰韶晚期至龙山过渡的社会变化相联系。 这说明农业社会的生计与社会组织对气候波动敏感，但因果关系仍需具体证据（D081）。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "沿黄河及其支流扩散至华北与西北，与长江中游的稻作文化区存在交流。",
       "today": "（本条的当代指标不在本页展开。）",

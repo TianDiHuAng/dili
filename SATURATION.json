@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 37,
+  "last_round": 38,
   "history": [
     {
       "round": 1,
@@ -454,6 +454,19 @@
       ],
       "gaps_found": 280,
       "note": "补充L2 34→56；总L2 182→204",
+      "result": "非饱和"
+    },
+    {
+      "round": 38,
+      "methods_used": [
+        "B1 OpenAlex（历史/方法论类）",
+        "B1 世行指标",
+        "误匹配剔除（6条）",
+        "R16/R17",
+        "台账"
+      ],
+      "gaps_found": 264,
+      "note": "补充L2 56→72；总L2 204→220（90.5%）",
       "result": "非饱和"
     }
   ],

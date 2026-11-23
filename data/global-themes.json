@@ -646,14 +646,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "背景来源 OGC 标准页与 Esri GIS 定义页已核验；投影分类与历史演变待专题来源核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2895438346（2018年，《Map Projection Education in General Cartography Textbooks: A Content Analysis》，DOI https://doi.org/10.14714/cp90.1449）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "pending_notes": "背景来源 OGC 标准页与 Esri GIS 定义页已核验；投影分类与历史演变待专题来源核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2895438346（2018年，《Map Projection Education in General Cartography Textbooks: A Content Analysis》，DOI https://doi.org/10.14714/cp90.1449）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删除「学生常把投影视为技术细节」（摘要未做学生实证）；改为对 24 本教科书内容分析的结论转述。",
       "outlines": [
         "OGC 标准",
         "Esri GIS 定义"
       ],
       "last_update": "2026-11-23",
       "geo": "球面不可展为平面，任何投影都会在保形、保面积、保距离之间取舍；高纬度与全球尺度上的变形尤为显著。",
-      "influence": "所引 2018 年研究讨论制图教学中投影的选择与讲解，指出学生常把投影视为技术细节而忽略其表达后果（面积、形状的失真会影响判断）。这说明「中性地图」不存在，投影本身是一种选择。",
+      "influence": "所引 2018 年研究对 24 本普通制图学教科书做内容分析，结论是：投影性质各书都讲，但变形图示方法与基准面的讲解不一致或很少提及；作者据此提出三项改进建议（坐标系统、读者理解实验、Web Mercator 等技术影响）。这说明投影在教学中常被当作技术细节处理，而其表达后果的讲解并不统一。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "与 GIS、坐标系统、面积统计（如森林与冰川面积）直接相关；不同投影会改变同一区域的多边形面积计算。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -1962,13 +1962,13 @@
         "openalex-W3015797299"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3015797299（2020年，《Ethics, New Colonialism, and Lidar Data: A Decade of Lidar in Maya Archaeology》，DOI https://doi.org/10.5334/jcaa.43）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3015797299（2020年，《Ethics, New Colonialism, and Lidar Data: A Decade of Lidar in Maya Archaeology》，DOI https://doi.org/10.5334/jcaa.43）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删除「对当地社区的返还」——摘要框架是国家保护/主权/盗掘，未涉社区返还；已改为摘要实有的三项张力。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
       "last_update": "2026-11-23",
       "geo": "玛雅低地（危地马拉佩滕、墨西哥坎佩切、伯利兹）为热带雨林覆盖的喀斯特台地，地面调查困难；LiDAR 可穿透林冠读出地形与建筑。",
-      "influence": "所引 2020 年研究讨论 LiDAR 带来的认知突破，同时提出伦理与新殖民主义问题：数据的获取、所有权与对当地社区的返还。这说明技术进展与知识正义是同一议题的两面。",
+      "influence": "所引 2020 年研究讨论 LiDAR 带来的认知突破，同时提出伦理与新殖民主义问题：数据的长周期存储与管理、科学开放获取与国家保护之间的分歧（部分国家因盗掘与军事安全不愿完全公开），以及卫星技术对民族国家物理边界与主权的挑战。这说明技术进展与数据治理是同一议题的两面。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "与中美洲各地的聚落网络研究相连，并与当代考古数据治理的讨论挂钩。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -2220,13 +2220,13 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2038018335（1987年，《Human geography in the French Institute: New discipline or missed opportunity?》，DOI https://doi.org/10.1002/1520-6696(198710)23:4<332::aid-jhbs2300230403>3.0.co;2-z）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2038018335（1987年，《Human geography in the French Institute: New discipline or missed opportunity?》，DOI https://doi.org/10.1002/1520-6696(198710)23:4<332::aid-jhbs2300230403>3.0.co;2-z）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删除末句对「boundary work」的悬空引用——本条正文无该概念（且该概念属管理学同名陷阱，已在本轮剔除）。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
       "last_update": "2026-11-23",
       "geo": "研究对象覆盖聚落、经济、政治与文化景观；尺度从社区到全球，方法从田野到定量。",
-      "influence": "所引 1987 年研究以法国某研究机构的学科建制为例，讨论人文地理学作为「新学科」的建立过程。这说明学科的边界与合法性并非自然生成，而由机构、期刊与人才培训共同确立（与「争议边界处理原则」中的 boundary work 概念相关但不同）。",
+      "influence": "所引 1987 年研究以法国某研究机构的学科建制为例，讨论人文地理学作为「新学科」的建立过程。这说明学科的边界与合法性并非自然生成，而由机构、期刊与人才培训共同确立。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "与经济学、社会学、生态学交叉，为区域研究与规划提供空间视角。",
       "today": "（本条的当代指标不在本页展开。）",

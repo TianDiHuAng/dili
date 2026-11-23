@@ -187,14 +187,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3046252846（2020年，《Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography》，DOI https://doi.org/10.1038/s41467-020-17656-w）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3046252846（2020年，《Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography》，DOI https://doi.org/10.1038/s41467-020-17656-w）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】本条 theme 为「气候」，所引文献为古基因组人群史——已在正文显式限定为「区域研究现状的一例」，不作气候或地貌的解释依据。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "安第斯山脉在西部，向东过渡为台地草原；西风带带来降水集中于山地，东侧处于雨影。南部为冰川区与峡湾。",
-      "influence": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史，显示该区域人群的流动与替代过程比单一「沿海扩张」模型更复杂。这说明区域人群史需要多点证据，而非单一路线推断。",
+      "influence": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史，显示流动与替代过程比单一「沿海扩张」模型更复杂。（本条主题为区域地理，人口史仅作为该区域研究现状的一例，不代表对气候或地貌的解释。）",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "北接潘帕斯草原，南隔麦哲伦海峡与火地岛相望，两侧分别为太平洋与大西洋。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -302,14 +302,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3149966361（2002年，《Lines in the Water: Nature and Culture at Lake Titicaca》，DOI https://doi.org/10.1525/9780520935891）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3149966361（2002年，《Lines in the Water: Nature and Culture at Lake Titicaca》，DOI https://doi.org/10.1525/9780520935891）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删去「政治边界」——摘要无此内容（原句系把书名双关当作论点）；改为「资源、交通与文化认同的载体」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "湖面海拔约3800米，面积大而水深；湖水调节局地温度，湖岸与岛屿在高寒环境中提供相对温和的小气候。周围为干旱高原。",
-      "influence": "所引 2002 年研究以「水中的界线」为题，讨论湖泊如何同时作为资源、交通与文化与政治边界。这提示水域不仅提供生计，也参与社会边界的形成。",
+      "influence": "所引 2002 年研究以「水中的界线」为题，讨论湖泊作为渔业与芦苇资源、交通通道以及文化认同载体的多重角色，并涉及现代技术、市场压力与文化自主之间的张力。正文不据该研究主张「政治边界」的判断。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "经湖泊与高原道路连接秘鲁南部、玻利维亚与智利北部，是安第斯南部交换网络的中心。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -480,14 +480,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2334447411（1982年，《Hydraulic Engineering Aspects of the Chimu Chicama-Moche Intervalley Canal》，DOI https://doi.org/10.2307/280236）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2334447411（1982年，《Hydraulic Engineering Aspects of the Chimu Chicama-Moche Intervalley Canal》，DOI https://doi.org/10.2307/280236）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工·硬错】原稿①把对象写成「奇卡马谷的水利工程」（实为奇卡马—莫切跨谷运河 La Cumbre）；②漏掉摘要的关键结论「运河完工前即废弃、从未输水」；③并据此反向推出「灌溉是权力集中机制」。三点已全部改正——原文是失败工程的案例研究，不是成功例证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "核心在莫切河谷下游的沿海荒漠，依赖安第斯融水的灌溉渠；地下水与河道比降决定渠线，沿海的海洋资源补充生计。",
-      "influence": "所引 1982 年研究分析奇穆在奇卡马谷的水利工程，指出渠道的设计与维护需要跨谷的组织协调。这说明大规模灌溉可以成为权力集中的一个机制，而非仅仅是地理条件的产物。",
+      "influence": "所引 1982 年研究分析的是奇卡马—莫切跨谷运河（La Cumbre）：以明渠流设计的计算机分析结合实地测量，探讨把奇卡马谷的水引至莫切谷的可行性。研究的结论是该运河在完工前即被放弃、从未向莫切谷输水——沿线比降受断层影响，试挖多条渠线仍难以克服。这一案例说明大规模跨谷水利在技术上与政治上都有失败的可能，不能一概读作「权力集中的成功机制」。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "沿南北谷地构成的海岸走廊连接北部诸谷，与高地之间存在交换关系。",
       "today": "（本条的当代指标不在本页展开。）",
