@@ -53,7 +53,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·无实证)",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -463,7 +463,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·无实证)",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -673,7 +673,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·无实证)",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -728,7 +728,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·无实证)",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1051,7 +1051,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第27轮·无实证)",
-      "source_count": 5,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1069,7 +1069,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第34轮)-来源撤出待补",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1457,7 +1457,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2合规换源(第22轮)·已复核(第27轮)",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1494,7 +1494,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2合规换源(第22轮)·已复核(第27轮)",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1651,7 +1651,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1660,7 +1660,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1669,7 +1669,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
-      "source_count": 9,
+      "source_count": 10,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1678,7 +1678,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第19轮)-主题页·已复核(第27轮)",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 43,
-  "round_processed": 23,
+  "round": 44,
+  "round_processed": 12,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }
