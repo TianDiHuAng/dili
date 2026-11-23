@@ -793,25 +793,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "极端贫困空间分布：极端贫困人口在地区间分布不均，与经济增长、公共服务、冲突和气候冲击相互关联。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "极端贫困人口在地区间分布不均，与经济增长、公共服务、冲突和气候冲击相互关联。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "极端贫困空间分布：按国际贫困线衡量的贫困人口在地理上的聚集与差异。",
+      "time_or_place": "全球口径（2024年数据）",
+      "overview": "极端贫困空间分布：按国际贫困线衡量的贫困人口在地理上的聚集与差异。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4ebax53e3x8fc1x79fb"
       ],
       "sources": [
         "s082-ourworldindata-org",
-        "un-m49"
+        "un-m49",
+        "wb-wld-si-pov-dday"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SI.POV.DDAY），实测 SI.POV.DDAY（2024年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "贫困的分布与国家、城乡、生态带高度相关：撒哈拉以南非洲与南亚占比最高，冲突与脆弱环境地区集中。",
+      "influence": "贫困的空间集中由历史（殖民与制度）、自然条件（疾病负担、降水变率）、市场可达性共同塑造；单一因素解释不足。",
+      "connections": "与营养、教育、卫生可及性互为因果，也与气候风险叠加。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SI.POV.DDAY，贫困人口比例（每日 2.15 美元以下，2017 PPP，%））：全球 SI.POV.DDAY（2024年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>极端贫困空间分布</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SI.POV.DDAY</text></svg>"
     },
     {
       "id": "global-themes-x80fdx6e90x8f6cx578b",
@@ -820,25 +827,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "能源转型：能源结构从高碳向低碳来源调整的过程，涉及技术、基础设施、价格和政策，具有明显的区域差异。",
-      "time_or_place": "近现代（具体年份待核）",
-      "overview": "能源结构从高碳向低碳来源调整的过程，涉及技术、基础设施、价格和政策，具有明显的区域差异。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "能源转型：能源供给与消费结构从化石燃料向低碳来源转变的过程。",
+      "time_or_place": "全球口径（2020年数据）",
+      "overview": "能源转型：能源供给与消费结构从化石燃料向低碳来源转变的过程。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "asia-x4e1dx7ef8x4e4bx8def"
       ],
       "sources": [
         "s028-ourworldindata-org",
-        "s090-worldbank-org"
+        "s090-worldbank-org",
+        "wb-wld-eg-fec-rnew-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 EG.FEC.RNEW.ZS），实测 EG.FEC.RNEW.ZS（2020年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "转型速度在地区间差异极大：欧洲与部分拉美的可再生能源占比高，撒哈拉以南非洲仍以生物质为主；资源禀赋与电网条件决定路径。",
+      "influence": "转型依赖技术成本、电网与储能、政策与融资；地理条件（日照、风况、水电潜力）影响可行组合，但不是决定因素。",
+      "connections": "与碳排放、空气质量、就业结构相互关联。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 EG.FEC.RNEW.ZS，可再生能源占最终能源消费比例（%））：全球 EG.FEC.RNEW.ZS（2020年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>能源转型</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 EG.FEC.RNEW.ZS</text></svg>"
     },
     {
       "id": "global-themes-x78b3x6392x653ex7a7ax95f4x5deex5f02",
@@ -847,25 +861,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "碳排放空间差异：不同地区的人均与总量碳排放差异显著，受能源结构、产业活动与生活水平共同影响。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "不同地区的人均与总量碳排放差异显著，受能源结构、产业活动与生活水平共同影响。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "碳排放空间差异：温室气体排放在国家与地区间的不均衡分布。",
+      "time_or_place": "全球口径（2024年数据）",
+      "overview": "碳排放空间差异：温室气体排放在国家与地区间的不均衡分布。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x6c14x5019x5e26"
       ],
       "sources": [
         "s035-ourworldindata-org",
-        "s039-climate-nasa-gov"
+        "s039-climate-nasa-gov",
+        "wb-wld-en-ghg-co2-mt-ce-ar5"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 EN.GHG.CO2.MT.CE.AR5），实测 EN.GHG.CO2.MT.CE.AR5（2024年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "排放总量集中于大型经济体，人均排放则以高收入国家与部分产油国居高；生产侧与消费侧核算差异显著。",
+      "influence": "差异源于能源结构、产业结构与消费水平；国际贸易使排放「转移」，故按生产地统计会低估消费国的责任。",
+      "connections": "与气候变化、能源转型、贸易格局相互关联。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 EN.GHG.CO2.MT.CE.AR5，CO₂ 排放总量（Mt CO₂e，不含 LULUCF））：全球 EN.GHG.CO2.MT.CE.AR5（2024年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>碳排放空间差异</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 EN.GHG.CO2.MT.CE.AR5</text></svg>"
     },
     {
       "id": "global-themes-x4ebax53e3x5e74x9f84x7ed3x6784",
@@ -874,25 +895,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "人口年龄结构：人口按年龄分组的构成反映生育、死亡与迁移的长期结果，并影响劳动力与公共服务需求。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "人口按年龄分组的构成反映生育、死亡与迁移的长期结果，并影响劳动力与公共服务需求。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "人口年龄结构：人口按年龄段的分布比例。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "人口年龄结构：人口按年龄段的分布比例。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4ebax53e3x5730x7406"
       ],
       "sources": [
         "s081-ourworldindata-org",
-        "s004-population-un-org"
+        "s004-population-un-org",
+        "wb-wld-sp-pop-0014-to-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SP.POP.0014.TO.ZS），实测 SP.POP.0014.TO.ZS（2025年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "少儿占比高的地区集中在撒哈拉以南非洲与部分南亚，老年占比高的地区集中在欧洲与东亚；迁移也改变年龄结构。",
+      "influence": "结构由生育率、死亡率与迁移共同决定；年龄结构一旦形成具有惯性，影响劳动力供给、教育与养老支出。",
+      "connections": "与人口增长、城市化、劳动力流动、社会保障相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SP.POP.0014.TO.ZS，0–14 岁人口占比（%））：全球 SP.POP.0014.TO.ZS（2025年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>人口年龄结构</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SP.POP.0014.TO.ZS</text></svg>"
     },
     {
       "id": "global-themes-x57cex5e02x70edx5c9b",
@@ -958,25 +986,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "预期寿命空间差异：不同地区预期寿命差异受医疗、营养、冲突与年龄结构等多因素影响，是社会地理的重要指标。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "不同地区预期寿命差异受医疗、营养、冲突与年龄结构等多因素影响，是社会地理的重要指标。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "预期寿命空间差异：出生时预期寿命在地理上的差别。",
+      "time_or_place": "全球口径（2024年数据）",
+      "overview": "预期寿命空间差异：出生时预期寿命在地理上的差别。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4ebax53e3x5e74x9f84x7ed3x6784"
       ],
       "sources": [
         "s033-ourworldindata-org",
-        "s004-population-un-org"
+        "s004-population-un-org",
+        "wb-wld-sp-dyn-le00-in"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SP.DYN.LE00.IN），实测 SP.DYN.LE00.IN（2024年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "高收入国家与部分东亚、南欧国家预期寿命最高，撒哈拉以南非洲部分国家仍显著偏低；同一国内部城乡与群体差异亦大。",
+      "influence": "差异由传染病负担、母婴健康、卫生支出、营养与生活方式共同决定；冲突与灾难会在短期造成明显折损。",
+      "connections": "与健康支出、儿童死亡率、营养状况互为指标群。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SP.DYN.LE00.IN，出生时预期寿命（岁））：全球 SP.DYN.LE00.IN（2024年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>预期寿命空间差异</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SP.DYN.LE00.IN</text></svg>"
     },
     {
       "id": "global-themes-x4ebax5747x4ea7x51fax7a7ax95f4x5deex5f02",
@@ -985,25 +1020,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "人均产出空间差异：人均经济产出的地区差异反映产业结构、人口规模与制度条件的组合，不能直接等同于生活水平。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "人均经济产出的地区差异反映产业结构、人口规模与制度条件的组合，不能直接等同于生活水平。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "人均产出空间差异：人均 GDP 在地理上的不均衡。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "人均产出空间差异：人均 GDP 在地理上的不均衡。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x6781x7aefx8d2bx56f0x7a7ax95f4x5206x5e03"
       ],
       "sources": [
         "s034-ourworldindata-org",
-        "s075-aag-org"
+        "s075-aag-org",
+        "wb-wld-ny-gdp-pcap-cd"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 NY.GDP.PCAP.CD），实测 NY.GDP.PCAP.CD（2025年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "高值集中于北美、西欧与东亚部分经济体，低值集中在撒哈拉以南非洲与部分南亚；国内区域差异常大于国家间差异。",
+      "influence": "差异由生产率、资本积累、制度与技术共同决定；地理（港口可达性、疾病环境）影响但不足以单独解释。",
+      "connections": "与收入分类、贫困、教育、健康指标相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 NY.GDP.PCAP.CD，人均 GDP（现价美元））：全球 NY.GDP.PCAP.CD（2025年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>人均产出空间差异</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 NY.GDP.PCAP.CD</text></svg>"
     },
     {
       "id": "global-themes-x4f5cx7269x5355x4ea7x5deex5f02",
@@ -1012,25 +1054,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "作物单产差异：单位面积作物产量差异与土壤、气候、投入品和管理方式有关，是粮食安全分析的基础。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "单位面积作物产量差异与土壤、气候、投入品和管理方式有关，是粮食安全分析的基础。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "作物单产差异：单位面积谷物产量的空间差别。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "作物单产差异：单位面积谷物产量的空间差别。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x571fx5730x5229x7528x53d8x5316"
       ],
       "sources": [
         "s078-ourworldindata-org",
-        "s014-fao-org"
+        "s014-fao-org",
+        "wb-wld-ag-yld-crel-kg"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 AG.YLD.CREL.KG），实测 AG.YLD.CREL.KG（2023年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "单产高值在温带集约农业区（西欧、北美、东亚部分），低值在撒哈拉以南非洲的部分地区。",
+      "influence": "差异由品种、水肥管理、机械化与市场条件共同决定；单产提升与化肥过量可在同一地区并存。",
+      "connections": "与肥料使用、水资源、农业气候风险相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 AG.YLD.CREL.KG，谷物单产（千克/公顷））：全球 AG.YLD.CREL.KG（2023年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>作物单产差异</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 AG.YLD.CREL.KG</text></svg>"
     },
     {
       "id": "global-themes-x80a5x6599x4f7fx7528x4e0ex73afx5883",
@@ -1039,25 +1088,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "肥料使用与环境：肥料投入提高作物产量，也可能通过径流与氧化亚氮排放影响水土与气候，需结合区域条件评估。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "肥料投入提高作物产量，也可能通过径流与氧化亚氮排放影响水土与气候，需结合区域条件评估。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "肥料使用与环境：化肥施用强度及其对水体的影响。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "肥料使用与环境：化肥施用强度及其对水体的影响。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4f5cx7269x5355x4ea7x5deex5f02"
       ],
       "sources": [
         "s079-ourworldindata-org",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-wld-ag-con-fert-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 AG.CON.FERT.ZS），实测 AG.CON.FERT.ZS（2023年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "施用强度在东亚（尤其中国、越南）与部分南亚最高，撒哈拉以南非洲最低；高强度区集中在集约农业带。",
+      "influence": "过量氮磷通过径流进入河湖与沿海，造成富营养化与缺氧；施用效率比总量更能解释环境后果。",
+      "connections": "与作物单产、水资源、海洋生态系统（缺氧区）相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 AG.CON.FERT.ZS，化肥消费强度（千克/公顷耕地））：全球 AG.CON.FERT.ZS（2023年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>肥料使用与环境</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 AG.CON.FERT.ZS</text></svg>"
     },
     {
       "id": "global-themes-x8089x5976x751fx4ea7x4e0ex571fx5730",
@@ -1066,25 +1122,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "肉奶生产与土地：肉奶生产需要饲料与牧场，土地利用与温室气体排放随生产方式和区域条件变化。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "肉奶生产需要饲料与牧场，土地利用与温室气体排放随生产方式和区域条件变化。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "肉奶生产与土地：畜牧生产对土地资源的占用。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "肉奶生产与土地：畜牧生产对土地资源的占用。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x571fx5730x5229x7528x53d8x5316"
       ],
       "sources": [
         "s080-ourworldindata-org",
-        "s077-ourworldindata-org"
+        "s077-ourworldindata-org",
+        "wb-wld-ag-lnd-agri-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 AG.LND.AGRI.ZS），实测 AG.LND.AGRI.ZS（2023年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "牧草地与饲料地在干旱与半干旱区占比高，南美与非洲有大片牧场；集约化养殖则集中在饲料产区附近。",
+      "influence": "畜牧用地的扩张是森林减少的重要驱动之一；单位产品的土地与排放强度差异极大，取决于饲料与饲养方式。",
+      "connections": "与森林覆盖、碳排放、水资源、营养状况相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 AG.LND.AGRI.ZS，农业用地占土地面积（%））：全球 AG.LND.AGRI.ZS（2023年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>肉奶生产与土地</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 AG.LND.AGRI.ZS</text></svg>"
     },
     {
       "id": "global-themes-x81eax7136x707ex5bb3x98cex9669",
@@ -1120,25 +1183,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "森林面积占比：森林覆盖率反映土地利用与生态状况，其变化与气候、木材需求和政策共同关联。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "森林覆盖率反映土地利用与生态状况，其变化与气候、木材需求和政策共同关联。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "森林面积占比：森林覆盖占土地面积的比例。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "森林面积占比：森林覆盖占土地面积的比例。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x68eex6797x8986x76d6x53d8x5316"
       ],
       "sources": [
         "s036-ourworldindata-org",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-wld-ag-lnd-frst-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 AG.LND.FRST.ZS），实测 AG.LND.FRST.ZS（2023年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "高覆盖率集中于热带雨林（亚马孙、刚果盆地、东南亚）与北方针叶林带；低值出现在干旱带与城市化地区。",
+      "influence": "覆盖率变化由采伐、农业扩张、火灾与人工造林共同决定；净面积变化掩盖了原始林退化的质量下降。",
+      "connections": "与生物多样性、碳汇、水循环、畜牧用地相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 AG.LND.FRST.ZS，森林覆盖率（%））：全球 AG.LND.FRST.ZS（2023年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>森林面积占比</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 AG.LND.FRST.ZS</text></svg>"
     },
     {
       "id": "global-themes-x4ebax53e3x589ex957f",
@@ -1147,25 +1217,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "人口增长：人口增长由出生、死亡与迁移共同决定，地区差异与年龄结构、城市化和政策环境相关。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "人口增长由出生、死亡与迁移共同决定，地区差异与年龄结构、城市化和政策环境相关。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "人口增长：人口总量的年变化率。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "人口增长：人口总量的年变化率。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4ebax53e3x5730x7406"
       ],
       "sources": [
         "s023-ourworldindata-org",
-        "s004-population-un-org"
+        "s004-population-un-org",
+        "wb-wld-sp-pop-grow"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SP.POP.GROW），实测 SP.POP.GROW（2025年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "高增长率集中在撒哈拉以南非洲与部分南亚，负增长出现在部分欧洲与东亚国家；城市增长常快于总人口增长。",
+      "influence": "增长率由生育率、死亡率与净迁移决定；年龄结构惯性使增长趋势难以快速逆转。",
+      "connections": "与城市化、年龄结构、劳动力流动相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SP.POP.GROW，人口年增长率（%））：全球 SP.POP.GROW（2025年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>人口增长</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SP.POP.GROW</text></svg>"
     },
     {
       "id": "global-themes-x57cex5e02x5316x6c34x5e73",
@@ -1174,11 +1251,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "城市化水平：城市人口比例变化反映经济结构、迁移与公共服务供给，不同国家口径可能不同。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "城市人口比例变化反映经济结构、迁移与公共服务供给，不同国家口径可能不同。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "城市化水平：城市人口占总人口的比例。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "城市化水平：城市人口占总人口的比例。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x57cex5e02x5730x7406"
       ],
@@ -1192,16 +1269,22 @@
         "wb-bra-urban",
         "wb-usa-urban",
         "wb-egy-urban",
-        "wb-mex-urban"
+        "wb-mex-urban",
+        "wb-wld-sp-urb-totl-in-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）。 【第19轮补底】新增背景来源 un-m49。 【第19轮补底】新增背景来源 s026-ourworldindata-org 维持 ≥2。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市化水平正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第24轮数据端点】新增 wb-api-country（世界银行国家 API 提供收入分组与区域归属），用于按年份核对数值口径；本条正文未写入具体数值。 【第24轮】来源换为世界银行城市化率指标 API（SP.URB.TOTL.IN.ZS，实测 11638 字节 / 2025 年 66.34%）；此前误挂 wb-api-country（仅国家元数据、不含城市化量）已移除。本条为仅概述、未成段（L1 可接受）。 【第25轮现状数据】today 段已填入世界银行 API 实测值（含指标编号与年份），数据可从 api.worldbank.org 按「国家 ISO3 + 指标编号」复现（见 sources 中的 wb-api-* 端点）；跨国比较的口径差异已在正文注明。 第25轮二次返工：正文已补指标编号；尼日利亚/美国城市化率此前因抓取脚本请求失败而缺失，已补实测值（非指标未返回）。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SP.URB.TOTL.IN.ZS），实测 SP.URB.TOTL.IN.ZS（2025年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22",
-      "today": "来源：世界银行 API。城市人口占比（指标 SP.URB.TOTL.IN.ZS）：中国 66.3%（2025年）、印度 35.7%（2025年）、巴西 88.2%（2025年）、墨西哥 80.0%（2025年）、埃及 42.9%（2025年）、尼日利亚 63.8%（2025年）、美国 80.2%（2025年）。各国统计口径与年份不完全一致，跨国比较需注意定义差异。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。"
+      "last_update": "2026-11-23",
+      "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS，城市人口占比（%））：全球 SP.URB.TOTL.IN.ZS（2025年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "geo": "拉丁美洲与北美城市化率最高，南亚与撒哈拉以南非洲较低但增速快；城市定义口径差异使跨国比较需谨慎。",
+      "influence": "城市化由农村推力与城市拉力共同驱动；比例本身不反映城市治理与生活质量。",
+      "connections": "与城市热岛、城市贫困、人口迁移、土地利用变化相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>城市化水平</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SP.URB.TOTL.IN.ZS</text></svg>"
     },
     {
       "id": "global-themes-x5168x7403x6c14x6e29x53d8x5316",
@@ -1361,24 +1444,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "土壤资源：土壤厚度、养分与水分保持能力影响农业和生态，其分布受母质、气候、地形与土地利用影响。",
-      "time_or_place": "现代调查（年份以来源页面为准）",
-      "overview": "土壤厚度、养分与水分保持能力影响农业和生态，其分布受母质、气候、地形与土地利用影响。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "土壤资源：可耕地与土壤质量的空间分布。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "土壤资源：可耕地与土壤质量的空间分布。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4f5cx7269x5355x4ea7x5deex5f02"
       ],
       "sources": [
         "s083-fao-org",
-        "s018-fao-org"
+        "s018-fao-org",
+        "wb-wld-ag-lnd-arbl-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第20轮】拟按 D055 升级未成立：fao-global-soil-partnership 剥离后 5215 字符，但剔除新闻块与视频列表后实质正文约 2076 字符（<5000 门槛），页面主体为伙伴关系治理而非土壤本体；相应五段（盐渍化/有机质/固碳/保护性耕作/母质/地带性）在该页命中为 0。保持 L1，待土壤本体专题页（≥5000 实质字符）到位后再升级。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第20轮】拟按 D055 升级未成立：fao-global-soil-partnership 剥离后 5215 字符，但剔除新闻块与视频列表后实质正文约 2076 字符（<5000 门槛），页面主体为伙伴关系治理而非土壤本体；相应五段（盐渍化/有机质/固碳/保护性耕作/母质/地带性）在该页命中为 0。保持 L1，待土壤本体专题页（≥5000 实质字符）到位后再升级。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 AG.LND.ARBL.ZS），实测 AG.LND.ARBL.ZS（2023年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "可耕地占比在温带平原（北美、欧洲、南美潘帕斯）较高，在干旱与寒带极低；土壤退化热点集中在干旱区与高强度耕作区。",
+      "influence": "土壤形成受气候、母质、地形与时间控制；侵蚀与盐渍化是主要威胁，恢复周期以十年计。",
+      "connections": "与农业产出、水资源、荒漠化相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 AG.LND.ARBL.ZS，可耕地占土地面积（%））：全球 AG.LND.ARBL.ZS（2023年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>土壤资源</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 AG.LND.ARBL.ZS</text></svg>"
     },
     {
       "id": "global-themes-x6d77x6d0bx751fx6001x7cfbx7edf",
@@ -1387,24 +1477,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "海洋生态系统：海洋生态系统包括沿岸、外海与深海群落，受温度、营养盐、洋流和人类活动共同塑造。",
-      "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "海洋生态系统包括沿岸、外海与深海群落，受温度、营养盐、洋流和人类活动共同塑造。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "海洋生态系统：海洋生物群落与其环境构成的系统。",
+      "time_or_place": "全球口径（2024年数据）",
+      "overview": "海洋生态系统：海洋生物群落与其环境构成的系统。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x6d77x6d0bx4fddx62a4x533a"
       ],
       "sources": [
         "s085-unesco-org",
-        "s050-oceanservice-noaa-gov"
+        "s050-oceanservice-noaa-gov",
+        "wb-wld-er-fsh-prod-mt"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 ER.FSH.PROD.MT），实测 ER.FSH.PROD.MT（2024年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "生产力高的区域集中在上升流区（秘鲁沿岸、西北非）与河口，开阔大洋相对贫瘠；渔业产量集中于少数海域。",
+      "influence": "渔业产量受资源量、捕捞强度与养殖扩张共同影响；总产量上升不必然意味着野生种群健康。",
+      "connections": "与洋流、营养盐输入、海洋保护区、营养状况相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 ER.FSH.PROD.MT，渔业总产量（吨））：全球 ER.FSH.PROD.MT（2024年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>海洋生态系统</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 ER.FSH.PROD.MT</text></svg>"
     },
     {
       "id": "global-themes-x9646x5730x4fddx62a4x533a",
@@ -1413,24 +1510,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第11轮)",
-      "definition": "陆地保护区：为保护生物多样性、生态系统与文化景观而划定的陆地空间，管理成效与社区参与和执法能力相关。",
-      "time_or_place": "现代管理实践（年份以来源页面为准）",
-      "overview": "为保护生物多样性、生态系统与文化景观而划定的陆地空间，管理成效与社区参与和执法能力相关。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "陆地保护区：为保护生物多样性而划定的陆地范围。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "陆地保护区：为保护生物多样性而划定的陆地范围。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x751fx7269x591ax6837x6027x5206x5e03"
       ],
       "sources": [
         "s091-iucn-org",
-        "s070-cbd-int"
+        "s070-cbd-int",
+        "wb-wld-er-lnd-ptld-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 ER.LND.PTLD.ZS），实测 ER.LND.PTLD.ZS（2025年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "保护区覆盖比例在部分拉美与非洲国家较高，小岛国与高纬度地区亦高；覆盖比例不等于管理有效性。",
+      "influence": "划定受政治意愿、土地权属与原住民权益影响；「纸上保护区」的存在使面积指标需与实地评估并用。",
+      "connections": "与生物多样性、森林覆盖、气候适应相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 ER.LND.PTLD.ZS，陆地保护区占国土面积（%））：全球 ER.LND.PTLD.ZS（2025年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>陆地保护区</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 ER.LND.PTLD.ZS</text></svg>"
     },
     {
       "id": "global-themes-x57cex5e02x8d2bx56f0",
@@ -1530,24 +1634,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第12轮)",
-      "definition": "健康地理数据：健康指标按地区分层展示，受人口结构、医疗可及性与环境条件共同影响，数据口径需逐项核对。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "健康指标按地区分层展示，受人口结构、医疗可及性与环境条件共同影响，数据口径需逐项核对。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "健康地理数据：用于刻画健康结果与卫生资源空间分布的数据体系。",
+      "time_or_place": "全球口径（2023年数据）",
+      "overview": "健康地理数据：用于刻画健康结果与卫生资源空间分布的数据体系。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x9884x671fx5bffx547dx7a7ax95f4x5deex5f02"
       ],
       "sources": [
         "s005-who-int",
-        "s006-who-int"
+        "s006-who-int",
+        "wb-wld-sh-xpd-chex-gd-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SH.XPD.CHEX.GD.ZS），实测 SH.XPD.CHEX.GD.ZS（2023年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "卫生支出占 GDP 的比例在高收入国家较高，低收入国家依赖外部援助；同一国内部城乡卫生资源差距常大于国家间差距。",
+      "influence": "支出比例不直接等于健康结果，配置效率与可及性更关键；数据本身的覆盖与口径差异也是「数据地理」的一部分。",
+      "connections": "与预期寿命、儿童发展、营养状况、贫困相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SH.XPD.CHEX.GD.ZS，卫生支出占 GDP（%））：全球 SH.XPD.CHEX.GD.ZS（2023年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>健康地理数据</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SH.XPD.CHEX.GD.ZS</text></svg>"
     },
     {
       "id": "global-themes-x6c14x5019x4e0ex5065x5eb7x98cex9669",
@@ -1582,22 +1693,29 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "农业",
-      "level": "L1",
-      "status": "L1完成(第12轮)",
-      "definition": "全球营养状况：营养不足与过量并存，受粮食供给、收入分配、卫生与教育影响，区域差异显著。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "营养不足与过量并存，受粮食供给、收入分配、卫生与教育影响，区域差异显著。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "全球营养状况：人口营养摄入与发育状况的总体水平。",
+      "time_or_place": "全球口径（2024年数据）",
+      "overview": "全球营养状况：人口营养摄入与发育状况的总体水平。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [],
       "sources": [
         "s020-fao-org",
-        "s005-who-int"
+        "s005-who-int",
+        "wb-wld-sh-sta-maln-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SH.STA.MALN.ZS），实测 SH.STA.MALN.ZS（2024年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "儿童发育迟缓率在南亚与撒哈拉以南非洲最高；营养不足与超重并存，形成「双重负担」。",
+      "influence": "营养状况由食物供给、卫生条件、母亲健康与收入共同决定；仅提高热量供给不能解决微量营养素缺乏。",
+      "connections": "与贫困、健康支出、农业产出、水资源相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SH.STA.MALN.ZS，5 岁以下儿童发育迟缓率（%））：全球 SH.STA.MALN.ZS（2024年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>全球营养状况</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SH.STA.MALN.ZS</text></svg>"
     },
     {
       "id": "global-themes-x6c14x5019x9002x5e94x653fx7b56",
@@ -1734,24 +1852,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "贸易",
-      "level": "L1",
-      "status": "L1完成(第12轮)",
-      "definition": "国家收入分类：国际机构按收入水平对国家分组，用于统计与贷款政策，分组随时间调整，不等同于发展水平评价。",
-      "time_or_place": "现代统计口径（年份以来源页面为准）",
-      "overview": "国际机构按收入水平对国家分组，用于统计与贷款政策，分组随时间调整，不等同于发展水平评价。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "国家收入分类：按人均国民总收入划分的国家组别。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "国家收入分类：按人均国民总收入划分的国家组别。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4ebax5747x4ea7x51fax7a7ax95f4x5deex5f02"
       ],
       "sources": [
         "s069-datahelpdesk-worldbank-org",
-        "s075-aag-org"
+        "s075-aag-org",
+        "wb-wld-ny-gnp-pcap-cd"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 NY.GNP.PCAP.CD），实测 NY.GNP.PCAP.CD（2025年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "高收入组集中于北美、西欧、东亚部分与大洋洲，低收入组集中于撒哈拉以南非洲与部分南亚。",
+      "influence": "分组用于统计与政策门槛，但同一组内差异很大；分类会随汇率与增长变动，不是永久标签。",
+      "connections": "与人均产出、贫困、援助与融资条件相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 NY.GNP.PCAP.CD，人均 GNI（现价美元））：全球 NY.GNP.PCAP.CD（2025年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>国家收入分类</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 NY.GNP.PCAP.CD</text></svg>"
     },
     {
       "id": "global-themes-x739bx96c5x7814x7a76x65b0x8fdbx5c55",
@@ -1786,22 +1911,29 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第13轮)",
-      "definition": "教育机会地域差异：教育可及性与完成率在地区间差异显著，受人口结构、经济条件与公共服务供给影响。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "教育可及性与完成率在地区间差异显著，受人口结构、经济条件与公共服务供给影响。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "教育机会地域差异：入学与受教育机会在地理上的差别。",
+      "time_or_place": "全球口径（2018年数据）",
+      "overview": "教育机会地域差异：入学与受教育机会在地理上的差别。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [],
       "sources": [
         "s008-unesco-org",
-        "s074-unicef-org"
+        "s074-unicef-org",
+        "wb-wld-se-prm-nenr"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SE.PRM.NENR），实测 SE.PRM.NENR（2018年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "小学净入学率的低值集中在撒哈拉以南非洲与冲突地区；同一国内部城乡与性别差异亦显著。",
+      "influence": "差异由学校可及性、师资、家庭收入与语言政策决定；入学率不反映学习质量。",
+      "connections": "与贫困、儿童发展、劳动力流动相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SE.PRM.NENR，小学净入学率（%））：全球 SE.PRM.NENR（2018年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>教育机会地域差异</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SE.PRM.NENR</text></svg>"
     },
     {
       "id": "global-themes-x513fx7ae5x53d1x5c55x5730x57dfx5deex5f02",
@@ -1810,24 +1942,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第13轮)",
-      "definition": "儿童发展地域差异：儿童健康、营养与教育指标具有明显地域差异，与家庭收入、卫生服务与环境条件相关。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "儿童健康、营养与教育指标具有明显地域差异，与家庭收入、卫生服务与环境条件相关。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "儿童发展地域差异：5 岁以下儿童死亡率等指标在地理上的差别。",
+      "time_or_place": "全球口径（2024年数据）",
+      "overview": "儿童发展地域差异：5 岁以下儿童死亡率等指标在地理上的差别。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x5065x5eb7x5730x7406x6570x636e"
       ],
       "sources": [
         "s074-unicef-org",
-        "s005-who-int"
+        "s005-who-int",
+        "wb-wld-sh-dyn-mort"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SH.DYN.MORT），实测 SH.DYN.MORT（2024年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "高值集中在撒哈拉以南非洲与南亚的部分地区，低值在高收入国家；同一国内部城乡差异显著。",
+      "influence": "死亡率由分娩条件、疫苗覆盖、营养与饮水卫生决定；初级卫生系统的可及性比总支出更关键。",
+      "connections": "与营养状况、健康支出、水资源、贫困相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SH.DYN.MORT，5 岁以下儿童死亡率（每千活产））：全球 SH.DYN.MORT（2024年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>儿童发展地域差异</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SH.DYN.MORT</text></svg>"
     },
     {
       "id": "global-themes-x519cx4e1ax6c14x5019x98cex9669",
@@ -1888,24 +2027,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第13轮)",
-      "definition": "全球人口规模：全球人口总量的时序变化由出生、死亡与迁移共同决定，是资源与环境分析的基础变量。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "全球人口总量的时序变化由出生、死亡与迁移共同决定，是资源与环境分析的基础变量。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "全球人口规模：世界人口总量及其变化。",
+      "time_or_place": "全球口径（2025年数据）",
+      "overview": "全球人口规模：世界人口总量及其变化。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x4ebax53e3x589ex957f"
       ],
       "sources": [
         "s032-ourworldindata-org",
-        "s004-population-un-org"
+        "s004-population-un-org",
+        "wb-wld-sp-pop-totl"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SP.POP.TOTL），实测 SP.POP.TOTL（2025年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "人口分布极不均衡：东亚与南亚集中了大部分人口，而大面积干旱与寒带区域人口稀少。",
+      "influence": "总量变化由生育与死亡决定，近年增长主要来自撒哈拉以南非洲；总量指标掩盖了年龄结构与分布的巨大差异。",
+      "connections": "与人口增长、城市化、年龄结构、资源消耗相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SP.POP.TOTL，总人口（人））：全球 SP.POP.TOTL（2025年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>全球人口规模</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 SP.POP.TOTL</text></svg>"
     },
     {
       "id": "global-themes-x5730x7403x7cfbx7edfx79d1x5b66",
@@ -2269,25 +2415,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成(第16轮)",
-      "definition": "水资源供给概览：可再生水资源量与取用水结构是评估水压力的基础，跨流域与跨边界分配是常见议题。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "可再生水资源量与取用水结构是评估水压力的基础，跨流域与跨边界分配是常见议题。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-世界银行指标",
+      "definition": "水资源供给概览：可利用淡水的总量与取用强度。",
+      "time_or_place": "全球口径（2022年数据）",
+      "overview": "水资源供给概览：可利用淡水的总量与取用强度。 本条以世界银行全球口径指标为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x6c34x8d44x6e90x7ba1x7406"
       ],
       "sources": [
         "s017-fao-org",
-        "s013-fao-org"
+        "s013-fao-org",
+        "wb-wld-er-h2o-fwtl-zs"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 本条实际维度为水文/水资源，theme 因枚举限制标为「地形」。",
+      "pending_notes": "B6 未使用来源补入；具体年份、口径与数值需按来源页面逐条核验。 来源分级：首条为专题/主题页，次条为机构或数据入口页（部分为应用壳页，仅作入口）。theme 受现有枚举限制，实际维度见 region/主题注释。 本条实际维度为水文/水资源，theme 因枚举限制标为「地形」。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 ER.H2O.FWTL.ZS），实测 ER.H2O.FWTL.ZS（2022年）；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "FAO Water overview",
         "FAO AQUASTAT"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "取用强度高的地区集中在干旱与半干旱的灌溉区（中亚、西亚、南亚部分），低值在湿润热带。",
+      "influence": "取用强度是粗略的水压力指标；流域内与季节间的紧张程度常远高于全球平均，地下水的超采难以从该比例看出。",
+      "connections": "与灌溉农业、能源（冷却与水电）、城市化相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 ER.H2O.FWTL.ZS，年度淡水取用占内部可再生资源（%））：全球 ER.H2O.FWTL.ZS（2022年）。该值为全球合计或均值，掩盖国家与区域间的巨大差异，跨国比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><rect x='90' y='120' width='120' height='180' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='250' y='160' width='120' height='140' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='410' y='200' width='120' height='100' fill='none' stroke='var(--accent2)' stroke-width='3'/><rect x='570' y='235' width='120' height='65' fill='none' stroke='var(--accent2)' stroke-width='3'/><text x='90' y='112' class='lbl'>水资源供给概览</text><text x='90' y='340' class='dim'>分区示意（非按实际数值），全球口径 ER.H2O.FWTL.ZS</text></svg>"
     }
   ]
 }
