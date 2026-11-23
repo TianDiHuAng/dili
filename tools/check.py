@@ -35,6 +35,7 @@ def load_json(path):
 
 def main():
     src_doc = load_json(os.path.join(DATA, "sources.json"))
+    src_by_id = {s["id"]: s for s in src_doc.get("sources", [])}
     sources = {s["id"]: s for s in src_doc["sources"]}
     cov = load_json(os.path.join(DATA, "coverage.json"))
     cov_by_id = {e["id"]: e for e in cov["entries"]}
@@ -111,6 +112,7 @@ def main():
                 if e.get("svg"):
                     check_svg(eid, e["svg"])
             check_no_markdown(e)
+            check_orphan_citation(e, src_by_id)
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)
@@ -184,6 +186,27 @@ def check_no_markdown(e):
         if isinstance(v, str) and "**" in v:
             err(f"R17 {e['id']}: 字段 {f} 含 markdown 星号（渲染会原样显示）")
             break
+
+
+ORPHAN_FIELDS = ("definition", "overview", "geo", "influence", "polities",
+                 "connections", "today", "time_or_place")
+
+def check_orphan_citation(e, sources):
+    """R18：正文「所引YYYY年」须在本条 sources 中有对应年份，否则为孤儿引文。"""
+    ys = set()
+    for sid in e.get("sources", []):
+        s = sources.get(sid) or {}
+        if s.get("year"):
+            ys.add(str(s["year"]))
+        m = re.search(r"(\d{4})\s*年", s.get("note") or "")
+        if m:
+            ys.add(m.group(1))
+    for f in ORPHAN_FIELDS:
+        v = e.get(f) or ""
+        for m in re.finditer(r"所引\s*(\d{4})\s*年", v):
+            if m.group(1) not in ys:
+                err(f"R18 {e['id']}: 字段 {f} 引用 {m.group(1)} 年来源，但本条 sources 无该年份")
+                return
 
 
 def check_today_has_value(e):

@@ -1,0 +1,12 @@
+{
+  "round": 45,
+  "orphans_found": 1,
+  "orphans": [
+    [
+      "罗马共和国",
+      "polities",
+      "2015"
+    ]
+  ],
+  "note": "扫描全部正文段的「所引YYYY年」，与 sources 的 year/note 年份比对；不符者视为孤儿引文并删句"
+}

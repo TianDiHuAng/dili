@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 44,
+  "last_round": 45,
   "history": [
     {
       "round": 1,
@@ -540,6 +540,18 @@
       "gaps_found": 241,
       "note": "0源 52→0；≥2源 24→29",
       "result": "证据质量推进"
+    },
+    {
+      "round": 45,
+      "methods_used": [
+        "B1 按 D100 顺序（先断言后文献）",
+        "双关键词组匹配",
+        "偏题剔除3条",
+        "台账"
+      ],
+      "gaps_found": 285,
+      "note": "别名页only 49→44；≥2源 29",
+      "result": "证据质量推进"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -564,9 +576,9 @@
   "all_l2": true,
   "multi_source_entries": 143,
   "evidence": {
-    "alias_only": 49,
-    "one_source": 165,
+    "alias_only": 44,
+    "one_source": 170,
     "two_plus": 29,
-    "definition": "实测口径（D098）：按来源 note 记录的正文字节判定；机构首页与指标端点不计；livius stub 不计"
+    "definition": "D099 四分类，实测口径（读 note 记录的正文字符数）"
   }
 }
