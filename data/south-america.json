@@ -146,16 +146,17 @@
         "wb-arg-pop",
         "wb-ury-pop",
         "wb-arg-urban",
-        "wb-ury-urban"
+        "wb-ury-urban",
+        "openalex-W7150774676"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "拉普拉塔平原包括潘帕斯草原，地势平坦、土壤肥沃，温带气候适宜牧草与谷物。巴拉那河与乌拉圭河构成水系骨架。",
       "influence": "黑土与温和气候有利于农牧业，铁路与港口把内陆产品运往国际市场。出口繁荣依赖全球市场与制度安排，不能只由土壤解释。",
       "polities": "土地制度与港口城市深刻影响区域政治经济；具体政策、年代与政权变动待专门史料核验。",
@@ -223,16 +224,17 @@
         "un-m49",
         "ap-human-geo",
         "wb-chl-pop",
-        "wb-chl-urban"
+        "wb-chl-urban",
+        "openalex-W2087066966"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·阿塔卡马沙漠】本条正则 atacama（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「阿塔卡马沙漠」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 智利，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·阿塔卡马沙漠】本条正则 atacama（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「阿塔卡马沙漠」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 智利，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（partial）】openalex-W2087066966（2006年，《Endolithic Cyanobacteria in Halite Rocks from the Hyperarid Core of th》，Astrobiology，DOI 10.1089/ast.2006.6.415，被引 346）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "阿塔卡马位于南美西岸，受寒流与安第斯雨影影响，极端干旱。海岸雾、盐沼与火山地貌并存，矿产丰富。",
       "influence": "缺水限制农业与聚落，沿海与谷地依靠雾水和引水形成局部宜居区。矿业发展改变人口分布，但依赖全球需求与技术。",
       "polities": "从谷地社会到现代矿业经济，资源治理长期是核心议题；具体制度与年代待专门史料核验。",
@@ -448,10 +450,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2332228214",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W1977311725"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2332228214（1991年，「The Technology and Organization of Agricultural Production in th」，DOI https://doi.org/10.2307/972273，Latin American Antiquity）； 年代以「约公元500–1000年（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2332228214（1991年，「The Technology and Organization of Agricultural Production in th」，DOI https://doi.org/10.2307/972273，Latin American Antiquity）； 年代以「约公元500–1000年（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W1977311725（2006年，《The changing ‘nature’ of Tiwanaku religion and the rise of an Andean s》，World Archaeology，DOI 10.1080/00438240600813541，被引 45）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -525,16 +528,17 @@
         "ap-human-geo",
         "wb-per-pop",
         "wb-per-urban",
-        "wb-per-life"
+        "wb-per-life",
+        "openalex-W2504408383"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·印加帝国】本条正则 inca|andean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「印加帝国」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为印加帝国主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 秘鲁，D068 已核对国家—区域匹配；单位人、%、岁）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·印加帝国】本条正则 inca|andean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「印加帝国」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为印加帝国主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 秘鲁，D068 已核对国家—区域匹配；单位人、%、岁）。 【第42轮第二来源（strong）】openalex-W2504408383（2009年，《The Role of Chicha in Inca State Expansion》，University Press of Florida eBooks，DOI 10.5744/florida/9780813033068.003.0005，被引 50）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "印加帝国以安第斯高原与海岸谷地为腹地，山地、高原与沙漠海岸并存。道路跨越海拔落差巨大的地形，驿站与梯田是重要基础设施。",
       "influence": "国家通过道路、仓储与劳役制度组织资源，垂直农业降低气候风险。地理条件提供约束与机会，但帝国形成仍取决于政治选择与制度能力。",
       "polities": "帝国依托高原道路与梯田组织资源，其后因内部冲突与外来征服而解体；具体年代、君主序列与战役待专门史料核验。",
@@ -563,10 +567,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W387878121",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W1695660266"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W387878121（2004年，《Machu Picchu : unveiling the mystery of the Incas》，DOI 无，Yale University Press eBooks）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「15世纪（印加时期；本条引 2004 年专论）」表述并注明学界有不同版本。 【第35轮返工】删除「海拔约2400米」的具体数值——所引文献摘要未给该数字，已标待核。",
+      "pending_notes": "第15轮复核：南美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但按 D041 须补含主题关键词的专题页，地貌形成年代与关键地形节点的专题来源 仍待补。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W387878121（2004年，《Machu Picchu : unveiling the mystery of the Incas》，DOI 无，Yale University Press eBooks）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「15世纪（印加时期；本条引 2004 年专论）」表述并注明学界有不同版本。 【第35轮返工】删除「海拔约2400米」的具体数值——所引文献摘要未给该数字，已标待核。 【第42轮第二来源（partial）】openalex-W1695660266（2014年，《Machu Picchu: Portento de la arquitectura inca》，LEX - REVISTA DE LA FACULTAD DE DERECHO Y CIENCIAS POLÍTICAS，DOI 10.21503/lex.v12i13.48，被引 6）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -676,10 +681,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W565333537",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W7118956095"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s011-unesco-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W565333537（2024年，《Society and Government in Colonial Brazil, 1500-1822》，DOI https://doi.org/10.4324/9781003554967）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「1500–1822年（本条引 2024 年殖民巴西社会与政府研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第16轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s011-unesco-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W565333537（2024年，《Society and Government in Colonial Brazil, 1500-1822》，DOI https://doi.org/10.4324/9781003554967）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「1500–1822年（本条引 2024 年殖民巴西社会与政府研究）」表述并注明学界有不同版本。 【第42轮第二来源（strong）】openalex-W7118956095（2026年，《The coffee economy in Imperial Brazil (c. 1800–c. 1850)》，Routledge eBooks，DOI 10.4324/9781003500919-12，被引 0）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

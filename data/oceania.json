@@ -27,16 +27,17 @@
         "ap-human-geo",
         "wb-aus-pop",
         "wb-aus-urban",
-        "wb-aus-forest"
+        "wb-aus-forest",
+        "openalex-W2010976353"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·澳大利亚大陆】正则 australia；britannica-regions(200/正文137675字符/命中14)；wikipedia-regions(200/正文5字符/命中0)。 D055 判定：达标（可升级候选）；两源均非「澳大利亚大陆」专题页时维持 L1。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第29轮返工】来源端点由共享 wb-api-*（固定 CHN/WLD）替换为国别专用端点（D072），today 补写代表国名。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·澳大利亚大陆】正则 australia；britannica-regions(200/正文137675字符/命中14)；wikipedia-regions(200/正文5字符/命中0)。 D055 判定：达标（可升级候选）；两源均非「澳大利亚大陆」专题页时维持 L1。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第29轮返工】来源端点由共享 wb-api-*（固定 CHN/WLD）替换为国别专用端点（D072），today 补写代表国名。 【第42轮第二来源（partial）】openalex-W2010976353（2007年，《New constraints on the seismic structure of West Australia: Evidence f》，Geology，DOI 10.1130/g23341a.1，被引 47）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "澳大利亚大陆东部为大分水岭，中部干旱盆地广布，沿海降水较多而内陆稀少。河流多为季节性，地下水与干旱适应是关键。",
       "influence": "降水分布限制农业与城市扩张，人口集中在海岸与少数河谷。内陆开发依赖地下水与牧业技术，环境约束长期存在，但并非唯一解释。",
       "polities": "原住民社会长期适应多样生态，外来统治后形成新的政治与经济结构；具体年代与政策待专门史料核验。",
@@ -68,15 +69,16 @@
         "ap-human-geo",
         "wb-aus-pop",
         "wb-aus-urban",
-        "wb-aus-forest"
+        "wb-aus-forest",
+        "openalex-W2159370596"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「约古生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大分水岭】本条正则 divide。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大分水岭」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大分水岭主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 澳大利亚，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「约古生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大分水岭】本条正则 divide。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大分水岭」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大分水岭主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 澳大利亚，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（partial）】openalex-W2159370596（2004年，《Phylogeography recapitulates topography: very fine‐scale local endemis》，Molecular Ecology，DOI 10.1111/j.1365-294x.2004.02340.x，被引 108）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "大分水岭沿澳大利亚东岸延伸，山地与丘陵分隔沿海湿润区和内陆干旱区。河流向东或向西流，降水差异显著。",
       "influence": "山脉造成雨影效应，影响农业与城市分布；跨山调水与交通工程改变区域发展条件。地理约束重要但可被技术部分缓解。",
       "polities": "内陆开拓与水资源政策同山地分水岭条件相关；具体年代与制度待专门史料核验。",
@@ -106,10 +108,11 @@
         "wikipedia-regions",
         "ap-human-geo",
         "openalex-W1969120728",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W58011430"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -145,16 +148,17 @@
         "un-m49",
         "ap-human-geo",
         "wb-aus-pop",
-        "wb-aus-urban"
+        "wb-aus-urban",
+        "openalex-W2273406395"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：区域类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第27轮实证复核·澳大利亚原住民】本条正则 aboriginal（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「澳大利亚原住民」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 澳大利亚，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：区域类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第27轮实证复核·澳大利亚原住民】本条正则 aboriginal（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「澳大利亚原住民」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 澳大利亚，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W2273406395（1983年，《AUSTRALIAN ACADEMIC ARCHAEOLOGY: Aboriginal transformation of its aims》，Australian Archaeology，DOI 10.1080/03122417.1983.12092877，被引 51）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "原住民社会分布于海岸、沙漠、雨林与草原等多种生态区，水源与季节变化决定迁徙与聚落形态。不同区域形成差异化的语言与资源利用方式。",
       "influence": "长期适应干旱与多样环境形成丰富的生态知识与社会制度。把生计方式简单归于环境会忽略文化选择、交换网络与历史互动。",
       "polities": "以族群与亲属组织为主的社会结构长期存在，外来统治后经历剧烈变迁与权利运动；具体年代与政策待专门史料核验。",
@@ -183,10 +187,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2051173656",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2075518532"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2051173656（1996年，《Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments》，DOI https://doi.org/10.1130/0016-7606(1996)108<0915:etmpto>2.3.co;2，Geological Society of America Bulletin）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1996 年火山灰年代学研究）」表述并注明学界有不同版本。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2051173656（1996年，《Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments》，DOI https://doi.org/10.1130/0016-7606(1996)108<0915:etmpto>2.3.co;2，Geological Society of America Bulletin）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1996 年火山灰年代学研究）」表述并注明学界有不同版本。 【第42轮第二来源（strong）】openalex-W2075518532（1970年，《Gravity, seismicity, and tectonics of the North Island, New Zealand》，New Zealand Journal of Geology and Geophysics，DOI 10.1080/00288306.1970.10428209，被引 57）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -220,10 +225,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2041276447",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2004355322"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2041276447（1983年，「Origin of the Torlesse terrane and coeval rocks, South Island,」，DOI https://doi.org/10.1130/0016-7606(1983)94<967:oottta>2.0.co;2）；年代以「地质尺度（新生代以来）；本条引 1983 年地体研究」表述，未编造精确年份。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2041276447（1983年，「Origin of the Torlesse terrane and coeval rocks, South Island,」，DOI https://doi.org/10.1130/0016-7606(1983)94<967:oottta>2.0.co;2）；年代以「地质尺度（新生代以来）；本条引 1983 年地体研究」表述，未编造精确年份。 【第42轮第二来源（partial）】openalex-W2004355322（1982年，《Naturalised plants in south‐west South Island, New Zealand》，New Zealand Journal of Botany，DOI 10.1080/0028825x.1982.10428834，被引 30）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -259,15 +265,16 @@
         "ap-human-geo",
         "wb-nzl-pop",
         "wb-nzl-urban",
-        "wb-nzl-life"
+        "wb-nzl-life",
+        "openalex-W4385601321"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·毛利人】本条正则 maori（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「毛利人」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 新西兰，D068 已核对国家—区域匹配；单位人、%、岁）。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·毛利人】本条正则 maori（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「毛利人」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 新西兰，D068 已核对国家—区域匹配；单位人、%、岁）。 【第42轮第二来源（partial）】openalex-W4385601321（2016年，《New Treaty, New Tradition: Reconciling New Zealand and Maori Law》，University of British Columbia Press eBooks，DOI 10.59962/9780774831703，被引 153）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "毛利人主要居住在新西兰，北岛火山与地热区、南岛高山与冰川塑造不同生计方式。海岸与河流提供渔业与交通资源。",
       "influence": "波利尼西亚航海传统与当地资源适应形成部落社会，契约与王国组织在欧洲接触后发展。社会变迁不能仅由岛屿环境解释。",
       "polities": "部落与王国组织在岛屿条件下发展，现代政治中族群拥有法定代表与权利机制；具体年代与制度待专门史料核验。",
@@ -372,16 +379,17 @@
         "un-m49",
         "ap-human-geo",
         "wb-fji-pop",
-        "wb-fji-urban"
+        "wb-fji-urban",
+        "openalex-W1973139594"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第27轮实证复核·波利尼西亚】本条正则 polynesia（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中11；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标——britannica-regions 实为 UNSD M49 国码表（别名，非「波利尼西亚」专题正文），命中来自列表项，不构成专题支撑。 【第28轮现状数据】today 填世界银行实测（代表国 斐济，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第27轮实证复核·波利尼西亚】本条正则 polynesia（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中11；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标——britannica-regions 实为 UNSD M49 国码表（别名，非「波利尼西亚」专题正文），命中来自列表项，不构成专题支撑。 【第28轮现状数据】today 填世界银行实测（代表国 斐济，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W1973139594（1977年，《Voyaging Canoes and the Settlement of Polynesia》，Science，DOI 10.1126/science.196.4296.1277，被引 93）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "波利尼西亚由太平洋中南部众多火山岛与珊瑚岛组成，岛屿分散、面积小，海洋是主要交通空间。信风与洋流影响航行与定居。",
       "influence": "长距离航海技术使岛屿殖民成为可能，资源有限促成交换与仪式性再分配。海洋环境提供连通性也带来隔离，社会差异不能仅由岛屿大小解释。",
       "polities": "岛屿条件促成远洋定居与酋邦组织，与外部世界接触后政治与人口结构显著变化；具体年代与岛群差异待专门史料核验。",
@@ -410,10 +418,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2099199436",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2044118874"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约500万年前至今」无专门来源支撑，已收敛为待核表述。 【第23轮实证复核】实测：britannica-regions 实为 UNSD M49 方法论页（200 / 剥离后 137675 字符 / hawaii|island 命中 29，属区域统计口径而非专题）；wikipedia-regions 实为 UN SDG 数据门户（200 / 5 字符 JS 壳页 / 命中 0）。D053：第二源为壳别名，不构成独立依据；两源均非「夏威夷」专题页，故缺口为「太平洋岛屿专题页（D055 档①或②）」。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中29；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·夏威夷群岛】本条正则 hawaii。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「夏威夷群岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为夏威夷群岛主题专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2099199436（1963年，「A POSSIBLE ORIGIN OF THE HAWAIIAN ISLANDS」，DOI https://doi.org/10.1139/p63-094）；年代以「地质尺度；本条引 1963 年关于群岛成因的研究」表述，未编造精确年份。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约500万年前至今」无专门来源支撑，已收敛为待核表述。 【第23轮实证复核】实测：britannica-regions 实为 UNSD M49 方法论页（200 / 剥离后 137675 字符 / hawaii|island 命中 29，属区域统计口径而非专题）；wikipedia-regions 实为 UN SDG 数据门户（200 / 5 字符 JS 壳页 / 命中 0）。D053：第二源为壳别名，不构成独立依据；两源均非「夏威夷」专题页，故缺口为「太平洋岛屿专题页（D055 档①或②）」。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中29；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·夏威夷群岛】本条正则 hawaii。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「夏威夷群岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为夏威夷群岛主题专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2099199436（1963年，「A POSSIBLE ORIGIN OF THE HAWAIIAN ISLANDS」，DOI https://doi.org/10.1139/p63-094）；年代以「地质尺度；本条引 1963 年关于群岛成因的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2044118874（1953年，《Hawaiian Swell, Deep, and Arch, and Subsidence of the Hawaiian Islands》，The Journal of Geology，DOI 10.1086/626059，被引 135）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

@@ -27,16 +27,17 @@
         "ap-human-geo",
         "wb-irq-pop",
         "wb-irq-urban",
-        "wb-irq-agri"
+        "wb-irq-agri",
+        "openalex-W1982150356"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·两河流域】本条正则 mesopotamia|tigris|euphrates。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「两河流域」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为两河流域主题专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·两河流域】本条正则 mesopotamia|tigris|euphrates。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「两河流域」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为两河流域主题专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W1982150356（1960年，《Ecological Effects of Irrigation in Ancient Mesopotamia》，Iraq，DOI 10.2307/4199684，被引 59）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "两河流域位于幼发拉底河与底格里斯河之间，冲积平原地势低平，灌溉条件好但排水不良与盐渍化风险高。气候干旱，农业依赖引水与季节性洪水管理。",
       "influence": "灌溉农业支撑城市与人口密集，渠网维护推动协作与行政组织；但土壤盐渍化与水量变化也可能削弱政权稳定。学界对灌溉与国家形成的关系仍有争论，地理条件是重要变量而非唯一原因。",
       "polities": "冲积平原的水利与城市条件支撑早期政治组织，区域在多个时期被不同政权整合；具体王朝序列与年代待专门史料核验。",
@@ -66,15 +67,16 @@
         "s013-fao-org",
         "s010-unesco-org",
         "wb-irq-pop",
-        "wb-irq-urban"
+        "wb-irq-urban",
+        "openalex-W150669647"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。 档位判定：本条标题为「苏美尔城邦」，正则 sumer 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·苏美尔城邦】本条正则 sumer；livius-mesopotamia=200/正文3628字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文3628字符；档①门槛5000/档②③8000）；缺口为「苏美尔城邦」主题专题页。 档位判定：本条标题为「苏美尔城邦」，正则 sumer 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：伊拉克），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W150669647（2013年，《Sumerian Agriculture and Land Management》，Routledge eBooks，DOI 10.4324/9780203096604-12，被引 39）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "冲积平原地势低平，幼发拉底河与底格里斯河提供灌溉水源。排水不良与盐渍化风险长期存在，聚落多沿河道与渠道分布。",
       "influence": "灌溉与城市管理相互关联，渠网维护需要协作；但城邦制度并非环境的必然结果，贸易、战争和宗教同样重要。",
       "polities": "Livius 的 Mesopotamia 专题页提供区域与政权入口，可用于后续核对城邦名单与年代；本站此处仅作骨架式描述。",
@@ -703,15 +705,16 @@
       ],
       "sources": [
         "wikidata-q35216",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4206323479"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1046年–前256年）来自 Wikidata wikidata-q35216 的属性值；引文照录实体描述：「dynasty of Ancient Chinese kings lasting from c. 1046 to 256 BC」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1046年–前256年）来自 Wikidata wikidata-q35216 的属性值；引文照录实体描述：「dynasty of Ancient Chinese kings lasting from c. 1046 to 256 BC」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第42轮第二来源（strong）】openalex-W4206323479（2021年，《Hierarchical, Ethnic, and Provenance Features of Western Zhou Period P》，Asian perspectives，DOI 10.1353/asi.2021.0006，被引 5）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "核心区在关中盆地与黄河中游，渭河谷地提供农业与防御条件；东向的华北平原则是封建诸侯的主要分布区。",
       "influence": "分封与宗法把亲属与功臣安置于要冲，地理距离与交通条件影响控制强度；制度设计是政治整合的主要机制，地理提供成本约束。",
       "polities": "据 Wikidata 记录，前1046年–前256年。P571 存在多个值（-1046 preferred、-1027、-1100 精度=世纪）；本条取 preferred rank 的 1046，与描述「c. 1046 to 256 BC」一致。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
@@ -856,16 +859,17 @@
         "s014-fao-org",
         "wb-chn-pop",
         "wb-chn-urban",
-        "wb-chn-agri"
+        "wb-chn-agri",
+        "openalex-W4361197788"
       ],
       "needs_verification": true,
-      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但逐词核对为噪声：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条不构成实证复核、不判达标。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。",
+      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但逐词核对为噪声：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条不构成实证复核、不判达标。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。 【第42轮第二来源（strong）】openalex-W4361197788（2023年，《Deeper Structures of Song Governance》，Cambridge University Press eBooks，DOI 10.1017/9781009235624.013，被引 0）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "宋代经济重心南移，江南水网、丘陵与海岸共同塑造农业与贸易。东南沿海港口为海外交通提供条件。",
       "influence": "稻作、水利与城市商业相互支撑，海外贸易扩大商品来源。经济繁荣不能仅由自然条件解释，技术与制度同样关键。",
       "polities": "该时期政治中心与北方政权的互动影响疆域与财政结构；具体年代、战役与制度细节待专门史料核验。",
@@ -1320,10 +1324,11 @@
         "wb-kaz-urban",
         "wb-uzb-pop",
         "wb-uzb-urban",
-        "openalex-W1520501027"
+        "openalex-W1520501027",
+        "openalex-W4249333639"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·丝绸之路】本条正则 silk road|trade route。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「丝绸之路」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为丝绸之路主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W1520501027（2004年，「The Silk Road--Trade, Travel, War and Faith」，DOI 无）；其摘要含 Silk Road、trade，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·丝绸之路】本条正则 silk road|trade route。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「丝绸之路」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为丝绸之路主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W1520501027（2004年，「The Silk Road--Trade, Travel, War and Faith」，DOI 无）；其摘要含 Silk Road、trade，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第42轮第二来源（strong）】openalex-W4249333639（2008年，《Trade and Contemporary Society along the Silk Road》，Routledge eBooks，DOI 10.4324/9780203273692，被引 20）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1508,16 +1513,17 @@
         "s038-earthobservatory-nasa-gov",
         "s013-fao-org",
         "wb-chn-pop",
-        "wb-chn-urban"
+        "wb-chn-urban",
+        "openalex-W1997020239"
       ],
       "needs_verification": true,
-      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。 档位判定：本条标题为「青藏高原」，正则 tibet|plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 中国，D068 已核对国家—区域匹配；单位人、%）。",
+      "pending_notes": "第5轮升级：来源为 FAO/NASA/NOAA/USGS/OWID/UNESCO 等机构页，支撑自然地理与区域背景；历史序列与现状数值待专门来源核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第26轮实证复核·青藏高原】本条正则 tibet|plateau；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文7143字符；档①门槛5000/档②③8000）；缺口为「青藏高原」主题专题页。 档位判定：本条标题为「青藏高原」，正则 tibet|plateau 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第28轮现状数据】today 填世界银行实测（代表国 中国，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W1997020239（1985年，《Uplift of Tibetan Plateau》，Tectonics，DOI 10.1029/tc004i004p00359，被引 197）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "高原平均海拔极高，边缘由山脉围限，内部包含盆地、湖泊与宽谷。高寒气候、冻土与强烈日照并存；冰川和河流源区是其重要自然特征。",
       "influence": "高海拔与寒冷限制农业和交通，河谷与低海拔地带更适合聚落。高原对亚洲水系与气候具有重要影响，但人类活动的结果取决于技术、制度与交流，不是环境单因决定。",
       "polities": "历史上高原与周边地区存在长期互动，形成多样的地方政权与宗教文化网络；具体年代与政权序列待专门来源核验。",

@@ -99,16 +99,17 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "openalex-W1985690680"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】「本站不写未核验数值」编辑口径已移入本备注，正文不再出现编辑自述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·季风系统】本条正则 monsoon。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「季风系统」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为季风系统主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】「本站不写未核验数值」编辑口径已移入本备注，正文不再出现编辑自述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·季风系统】本条正则 monsoon。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「季风系统」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为季风系统主题专题页。 【第42轮第二来源（partial）】openalex-W1985690680（1978年，《Mid-Tropospheric Cyclones of the Summer Monsoon》，Birkhäuser Basel eBooks，DOI 10.1007/978-3-0348-5759-8_15，被引 17）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "季风由海陆热力差异与行星风带季节移动共同形成，表现为风向季节性反转。亚洲、非洲与澳大利亚季风区降水高度季节化。",
       "influence": "季风决定稻作与旱作区的播种节奏，也影响洪涝与干旱风险。学界对季风变化机制有多种解释，不能简单归因于单一因素。",
       "polities": "季风区农业依赖粮食收成与水管理，但季风与国家形成之间不存在必然对应；具体案例与年代待专门来源核验。",
@@ -177,16 +178,17 @@
         "wikipedia-regions",
         "un-m49",
         "ap-human-geo",
-        "wb-wld-arable"
+        "wb-wld-arable",
+        "openalex-W3124273658"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·气候带】本条正则 climate zone。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「气候带」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为气候带主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。 【第30轮返工】删除「温带与热带季风区占比高、干旱与寒带极低」等分布断言——该结论不来自所引指标（AG.LND.ARBL.ZS 仅给全球总量）。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·气候带】本条正则 climate zone。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「气候带」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为气候带主题专题页。 【第30轮现状数据】today 填入世界银行实测值（国别或全球口径，含年份与指标编号；已声明指标局限）。 【第30轮返工】删除「温带与热带季风区占比高、干旱与寒带极低」等分布断言——该结论不来自所引指标（AG.LND.ARBL.ZS 仅给全球总量）。 【第42轮第二来源（strong）】openalex-W3124273658（2021年，《Observed and projected changes in global climate zones based on Köppen》，Wiley Interdisciplinary Reviews Climate Change，DOI 10.1002/wcc.701，被引 224）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "气候带按纬度、热量与降水划分，从赤道到极地呈大致带状分布，但海陆分布与地形会造成偏离。",
       "influence": "气候带帮助理解农业、植被与聚落差异，是地理分析的基础框架。分类是简化工具，边界并非绝对，不能当作硬边界。",
       "polities": "不同气候区的资源利用方式各异，制度与历史同样塑造区域差异；具体分类体系待专门来源核验。",
@@ -253,16 +255,17 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "ap-human-geo"
+        "ap-human-geo",
+        "openalex-W4250626851"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世」无专门来源支撑，已收敛为待核表述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·河流三角洲】本条正则 delta。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「河流三角洲」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为河流三角洲主题专题页。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世」无专门来源支撑，已收敛为待核表述。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中0；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·河流三角洲】本条正则 delta。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「河流三角洲」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为河流三角洲主题专题页。 【第42轮第二来源（core）】openalex-W4250626851（2016年，《Sources and formation of non-refractory submicron aerosols in the Pear》，None，DOI 10.14711/thesis-b1749879，被引 0）：该文献仅与本条某一概念相关，作背景登记，不作事实断言依据。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "三角洲位于河流入海处，由泥沙沉积形成分流河道、湿地与低平原。地势低平、土壤肥沃，但易受洪水与海平面上升影响。",
       "influence": "三角洲农业与港口条件支持人口密集和城市发展；泥沙减少与地面沉降会放大风险。地理条件提供机会，也带来脆弱性，结果取决于治理方式。",
       "polities": "三角洲的水利与港口条件支撑人口与城市发展，管理长期是公共事务；具体案例与年代待专门来源核验。",

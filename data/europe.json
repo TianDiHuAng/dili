@@ -27,16 +27,17 @@
         "ap-human-geo",
         "wb-grc-pop",
         "wb-grc-urban",
-        "wb-grc-life"
+        "wb-grc-life",
+        "openalex-W2209715977"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·爱琴海世界】本条正则 aegean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「爱琴海世界」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为爱琴海世界主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·爱琴海世界】本条正则 aegean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「爱琴海世界」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为爱琴海世界主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W2209715977（1996年，《MULTIPLE LEVELS IN THE AEGEAN BRONZE AGE WORLD-SYSTEM》，Journal of World-Systems Research，DOI 10.5195/jwsr.1996.93，被引 42）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "爱琴海岛屿密布、海岸曲折，山地分割出众多小盆地与港湾。地中海气候带来冬季降雨与夏季干旱，适合橄榄、葡萄与谷物混合农业。",
       "influence": "海洋交通降低了远距离交流成本，山地与海湾则促成城邦分立与海上贸易并存。地理条件有利于航海与交换，但是否直接导致民主制度，学界并无共识。",
       "polities": "岛屿与海湾条件促成海上贸易与城邦分立，区域后被更大政治体整合；具体文明阶段与年代待专门史料核验。",
@@ -67,15 +68,16 @@
         "un-m49",
         "ap-human-geo",
         "wb-grc-pop",
-        "wb-grc-urban"
+        "wb-grc-urban",
+        "openalex-W576397603"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·克里特文明】本条正则 crete|minoan。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「克里特文明」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为克里特文明主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·克里特文明】本条正则 crete|minoan。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「克里特文明」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为克里特文明主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W576397603（2005年，《Minoan Glyptic: Typology, Deposits and Iconography: From the Early Min》，University of Michigan Press eBooks，DOI 10.30861/9781841717258，被引 10）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "克里特岛位于爱琴海南部，山地与海岸交错，港湾利于航海。地中海气候支持橄榄、葡萄与谷物混合农业。",
       "influence": "海上贸易与宫殿再分配体系相互支撑，岛屿位置降低远距离交流成本。宫殿经济的具体运作仍有讨论，不宜写成定论。",
       "polities": "岛屿的港湾与农业条件支撑宫殿中心与海上交换，其后区域文化重心转移；具体年代与政治形态待专门史料核验。",
@@ -260,16 +262,17 @@
         "ap-human-geo",
         "wb-ita-pop",
         "wb-ita-urban",
-        "wb-ita-life"
+        "wb-ita-life",
+        "openalex-W378444792"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·罗马帝国】本条正则 roman empire。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「罗马帝国」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为罗马帝国主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 意大利，D068 已核对国家—区域匹配；单位人、%、岁）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·罗马帝国】本条正则 roman empire。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「罗马帝国」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为罗马帝国主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 意大利，D068 已核对国家—区域匹配；单位人、%、岁）。 【第42轮第二来源（strong）】openalex-W378444792（2012年，《Travel and Geography in the Roman Empire》，Routledge eBooks，DOI 10.4324/9780203995594，被引 293）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "罗马帝国环绕地中海，把平原、山地、河谷与海岸整合为交通网络。地中海航运与陆上道路共同降低粮食与军队运输成本。",
       "influence": "统一市场、道路和法律促进城市与贸易发展，尼罗河与北非粮食供应支撑庞大城市人口。帝国兴衰不能单由地理解释，制度、战争与财政同样关键。",
       "polities": "地中海航运与道路网络支撑跨区域整合，后期治理结构分化；具体改革、年代与疆域变动待专门史料核验。",
@@ -609,16 +612,17 @@
         "ap-human-geo",
         "wb-nor-pop",
         "wb-nor-urban",
-        "wb-nor-life"
+        "wb-nor-life",
+        "openalex-W2792757006"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2792757006（2017年，《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Sca》，Viking and Medieval Scandinavia，DOI 10.1484/j.vms.5.114355，被引 44）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "斯堪的纳维亚半岛海岸曲折、森林与铁矿丰富，狭窄海湾利于造船与出航。北大西洋航线连接不列颠、冰岛与北美东缘。",
       "influence": "航海技术使贸易、殖民与袭击并存，河流网络把北欧与东欧、拜占庭连接起来。社会动因复杂，不能简化为资源匮乏驱动。",
       "polities": "斯堪的纳维亚的航海条件与河流网络支撑贸易、殖民与迁徙，王权与宗教变迁重塑区域格局；具体年代与事件待专门史料核验。",
@@ -647,10 +651,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W617733386",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2497994255"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：西欧×政权更替；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W617733386（2003年，「Carolingian connections: Anglo-Saxon England and Carolingian F」，DOI https://doi.org/10.5860/choice.41-2404）；年代以「5世纪末至9世纪（加洛林帝国 800年加冕；后分裂）」表述，未编造精确年份。",
+      "pending_notes": "第16轮复核：西欧×政权更替；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W617733386（2003年，「Carolingian connections: Anglo-Saxon England and Carolingian F」，DOI https://doi.org/10.5860/choice.41-2404）；年代以「5世纪末至9世纪（加洛林帝国 800年加冕；后分裂）」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2497994255（2005年，《Merovingian Gaul and the Frankish conquests》，Cambridge University Press eBooks，DOI 10.1017/chol9780521362917.010，被引 140）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -721,10 +726,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W561167263",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4249644002"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：地中海×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W561167263（2016年，「Shipping, Trade and Crusade in the Medieval Mediterranean」，DOI https://doi.org/10.4324/9781315609010，Routledge eBooks）； 年代以「11世纪末至13世纪末（第一次十字军 1096–1099年）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第16轮复核：地中海×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W561167263（2016年，「Shipping, Trade and Crusade in the Medieval Mediterranean」，DOI https://doi.org/10.4324/9781315609010，Routledge eBooks）； 年代以「11世纪末至13世纪末（第一次十字军 1096–1099年）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W4249644002（2018年，《Preaching the Crusades to the Eastern Mediterranean: Propaganda, Litur》，Routledge eBooks，DOI 10.4324/9781315181653，被引 14）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -836,15 +842,16 @@
         "ap-human-geo",
         "wb-ita-pop",
         "wb-ita-urban",
-        "wb-ita-life"
+        "wb-ita-life",
+        "openalex-W2396225729"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·文艺复兴意大利】本条正则 renaissance。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「文艺复兴意大利」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为文艺复兴意大利主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·文艺复兴意大利】本条正则 renaissance。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「文艺复兴意大利」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为文艺复兴意大利主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2396225729（2016年，《‘Poverty Makes Me Invisible’: Street Singers and Hard Times in Italian》，Italian Studies，DOI 10.1080/00751634.2016.1175719，被引 31）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "意大利半岛北部平原与中南部丘陵、海岸城市并存，阿尔卑斯山口连接中欧，第勒尼安海与亚得里亚海提供贸易通道。",
       "influence": "城邦竞争、商业财富与城市赞助为艺术与学术提供条件；地理上的开放性与城市网络是重要背景，但思想变革不能简化为地理结果。",
       "polities": "半岛城邦依托商业财富与竞争形成文化中心，政治地图由多个城邦与领地构成；具体年代与人物待专门史料核验。",
@@ -910,10 +917,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "s010-unesco-org",
-        "openalex-W2618112116"
+        "openalex-W2618112116",
+        "openalex-W1965291802"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东欧×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2618112116（2017年，《Why Did Muscovy Not Participate in the “Communication Revolution” in the Sixteenth Century?》，DOI https://doi.org/10.1163/22102396-05102011）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「13–16世纪（莫斯科大公国；本条引 2017 年印刷术研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第15轮复核：东欧×政权更替；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2618112116（2017年，《Why Did Muscovy Not Participate in the “Communication Revolution” in the Sixteenth Century?》，DOI https://doi.org/10.1163/22102396-05102011）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「13–16世纪（莫斯科大公国；本条引 2017 年印刷术研究）」表述并注明学界有不同版本。 【第42轮第二来源（strong）】openalex-W1965291802（1978年，《Peasant Farming in Muscovy》，The Russian Review，DOI 10.2307/129027，被引 72）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1062,10 +1070,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2998035180",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2017853772"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2998035180（2011年，「The Uncensored Dardanelles」，DOI 无）；年代以「地理通道；本条引 2011 年关于达达尼尔海峡的研究」表述，未编造精确年份。",
+      "pending_notes": "第16轮复核：东南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2998035180（2011年，「The Uncensored Dardanelles」，DOI 无）；年代以「地理通道；本条引 2011 年关于达达尼尔海峡的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2017853772（2012年，《Numerical modeling of the influence of exchange through the Bosporus a》，Izvestiya Atmospheric and Oceanic Physics，DOI 10.1134/s0001433812040056，被引 16）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
