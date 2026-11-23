@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -52,7 +52,7 @@
       "id": "africa-x521ax679cx76c6x5730",
       "level": "L2",
       "tier": "核心",
-      "status": "已复核(第26轮·无实证)",
+      "status": "L2完成(第44轮复核)-内容源1条",
       "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -462,8 +462,8 @@
       "id": "asia-x65e5x672cx5217x5c9b",
       "level": "L2",
       "tier": "核心",
-      "status": "已复核(第26轮·无实证)",
-      "source_count": 7,
+      "status": "L2完成(第44轮复核)-内容源0条",
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -672,8 +672,8 @@
       "id": "europe-x7f57x9a6cx5171x548cx56fd",
       "level": "L2",
       "tier": "核心",
-      "status": "已复核(第26轮·无实证)",
-      "source_count": 7,
+      "status": "L2完成(第44轮复核)-内容源2条",
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -727,7 +727,7 @@
       "id": "europe-x4e0dx5217x98a0x7fa4x5c9b",
       "level": "L2",
       "tier": "核心",
-      "status": "已复核(第26轮·无实证)",
+      "status": "L2完成(第44轮复核)-内容源1条",
       "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1050,7 +1050,7 @@
       "id": "north-america-x683cx9675x5170x5c9b",
       "level": "L2",
       "tier": "重要",
-      "status": "已复核(第27轮·无实证)",
+      "status": "L2完成(第44轮复核)-内容源1条",
       "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
@@ -1068,7 +1068,7 @@
       "id": "north-america-x5341x4e09x6b96x6c11x5730",
       "level": "L2",
       "tier": "重要",
-      "status": "L2完成(第34轮)-来源撤出待补",
+      "status": "L2完成(第44轮复核)-内容源1条",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"

@@ -1,6 +1,4 @@
 {
-  "updated": "2026-11-22",
-  "verification_method": "curl (--ssl-no-revoke) HTTP 状态 + 页面 <title> 核对",
   "sources": [
     {
       "id": "s001-unstats-un-org",

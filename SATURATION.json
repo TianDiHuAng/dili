@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 43,
+  "last_round": 44,
   "history": [
     {
       "round": 1,
@@ -528,6 +528,18 @@
       "gaps_found": 293,
       "note": "发现「≥2内容源143」含机构首页属虚高，真实为12；补源后0源52、≥2源24",
       "result": "证据口径订正"
+    },
+    {
+      "round": 44,
+      "methods_used": [
+        "B1 0源条目补源（标题主判据）",
+        "落点句",
+        "实测口径重算",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "0源 52→0；≥2源 24→29",
+      "result": "证据质量推进"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -552,9 +564,9 @@
   "all_l2": true,
   "multi_source_entries": 143,
   "evidence": {
-    "zero_source": 52,
-    "one_source": 167,
-    "two_plus": 24,
-    "definition": "仅计有实际正文或摘要的来源；机构首页与世界银行指标端点不计"
+    "alias_only": 49,
+    "one_source": 165,
+    "two_plus": 29,
+    "definition": "实测口径（D098）：按来源 note 记录的正文字节判定；机构首页与指标端点不计；livius stub 不计"
   }
 }
