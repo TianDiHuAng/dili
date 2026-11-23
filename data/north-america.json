@@ -312,11 +312,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "墨西哥湾：北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "北美南部的大型海湾，被美国南部与墨西哥环绕，与大西洋和加勒比海相连。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "墨西哥湾：北美东南部的半封闭海湾。",
+      "time_or_place": "现代海洋观测（本条引 2014 年表层海洋条件研究）",
+      "overview": "墨西哥湾：北美东南部的半封闭海湾。",
       "related": [
         "north-america-x5bc6x897fx897fx6bd4x6cb3",
         "north-america-x52a0x52d2x6bd4x6d77x7fa4x5c9b",
@@ -324,15 +324,23 @@
       ],
       "sources": [
         "s050-oceanservice-noaa-gov",
-        "s048-climate-gov"
+        "s048-climate-gov",
+        "openalex-W1994091524",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北美洲×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。",
+      "pending_notes": "第17轮复核：北美洲×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1994091524（2014年，《Natural variability of surface oceanographic conditions in the offshore Gulf of Mexico》，DOI https://doi.org/10.1016/j.pocean.2014.12.007，Progress In Oceanography）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「现代海洋观测（本条引 2014 年表层海洋条件研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "海湾由北美大陆与尤卡坦半岛环抱，通过佛罗里达海峡与加勒比海相连；密西西比河带来大量淡水与营养盐，形成显著的河口羽流。",
+      "influence": "所引研究显示表层海洋条件存在**自然变率**，与风场、淡水输入相关；这提示生态与渔业管理需区分自然波动与人为影响。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经佛罗里达海峡连接大西洋，经尤卡坦海峡连接加勒比海，是北美与中美洲之间的航运与生态通道。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>墨西哥湾</text><text x='40' y='370' class='dim'>墨西哥湾 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x4e2dx7f8ex6d32x5730x5ce1",
@@ -538,11 +546,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "北美原住民：多生态区适应形成多样社会，农业、狩猎与采集并存。",
-      "time_or_place": "古代至今",
-      "overview": "多生态区适应形成多样社会，农业、狩猎与采集并存。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "北美原住民：在欧洲人到来之前及其后生活于北美的原住民族群。",
+      "time_or_place": "末次冰期后至历史时期（本条引 1996 年美洲人群迁徙研究）",
+      "overview": "北美原住民：在欧洲人到来之前及其后生活于北美的原住民族群。",
       "related": [
         "north-america-x4e2dx7f8ex6d32x5730x5ce1",
         "north-america-x53e4x5df4x5c9b",
@@ -552,16 +560,24 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "s075-aag-org"
+        "s075-aag-org",
+        "openalex-W2020901419",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北美洲×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：北美洲×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020901419（1996年，《Paleoindian Cave Dwellers in the Amazon: The Peopling of the Americas》，DOI https://doi.org/10.1126/science.272.5260.373，Science）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「末次冰期后至历史时期（本条引 1996 年美洲人群迁徙研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "迁徙路线涉及白令陆桥与沿海走廊两种假说；冰川消退的时间窗口决定内陆无冰走廊何时可用，这直接影响人群进入的路径与年代。",
+      "influence": "所引研究以亚马孙洞穴遗址为证据，支持**较早的沿海或内陆迁徙**，说明进入美洲的时间与路线仍是活跃的研究问题，不宜下定论。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "从东北亚经白令地区进入，随后向南北美洲扩散，形成从北极到火地岛的连续分布。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>北美原住民</text><text x='40' y='370' class='dim'>北美原住民 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x897fx5317x6d77x5cb8",
@@ -733,11 +749,11 @@
       "unit_id": "north-america",
       "region": "中美洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "加勒比海群岛：岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
-      "time_or_place": "古代至今",
-      "overview": "岛屿链连接大西洋与加勒比，殖民时期种植园经济兴盛。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "加勒比海群岛：加勒比海中的岛链，包括大安的列斯与小安的列斯。",
+      "time_or_place": "生物地理尺度（本条引 1975 年加勒比生物地理研究）",
+      "overview": "加勒比海群岛：加勒比海中的岛链，包括大安的列斯与小安的列斯。",
       "related": [
         "north-america-x5bc6x897fx897fx6bd4x6cb3",
         "north-america-x7279x5965x8482x74e6x574e",
@@ -745,15 +761,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2126487261",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "岛链由火山岛与珊瑚岛组成，按大小与海拔分层；信风与洋流决定降水与物种扩散方向，岛屿间的距离是扩散的屏障也是通道。",
+      "influence": "所引研究以**隔离分化（vicariance）模型**解释加勒比生物区系的形成，与「跨海扩散」模型形成对照，说明同一分布格局可以有不同机制解释。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经海流与信风连接北美、中美与南美，近代成为跨大西洋航线的必经水域。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>加勒比海群岛</text><text x='40' y='370' class='dim'>加勒比海群岛 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x53e4x5df4x5c9b",

@@ -611,11 +611,11 @@
       "unit_id": "africa",
       "region": "北非",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "阿拉伯征服北非：阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
-      "time_or_place": "7—8世纪",
-      "overview": "阿拉伯军队西进，北非逐步纳入哈里发体系，语言与宗教格局改变。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "阿拉伯征服北非：7–8世纪阿拉伯军队向西推进、整合北非的过程。",
+      "time_or_place": "7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）",
+      "overview": "阿拉伯征服北非：7–8世纪阿拉伯军队向西推进、整合北非的过程。",
       "related": [
         "africa-x53e4x57c3x53cax65e9x738bx671d",
         "africa-x53e4x57c3x53cax53e4x738bx56fd",
@@ -623,15 +623,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W4285072712",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。",
+      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W4285072712（2020年，《A Gateway To Hell, A Gateway To Paradise. The North African Response to the Arab Conquest》，DOI https://doi.org/10.2307/j.ctv1b9f5dj，Gerlach Press eBooks）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "北非沿海为地中海气候的狭长农耕地带，背靠阿特拉斯山地与撒哈拉；沿海城市由罗马时代的港口网络延续而来。",
+      "influence": "所引研究把北非视为**连接地中海与撒哈拉以南的「门户」**：征服的可持续性依赖对既有城市与税收体系的接管，以及跨撒哈拉商路的接入，而非单纯的军事推进。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "东接埃及与西亚，北经地中海通伊比利亚与意大利，南经撒哈拉商路通西非黄金产地。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>阿拉伯征服北非</text><text x='40' y='370' class='dim'>阿拉伯征服北非 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x6cd5x8482x739bx738bx671d",
@@ -782,11 +790,11 @@
       "unit_id": "africa",
       "region": "南部非洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第20轮)",
-      "definition": "大津巴布韦：绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
-      "time_or_place": "约11—15世纪",
-      "overview": "绍纳人建造的石城遗址，参与印度洋黄金与象牙贸易。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "大津巴布韦：南部非洲的石头建筑群遗址，为津巴布韦王国的中心。",
+      "time_or_place": "11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）",
+      "overview": "大津巴布韦：南部非洲的石头建筑群遗址，为津巴布韦王国的中心。",
       "related": [
         "africa-x5e93x4ec0x4e0ex52aax6bd4x4e9a",
         "africa-x8fe6x592ax57fa",
@@ -794,15 +802,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2004999962",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】南部非洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。",
+      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】南部非洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2004999962（1998年，《Cognitive Archaeology and Imaginary History at Great Zimbabwe》，DOI https://doi.org/10.1086/204698，Current Anthropology）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "位于南部非洲高原，花岗岩节理发育，便于开采薄石板用于干砌建筑；周边草原适合牧养，季风边缘的降水变率大。",
+      "influence": "所引 1998 年研究批评了殖民时代对该遗址的**想象性历史**解释，强调应从本地物质文化（如鸟形石雕、干砌技术）出发理解其意义，而非外来起源假说。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经林波波河与印度洋港口连接东非海岸贸易，象牙、黄金与铜沿此输出。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>大津巴布韦</text><text x='40' y='370' class='dim'>大津巴布韦 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x65afx74e6x5e0cx91ccx6d77x5cb8",

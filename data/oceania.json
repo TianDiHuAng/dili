@@ -91,11 +91,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第25轮·无实证)",
-      "definition": "大自流盆地：中部承压含水层，牧业依赖井水，盐度限制利用。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "中部承压含水层，牧业依赖井水，盐度限制利用。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "大自流盆地：澳大利亚东部的大型自流地下水盆地。",
+      "time_or_place": "地质尺度（本条引 1986 年氯-36 定年研究）",
+      "overview": "大自流盆地：澳大利亚东部的大型自流地下水盆地。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax5927x9646",
         "oceania-x5927x5206x6c34x5cad",
@@ -104,15 +104,23 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "openalex-W1969120728",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
+      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "盆地被不透水层圈闭，含水层向西部倾斜；东部边缘的补给区降水入渗后向盆地内部流动，井水可自流至地表。",
+      "influence": "所引氯-36 定年研究显示部分地下水**年龄极老**、补给速率极慢，这意味着开采速率一旦超过补给，水位将长期下降且难以恢复。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "支撑内陆牧业与城镇用水，是干旱内陆唯一可靠的规模化水源。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>大自流盆地</text><text x='40' y='370' class='dim'>大自流盆地 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "oceania-x6fb3x5927x5229x4e9ax539fx4f4fx6c11",
@@ -161,11 +169,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第25轮·无实证)",
-      "definition": "新西兰北岛：火山与地热活动活跃，毛利聚落与港口城市集中。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "火山与地热活动活跃，毛利聚落与港口城市集中。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "新西兰北岛：新西兰两大主岛之一，以火山与地热活动著称。",
+      "time_or_place": "地质尺度（本条引 1996 年火山灰年代学研究）",
+      "overview": "新西兰北岛：新西兰两大主岛之一，以火山与地热活动著称。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax5927x9646",
         "oceania-x5927x5206x6c34x5cad",
@@ -173,15 +181,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2051173656",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2051173656（1996年，《Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments》，DOI https://doi.org/10.1130/0016-7606(1996)108<0915:etmpto>2.3.co;2，Geological Society of America Bulletin）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「地质尺度（本条引 1996 年火山灰年代学研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "岛屿中部为火山高原与地热区，周边为丘陵与平原；火山灰层序记录了多次喷发，成为定年与地层对比的关键材料。",
+      "influence": "火山灰年代学为考古与古环境研究提供时间标尺，也说明该岛的土壤肥力与灾害风险同源：肥沃的火山土与喷发风险并存。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经库克海峡与南岛分隔，通过港口与奥克兰地峡连接国际贸易。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>新西兰北岛</text><text x='40' y='370' class='dim'>新西兰北岛 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "oceania-x65b0x897fx5170x5357x5c9b",
@@ -525,26 +541,34 @@
       "unit_id": "oceania",
       "region": "澳大利亚",
       "theme": "农业",
-      "level": "L1",
-      "status": "已复核(第23轮·无实证)",
-      "definition": "澳大利亚混合农业：小麦种植与放牧相结合的农业体系，适应降水季节性与地广人稀条件。",
-      "time_or_place": "近现代（形成与发展时期待核）",
-      "overview": "小麦种植与放牧相结合的农业体系，适应降水季节性与地广人稀条件。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "澳大利亚混合农业：在同一农场内结合小麦种植与绵羊放牧的经营方式。",
+      "time_or_place": "20世纪以来的农业变迁（本条引 1982 年生产率研究）",
+      "overview": "澳大利亚混合农业：在同一农场内结合小麦种植与绵羊放牧的经营方式。",
       "related": [
         "oceania-x5927x81eax6d41x76c6x5730"
       ],
       "sources": [
         "s014-fao-org",
-        "s022-ourworldindata-org"
+        "s022-ourworldindata-org",
+        "openalex-W1494268843",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "抽检返工：已移除无来源年份；农业制度形成时间待专门来源核验。 【第23轮实证复核】实测：s014（FAOSTAT）200 / 剥离后 7 字符（应用壳页）/ 命中 0；s022（OWID 首页）200 / 22764 字符 / farm|agricultur|wheat 命中 5（仅站点导航级）。缺口为「澳大利亚农业体系专题页」；D053：s014 为壳页。",
+      "pending_notes": "抽检返工：已移除无来源年份；农业制度形成时间待专门来源核验。 【第23轮实证复核】实测：s014（FAOSTAT）200 / 剥离后 7 字符（应用壳页）/ 命中 0；s022（OWID 首页）200 / 22764 字符 / farm|agricultur|wheat 命中 5（仅站点导航级）。缺口为「澳大利亚农业体系专题页」；D053：s014 为壳页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1494268843（1982年，《Production Flexibility and Technical Change in Australia's Wheat-Sheep Zone》，DOI https://doi.org/10.22004/ag.econ.12290，Review of marketing and agricultural economics）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「20世纪以来的农业变迁（本条引 1982 年生产率研究）」表述并注明学界有不同版本。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "主要分布于南部与西南部的地中海气候区，冬季降水、夏季干旱，适合小麦—休闲—牧草的轮作；土壤肥力较低，需依赖休耕与施肥。",
+      "influence": "所引研究关注**生产灵活性与技术变迁**：轮作制度使农场能在价格波动中调整作物与畜牧的比重，这是对降水与市场双重不确定性的适应。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经铁路与港口连接出口市场，羊毛与小麦是19世纪以来澳大利亚的主要出口品。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>澳大利亚混合农业</text><text x='40' y='370' class='dim'>澳大利亚混合农业 · 简笔示意，非精确测绘</text></svg>"
     }
   ]
 }

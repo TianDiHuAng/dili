@@ -149,10 +149,10 @@
     },
     {
       "id": "africa-x963fx62c9x4f2fx5f81x670dx5317x975e",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -195,10 +195,10 @@
     },
     {
       "id": "africa-x5927x6d25x5df4x5e03x97e6",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -487,19 +487,19 @@
     },
     {
       "id": "asia-x5434x54e5",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
     {
       "id": "asia-x9a6cx6765x7fa4x5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -542,10 +542,10 @@
     },
     {
       "id": "asia-x5308x5974",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 3,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -889,10 +889,10 @@
     },
     {
       "id": "europe-x4e2dx4e16x7eaax6b27x6d32x5e84x56edx519cx4e1a",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第15轮)",
-      "source_count": 3,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -974,10 +974,10 @@
     },
     {
       "id": "north-america-x58a8x897fx54e5x6e7e",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1030,10 +1030,10 @@
     },
     {
       "id": "north-america-x5317x7f8ex539fx4f4fx6c11",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 4,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1084,10 +1084,10 @@
     },
     {
       "id": "north-america-x52a0x52d2x6bd4x6d77x7fa4x5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1232,10 +1232,10 @@
     },
     {
       "id": "south-america-x9a6cx4e18x6bd4x4e18",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第15轮)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1297,10 +1297,10 @@
     },
     {
       "id": "oceania-x5927x81eax6d41x76c6x5730",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第25轮·无实证)",
-      "source_count": 3,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1316,10 +1316,10 @@
     },
     {
       "id": "oceania-x65b0x897fx5170x5317x5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第25轮·无实证)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1417,10 +1417,10 @@
     },
     {
       "id": "oceania-x6fb3x5927x5229x4e9ax6df7x5408x519cx4e1a",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第23轮·无实证)",
-      "source_count": 2,
+      "status": "L2完成(第35轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

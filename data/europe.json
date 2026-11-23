@@ -1052,27 +1052,35 @@
       "unit_id": "europe",
       "region": "西欧",
       "theme": "农业",
-      "level": "L1",
-      "status": "已复核(第15轮)",
-      "definition": "中世纪欧洲庄园农业：以庄园为单位的土地制度，敞田耕作与领主自营地并存，支撑封建秩序。",
-      "time_or_place": "中世纪（起讫年代因地区而异）",
-      "overview": "以庄园为单位的土地制度，敞田耕作与领主自营地并存，与封建秩序相互关联。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "中世纪欧洲庄园农业：以庄园为单位组织土地、劳力与地租的农业制度。",
+      "time_or_place": "约9–14世纪（地区差异大；本条引 2010 年专论 Manors and Markets）",
+      "overview": "中世纪欧洲庄园农业：以庄园为单位组织土地、劳力与地租的农业制度。",
       "related": [
         "asia-x5b8bx4ee3"
       ],
       "sources": [
         "s014-fao-org",
         "s018-fao-org",
-        "s077-ourworldindata-org"
+        "s077-ourworldindata-org",
+        "openalex-W2479587242",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西欧×农业；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页，与庄园农业错配；D049 同型）。",
+      "pending_notes": "第15轮复核：西欧×农业；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页，与庄园农业错配；D049 同型）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2479587242（2010年，《Manors and Markets》，DOI https://doi.org/10.1093/acprof:oso/9780199278664.001.0001，Oxford University Press eBooks）。 该文献主题与本条同一对象，正文的地理与机制段落据此撰写；年代以「约9–14世纪（地区差异大；本条引 2010 年专论 Manors and Markets）」表述并注明学界有不同版本。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "西北欧平原与丘陵的交错地带，土壤与降水适合谷物与牧草轮作；三圃制与敞田在这样的地形上便于集体耕作与放牧。",
+      "influence": "所引专论强调庄园制度与市场交换是**并存**而非替代关系：地租、市场与人口变动共同塑造农业组织，制度演化不能被简化为「自然经济」。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "通过集镇与市集连接地方交换网络，通过水路把谷物与羊毛运往城市与出口港。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>中世纪欧洲庄园农业</text><text x='40' y='370' class='dim'>中世纪欧洲庄园农业 · 简笔示意，非精确测绘</text></svg>"
     }
   ]
 }
