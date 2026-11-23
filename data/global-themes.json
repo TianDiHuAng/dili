@@ -766,25 +766,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "海洋保护区：为保护海洋生态与资源而划定管理的海域，其成效取决于执法、监测与周边社区参与。",
-      "time_or_place": "现代管理实践（年份以来源页面为准）",
-      "overview": "为保护海洋生态与资源而划定管理的海域，其成效取决于执法、监测与周边社区参与。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-指标数据",
+      "definition": "海洋保护区：为保护海洋生态系统与资源而在海域划定的管理区域。",
+      "time_or_place": "全球/区域口径（最新观测年份见 today）",
+      "overview": "海洋保护区：为保护海洋生态系统与资源而在海域划定的管理区域。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "oceania-x5927x5821x7901"
       ],
       "sources": [
         "s070-cbd-int",
-        "s050-oceanservice-noaa-gov"
+        "s050-oceanservice-noaa-gov",
+        "wb-wld-mpa"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第36轮升级 L2】数据来源 wb-wld-er-mrn-ptmr-zs；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "覆盖比例在部分岛国与发达国家较高，公海与高 seas 的覆盖长期偏低；近岸与专属经济区内的划定差异大。",
+      "influence": "划定受政治意愿与渔业利益制约；「覆盖面积」不等于「管理成效」，执法的经费与能力是关键变量。",
+      "connections": "与渔业资源、珊瑚礁与湿地、海洋生态系统健康相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 ER.MRN.PTMR.ZS，海洋保护区占领海面积（%））：全球 17.5%（2025年）。该值为合计或均值，掩盖区域内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 270 C200 230 320 215 460 220 C570 224 650 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='110' y='250' class='lbl'>海洋保护区</text><text x='40' y='370' class='dim'>海洋保护区 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x6781x7aefx8d2bx56f0x7a7ax95f4x5206x5e03",
@@ -959,25 +966,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "地形",
-      "level": "L1",
-      "status": "L1完成(第9轮)",
-      "definition": "湿地与水资源：湿地在蓄洪、净水和生物栖息方面具有重要作用，水资源管理需兼顾生态与人类需求。",
-      "time_or_place": "现代管理实践（年份以来源页面为准）",
-      "overview": "湿地在蓄洪、净水和生物栖息方面具有重要作用，水资源管理需兼顾生态与人类需求。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-指标数据",
+      "definition": "湿地与水资源：湿地生态系统与可利用淡水资源的分布与管理。",
+      "time_or_place": "全球/区域口径（最新观测年份见 today）",
+      "overview": "湿地与水资源：湿地生态系统与可利用淡水资源的分布与管理。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x6cb3x6d41x4e09x89d2x6d32"
       ],
       "sources": [
         "fao-aquastat-basins",
-        "s050-oceanservice-noaa-gov"
+        "s050-oceanservice-noaa-gov",
+        "wb-wld-waterpc"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第36轮升级 L2】数据来源 wb-wld-er-h2o-intr-pc；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "人均可再生水资源在干旱的西亚与北非极低，在湿润热带与高纬度地区很高；湿地集中于低平原与三角洲。",
+      "influence": "水资源可得性由降水、蒸发与跨境河流决定；湿地则依赖水位节律，上游取水与筑坝会改变其存续条件。",
+      "connections": "与灌溉农业、城市化、生物多样性、气候适应相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 ER.H2O.INTR.PC，人均可再生水资源（立方米））：全球 5,393 立方米（2022年）。该值为合计或均值，掩盖区域内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 270 C200 230 320 215 460 220 C570 224 650 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='110' y='250' class='lbl'>湿地与水资源</text><text x='40' y='370' class='dim'>湿地与水资源 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x9884x671fx5bffx547dx7a7ax95f4x5deex5f02",
@@ -1293,25 +1307,32 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "气候",
-      "level": "L1",
-      "status": "L1完成(第10轮)",
-      "definition": "全球气温变化：全球平均气温变化是气候系统状态的核心指标，区域差异明显，解读需结合长期序列与观测方法。",
-      "time_or_place": "现代观测（年份以来源页面为准）",
-      "overview": "全球平均气温变化是气候系统状态的核心指标，区域差异明显，解读需结合长期序列与观测方法。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-指标数据",
+      "definition": "全球气温变化：全球平均地表气温相对基准期的变动。",
+      "time_or_place": "全球/区域口径（最新观测年份见 today）",
+      "overview": "全球气温变化：全球平均地表气温相对基准期的变动。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x78b3x6392x653ex7a7ax95f4x5deex5f02"
       ],
       "sources": [
         "s026-ourworldindata-org",
-        "s039-climate-nasa-gov"
+        "s039-climate-nasa-gov",
+        "noaa-global-temp"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源 noaa-global-temp；空间差异描述为常识性地理概述，未逐国引用。（本条用 NOAA 全球温度序列，未采用排放指标——排放不等于气温。）",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "变暖幅度随纬度与海陆分布不同：北极增温最快（极地放大），海洋增温慢于陆地；区域差异远大于全球均值。",
+      "influence": "变暖由温室气体累积驱动，叠加自然变率（如 ENSO、火山）造成年际波动；因此单年数值不能代表趋势，需看多年平均。",
+      "connections": "与碳排放、极端天气、海平面、生态物候相关。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：NOAA Climate at a Glance（全球陆海平均温度距平，基准期 1901–2000，单位 °C）：2023年 +1.17、2024年 +1.26、2025年 +1.12。距平值随基准期与观测方法而变，跨数据集比较须核对口径；单年数值受自然变率影响，不应直接当作长期趋势。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 270 C200 230 320 215 460 220 C570 224 650 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='110' y='250' class='lbl'>全球气温变化</text><text x='40' y='370' class='dim'>全球气温变化 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x8352x6f20x5316",
@@ -2138,24 +2159,31 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1完成(第13轮)",
-      "definition": "撒哈拉以南非洲发展数据：该区域发展指标差异显著，数据需结合国家收入分类与统计口径阅读，避免单一指标概括。",
-      "time_or_place": "现代统计（年份以来源页面为准）",
-      "overview": "该区域发展指标差异显著，数据需结合国家收入分类与统计口径阅读，避免单一指标概括。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-指标数据",
+      "definition": "撒哈拉以南非洲发展数据：用于刻画该区域人口、经济与社会指标的数据体系。",
+      "time_or_place": "全球/区域口径（最新观测年份见 today）",
+      "overview": "撒哈拉以南非洲发展数据：用于刻画该区域人口、经济与社会指标的数据体系。 本条以可核验的指标序列为数据基础，最新值见「今天的状况」。",
       "related": [
         "global-themes-x56fdx5bb6x6536x5165x5206x7c7b"
       ],
       "sources": [
         "s064-worldbank-org",
-        "un-m49"
+        "un-m49",
+        "wb-ssf-pop"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第36轮升级 L2】数据来源 wb-ssf-pop；空间差异描述为常识性地理概述，未逐国引用。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "区域内差异极大：沿海与矿产国、内陆萨赫勒国家、岛国的指标水平相距悬殊；统计能力本身也不均衡。",
+      "influence": "数据可得性与质量受国家统计体系、冲突与调查频率影响；不可用「区域平均值」代替具体国情判断。",
+      "connections": "与贫困、人口增长、营养、教育等指标互为参照。",
+      "polities": "本条为全球/区域主题条目，不展开具体政权序列。",
+      "today": "来源：世界银行 API（指标 SP.POP.TOTL，总人口（撒哈拉以南非洲聚合 SSF））：撒哈拉以南非洲 1,321,654,217 人（2025年）。该值为合计或均值，掩盖区域内部差异，跨国/跨区比较须核对口径。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 270 C200 230 320 215 460 220 C570 224 650 240 690 258' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='110' y='250' class='lbl'>撒哈拉以南非洲发展数据</text><text x='40' y='370' class='dim'>撒哈拉以南非洲发展数据 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x4e1cx4e9ax4e0ex592ax5e73x6d0bx533ax57dfx53d1x5c55",

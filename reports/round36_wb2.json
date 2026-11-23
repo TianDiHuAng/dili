@@ -1,0 +1,51 @@
+{
+  "海洋保护区": {
+    "code": "ER.MRN.PTMR.ZS",
+    "label": "海洋保护区占领海面积（%）",
+    "value": 17.4641679954692,
+    "year": "2025",
+    "agg": "WLD"
+  },
+  "湿地与水资源": {
+    "code": "ER.H2O.INTR.PC",
+    "label": "人均可再生水资源（立方米）",
+    "value": 5392.94445818055,
+    "year": "2022",
+    "agg": "WLD"
+  },
+  "沙漠化": {
+    "code": "AG.LND.FRST.ZS",
+    "label": "森林覆盖率（%，作干旱化替代指标不可用则不采用）",
+    "value": 31.0951828663057,
+    "year": "2023",
+    "agg": "WLD"
+  },
+  "土地利用变化": {
+    "code": "AG.LND.AGRI.ZS",
+    "label": "农业用地占土地（%）",
+    "value": 36.9301461380685,
+    "year": "2023",
+    "agg": "WLD"
+  },
+  "全球气温变化": {
+    "code": "EN.GHG.CO2.MT.CE.AR5",
+    "label": "CO₂ 排放（作气候驱动背景）",
+    "value": 39632.6642185422,
+    "year": "2024",
+    "agg": "WLD"
+  },
+  "国家收入分类": {
+    "code": "NY.GNP.PCAP.CD",
+    "label": "人均 GNI",
+    "value": 14243.5387817409,
+    "year": "2025",
+    "agg": "WLD"
+  },
+  "撒哈拉以南非洲发展数据": {
+    "code": "SP.POP.TOTL",
+    "label": "总人口（撒哈拉以南非洲聚合 SSF）",
+    "value": 1321654217,
+    "year": "2025",
+    "agg": "SSF"
+  }
+}

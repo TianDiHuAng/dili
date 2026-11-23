@@ -6020,6 +6020,45 @@
       "verified": true,
       "page_title": "World Bank API — SH.XPD.CHEX.GD.ZS (WLD)",
       "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SH.XPD.CHEX.GD.ZS（2023年）。年度指标，随年度更新与历史修订变化。"
+    },
+    {
+      "id": "wb-wld-mpa",
+      "title": "World Bank API — 海洋保护区占领海面积（%） (ER.MRN.PTMR.ZS, WLD)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/ER.MRN.PTMR.ZS?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — ER.MRN.PTMR.ZS (WLD)",
+      "note": "JSON API 200；聚合 WLD（全球）＋指标 ER.MRN.PTMR.ZS；最新 17.5%（2025年）。年度指标，随年度更新与历史修订变化。"
+    },
+    {
+      "id": "wb-wld-waterpc",
+      "title": "World Bank API — 人均可再生水资源（立方米） (ER.H2O.INTR.PC, WLD)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/WLD/indicator/ER.H2O.INTR.PC?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — ER.H2O.INTR.PC (WLD)",
+      "note": "JSON API 200；聚合 WLD（全球）＋指标 ER.H2O.INTR.PC；最新 5,393 立方米（2022年）。年度指标，随年度更新与历史修订变化。"
+    },
+    {
+      "id": "wb-ssf-pop",
+      "title": "World Bank API — 总人口（撒哈拉以南非洲聚合 SSF） (SP.POP.TOTL, SSF)",
+      "author": "World Bank",
+      "year": null,
+      "type": "数据端点",
+      "url": "https://api.worldbank.org/v2/country/SSF/indicator/SP.POP.TOTL?format=json&per_page=100&date=2015:2025",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "World Bank API — SP.POP.TOTL (SSF)",
+      "note": "JSON API 200；聚合 SSF（撒哈拉以南非洲）＋指标 SP.POP.TOTL；最新 1,321,654,217 人（2025年）。年度指标，随年度更新与历史修订变化。"
     }
   ]
 }

@@ -186,7 +186,12 @@ def check_today_sources(e):
     today = e.get("today") or ""
     if ("世界银行" not in today) and not re.search(r"（20\d{2}年）", today):
         return
-    named = {CN2ISO[n] for n in CN2ISO if n in today}
+    # 先屏蔽会与其他国名构成子串的复合区域名（如「撒哈拉以南非洲」含「南非」）
+    masked = today
+    for compound in ("撒哈拉以南非洲", "中亚", "南亚", "东亚", "东南亚", "北非", "西非", "东非",
+                     "中非", "南部非洲", "拉丁美洲", "加勒比", "中东", "北美洲", "南美洲"):
+        masked = masked.replace(compound, "＿" * len(compound))
+    named = {CN2ISO[n] for n in CN2ISO if n in masked}
     if not named:
         return
     endpoint_isos = set()
