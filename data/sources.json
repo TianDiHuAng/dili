@@ -5708,6 +5708,32 @@
       "verified": true,
       "page_title": "Quaternary of Norden",
       "note": "OpenAlex 作品 W1912206775；2008年；Episodes；DOI https://doi.org/10.18814/epiiugs/2008/v31i1/011；被引 61。HTTP 200，22109 字节。摘要在正文中按原意转述。"
+    },
+    {
+      "id": "openalex-W2109701276",
+      "title": "OpenAlex W2109701276 — Beringian Standstill and Spread of Native American Founders",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2007,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2109701276",
+      "url2": "https://doi.org/10.1371/journal.pone.0000829",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Beringian Standstill and Spread of Native American Founders",
+      "note": "OpenAlex 作品 W2109701276；2007年；PLoS ONE；DOI https://doi.org/10.1371/journal.pone.0000829；被引 797。HTTP 200，53462 字节。摘要要点：美洲原住民源自少数亚洲奠基人群，很可能经白令地区（Beringia）抵达；分析 623 份完整 mtDNA，发现奠基人群内的遗传多样性高于此前报告，系统发育结构支持在 Beringia 停留（standstill）后扩散。"
+    },
+    {
+      "id": "openalex-W2568445233",
+      "title": "OpenAlex W2568445233 — Earliest Human Presence in North America Dated to the Last Glacial Maximum: New Radiocarbon Dates from Bluefish Caves, Canada",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2017,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2568445233",
+      "url2": "https://doi.org/10.1371/journal.pone.0169486",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Earliest Human Presence in North America Dated to the Last Glacial Maximum: New Radiocarbon Dates from Bluefish Caves, Canada",
+      "note": "OpenAlex 作品 W2568445233；2017年；PLoS ONE；DOI https://doi.org/10.1371/journal.pone.0169486；被引 210。HTTP 200，30353 字节。摘要要点：人类首次进入北美的时间仍在争论；育空 Bluefish Caves 的放射性碳测年支持末次盛冰期（LGM）期间进入东白令地区（阿拉斯加与育空），该假说因缺少同期遗址与地层疑虑而受质疑。"
     }
   ]
 }

@@ -546,37 +546,35 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "区域",
-      "level": "L1",
-      "status": "L1·来源撤回(第35轮)",
-      "definition": "北美原住民：在欧洲人到来之前及其后生活于北美的原住民族群。",
-      "time_or_place": "末次冰期后至历史时期（本条引 1996 年美洲人群迁徙研究）",
-      "overview": "北美原住民：在欧洲人到来之前及其后生活于北美的原住民族群。",
+      "level": "L2",
+      "status": "L2完成(第36轮)-学术文献双源",
+      "definition": "北美原住民：在欧洲人到来之前即生活于北美的原住民族群，其祖源人群很可能经白令地区（Beringia）自亚洲进入美洲。",
+      "time_or_place": "进入时间与路线仍在争论（末次盛冰期前后为候选窗口；Beringia 停留模型）；两处来源均强调不确定性",
+      "overview": "北美原住民的祖源与进入时间属于活跃研究领域。2017 年发表于 PLoS ONE 的研究指出，人类首次进入北美的时间「仍在科学界激烈争论」；育空 Bluefish Caves 的测年支持末次盛冰期（LGM）期间进入东白令地区（阿拉斯加与育空），但因缺少同期遗址与地层疑虑而受质疑。另一项 2007 年 PLoS ONE 研究以 623 份完整线粒体 DNA 分析指出，美洲原住民源自少数亚洲奠基人群，很可能经白令地区抵达，并支持在 Beringia 停留（standstill）后扩散的模型。",
       "related": [
         "north-america-x4e2dx7f8ex6d32x5730x5ce1",
         "north-america-x53e4x5df4x5c9b",
         "north-america-x767dx4ee4x9646x6865"
       ],
       "sources": [
-        "britannica-regions",
-        "wikipedia-regions",
-        "un-m49",
-        "s075-aag-org",
+        "openalex-W2109701276",
+        "openalex-W2568445233",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "【第35轮返工·退回 L1】原第二来源 OpenAlex W2020901419（1996，《Paleoindian Cave Dwellers in the Amazon: The Peopling of the Americas》）的研究对象是**巴西亚马孙的 Monte Alegre 洞穴**，摘要自述其文化「distinct from North American cultures」，与本条「北美原住民」不同对象，已撤出。 原 geo 段「白令陆桥与沿海走廊两种假说」亦不在该文摘要内，属无源断言，已删。 本条现无学术第二来源，**退回 L1**；需补北美考古/民族史专题来源方可再升。其余来源为 UNSD/UNSDG 别名页与机构首页，无正文。",
+      "pending_notes": "第36轮返工后重新升级：已撤下原误用的 OpenAlex W2020901419（研究对象为**巴西亚马孙** Monte Alegre 洞穴）。本轮的兩個来源均以北美/白令地区为对象：W2109701276（2007，PLoS ONE，被引 797，mtDNA 与 Beringia 停留模型）与 W2568445233（2017，PLoS ONE，被引 210，育空 Bluefish Caves 测年，明确标注该结论受质疑）。 正文对进入时间与路线均保留「仍在争论」的表述，未给出确定年代。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-23",
-      "geo": "北美原住民的分布跨越北极、亚寒带、温带与干旱区，聚落形态随生态带变化显著。具体迁徙路线与年代属考古学议题，待专门来源核验。",
-      "influence": "本条不展开迁徙机制的具体断言；相关假说（白令陆桥、沿海走廊等）待专门考古与遗传学研究核验。",
-      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
-      "connections": "从东北亚经白令地区进入，随后向南北美洲扩散，形成从北极到火地岛的连续分布。",
+      "geo": "北美原住民的分布跨越北极、亚寒带、温带与干旱区，聚落形态随生态带变化显著。就进入路径而言，白令地区（今白令海峡两侧）是亚洲与美洲之间的陆桥区；末次盛冰期海平面下降使该陆桥出露，冰川消退的先后则决定内陆通道与沿海通道何时可用。**这些路径假说的具体时间仍属研究议题**，本条不给出确定年代。",
+      "influence": "所引 2007 年研究以大规模线粒体 DNA 分析表明：美洲原住民源自**少数亚洲奠基人群**，其内部遗传多样性高于此前报告，系统发育结构支持人群在 Beringia 有停留期后向南北扩散。所引 2017 年研究则以育空 Bluefish Caves 的测年支持末次盛冰期期间已进入东白令地区，同时明确指出该结论仍受质疑。两项证据分别来自遗传学与考古测年，**相互补充但都不构成定论**。",
+      "polities": "本条不展开具体族群的政治序列；不同区域的社会组织形态差异极大，待专门的民族志与考古研究核验。",
+      "connections": "经白令地区与东北亚相连，是美洲人群扩散的入口；此后南北美洲之间的走廊（中美洲地峡）成为继续南向扩散的通道。这一「自西北向东南」的扩散方向是遗传学与考古学共同支持的框架，具体路线与年代待核。",
       "today": "（本条的当代指标不在本页展开。）",
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>北美原住民</text><text x='40' y='370' class='dim'>北美原住民 · 简笔示意，非精确测绘</text></svg>"
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M120 200 L250 180 L380 200 L520 230 L640 260' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='250' cy='180' r='8' class='pt'/><text x='200' y='160' class='lbl'>白令地区</text><circle cx='380' cy='200' r='6' class='pt'/><text x='360' y='180' class='lbl'>北美</text><circle cx='520' cy='230' r='5' class='pt'/><text x='500' y='212' class='lbl'>中美</text><text x='40' y='370' class='dim'>北美原住民扩散示意（路线与年代仍有争议），非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x897fx5317x6d77x5cb8",
