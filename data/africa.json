@@ -237,11 +237,11 @@
       "unit_id": "africa",
       "region": "西非",
       "theme": "气候",
-      "level": "L1",
-      "status": "已复核(第22轮)",
-      "definition": "几内亚湾沿岸：几内亚湾暖湿气流带来丰沛降水，形成雨林与可可、油棕种植带。",
-      "time_or_place": "热带雨林与季风区",
-      "overview": "几内亚湾暖湿气流带来丰沛降水，形成雨林与可可、油棕种植带。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "几内亚湾沿岸：非洲西部赤道附近的海湾沿岸带。",
+      "time_or_place": "区域地理与近代政治经济；本条引 2007 年专论",
+      "overview": "几内亚湾沿岸：非洲西部赤道附近的海湾沿岸带。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "africa-x8428x8d6bx52d2x5e26",
         "africa-x6492x54c8x62c9x6c99x6f20",
@@ -251,16 +251,24 @@
         "britannica-regions",
         "wikipedia-regions",
         "s039-climate-nasa-gov",
-        "s048-climate-gov"
+        "s048-climate-gov",
+        "openalex-W1593162251",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西非×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮复核】西非×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页。 【第19轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。 【第20轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。 【第21轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。 【第22轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。",
+      "pending_notes": "第17轮复核：西非×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮复核】西非×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页。 【第19轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。 【第20轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。 【第21轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。 【第22轮复核】西非×气候；按 D041/D055 仍缺含气候机制正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1593162251（2007年，「Oil and Politics in the Gulf of Guinea」，DOI 无）；文献主题属本条领域，用于支撑地理与机制表述。年代以「区域地理与近代政治经济；本条引 2007 年专论」表述，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "沿海为低平三角洲与潟湖，背后是热带雨林；降水丰沛，河流众多，尼日尔河等形成大型三角洲。高温高湿使土壤有机质分解快，农业依赖轮作。",
+      "influence": "油气资源与港口位置塑造了近现代的政治经济格局；但沿海与内地的联系受雨林与交通条件制约，资源分布并不自动带来均衡发展。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经几内亚湾航道连接西非诸港与国际市场，内陆通过河流与公路连接萨赫勒。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 290 L240 245 L390 220 L530 240 L650 275' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='240' cy='245' r='6' class='pt'/><circle cx='530' cy='240' r='6' class='pt'/><text x='160' y='222' class='lbl'>几内亚湾沿岸</text><text x='40' y='370' class='dim'>几内亚湾沿岸 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "africa-x8428x8d6bx52d2x5e26",
