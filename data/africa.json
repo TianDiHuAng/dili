@@ -671,12 +671,12 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 两轮检索（Fatimid caliphate / Fatimid dynasty）均未取得标题匹配且有摘要的记录。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "africa-x52a0x7eb3x5e1dx56fd",
@@ -892,12 +892,12 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第39轮渠道探测】OpenAlex 候选为《A sister lineage of the Mycobacterium tuberculosis》（结核分枝杆菌谱系），对象为病原体而非区域，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     }
   ]
 }

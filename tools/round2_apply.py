@@ -239,7 +239,23 @@ def make_svg(title, region, theme):
 def load_docs():
     return {u: json.load(open(os.path.join(DATA,u+".json"),encoding="utf-8")) for u in UNITS}
 
+MD_FIELDS = ("definition", "overview", "geo", "influence", "polities",
+             "connections", "today", "time_or_place", "pending_notes")
+
+def strip_markdown(docs):
+    """D086：写入前剥离 markdown 星号（gen_site 直出转义，星号会原样显示给读者）。"""
+    n = 0
+    for d in docs.values():
+        for e in d.get("entries", []):
+            for f in MD_FIELDS:
+                v = e.get(f)
+                if isinstance(v, str) and "**" in v:
+                    e[f] = v.replace("**", "")
+                    n += 1
+    return n
+
 def save_docs(docs):
+    strip_markdown(docs)
     for u,d in docs.items():
         json.dump(d,open(os.path.join(DATA,u+".json"),"w",encoding="utf-8"),ensure_ascii=False,indent=2)
 

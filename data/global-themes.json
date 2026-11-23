@@ -216,13 +216,13 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 检索「desertification」在限流前仅返回无摘要记录；世界银行无「荒漠化面积」指标（拟用 AG.LND.FRST.ZS 替代因口径不符按 D077 弃用）。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x6cb3x6d41x4e09x89d2x6d32",
@@ -679,12 +679,12 @@
         "s070-cbd-int"
       ],
       "needs_verification": true,
-      "pending_notes": "背景来源 UN M49 与 CBD 页面已核验；本站只描述立场、不画线的编辑原则非事实断言，专题方法来源待补。",
+      "pending_notes": "背景来源 UN M49 与 CBD 页面已核验；本站只描述立场、不画线的编辑原则非事实断言，专题方法来源待补。 【第39轮渠道探测】本条为编辑原则（本站如何处理争议边界的画法与表述），非地理实体；OpenAlex 的「boundary」候选均为管理学 boundary work 概念，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "UN M49",
         "CBD 公约页面"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x68eex6797x8986x76d6x53d8x5316",
@@ -772,12 +772,12 @@
         "s073-iucn-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行无有效对应指标（ER.BDV.TOTL.ZS 为无效 ID；对应的 EN.BIR.THRD.NO 为物种数而非分布格局），故不采用。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x6d77x6d0bx4fddx62a4x533a",
@@ -971,12 +971,12 @@
         "wb-wld-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。 【第29轮现状数据】today 填入 wb-wld-urban 实测值（全球口径，含年份与单位）。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。 【第29轮现状数据】today 填入 wb-wld-urban 实测值（全球口径，含年份与单位）。 【第39轮渠道探测】世界银行仅有 PM2.5（EN.ATM.PM25.MC.M3），与热岛强度口径不符（D077 弃用）；OpenAlex 检索「urban heat island」在限流下未返回。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS，城市人口占比）：全球 2025年 57.8%。城市化率仅作背景，热岛强度需地面与卫星观测数据（地表温度差）核验，两者不可互换。"
     },
     {
@@ -1203,12 +1203,12 @@
         "s039-climate-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 s039-climate-nasa-gov（NASA 气候机构页，气候背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 s039-climate-nasa-gov（NASA 气候机构页，气候背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行 EN.CLC.MDAT.ZS 有值但仅覆盖 2009 年（1990–2009 平均口径），与当代风险口径不符，故不采用。",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x68eex6797x9762x79efx5360x6bd4",
@@ -1472,11 +1472,11 @@
         "s048-climate-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行无对应指标；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x571fx58e4x8d44x6e90",
@@ -1597,11 +1597,11 @@
         "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 un-m49。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 un-m49。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行 SI.POV.URBN.ZS 为无效 ID（城市贫困实际在 1.2.HCount.* 系列），口径与「空间分布」亦不完全对应，故不采用。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x6c34x8d44x6e90x7ba1x7406",
@@ -1816,11 +1816,11 @@
         "s071-cbd-int"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行 IQ.CPA.ENVR.XQ 仍在更新（2024/2025），但口径为 CPIA 国别评分，与「环境治理」综合口径不符，故不采用。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x53efx6301x7eedx4ea4x901a",
@@ -1842,11 +1842,11 @@
         "s075-aag-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第39轮渠道探测】世界银行无对应指标（IS.ROD.TOTL.KM 已停更）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x5730x7406x7a7ax95f4x6570x636ex4ea7x54c1",
@@ -1902,11 +1902,11 @@
         "s046-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行仅有森林覆盖率，与火灾生态口径不符（D077 弃用）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     },
     {
       "id": "global-themes-x56fdx5bb6x6536x5165x5206x7c7b",

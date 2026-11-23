@@ -822,12 +822,12 @@
         "wikipedia-regions"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23"
     }
   ]
 }

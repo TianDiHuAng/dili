@@ -6500,7 +6500,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Flexural uplift of the Transantarctic Mountains",
-      "note": "OpenAlex 作品 W2091566445；1989年；Journal of Geophysical Research Atmospheres；DOI https://doi.org/10.1029/jb094ib08p10315；被引 217。HTTP 200，16668 字节。摘要节录：The Transantarctic Mountains have formed at the continent‐continent boundary between East and West Antarctica. High heat flow, thin crust, normal faulting, and past and present volcanism indicate that this approximately 3000‐km‐long boundar…"
+      "note": "OpenAlex 作品 W2091566445；1989年；Journal of Geophysical Research: Solid Earth；DOI https://doi.org/10.1029/jb094ib08p10315；被引 217。HTTP 200，16668 字节。摘要节录：The Transantarctic Mountains have formed at the continent‐continent boundary between East and West Antarctica. High heat flow, thin crust, normal faulting, and past and present volcanism indicate that this approximately 3000‐km‐long boundar… 【第39轮订正】OpenAlex display_name 作「Atmospheres」系历史 ISSN 归并造成的字段缺陷；Crossref container-title 与 raw_source_name 均为 Solid Earth。"
     },
     {
       "id": "openalex-W2024312440",

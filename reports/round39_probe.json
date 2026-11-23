@@ -1,0 +1,60 @@
+{
+  "round": 39,
+  "date": "2026-11-23",
+  "openalex_status": "**搜索端点间歇 429**（12:04、12:15 实测 429；12:12 前后有 7 个主题取到结果并存于 round39_openalex.json）；单作品端点 works/{id} 正常（200）。其余 11 个主题未取得记录，且当时的取数脚本未落盘 HTTP 状态，故「429」与「返回但无标题匹配」在仓库内不可区分——下轮已加留痕。",
+  "tested_queries": [
+    "urban heat island",
+    "desertification drylands",
+    "sustainable transport mobility"
+  ],
+  "world_bank_tested": {
+    "ER.BDV.TOTL.ZS": "**指标 ID 无效**（API 返回 Invalid value）；对应「受威胁鸟类种数」为 EN.BIR.THRD.NO（CHN 2022=94 有值）",
+    "SI.POV.URBN.ZS": "**指标 ID 无效**；城市贫困在 1.2.HCount.* 系列有值",
+    "EN.CLC.MDAT.ZS": "**有值**：仅 2009 年（口径为 1990–2009 年受灾人口平均占比），与当代风险口径不符，故不采用",
+    "IQ.CPA.ENVR.XQ": "**仍在更新**（Kenya 2025=4、2024=3.5）；口径为 CPIA 国别评分，与「环境治理」综合口径不符，故不采用",
+    "IS.ROD.TOTL.KM": "值域 1990–2010，停更成立",
+    "EN.ATM.PM25.MC.M3": "有值；口径为 PM2.5 年均暴露，与热岛强度不符（D077）",
+    "AG.LND.FRST.ZS": "有值；口径为森林覆盖率，与火灾生态不符（D077）"
+  },
+  "kept_l1": [
+    "争议边界处理原则",
+    "南极洲无农业的环境约束",
+    "南极特别保护区",
+    "南美贸易网络",
+    "南锥体",
+    "古巴岛",
+    "可持续交通",
+    "城市热岛",
+    "城市贫困",
+    "极端天气预警",
+    "查文文化",
+    "沙漠化",
+    "法蒂玛王朝",
+    "火灾生态",
+    "环境治理",
+    "生物多样性分布",
+    "自然灾害风险",
+    "非洲大湖地区"
+  ],
+  "reasons": {
+    "南极特别保护区": "OpenAlex 检索「Antarctic Specially Protected Area」无标题含该短语且有摘要的记录；ATS 保护区名录为动态清单页，不宜作内容来源。",
+    "南极洲无农业的环境约束": "本轮候选为《Biological invasions in terrestrial Antarctica》（生物入侵），与「无农业」无逻辑关系，按 D081 剔除；「无农业」属该区域环境约束的常识推论，缺可核验端点。",
+    "沙漠化": "OpenAlex 检索「desertification」在限流前仅返回无摘要记录；世界银行无「荒漠化面积」指标（拟用 AG.LND.FRST.ZS 替代因口径不符按 D077 弃用）。",
+    "争议边界处理原则": "本条为编辑原则（本站如何处理争议边界的画法与表述），非地理实体；OpenAlex 的「boundary」候选均为管理学 boundary work 概念，按 D081 剔除。",
+    "生物多样性分布": "世界银行 ER.BDV.TOTL.ZS 返回无值；OpenAlex 检索在限流下未取得含摘要且标题匹配的记录。",
+    "城市热岛": "世界银行仅有 PM2.5（EN.ATM.PM25.MC.M3），与热岛强度口径不符（D077 弃用）；OpenAlex 检索「urban heat island」在限流下未返回。",
+    "自然灾害风险": "世界银行 EN.CLC.MDAT.ZS 返回无值；OpenAlex 检索在限流下未返回。",
+    "极端天气预警": "世界银行无对应指标；OpenAlex 检索在限流下未返回。",
+    "城市贫困": "世界银行 SI.POV.URBN.ZS 返回无值（该指标近年缺报）；OpenAlex 检索在限流下未返回。",
+    "可持续交通": "世界银行无对应指标（IS.ROD.TOTL.KM 已停更）；OpenAlex 检索在限流下未返回。",
+    "环境治理": "世界银行 IQ.CPA.ENVR.XQ 已停更；OpenAlex 检索在限流下未返回。",
+    "火灾生态": "世界银行仅有森林覆盖率，与火灾生态口径不符（D077 弃用）；OpenAlex 检索在限流下未返回。",
+    "法蒂玛王朝": "OpenAlex 两轮检索（Fatimid caliphate / Fatimid dynasty）均未取得标题匹配且有摘要的记录。",
+    "非洲大湖地区": "OpenAlex 候选为《A sister lineage of the Mycobacterium tuberculosis》（结核分枝杆菌谱系），对象为病原体而非区域，按 D081 剔除。",
+    "古巴岛": "OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。",
+    "查文文化": "OpenAlex 候选为《Ancient Peruvian optics... Chavin》(镜面光学)，主题过窄且非文化整体，按 D081 剔除。",
+    "南美贸易网络": "OpenAlex 候选为安第斯考古木材树种鉴定，非贸易网络，按 D081 剔除。",
+    "南锥体": "OpenAlex 候选为《Rapid coastal spread of First Americans》(人群迁徙)，与区域地理主题不符，按 D081 剔除（与巴塔哥尼亚处理口径一致，见 D089）。"
+  },
+  "corrections": "本文件第39轮首版把 4 项世行指标误述为「无值」或「已停更」，经抽检核实后订正；错误已同步回改 4 条条目的 pending_notes。"
+}

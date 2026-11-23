@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 38,
+  "last_round": 39,
   "history": [
     {
       "round": 1,
@@ -468,6 +468,19 @@
       "gaps_found": 264,
       "note": "补充L2 56→72；总L2 204→220（90.5%）",
       "result": "非饱和"
+    },
+    {
+      "round": 39,
+      "methods_used": [
+        "B1 OpenAlex（429限流）",
+        "世行指标（多数无值/口径不符）",
+        "探测失败留痕（D062）",
+        "R17",
+        "台账"
+      ],
+      "gaps_found": 261,
+      "note": "渠道限流：升级3条，补充L2 72→75；18条记录失败原因",
+      "result": "非饱和（渠道受限）"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
