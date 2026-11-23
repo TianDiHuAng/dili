@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -1250,10 +1250,10 @@
     },
     {
       "id": "south-america-x5357x7f8ex8d38x6613x7f51x7edc",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "骨架",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2080,10 +2080,10 @@
     },
     {
       "id": "global-themes-x519cx4e1ax6c14x5019x98cex9669",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
-      "status": "L1完成(第13轮)",
-      "source_count": 2,
+      "status": "L2完成(第40轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 39,
-  "round_processed": 3,
+  "round": 40,
+  "round_processed": 15,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

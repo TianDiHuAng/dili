@@ -325,7 +325,7 @@
       "level": "L2",
       "status": "L2完成(第40轮)-学术文献",
       "definition": "查文文化：安第斯中部的早期文化，以查文德万塔尔遗址与大型石构建筑著称。",
-      "time_or_place": "约公元前900–前200年（查文文化；所引研究讨论其权威演化）",
+      "time_or_place": "查文文化通行跨度约公元前900–前200年；所引研究覆盖的是更早的初始期晚期至早地平线期（约前1300–前600年），两段不可互推",
       "overview": "查文文化：安第斯中部的早期文化，以查文德万塔尔遗址与大型石构建筑著称。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
       "related": [
         "south-america-x8482x4e9ax74e6x7eb3x79d1",
@@ -339,14 +339,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为《Ancient Peruvian optics... Chavin》(镜面光学)，主题过窄且非文化整体，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1979034930（2004年，《The Evolution of Authority and Power at Chavin de Huantar, Peru》，DOI 10.1525/ap3a.2005.14.071），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为《Ancient Peruvian optics... Chavin》(镜面光学)，主题过窄且非文化整体，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1979034930（2004年，《The Evolution of Authority and Power at Chavin de Huantar, Peru》，DOI 10.1525/ap3a.2005.14.071），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】① 时期分开：所引研究覆盖约前1300–前600年，条目文化跨度约前900–前200年，已在 time_or_place 与正文分列（D083②）。② 删除「热带贝壳、黑曜石」——摘要未列这些物证，属常识补充，已移除。③ 年份差异说明：Crossref 记 2005-01、OpenAlex 记 2004，属出版与收录时间差。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "核心在安第斯中部的高山谷地（今秘鲁安卡什），海拔约3000米；河谷是南北与东西通道的交汇，石料与水源决定选址。",
-      "influence": "所引 2004 年研究讨论查文德万塔尔权威与权力的演化，指出其仪式性建筑与外来物（如热带贝壳、黑曜石）的集中反映跨区域联系与地方权威的形成。这说明早期宗教中心同时是政治经济节点。",
+      "influence": "所引 2004 年研究讨论查文德万塔尔权威与权力的演化，其材料包括石雕、切石建筑、地下廊道、地形改造，以及声光环境与致幻物的使用。作者据此论证仪式中心同时是政治权威形成的场所。（研究对象的时间段为约前1300–前600年，早于查文文化的通行跨度；本条不据此推断后段的制度。）",
       "connections": "连接沿海（获取贝壳与鱼类）与亚马逊东坡（获取羽毛与植物），是安第斯垂直交换网络的枢纽。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -625,11 +625,11 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "南美贸易网络：从安第斯高原到海岸的垂直交换与远距离贸易并存。",
+      "level": "L2",
+      "status": "L2完成(第40轮)-学术文献",
+      "definition": "南美贸易网络：前西班牙时期安第斯与南美各地区之间的长距离交换体系。",
       "time_or_place": "古代至今",
-      "overview": "从安第斯高原到海岸的垂直交换与远距离贸易并存。",
+      "overview": "南美贸易网络：前西班牙时期安第斯与南美各地区之间的长距离交换体系。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
       "related": [
         "south-america-x4e9ax9a6cx900ax6cb3",
         "south-america-x5b89x7b2cx65afx5c71x8109",
@@ -637,15 +637,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2102360536",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为安第斯考古木材树种鉴定，非贸易网络，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为安第斯考古木材树种鉴定，非贸易网络，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2102360536（2014年，《Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective》，DOI 10.1111/aman.12145，被引 19），经 Crossref→OpenAlex DOI 桥获取。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23"
+      "last_update": "2026-11-23",
+      "geo": "安第斯地区的交换沿垂直生态带展开：沿海提供鱼类与贝壳，高地提供马铃薯与藜麦，亚马逊东坡提供羽毛、木材与药材。这种「垂直群岛」格局使长距离交换成为生计必需。",
+      "influence": "所引 2014 年研究以世界体系视角讨论贵重贸易品（如 Spondylus 马蹄螺贝壳）在安第斯社会再生产中的作用，并把它与安第斯主要语言的多次扩散相联系。这说明贸易品兼具经济与象征功能，可与语言与族群过程交织。",
+      "connections": "连接沿海、高地与亚马逊东坡，并向北接入中美洲、向南接入南锥体方向的路线。",
+      "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 275 L235 238 L375 218 L515 236 L645 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='218' r='7' class='pt'/><text x='275' y='196' class='lbl'>南美贸易网络</text><text x='40' y='370' class='dim'>南美贸易网络 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "south-america-x5df4x897fx6b96x6c11x7ecfx6d4e",

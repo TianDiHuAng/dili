@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 39,
+  "last_round": 40,
   "history": [
     {
       "round": 1,
@@ -481,6 +481,18 @@
       "gaps_found": 261,
       "note": "渠道限流：升级3条，补充L2 72→75；18条记录失败原因",
       "result": "非饱和（渠道受限）"
+    },
+    {
+      "round": 40,
+      "methods_used": [
+        "B1 Crossref→OpenAlex DOI桥（绕过429）",
+        "误匹配剔除（11条）",
+        "D088/D081复查",
+        "台账"
+      ],
+      "gaps_found": 246,
+      "note": "补充L2 75→90；总L2 223→238（98%）；仅剩5条L1",
+      "result": "非饱和（剩5条）"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",

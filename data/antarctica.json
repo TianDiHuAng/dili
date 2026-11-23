@@ -319,7 +319,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "抽检返工：软化绝对表述；食物补给与人员规模数据待权威来源核验。 【第39轮渠道探测】本轮候选为《Biological invasions in terrestrial Antarctica》（生物入侵），与「无农业」无逻辑关系，按 D081 剔除；「无农业」属该区域环境约束的常识推论，缺可核验端点。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2994660888（2014年，《The terrestrial environment》，DOI 10.4324/9781315845166-3），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
+      "pending_notes": "抽检返工：软化绝对表述；食物补给与人员规模数据待权威来源核验。 【第39轮渠道探测】本轮候选为《Biological invasions in terrestrial Antarctica》（生物入侵），与「无农业」无逻辑关系，按 D081 剔除；「无农业」属该区域环境约束的常识推论，缺可核验端点。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2994660888（2014年，《The terrestrial environment》，DOI 10.4324/9781315845166-3），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】原稿把「露岩区不足1%」「仅有两种维管植物」写在「所引 2014 年研究描述」之下——该章摘要并无这两项，属把通识归因给文献（D081/D083）；已拆出并标为「通用事实补充（非该章内容）」，待专门来源核验。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
@@ -327,7 +327,7 @@
       ],
       "last_update": "2026-11-23",
       "geo": "南极大陆几乎全被冰盖覆盖，露岩区不足 1%；即使露岩区，生长期极短、土壤发育极弱（多为粗骨土）、降水以雪为主，缺乏可耕作土壤与稳定液态水。",
-      "influence": "所引 2014 年研究描述南极陆地环境：极端低温、干旱（尽管冰多而可用水少）、强风与短生长季共同限制维管植物的分布，仅有两种维管植物见于南极半岛。这一环境组合使农业不可行。",
+      "influence": "所引 2014 年章节描述南极陆地环境：冰川与冰缘系统占绝对主导，生命主要局限于大陆的边缘地带，且存在显著的地理差异（半岛与内陆、露岩区与冰下环境）。通用事实补充（非该章内容）：南极露岩区占大陆面积不足 1%（通行估计约 0.3%），维管植物仅 2 种；这两项须以 SCAR 或南极条约体系的专门来源核验，本条暂不将其归因于所引章节。",
       "connections": "与冰盖、气候带、生物多样性（特有种与简单群落结构）相关。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",

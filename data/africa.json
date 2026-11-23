@@ -902,14 +902,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第39轮渠道探测】OpenAlex 候选为《A sister lineage of the Mycobacterium tuberculosis》（结核分枝杆菌谱系），对象为病原体而非区域，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2967976954（2019年，《Comparison of Hydrology and Physical Limnology of the East African Great Lakes: Tanganyika, Malawi, Victoria, Kivu and Turkana (with reference to some North American Great Lakes)》，DOI 10.1201/9780203748978-6），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第39轮渠道探测】OpenAlex 候选为《A sister lineage of the Mycobacterium tuberculosis》（结核分枝杆菌谱系），对象为病原体而非区域，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2967976954（2019年，《Comparison of Hydrology and Physical Limnology of the East African Great Lakes: Tanganyika, Malawi, Victoria, Kivu and Turkana (with reference to some North American Great Lakes)》，DOI 10.1201/9780203748978-6），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】删除「分层与混合→营养循环与渔业」——所引摘要只讲湖盆形态与水量平衡，该推链条属摘要外推。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "湖泊位于东非裂谷带的构造洼地，深度大、水体分层明显；周边高原降水较丰，农业与渔业支撑密集人口。湖泊之间的海拔与连通性差异极大。",
-      "influence": "所引 2019 年研究比较该区域各湖的水文与物理湖沼学特征，指出湖盆形态与深度决定分层与混合方式，进而影响营养循环与渔业。这说明同一区域内的湖泊不能一概而论。",
+      "influence": "所引 2019 年研究比较该区域各湖的水文与物理湖沼学特征，指出湖盆形态与水量平衡的差异使各湖表现不同，不能一概而论。 本条不据该文献推断分层、营养循环或渔业的具体机制。",
       "connections": "经尼罗河、刚果河与赞比西河等水系连接外部，湖泊本身构成内河航运与渔业的中心。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",

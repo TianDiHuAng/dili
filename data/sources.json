@@ -6587,11 +6587,11 @@
       "year": 2022,
       "type": "期刊论文",
       "url": "https://api.openalex.org/works/W4306771028",
-      "url2": "https://doi.org/10.21203/rs.3.rs-1343486/v1",
+      "url2": "https://doi.org/10.1007/s10584-022-03444-6",
       "link_ok": true,
       "verified": true,
       "page_title": "A canary, a coal mine, and imperfect data: determining the efficacy of open-source climate change models in detecting and predicting extreme weather events in Northern and Western Kenya",
-      "note": "OpenAlex 作品 W4306771028（经 Crossref DOI 10.21203/rs.3.rs-1343486/v1 定位）；2022年；Climatic Change；被引 3。HTTP 200，26622 字节。摘要长度 974 字符，节录：Climate models, by accurately forecasting future weather events, can be a critical tool in developing countermeasures to reduce crop loss and decrease adverse effects on animal husbandry and fishing. In this paper, we investigate the effica…"
+      "note": "OpenAlex 作品 W4306771028（经 Crossref DOI 10.21203/rs.3.rs-1343486/v1 定位）；2022年；Climatic Change；被引 3。HTTP 200，26622 字节。摘要长度 974 字符，节录：Climate models, by accurately forecasting future weather events, can be a critical tool in developing countermeasures to reduce crop loss and decrease adverse effects on animal husbandry and fishing. In this paper, we investigate the effica… 【第40轮订正】正式版 DOI 为 10.1007/s10584-022-03444-6（Climatic Change, 2022-10）；原记 10.21203/rs.3.rs-1343486/v1 系预印本，题名不同。"
     },
     {
       "id": "openalex-W2169088426",
@@ -6696,6 +6696,32 @@
       "verified": true,
       "page_title": "The Spanish postwar emigration to the Southern Cone (1946–1960)",
       "note": "OpenAlex 作品 W4224441281（经 Crossref DOI 10.4324/9781003250401-10 定位）；2022年；Routledge eBooks；被引 3。HTTP 200，14836 字节。摘要长度 1103 字符，节录：This chapter reconsiders the characteristics of the last migratory flow from Spain to the Southern Cone during the 20th century. The chronological framework includes the reinstatement of intercontinental displacements after World War II, th…"
+    },
+    {
+      "id": "openalex-W2925321084",
+      "title": "OpenAlex W2925321084 — Vulnerability of the agricultural sector to climate change: The development of a pan-tropical Climate Risk Vulnerability Assessment to inform sub-national decision making",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2019,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2925321084",
+      "url2": "https://doi.org/10.1371/journal.pone.0213641",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Vulnerability of the agricultural sector to climate change: The development of a pan-tropical Climate Risk Vulnerability Assessment to inform sub-national decision making",
+      "note": "OpenAlex 作品 W2925321084（经 Crossref DOI 10.1371/journal.pone.0213641 定位）；2019年；PLoS ONE；被引 272。HTTP 200，40905 字节。摘要长度 2029 字符。"
+    },
+    {
+      "id": "openalex-W2102360536",
+      "title": "OpenAlex W2102360536 — Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2014,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2102360536",
+      "url2": "https://doi.org/10.1111/aman.12145",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective",
+      "note": "OpenAlex 作品 W2102360536（经 Crossref DOI 10.1111/aman.12145 定位）；2014年；American Anthropologist；被引 19。HTTP 200，17072 字节。摘要长度 1283 字符。"
     }
   ]
 }

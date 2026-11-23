@@ -566,6 +566,21 @@
       "sample_rate": "全部升级条目(3条)+2条探测记录",
       "sample_audit": "3条全部抽检：1 PASS附2项必改、2 FAIL（罗斯海「最深」与Britannica原文shallow相反、科考站结论倒置把37%/69%无设施写成「已成治理一部分」）→返工；横贯山脉期刊名订正为JGR:Solid Earth、3000km为边界长度非山脉全长、方位改东西；probe.json 4处世行口径误述订正（两个ID无效非无值、一个仅2009年、一个仍在更新）；补D081单源声明；save_docs内置去星号根治",
       "note": "OpenAlex全程429限流：仅3条南极条目升级；18条如实记录探测失败"
+    },
+    {
+      "round": 40,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 15,
+      "reviews": 0,
+      "fixes": 15,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 15,
+      "sample_rate": "25%（10条 / 本轮15条升级）",
+      "sample_audit": "10条抽检5PASS/5FAIL：城市热岛(我的「城市规模非线性」替换了摘要的纬度梯度与6%方差)、生物多样性(与摘要「保护区已较好覆盖PD」相反且墨西哥个案当通例)、极端天气(DOI预印本错配+结论句读反)、南极无农业(露岩1%/两种维管植物为常识归因给文献)、查文(所引前1300-600BC与条目900-200BC未分开+贝壳黑曜石无源)、可持续交通「车ownnership」拼写硬伤)→全部重写；另4条微调(沙漠化/自然灾害/城市贫困/火灾生态)+非洲大湖删外推",
+      "note": "Crossref→OpenAlex DOI 桥绕过 search 端点 429；升级 15 条，总 L2 达 238/243（98%）"
     }
   ]
 }
