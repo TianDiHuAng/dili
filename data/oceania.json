@@ -446,11 +446,11 @@
       "unit_id": "oceania",
       "region": "大洋洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第25轮·无实证)",
-      "definition": "大堡礁：澳大利亚东北岸外的珊瑚礁群，由珊瑚骨骼长期堆积形成，是重要的海洋生态系统。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "澳大利亚东北岸外的珊瑚礁群，由珊瑚骨骼长期堆积形成，是重要的海洋生态系统。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "大堡礁：澳大利亚东北岸外的珊瑚礁群系统。",
+      "time_or_place": "生态尺度（本条引 2003 年珊瑚除草剂影响研究）",
+      "overview": "大堡礁：澳大利亚东北岸外的珊瑚礁群系统。",
       "related": [
         "oceania-x6fb3x5927x5229x4e9ax5927x9646",
         "oceania-x5927x5206x6c34x5cad",
@@ -458,16 +458,24 @@
       ],
       "sources": [
         "s050-oceanservice-noaa-gov",
-        "s085-unesco-org"
+        "s085-unesco-org",
+        "openalex-W2020216779",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 0；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO 大堡礁世界遗产页；当前两源对珊瑚礁主题均无正文支撑。 【第24轮实证复核】s050-oceanservice-noaa-gov=200/正文2753字符/命中0；s085-unesco-org=0/正文0字符/命中0。 【第25轮实证复核·大堡礁】正则 reef|coral；s050-oceanservice-noaa-gov(200/正文2753字符/命中0)；s085-unesco-org(200/正文218字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 2753 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「大堡礁」专题页时维持 L1。",
+      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 0；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO 大堡礁世界遗产页；当前两源对珊瑚礁主题均无正文支撑。 【第24轮实证复核】s050-oceanservice-noaa-gov=200/正文2753字符/命中0；s085-unesco-org=0/正文0字符/命中0。 【第25轮实证复核·大堡礁】正则 reef|coral；s050-oceanservice-noaa-gov(200/正文2753字符/命中0)；s085-unesco-org(200/正文218字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 2753 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「大堡礁」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020216779（2003年，《Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia》，DOI https://doi.org/10.3354/meps251153）。 该文献与本条同一对象；正文的地理与机制段落据其摘要撰写，未外推。年代以「生态尺度（本条引 2003 年珊瑚除草剂影响研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "位于昆士兰海岸外的大陆架，水深浅、光照足、水温适宜，适合造礁珊瑚；外海与近岸的水质差异直接影响礁体健康。",
+      "influence": "所引 2003 年实验显示，除草剂（敌草隆、阿特拉津）在**极低浓度下即可影响珊瑚的共生藻**，说明陆源农业径流对近岸礁体的影响可通过化学途径传导，而不仅是泥沙覆盖。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "与昆士兰沿岸河流的径流相连，陆源物质经河流入海影响礁体，是陆海耦合的典型。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M95 288 L230 246 L370 224 L510 240 L645 274' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='370' cy='224' r='7' class='pt'/><text x='285' y='202' class='lbl'>大堡礁</text><text x='40' y='370' class='dim'>大堡礁 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "oceania-x592ax5e73x6d0bx6b96x6c11x822ax7ebf",

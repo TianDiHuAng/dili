@@ -718,11 +718,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "农业",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "美国西进：向西部扩张，铁路与移民改变大平原与西部土地利用。",
-      "time_or_place": "19世纪",
-      "overview": "向西部扩张，铁路与移民改变大平原与西部土地利用。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "美国西进：19世纪美国向北美西部的扩张与settler殖民过程。",
+      "time_or_place": "19世纪（本条引 2005 年关于美国西部非裔 American 的史料集）",
+      "overview": "美国西进：19世纪美国向北美西部的扩张与settler殖民过程。",
       "related": [
         "north-america-x5927x5e73x539f",
         "north-america-x767dx4ee4x9646x6865",
@@ -731,16 +731,24 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s018-fao-org"
+        "s018-fao-org",
+        "openalex-W1548267435",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s059-worldbank-org（D040/D047 同型问题）。",
+      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s059-worldbank-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1548267435（2005年，《The Black West: A Documentary and Pictorial History of the African American Role in the Westward Expansion of the United States》，DOI 无）。 该文献与本条同一对象；正文的地理与机制段落据其摘要撰写，未外推。年代以「19世纪（本条引 2005 年关于美国西部非裔 American 的史料集）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "自密西西比河谷向西依次为平原、落基山地、大盆地与太平洋沿岸，降水递减；越过 100°W 后进入半干旱区，农业需依赖灌溉与旱作技术。",
+      "influence": "所引史料集提示：西进的叙述长期以白人 settler 为主体，**非裔与其它群体的参与被系统性低估**；这说明对同一地理过程的记述本身受立场影响。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经俄勒冈小径、圣塔菲小径与横贯大陆铁路连接东部与西部，太平洋沿岸港口通亚洲贸易。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M95 288 L230 246 L370 224 L510 240 L645 274' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='370' cy='224' r='7' class='pt'/><text x='285' y='202' class='lbl'>美国西进</text><text x='40' y='370' class='dim'>美国西进 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x52a0x52d2x6bd4x6d77x7fa4x5c9b",

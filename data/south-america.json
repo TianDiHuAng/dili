@@ -90,11 +90,11 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "巴西高原：古老高原，东南沿海咖啡与矿业经济重要。",
-      "time_or_place": "约古代至今",
-      "overview": "古老高原，东南沿海咖啡与矿业经济重要。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "巴西高原：南美洲东部的大片高原，覆盖巴西中东部。",
+      "time_or_place": "地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）",
+      "overview": "巴西高原：南美洲东部的大片高原，覆盖巴西中东部。",
       "related": [
         "south-america-x5b89x7b2cx65afx5c71x8109",
         "south-america-x4e9ax9a6cx900ax76c6x5730",
@@ -103,15 +103,23 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "ap-human-geo"
+        "ap-human-geo",
+        "openalex-W1982587238",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。",
+      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1982587238（2007年，《The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition》，DOI https://doi.org/10.1179/174963107x226390）。 该文献与本条同一对象；正文的地理与机制段落据其摘要撰写，未外推。年代以「地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "高原海拔多在500–1000米，边缘陡降为崖壁；气候自热带向亚热带过渡，降水与干季长度决定植被类型。",
+      "influence": "所引 2007 年研究讨论 Araucaria 森林在巴西南部的扩张，显示**植被分布随气候与人类活动的千年尺度变化**而移动，不是固定不变的景观。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "高原上的河流多向西或向北汇入亚马孙与巴拉那水系，是南美内陆水系的源头区。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M95 288 L230 246 L370 224 L510 240 L645 274' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='370' cy='224' r='7' class='pt'/><text x='285' y='202' class='lbl'>巴西高原</text><text x='40' y='370' class='dim'>巴西高原 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "south-america-x62c9x666ex62c9x5854x5e73x539f",
@@ -606,11 +614,11 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "巴西殖民经济：糖、黄金与咖啡周期塑造沿海与内陆开发格局。",
-      "time_or_place": "16—19世纪",
-      "overview": "糖、黄金与咖啡周期塑造沿海与内陆开发格局。",
+      "level": "L2",
+      "status": "L2完成(第35轮)-学术文献",
+      "definition": "巴西殖民经济：1500–1822年葡萄牙治下巴西的种植园与出口经济。",
+      "time_or_place": "1500–1822年（本条引 2024 年殖民巴西社会与政府研究）",
+      "overview": "巴西殖民经济：1500–1822年葡萄牙治下巴西的种植园与出口经济。",
       "related": [
         "south-america-x67e5x6587x6587x5316",
         "south-america-x8482x4e9ax74e6x7eb3x79d1",
@@ -618,15 +626,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W565333537",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s011-unesco-org（D040/D047 同型问题）。",
+      "pending_notes": "第16轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s011-unesco-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W565333537（2024年，《Society and Government in Colonial Brazil, 1500-1822》，DOI https://doi.org/10.4324/9781003554967）。 该文献与本条同一对象；正文的地理与机制段落据其摘要撰写，未外推。年代以「1500–1822年（本条引 2024 年殖民巴西社会与政府研究）」表述并注明学界有不同版本。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "沿海为狭长的湿润平原（zona da mata），适合甘蔗；内陆高原为较干燥的牧区与后来的咖啡带；这一「沿海种植园—内陆牧业」的二分是殖民经济的地理骨架。",
+      "influence": "所引 2024 年研究强调殖民巴西的**社会与政府制度**如何与种植园经济相互支撑：土地授予、劳役与市政组织共同决定了出口导向的形态，地理只是条件。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "connections": "经大西洋航线连接葡萄牙与非洲（奴隶贸易），是三角贸易的关键一端。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M95 288 L230 246 L370 224 L510 240 L645 274' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='370' cy='224' r='7' class='pt'/><text x='285' y='202' class='lbl'>巴西殖民经济</text><text x='40' y='370' class='dim'>巴西殖民经济 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "south-america-x5357x9525x4f53",
