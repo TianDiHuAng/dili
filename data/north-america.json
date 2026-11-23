@@ -583,11 +583,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "西北海岸：海岸资源丰富，原住民发展出复杂的交换与仪式体系。",
-      "time_or_place": "古代至今",
-      "overview": "海岸资源丰富，原住民发展出复杂的交换与仪式体系。",
+      "level": "L2",
+      "status": "L2完成(第38轮)-学术文献",
+      "definition": "西北海岸：北美太平洋西北沿岸的原住民文化区，从阿拉斯加东南延伸至华盛顿州。",
+      "time_or_place": "长期延续至历史时期（所引研究为民族志与考古综合）",
+      "overview": "西北海岸：北美太平洋西北沿岸的原住民文化区，从阿拉斯加东南延伸至华盛顿州。",
       "related": [
         "north-america-x5bc6x897fx897fx6bd4x6cb3",
         "north-america-x7279x5965x8482x74e6x574e",
@@ -595,15 +595,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2163451848",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2163451848（2013年，《Indigenous marine resource management on the Northwest Coast of North America》，DOI https://doi.org/10.1186/2192-1709-2-12）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "海岸为峡湾与岛屿交错，冷温带雨林提供雪松与鲑鱼；海洋生产力高，河流的鲑鱼洄游形成季节性资源脉冲。",
+      "influence": "所引 2013 年研究指出，该区域原住民主动管理陆域与海洋资源（如贝类床、火控促进资源植物），其管理实践嵌入复杂的社会经济网络。这修正了「采集者被动适应」的印象。",
+      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "沿岸航线连接南北，与内陆高原文化区通过河流与山口交换。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 280 L240 240 L380 220 L520 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='290' y='198' class='lbl'>西北海岸</text><text x='40' y='370' class='dim'>西北海岸 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x683cx9675x5170x5c9b",
@@ -650,11 +658,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "新法兰西：法国在圣劳伦斯河流域的殖民据点，毛皮贸易为主。",
-      "time_or_place": "16—18世纪",
-      "overview": "法国在圣劳伦斯河流域的殖民据点，毛皮贸易为主。",
+      "level": "L2",
+      "status": "L2完成(第38轮)-学术文献",
+      "definition": "新法兰西：法国在北美东北部的殖民地，沿圣劳伦斯河与密西西比河流域展开。",
+      "time_or_place": "16–18世纪（新法兰西殖民地，1534–1763年）",
+      "overview": "新法兰西：法国在北美东北部的殖民地，沿圣劳伦斯河与密西西比河流域展开。",
       "related": [
         "north-america-x5bc6x897fx897fx6bd4x6cb3",
         "north-america-x7279x5965x8482x74e6x574e",
@@ -662,15 +670,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2076135343",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2076135343（2012年，《Travel Writing, Ethnography, and the Colony-Centric Voyage of theJesuit Relationsfrom New France》，DOI https://doi.org/10.1080/02722011.2012.649922）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在圣劳伦斯河谷，水路直通五大湖；北方森林与毛皮资源是经济基础，河谷平原可耕作但生长季短。",
+      "influence": "所引 2012 年研究以耶稣会《Relations》为对象，指出这些文本需放在殖民地内部循环（而非仅「冒险家的记述」）的语境中理解。这提示殖民文献本身是宣传与知识生产的工具，不能直接当作客观记录。",
+      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "经圣劳伦斯河口通大西洋，经五大湖与密西西比水系深入北美内陆，与英国殖民地及原住民诸族交织。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 280 L240 240 L380 220 L520 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='290' y='198' class='lbl'>新法兰西</text><text x='40' y='370' class='dim'>新法兰西 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x5341x4e09x6b96x6c11x5730",

@@ -170,11 +170,11 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "气候",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "巴塔哥尼亚：安第斯东侧干旱高原，强风与冰川地貌显著。",
-      "time_or_place": "古代至今",
-      "overview": "安第斯东侧干旱高原，强风与冰川地貌显著。",
+      "level": "L2",
+      "status": "L2完成(第38轮)-学术文献",
+      "definition": "巴塔哥尼亚：南美洲南端的广大区域，以干旱草原、冰川与强风著称。",
+      "time_or_place": "区域地理与人群史（所引研究为古基因组）",
+      "overview": "巴塔哥尼亚：南美洲南端的广大区域，以干旱草原、冰川与强风著称。",
       "related": [
         "south-america-x963fx5854x5361x9a6cx6c99x6f20",
         "south-america-x5b89x7b2cx65afx5c71x8109",
@@ -182,15 +182,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W3046252846",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3046252846（2020年，《Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography》，DOI https://doi.org/10.1038/s41467-020-17656-w）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "安第斯山脉在西部，向东过渡为台地草原；西风带带来降水集中于山地，东侧处于雨影。南部为冰川区与峡湾。",
+      "influence": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史，显示该区域人群的流动与替代过程比单一「沿海扩张」模型更复杂。这说明区域人群史需要多点证据，而非单一路线推断。",
+      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "北接潘帕斯草原，南隔麦哲伦海峡与火地岛相望，两侧分别为太平洋与大西洋。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 280 L240 240 L380 220 L520 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='290' y='198' class='lbl'>巴塔哥尼亚</text><text x='40' y='370' class='dim'>巴塔哥尼亚 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "south-america-x963fx5854x5361x9a6cx6c99x6f20",
@@ -277,11 +285,11 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "农业",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "的的喀喀湖：安第斯高原湖泊，周边梯田与鱼类资源丰富。",
-      "time_or_place": "古代至今",
-      "overview": "安第斯高原湖泊，周边梯田与鱼类资源丰富。",
+      "level": "L2",
+      "status": "L2完成(第38轮)-学术文献",
+      "definition": "的的喀喀湖：南美洲安第斯高原上的大型高原湖泊，位于秘鲁与玻利维亚交界。",
+      "time_or_place": "湖泊与区域文明（长期延续）",
+      "overview": "的的喀喀湖：南美洲安第斯高原上的大型高原湖泊，位于秘鲁与玻利维亚交界。",
       "related": [
         "south-america-x62c9x666ex62c9x5854x5e73x539f",
         "south-america-x83abx5207x6587x5316",
@@ -289,15 +297,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W3149966361",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3149966361（2002年，《Lines in the Water: Nature and Culture at Lake Titicaca》，DOI https://doi.org/10.1525/9780520935891）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "湖面海拔约3800米，面积大而水深；湖水调节局地温度，湖岸与岛屿在高寒环境中提供相对温和的小气候。周围为干旱高原。",
+      "influence": "所引 2002 年研究以「水中的界线」为题，讨论湖泊如何同时作为资源、交通与文化与政治边界。这提示水域不仅提供生计，也参与社会边界的形成。",
+      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "经湖泊与高原道路连接秘鲁南部、玻利维亚与智利北部，是安第斯南部交换网络的中心。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 280 L240 240 L380 220 L520 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='290' y='198' class='lbl'>的的喀喀湖</text><text x='40' y='370' class='dim'>的的喀喀湖 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "south-america-x67e5x6587x6587x5316",
@@ -373,11 +389,11 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "地形",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "纳斯卡文化：干旱海岸谷地，纳斯卡线条与地下水渠（puquios）著名。",
-      "time_or_place": "约前100—700年",
-      "overview": "干旱海岸谷地，纳斯卡线条与地下水渠（puquios）著名。",
+      "level": "L2",
+      "status": "L2完成(第38轮)-学术文献",
+      "definition": "纳斯卡文化：秘鲁南部沿海与内陆谷地的古代文化，以地画与精细陶器著称。",
+      "time_or_place": "约公元前1世纪至公元8世纪（纳斯卡文化；所引研究为该区地质考古）",
+      "overview": "纳斯卡文化：秘鲁南部沿海与内陆谷地的古代文化，以地画与精细陶器著称。",
       "related": [
         "south-america-x5b89x7b2cx65afx5c71x8109",
         "south-america-x4e9ax9a6cx900ax76c6x5730",
@@ -385,15 +401,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2019769917",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2019769917（2005年，《GEOARCHAEOLOGICAL EVIDENCE FROM DESERT LOESS IN THE NAZCA–PALPA REGION, SOUTHERN PERU: PALAEOENVIRONMENTAL CHANGES AND THEIR IMPACT ON PRE‐COLUMBIAN CULTURES*》，DOI https://doi.org/10.1111/j.1475-4754.2005.00193.x）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "位于阿塔卡马沙漠北缘的干旱谷地，河流的季节水量决定农业的可能；沙漠表面（pampa）覆盖石砾，地画即通过移除表层砾石形成。",
+      "influence": "所引 2005 年研究以沙漠黄土与地貌分析建立该区环境演化的初步年代序列，说明景观本身在长期气候波动中变化——地画的「持久可见」依赖于极端干旱这一条件。",
+      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "经沿海航运与谷地间的陆路连接帕拉卡斯、伊卡与高地。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 280 L240 240 L380 220 L520 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='290' y='198' class='lbl'>纳斯卡文化</text><text x='40' y='370' class='dim'>纳斯卡文化 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "south-america-x8482x4e9ax74e6x7eb3x79d1",
@@ -439,11 +463,11 @@
       "unit_id": "south-america",
       "region": "南美洲",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "骨架",
-      "definition": "奇穆帝国：秘鲁北岸国家，灌溉城市昌昌为都城。",
-      "time_or_place": "约900—1470年",
-      "overview": "秘鲁北岸国家，灌溉城市昌昌为都城。",
+      "level": "L2",
+      "status": "L2完成(第38轮)-学术文献",
+      "definition": "奇穆帝国：秘鲁北部沿海的古代国家，以大规模灌溉与土台都城昌昌著称。",
+      "time_or_place": "约公元900–1470年（奇穆国家；所引研究为水利工程）",
+      "overview": "奇穆帝国：秘鲁北部沿海的古代国家，以大规模灌溉与土台都城昌昌著称。",
       "related": [
         "south-america-x67e5x6587x6587x5316",
         "south-america-x8482x4e9ax74e6x7eb3x79d1",
@@ -451,15 +475,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2334447411",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2334447411（1982年，《Hydraulic Engineering Aspects of the Chimu Chicama-Moche Intervalley Canal》，DOI https://doi.org/10.2307/280236）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "核心在莫切河谷下游的沿海荒漠，依赖安第斯融水的灌溉渠；地下水与河道比降决定渠线，沿海的海洋资源补充生计。",
+      "influence": "所引 1982 年研究分析奇穆在奇卡马谷的水利工程，指出渠道的设计与维护需要跨谷的组织协调。这说明大规模灌溉可以成为权力集中的一个机制，而非仅仅是地理条件的产物。",
+      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+      "connections": "沿南北谷地构成的海岸走廊连接北部诸谷，与高地之间存在交换关系。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 280 L240 240 L380 220 L520 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='290' y='198' class='lbl'>奇穆帝国</text><text x='40' y='370' class='dim'>奇穆帝国 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "south-america-x5370x52a0x5e1dx56fd",

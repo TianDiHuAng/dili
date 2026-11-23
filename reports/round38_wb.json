@@ -1,0 +1,30 @@
+{
+  "城市热岛": {
+    "code": "EN.ATM.PM25.MC.M3",
+    "label": "PM2.5 年均暴露（μg/m³）",
+    "value": 32.872382373302,
+    "year": "2023",
+    "agg": "WLD"
+  },
+  "气候与健康风险": {
+    "code": "SH.DYN.MORT",
+    "label": "5 岁以下死亡率（‰）",
+    "value": 37.4,
+    "year": "2024",
+    "agg": "WLD"
+  },
+  "农业气候风险": {
+    "code": "AG.LND.CROP.ZS",
+    "label": "耕地占土地（%）",
+    "value": 1.49784258481669,
+    "year": "2024",
+    "agg": "WLD"
+  },
+  "火灾生态": {
+    "code": "AG.LND.FRST.ZS",
+    "label": "森林覆盖率（%）",
+    "value": 31.0951828663057,
+    "year": "2023",
+    "agg": "WLD"
+  }
+}
