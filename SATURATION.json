@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 35,
+  "last_round": 36,
   "history": [
     {
       "round": 1,
@@ -428,6 +428,19 @@
       ],
       "gaps_found": 328,
       "note": "核心44/44、重要104/104 全部L2；补充层仍87条L1，缺口仍在故未饱和",
+      "result": "非饱和"
+    },
+    {
+      "round": 36,
+      "methods_used": [
+        "B1 OpenAlex（北美专项）",
+        "B1 世界银行指标批量",
+        "补充层攻坚",
+        "R14修正",
+        "台账"
+      ],
+      "gaps_found": 302,
+      "note": "重要104/104 全达成；补充L2 8→34，补充L1 87→61",
       "result": "非饱和"
     }
   ],

@@ -113,6 +113,7 @@ def main():
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)
+                check_today_has_value(e)
             all_entries.append(e)
 
     # R9 内部链接（相关条目）
@@ -172,6 +173,21 @@ CN2ISO = {
 
 DYN_WORDS = ("实时", "随查询", "随…变化", "名录", "目录为实时", "据 Wikidata", "众包")
 
+def check_today_has_value(e):
+    """R16：today 引用世界银行等数据端点时，必须出现实际数值，不得只写指标编号。"""
+    today = e.get("today") or ""
+    # 仅在「来源：…（指标 XX.XXX.XXX）」式引用时才要求数值
+    if "来源：" not in today:
+        return
+    if not re.search(r"\b[A-Z]{2}\.[A-Z0-9\.]+", today):
+        return
+    # 指标编号形如 XX.XXX.XXX / 去掉编号后再看有无数字
+    stripped = re.sub(r"\b[A-Z]{2}\.[A-Z0-9\.]+", " ", today)
+    stripped = re.sub(r"\d{4}\s*年", " ", stripped)   # 年份不算数值
+    if not re.search(r"\d", stripped):
+        err(f"R16 {e['id']}: today 引用数据端点但无实际数值（仅指标编号）")
+
+
 def check_dynamic_source(e):
     """R15：动态/名录类来源必须写明「查询时点 YYYY年MM月DD日」（D075）。"""
     today = e.get("today") or ""
@@ -197,7 +213,8 @@ def check_today_sources(e):
     endpoint_isos = set()
     for sid in e.get("sources", []):
         m = re.match(r"wb-([a-z]{3})-(pop|urban|life|forest|agri)$", sid)
-        if m:
+        AGGS = ("wld", "ssf", "eas", "ecs", "lcn", "mea", "sas", "nac")
+        if m and m.group(1) not in AGGS:
             endpoint_isos.add(m.group(1).upper())
     if not endpoint_isos:
         err(f"R14 {e['id']}: today 引用世界银行数据，但无国别专用端点（D072）")

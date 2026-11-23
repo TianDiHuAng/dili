@@ -5737,7 +5737,7 @@
     },
     {
       "id": "wb-wld-si-pov-dday",
-      "title": "World Bank API — 贫困人口比例（每日 2.15 美元以下，2017 PPP，%） (SI.POV.DDAY, 全球)",
+      "title": "World Bank API — 贫困人口比例（$3.00/日，2021 PPP）(SI.POV.DDAY, 全球)",
       "author": "World Bank",
       "year": null,
       "type": "数据端点",
@@ -5745,8 +5745,8 @@
       "url2": null,
       "link_ok": true,
       "verified": true,
-      "page_title": "World Bank API — SI.POV.DDAY (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SI.POV.DDAY（2024年）。年度指标，随年度更新与历史修订变化。"
+      "page_title": "World Bank API — 贫困人口比例（$3.00/日，2021 PPP）(SI.POV.DDAY, 全球)",
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 10.1%（2024年）。年度指标，随年度更新与历史修订变化。 【口径】该指标官方名为「Poverty headcount ratio at $3.00 a day (2021 PPP)」；2021 PPP 修订后与旧版（$2.15/2017 PPP）贫困率不可直接比较。"
     },
     {
       "id": "wb-wld-eg-fec-rnew-zs",
@@ -5759,7 +5759,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — EG.FEC.RNEW.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 EG.FEC.RNEW.ZS（2020年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 19.7%（2020年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-en-ghg-co2-mt-ce-ar5",
@@ -5772,7 +5772,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — EN.GHG.CO2.MT.CE.AR5 (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 EN.GHG.CO2.MT.CE.AR5（2024年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 39,632.66 Mt CO₂e（2024年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sp-pop-0014-to-zs",
@@ -5785,7 +5785,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SP.POP.0014.TO.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SP.POP.0014.TO.ZS（2025年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 24.4%（2025年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sp-dyn-le00-in",
@@ -5798,7 +5798,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SP.DYN.LE00.IN (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SP.DYN.LE00.IN（2024年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 73.5 岁（2024年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-ny-gdp-pcap-cd",
@@ -5811,7 +5811,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — NY.GDP.PCAP.CD (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 NY.GDP.PCAP.CD（2025年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 14,406 美元（2025年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-ag-con-fert-zs",
@@ -5824,7 +5824,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — AG.CON.FERT.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 AG.CON.FERT.ZS（2023年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 136.5 千克/公顷（2023年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-ag-lnd-agri-zs",
@@ -5837,7 +5837,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — AG.LND.AGRI.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 AG.LND.AGRI.ZS（2023年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 36.9%（2023年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-ag-lnd-frst-zs",
@@ -5850,7 +5850,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — AG.LND.FRST.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 AG.LND.FRST.ZS（2023年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 31.1%（2023年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sp-pop-grow",
@@ -5863,7 +5863,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SP.POP.GROW (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SP.POP.GROW（2025年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 0.91%（2025年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sp-urb-totl-in-zs",
@@ -5876,7 +5876,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SP.URB.TOTL.IN.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SP.URB.TOTL.IN.ZS（2025年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 57.8%（2025年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-ag-lnd-arbl-zs",
@@ -5889,7 +5889,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — AG.LND.ARBL.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 AG.LND.ARBL.ZS（2023年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 10.7%（2023年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-er-fsh-prod-mt",
@@ -5902,7 +5902,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — ER.FSH.PROD.MT (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 ER.FSH.PROD.MT（2024年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 235,811,491 吨（2024年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-er-lnd-ptld-zs",
@@ -5915,7 +5915,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — ER.LND.PTLD.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 ER.LND.PTLD.ZS（2025年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 16.5%（2025年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sh-sta-maln-zs",
@@ -5928,7 +5928,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SH.STA.MALN.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SH.STA.MALN.ZS（2024年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 12.2%（2024年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sh-dyn-mort",
@@ -5941,7 +5941,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SH.DYN.MORT (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SH.DYN.MORT（2024年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 37.4‰（2024年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sp-pop-totl",
@@ -5954,7 +5954,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SP.POP.TOTL (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SP.POP.TOTL（2025年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 8,215,424,893 人（2025年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-er-h2o-fwtl-zs",
@@ -5967,7 +5967,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — ER.H2O.FWTL.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 ER.H2O.FWTL.ZS（2022年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 9.0%（2022年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-ag-yld-crel-kg",
@@ -5980,7 +5980,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — AG.YLD.CREL.KG (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 AG.YLD.CREL.KG（2023年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 4,229.3 千克/公顷（2023年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-ny-gnp-pcap-cd",
@@ -5993,7 +5993,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — NY.GNP.PCAP.CD (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 NY.GNP.PCAP.CD（2025年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 14,244 美元（2025年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-se-prm-nenr",
@@ -6006,7 +6006,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SE.PRM.NENR (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SE.PRM.NENR（2018年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 89.4%（2018年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-sh-xpd-chex-gd-zs",
@@ -6019,7 +6019,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — SH.XPD.CHEX.GD.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 SH.XPD.CHEX.GD.ZS（2023年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 10.1%（2023年）。年度指标，随年度更新与历史修订变化。"
     },
     {
       "id": "wb-wld-mpa",

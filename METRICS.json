@@ -506,6 +506,21 @@
       "sample_rate": "25%（10条 / 本轮31条升级）",
       "sample_audit": "25%抽检10条：6 PASS/4 FAIL（北美原住民文献实为巴西亚马逊、古巴比伦文献为塞琉古时期、朝鲜半岛植被史撑地形、大津巴布韦批评对象错位+臆造细节）→返工：北美原住民撤源诚实退回L1、古巴比伦/大津巴布韦influence按摘要改写、朝鲜半岛geo剥离背书、吠陀「印伽」改因陀罗、匈奴拆出无源句、吴哥/马丘比丘/斯堪的纳维亚逐项订正、27条模板句改写",
       "note": "31条升级使核心L2 44/44、重要L2 104/104 全部达成"
+    },
+    {
+      "round": 36,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 27,
+      "reviews": 0,
+      "fixes": 27,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 36,
+      "sample_rate": "25%（10条 / 本轮27条升级）",
+      "sample_audit": "25%抽检10条：2 PASS/8 FAIL（我的fmt()返回值顺序写反→22条today把指标编号当数值、POV口径误用$2.15/2017应$3.00/2021、能源转型geo与指标矛盾、海洋保护区未译high seas）→返工：22条today重写带实测值、POV口径照抄官方名、能源转型geo改写、high seas改公海、湿地补internal口径、北美补14000calBP结论、新增R16(引数据库端点必须含数值)并修R14聚合码误判",
+      "note": "北美原住民重新升级使重要L2达104/104；26条全球主题类补充条目升L2"
     }
   ]
 }
