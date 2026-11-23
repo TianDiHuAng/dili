@@ -27,11 +27,10 @@
         "ap-human-geo",
         "wb-usa-pop",
         "wb-rus-pop",
-        "wb-rus-urban",
-        "openalex-W4392444874"
+        "wb-rus-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·白令陆桥】本条正则 beringia。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「白令陆桥」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为白令陆桥主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，D068 已核对国家—区域匹配；单位人、%）。 【第28轮返工】删除「俄罗斯一侧数据见下」悬空引用，补俄美两国实测值。 【第42轮第二来源（partial）】openalex-W4392444874（2024年，《Grazing exclosures in Bering Land Bridge National Preserve: 2012-2022 》，National Park Service，DOI 10.36967/2302594，被引 0）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·白令陆桥】本条正则 beringia。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「白令陆桥」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为白令陆桥主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，D068 已核对国家—区域匹配；单位人、%）。 【第28轮返工】删除「俄罗斯一侧数据见下」悬空引用，补俄美两国实测值。 【第42轮返工·剔除】所引为《Grazing exclosures in Bering Land Bridge National Preserve》——研究对象是阿拉斯加以陆桥命名的现代国家保护区（驯鹿放牧围栏 2012–2022 数据），与更新世陆桥无关，属地名碰撞（与 Circular Cities 同型）。 已撤出该来源，本条不据此建立互证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -797,18 +796,17 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2126487261",
-        "s010-unesco-org",
-        "openalex-W2153621070"
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W2153621070（2004年，《Phylogeny and biogeography of Caribbean mammals》，Biological Journal of the Linnean Society，DOI 10.1111/j.1095-8312.2003.00302.x，被引 130）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。 【第42轮返工】原写「以隔离分化模型解释」，与摘要结论相反，已改为「两模型并存、无类群符合 Gaarlandia 预测时间」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-23",
       "geo": "岛链由火山岛与珊瑚岛组成，按大小与海拔分层；信风与洋流决定降水与物种扩散方向，岛屿间的距离是扩散的屏障也是通道。",
-      "influence": "所引研究以隔离分化（vicariance）模型解释加勒比生物区系的形成，与「跨海扩散」模型形成对照，说明同一分布格局可以有不同机制解释。",
+      "influence": "加勒比群岛的生物区系形成涉及隔离分化（vicariance）与跨海扩散两种模型。既有系统发育研究显示：没有类群符合 Gaarlandia 陆桥模型所预测的分化时间，各族群需要逐类群的具体解释。 因此本条不把单一模型当作既定结论（D092）。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经海流与信风连接北美、中美与南美，近代成为跨大西洋航线的必经水域。",
       "today": "（本条的当代指标不在本页展开。）",

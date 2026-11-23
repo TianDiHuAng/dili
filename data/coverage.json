@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -901,7 +901,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 8,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1087,7 +1087,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第35轮)-学术文献",
-      "source_count": 5,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1262,7 +1262,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第35轮)-学术文献",
-      "source_count": 5,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1290,7 +1290,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 8,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1309,7 +1309,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·无实证)",
-      "source_count": 7,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -1587,7 +1587,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 5,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true

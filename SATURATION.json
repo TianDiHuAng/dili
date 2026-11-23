@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 41,
+  "last_round": 42,
   "history": [
     {
       "round": 1,
@@ -505,6 +505,18 @@
       "gaps_found": 241,
       "note": "L1 归零，243/243 全部 L2；剩余缺口仅为待核实项与单源声明",
       "result": "层级条件全部达成"
+    },
+    {
+      "round": 42,
+      "methods_used": [
+        "B1 Crossref→OpenAlex DOI桥（第二来源）",
+        "标题核心词筛选",
+        "分级标注",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "≥2内容源条目 125→143；另46条仅单个内容源",
+      "result": "证据质量推进"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -526,5 +538,6 @@
   },
   "core_all_l2": true,
   "important_all_l2": true,
-  "all_l2": true
+  "all_l2": true,
+  "multi_source_entries": 143
 }
