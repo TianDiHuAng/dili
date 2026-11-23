@@ -7838,6 +7838,84 @@
       "verified": true,
       "page_title": "Remote Scheduling System for Drip Irrigation System Using Geographic Information System",
       "note": "OpenAlex 作品 W1832937167（经 Crossref DOI 10.4236/jgis.2015.75044 定位）；2015年；Journal of Geographic Information System；被引 12。HTTP 200，17054 字节。摘要长度 1411 字符。"
+    },
+    {
+      "id": "openalex-W2089041290",
+      "title": "OpenAlex W2089041290 — Myth and Metrology: The Early Trans-Saharan Gold Trade",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1982,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2089041290",
+      "url2": "https://doi.org/10.1017/s0021853700021290",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Myth and Metrology: The Early Trans-Saharan Gold Trade",
+      "note": "OpenAlex 作品 W2089041290（经 Crossref DOI 10.1017/s0021853700021290 定位）；1982年；The Journal of African History；被引 115。HTTP 200，13327 字节。摘要长度 1160 字符；摘要同时命中「gold」与「trans-saharan」，对应待支撑断言。"
+    },
+    {
+      "id": "openalex-W4298015793",
+      "title": "OpenAlex W4298015793 — Patronage and Italian Renaissance Sculpture",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2017,
+      "type": "专著",
+      "url": "https://api.openalex.org/works/W4298015793",
+      "url2": "https://doi.org/10.4324/9781315090030",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Patronage and Italian Renaissance Sculpture",
+      "note": "OpenAlex 作品 W4298015793（经 Crossref DOI 10.4324/9781315090030 定位）；2017年；Routledge eBooks；被引 0。HTTP 200，8817 字节。摘要长度 890 字符；摘要同时命中「renaissance」与「patronage」，对应待支撑断言。"
+    },
+    {
+      "id": "openalex-W2064781282",
+      "title": "OpenAlex W2064781282 — Sea Level History in Beringia During the Past 250,000 Years",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1973,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2064781282",
+      "url2": "https://doi.org/10.1016/0033-5894(73)90029-x",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Sea Level History in Beringia During the Past 250,000 Years",
+      "note": "OpenAlex 作品 W2064781282（经 Crossref DOI 10.1016/0033-5894(73)90029-x 定位）；1973年；Quaternary Research；被引 206。HTTP 200，12714 字节。摘要长度 1335 字符；摘要同时命中「beringia」与「sea level」，对应待支撑断言。"
+    },
+    {
+      "id": "openalex-W655456927",
+      "title": "OpenAlex W655456927 — Review and analysis of altitudinal distribution of the Andean anurans in Colombia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2008,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W655456927",
+      "url2": "https://doi.org/10.11646/zootaxa.1826.1.1",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Review and analysis of altitudinal distribution of the Andean anurans in Colombia",
+      "note": "OpenAlex 作品 W655456927（经 Crossref DOI 10.11646/zootaxa.1826.1.1 定位）；2008年；Zootaxa；被引 113。HTTP 200，16015 字节。摘要长度 1354 字符；摘要同时命中「andean」与「altitudinal」，对应待支撑断言。"
+    },
+    {
+      "id": "openalex-W4401862938",
+      "title": "OpenAlex W4401862938 — Optimal Water Level Study Based on Great Lakes Water Issues",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2024,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W4401862938",
+      "url2": "https://doi.org/10.23977/erej.2024.080206",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Optimal Water Level Study Based on Great Lakes Water Issues",
+      "note": "OpenAlex 作品 W4401862938（经 Crossref DOI 10.23977/erej.2024.080206 定位）；2024年；Environment Resource and Ecology Journal；被引 1。HTTP 200，13104 字节。摘要长度 1321 字符；摘要同时命中「great lakes」与「water level」，对应待支撑断言。"
+    },
+    {
+      "id": "openalex-W1556419777",
+      "title": "OpenAlex W1556419777 — Using ocean margin density to constrain ocean circulation and surface wind strength in the past",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2001,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W1556419777",
+      "url2": "https://doi.org/10.1029/2001gc000208",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Using ocean margin density to constrain ocean circulation and surface wind strength in the past",
+      "note": "OpenAlex 作品 W1556419777（经 Crossref DOI 10.1029/2001gc000208 定位）；2001年；Geochemistry Geophysics Geosystems；被引 24。HTTP 200，15598 字节。摘要长度 1386 字符；摘要同时命中「circulation」与「wind」，对应待支撑断言。"
     }
   ]
 }
