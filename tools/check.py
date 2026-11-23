@@ -110,6 +110,7 @@ def main():
                     check_today(eid, e["today"])
                 if e.get("svg"):
                     check_svg(eid, e["svg"])
+            check_no_markdown(e)
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)
@@ -172,6 +173,18 @@ CN2ISO = {
 }
 
 DYN_WORDS = ("实时", "随查询", "随…变化", "名录", "目录为实时", "据 Wikidata", "众包")
+
+MARKDOWN_FIELDS = ("definition", "overview", "geo", "influence", "polities",
+                    "connections", "today", "time_or_place", "pending_notes")
+
+def check_no_markdown(e):
+    """R17：正文段不得含 markdown 星号（gen_site 直出转义，星号会原样显示）。"""
+    for f in MARKDOWN_FIELDS:
+        v = e.get(f)
+        if isinstance(v, str) and "**" in v:
+            err(f"R17 {e['id']}: 字段 {f} 含 markdown 星号（渲染会原样显示）")
+            break
+
 
 def check_today_has_value(e):
     """R16：today 引用世界银行等数据端点时，必须出现实际数值，不得只写指标编号。"""

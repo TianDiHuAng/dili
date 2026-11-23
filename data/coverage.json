@@ -1705,7 +1705,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第37轮)-指标数据",
-      "source_count": 4,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 35,
-  "round_processed": 31,
+  "round": 37,
+  "round_processed": 22,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

@@ -5850,7 +5850,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Bank API — AG.LND.FRST.ZS (WLD)",
-      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 31.1%（2023年）。年度指标，随年度更新与历史修订变化。"
+      "note": "JSON API 200，返回世界（WLD）逐年数值；最新 31.1%（2023年）。年度指标，随年度更新与历史修订变化。 【第37轮】与 wb-wld-forest 同指 AG.LND.FRST.ZS，已合并引用。"
     },
     {
       "id": "wb-wld-sp-pop-grow",

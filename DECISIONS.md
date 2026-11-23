@@ -485,3 +485,13 @@
 - 决定：R14 检测国名前，须先屏蔽复合区域名（「撒哈拉以南非洲」含「南非」、「东南亚」含「南」等），否则会误判；同理，聚合端点码（wld/ssf/eas/ecs/lcn/mea/sas/nac）不得当作国别 ISO3。
 - 理由：第36轮两处 R14 误报：一是「撒哈拉以南非洲」被识别为含「南非」，二是扩展正则后 `wb-wld-pop` 的 `wld` 被当成国别码。
 - 成本：新增区域名或聚合码时需同步维护屏蔽表。
+
+## D086 — 正文段禁含 markdown 星号（R17）
+- 决定：`tools/check.py` 新增 R17——条目正文段（definition/overview/geo/influence/polities/connections/today/time_or_place/pending_notes）不得含 `**`。`gen_site.py` 直出转义，星号会原样显示给读者。
+- 理由：第33轮曾手工清理 33 页星号，但第34–37轮又累积到 53 条——手工清理不能防回归，必须机器拒绝。
+- 成本：写作时用纯文本强调，不用 markdown。
+
+## D087 — coverage.json 的 round 字段须与 METRICS 同步
+- 决定：每轮收尾须同时更新 `data/coverage.json` 的 `updated` / `round` / `round_processed`，与 `METRICS.json` 对齐；`check.py` 不校验该字段，需人工核对。
+- 理由：第36–37轮该字段滞后两轮（仍为 35），因无机器校验而未被发现。
+- 成本：收尾清单加一项。
