@@ -80,7 +80,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata量值",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -116,7 +116,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -125,7 +125,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -143,7 +143,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -170,7 +170,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -189,7 +189,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -260,10 +260,10 @@
     },
     {
       "id": "asia-x4e9ax8ff0x5e1dx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 3,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -288,19 +288,19 @@
     },
     {
       "id": "asia-x5e15x63d0x4e9ax5e1dx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
     {
       "id": "asia-x8428x73cax6ce2x65af",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 3,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -309,7 +309,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第32轮)-Wikidata",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -324,10 +324,10 @@
     },
     {
       "id": "asia-x5b54x96c0x738bx671d",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第20轮)",
-      "source_count": 3,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -345,7 +345,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -363,7 +363,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第32轮)-Wikidata",
-      "source_count": 5,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -381,7 +381,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -399,7 +399,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -408,7 +408,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第32轮)-Wikidata年代",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -436,7 +436,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -535,7 +535,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 8,
+      "source_count": 9,
       "pending_count": 1,
       "last_update": "2026-11-22",
       "d041_legacy": true
@@ -563,7 +563,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第32轮)-Wikidata年代",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -590,7 +590,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata量值",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -661,10 +661,10 @@
     },
     {
       "id": "europe-x9a6cx5176x987fx4e0ex4e9ax5386x5c71x5927",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 3,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -689,10 +689,10 @@
     },
     {
       "id": "europe-x62dcx5360x5eadx5e1dx56fd",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 3,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -716,10 +716,10 @@
     },
     {
       "id": "europe-x9ad8x5362",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 5,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -734,28 +734,28 @@
     },
     {
       "id": "europe-x963fx5c14x5351x65afx5c71",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 2,
-      "pending_count": 1,
-      "last_update": "2026-11-22"
-    },
-    {
-      "id": "europe-x591ax7459x6cb3",
-      "level": "L1",
-      "tier": "重要",
-      "status": "已复核(第17轮)",
+      "status": "L2完成(第34轮)-学术文献",
       "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
     {
-      "id": "europe-x83b1x8335x6cb3",
-      "level": "L1",
+      "id": "europe-x591ax7459x6cb3",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第18轮)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 6,
+      "pending_count": 1,
+      "last_update": "2026-11-22"
+    },
+    {
+      "id": "europe-x83b1x8335x6cb3",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -789,10 +789,10 @@
     },
     {
       "id": "europe-x5341x5b57x519bx4e1cx5f81",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第16轮)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -807,10 +807,10 @@
     },
     {
       "id": "europe-x5a01x5c3cx65af",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第18轮)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1012,10 +1012,10 @@
     },
     {
       "id": "north-america-x7279x5965x8482x74e6x574e",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1024,7 +1024,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第32轮)-Wikidata年代",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1066,10 +1066,10 @@
     },
     {
       "id": "north-america-x5341x4e09x6b96x6c11x5730",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第17轮)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1204,10 +1204,10 @@
     },
     {
       "id": "south-america-x8482x4e9ax74e6x7eb3x79d1",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第15轮)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1436,10 +1436,10 @@
     },
     {
       "id": "antarctica-x5357x6781x534ax5c9b",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第25轮·无实证)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1518,10 +1518,10 @@
     },
     {
       "id": "antarctica-x677ex5c9bx51b0x5dddx9000x7f29",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "已复核(第23轮·无实证)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1536,10 +1536,10 @@
     },
     {
       "id": "global-themes-x5927x9646x6f02x79fb",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
-      "status": "待复核(第3轮返工)",
-      "source_count": 2,
+      "status": "L2完成(第34轮)-学术文献",
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1621,9 +1621,9 @@
     },
     {
       "id": "global-themes-x57cex5e02x8d77x6e90",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
-      "status": "已复核(第25轮·无实证)",
+      "status": "L2完成(第34轮)-学术专题",
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-22"

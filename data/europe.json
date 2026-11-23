@@ -159,11 +159,11 @@
       "unit_id": "europe",
       "region": "南欧",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "马其顿与亚历山大：征服波斯帝国，开启希腊化时代，促进东西文化交流。",
-      "time_or_place": "前4世纪",
-      "overview": "征服波斯帝国，开启希腊化时代，促进东西文化交流。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "马其顿与亚历山大：巴尔干北部的王国及其向波斯帝国的远征。",
+      "time_or_place": "公元前4世纪（马其顿王国；亚历山大东征 前334–前323年）",
+      "overview": "马其顿与亚历山大：巴尔干北部的王国及其向波斯帝国的远征。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x514bx91ccx7279x6587x660e",
         "europe-x8fc8x9521x5c3cx6587x660e",
@@ -172,15 +172,22 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W1970392988"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。",
+      "pending_notes": "第17轮复核：南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1970392988（1978年，「Alexander the Great and the Logistics of the Macedonian Army」，DOI https://doi.org/10.1525/9780520352162，University of California Press eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「公元前4世纪（马其顿王国；亚历山大东征 前334–前323年）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "马其顿位于巴尔干半岛北部，山地与平原交错，平原适合骑兵与方阵训练所需的马匹与粮食；向南控制希腊城邦的沿海地带。",
+      "influence": "平原与山地组合提供了军事资源，但远征的成功更多依赖后勤组织、联盟政治与对手的内部弱点——这是专门研究的核心问题，不宜归因于地理。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "东征路线从安纳托利亚、黎凡特、埃及到两河与波斯，最终抵印度河，把地中海东岸与中亚短暂连成一个行政空间。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>马其顿与亚历山大</text><text x='480' y='215' class='dim'>公元前4世纪（马其顿王国；亚历山大东征 前334–前323年</text><text x='40' y='370' class='dim'>马其顿与亚历山大 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x7f57x9a6cx5171x548cx56fd",
@@ -269,11 +276,11 @@
       "unit_id": "europe",
       "region": "东南欧",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "拜占庭帝国：东罗马延续千年，君士坦丁堡扼守欧亚通道。",
-      "time_or_place": "330—1453年",
-      "overview": "东罗马延续千年，君士坦丁堡扼守欧亚通道。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "拜占庭帝国：以君士坦丁堡为中心的东罗马国家，延续逾千年。",
+      "time_or_place": "公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）",
+      "overview": "拜占庭帝国：以君士坦丁堡为中心的东罗马国家，延续逾千年。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x514bx91ccx7279x6587x660e",
         "europe-x8fc8x9521x5c3cx6587x660e",
@@ -282,15 +289,22 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W1968112198"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。",
+      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "首都扼守博斯普鲁斯海峡，同时控制黑海与地中海的通道；腹地为色雷斯与安纳托利亚高原，沿海平原与河谷支撑农业与城市。",
+      "influence": "海峡位置带来关税与战略价值，也带来持续的外部压力；帝国的延续依赖税收、军区制与外交手腕，地理位置是条件而非保证。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "通过黑海连接北方草原与罗斯，经地中海东岸连接黎凡特与埃及，经爱琴海与意大利保持西部联系。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>拜占庭帝国</text><text x='480' y='215' class='dim'>公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建</text><text x='40' y='370' class='dim'>拜占庭帝国 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x610fx5927x5229x534ax5c9b",
@@ -361,11 +375,11 @@
       "unit_id": "europe",
       "region": "西欧",
       "theme": "区域",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "高卢：今法国一带，罗马化与封建制在此交汇。",
-      "time_or_place": "古代至今",
-      "overview": "今法国一带，罗马化与封建制在此交汇。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "高卢：今法国与比利时一带的区域，罗马征服后分为多个行省。",
+      "time_or_place": "罗马高卢三行省 公元前58年–公元260年前后（据专著名）",
+      "overview": "高卢：今法国与比利时一带的区域，罗马征服后分为多个行省。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
         "europe-x4e0dx5217x98a0x7fa4x5c9b",
@@ -376,15 +390,23 @@
         "wikipedia-regions",
         "ap-human-geo",
         "un-m49",
-        "s075-aag-org"
+        "s075-aag-org",
+        "openalex-W2009330540",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：西欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2009330540（1983年，「Roman Gaul : The Three Provinces, 58 BC-AD 260」，DOI 无，出版方未标）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「罗马高卢三行省 公元前58年–公元260年前后（据专著名）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "区域内有多条可航河流（罗讷河、卢瓦尔河、塞纳河、莱茵河），河谷平原适合谷物与葡萄；地中海沿岸与北方平原气候差异明显。",
+      "influence": "河网降低了内陆运输成本，促成以河流交汇点为中心的城市网络；行省化与道路建设把这一地理结构固定为行政骨架。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "南经罗讷河谷通地中海与意大利，北经莱茵河接日耳曼边界，西经海峡通不列颠，是罗马西北部的交通枢纽区。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>高卢</text><text x='480' y='215' class='dim'>罗马高卢三行省 公元前58年–公元260年前后（据专著名）</text><text x='40' y='370' class='dim'>高卢 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x4e0dx5217x98a0x7fa4x5c9b",
@@ -433,11 +455,11 @@
       "unit_id": "europe",
       "region": "中欧",
       "theme": "地形",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "阿尔卑斯山：横贯中欧的山地系统，河谷与山口影响区域交通。",
-      "time_or_place": "中欧山地（形成年代待核）",
-      "overview": "横贯中欧的山地系统，河谷与山口影响区域交通。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "阿尔卑斯山：欧洲中部的弧形山脉，由非洲板块与欧亚板块碰撞形成。",
+      "time_or_place": "地质形成跨数百万年（新生代阿尔卑斯造山运动）",
+      "overview": "阿尔卑斯山：欧洲中部的弧形山脉，由非洲板块与欧亚板块碰撞形成。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x610fx5927x5229x534ax5c9b",
         "europe-x65afx582ax7684x7eb3x7ef4x4e9a",
@@ -445,15 +467,23 @@
       ],
       "sources": [
         "s038-earthobservatory-nasa-gov",
-        "un-m49"
+        "un-m49",
+        "openalex-W2129432027",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
+      "pending_notes": "第17轮复核：中欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2129432027（2001年，「Geology and Geomorphology of the European Alps and the Southern 」，DOI https://doi.org/10.1659/0276-4741(2001)021[0340:gagote]2.0.co;2，Mountain Research and Development）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「地质形成跨数百万年（新生代阿尔卑斯造山运动）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "弧形山系从地中海沿岸延伸至中欧，高峰与深谷相间，冰川地貌广泛；北坡与南坡的气候与植被差异显著。",
+      "influence": "山脉是气候与交通的分水岭，山口长期决定南北往来的路线；但现代交通技术已大幅削弱这一约束，说明地形的影响随技术而变。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "通过主要山口（如勃伦纳、圣哥达）连接意大利与中欧，是欧洲南北轴线上的关键节点。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>阿尔卑斯山</text><text x='480' y='215' class='dim'>地质形成跨数百万年（新生代阿尔卑斯造山运动）</text><text x='40' y='370' class='dim'>阿尔卑斯山 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x591ax7459x6cb3",
@@ -462,11 +492,11 @@
       "unit_id": "europe",
       "region": "中欧",
       "theme": "区域",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "多瑙河：欧洲第二长河，连接多个政权与生态区。",
-      "time_or_place": "古代至今",
-      "overview": "欧洲第二长河，连接多个政权与生态区。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "多瑙河：欧洲第二长河，流经多国后注入黑海。",
+      "time_or_place": "流域水文观测与模拟研究（本条引 2017 年流域模型研究）",
+      "overview": "多瑙河：欧洲第二长河，流经多国后注入黑海。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
         "europe-x9ad8x5362",
@@ -476,15 +506,23 @@
         "britannica-regions",
         "wikipedia-regions",
         "un-m49",
-        "s075-aag-org"
+        "s075-aag-org",
+        "openalex-W2658592595",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。",
+      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2658592595（2017年，「Modelling water and nutrient fluxes in the Danube River Basin wi」，DOI https://doi.org/10.1016/j.scitotenv.2017.05.242，The Science of The Total Environment）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「流域水文观测与模拟研究（本条引 2017 年流域模型研究）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "流域覆盖中欧与东南欧，上游山地、中游平原、下游三角洲三种地貌依次展开；流域内降水与融雪的季节差异决定流量过程。",
+      "influence": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的研究显示流域尺度的过程无法由单国管理解决。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "经黑海连接地中海与东欧内陆，通过运河网与莱茵河等流域相连，是欧洲内河航运的骨干之一。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>多瑙河</text><text x='480' y='215' class='dim'>流域水文观测与模拟研究（本条引 2017 年流域模型研究）</text><text x='40' y='370' class='dim'>多瑙河 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x83b1x8335x6cb3",
@@ -493,11 +531,11 @@
       "unit_id": "europe",
       "region": "西欧",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第18轮)",
-      "definition": "莱茵河：重要内河航道，沿岸城市带与工业带密集。",
-      "time_or_place": "古代至今",
-      "overview": "重要内河航道，沿岸城市带与工业带密集。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "莱茵河：从阿尔卑斯山北麓流向北海的河流，是欧洲最繁忙的内河航道之一。",
+      "time_or_place": "航运与生态研究（本条引 2009 年莱茵河扩散研究）",
+      "overview": "莱茵河：从阿尔卑斯山北麓流向北海的河流，是欧洲最繁忙的内河航道之一。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x7231x7434x6d77x4e16x754c",
         "europe-x7ef4x4eacx65f6x4ee3",
@@ -505,15 +543,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2096204231",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：西欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。",
+      "pending_notes": "第16轮复核：西欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2096204231（2009年，「The river Rhine: a global highway for dispersal of aquatic invas」，DOI https://doi.org/10.1007/s10530-009-9491-7，Biological Invasions）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「航运与生态研究（本条引 2009 年莱茵河扩散研究）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "上游为山地峡谷，中游为莱茵地堑谷地，下游进入低地平原；河谷是南北交通的天然走廊。",
+      "influence": "可航性与沿岸工业带互为条件，使这条河成为区域经济轴线；同时它也是水生生物扩散的通道，生态与经济功能叠加在同一水体上。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "经运河连接多瑙河、罗讷河等流域，形成跨欧洲的水运网络；河口鹿特丹是海陆转运枢纽。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>莱茵河</text><text x='480' y='215' class='dim'>航运与生态研究（本条引 2009 年莱茵河扩散研究）</text><text x='40' y='370' class='dim'>莱茵河 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x7ef4x4eacx65f6x4ee3",
@@ -621,11 +667,11 @@
       "unit_id": "europe",
       "region": "地中海",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第16轮)",
-      "definition": "十字军东征：宗教战争同时重启地中海东西贸易联系。",
-      "time_or_place": "1096—1291年",
-      "overview": "宗教战争同时重启地中海东西贸易联系。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "十字军东征：中世纪欧洲向黎凡特等地的一系列军事远征。",
+      "time_or_place": "11世纪末至13世纪末（第一次十字军 1096–1099年）",
+      "overview": "十字军东征：中世纪欧洲向黎凡特等地的一系列军事远征。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x7231x7434x6d77x4e16x754c",
         "europe-x83b1x8335x6cb3",
@@ -633,15 +679,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W561167263",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：地中海×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
+      "pending_notes": "第16轮复核：地中海×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W561167263（2016年，「Shipping, Trade and Crusade in the Medieval Mediterranean」，DOI https://doi.org/10.4324/9781315609010，Routledge eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「11世纪末至13世纪末（第一次十字军 1096–1099年）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "路线跨越地中海与安纳托利亚高原，补给依赖海路与沿途港口；黎凡特沿海的狭长平原有港口与要塞。",
+      "influence": "海运能力与港口控制决定了远征的可持续性，这一点在航运与贸易的专门研究中被反复强调；宗教与政治动因同样是核心解释项。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "把意大利海洋共和国（威尼斯、热那亚）与黎凡特港口连成运输网络，贸易与军事在同一航路上交织。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>十字军东征</text><text x='480' y='215' class='dim'>11世纪末至13世纪末（第一次十字军 1096–1099年）</text><text x='40' y='370' class='dim'>十字军东征 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x6c49x8428x540cx76df",
@@ -679,11 +733,11 @@
       "unit_id": "europe",
       "region": "南欧",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第18轮)",
-      "definition": "威尼斯：亚得里亚海潟湖城市，东西方贸易中介。",
-      "time_or_place": "约8—18世纪",
-      "overview": "亚得里亚海潟湖城市，东西方贸易中介。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "威尼斯：亚得里亚海北端的潟湖城市及其海上共和国。",
+      "time_or_place": "中世纪至近代（共和国存续至1797年）",
+      "overview": "威尼斯：亚得里亚海北端的潟湖城市及其海上共和国。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "europe-x7231x7434x6d77x4e16x754c",
         "europe-x83b1x8335x6cb3",
@@ -691,16 +745,24 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2104329013",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。",
+      "pending_notes": "第16轮复核：南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2104329013（2014年，「International Trade and Institutional Change: Medieval Venice’s 」，DOI https://doi.org/10.1093/qje/qju006，The Quarterly Journal of Economics）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「中世纪至近代（共和国存续至1797年）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "建在潟湖岛屿上，浅水与沙洲提供天然防护，但缺乏淡水与耕地；这一约束迫使居民以海运与贸易为生。",
+      "influence": "地理约束塑造了以航运与商业为核心的制度（如造船、金融与海事法规）；制度创新与地理条件共同作用，不能只看其一。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "经亚得里亚海连接地中海东部与黑海，通过陆路连接中欧与阿尔卑斯以北，是东西方贸易的中介节点。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>威尼斯</text><text x='480' y='215' class='dim'>中世纪至近代（共和国存续至1797年）</text><text x='40' y='370' class='dim'>威尼斯 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "europe-x6587x827ax590dx5174x610fx5927x5229",

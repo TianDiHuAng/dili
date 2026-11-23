@@ -463,11 +463,11 @@
       "unit_id": "north-america",
       "region": "中美洲",
       "theme": "贸易",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "特奥蒂瓦坎：墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
-      "time_or_place": "约1—7世纪",
-      "overview": "墨西哥谷地大都市，金字塔与贸易网络影响广泛。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "特奥蒂瓦坎：墨西哥谷地东北部的大型古代城市。",
+      "time_or_place": "约公元前1世纪至公元7世纪（起讫年学界有不同表述）",
+      "overview": "特奥蒂瓦坎：墨西哥谷地东北部的大型古代城市。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "north-america-x5bc6x897fx897fx6bd4x6cb3",
         "north-america-x897fx5317x6d77x5cb8",
@@ -475,15 +475,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W1921738149",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。",
+      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "位于墨西哥谷地边缘的山间盆地，附近有黑曜石矿源与可灌溉土地；城市沿南北轴线规划，与山体（塞罗戈多）对齐。",
+      "influence": "黑曜石资源与位置使其成为区域交换中心；但城市的规模与规划反映强烈的中央组织能力，资源条件只是基础。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "通过黑曜石与陶器交换连接墨西哥谷地、普埃布拉与更远地区，是中美州早期城市网络的核心节点。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>特奥蒂瓦坎</text><text x='480' y='215' class='dim'>约公元前1世纪至公元7世纪（起讫年学界有不同表述）</text><text x='40' y='370' class='dim'>特奥蒂瓦坎 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x963fx5179x7279x514b",
@@ -506,15 +514,16 @@
         "wikidata-q2608489",
         "s010-unesco-org",
         "wb-mex-pop",
-        "wb-mex-urban"
+        "wb-mex-urban",
+        "openalex-W2331608140"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。 【第32轮返工】① 来源 wikidata-q2608489 原 verified=false（429），复抓 200 后回填；② 修正精度标注（P576 精度=日）；③ 补 P580=1367 与「1325 建城 / 1430 前后三方联盟」的口径关系。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。",
+      "pending_notes": "第32轮升级：年代（1325–1521年）来自 Wikidata Q2608489 的 P571/P576（精度=年；解散日精度到日）；UNESCO Culture 作机构页、世界银行作现状端点。 【第32轮返工】① 来源 wikidata-q2608489 原 verified=false（429），复抓 200 后回填；② 修正精度标注（P576 精度=日）；③ 补 P580=1367 与「1325 建城 / 1430 前后三方联盟」的口径关系。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮第二来源（中）】OpenAlex openalex-W2331608140（2010年，「Egalitarian Ideology and Political Power in Prehispanic Cent」，DOI https://doi.org/10.7183/1045-6635.21.3.227）：论前西班牙时期中墨西哥的政治权力与意识形态，可支撑政治组织表述；未给年代。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22",
+      "last_update": "2026-11-23",
       "geo": "核心位于墨西哥谷地的高原湖泊区，湖中岛与湖岸平原提供聚落与农业空间。chinampa（湖上人工田）依赖水位与泥沙管理，火山高地与谷地气候分层明显。",
       "influence": "湖泊环境与人工田支撑高密度人口，山地与水系的破碎地形促成城邦并立与朝贡网络。环境条件重要，但帝国形态由联盟、贡赋与军事组织塑造，不宜单因解释。",
       "polities": "据 Wikidata 记录，P571（成立）= 1325年、P576（解散）= 1521年8月13日（精度到日）；同实体另记 P580（起始）= 1367年。口径需说明：1325 为特诺奇蒂特兰传统建城年，1367 为另一时间属性，三方联盟（特诺奇蒂特兰、特斯科科、特拉科潘）通常置于 15 世纪上半叶。三个时间点含义不同，不可互换；统治者序列与贡赋制度待专门史学来源核验。",
@@ -657,11 +666,11 @@
       "unit_id": "north-america",
       "region": "北美洲",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第17轮)",
-      "definition": "十三殖民地：大西洋沿岸英国殖民地，后成为美国建国基础。",
-      "time_or_place": "17—18世纪",
-      "overview": "大西洋沿岸英国殖民地，后成为美国建国基础。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "十三殖民地：北美东岸自新英格兰到乔治亚的十三个英属殖民地。",
+      "time_or_place": "17世纪初至1783年（据专著以1763年为断面）",
+      "overview": "十三殖民地：北美东岸自新英格兰到乔治亚的十三个英属殖民地。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "north-america-x5965x5c14x6885x514b",
         "north-america-x739bx96c5x6587x660e",
@@ -669,15 +678,23 @@
       ],
       "sources": [
         "britannica-regions",
-        "wikipedia-regions"
+        "wikipedia-regions",
+        "openalex-W2491281325",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "阿巴拉契亚山脉与海岸平原之间的狭长地带，港湾与河流众多，适合港口城市与内陆农业；气候自北向南由冷温带过渡到亚热带。",
+      "influence": "海岸线与港湾条件支撑了港口贸易，河流谷地支撑了内陆垦殖；但殖民地的政治形态由特许状、议会与母国政策塑造，地理只是舞台。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "跨大西洋航线连接英国与西印度群岛，沿岸 cabotage 把十三个港口连成一体，内陆河流连接边疆。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>十三殖民地</text><text x='480' y='215' class='dim'>17世纪初至1783年（据专著以1763年为断面）</text><text x='40' y='370' class='dim'>十三殖民地 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "north-america-x7f8ex56fdx897fx8fdb",

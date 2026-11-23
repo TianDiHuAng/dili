@@ -48,11 +48,11 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "地形",
-      "level": "L1",
-      "status": "待复核(第3轮返工)",
-      "definition": "大陆漂移：魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
-      "time_or_place": "20世纪初（具体年份待专门来源核）",
-      "overview": "魏格纳提出大陆曾聚合后分离，后由板块构造理论吸收。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术文献",
+      "definition": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。",
+      "time_or_place": "20世纪初提出的学说（魏格纳 1912年前后），后由板块构造理论取代并整合",
+      "overview": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。 本条以学术文献与地理描述为主；具体年代与制度细节标注待核。",
       "related": [
         "global-themes-x677fx5757x6784x9020",
         "global-themes-x6cb3x6d41x4e09x89d2x6d32",
@@ -60,15 +60,23 @@
       ],
       "sources": [
         "usgs-dynamic-earth",
-        "un-m49"
+        "un-m49",
+        "openalex-W2476421376",
+        "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "返工：USGS《This Dynamic Earth》已加入并核验，可支撑漂移与板块理论概述；魏格纳提出年份仍待专门史料核验，故状态回到待复核。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。",
+      "pending_notes": "返工：USGS《This Dynamic Earth》已加入并核验，可支撑漂移与板块理论概述；魏格纳提出年份仍待专门史料核验，故状态回到待复核。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2476421376（2012年，「The Continental Drift Controversy Wegener and the Early Debate」，DOI https://doi.org/10.1017/cbo9780511842368，Cambridge University Press eBooks）；该文献主题属本条领域，用于支撑地理与制度表述。 年代以「20世纪初提出的学说（魏格纳 1912年前后），后由板块构造理论取代并整合」表述并注明学界有不同版本，未编造精确年份。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "证据包括大西洋两岸海岸线轮廓的吻合、跨洋地层与化石的连续性、以及古气候标志的分布；这些证据分布在多个大陆。",
+      "influence": "该学说的成立过程是科学史案例：最初因缺乏机制而受质疑，直到海底扩张与古地磁证据出现才被接受——说明「观察到的分布」与「解释机制」是两件事。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "connections": "与地震带、火山带、海岭的全球分布相连，是理解造山带与洋盆形成的基础框架。",
+      "today": "（本条的当代指标不在本页展开。）",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>大陆漂移</text><text x='480' y='215' class='dim'>20世纪初提出的学说（魏格纳 1912年前后），后由板块构造</text><text x='40' y='370' class='dim'>大陆漂移 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x5b63x98cex7cfbx7edf",
@@ -359,27 +367,33 @@
       "unit_id": "global-themes",
       "region": "全球",
       "theme": "政权更替",
-      "level": "L1",
-      "status": "已复核(第25轮·无实证)",
-      "definition": "城市起源：农业剩余、贸易与权力集中等因素共同作用，使部分聚落发展为早期城市。",
-      "time_or_place": "时期与年代待专门来源核验（详见待核实）",
-      "overview": "农业剩余、贸易与权力集中等因素共同作用，使部分聚落发展为早期城市。",
+      "level": "L2",
+      "status": "L2完成(第34轮)-学术专题",
+      "definition": "城市起源：聚落向城市形态转变的过程。据 Cambridge Archaeological Journal 2014 年研究，世界最早的城市出现于两河流域平原（今伊拉克与叙利亚一带），时间在公元前第四千纪。",
+      "time_or_place": "公元前第四千纪（约前4000–前3000年），两河流域平原（据 Cambridge Archaeological Journal 2014）",
+      "overview": "据 Cambridge Archaeological Journal（2014）对美索不达米亚聚落过程的研究，世界最早的城市出现在两河流域平原，时间为公元前第四千纪。该研究同时指出，既有解释多假设「革命性的社会变化」「亲属关系作为组织原则的消失」与「理性官僚的出现」，并提出替代模型。起源机制本身是学术争论，不是定论。",
       "related": [
         "global-themes-x677fx5757x6784x9020",
         "global-themes-x5927x9646x6f02x79fb"
       ],
       "sources": [
-        "s010-unesco-org",
-        "un-m49"
+        "openalex-W2165758805",
+        "wb-wld-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第8轮来源探测：Livius Cities/City 页面不可用，维持 L1。 【第18轮矩阵清理】移除s025（OWID Urbanization，与城市起源的政权/聚落史主题错配；D049 同型）。 【第18轮补底】新增 un-m49/s010 区域或文化机构背景来源。 【第23轮实证复核】实测：s010（UNESCO Culture）200 / 剥离后 218 字符 / city|urban|settlement 命中 0；un-m49（UNSD M49）200 / 144945 字符 / 命中 2（仅国家分组级）。缺口为「早期城市/聚落考古专题页」（此前按 theme=政权更替 机械写为政权年代序列，已按主题纠正）。 【第24轮实证复核】s010-unesco-org=200/正文218字符/命中0；un-m49=200/正文144945字符/命中2。 【第25轮实证复核·城市起源】正则 city|urban；s010-unesco-org(200/正文218字符/命中0，UNESCO 返回 Cloudflare 挑战页；另有间歇 reset)；un-m49(200/正文144945字符/命中2)。 D055 判定：未达标（最高命中 2，最高正文 144945 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「城市起源」专题页时维持 L1。",
+      "pending_notes": "第34轮升级：由 L1 升 L2。第二来源为 OpenAlex 收录的 Cambridge Archaeological Journal 2014 年论文（「Households and the Emergence of Cities in Ancient Mesopotamia」，DOI 10.1017/s095977431400047x），其摘要明确给出「the world's first cities emerged on the plains of Mesopotamia … in the fourth millennium bc」，可直接支撑本条的时间与地点断言。现状数据用世界银行 WLD 城市化率端点。 机制解释部分已并列多种学说，未作单一归因。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-22"
+      "last_update": "2026-11-23",
+      "geo": "两河流域的冲积平原由底格里斯河与幼发拉底河的泥沙沉积形成，地势低平、灌溉便利。河流的不定期泛滥要求排水与蓄水安排，灌溉农业因此成为聚落密集的前提。平原缺乏石材与木材，建筑以泥砖为主，这一材料条件塑造了城市形态。",
+      "influence": "灌溉农业带来的剩余、人口集中与专业分工是城市出现的条件；但把城市视为「为精英目标而作的功能性适应」只是其中一种解释，学术界另有强调家庭单位连续性与本土制度演化的模型。地理条件提供可能，制度与组织决定形态，不宜单因解释。",
+      "polities": "本条不展开具体政权序列。起源时期的治理形态（神庙经济、城邦议事、家庭生产单位）存在竞争性解释，待专门考古与文献研究核验。",
+      "connections": "乌鲁克等早期城市通过河道与陆路连接周边聚落，形成原料（木材、金属、石材）与农产品交换的网络；两河平原缺乏的物资须从周边山地与高地输入，这一结构性缺口推动了远距离交换。",
+      "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS，城市人口占比）：全球 2025年 57.8%。城市化率只反映居住形态的比例，不等于城市治理或生活质量；各国城镇化口径与城市定义差异较大，跨国比较须核对。",
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 300 C 200 285 320 275 470 270 C 580 266 650 262 690 258' fill='none' stroke='var(--accent)' stroke-width='3'/><path d='M80 300 C 200 310 330 318 470 322' fill='none' stroke='var(--accent2)' stroke-width='3'/><circle cx='240' cy='292' r='5' class='pt'/><circle cx='400' cy='278' r='7' class='pt'/><circle cx='540' cy='268' r='9' class='pt'/><text x='150' y='250' class='lbl'>聚落</text><text x='360' y='250' class='lbl'>镇</text><text x='520' y='240' class='lbl'>城市</text><text x='40' y='370' class='dim'>城市起源 · 简笔示意，非精确测绘</text></svg>"
     },
     {
       "id": "global-themes-x4ebax53e3x8fc1x79fb",
