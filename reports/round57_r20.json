@@ -1,0 +1,66 @@
+{
+  "round": 57,
+  "obj_total": 148,
+  "violations": [
+    {
+      "entry": "加纳帝国",
+      "sid": "openalex-W2276091624",
+      "title": "OpenAlex W2276091624 — Expansions and Contractions: World-Historic",
+      "objs": [
+        "ghana"
+      ]
+    },
+    {
+      "entry": "元代",
+      "sid": "openalex-W4299796120",
+      "title": "OpenAlex W4299796120 — William Alexander Mabry, The Negro in North",
+      "objs": [
+        "yuan"
+      ]
+    },
+    {
+      "entry": "河中地区",
+      "sid": "openalex-W2072212795",
+      "title": "OpenAlex W2072212795 — Western Mediterranean sand deposits as a ra",
+      "objs": [
+        "transoxiana",
+        "samarkand"
+      ]
+    },
+    {
+      "entry": "河中地区",
+      "sid": "openalex-W4323830249",
+      "title": "OpenAlex W4323830249 — Analysis of fingerprints on a PPNB figurine",
+      "objs": [
+        "transoxiana",
+        "samarkand"
+      ]
+    },
+    {
+      "entry": "斯堪的纳维亚",
+      "sid": "openalex-W1912206775",
+      "title": "OpenAlex W1912206775 — Quaternary of Norden",
+      "objs": [
+        "scandinavia"
+      ]
+    },
+    {
+      "entry": "北美原住民",
+      "sid": "openalex-W2568445233",
+      "title": "OpenAlex W2568445233 — Earliest Human Presence in North America Da",
+      "objs": [
+        "native american",
+        "peopling"
+      ]
+    },
+    {
+      "entry": "安第斯垂直农业",
+      "sid": "openalex-W2021618803",
+      "title": "OpenAlex W2021618803 — Mean annual temperature trends and their ve",
+      "objs": [
+        "andean",
+        "altitudinal"
+      ]
+    }
+  ]
+}

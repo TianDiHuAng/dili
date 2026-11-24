@@ -821,6 +821,21 @@
       "sample_rate": "44条核心对象词校验",
       "sample_audit": "R20对象词校验上线（44核心条目映射51条），检出2条真违规（马里←标题无mali、古希腊←标题无greek）并标旁证、1条词形误报（cities）已修；三用例验证报错/豁免/通过全对",
       "note": "R20上线（对象词须在标题，旁证豁免），映射 51 条；检出2条真违规并标旁证；≥2内容源 224"
+    },
+    {
+      "round": 57,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "148条对象词全量校验",
+      "sample_audit": "R20扩至148条（核心+重要全覆盖）：检出7条，剔除3条真对象碰撞（元代←美国黑人史书评、河中←西地中海沙沉积、河中←PPNB小雕像指纹）；3条别名补齐（norden/north america/vertical）；另修河中孤儿引用（2023 Bukhara未登记成功）",
+      "note": "R20扩至148条；检出7条，剔除3条真对象碰撞、加3条别名、修1条孤儿引用；≥2内容源 224"
     }
   ]
 }

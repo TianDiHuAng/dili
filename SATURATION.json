@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 56,
+  "last_round": 57,
   "history": [
     {
       "round": 1,
@@ -677,6 +677,18 @@
       "gaps_found": 241,
       "note": "R20 上线，映射 51 条，检出 2 条真违规；≥2内容源 224",
       "result": "校验机器化"
+    },
+    {
+      "round": 57,
+      "methods_used": [
+        "R20扩至148条",
+        "剔除3条对象碰撞",
+        "修孤儿引用",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "R20 覆盖 148 条；剔除元代←美国黑人史等3条碰撞；≥2内容源 224",
+      "result": "校验机器化"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -702,9 +714,8 @@
   "multi_source_entries": 143,
   "evidence": {
     "ge2_has_body": 224,
-    "one_has_body": 19,
-    "obj_word_map": 51,
-    "side_evidence": 39,
-    "note": "R19（弱来源不得称主来源）+ R20（对象词须在标题）均已机器化；语义对题仍依赖人工扫描"
+    "one_has_body": 18,
+    "obj_word_map": 148,
+    "note": "R19+R20 覆盖核心与重要条目（148条）；语义对题仍依赖人工扫描"
   }
 }

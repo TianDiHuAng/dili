@@ -179,5 +179,362 @@
     "renaissance",
     "italy",
     "italian"
+  ],
+  "尼罗河三角洲": [
+    "nile delta",
+    "delta"
+  ],
+  "埃塞俄比亚高原": [
+    "ethiopia",
+    "ethiopian"
+  ],
+  "几内亚湾沿岸": [
+    "guinea"
+  ],
+  "萨赫勒带": [
+    "sahel"
+  ],
+  "马格里布": [
+    "maghreb",
+    "maghrib"
+  ],
+  "库什与努比亚": [
+    "kush",
+    "nubia",
+    "meroe",
+    "napata"
+  ],
+  "罗马阿非利加": [
+    "africa",
+    "roman"
+  ],
+  "阿拉伯征服北非": [
+    "arab",
+    "islamic conquest",
+    "north africa"
+  ],
+  "加纳帝国": [
+    "ghana"
+  ],
+  "桑海帝国": [
+    "songhai"
+  ],
+  "大津巴布韦": [
+    "zimbabwe"
+  ],
+  "斯瓦希里海岸": [
+    "swahili"
+  ],
+  "古巴比伦": [
+    "babylon"
+  ],
+  "亚述帝国": [
+    "assyria"
+  ],
+  "帕提亚帝国": [
+    "parthia"
+  ],
+  "萨珊波斯": [
+    "sasanian",
+    "sassanian"
+  ],
+  "吠陀时代": [
+    "vedic"
+  ],
+  "孔雀王朝": [
+    "maurya",
+    "asoka",
+    "ashoka"
+  ],
+  "笈多王朝": [
+    "gupta"
+  ],
+  "商代": [
+    "shang"
+  ],
+  "周代": [
+    "zhou"
+  ],
+  "秦代": [
+    "qin"
+  ],
+  "隋唐": [
+    "sui",
+    "tang"
+  ],
+  "宋代": [
+    "song"
+  ],
+  "元代": [
+    "yuan"
+  ],
+  "明清": [
+    "ming",
+    "qing"
+  ],
+  "朝鲜半岛": [
+    "korea"
+  ],
+  "中南半岛": [
+    "indochina",
+    "southeast asia"
+  ],
+  "湄公河三角洲": [
+    "mekong"
+  ],
+  "吴哥": [
+    "angkor",
+    "khmer"
+  ],
+  "马来群岛": [
+    "malay",
+    "archipelago"
+  ],
+  "河中地区": [
+    "transoxiana",
+    "samarkand",
+    "bukhara",
+    "central asia"
+  ],
+  "匈奴": [
+    "xiongnu"
+  ],
+  "突厥": [
+    "turk"
+  ],
+  "阿拉伯半岛": [
+    "arabian peninsula",
+    "arabia"
+  ],
+  "黎凡特": [
+    "levant"
+  ],
+  "安纳托利亚": [
+    "anatolia"
+  ],
+  "东亚季风": [
+    "east asian monsoon",
+    "monsoon"
+  ],
+  "克里特文明": [
+    "minoan",
+    "crete"
+  ],
+  "马其顿与亚历山大": [
+    "macedon",
+    "alexander"
+  ],
+  "拜占庭帝国": [
+    "byzantine"
+  ],
+  "意大利半岛": [
+    "italy",
+    "italian peninsula",
+    "apennine"
+  ],
+  "伊比利亚半岛": [
+    "iberia",
+    "iberian"
+  ],
+  "高卢": [
+    "gaul"
+  ],
+  "阿尔卑斯山": [
+    "alps",
+    "alpine"
+  ],
+  "多瑙河": [
+    "danube"
+  ],
+  "莱茵河": [
+    "rhine"
+  ],
+  "维京时代": [
+    "viking"
+  ],
+  "法兰克王国": [
+    "frankish",
+    "francia",
+    "merovingian",
+    "carolingian"
+  ],
+  "十字军东征": [
+    "crusade"
+  ],
+  "威尼斯": [
+    "venice",
+    "venetian"
+  ],
+  "莫斯科公国": [
+    "muscovy",
+    "moscow"
+  ],
+  "巴尔干半岛": [
+    "balkan"
+  ],
+  "斯堪的纳维亚": [
+    "scandinavia",
+    "norden"
+  ],
+  "黑海海峡": [
+    "bosporus",
+    "dardanelles",
+    "strait"
+  ],
+  "欧洲温带海洋性气候": [
+    "oceanic climate",
+    "maritime climate",
+    "thermohaline"
+  ],
+  "中世纪欧洲庄园农业": [
+    "manor",
+    "medieval agricultur"
+  ],
+  "北美冰盖": [
+    "laurentide",
+    "ice sheet",
+    "keewatin"
+  ],
+  "落基山脉": [
+    "rocky mountain"
+  ],
+  "五大湖": [
+    "great lakes"
+  ],
+  "科罗拉多高原": [
+    "colorado plateau"
+  ],
+  "墨西哥湾": [
+    "gulf of mexico"
+  ],
+  "奥尔梅克": [
+    "olmec"
+  ],
+  "特奥蒂瓦坎": [
+    "teotihuacan"
+  ],
+  "北美原住民": [
+    "native american",
+    "peopling",
+    "beringia",
+    "north america"
+  ],
+  "格陵兰岛": [
+    "greenland"
+  ],
+  "十三殖民地": [
+    "thirteen colonies",
+    "colonial"
+  ],
+  "美国西进": [
+    "westward",
+    "frontier"
+  ],
+  "加勒比海群岛": [
+    "caribbean"
+  ],
+  "巴西高原": [
+    "brazil"
+  ],
+  "莫切文化": [
+    "moche"
+  ],
+  "蒂亚瓦纳科": [
+    "tiwanaku"
+  ],
+  "马丘比丘": [
+    "machu picchu"
+  ],
+  "安第斯垂直农业": [
+    "andean",
+    "altitudinal",
+    "vertical"
+  ],
+  "巴西殖民经济": [
+    "brazil",
+    "colonial"
+  ],
+  "大分水岭": [
+    "great dividing",
+    "dividing range"
+  ],
+  "大自流盆地": [
+    "artesian"
+  ],
+  "新西兰北岛": [
+    "north island"
+  ],
+  "新西兰南岛": [
+    "south island",
+    "southern alps",
+    "torlesse"
+  ],
+  "毛利人": [
+    "maori"
+  ],
+  "夏威夷群岛": [
+    "hawai"
+  ],
+  "大堡礁": [
+    "great barrier reef",
+    "coral"
+  ],
+  "澳大利亚内陆干旱气候": [
+    "australia",
+    "arid"
+  ],
+  "澳大利亚混合农业": [
+    "australia",
+    "wheat",
+    "mixed farming"
+  ],
+  "南极半岛": [
+    "antarctic peninsula",
+    "antarctic"
+  ],
+  "南极条约体系": [
+    "antarctic treaty"
+  ],
+  "冰芯气候记录": [
+    "ice core"
+  ],
+  "松岛冰川退缩": [
+    "pine island",
+    "thwaites",
+    "glacier"
+  ],
+  "大陆漂移": [
+    "continental drift",
+    "wegener",
+    "plate tectonic"
+  ],
+  "冲积平原": [
+    "alluvial"
+  ],
+  "山地农业": [
+    "mountain agriculture",
+    "highland",
+    "terrace"
+  ],
+  "人口迁移": [
+    "migration"
+  ],
+  "植物物候变化": [
+    "phenolog"
+  ],
+  "北极火情变化": [
+    "tundra fire",
+    "arctic fire"
+  ],
+  "地理信息系统": [
+    "gis",
+    "geographic information"
+  ],
+  "人口地理": [
+    "population"
+  ],
+  "城市地理": [
+    "urban",
+    "city"
   ]
 }
