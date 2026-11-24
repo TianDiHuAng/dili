@@ -1867,7 +1867,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第36轮)-世界银行指标",
-      "source_count": 11,
+      "source_count": 10,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2288,7 +2288,7 @@
       "区域": 28
     }
   },
-  "round": 90,
+  "round": 91,
   "round_processed": 2,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2

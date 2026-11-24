@@ -1331,6 +1331,21 @@
       "sample_rate": "41项边界用例 + 8条A级抽样",
       "sample_audit": "代码全绿；抽样发现2处虚高 → 修出 content_count 不认 side 的根本缺陷",
       "note": "D146：content_count 须与 strength 同源→G3 14→45（此前旁证被算作内容源）；A185"
+    },
+    {
+      "round": 91,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 2,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "A级抽样12条",
+      "sample_audit": "12条又发现2处虚高（城市化←气候页错挂、埃及新王国←双耳瓶）",
+      "note": "抽样复核：A 185→183、D 13→14、G3 45→46"
     }
   ]
 }

@@ -146,11 +146,11 @@
       "tier": "补充"
     },
     "古埃及新王国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 1,
         "alias": 1,
         "unknown": 0
@@ -2438,9 +2438,9 @@
       "tier": "补充"
     },
     "城市化水平": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 8,
@@ -2919,10 +2919,10 @@
     }
   },
   "summary": {
-    "A": 185,
-    "B": 45,
+    "A": 183,
+    "B": 46,
     "C": 0,
-    "D": 13
+    "D": 14
   },
   "definition": {
     "A": "≥2 强来源",
