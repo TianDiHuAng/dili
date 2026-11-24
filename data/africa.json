@@ -341,11 +341,10 @@
       ],
       "sources": [
         "wikidata-q28227",
-        "un-m49",
-        "openalex-W2008635858"
+        "un-m49"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：面积（6,045,741 km²）来自 Wikidata Q28227 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮第二来源（弱）】OpenAlex openalex-W2008635858（1998年，「Mitochondrial DNA analysis of Northwest African populations reveals genetic exchanges with European, Near‐Eastern, and sub‐Saharan populations」，DOI https://doi.org/10.1046/j.1469-1809.1998.6260531.x）：西北非人群线粒体 DNA 研究，仅可支撑「区域人群存在长期连续性」；与地理/政权主题相关性弱。 【第34轮返工·引用范围澄清】所引文献为西北非人群线粒体 DNA 研究，仅涉人群遗传连续性，不支撑面积或地理概况；本条面积数值依赖的 Wikidata 端点当前不可达，标为待核。",
+      "pending_notes": "第33轮升级：面积（6,045,741 km²）来自 Wikidata Q28227 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮第二来源（弱）】OpenAlex openalex-W2008635858（1998年，「Mitochondrial DNA analysis of Northwest African populations reveals genetic exchanges with European, Near‐Eastern, and sub‐Saharan populations」，DOI https://doi.org/10.1046/j.1469-1809.1998.6260531.x）：西北非人群线粒体 DNA 研究，仅可支撑「区域人群存在长期连续性」；与地理/政权主题相关性弱。 【第34轮返工·引用范围澄清】所引文献为西北非人群线粒体 DNA 研究，仅涉人群遗传连续性，不支撑面积或地理概况；本条面积数值依赖的 Wikidata 端点当前不可达，标为待核。 【第49轮剔除·对象错误】《Mitochondrial DNA analysis of Northwest African populations》——研究对象是人群的线粒体 DNA，不是区域地理；仅可作「人群连续性」的旁证，不作地理来源。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

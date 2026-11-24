@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 48,
+  "last_round": 49,
   "history": [
     {
       "round": 1,
@@ -586,6 +586,18 @@
       "gaps_found": 241,
       "note": "≥2内容源 219→224；1个 18",
       "result": "证据质量推进"
+    },
+    {
+      "round": 49,
+      "methods_used": [
+        "R19人工全量扫描（196条）",
+        "对象/学科错配剔除",
+        "侧面文献识别",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "剔除4条错配、降3条旁证、识别约30条侧面文献；≥2内容源 222",
+      "result": "对象同名校验推进"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -610,8 +622,9 @@
   "all_l2": true,
   "multi_source_entries": 143,
   "evidence": {
-    "ge2_has_body": 224,
-    "one_has_body": 18,
-    "note": "第①层（有正文）实测；第②层（内容对题）未全量校验（D106）"
+    "ge2_has_body": 222,
+    "one_has_body": 20,
+    "zero_has_body": 1,
+    "note": "第①层（有正文）实测；第②层（内容对题）已开始人工全量扫描（196 条）"
   }
 }

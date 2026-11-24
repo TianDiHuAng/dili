@@ -1,0 +1,2253 @@
+[
+  {
+    "entry": "不列颠群岛",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W1980793103",
+        "title": "OpenAlex W1980793103 — Triassic palaeogeography of the British Isles",
+        "year": 1970
+      }
+    ]
+  },
+  {
+    "entry": "东非大裂谷",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2004908009",
+        "title": "OpenAlex W2004908009 — Precambrian lithospheric controls on the development of the East African rift system",
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "entry": "丝绸之路",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W1520501027",
+        "title": "OpenAlex W1520501027 — The Silk Road--Trade, Travel, War and Faith",
+        "year": 2004
+      },
+      {
+        "sid": "openalex-W4249333639",
+        "title": "OpenAlex W4249333639 — Trade and Contemporary Society along the Silk Road",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "entry": "两河流域",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W1982150356",
+        "title": "OpenAlex W1982150356 — Ecological Effects of Irrigation in Ancient Mesopotamia",
+        "year": 1960
+      }
+    ]
+  },
+  {
+    "entry": "中美洲地峡",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4391592670",
+        "title": "OpenAlex W4391592670 — Monopolizing the Central American Isthmus, 1903–1926",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "entry": "亚马逊河",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W3100189549",
+        "title": "OpenAlex W3100189549 — Trace Elements in the Mainstem Amazon River",
+        "year": 2001
+      }
+    ]
+  },
+  {
+    "entry": "亚马逊盆地",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2274478700",
+        "title": "OpenAlex W2274478700 — The Atmospheric Component of Biogeochemical Cycles in the Amazon Basin",
+        "year": 2001
+      }
+    ]
+  },
+  {
+    "entry": "刚果盆地",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2277780580",
+        "title": "OpenAlex W2277780580 — Deforestation Trends in the Congo Basin",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "entry": "南极冰盖",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W196115473",
+        "title": "OpenAlex W196115473 — Did the West Antarctic Ice Sheet Create the East Antarctic Ice Sheet?",
+        "year": 1982
+      }
+    ]
+  },
+  {
+    "entry": "南极大陆",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4281801109",
+        "title": "OpenAlex W4281801109 — Diatom stratigraphy defining ice sheet grounding chronology, Ross Sea, Antarctica",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "entry": "印加帝国",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2504408383",
+        "title": "OpenAlex W2504408383 — The Role of Chicha in Inca State Expansion",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "entry": "印度河文明",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W7127929917",
+        "title": "OpenAlex W7127929917 — Indus Valley Civilization",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "entry": "古埃及早王朝",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W1982277160",
+        "title": "OpenAlex W1982277160 — EARLY DYNASTIC EGYPT",
+        "year": 1999
+      }
+    ]
+  },
+  {
+    "entry": "古希腊城邦",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4388377370",
+        "title": "OpenAlex W4388377370 — The Polis as City and State",
+        "year": 2006
+      },
+      {
+        "sid": "openalex-W3098219892",
+        "title": "OpenAlex W3098219892 — Coastal Geomorphology and Sea-Level Change",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "entry": "城市起源",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2165758805",
+        "title": "OpenAlex W2165758805 — Households and the Emergence of Cities in Ancient Mesopotamia",
+        "year": 2014
+      },
+      {
+        "sid": "openalex-W4405268832",
+        "title": "OpenAlex W4405268832 — City-State Civilizations: Mesoamerica’s Urban Revolution",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "entry": "大平原",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2333116877",
+        "title": "OpenAlex W2333116877 — A Reconsideration of Grassland Classification in the Northern Great Plains of North America",
+        "year": 1961
+      }
+    ]
+  },
+  {
+    "entry": "季风系统",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W1985690680",
+        "title": "OpenAlex W1985690680 — Mid-Tropospheric Cyclones of the Summer Monsoon",
+        "year": 1978
+      }
+    ]
+  },
+  {
+    "entry": "安第斯山脉",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W655456927",
+        "title": "OpenAlex W655456927 — Review and analysis of altitudinal distribution of the Andean anurans in Colombia",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "entry": "密西西比河",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W7151590036",
+        "title": "OpenAlex W7151590036 — The Mississippi River Basin Compact: A New Governance Structure to Save the Mississippi River",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "entry": "尼罗河谷",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4381279037",
+        "title": "OpenAlex W4381279037 — Analyzing and managing human settlement growth in the Nile Valley, Egypt",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "entry": "撒哈拉沙漠",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2794663306",
+        "title": "OpenAlex W2794663306 — Twentieth-Century Climate Change over Africa: Seasonal Hydroclimate Trends and Sahara Desert Expansion",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "文艺复兴意大利",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2396225729",
+        "title": "OpenAlex W2396225729 — ‘Poverty Makes Me Invisible’: Street Singers and Hard Times in Italian Renaissance Cities*",
+        "year": 2016
+      },
+      {
+        "sid": "openalex-W4298015793",
+        "title": "OpenAlex W4298015793 — Patronage and Italian Renaissance Sculpture",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "板块构造",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2904560534",
+        "title": "OpenAlex W2904560534 — Earthquake Seismology in the Plate Tectonics Revolution",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "汉代",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4403972561",
+        "title": "OpenAlex W4403972561 — Dogs in Early Imperial China: Anthropo-Zoological Reading of Iconographic Sources from the Han Dynasty (206 BC-AD 220)",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "河流三角洲",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2732305580",
+        "title": "OpenAlex W2732305580 — Nutrient and Sediment Effects on Oligohaline Marsh Plant Community in Mississippi River Delta",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "波利尼西亚",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W1973139594",
+        "title": "OpenAlex W1973139594 — Voyaging Canoes and the Settlement of Polynesia",
+        "year": 1977
+      }
+    ]
+  },
+  {
+    "entry": "游牧",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4403986029",
+        "title": "OpenAlex W4403986029 — Disruption of Pastoral Nomadism: The Impacts of Russian Colonialism on the Kazakh Steppe during the 19ᵗʰ and 20ᵗʰ Centuries",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "entry": "澳大利亚原住民",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2260197586",
+        "title": "OpenAlex W2260197586 — Aboriginal Australians abroad 1606–1875",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "entry": "澳大利亚大陆",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2010976353",
+        "title": "OpenAlex W2010976353 — New constraints on the seismic structure of West Australia: Evidence for terrane stabilization prior to the assembly of an ancient continent?",
+        "year": 2007
+      }
+    ]
+  },
+  {
+    "entry": "爱琴海世界",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2209715977",
+        "title": "OpenAlex W2209715977 — MULTIPLE LEVELS IN THE AEGEAN BRONZE AGE WORLD-SYSTEM",
+        "year": 1996
+      }
+    ]
+  },
+  {
+    "entry": "玛雅文明",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2910624658",
+        "title": "OpenAlex W2910624658 — The first Maya civilization: ritual and power before the classic period",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "entry": "白令陆桥",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2064781282",
+        "title": "OpenAlex W2064781282 — Sea Level History in Beringia During the Past 250,000 Years",
+        "year": 1973
+      }
+    ]
+  },
+  {
+    "entry": "罗马共和国",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4408242507",
+        "title": "OpenAlex W4408242507 — Integrating Sequence Stratigraphy and Geostatistical Methods for 3D Lithofacies Modelling of the Tiber Alluvial Plain, Rome, Italy",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "entry": "罗马帝国",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W378444792",
+        "title": "OpenAlex W378444792 — Travel and Geography in the Roman Empire",
+        "year": 2012
+      }
+    ]
+  },
+  {
+    "entry": "苏美尔城邦",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W150669647",
+        "title": "OpenAlex W150669647 — Sumerian Agriculture and Land Management",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "entry": "蒙古帝国",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4211127421",
+        "title": "OpenAlex W4211127421 — In the Shadow of the Mongol Empire: Ming China and Eurasia",
+        "year": 2019
+      },
+      {
+        "sid": "openalex-W2291403203",
+        "title": "OpenAlex W2291403203 — The Postal Roads of the Great Khans in Central Asia under the Mongol-Yuan Empire",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "迦太基",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2982377291",
+        "title": "OpenAlex W2982377291 — Classical-Hellenistic Carthage Before the Punic Wars (479–265 bce)",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "长江流域",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2805650462",
+        "title": "OpenAlex W2805650462 — Exploring spatiotemporal changes of the Yangtze River (Changjiang) nitrogen and phosphorus sources, retention and export to the East China Sea and Yellow Sea",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "阿兹特克",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2609565117",
+        "title": "OpenAlex W2609565117 — Aztec Empire of the Triple Alliance as an Example of the Hegemonic Empire",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "阿契美尼德波斯",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W4213261039",
+        "title": "OpenAlex W4213261039 — Greek Perspectives on the Achaemenid Empire: Persia Through the Looking Glass",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "entry": "青藏高原",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W1997020239",
+        "title": "OpenAlex W1997020239 — Uplift of Tibetan Plateau",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "entry": "马里帝国",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2089041290",
+        "title": "OpenAlex W2089041290 — Myth and Metrology: The Early Trans-Saharan Gold Trade",
+        "year": 1982
+      }
+    ]
+  },
+  {
+    "entry": "黄河流域",
+    "tier": "核心",
+    "sources": [
+      {
+        "sid": "openalex-W2089772508",
+        "title": "OpenAlex W2089772508 — Depth‐averaged 2‐D calculation of flow and sediment transport in the lower Yellow River",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "entry": "东亚季风",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2404462665",
+        "title": "OpenAlex W2404462665 — East Asian summer monsoon precipitation variability since the last deglaciation",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "entry": "中世纪欧洲庄园农业",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2479587242",
+        "title": "OpenAlex W2479587242 — Manors and Markets",
+        "year": 2010
+      }
+    ]
+  },
+  {
+    "entry": "中南半岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1935059050",
+        "title": "OpenAlex W1935059050 — Climatic and tectonic controls on weathering in south China and Indochina Peninsula: Clay mineralogical and geochemical investigations from the Pearl, Red, and Mekong drainage basins",
+        "year": 2007
+      }
+    ]
+  },
+  {
+    "entry": "亚述帝国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W52369814",
+        "title": "OpenAlex W52369814 — Landscape and Settlement in the Neo-Assyrian Empire",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "人口地理",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2091128307",
+        "title": "OpenAlex W2091128307 — Population Distribution and Spatial Structure in Transitional Chinese Cities: A Study of Nanjing",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "entry": "人口迁移",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2061929762",
+        "title": "OpenAlex W2061929762 — Patterns of migration in Arctic Alaska",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "entry": "伊比利亚半岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2127608683",
+        "title": "OpenAlex W2127608683 — Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study",
+        "year": 2007
+      }
+    ]
+  },
+  {
+    "entry": "元代",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4389109327",
+        "title": "OpenAlex W4389109327 — Koryŏ inlay celadon from Taicang Port of the Yuan Dynasty, China",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "entry": "克里特文明",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W576397603",
+        "title": "OpenAlex W576397603 — Minoan Glyptic: Typology, Deposits and Iconography: From the Early Minoan period to the Late Minoan IB destruction in Crete",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "冰芯气候记录",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W7152141455",
+        "title": "OpenAlex W7152141455 — Modelling age and ice flow at ice core drill sites in Antarctica",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "entry": "冲积平原",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2154930938",
+        "title": "OpenAlex W2154930938 — Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "几内亚湾沿岸",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1593162251",
+        "title": "OpenAlex W1593162251 — Oil and Politics in the Gulf of Guinea",
+        "year": 2007
+      }
+    ]
+  },
+  {
+    "entry": "加勒比海群岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2126487261",
+        "title": "OpenAlex W2126487261 — A Vicariance Model of Caribbean Biogeography",
+        "year": 1975
+      }
+    ]
+  },
+  {
+    "entry": "加纳帝国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2276091624",
+        "title": "OpenAlex W2276091624 — Expansions and Contractions: World-Historical Change And The Western Sudan World-System (1200/1000 B.C. – 1200/1250 A.D.)",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "entry": "匈奴",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2042596789",
+        "title": "OpenAlex W2042596789 — Xiongnu “Kings” and the Political Order of the Steppe Empire",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "北极火情变化",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W270032878",
+        "title": "OpenAlex W270032878 — Effects of a Tundra Fire on Soils and Plant Communities along a Hillslope in the Seward Peninsula, Alaska.",
+        "year": 1980
+      }
+    ]
+  },
+  {
+    "entry": "北美冰盖",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2100185916",
+        "title": "OpenAlex W2100185916 — Comment and Reply on ‘Keewatin Ice Sheet—Re-evaluation of the traditional concept of the Laurentide Ice Sheet’ and ‘Glacial erosion and ice sheet divides, northeastern Laurentide Ice Sheet, on the basis of the distribution of limestone erratics’",
+        "year": 1980
+      }
+    ]
+  },
+  {
+    "entry": "北美原住民",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2109701276",
+        "title": "OpenAlex W2109701276 — Beringian Standstill and Spread of Native American Founders",
+        "year": 2007
+      },
+      {
+        "sid": "openalex-W2568445233",
+        "title": "OpenAlex W2568445233 — Earliest Human Presence in North America Dated to the Last Glacial Maximum: New Radiocarbon Dates from Bluefish Caves, Canada",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "十三殖民地",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4388313733",
+        "title": "OpenAlex W4388313733 — New World Economies: The Growth Of the Thirteen Colonies and Early Canada",
+        "year": 1998
+      }
+    ]
+  },
+  {
+    "entry": "十字军东征",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W561167263",
+        "title": "OpenAlex W561167263 — Shipping, Trade and Crusade in the Medieval Mediterranean",
+        "year": 2016
+      },
+      {
+        "sid": "openalex-W4249644002",
+        "title": "OpenAlex W4249644002 — Preaching the Crusades to the Eastern Mediterranean: Propaganda, Liturgy and Diplomacy, 1305-1352",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "南极半岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1989199622",
+        "title": "OpenAlex W1989199622 — The link between climate warming and break-up of ice shelves in the Antarctic Peninsula",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "entry": "南极条约体系",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4387309994",
+        "title": "OpenAlex W4387309994 — International law, climate change and the Antarctic Treaty System: re-contemplating governance questions apropos of the mounting challenges",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "entry": "古埃及古王国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2021390023",
+        "title": "OpenAlex W2021390023 — Location of the Old Kingdom Pyramids in Egypt",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "古埃及新王国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W197188726",
+        "title": "OpenAlex W197188726 — Amphorae in New Kingdom Egypt",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "古巴比伦",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2600955765",
+        "title": "OpenAlex W2600955765 — The Economy of Late Achaemenid and Seleucid Babylonia",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "吠陀时代",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W3006608552",
+        "title": "OpenAlex W3006608552 — The Political and Social Organization in India During Early Vedic Civilization (1500 – 1000 B.C)",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "吴哥",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2001286049",
+        "title": "OpenAlex W2001286049 — Climate as a contributing factor in the demise of Angkor, Cambodia",
+        "year": 2010
+      }
+    ]
+  },
+  {
+    "entry": "周代",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4206323479",
+        "title": "OpenAlex W4206323479 — Hierarchical, Ethnic, and Provenance Features of Western Zhou Period Proto-Porcelain in Northern China: New Evidence of a Redistribution System During the Western Zhou Dynasty",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "entry": "商代",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W581771675",
+        "title": "OpenAlex W581771675 — China in the Early Bronze Age: Shang Civilization",
+        "year": 2006
+      },
+      {
+        "sid": "openalex-W4387138649",
+        "title": "OpenAlex W4387138649 — Bronze alloying recipes at Anyang during the Shang Dynasty",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "entry": "地理信息系统",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1832937167",
+        "title": "OpenAlex W1832937167 — Remote Scheduling System for Drip Irrigation System Using Geographic Information System",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "entry": "埃塞俄比亚高原",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2168645999",
+        "title": "OpenAlex W2168645999 — Some aspects of climate variability in the north east Ethiopian highlands - Wollo and Tigray",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "entry": "城市地理",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1985069233",
+        "title": "OpenAlex W1985069233 — 2008 Urban Geography Plenary Lecture—Public Health as Urban Politics, Urban Geography: Venereal Biopower in Seattle, 1943-1983",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "entry": "墨西哥湾",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1994091524",
+        "title": "OpenAlex W1994091524 — Natural variability of surface oceanographic conditions in the offshore Gulf of Mexico",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "夏威夷群岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2099199436",
+        "title": "OpenAlex W2099199436 — A POSSIBLE ORIGIN OF THE HAWAIIAN ISLANDS",
+        "year": 1963
+      },
+      {
+        "sid": "openalex-W2044118874",
+        "title": "OpenAlex W2044118874 — Hawaiian Swell, Deep, and Arch, and Subsidence of the Hawaiian Islands",
+        "year": 1953
+      }
+    ]
+  },
+  {
+    "entry": "多瑙河",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2658592595",
+        "title": "OpenAlex W2658592595 — Modelling water and nutrient fluxes in the Danube River Basin with SWAT",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "大分水岭",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W3153139914",
+        "title": "OpenAlex W3153139914 — Seasonal changes in the distribution of rainfall over the Great Dividing Range: general trends",
+        "year": 1983
+      }
+    ]
+  },
+  {
+    "entry": "大堡礁",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2020216779",
+        "title": "OpenAlex W2020216779 — Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia",
+        "year": 2003
+      }
+    ]
+  },
+  {
+    "entry": "大津巴布韦",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2004999962",
+        "title": "OpenAlex W2004999962 — Cognitive Archaeology and Imaginary History at Great Zimbabwe",
+        "year": 1998
+      }
+    ]
+  },
+  {
+    "entry": "大自流盆地",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1969120728",
+        "title": "OpenAlex W1969120728 — Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia",
+        "year": 1986
+      },
+      {
+        "sid": "openalex-W58011430",
+        "title": "OpenAlex W58011430 — A mid-Cretaceous microfossil assemblage from the Great Artesian Basin, northwestern Queensland",
+        "year": 1975
+      }
+    ]
+  },
+  {
+    "entry": "大陆漂移",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2476421376",
+        "title": "OpenAlex W2476421376 — The Continental Drift Controversy Wegener and the Early Debate",
+        "year": 2012
+      }
+    ]
+  },
+  {
+    "entry": "奥尔梅克",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W592717578",
+        "title": "OpenAlex W592717578 — Olmec Archaeology and Early Mesoamerica",
+        "year": 2007
+      }
+    ]
+  },
+  {
+    "entry": "威尼斯",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2104329013",
+        "title": "OpenAlex W2104329013 — International Trade and Institutional Change: Medieval Venice’s Response to Globalization*",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "孔雀王朝",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1977985637",
+        "title": "OpenAlex W1977985637 — Asoka and the Decline of the Mauryas",
+        "year": 1962
+      }
+    ]
+  },
+  {
+    "entry": "安第斯垂直农业",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2021618803",
+        "title": "OpenAlex W2021618803 — Mean annual temperature trends and their vertical structure in the tropical Andes",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "entry": "安纳托利亚",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2792722695",
+        "title": "OpenAlex W2792722695 — Agricultural origins on the Anatolian plateau",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "宋代",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4361197788",
+        "title": "OpenAlex W4361197788 — Deeper Structures of Song Governance",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "entry": "尼罗河三角洲",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2220441068",
+        "title": "OpenAlex W2220441068 — Heavy metal concentrations in surface river water and bed sediments at Nile Delta in Egypt.",
+        "year": 2010
+      }
+    ]
+  },
+  {
+    "entry": "山地农业",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1972724176",
+        "title": "OpenAlex W1972724176 — Soil organic carbon fractions in a long-term experiment and the potential for their use as a diagnostic assay in highland farming systems of Central Kenya",
+        "year": 1998
+      }
+    ]
+  },
+  {
+    "entry": "巴尔干半岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W631685674",
+        "title": "OpenAlex W631685674 — Balkan biodiversity : pattern and process in the European hotspot",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "entry": "巴西殖民经济",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W565333537",
+        "title": "OpenAlex W565333537 — Society and Government in Colonial Brazil, 1500-1822",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "entry": "巴西高原",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1982587238",
+        "title": "OpenAlex W1982587238 — The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition",
+        "year": 2007
+      }
+    ]
+  },
+  {
+    "entry": "帕提亚帝国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2895092346",
+        "title": "OpenAlex W2895092346 — Long Distance Trade and the Parthian Empire: Reclaiming Parthian Agency from an Orientalist Historiography",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "库什与努比亚",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2896238063",
+        "title": "OpenAlex W2896238063 — The ironworking remains in the royal city of Meroe: new insights on the Nile Corridor and the Kingdom of Kush",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "意大利半岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2087928538",
+        "title": "OpenAlex W2087928538 — Paleomagnetic evidence for rotation of the Italian Peninsula",
+        "year": 1975
+      }
+    ]
+  },
+  {
+    "entry": "拉普拉塔平原",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W7150774676",
+        "title": "OpenAlex W7150774676 — High-resolution numerical analysis of land-river-floodplains-atmosphere interaction in La Plata Basin",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "entry": "拜占庭帝国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1968112198",
+        "title": "OpenAlex W1968112198 — The Birth of the Hospital in the Byzantine Empire",
+        "year": 1997
+      }
+    ]
+  },
+  {
+    "entry": "斯堪的纳维亚",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1912206775",
+        "title": "OpenAlex W1912206775 — Quaternary of Norden",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "entry": "斯瓦希里海岸",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4229865234",
+        "title": "OpenAlex W4229865234 — Islamic Architecture of the Swahili coast",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "新西兰北岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2051173656",
+        "title": "OpenAlex W2051173656 — Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments",
+        "year": 1996
+      },
+      {
+        "sid": "openalex-W2075518532",
+        "title": "OpenAlex W2075518532 — Gravity, seismicity, and tectonics of the North Island, New Zealand",
+        "year": 1970
+      }
+    ]
+  },
+  {
+    "entry": "新西兰南岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2041276447",
+        "title": "OpenAlex W2041276447 — Origin of the Torlesse terrane and coeval rocks, South Island, New Zealand",
+        "year": 1983
+      },
+      {
+        "sid": "openalex-W2004355322",
+        "title": "OpenAlex W2004355322 — Naturalised plants in south‐west South Island, New Zealand",
+        "year": 1982
+      }
+    ]
+  },
+  {
+    "entry": "明清",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2081119930",
+        "title": "OpenAlex W2081119930 — What Made Foshan a Town?: The Evolution of Rural-Urban Identities in Ming-Qing China",
+        "year": 1990
+      }
+    ]
+  },
+  {
+    "entry": "朝鲜半岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2020449353",
+        "title": "OpenAlex W2020449353 — Vegetational history of the Korean Peninsula",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "entry": "松岛冰川退缩",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2016162897",
+        "title": "OpenAlex W2016162897 — Acceleration of Pine Island and Thwaites Glaciers, West Antarctica",
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "entry": "格陵兰岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4323657308",
+        "title": "OpenAlex W4323657308 — Roughish ice, snow and turbulent heat fluxes on the Greenland ice sheet",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "entry": "桑海帝国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2991586769",
+        "title": "OpenAlex W2991586769 — The Rise of the Songhai Empire",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "植物物候变化",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W7224996787",
+        "title": "OpenAlex W7224996787 — PhenoFECT: A Python package for forecasting and exploring plant phenology under climate change",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "entry": "欧洲温带海洋性气候",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2073338420",
+        "title": "OpenAlex W2073338420 — Slowdown of the thermohaline circulation causes enhanced maritime climate influence and snow cover over Europe",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "毛利人",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4385601321",
+        "title": "OpenAlex W4385601321 — New Treaty, New Tradition: Reconciling New Zealand and Maori Law",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "entry": "气候带",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W3124273658",
+        "title": "OpenAlex W3124273658 — Observed and projected changes in global climate zones based on Köppen climate classification",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "entry": "河中地区",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2621257476",
+        "title": "OpenAlex W2621257476 — The Connection of the Genetic, Cultural and Geographic Landscapes of Transoxiana",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "法兰克王国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W617733386",
+        "title": "OpenAlex W617733386 — Carolingian connections: Anglo-Saxon England and Carolingian Francia, c. 750-870",
+        "year": 2003
+      },
+      {
+        "sid": "openalex-W2497994255",
+        "title": "OpenAlex W2497994255 — Merovingian Gaul and the Frankish conquests",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "洋流",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1556419777",
+        "title": "OpenAlex W1556419777 — Using ocean margin density to constrain ocean circulation and surface wind strength in the past",
+        "year": 2001
+      }
+    ]
+  },
+  {
+    "entry": "湄公河三角洲",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2165261460",
+        "title": "OpenAlex W2165261460 — Groundwater extraction, land subsidence, and sea-level rise in the Mekong Delta, Vietnam",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "澳大利亚内陆干旱气候",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2059196248",
+        "title": "OpenAlex W2059196248 — Evolutionary refugia and ecological refuges: key concepts for conserving Australian arid zone freshwater biodiversity under climate change",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "entry": "澳大利亚混合农业",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1494268843",
+        "title": "OpenAlex W1494268843 — Production Flexibility and Technical Change in Australia's Wheat-Sheep Zone",
+        "year": 1982
+      }
+    ]
+  },
+  {
+    "entry": "特奥蒂瓦坎",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1921738149",
+        "title": "OpenAlex W1921738149 — Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal Earliest Evidence of Wild Carnivore Management in Mesoamerica",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "entry": "科罗拉多高原",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1989998308",
+        "title": "OpenAlex W1989998308 — Raising the Colorado Plateau",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "entry": "秦代",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4312410278",
+        "title": "OpenAlex W4312410278 — Making the First Emperor’s Chariots—High-temperature Bronze Connection Technologies in Qin Dynasty China",
+        "year": 2021
+      },
+      {
+        "sid": "openalex-W2979855713",
+        "title": "OpenAlex W2979855713 — Unification and the Peerage System in Qin Dynasty",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "突厥",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2950039895",
+        "title": "OpenAlex W2950039895 — The Genetic Legacy of the Expansion of Turkic-Speaking Nomads across Eurasia",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "entry": "笈多王朝",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4321610807",
+        "title": "OpenAlex W4321610807 — THE EMPIRE OF GUPTA – THE GOLDEN PERIOD OF ANCIENT INDIA",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "维京时代",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2792757006",
+        "title": "OpenAlex W2792757006 — Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Scandinavia",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "罗马阿非利加",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W438212032",
+        "title": "OpenAlex W438212032 — Land, city, and trade in the Roman Empire",
+        "year": 1993
+      },
+      {
+        "sid": "openalex-W2481617052",
+        "title": "OpenAlex W2481617052 — The Segermes-Project Population and Production in the Roman Province of Africa Proconsularis",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "entry": "美国西进",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1548267435",
+        "title": "OpenAlex W1548267435 — The Black West: A Documentary and Pictorial History of the African American Role in the Westward Expansion of the United States",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "莫切文化",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2094507981",
+        "title": "OpenAlex W2094507981 — Moche Art and Iconography",
+        "year": 1976
+      }
+    ]
+  },
+  {
+    "entry": "莫斯科公国",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2618112116",
+        "title": "OpenAlex W2618112116 — Why Did Muscovy Not Participate in the “Communication Revolution” in the Sixteenth Century?",
+        "year": 2017
+      },
+      {
+        "sid": "openalex-W1965291802",
+        "title": "OpenAlex W1965291802 — Peasant Farming in Muscovy",
+        "year": 1978
+      }
+    ]
+  },
+  {
+    "entry": "莱茵河",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2096204231",
+        "title": "OpenAlex W2096204231 — The river Rhine: a global highway for dispersal of aquatic invasive species",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "entry": "萨珊波斯",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4232054564",
+        "title": "OpenAlex W4232054564 — Decline and Fall of the Sasanian Empire: The Sasanian–Parthian Confederacy and the Arab Conquest of Iran",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "entry": "萨赫勒带",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2144515426",
+        "title": "OpenAlex W2144515426 — A re‐evaluation of rainfall variability in the sahel. Part I. Characteristics of rainfall fluctuations",
+        "year": 1993
+      }
+    ]
+  },
+  {
+    "entry": "落基山脉",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2087734990",
+        "title": "OpenAlex W2087734990 — The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains",
+        "year": 1999
+      }
+    ]
+  },
+  {
+    "entry": "蒂亚瓦纳科",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2332228214",
+        "title": "OpenAlex W2332228214 — The Technology and Organization of Agricultural Production in the Tiwanaku State",
+        "year": 1991
+      },
+      {
+        "sid": "openalex-W1977311725",
+        "title": "OpenAlex W1977311725 — The changing ‘nature’ of Tiwanaku religion and the rise of an Andean state",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "entry": "阿塔卡马沙漠",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2087066966",
+        "title": "OpenAlex W2087066966 — Endolithic Cyanobacteria in Halite Rocks from the Hyperarid Core of the Atacama Desert",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "entry": "阿尔卑斯山",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2129432027",
+        "title": "OpenAlex W2129432027 — Geology and Geomorphology of the European Alps and the Southern Alps of New Zealand: A Comparison",
+        "year": 2001
+      }
+    ]
+  },
+  {
+    "entry": "阿拉伯半岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W3217685633",
+        "title": "OpenAlex W3217685633 — Genetic structure of Arabian Peninsula dromedary camels revealed three geographic groups",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "entry": "阿拉伯征服北非",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W4285072712",
+        "title": "OpenAlex W4285072712 — A Gateway To Hell, A Gateway To Paradise. The North African Response to the Arab Conquest",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "entry": "隋唐",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2325759714",
+        "title": "OpenAlex W2325759714 — Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors",
+        "year": 1999
+      }
+    ]
+  },
+  {
+    "entry": "马丘比丘",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W387878121",
+        "title": "OpenAlex W387878121 — Machu Picchu : unveiling the mystery of the Incas",
+        "year": 2004
+      },
+      {
+        "sid": "openalex-W1695660266",
+        "title": "OpenAlex W1695660266 — Machu Picchu: Portento de la arquitectura inca",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "马其顿与亚历山大",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W1970392988",
+        "title": "OpenAlex W1970392988 — Alexander the Great and the Logistics of the Macedonian Army",
+        "year": 1978
+      }
+    ]
+  },
+  {
+    "entry": "马来群岛",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2619853094",
+        "title": "OpenAlex W2619853094 — Southeast Asia: New Views of the Geology of the Malay Archipelago",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "entry": "马格里布",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2008635858",
+        "title": "OpenAlex W2008635858 — Mitochondrial DNA analysis of Northwest African populations reveals genetic exchanges with European, Near‐Eastern, and sub‐Saharan populations",
+        "year": 1998
+      }
+    ]
+  },
+  {
+    "entry": "高卢",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2009330540",
+        "title": "OpenAlex W2009330540 — Roman Gaul : The Three Provinces, 58 BC-AD 260",
+        "year": 1983
+      }
+    ]
+  },
+  {
+    "entry": "黎凡特",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2884062598",
+        "title": "OpenAlex W2884062598 — The 4.2 ka BP event in the Levant",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "黑海海峡",
+    "tier": "重要",
+    "sources": [
+      {
+        "sid": "openalex-W2998035180",
+        "title": "OpenAlex W2998035180 — The Uncensored Dardanelles",
+        "year": 2011
+      },
+      {
+        "sid": "openalex-W2017853772",
+        "title": "OpenAlex W2017853772 — Numerical modeling of the influence of exchange through the Bosporus and Dardanelles Straits on the hydrophysical fields of the Marmara Sea",
+        "year": 2012
+      }
+    ]
+  },
+  {
+    "entry": "争议边界处理原则",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W3216751933",
+        "title": "OpenAlex W3216751933 — Disputed Waters Generated by Claims Made from Disputed Land Territory: What Are the Rights and Obligations of States?",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "entry": "人文地理学",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2038018335",
+        "title": "OpenAlex W2038018335 — Human geography in the French Institute: New discipline or missed opportunity?",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "entry": "仰韶文化",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2019734673",
+        "title": "OpenAlex W2019734673 — Diet and health changes at the end of the Chinese neolithic: The Yangshao/Longshan transition in Shaanxi province",
+        "year": 2001
+      }
+    ]
+  },
+  {
+    "entry": "农业气候风险",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2925321084",
+        "title": "OpenAlex W2925321084 — Vulnerability of the agricultural sector to climate change: The development of a pan-tropical Climate Risk Vulnerability Assessment to inform sub-national decision making",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "南极洲无农业的环境约束",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2994660888",
+        "title": "OpenAlex W2994660888 — The terrestrial environment",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "南极特别保护区",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2138317156",
+        "title": "OpenAlex W2138317156 — Management of Antarctic Specially Protected Areas: permitting, visitation and information exchange practices",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "entry": "南极科考站",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2135820861",
+        "title": "OpenAlex W2135820861 — Survey of waste water disposal practices at Antarctic research stations",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "entry": "南美贸易网络",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2102360536",
+        "title": "OpenAlex W2102360536 — Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "南锥体",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4224441281",
+        "title": "OpenAlex W4224441281 — The Spanish postwar emigration to the Southern Cone (1946–1960)",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "entry": "古埃及中王国",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4322713864",
+        "title": "OpenAlex W4322713864 — Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection",
+        "year": 2010
+      }
+    ]
+  },
+  {
+    "entry": "古巴岛",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W1987038906",
+        "title": "OpenAlex W1987038906 — Age and Tectonic Setting of the Camagüey Volcanic‐Intrusive Arc, Cuba: Late Cretaceous Extension and Uplift in the Western Greater Antilles",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "entry": "可持续交通",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2483902998",
+        "title": "OpenAlex W2483902998 — Car Sharing Systems as a Sustainable Transport Policy: A Case Study from Lisbon, Portugal",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "entry": "地图投影",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2895438346",
+        "title": "OpenAlex W2895438346 — Map Projection Education in General Cartography Textbooks: A Content Analysis",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "entry": "地球系统科学",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2949505632",
+        "title": "OpenAlex W2949505632 — Inferring causation from time series in Earth system sciences",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "entry": "地理空间数据产品",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4297537764",
+        "title": "OpenAlex W4297537764 — Laserfarm – A high-throughput workflow for generating geospatial data products of ecosystem structure from airborne laser scanning point clouds",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "entry": "城市热岛",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2093386355",
+        "title": "OpenAlex W2093386355 — The dependence of the urban heat island intensity on latitude A statistical approach",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "城市贫困",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2169088426",
+        "title": "OpenAlex W2169088426 — The Spatial Dimensions of Urban Social Exclusion and Integration",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "entry": "基辅罗斯",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4407989916",
+        "title": "OpenAlex W4407989916 — Kyivan Rus in Medieval Europe",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "entry": "复活节岛",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2130117805",
+        "title": "OpenAlex W2130117805 — Prehistoric and early historic agriculture at Maunga Orito, Easter Island (Rapa Nui), Chile",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "entry": "太平洋殖民航线",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2148027005",
+        "title": "OpenAlex W2148027005 — Pacific Seascapes, Canoe Performance, and a Review of Lapita Voyaging with Regard to Theories of Migration",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "entry": "奇穆帝国",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2334447411",
+        "title": "OpenAlex W2334447411 — Hydraulic Engineering Aspects of the Chimu Chicama-Moche Intervalley Canal",
+        "year": 1982
+      }
+    ]
+  },
+  {
+    "entry": "室利佛逝",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W3153775132",
+        "title": "OpenAlex W3153775132 — Srivijaya: Trade and Connectivity in the Pre-modern Malay World",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "entry": "密克罗尼西亚",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2145990868",
+        "title": "OpenAlex W2145990868 — Exploring the role of Micronesian islands in the maintenance of coral genetic diversity in the Pacific Ocean",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "巴塔哥尼亚",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W3046252846",
+        "title": "OpenAlex W3046252846 — Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "entry": "帖木儿帝国",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W7215189000",
+        "title": "OpenAlex W7215189000 — THE HISTORICAL SIGNIFICANCE OF THE TIMURID EMPIRE IN THE DEVELOPMENT OF CENTRAL ASIA",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "entry": "新法兰西",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2076135343",
+        "title": "OpenAlex W2076135343 — Travel Writing, Ethnography, and the Colony-Centric Voyage of theJesuit Relationsfrom New France",
+        "year": 2012
+      }
+    ]
+  },
+  {
+    "entry": "极端天气预警",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4306771028",
+        "title": "OpenAlex W4306771028 — A canary, a coal mine, and imperfect data: determining the efficacy of open-source climate change models in detecting and predicting extreme weather events in Northern and Western Kenya",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "entry": "查文文化",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W1979034930",
+        "title": "OpenAlex W1979034930 — The Evolution of Authority and Power at Chavin de Huantar, Peru",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "entry": "横贯南极山脉",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2091566445",
+        "title": "OpenAlex W2091566445 — Flexural uplift of the Transantarctic Mountains",
+        "year": 1989
+      }
+    ]
+  },
+  {
+    "entry": "欧洲冰期地貌",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W1983558504",
+        "title": "OpenAlex W1983558504 — Map and GIS database of glacial landforms and features related to the last British Ice Sheet",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "entry": "汉萨同盟",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4411023422",
+        "title": "OpenAlex W4411023422 — Networks in trade — Evidence from the legacy of the Hanseatic league",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "entry": "沙漠化",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W1981593648",
+        "title": "OpenAlex W1981593648 — Ecological impacts of global change on drylands and their implications for desertification",
+        "year": 1998
+      }
+    ]
+  },
+  {
+    "entry": "法蒂玛王朝",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4285722466",
+        "title": "OpenAlex W4285722466 — \"Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid Architecture\"",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "entry": "满者伯夷",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4384790179",
+        "title": "OpenAlex W4384790179 — Sejarah Sosial Politik Kerajaan Majapahit",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "entry": "火灾生态",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2105570511",
+        "title": "OpenAlex W2105570511 — Bark thickness and fire regime",
+        "year": 2014
+      }
+    ]
+  },
+  {
+    "entry": "玛雅研究新进展",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W3015797299",
+        "title": "OpenAlex W3015797299 — Ethics, New Colonialism, and Lidar Data: A Decade of Lidar in Maya Archaeology",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "entry": "环境数据访问",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4379536400",
+        "title": "OpenAlex W4379536400 — Ecodatacube.eu: analysis-ready open environmental data cube for Europe",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "entry": "环境治理",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2063782987",
+        "title": "OpenAlex W2063782987 — Assessing the effectiveness of environmental governance regimes: remaining gaps",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "entry": "生物多样性分布",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W3037032979",
+        "title": "OpenAlex W3037032979 — Assessing spatial patterns of phylogenetic diversity of Mexican mammals for biodiversity conservation",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "entry": "的的喀喀湖",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W3149966361",
+        "title": "OpenAlex W3149966361 — Lines in the Water: Nature and Culture at Lake Titicaca",
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "entry": "神圣罗马帝国",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4247689949",
+        "title": "OpenAlex W4247689949 — Heart of Europe: A History of the Holy Roman Empire",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "entry": "纳斯卡文化",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2019769917",
+        "title": "OpenAlex W2019769917 — GEOARCHAEOLOGICAL EVIDENCE FROM DESERT LOESS IN THE NAZCA–PALPA REGION, SOUTHERN PERU: PALAEOENVIRONMENTAL CHANGES AND THEIR IMPACT ON PRE‐COLUMBIAN CULTURES*",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "entry": "罗斯海",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2024312440",
+        "title": "OpenAlex W2024312440 — Freshening of the Ross Sea During the Late 20th Century",
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "entry": "美拉尼西亚",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W1499262168",
+        "title": "OpenAlex W1499262168 — The Pacification of Melanesia.",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "entry": "自然灾害风险",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2603960055",
+        "title": "OpenAlex W2603960055 — Urban and Spatial Planning in Natural Hazard Risk Management",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "entry": "西北海岸",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2163451848",
+        "title": "OpenAlex W2163451848 — Indigenous marine resource management on the Northwest Coast of North America",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "entry": "贵霜帝国",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4205265904",
+        "title": "OpenAlex W4205265904 — The Kushan Empire",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "entry": "赫梯王国",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W4280619931",
+        "title": "OpenAlex W4280619931 — The Hittite Empire",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "entry": "迈锡尼文明",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2492031384",
+        "title": "OpenAlex W2492031384 — THE EXPANSION OF MYCENAEAN CIVILIZATION",
+        "year": 1975
+      }
+    ]
+  },
+  {
+    "entry": "阿巴拉契亚山脉",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W1902061871",
+        "title": "OpenAlex W1902061871 — Alleghanian (Appalachian) orogeny, a product of zipper tectonics: Rotational transpressive continent-continent collision and closing of ancient oceans along irregular margins",
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "entry": "非洲大湖地区",
+    "tier": "补充",
+    "sources": [
+      {
+        "sid": "openalex-W2967976954",
+        "title": "OpenAlex W2967976954 — Comparison of Hydrology and Physical Limnology of the East African Great Lakes: Tanganyika, Malawi, Victoria, Kivu and Turkana (with reference to some North American Great Lakes)",
+        "year": 2019
+      }
+    ]
+  }
+]

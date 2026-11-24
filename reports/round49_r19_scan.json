@@ -1,0 +1,45 @@
+{
+  "round": 49,
+  "scanned_entries": 196,
+  "dropped": [
+    {
+      "entry": "阿拉伯半岛",
+      "sid": "openalex-W3217685633",
+      "why": "《Genetic structure of Arabian Peninsula dromedary camels》——研究对象是**单峰驼**的群体遗传结构，不是半岛的地理与面积；第41轮曾加说明但未剔除，本轮按 R19 剔除。"
+    },
+    {
+      "entry": "马格里布",
+      "sid": "openalex-W2008635858",
+      "why": "《Mitochondrial DNA analysis of Northwest African populations》——研究对象是**人群的线粒体 DNA**，不是区域地理；仅可作「人群连续性」的旁证，不作地理来源。"
+    }
+  ],
+  "dropped_earlier_this_round": [
+    {
+      "entry": "罗马共和国",
+      "sid": "openalex-W4408242507",
+      "why": "学科错配：台伯河冲积平原三维岩相建模（地质学）"
+    },
+    {
+      "entry": "澳大利亚原住民",
+      "sid": "openalex-W2260197586",
+      "why": "对象错误：19世纪原住民板球队员访英史"
+    },
+    {
+      "entry": "汉代",
+      "sid": "openalex-W4403972561",
+      "why": "降旁证：汉代图像中的狗（动物考古侧面）"
+    },
+    {
+      "entry": "植物物候变化",
+      "sid": "openalex-W7224996787",
+      "why": "降旁证：PhenoFECT 预测软件包"
+    },
+    {
+      "entry": "北美冰盖",
+      "sid": "openalex-W2100185916",
+      "why": "标明：Comment/Reply 学术讨论通信"
+    }
+  ],
+  "side_evidence_note": "另有约 30 条属「侧面文献」（如拜占庭←医院史、元代←高丽青瓷、印加←玉米酒、莫切←艺术图像），对象同一但只涉一个侧面；已在本轮扫描中识别，须逐条降为旁证或补主来源——留待下一轮处理。",
+  "method": "导出全部 196 条含学术来源条目及其来源标题，人工逐条核对对象同一性（R19 的人工执行形式）"
+}
