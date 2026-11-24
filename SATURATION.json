@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 55,
+  "last_round": 56,
   "history": [
     {
       "round": 1,
@@ -665,6 +665,18 @@
       "gaps_found": 241,
       "note": "补3条主来源；≥2内容源 224",
       "result": "主来源推进"
+    },
+    {
+      "round": 56,
+      "methods_used": [
+        "R20对象词校验上线",
+        "2条真违规标旁证",
+        "三用例验证",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "R20 上线，映射 51 条，检出 2 条真违规；≥2内容源 224",
+      "result": "校验机器化"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -691,8 +703,8 @@
   "evidence": {
     "ge2_has_body": 224,
     "one_has_body": 19,
-    "primary_claims": 15,
-    "weak_claims": 6,
-    "note": "R19 已机器化（弱来源不得称主来源）；内容对题仍依赖人工扫描"
+    "obj_word_map": 51,
+    "side_evidence": 39,
+    "note": "R19（弱来源不得称主来源）+ R20（对象词须在标题）均已机器化；语义对题仍依赖人工扫描"
   }
 }

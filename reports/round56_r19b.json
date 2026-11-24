@@ -1,0 +1,202 @@
+{
+  "round": 56,
+  "obj_map": {
+    "尼罗河谷": [
+      "nile"
+    ],
+    "刚果盆地": [
+      "congo"
+    ],
+    "东非大裂谷": [
+      "east african rift",
+      "rift valley",
+      "ethiopian rift"
+    ],
+    "撒哈拉沙漠": [
+      "sahara"
+    ],
+    "两河流域": [
+      "mesopotamia",
+      "tigris",
+      "euphrates"
+    ],
+    "苏美尔城邦": [
+      "sumer"
+    ],
+    "阿卡德帝国": [
+      "akkad"
+    ],
+    "阿契美尼德波斯": [
+      "achaemenid",
+      "persia"
+    ],
+    "迦太基": [
+      "carthage",
+      "punic"
+    ],
+    "马里帝国": [
+      "mali"
+    ],
+    "古埃及早王朝": [
+      "egypt",
+      "dynastic"
+    ],
+    "古埃及古王国": [
+      "egypt",
+      "old kingdom"
+    ],
+    "古埃及新王国": [
+      "egypt",
+      "new kingdom"
+    ],
+    "黄河流域": [
+      "yellow river",
+      "huang he"
+    ],
+    "长江流域": [
+      "yangtze",
+      "changjiang"
+    ],
+    "日本列岛": [
+      "japan"
+    ],
+    "汉代": [
+      "han"
+    ],
+    "蒙古帝国": [
+      "mongol"
+    ],
+    "阿兹特克": [
+      "aztec"
+    ],
+    "印度河文明": [
+      "indus"
+    ],
+    "丝绸之路": [
+      "silk road"
+    ],
+    "青藏高原": [
+      "tibet"
+    ],
+    "爱琴海世界": [
+      "aegean"
+    ],
+    "古希腊城邦": [
+      "greek",
+      "greece",
+      "polis"
+    ],
+    "罗马共和国": [
+      "roman",
+      "rome"
+    ],
+    "罗马帝国": [
+      "roman",
+      "rome"
+    ],
+    "不列颠群岛": [
+      "british",
+      "britain"
+    ],
+    "白令陆桥": [
+      "bering"
+    ],
+    "密西西比河": [
+      "mississippi"
+    ],
+    "大平原": [
+      "great plains"
+    ],
+    "中美洲地峡": [
+      "isthmus",
+      "central america"
+    ],
+    "玛雅文明": [
+      "maya"
+    ],
+    "安第斯山脉": [
+      "andes"
+    ],
+    "印加帝国": [
+      "inca"
+    ],
+    "亚马逊盆地": [
+      "amazonia",
+      "amazon basin"
+    ],
+    "亚马逊河": [
+      "amazon"
+    ],
+    "拉普拉塔平原": [
+      "la plata",
+      "plata",
+      "pampa"
+    ],
+    "阿塔卡马沙漠": [
+      "atacama"
+    ],
+    "澳大利亚大陆": [
+      "australia"
+    ],
+    "波利尼西亚": [
+      "polynesia"
+    ],
+    "澳大利亚原住民": [
+      "aboriginal"
+    ],
+    "南极大陆": [
+      "antarctic"
+    ],
+    "南极冰盖": [
+      "antarctic",
+      "ice sheet"
+    ],
+    "季风系统": [
+      "monsoon"
+    ],
+    "洋流": [
+      "ocean",
+      "circulation",
+      "current"
+    ],
+    "河流三角洲": [
+      "delta"
+    ],
+    "板块构造": [
+      "plate tectonic"
+    ],
+    "游牧": [
+      "nomad",
+      "pastoral"
+    ],
+    "气候带": [
+      "climate zone",
+      "climate classification"
+    ],
+    "城市起源": [
+      "cit"
+    ],
+    "文艺复兴意大利": [
+      "renaissance",
+      "italy",
+      "italian"
+    ]
+  },
+  "remaining_violations": [
+    {
+      "entry": "马里帝国",
+      "sid": "openalex-W2089041290",
+      "title": "OpenAlex W2089041290 — Myth and Metrology: The Early Trans-Saharan Gol"
+    },
+    {
+      "entry": "古希腊城邦",
+      "sid": "openalex-W3098219892",
+      "title": "OpenAlex W3098219892 — Coastal Geomorphology and Sea-Level Change"
+    },
+    {
+      "entry": "安第斯山脉",
+      "sid": "openalex-W655456927",
+      "title": "OpenAlex W655456927 — Review and analysis of altitudinal distribution "
+    }
+  ]
+}

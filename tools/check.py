@@ -33,6 +33,40 @@ def load_json(path):
         return json.load(f)
 
 
+OBJ_MAP = {}
+_ob_path = os.path.join(DATA, "object_words.json")
+if os.path.exists(_ob_path):
+    OBJ_MAP = load_json(_ob_path)
+
+
+def _norm_text(s):
+    import unicodedata
+    s = unicodedata.normalize("NFKD", (s or "").lower())
+    return "".join(c for c in s if not unicodedata.combining(c))
+
+
+def check_object_word(e, sources, objmap):
+    """R20（D105 第二层）：核心条目的学术来源标题须含条目对象词；已标「旁证」者豁免。"""
+    title = e.get("title")
+    objs = objmap.get(title)
+    if not objs:
+        return
+    pn = e.get("pending_notes") or ""
+    for sid in e.get("sources", []):
+        if not sid.startswith("openalex-"):
+            continue
+        # 已在本条备注中被标为旁证/弱来源/剔除者豁免
+        seg = ""
+        idx = pn.find(sid)
+        if idx >= 0:
+            seg = pn[max(0, idx - 120): idx + 60]
+        if any(k in seg for k in ("旁证", "弱来源", "剔除", "降级", "不作")):
+            continue
+        ti = _norm_text((sources.get(sid) or {}).get("title"))
+        if not any(_norm_text(o) in ti for o in objs):
+            err(f"R20 {e['id']}: 来源 {sid} 标题不含对象词 {objs[:2]}（D105 第二层）")
+
+
 def main():
     src_doc = load_json(os.path.join(DATA, "sources.json"))
     src_by_id = {s["id"]: s for s in src_doc.get("sources", [])}
@@ -114,6 +148,7 @@ def main():
             check_no_markdown(e)
             check_orphan_citation(e, src_by_id)
             check_weak_as_primary(e, src_by_id)
+            check_object_word(e, src_by_id, OBJ_MAP)
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)
