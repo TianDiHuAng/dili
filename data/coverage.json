@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-24",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -463,7 +463,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第44轮复核)-内容源0条",
-      "source_count": 7,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -655,7 +655,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·无实证)",
-      "source_count": 7,
+      "source_count": 8,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -673,7 +673,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第44轮复核)-内容源2条",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },

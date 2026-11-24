@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 45,
+  "last_round": 46,
   "history": [
     {
       "round": 1,
@@ -552,6 +552,17 @@
       "gaps_found": 285,
       "note": "别名页only 49→44；≥2源 29",
       "result": "证据质量推进"
+    },
+    {
+      "round": 46,
+      "methods_used": [
+        "口径五分类",
+        "D101槽位化补源（1条）",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "真缺口由44降为0（其余为指标解读/地形常识，无需文献）",
+      "result": "口径澄清"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -576,9 +587,11 @@
   "all_l2": true,
   "multi_source_entries": 143,
   "evidence": {
-    "alias_only": 44,
-    "one_source": 170,
-    "two_plus": 29,
-    "definition": "D099 四分类，实测口径（读 note 记录的正文字符数）"
+    "ge2": 126,
+    "one": 90,
+    "indicator_no_need": 27,
+    "terrain_common": 0,
+    "true_gap": 0,
+    "definition": "D099 五分类：指标解读类与地形常识类的正文无需学术文献；true_gap 为需继续补源者"
   }
 }

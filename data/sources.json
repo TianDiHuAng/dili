@@ -323,7 +323,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Urbanization | Our World in Data",
-      "note": "curl 实测 HTTP 200；页面标题：Urbanization | Our World in Data；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Urbanization | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第46轮实测】strip 后正文 39,569 字符（现场抓取，可复现）。"
     },
     {
       "id": "s026-ourworldindata-org",
@@ -505,7 +505,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Climate Change - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Climate Change - NASA Science；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：现跳转至 science.nasa.gov/climate-change/，标题一致。"
+      "note": "curl 实测 HTTP 200；页面标题：Climate Change - NASA Science；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：现跳转至 science.nasa.gov/climate-change/，标题一致。 【第46轮实测】strip 后正文 12,407 字符（现场抓取，可复现）。"
     },
     {
       "id": "s040-science-nasa-gov",
@@ -960,7 +960,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "UNICEF, for every child",
-      "note": "curl 实测 HTTP 200；页面标题：UNICEF, for every child；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：UNICEF, for every child；页面未标注统一年份，年份留空不做推定。 【第46轮实测】strip 后正文 5,455 字符（现场抓取，可复现）。"
     },
     {
       "id": "s075-aag-org",
@@ -1064,7 +1064,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Number of people living in extreme poverty | Our World in Data",
-      "note": "curl 实测 HTTP 200；页面标题：Number of people living in extreme poverty | Our World in Data；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Number of people living in extreme poverty | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第46轮实测】strip 后正文 19,408 字符（现场抓取，可复现）。"
     },
     {
       "id": "s083-fao-org",
@@ -2247,7 +2247,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Home: NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI, USA",
-      "note": "curl 实测 HTTP 200；页面标题：Home: NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI, USA；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：Home: NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI, USA；年份未标注。 【第46轮实测】strip 后正文 2,804 字符，本条正则命中 9（现场抓取，可复现）。"
     },
     {
       "id": "epa-great-lakes",
@@ -2260,7 +2260,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "The Great Lakes | US EPA",
-      "note": "curl 实测 HTTP 200；页面标题：The Great Lakes | US EPA；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：The Great Lakes | US EPA；年份未标注。 【第46轮实测】strip 后正文 2,624 字符，本条正则命中 11（现场抓取，可复现）。"
     },
     {
       "id": "livius-egypt",
@@ -7929,6 +7929,32 @@
       "verified": true,
       "page_title": "Jurassic Silicic Volcanism and Associated Continental-arc Basin in Northwestern Colombia (Southern Boundary of the Caribbean Plate)",
       "note": "OpenAlex 作品 W2319079898（DOI 10.1306/13531934m1083640）；2016年；出版方未标；被引 27。HTTP 200，11822 字节。摘要长度 1047 字符；槽位命中 ['subduction', 'volcan']（D101 槽位化举证）。"
+    },
+    {
+      "id": "openalex-W3098219892",
+      "title": "OpenAlex W3098219892 — Coastal Geomorphology and Sea-Level Change",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2009,
+      "type": "专著章节",
+      "url": "https://api.openalex.org/works/W3098219892",
+      "url2": "https://doi.org/10.1093/oso/9780199268030.003.0025",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Coastal Geomorphology and Sea-Level Change",
+      "note": "OpenAlex 作品 W3098219892（DOI 10.1093/oso/9780199268030.003.0025）；2009年；Oxford University Press eBooks；被引 75。HTTP 200，15349 字节。摘要长度 2330 字符。"
+    },
+    {
+      "id": "openalex-W4408242507",
+      "title": "OpenAlex W4408242507 — Integrating Sequence Stratigraphy and Geostatistical Methods for 3D Lithofacies Modelling of the Tiber Alluvial Plain, Rome, Italy",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2025,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W4408242507",
+      "url2": "https://doi.org/10.1111/bre.70024",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Integrating Sequence Stratigraphy and Geostatistical Methods for 3D Lithofacies Modelling of the Tiber Alluvial Plain, Rome, Italy",
+      "note": "OpenAlex 作品 W4408242507（DOI 10.1111/bre.70024）；2025年；Basin Research；被引 3。HTTP 200，25360 字节。摘要长度 2532 字符。"
     }
   ]
 }
