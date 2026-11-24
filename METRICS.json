@@ -971,6 +971,21 @@
       "sample_rate": "—",
       "sample_audit": "limits.html 改为动态；semantic_scan.json 建立",
       "note": "已知限制页动态化（缺口四类/无解5条/空壳6个/R18-R23能力边界）；人工扫描存档建立"
+    },
+    {
+      "round": 67,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 15,
+      "fixes": 11,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "15条语义全查（21个来源摘要逐句对读）",
+      "sample_audit": "4 PASS / 10 SOFT / 1 FAIL",
+      "note": "R24上线（悬空落点检测）；落实11条语义修改；站点加层级悬停与「如何读懂」"
     }
   ]
 }

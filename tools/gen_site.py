@@ -75,8 +75,12 @@ def evlabel(title):
         return ""
     txt = {"A": "证据 A（≥2 强来源）", "B": "证据 B（1 强来源）",
            "C": "证据 C（仅旁证/弱来源）", "D": "证据 D（仅数据端点）"}.get(lv, "")
+    tip = {"A": "至少两个独立强来源（被引≥10 或正文≥800 字符）。",
+           "B": "一个强来源，另有旁证或弱来源辅助。",
+           "C": "没有强来源，仅有旁证或弱来源——结论可靠性有限。",
+           "D": "仅有数据端点（世界银行/NOAA 等指标），正文为指标解读，无需学术文献。"}.get(lv, "")
     cls = {"A": "tag", "B": "tag", "C": "tag warn", "D": "tag dim"}.get(lv, "tag")
-    return f'<span class="{cls}">{esc(txt)}</span>'
+    return f'<span class="{cls}" title="{esc(tip)}">{esc(txt)}</span>'
 
 
 def srcgrade(e, flags=None):
@@ -285,6 +289,9 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
     cd = [k for k, v in evl.items() if v.get("level") in ("C", "D")]
     cd_sorted = sorted(cd, key=lambda k: (evl[k].get("level",""), k))
     ev_body = f"""<h1>证据层级说明</h1><p class="lead">本站为每条目算出一个证据层级。判据公开，可由 <code>tools/round60_levels.py</code> 复算，并由 <code>tools/check.py</code> 的 R22 交叉校验。</p>
+<div class="section"><h2>如何读懂本页</h2><p>本页回答一个问题：<b>这一条目凭什么可信</b>。你会在条目页看到「证据 A/B/C/D」标签，含义如下：A 有至少两个独立强来源；B 有一个；C 只有旁证或弱来源（结论可靠性有限）；D 只有数据端点（正文是指标解读，不需要学术文献）。</p>
+<p>「强来源」不是「看起来权威」，而是有明确门槛：被引 ≥10 <b>或</b> 正文/摘要 ≥800 字符。两个条件满足其一即可——因为被引 400+ 但摘要偏短的经典著作，不应因篇幅被判弱。</p>
+<p>降为<b>旁证</b>的常见原因：来源只涉条目的一个侧面（拜占庭条目引用医院史）、标题不含条目对象词（R20）、被引与篇幅均不足（R19）、或机构页实测只有几十字符（空壳页，D125）。降级理由逐条写在条目页的「待核实」区。</p></div>
 <div class="section"><h2>四档定义</h2><table><thead><tr><th>层级</th><th>判据</th><th>条数</th></tr></thead><tbody>
 <tr><td><b>A</b></td><td>≥2 个<b>强来源</b></td><td>{evs.get('A',0)}</td></tr>
 <tr><td><b>B</b></td><td>1 个强来源 + 旁证/弱来源</td><td>{evs.get('B',0)}</td></tr>

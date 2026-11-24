@@ -446,7 +446,7 @@
       "level": "L2",
       "status": "L2完成(第34轮)-学术文献",
       "definition": "蒂亚瓦纳科：的的喀喀湖南岸的高原古代国家与祭祀中心。",
-      "time_or_place": "约公元500–1000年（起讫年学界有不同表述）",
+      "time_or_place": "约公元400–1000年（学界有不同表述）",
       "overview": "蒂亚瓦纳科：的的喀喀湖南岸的高原古代国家与祭祀中心。",
       "related": [
         "south-america-x67e5x6587x6587x5316",
@@ -461,14 +461,14 @@
         "openalex-W1977311725"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2332228214（1991年，「The Technology and Organization of Agricultural Production in th」，DOI https://doi.org/10.2307/972273，Latin American Antiquity）； 年代以「约公元500–1000年（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W1977311725（2006年，《The changing ‘nature’ of Tiwanaku religion and the rise of an Andean s》，World Archaeology，DOI 10.1080/00438240600813541，被引 45）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2332228214（1991年，「The Technology and Organization of Agricultural Production in th」，DOI https://doi.org/10.2307/972273，Latin American Antiquity）； 年代以「约公元500–1000年（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W1977311725（2006年，《The changing ‘nature’ of Tiwanaku religion and the rise of an Andean s》，World Archaeology，DOI 10.1080/00438240600813541，被引 45）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。  【第67轮语义抽检】删去「冻害规避技术」（摘要无）；把「技术—组织是国家形成的条件」（因果反转）改为「该文讨论国家内部的组织形态」；年代按摘要 ca. AD 400–1000 调整为「约400–1000」并注明学界有异说。geo 中「海拔约3800米」加待核标记。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "位于海拔约3800米的玻利维亚高原，气候寒冷干旱；的的喀喀湖调节局部温度，湖岸与高地之间的不同海拔带可分层利用。",
-      "influence": "高海拔农业依赖raised field（抬升田）与冻害规避技术，专门研究显示其农业生产组织高度技术化；这一技术—组织组合是国家形成的重要条件。",
+      "influence": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "通过湖泊与高原道路连接秘鲁南部、智利北部与阿根廷西北部，是安第斯南部交换网络的中心。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -583,9 +583,9 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "建于安第斯山脊，两侧为陡降的河谷；梯田与排水系统是维持建筑稳定与农业的关键工程措施。（具体海拔数值待专门来源核验，本条不写具体高度。）",
-      "influence": "遗址的位置与工程反映印加国家对山地地形的适应能力；但它在印加政治体系中的具体功能（王室庄园、宗教中心等）仍有不同解释。",
+      "influence": "所引专论将该遗址定位为云雾林中的王室庄园——印加皇帝与宾客避离都城压力之所；其在印加政治体系中的具体功能（王室庄园、宗教中心等）仍有不同解释。 「遗址反映国家对山地地形的适应能力」一类引申不在该摘要内。 梯田与排水系统为常识性工程描述，摘要未涉，待专门来源核验。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经印加道路系统连接库斯科与周边谷地，是安第斯山地交通网络的节点。",
       "today": "（本条的当代指标不在本页展开。）",
