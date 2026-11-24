@@ -1,0 +1,402 @@
+{
+  "results": {
+    "长江流域": {
+      "cand": [
+        {
+          "oid": "W7203946437",
+          "title": "The Impact of Severe Drought on Freshwater Supply in Estuary and the Corresponding Strategies for Improving the Security of Freshwater Supply from a Basin Perspective--Taking the Yangtze River Basin and Yangtze River Estuary as Example",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 2282,
+          "slots": [
+            "yangtze",
+            "basin"
+          ],
+          "doi": "10.64697/iahr-apd2024_p402"
+        }
+      ],
+      "n": 1
+    },
+    "澳大利亚大陆": {
+      "cand": [
+        {
+          "oid": "W2020779706",
+          "title": "Tectonic Framework and Evolution of the Gawler Craton, Southern Australia",
+          "year": 2007,
+          "cited": 283,
+          "abs_len": 4228,
+          "slots": [
+            "australia",
+            "geolog",
+            "environment",
+            "continent"
+          ],
+          "doi": "10.2113/gsecongeo.102.8.1377"
+        },
+        {
+          "oid": "W7202244884",
+          "title": "Girt: A Continental Synthesis of Australian Vegetation",
+          "year": 2017,
+          "cited": 8,
+          "abs_len": 1581,
+          "slots": [
+            "australia",
+            "environment",
+            "vegetation",
+            "continent"
+          ],
+          "doi": "10.1017/9781316339701.003"
+        },
+        {
+          "oid": "W2015379593",
+          "title": "Geology and Tectonic Evolution of the Archean North Pilbara Terrain, Pilbara Craton, Western Australia",
+          "year": 2002,
+          "cited": 382,
+          "abs_len": 4131,
+          "slots": [
+            "australia",
+            "geolog",
+            "continent"
+          ],
+          "doi": "10.2113/97.4.695"
+        }
+      ],
+      "n": 11
+    },
+    "波利尼西亚": {
+      "cand": [
+        {
+          "oid": "W2033361490",
+          "title": "The Polynesian settlement of the Hawaiian Archipelago: Integrating models and methods in archaeological interpretation",
+          "year": 1995,
+          "cited": 82,
+          "abs_len": 944,
+          "slots": [
+            "polynesia",
+            "polynesian",
+            "settle",
+            "archaeolog",
+            "coloniz"
+          ],
+          "doi": "10.1080/00438243.1995.9980283"
+        },
+        {
+          "oid": "W4300089675",
+          "title": "The sailing performance of ancient Polynesian canoes and the early settlement of East Polynesia",
+          "year": 2022,
+          "cited": 18,
+          "abs_len": 1703,
+          "slots": [
+            "polynesia",
+            "polynesian",
+            "settle",
+            "archaeolog"
+          ],
+          "doi": "10.1002/arco.5277"
+        },
+        {
+          "oid": "W4388325899",
+          "title": "Adaptive voyaging and subsistence strategies in the early settlement of East Polynesia",
+          "year": 1995,
+          "cited": 17,
+          "abs_len": 1321,
+          "slots": [
+            "polynesia",
+            "polynesian",
+            "settle",
+            "coloniz"
+          ],
+          "doi": "10.1093/oso/9780198523185.003.0024"
+        }
+      ],
+      "n": 15
+    },
+    "朝鲜半岛": {
+      "cand": [
+        {
+          "oid": "W2946987700",
+          "title": "Inventing History: Two Historical Fictions in Late Chosŏn Korea, 1600s-1700s",
+          "year": 2018,
+          "cited": 2,
+          "abs_len": 2933,
+          "slots": [
+            "korea",
+            "korean",
+            "history"
+          ],
+          "doi": "10.29186/kjhh.2018.38.315"
+        },
+        {
+          "oid": "W4392820314",
+          "title": "LEARNING GEOGRAPHY OF KOREA BY MOUNTAINS AND ISLAND AS MAIN RESOURCE OF KOREAN PENINSULA",
+          "year": 2024,
+          "cited": 1,
+          "abs_len": 806,
+          "slots": [
+            "korea",
+            "korean",
+            "geograph"
+          ],
+          "doi": "10.37547/ijasr-04-03-06"
+        },
+        {
+          "oid": "W4405265461",
+          "title": "Karl Haushofer's Korea: Geopolitical Status of Korea within German Geopolitics",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1212,
+          "slots": [
+            "korea",
+            "korean",
+            "geograph"
+          ],
+          "doi": "10.17995/kjgs.2023.8.53.103"
+        }
+      ],
+      "n": 3
+    },
+    "中南半岛": {
+      "cand": [],
+      "n": 0
+    },
+    "黎凡特": {
+      "cand": [
+        {
+          "oid": "W259787251",
+          "title": "Size Matters – Donkeys and Horses in the Prehistory of the Southernmost Levant",
+          "year": 2012,
+          "cited": 31,
+          "abs_len": 617,
+          "slots": [
+            "levant",
+            "prehistor"
+          ],
+          "doi": "10.3406/paleo.2012.5468"
+        }
+      ],
+      "n": 1
+    },
+    "大自流盆地": {
+      "cand": [
+        {
+          "oid": "W4409434538",
+          "title": "Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry",
+          "year": 2025,
+          "cited": 1,
+          "abs_len": 1590,
+          "slots": [
+            "artesian",
+            "basin",
+            "groundwater",
+            "australia",
+            "hydrogeolog"
+          ],
+          "doi": "10.1016/j.jhydrol.2025.133311"
+        },
+        {
+          "oid": "W2075140483",
+          "title": "Groundwater flow and the 4 He distribution in the Great Artesian Basin of Australia",
+          "year": 1999,
+          "cited": 96,
+          "abs_len": 1432,
+          "slots": [
+            "artesian",
+            "basin",
+            "groundwater",
+            "australia"
+          ],
+          "doi": "10.1029/1999jb900085"
+        },
+        {
+          "oid": "W2132195427",
+          "title": "The hydrogeology of the Uitenhage Artesian Basin with reference to the Table Mountain Group Aquifer",
+          "year": 2001,
+          "cited": 37,
+          "abs_len": 2049,
+          "slots": [
+            "artesian",
+            "basin",
+            "groundwater",
+            "hydrogeolog"
+          ],
+          "doi": "10.4314/wsa.v27i4.4963"
+        }
+      ],
+      "n": 15
+    },
+    "古埃及中王国": {
+      "cand": [
+        {
+          "oid": "W4322713864",
+          "title": "Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection",
+          "year": 2010,
+          "cited": 95,
+          "abs_len": 1113,
+          "slots": [
+            "middle kingdom",
+            "egypt",
+            "culture"
+          ],
+          "doi": "10.1558/isbn.9781781791929"
+        },
+        {
+          "oid": "W1533015861",
+          "title": "Pottery and Economy in Old Kingdom Egypt",
+          "year": 2014,
+          "cited": 51,
+          "abs_len": 783,
+          "slots": [
+            "egypt",
+            "state",
+            "econom"
+          ],
+          "doi": "10.1163/9789004259850"
+        },
+        {
+          "oid": "W4251756451",
+          "title": "Asiatics in Middle Kingdom Egypt : Perceptions and Reality",
+          "year": 2016,
+          "cited": 34,
+          "abs_len": 756,
+          "slots": [
+            "middle kingdom",
+            "egypt",
+            "econom"
+          ],
+          "doi": "10.5040/9781472554550"
+        }
+      ],
+      "n": 4
+    },
+    "南锥体": {
+      "cand": [
+        {
+          "oid": "W1524625152",
+          "title": "Biogeographical history and diversification ofPetuniaandCalibrachoa(Solanaceae) in the Neotropical Pampas grassland",
+          "year": 2012,
+          "cited": 115,
+          "abs_len": 1122,
+          "slots": [
+            "pampa",
+            "environment",
+            "grassland"
+          ],
+          "doi": "10.1111/j.1095-8339.2012.01292.x"
+        },
+        {
+          "oid": "W2790325433",
+          "title": "Environmental drivers of ant species richness and composition across the Argentine Pampas grassland",
+          "year": 2018,
+          "cited": 25,
+          "abs_len": 1816,
+          "slots": [
+            "pampa",
+            "environment",
+            "grassland"
+          ],
+          "doi": "10.1111/aec.12579"
+        },
+        {
+          "oid": "W1983787866",
+          "title": "Relationship between Productivity, and Species and Functional Group Diversity in Grazed and Non-Grazed Pampas Grassland",
+          "year": 1997,
+          "cited": 158,
+          "abs_len": 1301,
+          "slots": [
+            "pampa",
+            "grassland"
+          ],
+          "doi": "10.2307/3545613"
+        }
+      ],
+      "n": 8
+    },
+    "南极科考站": {
+      "cand": [
+        {
+          "oid": "W2325413204",
+          "title": "Antarctic Research Stations: Parallels for Interplanetary Design",
+          "year": 2010,
+          "cited": 11,
+          "abs_len": 759,
+          "slots": [
+            "antarctic",
+            "station",
+            "research",
+            "scientific"
+          ],
+          "doi": "10.2514/6.2010-6106"
+        },
+        {
+          "oid": "W2135820861",
+          "title": "Survey of waste water disposal practices at Antarctic research stations",
+          "year": 2009,
+          "cited": 138,
+          "abs_len": 1675,
+          "slots": [
+            "antarctic",
+            "station",
+            "research"
+          ],
+          "doi": "10.1111/j.1751-8369.2008.00056.x"
+        },
+        {
+          "oid": "W4390535519",
+          "title": "Mapping Renewable Energy among Antarctic Research Stations",
+          "year": 2024,
+          "cited": 11,
+          "abs_len": 1204,
+          "slots": [
+            "antarctic",
+            "station",
+            "research"
+          ],
+          "doi": "10.3390/su16010426"
+        }
+      ],
+      "n": 4
+    },
+    "南极特别保护区": {
+      "cand": [
+        {
+          "oid": "W4403964437",
+          "title": "The Antarctic Specially Protected Species conservation management tool: Development, use and future outlook",
+          "year": 2024,
+          "cited": 8,
+          "abs_len": 1689,
+          "slots": [
+            "antarctic",
+            "protected",
+            "area",
+            "conservation",
+            "management"
+          ],
+          "doi": "10.1016/j.biocon.2024.110835"
+        },
+        {
+          "oid": "W2138317156",
+          "title": "Management of Antarctic Specially Protected Areas: permitting, visitation and information exchange practices",
+          "year": 2013,
+          "cited": 41,
+          "abs_len": 1437,
+          "slots": [
+            "antarctic",
+            "protected",
+            "area",
+            "management"
+          ],
+          "doi": "10.1017/s0954102012001204"
+        }
+      ],
+      "n": 2
+    },
+    "争议边界处理原则": {
+      "cand": [],
+      "n": 0
+    }
+  },
+  "http": {
+    "ok": 465,
+    "fail": 6
+  }
+}

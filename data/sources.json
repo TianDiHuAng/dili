@@ -10022,6 +10022,84 @@
       "verified": true,
       "page_title": "Stratigraphy and Paleoecology of the Productus Creek Group, South Island, New Zealand",
       "note": "OpenAlex 作品 W2019965919（DOI 10.1080/00288306.1975.10421544）；1975年；被引 15。HTTP 200，14650 字节。摘要长度 1004 字符；主题槽命中 ['south island', 'new zealand', 'environment']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2020779706",
+      "title": "OpenAlex W2020779706 — Tectonic Framework and Evolution of the Gawler Craton, Southern Australia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2007,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2020779706",
+      "url2": "https://doi.org/10.2113/gsecongeo.102.8.1377",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Tectonic Framework and Evolution of the Gawler Craton, Southern Australia",
+      "note": "OpenAlex 作品 W2020779706（DOI 10.2113/gsecongeo.102.8.1377）；2007年；被引 283。HTTP 200，20363 字节。摘要长度 4228 字符；主题槽命中 ['australia', 'geolog', 'environment', 'continent']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2033361490",
+      "title": "OpenAlex W2033361490 — The Polynesian settlement of the Hawaiian Archipelago: Integrating models and methods in archaeological interpretation",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1995,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2033361490",
+      "url2": "https://doi.org/10.1080/00438243.1995.9980283",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Polynesian settlement of the Hawaiian Archipelago: Integrating models and methods in archaeological interpretation",
+      "note": "OpenAlex 作品 W2033361490（DOI 10.1080/00438243.1995.9980283）；1995年；被引 82。HTTP 200，14920 字节。摘要长度 944 字符；主题槽命中 ['polynesia', 'polynesian', 'settle', 'archaeolog', 'coloniz']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4409434538",
+      "title": "OpenAlex W4409434538 — Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2025,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4409434538",
+      "url2": "https://doi.org/10.1016/j.jhydrol.2025.133311",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry",
+      "note": "OpenAlex 作品 W4409434538（DOI 10.1016/j.jhydrol.2025.133311）；2025年；被引 1。HTTP 200，18968 字节。摘要长度 1590 字符；主题槽命中 ['artesian', 'basin', 'groundwater', 'australia', 'hydrogeolog']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W1524625152",
+      "title": "OpenAlex W1524625152 — Biogeographical history and diversification ofPetuniaandCalibrachoa(Solanaceae) in the Neotropical Pampas grassland",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2012,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W1524625152",
+      "url2": "https://doi.org/10.1111/j.1095-8339.2012.01292.x",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Biogeographical history and diversification ofPetuniaandCalibrachoa(Solanaceae) in the Neotropical Pampas grassland",
+      "note": "OpenAlex 作品 W1524625152（DOI 10.1111/j.1095-8339.2012.01292.x）；2012年；被引 115。HTTP 200，19844 字节。摘要长度 1122 字符；主题槽命中 ['pampa', 'environment', 'grassland']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2325413204",
+      "title": "OpenAlex W2325413204 — Antarctic Research Stations: Parallels for Interplanetary Design",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2010,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2325413204",
+      "url2": "https://doi.org/10.2514/6.2010-6106",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Antarctic Research Stations: Parallels for Interplanetary Design",
+      "note": "OpenAlex 作品 W2325413204（DOI 10.2514/6.2010-6106）；2010年；被引 11。HTTP 200，10022 字节。摘要长度 759 字符；主题槽命中 ['antarctic', 'station', 'research', 'scientific']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4403964437",
+      "title": "OpenAlex W4403964437 — The Antarctic Specially Protected Species conservation management tool: Development, use and future outlook",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2024,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4403964437",
+      "url2": "https://doi.org/10.1016/j.biocon.2024.110835",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Antarctic Specially Protected Species conservation management tool: Development, use and future outlook",
+      "note": "OpenAlex 作品 W4403964437（DOI 10.1016/j.biocon.2024.110835）；2024年；被引 8。HTTP 200，29545 字节。摘要长度 1689 字符；主题槽命中 ['antarctic', 'protected', 'area', 'conservation', 'management']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

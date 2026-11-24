@@ -1658,9 +1658,9 @@
       "tier": "重要"
     },
     "南锥体": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 2,
         "data": 0,
@@ -1670,9 +1670,9 @@
       "tier": "补充"
     },
     "澳大利亚大陆": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 3,
@@ -1694,9 +1694,9 @@
       "tier": "重要"
     },
     "大自流盆地": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 2,
         "data": 0,
@@ -1778,9 +1778,9 @@
       "tier": "补充"
     },
     "波利尼西亚": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 2,
@@ -1934,9 +1934,9 @@
       "tier": "重要"
     },
     "南极科考站": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -1970,9 +1970,9 @@
       "tier": "补充"
     },
     "南极特别保护区": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 2,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 184,
-    "B": 37,
+    "A": 190,
+    "B": 31,
     "C": 0,
     "D": 22
   },

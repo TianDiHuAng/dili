@@ -2,24 +2,21 @@
 
 - 状态：正常循环（NORMAL）
 - **检索路线：Crossref `query.bibliographic` → DOI → OpenAlex by-ID**（OpenAlex search 429 不可用）
-- 当前轮次：**第 98 轮已完成，下一轮为第 99 轮**
-- **第98轮：单轮登记 11 条（最多）；G3 48→37，A 173→184**
+- 当前轮次：**第 99 轮已完成，下一轮为第 100 轮**
+- **第99轮：G3 37→31，A 184→190，G3a 核心 3→1**
   | 条目 | 新第二来源 | 被引 |
   |---|---|---|
-  | **阿塔卡马沙漠** | Oligocene–Miocene age of aridity in the Atacama (2005) | **505** |
-  | **格陵兰岛** | Greenland ice sheet hydrology: A review (2013) | **239** |
-  | **莱茵河** | Holocene **avulsion** history of the River Rhine (1994) | **194** |
-  | 多瑙河 | Hydrology and floodplain processes (1999) | 55 |
-  | 落基山脉 | Large-scale geomorphology and fission-track (1998) | 39 |
-  | 维京时代 | Viking Expansion Northwards (1995) | 18 |
-  | 新西兰南岛 | Stratigraphy and Paleoecology (1975) | 15 |
-  | 马丘比丘 | **Inca Foundations**, Site Preparation, Drainage (2012) | 5 |
-  | 大堡礁 | Taxonomy and ecology of corals (2002) | 2（摘要5705） |
-  | 巴尔干半岛 | The Balkans: History, Religion and Society (2024) | 0（摘要**7541**） |
-  | **元代** | The **Mongol Yuan Dynasty** in China (2023) | 0 |
-  - **元代终于找到对位的**（此前是 Yuan=人民币汇率碰撞）。
-  - **第五种同名碰撞**：大自流盆地 ←《Uitenhage Artesian Basin》实为**南非东开普省**的盆地，与澳大利亚 Great Artesian Basin 不同。
-- 第98轮收尾：243 条全部 L2，771 来源。层级 **A184 / B37 / C0 / D22**。缺口 **G1=0 / G2=3 / G3a=20（核心3/重要4/补充13）/ G3b=17（核心3/重要10/补充4）/ G4=243**。`check.py` R1–R25，0 错误。
+  | **澳大利亚大陆** | Tectonic Framework of the **Gawler Craton** (2007) | **283** |
+  | 南锥体 | Biogeographical history of Petunia（**潘帕斯**禾草） (2012) | **115** |
+  | 波利尼西亚 | **Polynesian settlement** of the Hawaiian Archipelago (1995) | **82** |
+  | 南极科考站 | Antarctic Research Stations (2010) | 11 |
+  | 南极特别保护区 | Antarctic **Specially Protected Species** (2024) | 8 |
+  | **大自流盆地** | Silica springs of the **eastern Great Artesian Basin** (2025) | 1 |
+  - **大自流盆地这次对位了**：上轮命中南非 Uitenhage（碰撞），这轮换全称 + hydrogeology，命中「澳大利亚东北部 Great Artesian Basin」。**碰撞不等于无解，换检索词能救回来。**
+  - **古埃及中王国**本轮登记了（《Poetry and Culture》被引95）——第92轮曾判「文学侧面」而退；区别是本轮落点句**明确限定**「聚焦文学，不涉经济与行政」（D140 思路）。
+  - 四条不采用：朝鲜半岛←历史小说、黎凡特←驴马、长江←现代干旱、中南半岛与争议边界←0 候选。
+  - **R20 第九次补别名**：pampas / pampa / patagonia。
+- 第99轮收尾：243 条全部 L2，777 来源。层级 **A190 / B31 / C0 / D22**。缺口 **G1=0 / G2=3 / G3a=14（核心1/重要3/补充10）/ G3b=17（核心3/重要10/补充4）/ G4=243**。`check.py` R1–R25，0 错误。
 - **目标达成度**：
   | 条件 | 状态 |
   |---|---|
@@ -28,11 +25,15 @@
   | 每个条目都有强来源（G1=0） | **已达成** |
   | 判据单一实现 | 已达成（四次收敛） |
   | 机器校验 R19–R25 | 已上线，0 违规 |
-  | 每条（非 D 级）都有 ≥2 内容源 | 未达成（37 条，**核心 6**） |
+  | 每条（非 D 级）都有 ≥2 内容源 | 未达成（31 条，**核心 4**） |
   | G4 语义对题 | 243/243 已扫描 |
-- 三轮回补 **25 条**（96→98），且**未出现新的虚高**——判据已收敛。
-- 下一轮起点（第99轮）：
-  1. **G3a 剩余 20 条**（核心3/重要4/补充13）。
-  2. **G3b 17 条**（核心3/重要10/补充4，含无解 3 条）。
-  3. 五种同名碰撞清单：Songhai 养鱼、Great Lakes 水泥、Dead Sea rift、Yuan 人民币、Uitenhage 盆地。
+- **剩余 31 条结构**：
+  - G3a：核心 1（长江流域）/ 重要 3（朝鲜半岛、中南半岛、黎凡特）/ 补充 10（多指标解读类）
+  - G3b：核心 3（尼罗河谷、古埃及早王朝、黄河流域）/ 重要 10 / 补充 4
+  - **核心共 4 条**
+- 下一轮起点（第100轮）：
+  1. **G3b 核心 3 条**（尼罗河谷、古埃及早王朝、黄河流域）——最难。
+  2. G3b 重要 10 条（笈多、隋唐、明清、威尼斯、巴西高原、拉普拉塔、大分水岭、南极条约、冲积平原、山地农业）。
+  3. G3a 剩余 14 条。
+  4. **第100轮可做一次全量判据复核**（D143 周期点）。
 - 不再写 ALL_DONE。

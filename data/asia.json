@@ -613,7 +613,7 @@
         "openalex-W2805650462"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。 【第32轮返工】① 明确标注所引 6300 千米为河流长度而非流域面积（流域实体 Q15758768 在 Wikidata 无面积属性）；② 删除「通过大运河与黄河流域整合」无源断言；③ fao-aquastat-basins 为流域目录页（无单流域正文），不作数值支撑。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮第二来源（中）】OpenAlex openalex-W2805650462（2018年，「Exploring spatiotemporal changes of the Yangtze River (Changjiang) nitrogen and phosphorus sources, retention and export to the East China Sea and Yellow Sea」，DOI https://doi.org/10.1016/j.watres.2018.06.006）：《Water Research》2018 论文，主题为长江流域氮磷输运（1900–2010），可支撑「流域为完整水文单元」的表述；未涉河长。 【第34轮返工·引用范围澄清】所引文献为长江氮磷污染来源解析，不支撑河长数值；河长 6300 千米仅来自 Wikidata（当前不可达），标为待核。 【第96轮检索记录】候选《Geographic patterns of industrial water consumption in the Yangtze River》(2025) 研究工业用水的地理格局（现代经济地理），不支撑本条的流域地形与农业史。不采用。",
+      "pending_notes": "第32轮升级：河长数据（约6300千米）来自 Wikidata Q5413 的 P2043（精度=1千米）；FAO AQUASTAT 流域目录页作机构背景、世界银行作现状数据。流域内具体数据待专门来源核验。 【第32轮返工】① 明确标注所引 6300 千米为河流长度而非流域面积（流域实体 Q15758768 在 Wikidata 无面积属性）；② 删除「通过大运河与黄河流域整合」无源断言；③ fao-aquastat-basins 为流域目录页（无单流域正文），不作数值支撑。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮第二来源（中）】OpenAlex openalex-W2805650462（2018年，「Exploring spatiotemporal changes of the Yangtze River (Changjiang) nitrogen and phosphorus sources, retention and export to the East China Sea and Yellow Sea」，DOI https://doi.org/10.1016/j.watres.2018.06.006）：《Water Research》2018 论文，主题为长江流域氮磷输运（1900–2010），可支撑「流域为完整水文单元」的表述；未涉河长。 【第34轮返工·引用范围澄清】所引文献为长江氮磷污染来源解析，不支撑河长数值；河长 6300 千米仅来自 Wikidata（当前不可达），标为待核。 【第96轮检索记录】候选《Geographic patterns of industrial water consumption in the Yangtze River》(2025) 研究工业用水的地理格局（现代经济地理），不支撑本条的流域地形与农业史。不采用。 【第99轮检索记录】候选《The Impact of Severe Drought on Freshwater…》(2026) 研究现代严重干旱对淡水的影响，不支撑流域的地形与农业史。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1000,7 +1000,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东亚×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第18轮复核】东亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页。 【第20轮复核】东亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020449353（2000年，《Vegetational history of the Korean Peninsula》，Global Ecology and Biogeography，DOI https://doi.org/10.1046/j.1365-2699.2000.00203.x，被引 69）。 其摘要与本条同一对象，正文地理与机制段落据其撰写；年代以「地质与植被史尺度（本条引 2000 年半岛植被史研究，资料覆盖二叠纪至今）」表述并注明学界有不同版本。 【第35轮返工】所引文献（Vegetational history of the Korean Peninsula）只做植被史，不含地形/季风表述；geo 段已剥离其背书并标为常识性描述，待补半岛地形与气候专题来源。 【第97轮检索记录】过筛候选《Peace Settlement of the Korean Peninsula》(2018) 是当代和平协议议题，不支撑半岛的地理与历史。不采用。",
+      "pending_notes": "第16轮复核：东亚×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第18轮复核】东亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页。 【第20轮复核】东亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020449353（2000年，《Vegetational history of the Korean Peninsula》，Global Ecology and Biogeography，DOI https://doi.org/10.1046/j.1365-2699.2000.00203.x，被引 69）。 其摘要与本条同一对象，正文地理与机制段落据其撰写；年代以「地质与植被史尺度（本条引 2000 年半岛植被史研究，资料覆盖二叠纪至今）」表述并注明学界有不同版本。 【第35轮返工】所引文献（Vegetational history of the Korean Peninsula）只做植被史，不含地形/季风表述；geo 段已剥离其背书并标为常识性描述，待补半岛地形与气候专题来源。 【第97轮检索记录】过筛候选《Peace Settlement of the Korean Peninsula》(2018) 是当代和平协议议题，不支撑半岛的地理与历史。不采用。 【第99轮检索记录】候选《Inventing History: Two Historical Fictions》(2018) 讨论两部历史小说，属文学侧面。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1079,7 +1079,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东南亚×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第18轮复核】东南亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页。 【第20轮复核】东南亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1935059050（2007年，《Climatic and tectonic controls on weathering in south China and Indochina Peninsula: Clay mineralogical and geochemical investigations from the Pearl, Red, and Mekong drainage basins》，DOI https://doi.org/10.1029/2006gc001490）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与气候尺度（本条引 2007 年风化研究）」表述并注明学界有不同版本。 【第97轮检索记录】过筛候选《The China–Indochina Peninsula Economic Corridor》(2019) 是当代基础设施与经济走廊议题。不采用。",
+      "pending_notes": "第16轮复核：东南亚×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第18轮复核】东南亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页。 【第20轮复核】东南亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1935059050（2007年，《Climatic and tectonic controls on weathering in south China and Indochina Peninsula: Clay mineralogical and geochemical investigations from the Pearl, Red, and Mekong drainage basins》，DOI https://doi.org/10.1029/2006gc001490）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与气候尺度（本条引 2007 年风化研究）」表述并注明学界有不同版本。 【第97轮检索记录】过筛候选《The China–Indochina Peninsula Economic Corridor》(2019) 是当代基础设施与经济走廊议题。不采用。 【第99轮检索记录】本轮 0 候选（Crossref 检索成功，HTTP 失败率 1%）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1627,7 +1627,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第20轮复核】西亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 D053：现有来源含壳别名（wikipedia-regions 约 5 字符）与门户首页（s075 AAG），均不构成独立正文依据。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2884062598（2018年，《The 4.2 ka BP event in the Levant》，DOI https://doi.org/10.5194/cp-14-1529-2018）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「区域地理与古气候（本条引 2018 年 4.2 ka 事件研究）」表述并注明学界有不同版本。 【第97轮检索记录】过筛候选《Woman's Share in Neolithic Society: A View from the Levant》(2016) 主题是新石器时代的女性份额（性别考古侧面）。不采用。",
+      "pending_notes": "第17轮复核：西亚×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第20轮复核】西亚×区域；按 D041/D055 仍缺含区域边界与现状数据正文的专题页。 D053：现有来源含壳别名（wikipedia-regions 约 5 字符）与门户首页（s075 AAG），均不构成独立正文依据。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2884062598（2018年，《The 4.2 ka BP event in the Levant》，DOI https://doi.org/10.5194/cp-14-1529-2018）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「区域地理与古气候（本条引 2018 年 4.2 ka 事件研究）」表述并注明学界有不同版本。 【第97轮检索记录】过筛候选《Woman's Share in Neolithic Society: A View from the Levant》(2016) 主题是新石器时代的女性份额（性别考古侧面）。不采用。 【第99轮检索记录】候选《Size Matters – Donkeys and Horses in the Pre…》(2012, 摘要 617) 研究史前驴马的体型（动物考古侧面）。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

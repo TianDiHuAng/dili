@@ -1451,6 +1451,21 @@
       "sample_rate": "G3a重要剩余12条",
       "sample_audit": "12/12命中1%失败；登记11条（阿塔卡马505/格陵兰239/莱茵194）；大自流盆地←南非Uitenhage碰撞",
       "note": "补11条→G3 48→37、重要G3a 15→4；A184"
+    },
+    {
+      "round": 99,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "G3a剩余12条",
+      "sample_audit": "10/12命中1%失败；登记6条（澳大利亚Gawler283/南锥体115/波利尼西亚82/大自流盆地终于对位）",
+      "note": "补6条→G3 37→31、G3a核心 3→1；A190"
     }
   ]
 }
