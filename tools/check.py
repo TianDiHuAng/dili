@@ -113,6 +113,7 @@ def main():
                     check_svg(eid, e["svg"])
             check_no_markdown(e)
             check_orphan_citation(e, src_by_id)
+            check_weak_as_primary(e, src_by_id)
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)
@@ -190,6 +191,42 @@ def check_no_markdown(e):
 
 ORPHAN_FIELDS = ("definition", "overview", "geo", "influence", "polities",
                  "connections", "today", "time_or_place")
+
+MIN_ABS = 800
+MIN_CITED_OK = 5
+
+def _src_weak(s):
+    """D112：被引≤5 / 摘要或正文<800 / note 自标 weak → 弱来源。"""
+    note = s.get("note") or ""
+    m = re.search(r"被引\s*(\d+)", note)
+    cited = int(m.group(1)) if m else None
+    a = re.search(r"(?:摘要长度|正文节录|正文|摘要)\s*\*{0,2}([\d,]+)\s*字符", note)
+    abslen = int(a.group(1).replace(",", "")) if a else None
+    b = re.search(r"(\d{3,7})\s*字节", note)
+    bytelen = int(b.group(1)) if b else None
+    weak=False; why=[]
+    if cited is not None and cited <= MIN_CITED_OK:
+        weak=True; why.append(f"被引{cited}<=5")
+    if abslen is not None and abslen < MIN_ABS:
+        weak=True; why.append(f"正文{abslen}字符<800")
+    elif abslen is None and bytelen is not None and bytelen < MIN_ABS:
+        weak=True; why.append(f"正文{bytelen}字节<800")
+    if "证据强度：weak" in note:
+        weak=True; why.append("note自标weak")
+    return weak, why
+
+
+def check_weak_as_primary(e, sources):
+    """R19（D112）：备注中把弱来源称作「补主来源」即报错。"""
+    pn = e.get("pending_notes") or ""
+    for seg in re.findall(r"【[^】]*补主来源[^】]*】([^【]*)", pn):
+        for sid in re.findall(r"(openalex-[A-Za-z0-9]+|[a-z]{1,6}-[a-z0-9\-]{2,})", seg):
+            s = sources.get(sid)
+            if not s: continue
+            weak, why = _src_weak(s)
+            if weak:
+                err(f"R19 {e['id']}: 备注把弱来源 {sid} 称作「主来源」（{'、'.join(why)}，D112）")
+
 
 def check_orphan_citation(e, sources):
     """R18：正文「所引YYYY年」须在本条 sources 中有对应年份，否则为孤儿引文。"""

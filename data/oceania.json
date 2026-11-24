@@ -569,7 +569,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "抽检返工：已移除无来源的地质年代；干旱化过程待专门研究核验。 【第23轮实证复核】实测：s039（NASA Climate）200 / 剥离后 10544 字符 / arid|dry|drought 命中 0；s048（NOAA Climate.gov）403（WAF 拦截）。两源均未提供内陆干旱机制正文，缺口为「澳大利亚内陆干旱气候机制专题页」。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2059196248（2013年，「Evolutionary refugia and ecological refuges: key concepts for 」，DOI https://doi.org/10.1111/gcb.12203）；年代以「气候尺度；本条引 2013 年干旱区生态研究」表述，未编造精确年份。 【第34轮返工·引用范围澄清】所引文献讨论干旱区生态避难所与保护，不支撑干旱气候的整体特征；正文已限域为生态适应与避难所格局。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Evolutionary refugia and ecological refuges…》研究的是干旱区的生态避难所（生态侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "抽检返工：已移除无来源的地质年代；干旱化过程待专门研究核验。 【第23轮实证复核】实测：s039（NASA Climate）200 / 剥离后 10544 字符 / arid|dry|drought 命中 0；s048（NOAA Climate.gov）403（WAF 拦截）。两源均未提供内陆干旱机制正文，缺口为「澳大利亚内陆干旱气候机制专题页」。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2059196248（2013年，「Evolutionary refugia and ecological refuges: key concepts for 」，DOI https://doi.org/10.1111/gcb.12203）；年代以「气候尺度；本条引 2013 年干旱区生态研究」表述，未编造精确年份。 【第34轮返工·引用范围澄清】所引文献讨论干旱区生态避难所与保护，不支撑干旱气候的整体特征；正文已限域为生态适应与避难所格局。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Evolutionary refugia and ecological refuges…》研究的是干旱区的生态避难所（生态侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮检索记录】引擎 Crossref+OpenAlex 两库、各两条检索式；过筛者为《Salinity Stress in Arid and Semi-Arid Climates》（2019, 被引304）——主题是盐胁迫对作物的影响（农学），不涉干旱气候的成因。主来源仍缺。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",

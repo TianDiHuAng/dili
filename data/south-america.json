@@ -187,16 +187,17 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W3046252846",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W1994664019"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3046252846（2020年，《Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography》，DOI https://doi.org/10.1038/s41467-020-17656-w）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】本条 theme 为「气候」，所引文献为古基因组人群史——已在正文显式限定为「区域研究现状的一例」，不作气候或地貌的解释依据。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Ancient genomes in South Patagonia…》研究的是古基因组与人群史，且本条 theme 为「气候」，属跨领域侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3046252846（2020年，《Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography》，DOI https://doi.org/10.1038/s41467-020-17656-w）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】本条 theme 为「气候」，所引文献为古基因组人群史——已在正文显式限定为「区域研究现状的一例」，不作气候或地貌的解释依据。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Ancient genomes in South Patagonia…》研究的是古基因组与人群史，且本条 theme 为「气候」，属跨领域侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮补主来源（strong）】openalex-W1994664019（2013年，《Large-Scale Control on the Patagonian Climate》，DOI 10.1175/jcli-d-12-00001.1，被引 668）：待支撑断言「巴塔哥尼亚的地理与气候」；主题槽命中 ['climate', 'westerl', 'precipitation']；已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "安第斯山脉在西部，向东过渡为台地草原；西风带带来降水集中于山地，东侧处于雨影。南部为冰川区与峡湾。",
+      "geo": "安第斯山脉在西部，向东过渡为台地草原；西风带带来降水集中于山地，东侧处于雨影。南部为冰川区与峡湾。 所引 2013 年《Large-Scale Control on the Patagonian Climate》（被引 668）指出巴塔哥尼亚降水主要由西风气流中的扰动产生，并被南安第斯山强烈改造；本条「西风带与安第斯雨影共同决定其干旱格局」据此。",
       "influence": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史，显示流动与替代过程比单一「沿海扩张」模型更复杂。（本条主题为区域地理，人口史仅作为该区域研究现状的一例，不代表对气候或地貌的解释。）",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "北接潘帕斯草原，南隔麦哲伦海峡与火地岛相望，两侧分别为太平洋与大西洋。",

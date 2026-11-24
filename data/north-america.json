@@ -695,7 +695,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2076135343（2012年，《Travel Writing, Ethnography, and the Colony-Centric Voyage of theJesuit Relationsfrom New France》，DOI https://doi.org/10.1080/02722011.2012.649922）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删去「殖民文献本身是宣传工具」——摘要只讨论《Relations》的编辑—回流—复核过程，未作「宣传」判断，亦不应由个案外推至全部殖民文献（D083④）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Travel Writing, Ethnography, and the Colony-Centric…》研究的是耶稣会《Relations》的文本流通（文献史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2076135343（2012年，《Travel Writing, Ethnography, and the Colony-Centric Voyage of theJesuit Relationsfrom New France》，DOI https://doi.org/10.1080/02722011.2012.649922）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删去「殖民文献本身是宣传工具」——摘要只讨论《Relations》的编辑—回流—复核过程，未作「宣传」判断，亦不应由个案外推至全部殖民文献（D083④）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Travel Writing, Ethnography, and the Colony-Centric…》研究的是耶稣会《Relations》的文本流通（文献史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮检索记录】引擎 Crossref+OpenAlex 两库、各两条检索式；过筛者为《Driven by drink: The role of drinking in the political economy…》（1990, 被引489）——主题是跨文化饮酒习俗的政治经济学，与「新法兰西殖民地的地理与经济」无关（对象词 `france` 过宽导致误中）。主来源仍缺。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -771,7 +771,7 @@
         "openalex-W3023324006"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s059-worldbank-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1548267435（2005年，《The Black West: A Documentary and Pictorial History of the African American Role in the Westward Expansion of the United States》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「19世纪（本条引 2005 年关于美国西部非裔 American 的史料集）」表述并注明学界有不同版本。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Black West》是非裔美国人在西部的史料集，属西进运动的一个群体侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（weak）】openalex-W3023324006（2020年，《The course of westward expansion》，DOI 10.4324/9781351057875-4，被引 0）：待支撑断言「美国向西部扩张的定居与边疆过程」；主题槽命中 ['westward', 'settle', 'expansion']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。",
+      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s059-worldbank-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1548267435（2005年，《The Black West: A Documentary and Pictorial History of the African American Role in the Westward Expansion of the United States》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「19世纪（本条引 2005 年关于美国西部非裔 American 的史料集）」表述并注明学界有不同版本。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Black West》是非裔美国人在西部的史料集，属西进运动的一个群体侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补弱来源（weak）】openalex-W3023324006（2020年，《The course of westward expansion》，DOI 10.4324/9781351057875-4，被引 0）：待支撑断言「美国向西部扩张的定居与边疆过程」；主题槽命中 ['westward', 'settle', 'expansion']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。 【第54轮D112降级】openalex-W3023324006 为旁证（被引0），不得称「主来源」；该文被引 0，仅可作「西进使版图从大西洋岸延伸至太平洋岸」这一概述的旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -843,16 +843,17 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W1987038906",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2519900070"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1987038906（2004年，《Age and Tectonic Setting of the Camagüey Volcanic‐Intrusive Arc, Cuba: Late Cretaceous Extension and Uplift in the Western Greater Antilles》，The Journal of Geology，DOI 10.1086/422664，被引 28），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Age and Tectonic Setting of the Camagüey Volcanic-Intrusive Arc》研究的是中部古巴的火山—侵入弧（构造地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1987038906（2004年，《Age and Tectonic Setting of the Camagüey Volcanic‐Intrusive Arc, Cuba: Late Cretaceous Extension and Uplift in the Western Greater Antilles》，The Journal of Geology，DOI 10.1086/422664，被引 28），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Age and Tectonic Setting of the Camagüey Volcanic-Intrusive Arc》研究的是中部古巴的火山—侵入弧（构造地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮补主来源（strong）】openalex-W2519900070（2016年，《The geology of Cuba: A brief overview and synthesis》，DOI https://doi.org/10.1130/gsatg296a.1，被引 81）：待支撑断言「古巴岛的地质与地形」；主题槽命中 ['geolog', 'tecton', 'island']；已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "岛屿呈西北—东南走向，地貌以平原与丘陵为主，东南部为马埃斯特腊山脉；北部为石灰岩台地与喀斯特，海岸多珊瑚礁与海湾。",
+      "geo": "岛屿呈西北—东南走向，地貌以平原与丘陵为主，东南部为马埃斯特腊山脉；北部为石灰岩台地与喀斯特，海岸多珊瑚礁与海湾。 所引 2016 年《The geology of Cuba: A brief overview and synthesis》（被引81）指出古巴的地质记录包含三个重要阶段：侏罗纪北美与南美（Pangea）裂解及被动陆缘演化、白垩纪—古近纪大洋内弧的沉积—岩浆—变质演化，以及与巴哈马台地的碰撞；本条「岛屿由多期构造拼合而成」据此。",
       "influence": "所引 2004 年研究以古巴中部 Camagüey 地区的 Ar/Ar 定年约束该区构造事件：火山岩全岩年龄为 74–72 Ma，比夹层沉积岩中化石指示的 100–80 Ma 明显年轻；侵入其中的正长岩与花岗闪长岩给出 75–72 Ma。作者把这一年龄解释为火山—侵入弧的较快抬升与冷却，并用于约束古巴向北迁移进入加勒比及随后与巴哈马台地碰撞的时间。 这说明岛屿的现今位置是板块迁移与碰撞的结果。",
       "connections": "北隔佛罗里达海峡与美国相望，西隔尤卡坦海峡与墨西哥相望，东经向风海峡接伊斯帕尼奥拉岛，是加勒比海北部航路的中枢。",
       "polities": "本条为自然地理/概念主题条目，不展开具体政权序列。",

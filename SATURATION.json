@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 53,
+  "last_round": 54,
   "history": [
     {
       "round": 1,
@@ -642,6 +642,18 @@
       "gaps_found": 241,
       "note": "6条补主来源；元代/河中地区记录无候选；≥2内容源 224",
       "result": "主来源推进"
+    },
+    {
+      "round": 54,
+      "methods_used": [
+        "R19机器化（D112）",
+        "6条两库检索",
+        "3条错配记录",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "R19抓出6条弱来源误称主来源并降级；补2条主来源；≥2内容源 224",
+      "result": "校验机器化"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -669,7 +681,8 @@
     "ge2_has_body": 224,
     "one_has_body": 19,
     "side_evidence": 30,
-    "primary_added_this_round": 6,
-    "note": "第①层实测；第②层 196 条已扫、30 条侧面已标注、两轮共补 12 条主来源"
+    "primary_claims": 12,
+    "weak_claims": 6,
+    "note": "R19 已上线（弱来源不得称主来源）；内容对题仍依赖人工扫描"
   }
 }

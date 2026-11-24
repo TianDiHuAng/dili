@@ -1096,7 +1096,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第41轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1143,7 +1143,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第38轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 53,
-  "round_processed": 6,
+  "round": 54,
+  "round_processed": 8,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

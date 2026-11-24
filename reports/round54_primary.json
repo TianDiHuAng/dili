@@ -1,0 +1,209 @@
+{
+  "古埃及中王国": {
+    "claim": "中王国的行政与灌溉开发",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Middle Kingdom Egypt administration irrigation",
+        "results": 18
+      },
+      {
+        "engine": "Crossref",
+        "query": "Middle Kingdom Egypt state",
+        "results": 18
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Middle Kingdom Egypt administration irrigation",
+        "results": 15
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.5167/uzh-141274",
+      "title": "Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom: A Study and an Anthology",
+      "year": 1988,
+      "oa_id": "W595618343",
+      "cited": 172,
+      "type": "book",
+      "abs_len": 1342,
+      "slots": [
+        "middle kingdom",
+        "administrat"
+      ],
+      "host": "Zurich Open Repository and Archive (University of Zurich)"
+    }
+  },
+  "澳大利亚内陆干旱气候": {
+    "claim": "澳大利亚内陆干旱气候的成因",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Australian arid zone climate causes",
+        "results": 18
+      },
+      {
+        "engine": "Crossref",
+        "query": "Australia arid interior climate variability",
+        "results": 18
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Australian arid zone climate causes",
+        "results": 15
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.5772/intechopen.87982",
+      "title": "Salinity Stress in Arid and Semi-Arid Climates: Effects and Management in Field Crops",
+      "year": 2019,
+      "oa_id": "W2958468720",
+      "cited": 304,
+      "type": "book-chapter",
+      "abs_len": 1325,
+      "slots": [
+        "arid",
+        "climate"
+      ],
+      "host": "IntechOpen eBooks"
+    }
+  },
+  "南极半岛": {
+    "claim": "南极半岛的冰架与变暖响应",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Antarctic Peninsula ice shelf warming",
+        "results": 18
+      },
+      {
+        "engine": "Crossref",
+        "query": "Antarctic Peninsula climate change ice",
+        "results": 18
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Antarctic Peninsula ice shelf warming",
+        "results": 15
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.3189/172756500781833043",
+      "title": "The link between climate warming and break-up of ice shelves in the Antarctic Peninsula",
+      "year": 2000,
+      "oa_id": "W1989199622",
+      "cited": 873,
+      "type": "article",
+      "abs_len": 1363,
+      "slots": [
+        "peninsula",
+        "warming",
+        "climate"
+      ],
+      "host": "Journal of Glaciology"
+    }
+  },
+  "新法兰西": {
+    "claim": "新法兰西殖民地的地理与经济",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "New France colony geography economy",
+        "results": 18
+      },
+      {
+        "engine": "Crossref",
+        "query": "French colonial North America fur trade",
+        "results": 18
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "New France colony geography economy",
+        "results": 15
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1016/0278-4165(90)90011-2",
+      "title": "Driven by drink: The role of drinking in the political economy and the case of Early Iron Age France",
+      "year": 1990,
+      "oa_id": "W2067979985",
+      "cited": 489,
+      "type": "article",
+      "abs_len": 1415,
+      "slots": [
+        "france",
+        "trade"
+      ],
+      "host": "Journal of Anthropological Archaeology"
+    }
+  },
+  "古巴岛": {
+    "claim": "古巴岛的地质与地形",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "geology of Cuba island",
+        "results": 18
+      },
+      {
+        "engine": "Crossref",
+        "query": "Cuban geology tectonics",
+        "results": 18
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "geology of Cuba island",
+        "results": 15
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1130/gsatg296a.1",
+      "title": "The geology of Cuba: A brief overview and synthesis",
+      "year": 2016,
+      "oa_id": "W2519900070",
+      "cited": 81,
+      "type": "article",
+      "abs_len": 2860,
+      "slots": [
+        "geolog",
+        "tecton",
+        "island"
+      ],
+      "host": "GSA Today"
+    }
+  },
+  "巴塔哥尼亚": {
+    "claim": "巴塔哥尼亚的地理与气候",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Patagonia climate geography",
+        "results": 18
+      },
+      {
+        "engine": "Crossref",
+        "query": "Patagonian climate westerlies",
+        "results": 18
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Patagonia climate geography",
+        "results": 15
+      }
+    ],
+    "best": {
+      "doi": "10.1175/jcli-d-12-00001.1",
+      "title": "Large-Scale Control on the Patagonian Climate",
+      "year": 2013,
+      "oa_id": "W1994664019",
+      "cited": 668,
+      "type": "article",
+      "abs_len": 1674,
+      "slots": [
+        "climate",
+        "westerl",
+        "precipitation"
+      ],
+      "host": "Journal of Climate"
+    }
+  }
+}
