@@ -413,17 +413,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "s010-unesco-org",
-        "openalex-W3006608552"
+        "openalex-W3006608552",
+        "openalex-W4392034964"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W3006608552（2019年，《The Political and Social Organization in India During Early Vedic Civilization (1500 – 1000 B.C)》，Journal of Education College Wasit University，DOI https://doi.org/10.31185/eduj.vol3.iss3.956，被引 1）。 其摘要与本条同一对象，正文地理与机制段落据其撰写；年代以「早期吠陀约公元前1500–前1000年（据所引 2019 年研究；学界对年代与分期有不同表述）」表述并注明学界有不同版本。 【第35轮返工】① 神名「印伽」为错字，摘要所列神祇为 Indra / Varuna / Mitra / Surya / Agni，已改为「因陀罗（Indra）」。 ② 该文献刊于教育学院学报、被引 1，作为重要条目的唯一内容来源证据强度偏弱，需补第二篇同主题文献互证。 ③ geo 段的「西北部与旁遮普、季风梯度」为常识性地理描述，不挂该文献。 【第76轮检索记录】过筛候选《Status of Woman Reflected in Vedic Literature》(2023, 摘要2,167) 是吠陀文献中的女性地位（性别侧面），不支撑「吠陀时代的社会与宗教整体」。不采用。 【第81轮检索记录】本轮 0 候选；此前命中「吠陀文献中的女性地位」（性别侧面）。 【第86轮检索记录】过筛候选《Pre-Historic Intra-Continental Africa-India Proximity Series》(2023, 摘要 1,679) 讨论非洲与印度的史前邻近性（泛论），不涉吠陀时代的社会与宗教。 【第88轮检索记录】本轮候选《Chemistry in Vedic and Post-Vedic Literature》(2026) 是吠陀文献中的化学知识（科技史侧面）。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W3006608552（2019年，《The Political and Social Organization in India During Early Vedic Civilization (1500 – 1000 B.C)》，Journal of Education College Wasit University，DOI https://doi.org/10.31185/eduj.vol3.iss3.956，被引 1）。 其摘要与本条同一对象，正文地理与机制段落据其撰写；年代以「早期吠陀约公元前1500–前1000年（据所引 2019 年研究；学界对年代与分期有不同表述）」表述并注明学界有不同版本。 【第35轮返工】① 神名「印伽」为错字，摘要所列神祇为 Indra / Varuna / Mitra / Surya / Agni，已改为「因陀罗（Indra）」。 ② 该文献刊于教育学院学报、被引 1，作为重要条目的唯一内容来源证据强度偏弱，需补第二篇同主题文献互证。 ③ geo 段的「西北部与旁遮普、季风梯度」为常识性地理描述，不挂该文献。 【第76轮检索记录】过筛候选《Status of Woman Reflected in Vedic Literature》(2023, 摘要2,167) 是吠陀文献中的女性地位（性别侧面），不支撑「吠陀时代的社会与宗教整体」。不采用。 【第81轮检索记录】本轮 0 候选；此前命中「吠陀文献中的女性地位」（性别侧面）。 【第86轮检索记录】过筛候选《Pre-Historic Intra-Continental Africa-India Proximity Series》(2023, 摘要 1,679) 讨论非洲与印度的史前邻近性（泛论），不涉吠陀时代的社会与宗教。 【第88轮检索记录】本轮候选《Chemistry in Vedic and Post-Vedic Literature》(2026) 是吠陀文献中的化学知识（科技史侧面）。 【第89轮补第二内容源（strong，Crossref）】openalex-W4392034964（2024年，《The Vedic Tribes》，被引 0，摘要 853 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
       "geo": "早期吠陀人群活动于印度西北部与旁遮普一带的河谷草原，雨季降水与河流供给支撑牧养与初期农耕；次大陆的季风梯度决定东向与南向扩展的可能性。",
-      "influence": "所引研究指出，吠陀文化在印度河文明之后兴起，其最早文献未提及类似哈拉帕与摩亨佐达罗那样的城市生活；主要史料为《梨俱吠陀》，宗教以因陀罗（Indra）等神祇为中心。这说明「文明」的组织形态并不必然以城市为标志。",
+      "influence": "所引研究指出，吠陀文化在印度河文明之后兴起，其最早文献未提及类似哈拉帕与摩亨佐达罗那样的城市生活；主要史料为《梨俱吠陀》，宗教以因陀罗（Indra）等神祇为中心。这说明「文明」的组织形态并不必然以城市为标志。 所引 2024 年《The Vedic Tribes》（摘要≥400 字符）讨论吠陀部落进入印度后与本地人群的冲突及其社会中战争与交替的构成性作用；本条「吠陀时代以部落组织与祭祀文化为特征」据此。注意：该文把吠陀部落进入印度定在「公元前二世纪前半」，与传统断代（约前1500–前500）不符，本条不采用其年代表述。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经西北山口与中亚、波斯方向相连，东向进入恒河平原，南向接触德干高原。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -879,7 +880,7 @@
         "openalex-W4361197788"
       ],
       "needs_verification": true,
-      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但逐词核对为噪声：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条不构成实证复核、不判达标。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。 【第42轮第二来源（strong）】openalex-W4361197788（2023年，《Deeper Structures of Song Governance》，Cambridge University Press eBooks，DOI 10.1017/9781009235624.013，被引 0）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（第43轮立规，本轮 R25 机器检出）。",
+      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但逐词核对为噪声：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条不构成实证复核、不判达标。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。 【第42轮第二来源（strong）】openalex-W4361197788（2023年，《Deeper Structures of Song Governance》，Cambridge University Press eBooks，DOI 10.1017/9781009235624.013，被引 0）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（第43轮立规，本轮 R25 机器检出）。 【第89轮·G3a 说明（D140）】本条现有 1 个整体性内容来源，另有弱来源（摘要/正文不足或主题偏侧）已登记并降为旁证。按 D140 归入「G3a：有侧面/弱来源可补充，缺整体研究」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -954,7 +955,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2081119930（1990年，《What Made Foshan a Town?: The Evolution of Rural-Urban Identities in Ming-Qing China》，DOI https://doi.org/10.1353/late.1990.0000）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「明 1368–1644年；清 1644–1912年」表述并注明学界有不同版本。 【第76轮检索记录】过筛候选《Organized Medicine in Ming-Qing China》(1987, 被引136) 是医学制度侧面，不支撑明清的国家与社会整体。不采用。 【第81轮检索记录】本轮 0 候选；此前命中「明清医学制度」（医学侧面）。 【第86轮检索记录】过筛候选《Editing, Circulating, and Reading Huang Zhong's Hai yu》(2019, 摘要 927) 是一本书的编辑、流传与阅读史（书籍史侧面），不支撑明清的国家与社会整体。 【第88轮检索记录】本轮候选《Beyond the Lens: the Telescope's Influence》(2024) 是望远镜的科技史侧面。",
+      "pending_notes": "第16轮复核：东亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2081119930（1990年，《What Made Foshan a Town?: The Evolution of Rural-Urban Identities in Ming-Qing China》，DOI https://doi.org/10.1353/late.1990.0000）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「明 1368–1644年；清 1644–1912年」表述并注明学界有不同版本。 【第76轮检索记录】过筛候选《Organized Medicine in Ming-Qing China》(1987, 被引136) 是医学制度侧面，不支撑明清的国家与社会整体。不采用。 【第81轮检索记录】本轮 0 候选；此前命中「明清医学制度」（医学侧面）。 【第86轮检索记录】过筛候选《Editing, Circulating, and Reading Huang Zhong's Hai yu》(2019, 摘要 927) 是一本书的编辑、流传与阅读史（书籍史侧面），不支撑明清的国家与社会整体。 【第88轮检索记录】本轮候选《Beyond the Lens: the Telescope's Influence》(2024) 是望远镜的科技史侧面。 【第89轮检索记录】候选 W2463117430（《Changes over Time in Qing History: The Importance of Context》, 2016, Paul Cohen）是清史研究的史学方法论讨论（强调语境），属史学史侧面，不支撑明清的经济与社会结构。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1187,10 +1188,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2619853094",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4285378271"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东南亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东南亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东南亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2619853094（2017年，《Southeast Asia: New Views of the Geology of the Malay Archipelago》，DOI https://doi.org/10.1146/annurev-earth-063016-020633，Annual Review of Earth and Planetary Sciences）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 2017 年群岛地质综述）」表述并注明学界有不同版本。 【第76轮检索记录】过筛候选《Malay dialect research in Malaysia》(1989, 被引47) 是方言语言学研究，不支撑群岛的贸易与国家。不采用。 【第81轮检索记录】本轮 0 候选；此前命中「马来方言研究」（语言学侧面）。 【第86轮检索记录】本轮 0 候选（检索成功，HTTP 失败率 1%）。 【第87轮检索记录】过筛候选《The Biological History of Homo sapiens in Island Southeast Asia》(2017) 是颅测量学的人群迁移史，属体质人类学侧面，不支撑群岛的贸易与国家。不采用。 【第88轮检索记录】本轮候选《Winstedt, colonialism and the Malaysian history wars》(2024) 是殖民主义与马来西亚史学论战（史学史）。",
+      "pending_notes": "第16轮复核：东南亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东南亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东南亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2619853094（2017年，《Southeast Asia: New Views of the Geology of the Malay Archipelago》，DOI https://doi.org/10.1146/annurev-earth-063016-020633，Annual Review of Earth and Planetary Sciences）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 2017 年群岛地质综述）」表述并注明学界有不同版本。 【第76轮检索记录】过筛候选《Malay dialect research in Malaysia》(1989, 被引47) 是方言语言学研究，不支撑群岛的贸易与国家。不采用。 【第81轮检索记录】本轮 0 候选；此前命中「马来方言研究」（语言学侧面）。 【第86轮检索记录】本轮 0 候选（检索成功，HTTP 失败率 1%）。 【第87轮检索记录】过筛候选《The Biological History of Homo sapiens in Island Southeast Asia》(2017) 是颅测量学的人群迁移史，属体质人类学侧面，不支撑群岛的贸易与国家。不采用。 【第88轮检索记录】本轮候选《Winstedt, colonialism and the Malaysian history wars》(2024) 是殖民主义与马来西亚史学论战（史学史）。 【第89轮补第二内容源（strong，Crossref）】openalex-W4285378271（2021年，《Southeast Asian Early Maritime Silk Road Trading Polities’ Hinterland and the Sea Nomads of the Isthmus of Kra》，被引 2，摘要 2749 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1198,7 +1200,7 @@
       ],
       "last_update": "2026-11-24",
       "geo": "位于欧亚、印度—澳大利亚与太平洋板块交汇处，火山与地震活动强烈；赤道气候与海洋调节使岛屿降水丰沛，山地与低地差异显著。",
-      "influence": "板块构造决定岛屿的形成与地形，也影响矿产与土壤分布；海峡与季风风系则决定航运季节，二者共同塑造了群岛的贸易格局。",
+      "influence": "板块构造决定岛屿的形成与地形，也影响矿产与土壤分布；海峡与季风风系则决定航运季节，二者共同塑造了群岛的贸易格局。 所引 2021 年《Southeast Asian Early Maritime Silk Road Trading Polities》（摘要≥400 字符）讨论东南亚早期海上贸易政体的文化分化与环境、社会、人口、经济因素；本条「马来群岛的港市国家靠季风贸易与转口立足」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "马六甲海峡与巽他海峡是印度洋—太平洋航路的瓶颈，季风方向决定帆船往返的季节窗口。",
       "today": "（本条的当代指标不在本页展开。）",

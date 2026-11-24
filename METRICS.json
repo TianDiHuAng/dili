@@ -1301,6 +1301,21 @@
       "sample_rate": "6条首次尝试",
       "sample_audit": "6/6命中0%失败；仅1条登记（气候带）；3条列无解",
       "note": "D145：3条重复命中列无解；补1条→G3 17→16；A184"
+    },
+    {
+      "round": 89,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 3,
+      "fixes": 2,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 2,
+      "sample_rate": "3条重要级新尝试 + G3a 4条说明",
+      "sample_audit": "3/3命中0%失败；登记2条（吠陀/马来群岛）；明清史学史不采用",
+      "note": "补2条→G3 16→14；重要G3b 10→8；A186；澄清隋唐G1清零≠无缺口"
     }
   ]
 }

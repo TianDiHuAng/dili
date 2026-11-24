@@ -410,9 +410,9 @@
       "tier": "核心"
     },
     "吠陀时代": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -650,9 +650,9 @@
       "tier": "重要"
     },
     "马来群岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 184,
-    "B": 46,
+    "A": 186,
+    "B": 44,
     "C": 0,
     "D": 13
   },

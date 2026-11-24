@@ -1,0 +1,147 @@
+{
+  "results": {
+    "吠陀时代": {
+      "cand": [
+        {
+          "oid": "W4392034964",
+          "title": "The Vedic Tribes",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 853,
+          "slots": [
+            "vedic",
+            "society",
+            "religion"
+          ],
+          "doi": "10.1093/oso/9780192868213.003.0001"
+        },
+        {
+          "oid": "W4387679500",
+          "title": "Education of Women in Early Vedic Period",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1412,
+          "slots": [
+            "vedic",
+            "society",
+            "state"
+          ],
+          "doi": "10.22161/ijels.85.20"
+        },
+        {
+          "oid": "W3022524097",
+          "title": "Vedic scriptures, janapadas, and women",
+          "year": 2020,
+          "cited": 0,
+          "abs_len": 1833,
+          "slots": [
+            "vedic",
+            "econom",
+            "state"
+          ],
+          "doi": "10.4324/9780429260063-6"
+        }
+      ],
+      "n": 7
+    },
+    "明清": {
+      "cand": [
+        {
+          "oid": "W2463117430",
+          "title": "Changes over Time in Qing History: The Importance of Context",
+          "year": 2016,
+          "cited": 1,
+          "abs_len": 4392,
+          "slots": [
+            "ming",
+            "qing",
+            "econom",
+            "society",
+            "history",
+            "china"
+          ],
+          "doi": "10.1353/late.2016.0004"
+        },
+        {
+          "oid": "W1964405114",
+          "title": "The Maritime History of Late Imperial China: Observations on Current Concerns and Recent Research",
+          "year": 1985,
+          "cited": 20,
+          "abs_len": 4418,
+          "slots": [
+            "ming",
+            "qing",
+            "econom",
+            "history",
+            "china"
+          ],
+          "doi": "10.1353/late.1985.0006"
+        },
+        {
+          "oid": "W2949514603",
+          "title": "Editing, Circulating, and Reading Huang Zhong’s Hai yu 海語: A Case Study in the History of Reading and the Circulation of Knowledge in Ming and Qing China",
+          "year": 2019,
+          "cited": 6,
+          "abs_len": 927,
+          "slots": [
+            "ming",
+            "qing",
+            "history",
+            "china"
+          ],
+          "doi": "10.1163/24684791-12340031"
+        }
+      ],
+      "n": 10
+    },
+    "马来群岛": {
+      "cand": [
+        {
+          "oid": "W4285378271",
+          "title": "Southeast Asian Early Maritime Silk Road Trading Polities’ Hinterland and the Sea Nomads of the Isthmus of Kra",
+          "year": 2021,
+          "cited": 2,
+          "abs_len": 2749,
+          "slots": [
+            "trade",
+            "state",
+            "maritime",
+            "polities"
+          ],
+          "doi": "10.2307/j.ctv2gjx12g.8"
+        },
+        {
+          "oid": "W4367315274",
+          "title": "The Archaeology of Early Maritime Polities of Southeast Asia",
+          "year": 2023,
+          "cited": 46,
+          "abs_len": 909,
+          "slots": [
+            "trade",
+            "maritime",
+            "polities"
+          ],
+          "doi": "10.4324/9781003416609-13"
+        },
+        {
+          "oid": "W2029131612",
+          "title": "Maritime Security in Southeast Asia: Two Cheers for Regional Cooperation",
+          "year": 2009,
+          "cited": 36,
+          "abs_len": 1376,
+          "slots": [
+            "trade",
+            "state",
+            "maritime"
+          ],
+          "doi": "10.1355/seaa09d"
+        }
+      ],
+      "n": 7
+    }
+  },
+  "http": {
+    "ok": 123,
+    "fail": 0
+  }
+}

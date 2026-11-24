@@ -9619,6 +9619,32 @@
       "verified": true,
       "page_title": "On coupling global biome models with climate models",
       "note": "OpenAlex 作品 W2046345013（DOI 10.3354/cr004203）；1994年；被引 145。HTTP 200，16869 字节。摘要长度 2065 字符；主题槽命中 ['biome', 'climate', 'global', 'shift', 'distribution']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4285378271",
+      "title": "OpenAlex W4285378271 — Southeast Asian Early Maritime Silk Road Trading Polities’ Hinterland and the Sea Nomads of the Isthmus of Kra",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2021,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4285378271",
+      "url2": "https://doi.org/10.2307/j.ctv2gjx12g.8",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Southeast Asian Early Maritime Silk Road Trading Polities’ Hinterland and the Sea Nomads of the Isthmus of Kra",
+      "note": "OpenAlex 作品 W4285378271（DOI 10.2307/j.ctv2gjx12g.8）；2021年；被引 2。HTTP 200，17986 字节。摘要长度 2749 字符；主题槽命中 ['trade', 'state', 'maritime', 'polities']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4392034964",
+      "title": "OpenAlex W4392034964 — The Vedic Tribes",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2024,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4392034964",
+      "url2": "https://doi.org/10.1093/oso/9780192868213.003.0001",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Vedic Tribes",
+      "note": "OpenAlex 作品 W4392034964（DOI 10.1093/oso/9780192868213.003.0001）；2024年；被引 0。HTTP 200，10814 字节。摘要长度 853 字符；主题槽命中 ['vedic', 'society', 'religion']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

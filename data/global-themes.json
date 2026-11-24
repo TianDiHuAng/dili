@@ -2100,7 +2100,7 @@
         "openalex-W4317206970"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SE.PRM.NENR），实测 89.4%（2018年）；空间差异描述为常识性地理概述，未逐国引用。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第46轮来源性质】本条为指标解读类条目：核心内容是「今天的状况」中的世界银行/NOAA 指标值与空间差异概述，其数据来源即所列数据端点（already 计入来源）；正文 geo 段为常识性空间差异描述，不涉及需要学术文献支撑的具体事实断言，故不宜强行配文献（D101 要求摘要逐槽支撑断言，指标解读类无此断言）。 【第65轮补第二来源（strong，case）】openalex-W4317206970（2023年，《Regional Inequality of Higher Education Development in China: Comprehensive Evaluation and Geographical Representation》，被引 53，摘要 1333 字符）：主题槽命中 ['education', 'inequal']；已在本条 influence 段落点。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SE.PRM.NENR），实测 89.4%（2018年）；空间差异描述为常识性地理概述，未逐国引用。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第46轮来源性质】本条为指标解读类条目：核心内容是「今天的状况」中的世界银行/NOAA 指标值与空间差异概述，其数据来源即所列数据端点（already 计入来源）；正文 geo 段为常识性空间差异描述，不涉及需要学术文献支撑的具体事实断言，故不宜强行配文献（D101 要求摘要逐槽支撑断言，指标解读类无此断言）。 【第65轮补第二来源（strong，case）】openalex-W4317206970（2023年，《Regional Inequality of Higher Education Development in China: Comprehensive Evaluation and Geographical Representation》，被引 53，摘要 1333 字符）：主题槽命中 ['education', 'inequal']；已在本条 influence 段落点。 【第89轮·G3a 说明（D140）】本条属指标解读类但强来源仅 1 个、另有 2 个弱来源：正文以指标解释与空间差异为主，弱来源（统计口径说明等）已降旁证。按 D140 归入 G3a。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
