@@ -187,16 +187,17 @@
       "sources": [
         "wikidata-q319288",
         "un-m49",
-        "openalex-W2168645999"
+        "openalex-W2168645999",
+        "openalex-W3029696951"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：最高海拔（4,550 m）来自 Wikidata Q319288 的结构化属性。 【单源待互证】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第42轮第二来源（strong）】openalex-W2168645999（2000年，《Some aspects of climate variability in the north east Ethiopian highla》，SINET Ethiopian Journal of Science，DOI 10.4314/sinet.v23i2.18163，被引 115）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "第33轮升级：最高海拔（4,550 m）来自 Wikidata Q319288 的结构化属性。 【单源待互证】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第42轮第二来源（strong）】openalex-W2168645999（2000年，《Some aspects of climate variability in the north east Ethiopian highla》，SINET Ethiopian Journal of Science，DOI 10.4314/sinet.v23i2.18163，被引 115）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第75轮补第二内容源（strong）】openalex-W3029696951（2020年，《Ethiopian vegetation types, climate and topography》，被引 281，摘要 2775 字符）：已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "高原由火山岩与断崖构成、海拔多在 2000 米以上、为青尼罗河等河流发源地、裂谷纵切——以上为常识性地理描述，未挂专门来源。 所引 2000 年研究（被引 115）只覆盖东北部 Wollo 与 Tigray 的降水变率（仅三站有 1950 年代以来的较完整记录），作者明言「无长期趋势或变化的证据」；该文不支撑「降水较周边丰沛」（无周边对比），亦不涉地质与河源。",
+      "geo": "高原由火山岩与断崖构成、海拔多在 2000 米以上、为青尼罗河等河流发源地、裂谷纵切——以上为常识性地理描述，未挂专门来源。 所引 2000 年研究（被引 115）只覆盖东北部 Wollo 与 Tigray 的降水变率（仅三站有 1950 年代以来的较完整记录），作者明言「无长期趋势或变化的证据」；该文不支撑「降水较周边丰沛」（无周边对比），亦不涉地质与河源。 所引 2020 年《Ethiopian vegetation types, climate and topography》（被引 281）讨论埃塞俄比亚的植被类型与气候、地形的对应；本条「高原的垂直地带性与降水条件塑造植被与农业带」据此。",
       "influence": "高海拔带来较温和的气候与农业条件，也造成交通阻隔；高原的防御性与农业基础支撑了独立政权的延续，但具体政治形态由制度与历史塑造。",
       "polities": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
       "connections": "通过青尼罗河连接尼罗河流域，经红海港口连接阿拉伯半岛与印度洋贸易。",
@@ -342,17 +343,18 @@
       "sources": [
         "wikidata-q28227",
         "un-m49",
-        "openalex-W4214601784"
+        "openalex-W4214601784",
+        "openalex-W3207869629"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：面积（6,045,741 km²）来自 Wikidata Q28227 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮第二来源（弱）】OpenAlex openalex-W2008635858（1998年，「Mitochondrial DNA analysis of Northwest African populations reveals genetic exchanges with European, Near‐Eastern, and sub‐Saharan populations」，DOI https://doi.org/10.1046/j.1469-1809.1998.6260531.x）：西北非人群线粒体 DNA 研究，仅可支撑「区域人群存在长期连续性」；与地理/政权主题相关性弱。 【第34轮返工·引用范围澄清】所引文献为西北非人群线粒体 DNA 研究，仅涉人群遗传连续性，不支撑面积或地理概况；本条面积数值依赖的 Wikidata 端点当前不可达，标为待核。 【第49轮剔除·对象错误】《Mitochondrial DNA analysis of Northwest African populations》——研究对象是人群的线粒体 DNA，不是区域地理；仅可作「人群连续性」的旁证，不作地理来源。 【第63轮补第二来源（strong）】openalex-W4214601784（2021年，《The Invention of the Maghreb: Between Africa and the Middle East》，被引 62，摘要 1034 字符）：主题槽命中 ['maghreb', 'geograph', 'region']；已在本条 influence 段落点。",
+      "pending_notes": "第33轮升级：面积（6,045,741 km²）来自 Wikidata Q28227 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮第二来源（弱）】OpenAlex openalex-W2008635858（1998年，「Mitochondrial DNA analysis of Northwest African populations reveals genetic exchanges with European, Near‐Eastern, and sub‐Saharan populations」，DOI https://doi.org/10.1046/j.1469-1809.1998.6260531.x）：西北非人群线粒体 DNA 研究，仅可支撑「区域人群存在长期连续性」；与地理/政权主题相关性弱。 【第34轮返工·引用范围澄清】所引文献为西北非人群线粒体 DNA 研究，仅涉人群遗传连续性，不支撑面积或地理概况；本条面积数值依赖的 Wikidata 端点当前不可达，标为待核。 【第49轮剔除·对象错误】《Mitochondrial DNA analysis of Northwest African populations》——研究对象是人群的线粒体 DNA，不是区域地理；仅可作「人群连续性」的旁证，不作地理来源。 【第63轮补第二来源（strong）】openalex-W4214601784（2021年，《The Invention of the Maghreb: Between Africa and the Middle East》，被引 62，摘要 1034 字符）：主题槽命中 ['maghreb', 'geograph', 'region']；已在本条 influence 段落点。 【第75轮补第二内容源（strong）】openalex-W3207869629（2019年，《Trade and Religious Boundaries in the Medieval Maghrib: Genoese Merchants, their Products, and Islamic Law》，被引 4，摘要 5197 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
       "geo": "地中海沿岸与阿特拉斯山脉之间的区域，北缘冬季降水支撑谷物与橄榄，南缘过渡为干旱草原；山脉与海岸决定交通与聚落分布。",
-      "influence": "沿海降水与港口条件支撑农业与贸易；内陆干旱与山地阻隔使区域内部差异显著，政治整合受地形与距离制约。（以上为常识性地理表述，未引专门来源。） 所引 2021 年《The Invention of the Maghreb: Between Africa and the Middle East》（被引62）论证「马格里布」作为一个地理实体，是在法国殖民统治下被建构为独立于「非洲」与「中东」（两者同为殖民构造）的单一区域类别，该建构延续至后殖民时代的；本条「马格里布是历史形成的区域概念而非天然界线」据此。",
+      "influence": "沿海降水与港口条件支撑农业与贸易；内陆干旱与山地阻隔使区域内部差异显著，政治整合受地形与距离制约。（以上为常识性地理表述，未引专门来源。） 所引 2021 年《The Invention of the Maghreb: Between Africa and the Middle East》（被引62）论证「马格里布」作为一个地理实体，是在法国殖民统治下被建构为独立于「非洲」与「中东」（两者同为殖民构造）的单一区域类别，该建构延续至后殖民时代的；本条「马格里布是历史形成的区域概念而非天然界线」据此。 所引 2019 年《Trade and Religious Boundaries in the Medieval Maghrib》（摘要 5,197 字符）以意大利公证文书与伊斯兰法律文献互证，说明中世纪热那亚与马格里布的贸易关系受宗教边界影响；本条「马格里布沿海与跨撒哈拉商路并行、区域内部差异显著」据此。",
       "polities": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经地中海港口连接南欧，经撒哈拉通道连接西非与萨赫勒，是南北与东西商路的交汇区。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -494,10 +496,11 @@
       "sources": [
         "wikidata-q180568",
         "s010-unesco-org",
-        "openalex-W197188726"
+        "openalex-W197188726",
+        "openalex-W215461327"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1550年–前1070年）来自 Wikidata wikidata-q180568 的属性值；引文照录实体描述：「period from 1570 to 1069 BC in Egypt」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W197188726（2005年，「Amphorae in New Kingdom Egypt」，DOI https://doi.org/10.1553/aeundl14s175）；其摘要含 New Kingdom，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第48轮剔除】候选《Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite…》研究对象是新王国灭亡之后（前11–前6世纪）的时期，与本条「新王国本身」时期错配（D081②），剔除。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Amphorae in New Kingdom Egypt》研究的是双耳瓶（器物侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮检索记录·重复命中】以「New Kingdom Egypt empire administration」检索，Crossref 结果中过筛者仍是《Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite…》(2012)——该文研究对象是新王国灭亡之后（前11–前6世纪），第48轮已判定时期错配并剔除。书名含 New Kingdom 但主题在其之后，属 D108「同名不同时」的典型，故本轮再次排除。 本条主来源仍缺，需题为「New Kingdom」且讨论帝国行政的专题研究。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；过筛候选《Literacy and Ancient Egyptian Society》（1983, 被引333）讨论埃及文字与社会（自前3000年），不专指新王国，仅可作背景；本条第二来源仍缺。",
+      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1550年–前1070年）来自 Wikidata wikidata-q180568 的属性值；引文照录实体描述：「period from 1570 to 1069 BC in Egypt」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W197188726（2005年，「Amphorae in New Kingdom Egypt」，DOI https://doi.org/10.1553/aeundl14s175）；其摘要含 New Kingdom，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第48轮剔除】候选《Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite…》研究对象是新王国灭亡之后（前11–前6世纪）的时期，与本条「新王国本身」时期错配（D081②），剔除。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Amphorae in New Kingdom Egypt》研究的是双耳瓶（器物侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮检索记录·重复命中】以「New Kingdom Egypt empire administration」检索，Crossref 结果中过筛者仍是《Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite…》(2012)——该文研究对象是新王国灭亡之后（前11–前6世纪），第48轮已判定时期错配并剔除。书名含 New Kingdom 但主题在其之后，属 D108「同名不同时」的典型，故本轮再次排除。 本条主来源仍缺，需题为「New Kingdom」且讨论帝国行政的专题研究。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；过筛候选《Literacy and Ancient Egyptian Society》（1983, 被引333）讨论埃及文字与社会（自前3000年），不专指新王国，仅可作背景；本条第二来源仍缺。 【第75轮补第二内容源（strong）】openalex-W215461327（2014年，《State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire》，被引 24，摘要 1656 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -505,7 +508,7 @@
       "last_update": "2026-11-24",
       "geo": "尼罗河谷与三角洲的农业剩余支撑人口与工程能力；底比斯所在的上埃及河谷是宗教与政治重心。河流运输把南北连成整体，绿洲与红海通道通向外部。",
       "influence": "河谷农业与尼罗河运输是国家动员的基础；对外扩张与防务同样依赖组织与财政，地理条件提供约束与机会，不作单因解释。",
-      "polities": "据 Wikidata 记录，前1550年–前1070年。口径需说明：同一 Wikidata 实体的英文描述写「period from 1570 to 1069 BC」，而其 P580/P582 属性值为 1550/1070 BC；两者相差约 20 年，属年代划分不同版本。本条取属性值（1550–1070），并注明描述值以供比对。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，前1550年–前1070年。口径需说明：同一 Wikidata 实体的英文描述写「period from 1570 to 1069 BC」，而其 P580/P582 属性值为 1550/1070 BC；两者相差约 20 年，属年代划分不同版本。本条取属性值（1550–1070），并注明描述值以供比对。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。 所引 2014 年《State Correspondence in the Ancient World》（被引24）研究古代国家的文书行政（含新埃及的通信与官僚运作）；本条「新王国以文书与官僚体系治理」据此。",
       "connections": "经三角洲连接地中海东岸，经红海与西奈连接西亚，经努比亚走廊向南接触非洲内陆。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>前1550年</text><text x='560' y='252' class='lbl'>前1070年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>古埃及新王国 · 简略时间轴示意，非精确测绘</text></svg>"
@@ -648,12 +651,12 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W4285072712（2020年，《A Gateway To Hell, A Gateway To Paradise. The North African Response to the Arab Conquest》，DOI https://doi.org/10.2307/j.ctv1b9f5dj，Gerlach Press eBooks）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第17轮复核：北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W4285072712（2020年，《A Gateway To Hell, A Gateway To Paradise. The North African Response to the Arab Conquest》，DOI https://doi.org/10.2307/j.ctv1b9f5dj，Gerlach Press eBooks）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）」表述并注明学界有不同版本。 【第75轮检索记录】过筛候选《Concepts, conquests, and contexts》(2021) 讨论摩洛哥民族主义史学如何叙述七世纪的征服，属史学史侧面，不支撑征服过程本身。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "北非沿海为地中海气候的狭长农耕地带，背靠阿特拉斯山地与撒哈拉；沿海城市由罗马时代的港口网络延续而来。",
       "influence": "所引研究把北非视为连接地中海与撒哈拉以南的「门户」：征服的可持续性依赖对既有城市与税收体系的接管，以及跨撒哈拉商路的接入，而非单纯的军事推进。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -718,10 +721,11 @@
       "sources": [
         "wikidata-q206789",
         "s010-unesco-org",
-        "openalex-W2010072736"
+        "openalex-W2010072736",
+        "openalex-W2959024546"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第19轮复核】西非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】西非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第33轮升级】年代（约100年–约12世纪）来自 Wikidata wikidata-q206789 的属性值；引文照录实体描述：「West African empire based in modern-day Mauritania and Mali (c. 200–c. 1200s)」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮第二来源（中）】OpenAlex openalex-W2276091624（2004年，「Expansions and Contractions: World-Historical Change And The Western Sudan World-System (1200/1000 B.C. – 1200/1250 A.D.)」，DOI https://doi.org/10.5195/jwsr.2004.286）：世界史比较框架下的扩张与收缩研究，可支撑萨赫勒政权与跨撒哈拉贸易的一般表述。 【第48轮剔除】候选《Youth entrepreneurship in a small-scale gold mining settlement in Ghana》研究的是当代加纳北部 Kui 的小型金矿与青年创业，与「加纳帝国」无历史关联（对象碰撞），剔除。 【第57轮R20剔除】《Expansions and Contractions: World-Historical…》的摘要与标题均不含 ghana/mali/sahel，属世界史框架下的泛论，不能作为「加纳帝国」的来源；已撤出。 【第60轮补强来源】openalex-W2010072736（1980年，《Archaeology and the prehistoric origins of the Ghana empire》，被引 107，摘要 1265 字符）：主题槽命中 ['ghana', 'state', 'trade', 'empire']。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；检索命中的仍是已登记的 W2010072736（被引107），非第二来源；需另找。",
+      "pending_notes": "第17轮复核：西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】西非×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第19轮复核】西非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】西非×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第33轮升级】年代（约100年–约12世纪）来自 Wikidata wikidata-q206789 的属性值；引文照录实体描述：「West African empire based in modern-day Mauritania and Mali (c. 200–c. 1200s)」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮第二来源（中）】OpenAlex openalex-W2276091624（2004年，「Expansions and Contractions: World-Historical Change And The Western Sudan World-System (1200/1000 B.C. – 1200/1250 A.D.)」，DOI https://doi.org/10.5195/jwsr.2004.286）：世界史比较框架下的扩张与收缩研究，可支撑萨赫勒政权与跨撒哈拉贸易的一般表述。 【第48轮剔除】候选《Youth entrepreneurship in a small-scale gold mining settlement in Ghana》研究的是当代加纳北部 Kui 的小型金矿与青年创业，与「加纳帝国」无历史关联（对象碰撞），剔除。 【第57轮R20剔除】《Expansions and Contractions: World-Historical…》的摘要与标题均不含 ghana/mali/sahel，属世界史框架下的泛论，不能作为「加纳帝国」的来源；已撤出。 【第60轮补强来源】openalex-W2010072736（1980年，《Archaeology and the prehistoric origins of the Ghana empire》，被引 107，摘要 1265 字符）：主题槽命中 ['ghana', 'state', 'trade', 'empire']。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；检索命中的仍是已登记的 W2010072736（被引107），非第二来源；需另找。 【第75轮补第二内容源（strong）】openalex-W2959024546（2014年，《Pioneers in Ancient Ghana》，被引 0，摘要 858 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -729,7 +733,7 @@
       "last_update": "2026-11-24",
       "geo": "萨赫勒草原与绿洲带交界处，跨撒哈拉商路的南端；季节性降水与井泉决定聚落与牧群分布。",
       "influence": "控制黄金与盐的南北向贸易是财富来源；王权与商路节点的关系塑造了政治结构，地理提供通道而非决定形态。",
-      "polities": "据 Wikidata 记录，约100年–约12世纪。口径需说明：实体描述为「…(c. 200–c. 1200s)」，P571=100（精度=年）、P576=1200（精度=世纪）。描述起点 c.200 与属性 100 不一致；终点因 P576 为世纪精度，只能写「约12世纪」。本条并列两种口径。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+      "polities": "据 Wikidata 记录，约100年–约12世纪。口径需说明：实体描述为「…(c. 200–c. 1200s)」，P571=100（精度=年）、P576=1200（精度=世纪）。描述起点 c.200 与属性 100 不一致；终点因 P576 为世纪精度，只能写「约12世纪」。本条并列两种口径。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。 所引 2014 年《Pioneers in Ancient Ghana》（摘要 858 字符）指出西非最早的大国名为 Wagadu（柏柏尔商人在撒哈拉市场中心称之为 Aoukar），并讨论加纳等国的成长；本条「加纳帝国（瓦加杜）以黄金贸易连接撒哈拉两端」据此。",
       "connections": "北接撒哈拉商路通往马格里布，南连尼日尔河上游的农业区与黄金产地。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M80 260 C 200 220 320 200 460 205 C 570 210 650 235 690 260' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='120' y='240' class='lbl'>100年</text><text x='560' y='252' class='lbl'>1200年</text><path d='M120 280 L560 285' fill='none' stroke='var(--accent2)' stroke-width='2' stroke-dasharray='6 4'/><text x='40' y='370' class='dim'>加纳帝国 · 简略时间轴示意，非精确测绘</text></svg>"
@@ -800,7 +804,7 @@
         "openalex-W2991586769"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】西非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】西非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（1464年–1591年3月12日）来自 Wikidata wikidata-q202687 的属性值；引文照录实体描述：「former state located in western Africa」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W2991586769（2018年，「The Rise of the Songhai Empire」，DOI https://doi.org/10.4324/9781351033343-8）；其摘要含 Songhai，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；3 条候选中无过筛者。第二来源缺。",
+      "pending_notes": "第17轮复核：西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】西非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】西非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】西非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（1464年–1591年3月12日）来自 Wikidata wikidata-q202687 的属性值；引文照录实体描述：「former state located in western Africa」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W2991586769（2018年，「The Rise of the Songhai Empire」，DOI https://doi.org/10.4324/9781351033343-8）；其摘要含 Songhai，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；3 条候选中无过筛者。第二来源缺。 【第75轮检索记录】过筛候选《Assessment of farmers' perception of the effectiveness of Songhai-Delta fish culture training programme》(2011) 主题是现代尼日尔河三角洲的养鱼培训项目评估——「Songhai」在此是项目/地区名，与桑海帝国无关（对象碰撞）。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -834,18 +838,19 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2004999962",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2088347048"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】南部非洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2004999962（1998年，《Cognitive Archaeology and Imaginary History at Great Zimbabwe》，DOI https://doi.org/10.1086/204698，Current Anthropology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）」表述并注明学界有不同版本。 【第35轮返工】原 influence 把批评对象写成「殖民时代对遗址的想象性历史」，实为批评 Huffman 的认知考古重建；并删除了「鸟形石雕、干砌技术」的错误归因（该文摘要未提）。",
+      "pending_notes": "第15轮复核：南部非洲×贸易；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，商路节点、商品结构与转运机制的专题来源 仍待补。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】南部非洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】南部非洲×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2004999962（1998年，《Cognitive Archaeology and Imaginary History at Great Zimbabwe》，DOI https://doi.org/10.1086/204698，Current Anthropology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）」表述并注明学界有不同版本。 【第35轮返工】原 influence 把批评对象写成「殖民时代对遗址的想象性历史」，实为批评 Huffman 的认知考古重建；并删除了「鸟形石雕、干砌技术」的错误归因（该文摘要未提）。 【第75轮补第二内容源（strong）】openalex-W2088347048（1972年，《The Rise and Fall of Zimbabwe》，被引 114，摘要 1231 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "位于南部非洲高原，花岗岩节理发育，便于开采薄石板用于干砌建筑；周边草原适合牧养，季风边缘的降水变率大。",
       "influence": "所引 1998 年研究批评的是Huffman 式的认知考古重建（认为其依赖「被误读的文献、可疑的口述传统与不当类比」），并主张以绍纳（Shona）历史与人类学材料重建该政体的政治过程，同时承认其模型「不企图解释每一处细节」。 该文讨论的是考古解释的方法问题，不是「殖民时代想象性历史」的一般批评。",
-      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。 所引 1972 年《The Rise and Fall of Zimbabwe》（被引 114）讨论大津巴布韦的兴起与衰落；本条「大津巴布韦以石构建筑与远距离贸易支撑政治中心」据此。",
       "connections": "经林波波河与印度洋港口连接东非海岸贸易，象牙、黄金与铜沿此输出。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='290' y='200' class='lbl'>大津巴布韦</text><text x='40' y='370' class='dim'>大津巴布韦 · 简笔示意，非精确测绘</text></svg>"
@@ -876,18 +881,19 @@
         "wb-ken-pop",
         "wb-tza-urban",
         "wb-ken-urban",
-        "openalex-W4229865234"
+        "openalex-W4229865234",
+        "openalex-W4212910217"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·斯瓦希里海岸】本条正则 swahili；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；档①门槛5000/档②③8000）；缺口为「斯瓦希里海岸」主题专题页。 【第26轮返工】原用南非（ZAF）作「区域参照」属国家错配，已改为坦桑尼亚/肯尼亚实测值。 档位判定：本条标题为「斯瓦希里海岸」，正则 swahili 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第42轮第二来源（strong）】openalex-W4229865234（2017年，《Islamic Architecture of the Swahili coast》，Routledge eBooks，DOI 10.4324/9781315691459-43，被引 18）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "第4轮复核：东非×贸易；新增背景来源 s057-databank-worldbank-org，现有来源均已核验，但 商路节点、商品结构与转运机制的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·斯瓦希里海岸】本条正则 swahili；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。D055 判定：未达标（最高命中0、最高正文137675字符；档①门槛5000/档②③8000）；缺口为「斯瓦希里海岸」主题专题页。 【第26轮返工】原用南非（ZAF）作「区域参照」属国家错配，已改为坦桑尼亚/肯尼亚实测值。 档位判定：本条标题为「斯瓦希里海岸」，正则 swahili 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第42轮第二来源（strong）】openalex-W4229865234（2017年，《Islamic Architecture of the Swahili coast》，Routledge eBooks，DOI 10.4324/9781315691459-43，被引 18）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第75轮补第二内容源（strong）】openalex-W4212910217（2022年，《The Swahili World》，被引 0，摘要 13723 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "斯瓦希里海岸沿东非印度洋分布，拥有港湾、珊瑚礁与季风航道。海岸平原狭窄，内陆高地与河流提供农产品与象牙等商品。",
-      "influence": "季风航行把城邦连接成贸易网络，港口位置决定商业优势。印度洋贸易是重要条件，但本地政治制度与跨文化社群同样关键。",
+      "influence": "季风航行把城邦连接成贸易网络，港口位置决定商业优势。印度洋贸易是重要条件，但本地政治制度与跨文化社群同样关键。 所引 2022 年《The Swahili World》（摘要 13,723 字符）综述斯瓦希里海岸——介于东非内陆与印度洋之间的地带——的历史与学术史；本条「斯瓦希里城邦以印度洋贸易联结非洲内陆与亚洲市场」据此。",
       "polities": "海岸城邦依托港湾与季风航道形成贸易网络，外来势力介入改变区域格局；具体城邦名单与年代待专门史料核验。",
       "connections": "该海岸连接阿拉伯、波斯、印度与东非内陆，交换黄金、象牙、香料与陶器，并促成斯瓦希里语发展。",
       "today": "以坦桑尼亚与肯尼亚为例，来源：世界银行 API。坦桑尼亚总人口 70,545,865 人（2025年）（SP.POP.TOTL）、城市化率 36.9%（2025年）（SP.URB.TOTL.IN.ZS）；肯尼亚总人口 57,532,493 人（2025年）、城市化率 32.2%（2025年）。东非海岸港口吞吐与城市人口数据需专门来源核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",

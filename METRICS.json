@@ -1091,6 +1091,21 @@
       "sample_rate": "第二批8条核心G3全查",
       "sample_audit": "6条登记（安第斯2762/澳大利亚941/玛雅191）、2条不采用",
       "note": "补6条第二内容源→G3 88→83、G1 4→3；层级 A123/B117/C1/D2"
+    },
+    {
+      "round": 75,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 9,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 9,
+      "sample_rate": "重要条目首批12条",
+      "sample_audit": "9条登记、3条不采用（桑海←鱼养殖项目、萨珊←钱币学、阿拉伯征服←史学史）",
+      "note": "补9条→G3 83→74；层级 A132/B108/C1/D2"
     }
   ]
 }

@@ -50,9 +50,9 @@
       "tier": "核心"
     },
     "埃塞俄比亚高原": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -98,9 +98,9 @@
       "tier": "重要"
     },
     "马格里布": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -146,9 +146,9 @@
       "tier": "补充"
     },
     "古埃及新王国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -218,9 +218,9 @@
       "tier": "补充"
     },
     "加纳帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -254,9 +254,9 @@
       "tier": "重要"
     },
     "大津巴布韦": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -266,9 +266,9 @@
       "tier": "重要"
     },
     "斯瓦希里海岸": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 4,
@@ -326,9 +326,9 @@
       "tier": "重要"
     },
     "古巴比伦": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -338,9 +338,9 @@
       "tier": "重要"
     },
     "亚述帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -374,9 +374,9 @@
       "tier": "核心"
     },
     "帕提亚帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 123,
-    "B": 117,
+    "A": 132,
+    "B": 108,
     "C": 1,
     "D": 2
   },

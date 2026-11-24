@@ -1,0 +1,577 @@
+{
+  "埃塞俄比亚高原": {
+    "cand": [
+      {
+        "oid": "W3029696951",
+        "title": "Ethiopian vegetation types, climate and topography",
+        "year": 2020,
+        "cited": 281,
+        "abs_len": 2775,
+        "slots": [
+          "ethiopia",
+          "highland",
+          "geolog",
+          "climate",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.1016/j.pld.2020.04.004"
+      },
+      {
+        "oid": "W7204855539",
+        "title": "Landslide Susceptibility and Rainfall-Triggered Slope Failure Modelling in Hong Kong and the Ethiopian Highlands",
+        "year": 2026,
+        "cited": 0,
+        "abs_len": 1901,
+        "slots": [
+          "ethiopia",
+          "highland",
+          "geolog",
+          "climate",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.48321/d1bcef4533"
+      },
+      {
+        "oid": "W2136099912",
+        "title": "Suspended sediment concentration–discharge relationships in the (sub-) humid Ethiopian highlands",
+        "year": 2013,
+        "cited": 123,
+        "abs_len": 1394,
+        "slots": [
+          "ethiopia",
+          "highland",
+          "climate",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.5194/hess-17-1067-2013"
+      }
+    ],
+    "n": 29
+  },
+  "马格里布": {
+    "cand": [
+      {
+        "oid": "W3207869629",
+        "title": "Trade and Religious Boundaries in the Medieval Maghrib: Genoese Merchants, their Products, and Islamic Law",
+        "year": 2019,
+        "cited": 4,
+        "abs_len": 5197,
+        "slots": [
+          "maghrib",
+          "history",
+          "society",
+          "econom"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W2313577512",
+        "title": "A Multiracial Republic? The Challenges Faced by the Maghreb Population in France",
+        "year": 2016,
+        "cited": 1,
+        "abs_len": 996,
+        "slots": [
+          "maghreb",
+          "history",
+          "society",
+          "econom"
+        ],
+        "doi": "https://doi.org/10.5642/urceu.201501.10"
+      },
+      {
+        "oid": "W1642078791",
+        "title": "Maghreb Influence on the Arabic Literary Tradition of Northern Nigeria",
+        "year": 2009,
+        "cited": 1,
+        "abs_len": 4241,
+        "slots": [
+          "maghreb",
+          "history",
+          "society",
+          "econom"
+        ],
+        "doi": "https://doi.org/10.1353/tmr.2009.0015"
+      }
+    ],
+    "n": 22
+  },
+  "古埃及新王国": {
+    "cand": [
+      {
+        "oid": "W215461327",
+        "title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+        "year": 2014,
+        "cited": 24,
+        "abs_len": 1656,
+        "slots": [
+          "new kingdom",
+          "egypt",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1093/acprof:oso/9780199354771.001.0001"
+      },
+      {
+        "oid": "W4388058189",
+        "title": "The Egyptian Polity at Zenith: The New Kingdom",
+        "year": 1997,
+        "cited": 0,
+        "abs_len": 1578,
+        "slots": [
+          "new kingdom",
+          "egypt",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1093/oso/9780198206644.003.0004"
+      },
+      {
+        "oid": "W634684386",
+        "title": "The Penguin Historical Atlas of Ancient Egypt",
+        "year": 1997,
+        "cited": 35,
+        "abs_len": 1161,
+        "slots": [
+          "new kingdom",
+          "egypt",
+          "administrat",
+          "state"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 20
+  },
+  "阿拉伯征服北非": {
+    "cand": [
+      {
+        "oid": "W7201881254",
+        "title": "Concepts, conquests, and contexts : portrayals of the seventh-century Islamic conquests in modern histories of Morocco",
+        "year": 2021,
+        "cited": 1,
+        "abs_len": 3526,
+        "slots": [
+          "conquest",
+          "north africa",
+          "maghrib",
+          "islamic",
+          "arab"
+        ],
+        "doi": "https://doi.org/10.60644/7299"
+      },
+      {
+        "oid": "W4285072712",
+        "title": "A Gateway To Hell, A Gateway To Paradise. The North African Response to the Arab Conquest",
+        "year": 2020,
+        "cited": 8,
+        "abs_len": 997,
+        "slots": [
+          "conquest",
+          "north africa",
+          "maghrib",
+          "arab"
+        ],
+        "doi": "https://doi.org/10.2307/j.ctv1b9f5dj"
+      },
+      {
+        "oid": "W4235447331",
+        "title": "The Early Arab Conquests",
+        "year": 2018,
+        "cited": 0,
+        "abs_len": 904,
+        "slots": [
+          "conquest",
+          "north africa",
+          "islamic",
+          "arab"
+        ],
+        "doi": "https://doi.org/10.4324/9780429456015-4"
+      }
+    ],
+    "n": 6
+  },
+  "加纳帝国": {
+    "cand": [
+      {
+        "oid": "W2959024546",
+        "title": "Pioneers in Ancient Ghana",
+        "year": 2014,
+        "cited": 0,
+        "abs_len": 858,
+        "slots": [
+          "ghana",
+          "wagadu",
+          "empire",
+          "state",
+          "trade"
+        ],
+        "doi": "https://doi.org/10.4324/9781315840369-3"
+      },
+      {
+        "oid": "W2010072736",
+        "title": "Archaeology and the prehistoric origins of the Ghana empire",
+        "year": 1980,
+        "cited": 107,
+        "abs_len": 1265,
+        "slots": [
+          "ghana",
+          "empire",
+          "state",
+          "trade"
+        ],
+        "doi": "https://doi.org/10.1017/s0021853700018685"
+      },
+      {
+        "oid": "W316556528",
+        "title": "Djenne et le Ghana : deux modeles sociaux, et la question du commerce trans-saharien",
+        "year": 2014,
+        "cited": 0,
+        "abs_len": 1371,
+        "slots": [
+          "ghana",
+          "wagadu",
+          "empire",
+          "trade"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 5
+  },
+  "桑海帝国": {
+    "cand": [
+      {
+        "oid": "W2070579190",
+        "title": "Assessment of farmers’ perception of the effectiveness of Songhai - Delta fish culture training programme in Delta state, Nigeria",
+        "year": 2011,
+        "cited": 1,
+        "abs_len": 1173,
+        "slots": [
+          "songhai",
+          "state",
+          "niger",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.4314/as.v9i2.64807"
+      },
+      {
+        "oid": "W2991586769",
+        "title": "The Rise of the Songhai Empire",
+        "year": 2018,
+        "cited": 0,
+        "abs_len": 865,
+        "slots": [
+          "songhai",
+          "empire",
+          "niger"
+        ],
+        "doi": "https://doi.org/10.4324/9781351033343-8"
+      },
+      {
+        "oid": "W4210602370",
+        "title": "Harnessing Science and Technology Research Results to Diversify the Nigerian Economy Through Science Governance Project Ogodometirics International (POI) WSSD +22 in Songhai-Delta, Amukpe-Sapele, Delta State, Nigeria",
+        "year": 2021,
+        "cited": 0,
+        "abs_len": 2753,
+        "slots": [
+          "songhai",
+          "state",
+          "niger"
+        ],
+        "doi": "https://doi.org/10.22624/aims/isteams-2021/v27p15"
+      }
+    ],
+    "n": 3
+  },
+  "大津巴布韦": {
+    "cand": [
+      {
+        "oid": "W2088347048",
+        "title": "The Rise and Fall of Zimbabwe",
+        "year": 1972,
+        "cited": 114,
+        "abs_len": 1231,
+        "slots": [
+          "zimbabwe",
+          "state",
+          "society",
+          "archaeolog",
+          "trade"
+        ],
+        "doi": "https://doi.org/10.1017/s0021853700011683"
+      },
+      {
+        "oid": "W3123290016",
+        "title": "Straight from the cow’s mouth: investigating procurement and management strategies in cattle supplied to Great Zimbabwe using a multi-isotopic approach",
+        "year": 2021,
+        "cited": 2,
+        "abs_len": 2186,
+        "slots": [
+          "zimbabwe",
+          "state",
+          "society",
+          "archaeolog",
+          "trade"
+        ],
+        "doi": "https://doi.org/10.1080/0067270x.2021.1891727"
+      },
+      {
+        "oid": "W2035751137",
+        "title": "The 'Mysterious' Ruins of Great Zimbabwe",
+        "year": 1992,
+        "cited": 1,
+        "abs_len": 1316,
+        "slots": [
+          "zimbabwe",
+          "state",
+          "society",
+          "archaeolog",
+          "trade"
+        ],
+        "doi": "https://doi.org/10.1179/isr.1992.17.1.32"
+      }
+    ],
+    "n": 26
+  },
+  "斯瓦希里海岸": {
+    "cand": [
+      {
+        "oid": "W4212910217",
+        "title": "The Swahili World",
+        "year": 2022,
+        "cited": 0,
+        "abs_len": 13723,
+        "slots": [
+          "swahili",
+          "trade",
+          "town",
+          "city",
+          "indian ocean"
+        ],
+        "doi": "https://doi.org/10.1162/afar_r_00647"
+      },
+      {
+        "oid": "W1981756050",
+        "title": "Swahili Synoecism: Rural Settlements and Town Formation on the Central East African Coast, A.D. 750–1500",
+        "year": 2010,
+        "cited": 95,
+        "abs_len": 1175,
+        "slots": [
+          "swahili",
+          "trade",
+          "town",
+          "indian ocean"
+        ],
+        "doi": "https://doi.org/10.1179/009346910x12707321358919"
+      },
+      {
+        "oid": "W4361287559",
+        "title": "Entwined African and Asian genetic roots of medieval peoples of the Swahili coast",
+        "year": 2023,
+        "cited": 94,
+        "abs_len": 1434,
+        "slots": [
+          "swahili",
+          "trade",
+          "town",
+          "indian ocean"
+        ],
+        "doi": "https://doi.org/10.1038/s41586-023-05754-w"
+      }
+    ],
+    "n": 26
+  },
+  "古巴比伦": {
+    "cand": [
+      {
+        "oid": "W2526588393",
+        "title": "Investigation into the Impacts of Foreign Ruling Elites in Traditional State Societies: The Case of the Kassite State in Babylonia (Iraq)",
+        "year": 2014,
+        "cited": 4,
+        "abs_len": 4076,
+        "slots": [
+          "babylon",
+          "babylonia",
+          "state",
+          "society",
+          "administrat"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W7233533968",
+        "title": "Judeans in Babylonia : a study of deportees in the Sixth and Fifth Centuries BCE",
+        "year": 2017,
+        "cited": 1,
+        "abs_len": 1316,
+        "slots": [
+          "babylon",
+          "babylonia",
+          "state",
+          "society",
+          "administrat"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W4230725343",
+        "title": "Xerxes and Babylonia: The Cuneiform Evidence",
+        "year": 2018,
+        "cited": 25,
+        "abs_len": 718,
+        "slots": [
+          "babylon",
+          "babylonia",
+          "society",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.2307/j.ctv1q26v46"
+      }
+    ],
+    "n": 22
+  },
+  "亚述帝国": {
+    "cand": [
+      {
+        "oid": "W2761337564",
+        "title": "Emblems of Power: Ideology and Identity in Late Old Assyrian Glyptic",
+        "year": 2016,
+        "cited": 15,
+        "abs_len": 2976,
+        "slots": [
+          "assyria",
+          "empire",
+          "administrat",
+          "state",
+          "ideolog"
+        ],
+        "doi": "https://doi.org/10.6082/d9v3n-6ed75"
+      },
+      {
+        "oid": "W2492162127",
+        "title": "Relations of Power in Early Neo-Assyrian State Ideology",
+        "year": 2016,
+        "cited": 122,
+        "abs_len": 1091,
+        "slots": [
+          "assyria",
+          "empire",
+          "state",
+          "ideolog"
+        ],
+        "doi": "https://doi.org/10.1515/9781614516910"
+      },
+      {
+        "oid": "W2491804046",
+        "title": "Assyrian Ideology and Israelite Monotheism",
+        "year": 2005,
+        "cited": 96,
+        "abs_len": 1689,
+        "slots": [
+          "assyria",
+          "empire",
+          "state",
+          "ideolog"
+        ],
+        "doi": "https://doi.org/10.1017/s0021088900001455"
+      }
+    ],
+    "n": 19
+  },
+  "帕提亚帝国": {
+    "cand": [
+      {
+        "oid": "W7139081985",
+        "title": "Parthian kingdom – state of Iranians-Zoroastrians in iran and Central Asia",
+        "year": 2024,
+        "cited": 0,
+        "abs_len": 8926,
+        "slots": [
+          "parthia",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "https://doi.org/10.31909/26168774.2024-(67)-1"
+      },
+      {
+        "oid": "W7133546061",
+        "title": "PARTHIAN KINGDOM –STATE OF IRANIANS-ZOROASTRIANS IN IRAN AND CENTRAL ASIA",
+        "year": 2025,
+        "cited": 0,
+        "abs_len": 8927,
+        "slots": [
+          "parthia",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "https://doi.org/10.31909/26168774.2025-(69)-3"
+      },
+      {
+        "oid": "W7215513657",
+        "title": "A Parthian port on the Persian Gulf: Characene and its trade",
+        "year": 2011,
+        "cited": 38,
+        "abs_len": 1277,
+        "slots": [
+          "parthia",
+          "empire",
+          "state"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 14
+  },
+  "萨珊波斯": {
+    "cand": [
+      {
+        "oid": "W2554590065",
+        "title": "Are Georgian-Sasanian Coins an Indicator of a Georgian Strive for Independence within the Sasanian Empire",
+        "year": 2016,
+        "cited": 0,
+        "abs_len": 5957,
+        "slots": [
+          "sasanian",
+          "sassanian",
+          "empire",
+          "state",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.5339/qfarc.2016.sshasp1567"
+      },
+      {
+        "oid": "W4243724402",
+        "title": "Sasanian Persia: The Rise and Fall of an Empire",
+        "year": 2009,
+        "cited": 354,
+        "abs_len": 938,
+        "slots": [
+          "sasanian",
+          "empire",
+          "state",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.5040/9780755694174"
+      },
+      {
+        "oid": "W2622146051",
+        "title": "The Sasanian Empire(224–651 ce)",
+        "year": 2012,
+        "cited": 17,
+        "abs_len": 993,
+        "slots": [
+          "sasanian",
+          "sassanian",
+          "empire",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1093/oxfordhb/9780199732159.013.0008"
+      }
+    ],
+    "n": 27
+  }
+}
