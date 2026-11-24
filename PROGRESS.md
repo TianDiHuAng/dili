@@ -79,3 +79,9 @@
 - 结论：不登记。G3 维持 6，A 维持 208。
 - 检索线索：改找带摘要的时间序列地表监测综述。
 - 另：该条目在 object_words.json 中无对象词，R20 登记前需先补。
+
+## 第110轮
+- 目标：为 6 个单来源条目（笈多王朝、巴西高原、拉普拉塔平原、大分水岭、冲积平原、卫星遥感地表观测）找第二内容源。
+- 结果：检索通道失败，不是检索结论。OpenAlex works?search 两次均 429；Crossref 按被引排序返回无关高被引论文，全部拒收。
+- 按 D110，不得写成“无候选”。6 条保持原状，G3 维持 6，A 维持 208。
+- 下一轮：用 Crossref query.bibliographic + filter=has-abstract:true 按相关度排序，再经 DOI 桥取 OpenAlex 摘要；并为卫星遥感地表观测补 object_words。

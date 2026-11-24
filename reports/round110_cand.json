@@ -1,0 +1,318 @@
+{
+ "cand": {
+  "笈多王朝": [
+   [
+    "CR",
+    "10.1107/s0108767307043930",
+    "A short history of\n                    <i>SHELX</i>",
+    2007,
+    80780,
+    2382
+   ],
+   [
+    "CR",
+    "10.1038/nature15393",
+    "A global reference for human genetic variation",
+    2015,
+    18606,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/j.cell.2012.03.042",
+    "Ferroptosis: An Iron-Dependent Form of Nonapoptotic Cell Death",
+    2012,
+    18318,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/s0140-6736(20)30925-9",
+    "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+    2020,
+    16962,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/s0140-6736(21)02724-0",
+    "Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis",
+    2022,
+    15527,
+    0
+   ],
+   [
+    "CR",
+    "10.1103/physrevlett.116.061102",
+    "Observation of Gravitational Waves from a Binary Black Hole Merger",
+    2016,
+    12147,
+    8710
+   ]
+  ],
+  "巴西高原": [
+   [
+    "CR",
+    "10.1016/0009-2541(94)00140-4",
+    "The composition of the Earth",
+    1995,
+    12849,
+    0
+   ],
+   [
+    "CR",
+    "10.1086/622910",
+    "A Scale of Grade and Class Terms for Clastic Sediments",
+    1922,
+    5123,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/s0140-6736(15)60692-4",
+    "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
+    2015,
+    5061,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/j.chemgeo.2007.11.005",
+    "Plešovice zircon — A new natural reference material for U–Pb and Hf isotopic microanalysis",
+    2008,
+    5007,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/j.chemgeo.2004.06.017",
+    "The application of laser ablation-inductively coupled plasma-mass spectrometry to in situ U–Pb zircon geochronology",
+    2004,
+    4837,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/j.chemgeo.2008.08.004",
+    "In situ analysis of major and trace elements of anhydrous minerals by LA-ICP-MS without applying an internal standard",
+    2008,
+    4806,
+    0
+   ]
+  ],
+  "拉普拉塔平原": [
+   [
+    "CR",
+    "10.1038/s41592-019-0686-2",
+    "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+    2020,
+    40797,
+    569
+   ],
+   [
+    "CR",
+    "10.1086/519795",
+    "PLINK: A Tool Set for Whole-Genome Association and Population-Based Linkage Analyses",
+    2007,
+    32585,
+    0
+   ],
+   [
+    "CR",
+    "10.1002/qj.3803",
+    "The ERA5 global reanalysis",
+    2020,
+    27343,
+    1871
+   ],
+   [
+    "CR",
+    "10.1088/0953-8984/21/39/395502",
+    "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials",
+    2009,
+    24031,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/s0168-9002(03)01368-8",
+    "Geant4—a simulation toolkit",
+    2003,
+    21956,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/j.jcp.2018.10.045",
+    "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+    2019,
+    21442,
+    0
+   ]
+  ],
+  "大分水岭": [
+   [
+    "CR",
+    "10.1006/jcph.1995.1039",
+    "Fast Parallel Algorithms for Short-Range Molecular Dynamics",
+    1995,
+    43380,
+    0
+   ],
+   [
+    "CR",
+    "10.1002/jcc.20495",
+    "Semiempirical GGA‐type density functional constructed with a long‐range dispersion correction",
+    2006,
+    30935,
+    2709
+   ],
+   [
+    "CR",
+    "10.1016/s0140-6736(20)30925-9",
+    "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+    2020,
+    16962,
+    0
+   ],
+   [
+    "CR",
+    "10.2307/3001478",
+    "Multiple Range and Multiple F Tests",
+    1955,
+    15531,
+    0
+   ],
+   [
+    "CR",
+    "10.1038/nbt.1511",
+    "MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification",
+    2008,
+    15099,
+    0
+   ],
+   [
+    "CR",
+    "10.1039/b810189b",
+    "Long-range corrected hybrid density functionals with damped atom–atom dispersion corrections",
+    2008,
+    14522,
+    0
+   ]
+  ],
+  "冲积平原": [
+   [
+    "CR",
+    "10.1016/0022-1694(70)90255-6",
+    "River flow forecasting through conceptual models part I — A discussion of principles",
+    1970,
+    19983,
+    0
+   ],
+   [
+    "CR",
+    "10.1139/f80-017",
+    "The River Continuum Concept",
+    1980,
+    7182,
+    2045
+   ],
+   [
+    "CR",
+    "10.1038/nature09440",
+    "Global threats to human water security and river biodiversity",
+    2010,
+    6679,
+    0
+   ],
+   [
+    "CR",
+    "10.1306/74d70646-2b21-11d7-8648000102c1865d",
+    "Brazos River bar [Texas]; a study in the significance of grain size parameters",
+    1957,
+    6235,
+    1871
+   ],
+   [
+    "CR",
+    "10.1016/s0021-9258(18)64180-8",
+    "A Method for Determining the Sedimentation Behavior of Enzymes: Application to Protein Mixtures",
+    1961,
+    4429,
+    0
+   ],
+   [
+    "CR",
+    "10.1016/s0146-6380(02)00002-5",
+    "PAHs in the Fraser River basin: a critical appraisal of PAH ratios as indicators of PAH source and composition",
+    2002,
+    3934,
+    0
+   ]
+  ],
+  "卫星遥感地表观测": [
+   [
+    "CR",
+    "10.1103/physrevlett.77.3865",
+    "Generalized Gradient Approximation Made Simple",
+    1996,
+    212808,
+    0
+   ],
+   [
+    "CR",
+    "10.1006/meth.2001.1262",
+    "Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method",
+    2001,
+    168595,
+    0
+   ],
+   [
+    "CR",
+    "10.1103/physrevb.54.11169",
+    "Efficient iterative schemes for\n                    <i>ab initio</i>\n                    total-energy calculations using a plane-wave basis set",
+    1996,
+    123309,
+    0
+   ],
+   [
+    "CR",
+    "10.2307/258557",
+    "Building Theories from Case Study Research",
+    1989,
+    113287,
+    0
+   ],
+   [
+    "CR",
+    "10.1111/j.2517-6161.1995.tb02031.x",
+    "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing",
+    1995,
+    99806,
+    958
+   ],
+   [
+    "CR",
+    "10.1103/physrevb.37.785",
+    "Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density",
+    1988,
+    97891,
+    0
+   ]
+  ]
+ },
+ "status": {
+  "笈多王朝|oa": "429",
+  "笈多王朝|cr": "200",
+  "巴西高原|oa": "429",
+  "巴西高原|cr": "200",
+  "拉普拉塔平原|oa": "429",
+  "拉普拉塔平原|cr": "200",
+  "大分水岭|oa": "429",
+  "大分水岭|cr": "200",
+  "冲积平原|oa": "429",
+  "冲积平原|cr": "200",
+  "卫星遥感地表观测|oa": "429",
+  "卫星遥感地表观测|cr": "200"
+ }
+}
