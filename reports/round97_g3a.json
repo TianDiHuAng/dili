@@ -1,0 +1,536 @@
+{
+  "results": {
+    "尼罗河三角洲": {
+      "cand": [
+        {
+          "oid": "W2096742774",
+          "title": "Clay Distributions, Grain Sizes, Sediment Thicknesses, and Compaction Rates to Interpret Subsidence in Egypt's Northern Nile Delta",
+          "year": 2013,
+          "cited": 35,
+          "abs_len": 2180,
+          "slots": [
+            "nile",
+            "delta",
+            "sediment",
+            "subsid",
+            "erosion"
+          ],
+          "doi": "10.2112/jcoastres-d-13-00146.1"
+        },
+        {
+          "oid": "W7225558878",
+          "title": "The Sinking and Shrinking Nile Delta: A Review of Land Subsidence, Sea-Level Rise, Coastal Erosion and Saltwater Intrusion",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 1491,
+          "slots": [
+            "nile",
+            "delta",
+            "sediment",
+            "subsid",
+            "erosion"
+          ],
+          "doi": "10.37229/fee.v1i1.002"
+        },
+        {
+          "oid": "W1996426663",
+          "title": "Subsidence in the Northeastern Nile Delta: Rapid Rates, Possible Causes, and Consequences",
+          "year": 1988,
+          "cited": 245,
+          "abs_len": 814,
+          "slots": [
+            "nile",
+            "delta",
+            "sediment",
+            "subsid"
+          ],
+          "doi": "10.1126/science.240.4851.497"
+        }
+      ],
+      "n": 11
+    },
+    "古埃及古王国": {
+      "cand": [
+        {
+          "oid": "W744845843",
+          "title": "1 Egyptian Economic History: Locating Power, Placing Agency",
+          "year": 2014,
+          "cited": 0,
+          "abs_len": 1115,
+          "slots": [
+            "old kingdom",
+            "egypt",
+            "econom",
+            "pyramid"
+          ],
+          "doi": "10.1163/9789004259850_002"
+        },
+        {
+          "oid": "W1533015861",
+          "title": "Pottery and Economy in Old Kingdom Egypt",
+          "year": 2014,
+          "cited": 51,
+          "abs_len": 783,
+          "slots": [
+            "old kingdom",
+            "egypt",
+            "econom"
+          ],
+          "doi": "10.1163/9789004259850"
+        },
+        {
+          "oid": "W4410728604",
+          "title": "Revitalizing Giza Pyramids context, astronomical approach for an urban tourism development vision: (Giza Pyramids and grand Egyptian museum zone)",
+          "year": 2025,
+          "cited": 1,
+          "abs_len": 1999,
+          "slots": [
+            "egypt",
+            "econom",
+            "pyramid"
+          ],
+          "doi": "10.1007/s43995-025-00147-8"
+        }
+      ],
+      "n": 6
+    },
+    "古埃及新王国": {
+      "cand": [
+        {
+          "oid": "W2518402882",
+          "title": "Egypt: 1. Ancient (New Kingdom)",
+          "year": 2016,
+          "cited": 1,
+          "abs_len": 954,
+          "slots": [
+            "new kingdom",
+            "egypt",
+            "empire",
+            "administrat",
+            "econom"
+          ],
+          "doi": "10.1002/9781118455074.wbeoe088"
+        },
+        {
+          "oid": "W215461327",
+          "title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+          "year": 2014,
+          "cited": 24,
+          "abs_len": 1656,
+          "slots": [
+            "new kingdom",
+            "egypt",
+            "empire",
+            "administrat"
+          ],
+          "doi": "10.1093/acprof:oso/9780199354771.001.0001"
+        },
+        {
+          "oid": "W4244075171",
+          "title": "Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite Renaissance",
+          "year": 2012,
+          "cited": 85,
+          "abs_len": 1083,
+          "slots": [
+            "new kingdom",
+            "egypt",
+            "empire"
+          ],
+          "doi": "10.5743/cairo/9789774165313.001.0001"
+        }
+      ],
+      "n": 8
+    },
+    "宋代": {
+      "cand": [
+        {
+          "oid": "W4385538576",
+          "title": "Schooling, State, and Society in Song and Jin",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1266,
+          "slots": [
+            "song",
+            "state",
+            "society"
+          ],
+          "doi": "10.1017/9781108355025.004"
+        },
+        {
+          "oid": "W4361197788",
+          "title": "Deeper Structures of Song Governance",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1376,
+          "slots": [
+            "song",
+            "state"
+          ],
+          "doi": "10.1017/9781009235624.013"
+        },
+        {
+          "oid": "W4361198597",
+          "title": "The Northern Song Technocratic State",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1488,
+          "slots": [
+            "song",
+            "state"
+          ],
+          "doi": "10.1017/9781009235624.009"
+        }
+      ],
+      "n": 3
+    },
+    "元代": {
+      "cand": [
+        {
+          "oid": "W150342044",
+          "title": "Chinese Yuan after Chinese Exchange Rate System Reform",
+          "year": 2006,
+          "cited": 77,
+          "abs_len": 790,
+          "slots": [
+            "yuan",
+            "econom"
+          ],
+          "doi": "10.1111/j.1749-124x.2006.00044.x"
+        },
+        {
+          "oid": "W4414507156",
+          "title": "China Today, China Tomorrow: Domestic Politics, Economy, and Society",
+          "year": 2010,
+          "cited": 7,
+          "abs_len": 1283,
+          "slots": [
+            "econom",
+            "society"
+          ],
+          "doi": "10.5040/9798216384144"
+        }
+      ],
+      "n": 2
+    },
+    "朝鲜半岛": {
+      "cand": [
+        {
+          "oid": "W2887558410",
+          "title": "Peace Settlement of the Korean Peninsula and 4.27 Panmunjeom Declaration",
+          "year": 2018,
+          "cited": 1,
+          "abs_len": 2207,
+          "slots": [
+            "korea",
+            "korean",
+            "environment"
+          ],
+          "doi": "10.33127/kdps.2018.40.1.119"
+        },
+        {
+          "oid": "W4367835622",
+          "title": "Korean theory by ‘Researchers of the Korean Peninsula’ in the 1970s: Focusing on Akira Tanaka(田中明)",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 2008,
+          "slots": [
+            "korea",
+            "korean",
+            "history"
+          ],
+          "doi": "10.24939/kjh.2023.4.60.87"
+        },
+        {
+          "oid": "W4387676420",
+          "title": "A Study on Marking Northern Region of Ancient Korean Peninsula as Subject Country in Chinese History Textbook as a Part of Post Northeast Project: Was Northern Region of Korean Peninsula the territory of Han, Wei and Jin Dynasty?",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 2680,
+          "slots": [
+            "korea",
+            "korean",
+            "history"
+          ],
+          "doi": "10.55793/jkhc.2023.16.7"
+        }
+      ],
+      "n": 7
+    },
+    "中南半岛": {
+      "cand": [
+        {
+          "oid": "W2955765828",
+          "title": "The China–Indochina Peninsula Economic Corridor",
+          "year": 2019,
+          "cited": 3,
+          "abs_len": 968,
+          "slots": [
+            "indochina",
+            "geograph",
+            "peninsula"
+          ],
+          "doi": "10.4324/9780429203039-39"
+        },
+        {
+          "oid": "W4281699841",
+          "title": "The China–Indochina Peninsula Economic Corridor",
+          "year": 2022,
+          "cited": 2,
+          "abs_len": 1402,
+          "slots": [
+            "indochina",
+            "geograph",
+            "peninsula"
+          ],
+          "doi": "10.4324/9781003286202-48"
+        },
+        {
+          "oid": "W2076893175",
+          "title": "Indochina Peninsula and the collision of India and Eurasia",
+          "year": 1994,
+          "cited": 152,
+          "abs_len": 785,
+          "slots": [
+            "indochina",
+            "peninsula"
+          ],
+          "doi": "10.1130/0091-7613(1994)022<0027:ipatco>2.3.co;2"
+        }
+      ],
+      "n": 6
+    },
+    "突厥": {
+      "cand": [
+        {
+          "oid": "W2580406109",
+          "title": "Relations between Ancient Korea and Turkey: An Examination of Contacts between Koguryŏ and the Turkic Khaganate",
+          "year": 2016,
+          "cited": 1,
+          "abs_len": 4145,
+          "slots": [
+            "turk",
+            "turkic",
+            "khaganate",
+            "state",
+            "steppe"
+          ],
+          "doi": "10.1353/seo.2016.0017"
+        },
+        {
+          "oid": "W4387310877",
+          "title": "Legal Practice in the Turkic Khaganate",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1372,
+          "slots": [
+            "turk",
+            "turkic",
+            "khaganate",
+            "state",
+            "politic"
+          ],
+          "doi": "10.4324/9781032616353-6"
+        },
+        {
+          "oid": "W3177590608",
+          "title": "CHARACTERISTIC FEATURES OF MARTIAL ART OF THE OLD TURKIS DURING THE FORMATION PERIOD OF THE FIRST TURKIC KHAGANATE",
+          "year": 2021,
+          "cited": 0,
+          "abs_len": 1822,
+          "slots": [
+            "turk",
+            "turkic",
+            "khaganate",
+            "state",
+            "steppe"
+          ],
+          "doi": "10.21684/2411-197x-2021-7-2-173-181"
+        }
+      ],
+      "n": 11
+    },
+    "黎凡特": {
+      "cand": [
+        {
+          "oid": "W2520817057",
+          "title": "Woman's Share in Neolithic Society: A View from the Southern Levant",
+          "year": 2016,
+          "cited": 3,
+          "abs_len": 867,
+          "slots": [
+            "levant",
+            "archaeolog",
+            "society"
+          ],
+          "doi": "10.5615/neareastarch.79.3.0132"
+        },
+        {
+          "oid": "W7169496340",
+          "title": "The southern Levant in the global history of sugar",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 1308,
+          "slots": [
+            "levant",
+            "history",
+            "archaeolog"
+          ],
+          "doi": "10.1080/00758914.2026.2672905"
+        },
+        {
+          "oid": "W2005299799",
+          "title": "Revisiting the History of the Potter's Wheel in the Southern Levant",
+          "year": 2009,
+          "cited": 102,
+          "abs_len": 860,
+          "slots": [
+            "levant",
+            "history"
+          ],
+          "doi": "10.1179/007589109x12484491671095"
+        }
+      ],
+      "n": 3
+    },
+    "拜占庭帝国": {
+      "cand": [
+        {
+          "oid": "W4297961286",
+          "title": "A History of the Byzantine State and Society",
+          "year": 1997,
+          "cited": 590,
+          "abs_len": 2345,
+          "slots": [
+            "byzantine",
+            "empire",
+            "econom",
+            "society"
+          ],
+          "doi": "10.1515/9780804779371"
+        },
+        {
+          "oid": "W3011975810",
+          "title": "Economy and Society in Byzantine Hagiography",
+          "year": 2020,
+          "cited": 3,
+          "abs_len": 965,
+          "slots": [
+            "byzantine",
+            "empire",
+            "econom",
+            "society"
+          ],
+          "doi": "10.4324/9781315141909-18"
+        },
+        {
+          "oid": "W4299914561",
+          "title": "Warfare, State And Society In The Byzantine World 560-1204",
+          "year": 2002,
+          "cited": 164,
+          "abs_len": 688,
+          "slots": [
+            "byzantine",
+            "empire",
+            "society"
+          ],
+          "doi": "10.4324/9780203500873"
+        }
+      ],
+      "n": 9
+    },
+    "伊比利亚半岛": {
+      "cand": [
+        {
+          "oid": "W1985300983",
+          "title": "The Iberian Peninsula: A Geographical Study Adapted to Fifth or Sixth Grade Pupils Prize Essay Number",
+          "year": 1920,
+          "cited": 1,
+          "abs_len": 1259,
+          "slots": [
+            "iberia",
+            "iberian",
+            "geograph",
+            "history"
+          ],
+          "doi": "10.1080/00221342008984881"
+        },
+        {
+          "oid": "W3156861720",
+          "title": "Humans and the environment in medieval Iberia",
+          "year": 2021,
+          "cited": 1,
+          "abs_len": 1431,
+          "slots": [
+            "iberia",
+            "iberian",
+            "history",
+            "environment"
+          ],
+          "doi": "10.4324/9781315210483-2"
+        },
+        {
+          "oid": "W2988650324",
+          "title": "Art of Medieval Iberia",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 2253,
+          "slots": [
+            "iberia",
+            "iberian",
+            "geograph",
+            "history"
+          ],
+          "doi": "10.1093/obo/9780199920105-0140"
+        }
+      ],
+      "n": 11
+    },
+    "高卢": {
+      "cand": [
+        {
+          "oid": "W272418548",
+          "title": "Gaul",
+          "year": 1996,
+          "cited": 34,
+          "abs_len": 910,
+          "slots": [
+            "gaul",
+            "econom",
+            "geograph"
+          ],
+          "doi": "10.1017/chol9780521264303.017"
+        },
+        {
+          "oid": "W2901975174",
+          "title": "Roman Gaul (Routledge Revivals)",
+          "year": 2014,
+          "cited": 3,
+          "abs_len": 927,
+          "slots": [
+            "gaul",
+            "society",
+            "econom"
+          ],
+          "doi": "10.4324/9781315796505"
+        },
+        {
+          "oid": "W4232483360",
+          "title": "Gaul",
+          "year": 2000,
+          "cited": 22,
+          "abs_len": 994,
+          "slots": [
+            "gaul",
+            "econom"
+          ],
+          "doi": "10.1017/chol9780521263351.015"
+        }
+      ],
+      "n": 8
+    }
+  },
+  "http": {
+    "ok": 458,
+    "fail": 0
+  }
+}

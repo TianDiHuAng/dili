@@ -26,9 +26,9 @@
       "tier": "核心"
     },
     "尼罗河三角洲": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -122,9 +122,9 @@
       "tier": "核心"
     },
     "古埃及古王国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 2,
@@ -146,9 +146,9 @@
       "tier": "补充"
     },
     "古埃及新王国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 1,
@@ -554,9 +554,9 @@
       "tier": "重要"
     },
     "宋代": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 3,
@@ -722,9 +722,9 @@
       "tier": "重要"
     },
     "突厥": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -902,9 +902,9 @@
       "tier": "核心"
     },
     "拜占庭帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -926,9 +926,9 @@
       "tier": "重要"
     },
     "伊比利亚半岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -938,9 +938,9 @@
       "tier": "重要"
     },
     "高卢": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 165,
-    "B": 56,
+    "A": 173,
+    "B": 48,
     "C": 0,
     "D": 22
   },

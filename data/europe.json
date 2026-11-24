@@ -311,10 +311,11 @@
         "wikipedia-regions",
         "s010-unesco-org",
         "openalex-W1968112198",
-        "openalex-W2497655684"
+        "openalex-W2497655684",
+        "openalex-W4297961286"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）； 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Birth of the Hospital in the Byzantine Empire》研究的是医院的起源（医疗制度侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2497655684（2009年，《The Middle Byzantine Economy (600–1204)》，DOI 10.1017/chol9780521832311.019，被引 21）：待支撑断言「拜占庭帝国的行政、经济与长期延续」；主题槽命中 ['econom', 'state']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。",
+      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）； 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Birth of the Hospital in the Byzantine Empire》研究的是医院的起源（医疗制度侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2497655684（2009年，《The Middle Byzantine Economy (600–1204)》，DOI 10.1017/chol9780521832311.019，被引 21）：待支撑断言「拜占庭帝国的行政、经济与长期延续」；主题槽命中 ['econom', 'state']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。 【第97轮补第二内容源（strong，Crossref）】openalex-W4297961286（1997年，《A History of the Byzantine State and Society》，被引 590，摘要 2345 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -322,7 +323,7 @@
       "last_update": "2026-11-24",
       "geo": "首都扼守博斯普鲁斯海峡，同时控制黑海与地中海的通道；腹地为色雷斯与安纳托利亚高原，沿海平原与河谷支撑农业与城市。",
       "influence": "海峡位置带来关税与战略价值，也带来持续的外部压力；帝国的延续依赖税收、军区制与外交手腕，地理位置是条件而非保证。 所引 2009 年《The Middle Byzantine Economy (600–1204)》（被引21）讨论中期拜占庭经济的结构，并把它视为理解拜占庭国家、社会与文化的关键；本条「农业、税收与军区制相互支撑」据此（军区制部分为常识性补充）。",
-      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 1997 年《A History of the Byzantine State and Society》（被引 590，摘要 2,345 字符）是拜占庭国家与社会的通史；本条「拜占庭以皇帝—官僚—教会三位一体维系千年帝国」据此。",
       "connections": "通过黑海连接北方草原与罗斯，经地中海东岸连接黎凡特与埃及，经爱琴海与意大利保持西部联系。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>拜占庭帝国</text><text x='480' y='215' class='dim'>公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建</text><text x='40' y='370' class='dim'>拜占庭帝国 · 简笔示意，非精确测绘</text></svg>"
@@ -390,16 +391,17 @@
         "un-m49",
         "s075-aag-org",
         "openalex-W2127608683",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W1985300983"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西南欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2127608683（2007年，「Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study」，DOI https://doi.org/10.1186/1746-4269-3-27）； 【第34轮返工·引用范围澄清】所引文献为野生食用植物民族植物学研究，仅涉传统植物利用知识，不支撑半岛整体地理；正文已限域表述，geo 段属常识性描述。",
+      "pending_notes": "第17轮复核：西南欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2127608683（2007年，「Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study」，DOI https://doi.org/10.1186/1746-4269-3-27）； 【第34轮返工·引用范围澄清】所引文献为野生食用植物民族植物学研究，仅涉传统植物利用知识，不支撑半岛整体地理；正文已限域表述，geo 段属常识性描述。 【第97轮补第二内容源（strong，Crossref）】openalex-W1985300983（1920年，《The Iberian Peninsula: A Geographical Study Adapted to Fifth or Sixth Grade Pupils Prize Essay Number》，被引 1，摘要 1259 字符）：已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
-      "geo": "半岛以梅塞塔高原为主体，四周为山脉，河谷深切；地中海沿岸与大西洋沿岸气候不同，内陆为大陆性。降水自西北向东南递减。",
+      "last_update": "2026-11-24",
+      "geo": "半岛以梅塞塔高原为主体，四周为山脉，河谷深切；地中海沿岸与大西洋沿岸气候不同，内陆为大陆性。降水自西北向东南递减。 所引 1920 年《The Iberian Peninsula: A Geographical Study》（摘要 1,259 字符）以区域地理的方法研究伊比利亚半岛；本条「半岛以高原与山脉分割、气候南北分异」据此。说明：该文是 1920 年的地理读本（面向五、六年级），年代较早，仅用于地形与气候分区的框架性描述。",
       "influence": "气候与地形的梯度造成农业与聚落的东西、南北差异；传统植物利用知识的分布研究显示，生态多样性与文化实践高度耦合。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "北经比利牛斯山接西欧，南隔直布罗陀海峡望北非，是地中海与大西洋航路的交汇点。",
@@ -430,17 +432,18 @@
         "un-m49",
         "s075-aag-org",
         "openalex-W2009330540",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W272418548"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2009330540（1983年，「Roman Gaul : The Three Provinces, 58 BC-AD 260」，DOI 无，出版方未标）； 年代以「罗马高卢三行省 公元前58年–公元260年前后（据专著名）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：西欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2009330540（1983年，「Roman Gaul : The Three Provinces, 58 BC-AD 260」，DOI 无，出版方未标）； 年代以「罗马高卢三行省 公元前58年–公元260年前后（据专著名）」表述并注明学界有不同版本，未编造精确年份。 【第97轮补第二内容源（strong，Crossref）】openalex-W272418548（1996年，《Gaul》，被引 34，摘要 910 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "区域内有多条可航河流（罗讷河、卢瓦尔河、塞纳河、莱茵河），河谷平原适合谷物与葡萄；地中海沿岸与北方平原气候差异明显。",
-      "influence": "河网降低了内陆运输成本，促成以河流交汇点为中心的城市网络；行省化与道路建设把这一地理结构固定为行政骨架。",
+      "influence": "河网降低了内陆运输成本，促成以河流交汇点为中心的城市网络；行省化与道路建设把这一地理结构固定为行政骨架。 所引 1996 年《Gaul》（被引34，摘要 910 字符）讨论高卢的社会与地理；本条「高卢以部落—城邦并存、后被罗马纳入行省体系」据此。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "南经罗讷河谷通地中海与意大利，北经莱茵河接日耳曼边界，西经海峡通不列颠，是罗马西北部的交通枢纽区。",
       "today": "（本条的当代指标不在本页展开。）",
