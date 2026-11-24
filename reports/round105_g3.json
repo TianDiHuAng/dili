@@ -1,0 +1,221 @@
+{
+  "results": {
+    "教育机会地域差异": {
+      "cand": [
+        {
+          "oid": "W2941642351",
+          "title": "Unfulfilled Promise of Educational Meritocracy? Academic Ability and China's Urban-Rural Gap in Access to Higher Education",
+          "year": 2019,
+          "cited": 41,
+          "abs_len": 1206,
+          "slots": [
+            "educat",
+            "inequal",
+            "rural",
+            "access",
+            "enrol"
+          ],
+          "doi": "10.4324/9781003798422-5"
+        },
+        {
+          "oid": "W3125766961",
+          "title": "Gender Disparities in Educational Enrolment and Attainment in Sub-Saharan Africa",
+          "year": 2015,
+          "cited": 40,
+          "abs_len": 1115,
+          "slots": [
+            "educat",
+            "inequal",
+            "access",
+            "enrol",
+            "attainment"
+          ],
+          "doi": "10.5901/jesr.2015.v5n3p279"
+        },
+        {
+          "oid": "W2529334733",
+          "title": "Who Decided College Access in Chinese Secondary Education? Rural-urban Inequality of Basic Education in Contemporary China",
+          "year": 2016,
+          "cited": 11,
+          "abs_len": 851,
+          "slots": [
+            "educat",
+            "inequal",
+            "rural",
+            "regional",
+            "access"
+          ],
+          "doi": "10.13189/ujer.2016.041018"
+        }
+      ],
+      "n": 14
+    },
+    "人文地理学": {
+      "cand": [
+        {
+          "oid": "W2015707674",
+          "title": "Charting the development of social and cultural geography in Mainland China: voices from the inside *",
+          "year": 2014,
+          "cited": 19,
+          "abs_len": 1393,
+          "slots": [
+            "geograph",
+            "space",
+            "place",
+            "human",
+            "cultur"
+          ],
+          "doi": "10.1080/14649365.2014.883423"
+        },
+        {
+          "oid": "W4408239961",
+          "title": "Geography and Metaphysics: Revisiting Geography to Rethink Space, Place, and Human Perceptions",
+          "year": 2022,
+          "cited": 0,
+          "abs_len": 1430,
+          "slots": [
+            "geograph",
+            "space",
+            "place",
+            "human",
+            "cultur"
+          ],
+          "doi": "10.53555/kuey.v28i4.9450"
+        },
+        {
+          "oid": "W2138119527",
+          "title": "The end of geography or the explosion of place? Conceptualizing space, place and information technology",
+          "year": 1998,
+          "cited": 833,
+          "abs_len": 1033,
+          "slots": [
+            "geograph",
+            "space",
+            "place",
+            "cultur"
+          ],
+          "doi": "10.1191/030913298671334137"
+        }
+      ],
+      "n": 12
+    },
+    "隋唐": {
+      "cand": [
+        {
+          "oid": "W2343148554",
+          "title": "City of Marvel and Transformation: Changan and Narratives of Experience in Tang Dynasty China",
+          "year": 2015,
+          "cited": 9,
+          "abs_len": 1493,
+          "slots": [
+            "tang",
+            "dynast",
+            "china",
+            "institution"
+          ],
+          "doi": "10.21313/hawaii/9780824841065.001.0001"
+        }
+      ],
+      "n": 1
+    },
+    "大分水岭": {
+      "cand": [
+        {
+          "oid": "W1990720532",
+          "title": "Post‐orogenic evolution of a mountain range: South‐eastern Australian Highlands",
+          "year": 1985,
+          "cited": 9,
+          "abs_len": 836,
+          "slots": [
+            "australia",
+            "highland",
+            "uplift",
+            "landscape"
+          ],
+          "doi": "10.1029/gl012i012p00801"
+        },
+        {
+          "oid": "W2601248680",
+          "title": "Euastacus vesper sp. nov., a new giant spiny crayfish (Crustacea, Decapoda, Parastacidae) from the Great Dividing Range, New South Wales, Australia",
+          "year": 2017,
+          "cited": 10,
+          "abs_len": 642,
+          "slots": [
+            "dividing range",
+            "australia",
+            "drainage"
+          ],
+          "doi": "10.11646/zootaxa.4244.4.6"
+        },
+        {
+          "oid": "W4412586503",
+          "title": "The great divide: population comparison using 3D and 2D geometric morphometrics of Petaurus breviceps and Petaurus notatus along Australia’s eastern Great Dividing Range",
+          "year": 2025,
+          "cited": 2,
+          "abs_len": 994,
+          "slots": [
+            "dividing range",
+            "australia"
+          ],
+          "doi": "10.1071/am24046"
+        }
+      ],
+      "n": 4
+    },
+    "冲积平原": {
+      "cand": [
+        {
+          "oid": "W3095474398",
+          "title": "Channel-floodplain response to changes in sediment supply and floodplain width",
+          "year": 2020,
+          "cited": 2,
+          "abs_len": 1597,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "sediment",
+            "floodplain",
+            "deposit"
+          ],
+          "doi": "10.1201/b22619-85"
+        },
+        {
+          "oid": "W2081907954",
+          "title": "A geomorphic monitoring and adaptive assessment framework to assess the effect of lowland floodplain river restoration on channel–floodplain sediment continuity",
+          "year": 2005,
+          "cited": 46,
+          "abs_len": 2070,
+          "slots": [
+            "plain",
+            "river",
+            "sediment",
+            "floodplain",
+            "deposit"
+          ],
+          "doi": "10.1002/rra.911"
+        },
+        {
+          "oid": "W1966957579",
+          "title": "Taphonomy and paleoecology of nonmarine Mollusca; indicators of alluvial plain lacustrine sedimentation, upper part of the Tongue River Member, Fort Union Formation (Paleocene), northern Powder River basin, Wyoming and Montana",
+          "year": 1987,
+          "cited": 41,
+          "abs_len": 1660,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "sediment",
+            "deposit"
+          ],
+          "doi": "10.2307/3514619"
+        }
+      ],
+      "n": 13
+    }
+  },
+  "http": {
+    "ok": 276,
+    "fail": 0
+  }
+}

@@ -302,17 +302,18 @@
         "s015-fao-org",
         "s016-fao-org",
         "openalex-W2154930938",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W3095474398"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 0；s016（FAO Land overview）200 / 4070 字符 / 命中 0。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2154930938（2005年，《Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength》，DOI https://doi.org/10.2110/jsr.2005.029）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质尺度（本条引 2005 年冲积序列研究）」表述并注明学界有不同版本。 【第103轮检索记录】过筛候选《Walls Formation, Western Shetland》(1985, 摘要 1,492) 研究设得兰群岛西部的一处泥盆纪冲积层序（局部地质），不支撑冲积平原的一般形成机制。不采用。",
+      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 0；s016（FAO Land overview）200 / 4070 字符 / 命中 0。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2154930938（2005年，《Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength》，DOI https://doi.org/10.2110/jsr.2005.029）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质尺度（本条引 2005 年冲积序列研究）」表述并注明学界有不同版本。 【第103轮检索记录】过筛候选《Walls Formation, Western Shetland》(1985, 摘要 1,492) 研究设得兰群岛西部的一处泥盆纪冲积层序（局部地质），不支撑冲积平原的一般形成机制。不采用。 【第105轮补第二内容源（Crossref，旁证）】openalex-W3095474398（2020年，《Channel-floodplain response to changes in sediment supply and floodplain width》，被引 2，摘要 1597 字符）：已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-24",
-      "geo": "由河道反复迁移与泛滥堆积形成，沉积物以砂、粉砂与黏土互层；地形极平坦，坡度常小于1‰，微地形决定排水与土壤差异。",
+      "geo": "由河道反复迁移与泛滥堆积形成，沉积物以砂、粉砂与黏土互层；地形极平坦，坡度常小于1‰，微地形决定排水与土壤差异。 所引 2020 年《Channel-floodplain response to changes in sediment supply and floodplain width》（被引2，摘要 1,597 字符）讨论泥沙供给与河漫滩宽度如何影响冲积河道与漫滩的几何形态和演化，对应冲积平原的形成过程；属水槽或模型类研究章节，被引很少，证据强度有限。",
       "influence": "所引 2005 年研究以不连续界面划分冲积序列，说明平原的堆积并非连续均匀，而是由洪水事件与河道改道分段形成——这决定了对平原地层与古洪水记录的解释方式。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "连接上游侵蚀区与下游三角洲，是泥沙与水量的输送通道，也是农业与聚落最密集的地带。",
@@ -2101,7 +2102,7 @@
         "openalex-W4317206970"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SE.PRM.NENR），实测 89.4%（2018年）；空间差异描述为常识性地理概述，未逐国引用。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第46轮来源性质】本条为指标解读类条目：核心内容是「今天的状况」中的世界银行/NOAA 指标值与空间差异概述，其数据来源即所列数据端点（already 计入来源）；正文 geo 段为常识性空间差异描述，不涉及需要学术文献支撑的具体事实断言，故不宜强行配文献（D101 要求摘要逐槽支撑断言，指标解读类无此断言）。 【第65轮补第二来源（strong，case）】openalex-W4317206970（2023年，《Regional Inequality of Higher Education Development in China: Comprehensive Evaluation and Geographical Representation》，被引 53，摘要 1333 字符）：主题槽命中 ['education', 'inequal']；已在本条 influence 段落点。 【第89轮·G3a 说明（D140）】本条属指标解读类但强来源仅 1 个、另有 2 个弱来源：正文以指标解释与空间差异为主，弱来源（统计口径说明等）已降旁证。按 D140 归入 G3a。 【第104轮检索记录】第104轮检索无通过候选，需换检索角度。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第36轮升级 L2】数据来源为世界银行 WLD 端点（指标 SE.PRM.NENR），实测 89.4%（2018年）；空间差异描述为常识性地理概述，未逐国引用。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第46轮来源性质】本条为指标解读类条目：核心内容是「今天的状况」中的世界银行/NOAA 指标值与空间差异概述，其数据来源即所列数据端点（already 计入来源）；正文 geo 段为常识性空间差异描述，不涉及需要学术文献支撑的具体事实断言，故不宜强行配文献（D101 要求摘要逐槽支撑断言，指标解读类无此断言）。 【第65轮补第二来源（strong，case）】openalex-W4317206970（2023年，《Regional Inequality of Higher Education Development in China: Comprehensive Evaluation and Geographical Representation》，被引 53，摘要 1333 字符）：主题槽命中 ['education', 'inequal']；已在本条 influence 段落点。 【第89轮·G3a 说明（D140）】本条属指标解读类但强来源仅 1 个、另有 2 个弱来源：正文以指标解释与空间差异为主，弱来源（统计口径说明等）已降旁证。按 D140 归入 G3a。 【第104轮检索记录】第104轮检索无通过候选，需换检索角度。 【第105轮检索记录】第105轮候选为撒哈拉以南非洲性别差异（W3125766961）与中国高等教育城乡差距（W2941642351），前者主题仅部分对位，后者与已有来源重叠，均不采用，需换检索角度。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
@@ -2335,16 +2336,17 @@
         "openstax-human-geo",
         "s075-aag-org",
         "openalex-W2038018335",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2015707674"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2038018335（1987年，《Human geography in the French Institute: New discipline or missed opportunity?》，DOI https://doi.org/10.1002/1520-6696(198710)23:4<332::aid-jhbs2300230403>3.0.co;2-z）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删除末句对「boundary work」的悬空引用——本条正文无该概念（且该概念属管理学同名陷阱，已在本轮剔除）。 【第104轮检索记录】第104轮检索无通过候选，需换检索角度。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2038018335（1987年，《Human geography in the French Institute: New discipline or missed opportunity?》，DOI https://doi.org/10.1002/1520-6696(198710)23:4<332::aid-jhbs2300230403>3.0.co;2-z）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删除末句对「boundary work」的悬空引用——本条正文无该概念（且该概念属管理学同名陷阱，已在本轮剔除）。 【第104轮检索记录】第104轮检索无通过候选，需换检索角度。 【第105轮补第二内容源（Crossref）】openalex-W2015707674（2014年，《Charting the development of social and cultural geography in Mainland China: voices from the inside *》，被引 19，摘要 1393 字符）：已在本条 influence 段落点。",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],
       "last_update": "2026-11-24",
       "geo": "研究对象覆盖聚落、经济、政治与文化景观；尺度从社区到全球，方法从田野到定量。",
-      "influence": "所引 1987 年研究以法国某研究机构的学科建制为例，讨论人文地理学作为「新学科」的建立过程。这说明学科的边界与合法性并非自然生成，而由机构、期刊与人才培训共同确立。",
+      "influence": "所引 1987 年研究以法国某研究机构的学科建制为例，讨论人文地理学作为「新学科」的建立过程。这说明学科的边界与合法性并非自然生成，而由机构、期刊与人才培训共同确立。 所引 2014 年《Charting the development of social and cultural geography in Mainland China: voices from the inside》（被引19，摘要 1,393 字符）梳理中国大陆社会与文化地理学的发展，涵盖文化区、文化扩散、族群文化地理与文化景观等主题；其对象是中国大陆的学科发展，可作人文地理学学科史的补充视角，不代表全球学科全貌。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "与经济学、社会学、生态学交叉，为区域研究与规划提供空间视角。",
       "today": "（本条的当代指标不在本页展开。）",

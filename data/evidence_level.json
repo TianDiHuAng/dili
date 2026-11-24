@@ -542,9 +542,9 @@
       "tier": "核心"
     },
     "隋唐": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1686,7 +1686,7 @@
       "counts": {
         "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 3,
         "alias": 4,
         "unknown": 0
@@ -2082,7 +2082,7 @@
       "counts": {
         "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "alias": 1,
         "unknown": 2
@@ -2786,9 +2786,9 @@
       "tier": "补充"
     },
     "人文地理学": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 2,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 203,
-    "B": 11,
+    "A": 205,
+    "B": 9,
     "C": 0,
     "D": 29
   },

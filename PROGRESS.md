@@ -2,7 +2,7 @@
 
 - 状态：正常循环（NORMAL）
 - **检索路线：Crossref `query.bibliographic` → DOI → OpenAlex by-ID**（OpenAlex search 429 不可用）
-- 当前轮次：**第 104 轮已完成，下一轮为第 105 轮**
+- 当前轮次：**第 105 轮已完成，下一轮为第 106 轮**
 - **第104轮：G3 16→11，A 198→203**（G3a 7→2）
   | 条目 | 新第二来源 | 被引 | 备注 |
   |---|---|---|---|
@@ -32,3 +32,16 @@
   1. G3a 补充 2 条换检索角度（教育机会、人文地理学）。
   2. G3b 可追 3 条重要（隋唐、大分水岭、冲积平原）+ 补充 3 条。
 - 不再写 ALL_DONE。
+
+- **第105轮：G3 11→9，A 203→205**（登记4条，其中2条计入内容源）
+  | 条目 | 新来源 | 被引 | 处理 |
+  |---|---|---|---|
+  | 人文地理学 | Charting the development of social and cultural geography in Mainland China (2014) | 19 | 计入，已注明仅中国大陆视角 |
+  | 隋唐 | City of Marvel and Transformation: Changan in Tang Dynasty China (2015) | 9 | 计入，证据偏弱，已注明 |
+  | 大分水岭 | Post-orogenic evolution of a mountain range: South-eastern Australian Highlands (1985) | 9 | 标题不含对象词，R20 要求标旁证，不计内容源，仍在 G3 |
+  | 冲积平原 | Channel-floodplain response to changes in sediment supply and floodplain width (2020) | 2 | 同上 |
+  - 教育机会地域差异：候选重叠或主题仅部分对位，均不采用，仍需换角度。
+  - **流程教训（第105轮）**：选第二来源时必须要求标题含条目对象词（R20）。旁证标记可让 R20 豁免，但 D146 规定旁证不计内容源，所以标题不含对象词的来源无法降低 G3。旁证标记须写在来源 id 第一次出现处前 120 字内，否则 R20 读不到。
+  - 第105轮收尾：层级 A205 / B9 / C0 / D29；缺口 G1=0 / G2=3 / G3=9（G3a 3 + G3b 6）/ G4=243；check.py 0 错误，check_links.py 0 断链，round100_consist.py 0 问题。
+  - 剩余 9 条：G3a 大分水岭、冲积平原、教育机会地域差异；G3b 非洲大湖地区、笈多王朝（无解）、西北海岸、巴西高原（无解）、拉普拉塔平原（无解）、卫星遥感地表观测。
+  - 下一轮起点（第106轮）：为大分水岭、冲积平原找标题含对象词的第二来源；教育机会地域差异换角度；再追非洲大湖、西北海岸、卫星遥感地表观测。
