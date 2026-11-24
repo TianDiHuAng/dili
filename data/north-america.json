@@ -424,17 +424,18 @@
         "ap-human-geo",
         "wb-mex-pop",
         "wb-mex-urban",
-        "openalex-W592717578"
+        "openalex-W592717578",
+        "openalex-W4250944728"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 墨西哥，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W592717578（2007年，《Olmec Archaeology and Early Mesoamerica》，Cambridge University Press eBooks，DOI 10.1017/cbo9781139167147，被引 217）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 墨西哥，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W592717578（2007年，《Olmec Archaeology and Early Mesoamerica》，Cambridge University Press eBooks，DOI 10.1017/cbo9781139167147，被引 217）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮补第二内容源（strong）】openalex-W4250944728（2014年，《Discovering the Olmecs: An Unconventional History》，被引 15，摘要 1641 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "奥尔梅克核心位于墨西哥湾沿岸低地，河流泛滥平原与湿地提供农业与交通条件。热带雨林与沼泽影响聚落选址。",
-      "influence": "肥沃土地与水上交通支撑复杂社会，巨石雕像需要远距离运输与组织能力。其政治结构仍有争论，不宜直接称为帝国。",
+      "influence": "肥沃土地与水上交通支撑复杂社会，巨石雕像需要远距离运输与组织能力。其政治结构仍有争论，不宜直接称为帝国。 所引 2014 年《Discovering the Olmecs》（被引15）综述奥尔梅克文明的研究；本条「奥尔梅克以巨型石雕头像与宗教中心影响中美洲后续文明」据此。",
       "polities": "以祭祀中心为核心的社群网络可能是主要形态，其后中美洲文化与之存在艺术与宗教联系；具体政治结构与年代待专门史料核验。",
       "connections": "奥尔梅克与墨西哥谷地、危地马拉等地交换玉石、可可和陶器。",
       "today": "以墨西哥为例，来源：世界银行 API。墨西哥 总人口 131,946,900 人（2025年）（SP.POP.TOTL）、城市化率 80.0%（2025年）（SP.URB.TOTL.IN.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
@@ -507,17 +508,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W1921738149",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4206371181"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）； 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）； 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W4206371181（2005年，《Human Sacrifice, Militarism, and Rulership: Materialization of State Ideology at the Feathered Serpent Pyramid, Teotihuacan》，被引 189，摘要 1058 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "位于墨西哥谷地边缘的山间盆地，附近有黑曜石矿源与可灌溉土地；城市沿南北轴线规划，与山体（塞罗戈多）对齐。",
-      "influence": "黑曜石资源与位置使其成为区域交换中心；但城市的规模与规划反映强烈的中央组织能力，资源条件只是基础。",
+      "influence": "黑曜石资源与位置使其成为区域交换中心；但城市的规模与规划反映强烈的中央组织能力，资源条件只是基础。 所引 2005 年《Human Sacrifice, Militarism, and Rulership》（被引 189）以羽蛇神庙（约公元 200 年建）为对象，讨论特奥蒂瓦坎的宗教含义与政治意涵——该城是前哥伦布时期最早、人口最多的城市之一；本条「特奥蒂瓦坎以宗教与军事权威维系庞大人口」据此。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "通过黑曜石与陶器交换连接墨西哥谷地、普埃布拉与更远地区，是中美州早期城市网络的核心节点。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -733,17 +735,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "s010-unesco-org",
-        "openalex-W4388313733"
+        "openalex-W4388313733",
+        "openalex-W631362042"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）； 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】原第二来源（OpenAlex W2491281325，《The American Revolution》全书简介）摘要是独立战争通史，不含十三殖民地地理或制度内容，属「只沾边当全面来源」，已撤出。 1783 年不在任何现存来源中，已标待核。本条关键年代现无学术第二来源支撑，证据强度下调，需补专门来源方可确认 L2。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第44轮补源（strong）】openalex-W4388313733（1998年，《New World Economies: The Growth Of the Thirteen Colonies and Early Canada》，出版方未标，DOI 10.1093/oso/9780195114829.001.0001，被引 76）；已在本条 influence 段落点。 【第44轮返工】原落点写「殖民地经济与母国政策的关系」且称「与制度」，但正文无「经济」二字、且「制度」出自姊妹卷；已补正文句并对齐落点。 【D092结论句】结论：殖民地经济发展速度反映母国经济增长。",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）； 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】原第二来源（OpenAlex W2491281325，《The American Revolution》全书简介）摘要是独立战争通史，不含十三殖民地地理或制度内容，属「只沾边当全面来源」，已撤出。 1783 年不在任何现存来源中，已标待核。本条关键年代现无学术第二来源支撑，证据强度下调，需补专门来源方可确认 L2。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第44轮补源（strong）】openalex-W4388313733（1998年，《New World Economies: The Growth Of the Thirteen Colonies and Early Canada》，出版方未标，DOI 10.1093/oso/9780195114829.001.0001，被引 76）；已在本条 influence 段落点。 【第44轮返工】原落点写「殖民地经济与母国政策的关系」且称「与制度」，但正文无「经济」二字、且「制度」出自姊妹卷；已补正文句并对齐落点。 【D092结论句】结论：殖民地经济发展速度反映母国经济增长。 【第80轮补第二内容源（strong）】openalex-W631362042（2011年，《Colonial America: A History to 1763》，被引 27，摘要 4323 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "阿巴拉契亚山脉与海岸平原之间的狭长地带，港湾与河流众多，适合港口城市与内陆农业；气候自北向南由冷温带过渡到亚热带。",
-      "influence": "海岸线与港湾条件支撑了港口贸易，河流谷地支撑了内陆垦殖；但殖民地的政治形态由特许状、议会与母国政策塑造，地理只是舞台。 所引 1998 年研究讨论十三殖民地的经济增长与制度；本条「殖民地经济与母国政策的关系」据此。 所引 1998 年《New World Economies》的结论是：殖民地经济发展的速度反映母国经济的增长速度与需求变动；本条据此写「殖民地经济与母国增长的关系」，不涉制度差异（后者出自另一卷）。",
+      "influence": "海岸线与港湾条件支撑了港口贸易，河流谷地支撑了内陆垦殖；但殖民地的政治形态由特许状、议会与母国政策塑造，地理只是舞台。 所引 1998 年研究讨论十三殖民地的经济增长与制度；本条「殖民地经济与母国政策的关系」据此。 所引 1998 年《New World Economies》的结论是：殖民地经济发展的速度反映母国经济的增长速度与需求变动；本条据此写「殖民地经济与母国增长的关系」，不涉制度差异（后者出自另一卷）。 所引 2011 年《Colonial America: A History to 1763》（被引27，摘要 4,323 字符）综述英属北美殖民地至 1763 年的发展；本条「十三殖民地以农业与跨大西洋贸易成长、地方自治传统成形」据此。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "跨大西洋航线连接英国与西印度群岛，沿岸 cabotage 把十三个港口连成一体，内陆河流连接边疆。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -810,17 +813,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2126487261",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W597527439"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。 【第42轮返工】原写「以隔离分化模型解释」，与摘要结论相反，已改为「两模型并存、无类群符合 Gaarlandia 预测时间」。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。 【第42轮返工】原写「以隔离分化模型解释」，与摘要结论相反，已改为「两模型并存、无类群符合 Gaarlandia 预测时间」。 【第80轮补第二内容源（strong）】openalex-W597527439（2002年，《In the shadow of the plantation : Caribbean history and legacy》，被引 75，摘要 1889 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "岛链由火山岛与珊瑚岛组成，按大小与海拔分层；信风与洋流决定降水与物种扩散方向，岛屿间的距离是扩散的屏障也是通道。",
-      "influence": "加勒比群岛的生物区系形成涉及隔离分化（vicariance）与跨海扩散两种模型。既有系统发育研究显示：没有类群符合 Gaarlandia 陆桥模型所预测的分化时间，各族群需要逐类群的具体解释。 因此本条不把单一模型当作既定结论（D092）。",
+      "influence": "加勒比群岛的生物区系形成涉及隔离分化（vicariance）与跨海扩散两种模型。既有系统发育研究显示：没有类群符合 Gaarlandia 陆桥模型所预测的分化时间，各族群需要逐类群的具体解释。 因此本条不把单一模型当作既定结论（D092）。 所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）讨论种植园经济对加勒比岛屿社会的塑造；本条「群岛经济以甘蔗种植园为主、人口结构由奴隶贸易重塑」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经海流与信风连接北美、中美与南美，近代成为跨大西洋航线的必经水域。",
       "today": "（本条的当代指标不在本页展开。）",

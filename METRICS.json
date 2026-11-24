@@ -1166,6 +1166,21 @@
       "sample_rate": "—",
       "sample_audit": "审计 assess.py 本身：查出2处偏离（多值取大/空壳页未排除）并修复",
       "note": "D142：_nums取严格值+空壳页排除；A 137→135、G3 62→64"
+    },
+    {
+      "round": 80,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 7,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 7,
+      "sample_rate": "重要条目第三批12条",
+      "sample_audit": "7条登记、4条不采用、1条0候选",
+      "note": "补7条→G3 64→57；层级 A142/B87/C1/D13"
     }
   ]
 }

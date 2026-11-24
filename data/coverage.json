@@ -664,7 +664,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第34轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -755,7 +755,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第34轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -774,7 +774,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第34轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -995,7 +995,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "已复核(第27轮·无实证)",
-      "source_count": 7,
+      "source_count": 8,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -1015,7 +1015,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第34轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1069,7 +1069,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第44轮复核)-内容源1条",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1087,7 +1087,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第35轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 79,
-  "round_processed": 2,
+  "round": 80,
+  "round_processed": 7,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

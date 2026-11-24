@@ -1,0 +1,533 @@
+{
+  "马其顿与亚历山大": {
+    "cand": [
+      {
+        "oid": "W4244368576",
+        "title": "Alexander the Great and His Empire: A Short Introduction",
+        "year": 2010,
+        "cited": 107,
+        "abs_len": 1799,
+        "slots": [
+          "macedon",
+          "alexander",
+          "empire",
+          "conquest",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.1515/9781400834860"
+      },
+      {
+        "oid": "W4250281840",
+        "title": "Conquest and Empire: The Reign of Alexander the Great",
+        "year": 1993,
+        "cited": 37,
+        "abs_len": 551,
+        "slots": [
+          "macedon",
+          "alexander",
+          "empire",
+          "conquest",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.1017/cbo9780511518539"
+      },
+      {
+        "oid": "W3206482929",
+        "title": "The Conquest by Alexander",
+        "year": 2021,
+        "cited": 4,
+        "abs_len": 967,
+        "slots": [
+          "alexander",
+          "empire",
+          "conquest",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.1002/9781119071860.ch33"
+      }
+    ],
+    "n": 14
+  },
+  "莱茵河": {
+    "cand": [
+      {
+        "oid": "W2041834890",
+        "title": "The Rhine: An Eco-Biography, 1815-2000 (review)",
+        "year": 2005,
+        "cited": 1,
+        "abs_len": 4440,
+        "slots": [
+          "rhine",
+          "river",
+          "hydrolog",
+          "navigat",
+          "history"
+        ],
+        "doi": "https://doi.org/10.1353/tech.2005.0070"
+      },
+      {
+        "oid": "W3020954814",
+        "title": "River Rhine between Mainz and Bingen − Morphodynamic analysis of a navigational bottleneck",
+        "year": 2016,
+        "cited": 0,
+        "abs_len": 3744,
+        "slots": [
+          "rhine",
+          "river",
+          "hydrolog",
+          "navigat",
+          "history"
+        ],
+        "doi": "https://doi.org/10.1201/9781315623207-222"
+      },
+      {
+        "oid": "W2913255160",
+        "title": "The Central Commission for the Navigation of the Rhine: A First Step towards European Economic Security?",
+        "year": 2019,
+        "cited": 25,
+        "abs_len": 822,
+        "slots": [
+          "rhine",
+          "river",
+          "navigat",
+          "history"
+        ],
+        "doi": "https://doi.org/10.1017/9781108597050.005"
+      }
+    ],
+    "n": 23
+  },
+  "法兰克王国": {
+    "cand": [
+      {
+        "oid": "W2115323786",
+        "title": "Frankish military duty and the fate of Roman taxation",
+        "year": 2008,
+        "cited": 28,
+        "abs_len": 982,
+        "slots": [
+          "frankish",
+          "carolingian",
+          "kingdom",
+          "state",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.1111/j.1468-0254.2008.00226.x"
+      },
+      {
+        "oid": "W2318463562",
+        "title": "Unity and Diversity in the Carolingian Church",
+        "year": 1996,
+        "cited": 96,
+        "abs_len": 844,
+        "slots": [
+          "frankish",
+          "carolingian",
+          "kingdom",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.1017/s0424208400015333"
+      },
+      {
+        "oid": "W1551867901",
+        "title": "Shadow Kingdom: Lotharingia and the Frankish World, C.850–C.1050",
+        "year": 2013,
+        "cited": 44,
+        "abs_len": 1299,
+        "slots": [
+          "frankish",
+          "carolingian",
+          "kingdom",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1111/hic3.12049"
+      }
+    ],
+    "n": 17
+  },
+  "十字军东征": {
+    "cand": [
+      {
+        "oid": "W4390991297",
+        "title": "The Military Orders and Women of the Nobility in the Crusader States",
+        "year": 2023,
+        "cited": 2,
+        "abs_len": 1407,
+        "slots": [
+          "crusad",
+          "military order",
+          "state",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.12775/om.2023.001"
+      },
+      {
+        "oid": "W1855290494",
+        "title": "“The State of These Countries… Is Truly More Astonishing than Our Story Can Fully Convey”: The Crusader States in the Late-Twelfth Century from the Perspective of Three Pilgrims",
+        "year": 2015,
+        "cited": 0,
+        "abs_len": 1181,
+        "slots": [
+          "crusad",
+          "state",
+          "administrat",
+          "levant"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W563340779",
+        "title": "The Crusades and the military orders : expanding the frontiers of Medieval Latin Christianity",
+        "year": 2001,
+        "cited": 71,
+        "abs_len": 439,
+        "slots": [
+          "crusad",
+          "military order",
+          "state"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 23
+  },
+  "威尼斯": {
+    "cand": [
+      {
+        "oid": "W656030617",
+        "title": "Negotiating Transcultural Relations in the Early Modern Mediterranean: Ottoman-Venetian Encounters",
+        "year": 2014,
+        "cited": 45,
+        "abs_len": 1452,
+        "slots": [
+          "venice",
+          "venetian",
+          "trade",
+          "institution",
+          "republic"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W2025345665",
+        "title": "The Venetian Empire: A Sea Voyage",
+        "year": 1982,
+        "cited": 22,
+        "abs_len": 907,
+        "slots": [
+          "venice",
+          "venetian",
+          "maritime",
+          "trade",
+          "republic"
+        ],
+        "doi": "https://doi.org/10.2307/634289"
+      },
+      {
+        "oid": "W1782677187",
+        "title": "Maritime communities in Late Renaissance Venice: the Arsenalotti and the Greeks, 1575-1600",
+        "year": 2008,
+        "cited": 2,
+        "abs_len": 2493,
+        "slots": [
+          "venice",
+          "venetian",
+          "maritime",
+          "trade",
+          "republic"
+        ],
+        "doi": "https://doi.org/10.82444/warw.33481057"
+      }
+    ],
+    "n": 24
+  },
+  "奥尔梅克": {
+    "cand": [
+      {
+        "oid": "W4250944728",
+        "title": "Discovering the Olmecs: An Unconventional History",
+        "year": 2014,
+        "cited": 15,
+        "abs_len": 1641,
+        "slots": [
+          "olmec",
+          "civiliz",
+          "society",
+          "state",
+          "mesoamerica"
+        ],
+        "doi": "https://doi.org/10.7560/760813"
+      },
+      {
+        "oid": "W4416434004",
+        "title": "The Oxford Handbook of the Olmecs",
+        "year": 2025,
+        "cited": 2,
+        "abs_len": 958,
+        "slots": [
+          "olmec",
+          "civiliz",
+          "society",
+          "state",
+          "mesoamerica"
+        ],
+        "doi": "https://doi.org/10.1093/oxfordhb/9780190900304.001.0001"
+      },
+      {
+        "oid": "W7161284193",
+        "title": "Colossal Olmec Head",
+        "year": 2026,
+        "cited": 0,
+        "abs_len": 4153,
+        "slots": [
+          "olmec",
+          "civiliz",
+          "society",
+          "state",
+          "mesoamerica"
+        ],
+        "doi": "https://doi.org/10.5281/zenodo.20193670"
+      }
+    ],
+    "n": 19
+  },
+  "特奥蒂瓦坎": {
+    "cand": [
+      {
+        "oid": "W4206371181",
+        "title": "Human Sacrifice, Militarism, and Rulership: Materialization of State Ideology at the Feathered Serpent Pyramid, Teotihuacan",
+        "year": 2005,
+        "cited": 189,
+        "abs_len": 1058,
+        "slots": [
+          "teotihuacan",
+          "state",
+          "society",
+          "urban"
+        ],
+        "doi": "https://doi.org/10.1017/cbo9780511489563"
+      },
+      {
+        "oid": "W2510342101",
+        "title": "The Zapotec Presence at Teotihuacan, Mexico: Political Ethnicity and Domestic Identity",
+        "year": 2007,
+        "cited": 24,
+        "abs_len": 2390,
+        "slots": [
+          "teotihuacan",
+          "state",
+          "society",
+          "urban"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W2111838658",
+        "title": "Residential Compound Organization and the Evolution of the Teotihuacan State",
+        "year": 1991,
+        "cited": 13,
+        "abs_len": 970,
+        "slots": [
+          "teotihuacan",
+          "state",
+          "society",
+          "urban"
+        ],
+        "doi": "https://doi.org/10.1017/s0956536100000420"
+      }
+    ],
+    "n": 18
+  },
+  "十三殖民地": {
+    "cand": [
+      {
+        "oid": "W631362042",
+        "title": "Colonial America: A History to 1763",
+        "year": 2011,
+        "cited": 27,
+        "abs_len": 4323,
+        "slots": [
+          "colonies",
+          "colonial",
+          "econom",
+          "society",
+          "british"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W4388313733",
+        "title": "New World Economies: The Growth Of the Thirteen Colonies and Early Canada",
+        "year": 1998,
+        "cited": 76,
+        "abs_len": 912,
+        "slots": [
+          "colonies",
+          "colonial",
+          "econom"
+        ],
+        "doi": "https://doi.org/10.1093/oso/9780195114829.001.0001"
+      },
+      {
+        "oid": "W3021317099",
+        "title": "New World Economies: The Growth of the Thirteen Colonies and Early Canada",
+        "year": 1999,
+        "cited": 20,
+        "abs_len": 910,
+        "slots": [
+          "colonies",
+          "colonial",
+          "econom"
+        ],
+        "doi": "https://doi.org/10.2307/2674245"
+      }
+    ],
+    "n": 5
+  },
+  "加勒比海群岛": {
+    "cand": [
+      {
+        "oid": "W597527439",
+        "title": "In the shadow of the plantation : Caribbean history and legacy",
+        "year": 2002,
+        "cited": 75,
+        "abs_len": 1889,
+        "slots": [
+          "caribbean",
+          "history",
+          "plantation",
+          "society"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W2483914489",
+        "title": "The Formation of Caribbean Plantation Society, 1689–1748",
+        "year": 1998,
+        "cited": 17,
+        "abs_len": 996,
+        "slots": [
+          "caribbean",
+          "island",
+          "plantation",
+          "society"
+        ],
+        "doi": "https://doi.org/10.1093/acprof:oso/9780198205630.003.0018"
+      },
+      {
+        "oid": "W1486636421",
+        "title": "Islands, Forests, and Gardens in the Caribbean: Conservation and Conflict in Environmental History",
+        "year": 2006,
+        "cited": 6,
+        "abs_len": 1654,
+        "slots": [
+          "caribbean",
+          "island",
+          "history",
+          "plantation"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 20
+  },
+  "巴西高原": {
+    "cand": [
+      {
+        "oid": "W3134910011",
+        "title": "GIS-Based Relief Compartment Mapping of Fluvio-Karst Landscape in Central Brazilian Highlands",
+        "year": 2020,
+        "cited": 7,
+        "abs_len": 1308,
+        "slots": [
+          "brazil",
+          "highland",
+          "geolog",
+          "geomorph"
+        ],
+        "doi": "https://doi.org/10.46660/int.j.econ.environ.geol..v11i4.869"
+      },
+      {
+        "oid": "W3151231180",
+        "title": "Andic properties in soils with histic horizon “O” in the highlands of Southern Brazil",
+        "year": 2021,
+        "cited": 6,
+        "abs_len": 2513,
+        "slots": [
+          "brazil",
+          "highland",
+          "geolog",
+          "geomorph"
+        ],
+        "doi": "https://doi.org/10.36783/18069657rbcs20200152"
+      },
+      {
+        "oid": "W3138342216",
+        "title": "An introduction and GIS-based relief compartment mapping of fluvio-karst landscape in central Brazilian highlands",
+        "year": 2020,
+        "cited": 2,
+        "abs_len": 1167,
+        "slots": [
+          "brazil",
+          "highland",
+          "geolog",
+          "geomorph"
+        ],
+        "doi": "https://doi.org/10.1002/essoar.10503441.1"
+      }
+    ],
+    "n": 20
+  },
+  "拉普拉塔平原": {
+    "cand": [
+      {
+        "oid": "W4294251160",
+        "title": "Sustainable intensification of agriculture and economy in the Pampas grasslands under climate change",
+        "year": 2022,
+        "cited": 3,
+        "abs_len": 1337,
+        "slots": [
+          "pampa",
+          "plata",
+          "grassland",
+          "agricultur",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.4337/9781800880740.00016"
+      },
+      {
+        "oid": "W2066866333",
+        "title": "Agricultural land-use, avian nesting and rarity in the Pampas of central Argentina",
+        "year": 2012,
+        "cited": 46,
+        "abs_len": 1347,
+        "slots": [
+          "pampa",
+          "grassland",
+          "agricultur",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.1071/mu11049"
+      },
+      {
+        "oid": "W1915018647",
+        "title": "IMPACT OF LAND SURFACE VEGETATION CHANGE OVER THE LA PLATA BASIN ON THE REGIONAL CLIMATIC ENVIRONMENT: A STUDY USING CONVENTIONAL LAND-COVER/LAND-USE AND NEWLY DEVELOPED ECOSYSTEM FUNCTIONAL TYPES",
+        "year": 2010,
+        "cited": 10,
+        "abs_len": 3734,
+        "slots": [
+          "plata",
+          "grassland",
+          "agricultur",
+          "environment"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 25
+  },
+  "大分水岭": {
+    "cand": [],
+    "n": 0
+  }
+}

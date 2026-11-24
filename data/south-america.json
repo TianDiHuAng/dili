@@ -112,12 +112,12 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1982587238（2007年，《The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition》，DOI https://doi.org/10.1179/174963107x226390）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1982587238（2007年，《The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition》，DOI https://doi.org/10.1179/174963107x226390）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）」表述并注明学界有不同版本。 【第80轮检索记录】过筛候选《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020, 被引7) 只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部区域），不支撑高原的地质与地貌总体。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "高原海拔多在500–1000米，边缘陡降为崖壁；气候自热带向亚热带过渡，降水与干季长度决定植被类型。",
       "influence": "所引 2007 年研究讨论 Araucaria 森林在巴西南部的扩张，显示植被分布随气候与人类活动的千年尺度变化而移动，不是固定不变的景观。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -154,13 +154,13 @@
         "openalex-W7150774676"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮检索记录】过筛候选《Sustainable intensification of agriculture and economy》(2022, 被引3) 摘要以「任何人类活动都有影响」泛论开场，未见针对潘帕斯的具体结论。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "拉普拉塔平原包括潘帕斯草原，地势平坦、土壤肥沃，温带气候适宜牧草与谷物。巴拉那河与乌拉圭河构成水系骨架。",
       "influence": "黑土与温和气候有利于农牧业，铁路与港口把内陆产品运往国际市场。出口繁荣依赖全球市场与制度安排，不能只由土壤解释。",
       "polities": "土地制度与港口城市深刻影响区域政治经济；具体政策、年代与政权变动待专门史料核验。",

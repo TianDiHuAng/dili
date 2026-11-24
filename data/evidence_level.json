@@ -866,9 +866,9 @@
       "tier": "核心"
     },
     "马其顿与亚历山大": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -986,9 +986,9 @@
       "tier": "重要"
     },
     "莱茵河": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1010,9 +1010,9 @@
       "tier": "重要"
     },
     "法兰克王国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1298,9 +1298,9 @@
       "tier": "核心"
     },
     "奥尔梅克": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 2,
@@ -1322,9 +1322,9 @@
       "tier": "核心"
     },
     "特奥蒂瓦坎": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1394,9 +1394,9 @@
       "tier": "补充"
     },
     "十三殖民地": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1418,9 +1418,9 @@
       "tier": "重要"
     },
     "加勒比海群岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 135,
-    "B": 94,
+    "A": 142,
+    "B": 87,
     "C": 1,
     "D": 13
   },
