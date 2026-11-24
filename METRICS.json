@@ -1361,6 +1361,21 @@
       "sample_rate": "A级全量复核africa+asia（52条）",
       "sample_audit": "发现AAG首页被12条当强来源、CBD首页4条；另修2处侧面",
       "note": "D149首页规则：A 183→171、D 14→19、G3 46→53"
+    },
+    {
+      "round": 93,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 42,
+      "fixes": 3,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "A级全量复核europe+north-america（42条）",
+      "sample_audit": "查出同域名多页12条（D150）、层级与内容源口径不一致（D151）、Rhine书评",
+      "note": "D150/D151：A 171→168、D 19→22、G3 53→53"
     }
   ]
 }

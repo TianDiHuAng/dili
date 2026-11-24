@@ -817,3 +817,14 @@
 - 影响：A 级 183→171、D 14→19、G3 46→53。
 - 边界：专题页（如 `Earth Observatory - NASA Science`、`NOAA's National Ocean Service`、`Urbanization | OWID`、`AQUASTAT — Countries and Basins`）**不受影响**，它们不是首页。
 - 成本：判定只看标题首词是否为 home/homepage/index/welcome。
+
+## D150 — 同一域名下多页最多计 1 个内容源
+- 决定：`content_count()` 统计时按**域名去重**——同一域名下的多个页面最多计 1 个内容源。`openalex-` 与 `wikidata-` 等接口类来源除外（它们 URL 同为 API 端点，但代表不同论文）。
+- 理由：第93轮 A 级全量复核（europe+north-america 42 条）发现 12 条用同一网站的多个页面互证：古希腊城邦用 livius.org 的 Polis+Athens+Greece **三页**、罗马共和国用 Roman Republic+Italy 两页、湄公河三角洲/亚马逊河用 fao.org 两页、板块构造用 usgs.gov 两页等。**同一出版者的两个页面不是独立来源**，与 D135「别名页」同源，只是维度从「同一页被多处引用」变为「同一站的多页」。
+- 影响：G3 53→56（3 条从「有 2 源」变「只有 1 源」）。
+
+## D151 — level_of 的 A 级判定须与 content_count 同口径
+- 决定：`level_of()` 判 A 的条件改为 `count_entry()["strong"] >= 2` **且** `content_count(entry) >= 2`。不得只看 strong 计数。
+- 理由：D150 加入域名去重后，`content_count` 变了而 `level_of` 仍用 `c["strong"]>=2`——**一个看域名、一个不看**。古希腊城邦 4 个 strong（3 个同属 livius.org）因此仍算 A 级，而其独立内容源只有 2。这是 D146「两套逻辑」的同一形态换了维度。
+- 影响：A 171→168、D 19→22。
+- 通用教训：任何新增的去重/降级规则，必须同时检查 `strength`/`content_count`/`level_of` 三处口径。

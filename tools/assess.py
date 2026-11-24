@@ -16,6 +16,14 @@ SHELL_MARK = "空壳页判定"
 HOME_TITLES = ("home", "home -", "home |", "homepage", "index", "welcome")
 
 
+def src_domain(sid, src):
+    """来源所属域名；openalex-/wikidata- 等数据类来源返回 None（不同论文视为独立）。"""
+    if not sid or sid.startswith("openalex-") or sid.startswith("wikidata-"):
+        return None
+    m = re.match(r"https?://([^/]+)", (src or {}).get("url") or "")
+    return m.group(1).lower() if m else None
+
+
 def is_homepage(src):
     """标题形如「Home - 某某」/「Home | 某某」者判为机构首页。"""
     ti = ((src or {}).get("title") or "").strip().lower()
@@ -142,12 +150,20 @@ def content_count(entry, sources):
     书评、空壳页的来源**一律不计**。此前直接用 has_content()，而 has_content 不认 side 标记，
     导致「已降旁证」的来源仍被算作内容源，虚增内容源个数、虚低 G3。"""
     n = 0
+    seen_domains = set()
     for sid in entry.get("sources", []):
-        g = strength(sid, sources.get(sid) or {}, entry)
+        src = sources.get(sid) or {}
+        g = strength(sid, src, entry)
         if g != "strong":
             continue
-        if not has_content(sid, sources.get(sid) or {}, entry):
+        if not has_content(sid, src, entry):
             continue
+        # D150：同一域名下多个页面最多计 1 个内容源（互证须来自不同出版者）
+        dom = src_domain(sid, src)
+        if dom:
+            if dom in seen_domains:
+                continue
+            seen_domains.add(dom)
         n += 1
     return n
 
@@ -163,7 +179,9 @@ def level_of(entry, sources):
     同时条目带数据端点——判为 D（指标解读类），因为其正文是指标解释与空间差异概述，
     机构长文即主体，不要求第二篇学术文献。"""
     c = count_entry(entry, sources)
-    if c["strong"] >= 2:
+    # D151：A 级须有 **≥2 个独立的**内容来源（同一域名多页只算 1，见 D150）。
+    # 此前用 c["strong"]>=2，与 content_count 的去重口径不一致（D146 的同类问题）。
+    if c["strong"] >= 2 and content_count(entry, sources) >= 2:
         return "A"
     if c["strong"] == 1:
         sids = _strong_sids(entry, sources)

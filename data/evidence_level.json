@@ -2390,7 +2390,7 @@
       "tier": "补充"
     },
     "肉奶生产与土地": {
-      "level": "A",
+      "level": "D",
       "counts": {
         "strong": 2,
         "weak": 0,
@@ -2510,7 +2510,7 @@
       "tier": "补充"
     },
     "土壤资源": {
-      "level": "A",
+      "level": "D",
       "counts": {
         "strong": 2,
         "weak": 0,
@@ -2582,7 +2582,7 @@
       "tier": "补充"
     },
     "健康地理数据": {
-      "level": "A",
+      "level": "D",
       "counts": {
         "strong": 2,
         "weak": 0,
@@ -2919,10 +2919,10 @@
     }
   },
   "summary": {
-    "A": 171,
+    "A": 168,
     "B": 53,
     "C": 0,
-    "D": 19
+    "D": 22
   },
   "definition": {
     "A": "≥2 强来源",
