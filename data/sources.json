@@ -9502,6 +9502,84 @@
       "verified": true,
       "page_title": "Heritage archaeology in Australia : analysing the entangled cultural constructions of Aboriginal heritage by Aboriginal people, antiquarians and archaeologists",
       "note": "OpenAlex 作品 W1578999336（DOI 10.14264/uql.2020.458）；2000年；被引 0。HTTP 200，12641 字节。摘要长度 1726 字符；主题槽命中 ['aboriginal', 'archaeolog', 'society', 'land']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W1984018962",
+      "title": "OpenAlex W1984018962 — A History of the Maghrib in the Islamic Period",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1987,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W1984018962",
+      "url2": "https://doi.org/10.1017/cbo9780511608100",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "A History of the Maghrib in the Islamic Period",
+      "note": "OpenAlex 作品 W1984018962（DOI 10.1017/cbo9780511608100）；1987年；被引 400。HTTP 200，13382 字节。摘要长度 1108 字符；主题槽命中 ['conquest', 'maghrib', 'north africa', 'islamic', 'arab']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2991426051",
+      "title": "OpenAlex W2991426051 — The Fall of the Songhai Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2018,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2991426051",
+      "url2": "https://doi.org/10.4324/9781351033343-15",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Fall of the Songhai Empire",
+      "note": "OpenAlex 作品 W2991426051（DOI 10.4324/9781351033343-15）；2018年；被引 0。HTTP 200，8997 字节。摘要长度 937 字符；主题槽命中 ['songhai', 'empire', 'history']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4243201812",
+      "title": "OpenAlex W4243201812 — Sasanian Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2016,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4243201812",
+      "url2": "https://doi.org/10.1002/9781118455074.wbeoe224",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Sasanian Empire",
+      "note": "OpenAlex 作品 W4243201812（DOI 10.1002/9781118455074.wbeoe224）；2016年；被引 3。HTTP 200，12724 字节。摘要长度 800 字符；主题槽命中 ['sasanian', 'empire', 'history', 'politic', 'econom']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W3097983290",
+      "title": "OpenAlex W3097983290 — Understanding Minoan In-House Relationships on Late Bronze Age Crete",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2017,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3097983290",
+      "url2": "https://doi.org/10.1093/oso/9780198793625.003.0011",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Understanding Minoan In-House Relationships on Late Bronze Age Crete",
+      "note": "OpenAlex 作品 W3097983290（DOI 10.1093/oso/9780198793625.003.0011）；2017年；被引 4。HTTP 200，14408 字节。摘要长度 2001 字符；主题槽命中 ['minoan', 'crete', 'econom', 'society']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4313222955",
+      "title": "OpenAlex W4313222955 — Mongol invasion of Transoxiana 1219-1221 AD",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2022,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4313222955",
+      "url2": "https://doi.org/10.24042/jhcc.v3i1.11415",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Mongol invasion of Transoxiana 1219-1221 AD",
+      "note": "OpenAlex 作品 W4313222955（DOI 10.24042/jhcc.v3i1.11415）；2022年；被引 3。HTTP 200，14554 字节。摘要长度 1310 字符；主题槽命中 ['transoxiana', 'history']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W3012443801",
+      "title": "OpenAlex W3012443801 — The Fifth Crusade in Context: The Crusading Movement in the Early Thirteenth Century",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2016,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3012443801",
+      "url2": "https://doi.org/10.4324/9781315574059",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Fifth Crusade in Context: The Crusading Movement in the Early Thirteenth Century",
+      "note": "OpenAlex 作品 W3012443801（DOI 10.4324/9781315574059）；2016年；被引 8。HTTP 200，9651 字节。摘要长度 1247 字符；主题槽命中 ['crusad', 'history', 'movement']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

@@ -1,0 +1,355 @@
+{
+  "results": {
+    "阿拉伯征服北非": {
+      "cand": [
+        {
+          "oid": "W1984018962",
+          "title": "A History of the Maghrib in the Islamic Period",
+          "year": 1987,
+          "cited": 400,
+          "abs_len": 1108,
+          "slots": [
+            "conquest",
+            "maghrib",
+            "north africa",
+            "islamic",
+            "arab"
+          ],
+          "doi": "10.1017/cbo9780511608100"
+        },
+        {
+          "oid": "W4387866824",
+          "title": "The Bible in Christian North Africa: Part II: Consolidation of the Canon to the Arab Conquest (Ca. 393 to 650 CE)",
+          "year": 2023,
+          "cited": 1,
+          "abs_len": 875,
+          "slots": [
+            "conquest",
+            "north africa",
+            "arab"
+          ],
+          "doi": "10.1515/9783110492613"
+        },
+        {
+          "oid": "W4232021897",
+          "title": "The Mongols and the Islamic World: From Conquest to Conversion",
+          "year": 2017,
+          "cited": 252,
+          "abs_len": 1045,
+          "slots": [
+            "conquest",
+            "islamic"
+          ],
+          "doi": "10.12987/yale/9780300125337.001.0001"
+        }
+      ],
+      "n": 4
+    },
+    "桑海帝国": {
+      "cand": [
+        {
+          "oid": "W2991426051",
+          "title": "The Fall of the Songhai Empire",
+          "year": 2018,
+          "cited": 0,
+          "abs_len": 937,
+          "slots": [
+            "songhai",
+            "empire",
+            "history"
+          ],
+          "doi": "10.4324/9781351033343-15"
+        },
+        {
+          "oid": "W2991586769",
+          "title": "The Rise of the Songhai Empire",
+          "year": 2018,
+          "cited": 0,
+          "abs_len": 865,
+          "slots": [
+            "songhai",
+            "empire"
+          ],
+          "doi": "10.4324/9781351033343-8"
+        }
+      ],
+      "n": 2
+    },
+    "萨珊波斯": {
+      "cand": [
+        {
+          "oid": "W4243201812",
+          "title": "Sasanian Empire",
+          "year": 2016,
+          "cited": 3,
+          "abs_len": 800,
+          "slots": [
+            "sasanian",
+            "empire",
+            "history",
+            "politic",
+            "econom"
+          ],
+          "doi": "10.1002/9781118455074.wbeoe224"
+        },
+        {
+          "oid": "W4205449097",
+          "title": "The Parthian and Sasanian Empires",
+          "year": 2021,
+          "cited": 34,
+          "abs_len": 1045,
+          "slots": [
+            "sasanian",
+            "empire",
+            "politic",
+            "econom"
+          ],
+          "doi": "10.1093/oso/9780197532768.003.0010"
+        },
+        {
+          "oid": "W2914551953",
+          "title": "12. The Arabian Frontier: A Keystone of the Sasanian Empire",
+          "year": 2017,
+          "cited": 13,
+          "abs_len": 713,
+          "slots": [
+            "sasanian",
+            "empire",
+            "history",
+            "econom"
+          ],
+          "doi": "10.3366/edinburgh/9781474401012.003.0012"
+        }
+      ],
+      "n": 13
+    },
+    "吠陀时代": {
+      "cand": [
+        {
+          "oid": "W4363676629",
+          "title": "Pre-Historic Intra-Continental Africa-India Proximity Series on Vedic-Period-Earth in Short Communication Style’s Lovely Wide Abstracts: An Archimedes’s Method Applied Version to History",
+          "year": 2023,
+          "cited": 2,
+          "abs_len": 1679,
+          "slots": [
+            "vedic",
+            "history",
+            "period"
+          ],
+          "doi": "10.55248/gengpi.2023.4.4.35012"
+        },
+        {
+          "oid": "W4380083241",
+          "title": "Vedic Period, Political History",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1239,
+          "slots": [
+            "vedic",
+            "history",
+            "period"
+          ],
+          "doi": "10.1002/9781119399919.eahaa00547"
+        },
+        {
+          "oid": "W4385607892",
+          "title": "Globalization of Mahatma Gandhi’s Indian Soul of African Spirit and Afro-Indic Heart on Vedic-Period-Earth in Short Communication Style’s Lovely Wide Abstracts: An Archimedes’ Method Applied Version to Gandhian History",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1701,
+          "slots": [
+            "vedic",
+            "history",
+            "period"
+          ],
+          "doi": "10.55248/gengpi.4.723.49596"
+        }
+      ],
+      "n": 12
+    },
+    "笈多王朝": {
+      "cand": [
+        {
+          "oid": "W4400658485",
+          "title": "Treasures of the Gupta Empire",
+          "year": 2024,
+          "cited": 3,
+          "abs_len": 1356,
+          "slots": [
+            "gupta",
+            "empire",
+            "history"
+          ],
+          "doi": "10.2307/jj.17610828"
+        },
+        {
+          "oid": "W4406076209",
+          "title": "The Gupta Empire ( ad 400–500)",
+          "year": 2024,
+          "cited": 1,
+          "abs_len": 1629,
+          "slots": [
+            "gupta",
+            "empire"
+          ],
+          "doi": "10.1017/9781108788090.010"
+        }
+      ],
+      "n": 2
+    },
+    "明清": {
+      "cand": [
+        {
+          "oid": "W2949514603",
+          "title": "Editing, Circulating, and Reading Huang Zhong’s Hai yu 海語: A Case Study in the History of Reading and the Circulation of Knowledge in Ming and Qing China",
+          "year": 2019,
+          "cited": 6,
+          "abs_len": 927,
+          "slots": [
+            "ming",
+            "qing",
+            "history"
+          ],
+          "doi": "10.1163/24684791-12340031"
+        },
+        {
+          "oid": "W2000073116",
+          "title": "Alarming Crises/Enticing Possibilities: Political and Cultural Changes in Late Nineteenth-Century China",
+          "year": 2008,
+          "cited": 5,
+          "abs_len": 4639,
+          "slots": [
+            "ming",
+            "politic"
+          ],
+          "doi": "10.1353/late.0.0005"
+        },
+        {
+          "oid": "W4281400673",
+          "title": "Yuan–Ming–Qing Dynasties",
+          "year": 2022,
+          "cited": 0,
+          "abs_len": 934,
+          "slots": [
+            "ming",
+            "qing"
+          ],
+          "doi": "10.4324/9781003206279-7"
+        }
+      ],
+      "n": 4
+    },
+    "马来群岛": {
+      "cand": [],
+      "n": 0
+    },
+    "河中地区": {
+      "cand": [
+        {
+          "oid": "W4313222955",
+          "title": "Mongol invasion of Transoxiana 1219-1221 AD",
+          "year": 2022,
+          "cited": 3,
+          "abs_len": 1310,
+          "slots": [
+            "transoxiana",
+            "history"
+          ],
+          "doi": "10.24042/jhcc.v3i1.11415"
+        },
+        {
+          "oid": "W3095607000",
+          "title": "Openwork in Early Islamic Metalwork from Khorasan and Transoxiana",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 8107,
+          "slots": [
+            "transoxiana",
+            "history"
+          ],
+          "doi": "10.20378/irb-48855"
+        },
+        {
+          "oid": "W4392401293",
+          "title": "Nomadic turkic tribes and their role in political history of Transoxiana in XII century: on the example of Qarluks",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 1341,
+          "slots": [
+            "transoxiana",
+            "history"
+          ],
+          "doi": "10.31857/s086919080029098-4"
+        }
+      ],
+      "n": 3
+    },
+    "克里特文明": {
+      "cand": [
+        {
+          "oid": "W3097983290",
+          "title": "Understanding Minoan In-House Relationships on Late Bronze Age Crete",
+          "year": 2017,
+          "cited": 4,
+          "abs_len": 2001,
+          "slots": [
+            "minoan",
+            "crete",
+            "econom",
+            "society"
+          ],
+          "doi": "10.1093/oso/9780198793625.003.0011"
+        },
+        {
+          "oid": "W1964651732",
+          "title": "Jumping to Conclusions: Bull-Leaping in Minoan Crete",
+          "year": 2013,
+          "cited": 23,
+          "abs_len": 1158,
+          "slots": [
+            "minoan",
+            "crete",
+            "history"
+          ],
+          "doi": "10.1163/15685306-12341302"
+        },
+        {
+          "oid": "W576397603",
+          "title": "Minoan Glyptic: Typology, Deposits and Iconography: From the Early Minoan period to the Late Minoan IB destruction in Crete",
+          "year": 2005,
+          "cited": 10,
+          "abs_len": 725,
+          "slots": [
+            "minoan",
+            "crete",
+            "econom"
+          ],
+          "doi": "10.30861/9781841717258"
+        }
+      ],
+      "n": 7
+    },
+    "十字军东征": {
+      "cand": [
+        {
+          "oid": "W3012443801",
+          "title": "The Fifth Crusade in Context: The Crusading Movement in the Early Thirteenth Century",
+          "year": 2016,
+          "cited": 8,
+          "abs_len": 1247,
+          "slots": [
+            "crusad",
+            "history",
+            "movement"
+          ],
+          "doi": "10.4324/9781315574059"
+        }
+      ],
+      "n": 1
+    }
+  },
+  "http": {
+    "ok": 401,
+    "fail": 3
+  }
+}

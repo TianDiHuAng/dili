@@ -194,9 +194,9 @@
       "tier": "重要"
     },
     "阿拉伯征服北非": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -242,9 +242,9 @@
       "tier": "核心"
     },
     "桑海帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -386,9 +386,9 @@
       "tier": "重要"
     },
     "萨珊波斯": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -686,9 +686,9 @@
       "tier": "补充"
     },
     "河中地区": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -830,9 +830,9 @@
       "tier": "核心"
     },
     "克里特文明": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 2,
@@ -1034,9 +1034,9 @@
       "tier": "补充"
     },
     "十字军东征": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 174,
-    "B": 56,
+    "A": 180,
+    "B": 50,
     "C": 0,
     "D": 13
   },

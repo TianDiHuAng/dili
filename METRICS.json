@@ -1256,6 +1256,21 @@
       "sample_rate": "补充9条+澳原住民+隋唐",
       "sample_audit": "10/11命中、0%失败；9条登记",
       "note": "里程碑：G1清零、C级清零、核心G3b清零；G3 33→26、A 166→174；G3b补充仅2"
+    },
+    {
+      "round": 86,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 10,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "重要G3b前10条（综述性检索词）",
+      "sample_audit": "9/10命中、1%失败；6条登记",
+      "note": "改用综述词（history/state formation）→G3 26→20；重要G3b 20→14；A180"
     }
   ]
 }
