@@ -5,6 +5,7 @@ ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA=os.path.join(ROOT,"data");TODAY="2026-11-24"
 UNITS=["africa","asia","europe","north-america","south-america","oceania","antarctica","global-themes"]
 docs={u:json.load(open(os.path.join(DATA,u+".json"),encoding="utf-8")) for u in UNITS}
+S={s["id"]:s for s in json.load(open(os.path.join(DATA,"sources.json"),encoding="utf-8"))["sources"]}
 T={e["title"]:e for d in docs.values() for e in d["entries"]}
 S={s["id"]:s for s in json.load(open(os.path.join(DATA,"sources.json"),encoding="utf-8"))["sources"]}
 
@@ -49,17 +50,32 @@ for t in NOFIX:
         gaps.append({"entry":t,"gap":"主来源（检索确认无解）","detail":"见 limits.html"})
 # 3 内容源仅 1 个者
 MIN=800
+ALIAS_EXCL = ("britannica-regions", "wikipedia-regions", "un-m49", "ap-human-geo", "s010-unesco-org")
+
 def is_data(sid): return sid.startswith(("wb-","usgs-eq","noaa-current","ats-parties","wikidata-"))
 def hb(sid,e):
+    """D138：与层级判定统一——被引≥10 或 正文/摘要≥800，满足其一即算有正文的内容源。
+    别名页/数据端点不计（D107/D135）。"""
     if is_data(sid): return False
-    notes=[(S.get(sid) or {}).get("note") or "", e.get("pending_notes") or ""]
-    for note in notes:
-        for pat in (r"摘要长度\s*(\d+)\s*字符",r"正文字?录?\s*\*{0,2}([\d,]+)\s*字符",r"正文\s*(\d+)\s*字符",r"摘要\s*(\d+)\s*字符"):
-            m=re.search(pat,note)
-            if m: return int(m.group(1).replace(",",""))>=MIN
-        m=re.search(r"(\d{3,7})\s*字节",note)
-        if m: return int(m.group(1))>=MIN
-    return None
+    if sid in ALIAS_EXCL: return False
+    s = S.get(sid) or {}
+    note = s.get("note") or ""
+    pn = e.get("pending_notes") or ""
+    for n in (note, pn):
+        mc = re.search(r"被引\s*(\d+)", n)
+        if mc and int(mc.group(1)) >= 10:
+            return True
+        for pat in (r"摘要长度\s*(\d+)\s*字符", r"正文节录\s*\*{0,2}([\d,]+)\s*字符",
+                    r"正文\s*\*{0,2}([\d,]+)\s*字符", r"摘要\s*(\d+)\s*字符"):
+            m = re.search(pat, n)
+            if m and int(m.group(1).replace(",", "")) >= 800:
+                return True
+        m = re.search(r"(\d{3,7})\s*字节", n)
+        if m and int(m.group(1)) >= 3000:      # 字节→字符约 3:1，3000 字节≈1000 字符
+            return True
+    return False
+
+
 one=[t for t,e in T.items() if sum(1 for s in e["sources"] if hb(s,e) is True)==1]
 out2={"round":62,"date":TODAY,
  "gap_definitions":[

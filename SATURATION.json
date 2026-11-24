@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 70,
+  "last_round": 71,
   "history": [
     {
       "round": 1,
@@ -772,9 +772,12 @@
       "dropped": 27,
       "weak_claim": 12
     },
-    "note": "第68轮修正：别名页/索引页不计强来源后，A 由虚高 213 降至真实 119，G1 由 0 升至 10",
+    "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
-    "semantic_scan": "data/semantic_scan.json"
+    "semantic_scan": "data/semantic_scan.json",
+    "ge2_content": 151,
+    "one_content": 91,
+    "zero_content": 1
   },
   "gap_model": {
     "note": "第62轮重定义：不再用模糊的「多维缺口」，改为四类可陈述、可计数的缺口",
@@ -794,7 +797,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 6,
+        "count": 91,
         "fixed_by": "补第二内容源，须过 R19/R20/R22"
       },
       {

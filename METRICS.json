@@ -1031,6 +1031,21 @@
       "sample_rate": "5条G1宽检索",
       "sample_audit": "3条对位登记（十字军29/大平原27/克里特31）；2条如实记录",
       "note": "宽检索补3条→G1 5→2；D级清零；G3 6；层级 A119/B122/C2/D0"
+    },
+    {
+      "round": 71,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "口径统一：hb 排除别名页+加入被引条件",
+      "note": "统一 hb 与层级判定口径后：≥2内容源 151（旧报238）、仅1个 91、0个 1；G3 6→91"
     }
   ]
 }
