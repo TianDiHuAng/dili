@@ -904,12 +904,12 @@
         "openalex-W4389109327"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（1271年–1368年）来自 Wikidata wikidata-q7313 的属性值；引文照录实体描述：「Mongol-led imperial dynasty of China (1271–1368)」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4389109327（2023年，「Koryŏ inlay celadon from Taicang Port of the Yuan Dynasty, C」，DOI https://doi.org/10.1186/s40494-023-01089-x）；其摘要含 Yuan、1368，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（1271年–1368年）来自 Wikidata wikidata-q7313 的属性值；引文照录实体描述：「Mongol-led imperial dynasty of China (1271–1368)」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4389109327（2023年，「Koryŏ inlay celadon from Taicang Port of the Yuan Dynasty, C」，DOI https://doi.org/10.1186/s40494-023-01089-x）；其摘要含 Yuan、1368，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Koryŏ inlay celadon from Taicang Port of the Yuan Dynasty》研究的是太仓港出土的高丽镶嵌青瓷（陶瓷贸易侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "以大都（今北京）为中枢，控制华北平原与蒙古高原的接合部；南北向的大运河与海运并用以输送南方粮赋。",
       "influence": "草原与农耕区的双重基础支撑统治，驿站与海运是关键基础设施；治理成效取决于制度与财政安排，不能仅由疆域解释。",
       "polities": "据 Wikidata 记录，1271年–1368年。属性与描述一致（1271–1368）。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
@@ -1288,13 +1288,13 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】中亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第20轮复核】中亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2621257476（2017年，「The Connection of the Genetic, Cultural and Geographic Landsca」，DOI https://doi.org/10.1038/s41598-017-03176-z）；年代以「区域地理与历史；本条引 2017 年多学科研究」表述，未编造精确年份。",
+      "pending_notes": "第16轮复核：中亚×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】中亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第20轮复核】中亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2621257476（2017年，「The Connection of the Genetic, Cultural and Geographic Landsca」，DOI https://doi.org/10.1038/s41598-017-03176-z）；年代以「区域地理与历史；本条引 2017 年多学科研究」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Connection of the Genetic, Cultural and Geographic…》讨论的是遗传、文化与地理的关联（多学科侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "两河之间的干旱区依赖河水灌溉，撒马尔罕、布哈拉等绿洲是人口与城市重心；绿洲之间的距离较长，交通节点因此具有战略价值。",
       "influence": "绿洲的分散性使政治控制依赖商路与城市联盟；河中作为东西与南北商路的交汇，长期是技术与观念的转运地，遗产与人群的连续性研究支持这一判断。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -1407,12 +1407,12 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中亚×政权更替；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第20轮复核】中亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2950039895（2015年，《The Genetic Legacy of the Expansion of Turkic-Speaking Nomads across Eurasia》，DOI https://doi.org/10.1371/journal.pgen.1005068）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「6世纪中叶至8世纪（突厥汗国；其后突厥语人群继续扩展，本条引 2015 年遗传研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第16轮复核：中亚×政权更替；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第20轮复核】中亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2950039895（2015年，《The Genetic Legacy of the Expansion of Turkic-Speaking Nomads across Eurasia》，DOI https://doi.org/10.1371/journal.pgen.1005068）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「6世纪中叶至8世纪（突厥汗国；其后突厥语人群继续扩展，本条引 2015 年遗传研究）」表述并注明学界有不同版本。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Genetic Legacy of the Expansion of Turkic-Speaking…》研究的是突厥语人群扩张的遗传遗产（遗传侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "核心在蒙古高原与阿尔泰山一带，草原与山地交错，适合牧养与冶金；向西经准噶尔与中亚绿洲带通往波斯与黑海草原。",
       "influence": "所引 2015 年遗传研究显示突厥语人群的扩展伴随基因混合而非单纯替换，说明语言扩散与人群迁移是两件相互关联但不重合的过程。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",

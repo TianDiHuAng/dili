@@ -112,12 +112,12 @@
         "openalex-W58011430"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。",
+      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《A mid-Cretaceous microfossil assemblage…》研究的是白垩纪微体化石组合（古生物侧面）；《Chlorine 36 dating of very old groundwater》研究的是地下水定年（水文地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "盆地被不透水层圈闭，含水层向西部倾斜；东部边缘的补给区降水入渗后向盆地内部流动，井水可自流至地表。",
       "influence": "所引氯-36 定年研究显示部分地下水年龄极老、补给速率极慢，这意味着开采速率一旦超过补给，水位将长期下降且难以恢复。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -228,12 +228,12 @@
         "openalex-W2004355322"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2041276447（1983年，「Origin of the Torlesse terrane and coeval rocks, South Island,」，DOI https://doi.org/10.1130/0016-7606(1983)94<967:oottta>2.0.co;2）；年代以「地质尺度（新生代以来）；本条引 1983 年地体研究」表述，未编造精确年份。 【第42轮第二来源（partial）】openalex-W2004355322（1982年，《Naturalised plants in south‐west South Island, New Zealand》，New Zealand Journal of Botany，DOI 10.1080/0028825x.1982.10428834，被引 30）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2041276447（1983年，「Origin of the Torlesse terrane and coeval rocks, South Island,」，DOI https://doi.org/10.1130/0016-7606(1983)94<967:oottta>2.0.co;2）；年代以「地质尺度（新生代以来）；本条引 1983 年地体研究」表述，未编造精确年份。 【第42轮第二来源（partial）】openalex-W2004355322（1982年，《Naturalised plants in south‐west South Island, New Zealand》，New Zealand Journal of Botany，DOI 10.1080/0028825x.1982.10428834，被引 30）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Naturalised plants in south-west South Island》研究的是归化植物（植物侧面）；《Origin of the Torlesse terrane…》研究的是地体成因（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "南阿尔卑斯山沿岛西侧延伸，西坡迎盛行西风、降水极丰，东坡处于雨影、较为干燥；山脉的快速隆升与侵蚀使地形陡峻。",
       "influence": "强烈的降水梯度造成西岸雨林与东岸草原的对比，直接决定了农牧业与聚落的东西差异；地形与气候的组合在这里比多数地区更具决定性。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -342,12 +342,12 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2145990868（2014年，《Exploring the role of Micronesian islands in the maintenance of coral genetic diversity in the Pacific Ocean》，DOI https://doi.org/10.1111/mec.13005，Molecular Ecology）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「区域地理与海洋生态（所引 2014 年研究）」表述。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2145990868（2014年，《Exploring the role of Micronesian islands in the maintenance of coral genetic diversity in the Pacific Ocean》，DOI https://doi.org/10.1111/mec.13005，Molecular Ecology）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「区域地理与海洋生态（所引 2014 年研究）」表述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Exploring the role of Micronesian islands in the maintenance of coral…》研究的是珊瑚礁遗传多样性的维持（海洋生物侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "岛屿多为珊瑚环礁与低平小岛，海拔极低、陆地面积小；海beyond为深海，淡水依赖降雨透镜，对海平面上升极为敏感。",
       "influence": "所引 2014 年研究讨论密克罗尼西亚岛屿在维持珊瑚礁遗传多样性中的作用，指出散布的小岛可能充当珊瑚三角区遗传多样性的中转节点。这说明小岛在生态网络中可以有超出其面积的重要性。",
       "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
@@ -458,12 +458,12 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2130117805（2006年，《Prehistoric and early historic agriculture at Maunga Orito, Easter Island (Rapa Nui), Chile》，DOI https://doi.org/10.1017/s0003598x00094515，Antiquity）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元1200年至历史时期（所引 2006 年研究：12世纪起清理棕榈）」表述。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2130117805（2006年，《Prehistoric and early historic agriculture at Maunga Orito, Easter Island (Rapa Nui), Chile》，DOI https://doi.org/10.1017/s0003598x00094515，Antiquity）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元1200年至历史时期（所引 2006 年研究：12世纪起清理棕榈）」表述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Prehistoric and early historic agriculture at Maunga Orito》研究的是一处采石场旁的农业序列（遗址侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "面积小、远离大陆，火山土有限；淡水与海洋资源是生存基础，森林（棕榈）在12世纪起被清理。",
       "influence": "所引 2006 年研究以 Maunga Orito 的剖面揭示农业策略的序列：12世纪清理棕榈、开园种植薯蓣与芋，15世纪延续，17–19世纪出现覆土与石堆园。这说明岛屿社会长期调整农业技术以适应环境变化，而非单一崩溃叙事。",
       "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
@@ -568,13 +568,13 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "抽检返工：已移除无来源的地质年代；干旱化过程待专门研究核验。 【第23轮实证复核】实测：s039（NASA Climate）200 / 剥离后 10544 字符 / arid|dry|drought 命中 0；s048（NOAA Climate.gov）403（WAF 拦截）。两源均未提供内陆干旱机制正文，缺口为「澳大利亚内陆干旱气候机制专题页」。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2059196248（2013年，「Evolutionary refugia and ecological refuges: key concepts for 」，DOI https://doi.org/10.1111/gcb.12203）；年代以「气候尺度；本条引 2013 年干旱区生态研究」表述，未编造精确年份。 【第34轮返工·引用范围澄清】所引文献讨论干旱区生态避难所与保护，不支撑干旱气候的整体特征；正文已限域为生态适应与避难所格局。",
+      "pending_notes": "抽检返工：已移除无来源的地质年代；干旱化过程待专门研究核验。 【第23轮实证复核】实测：s039（NASA Climate）200 / 剥离后 10544 字符 / arid|dry|drought 命中 0；s048（NOAA Climate.gov）403（WAF 拦截）。两源均未提供内陆干旱机制正文，缺口为「澳大利亚内陆干旱气候机制专题页」。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2059196248（2013年，「Evolutionary refugia and ecological refuges: key concepts for 」，DOI https://doi.org/10.1111/gcb.12203）；年代以「气候尺度；本条引 2013 年干旱区生态研究」表述，未编造精确年份。 【第34轮返工·引用范围澄清】所引文献讨论干旱区生态避难所与保护，不支撑干旱气候的整体特征；正文已限域为生态适应与避难所格局。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Evolutionary refugia and ecological refuges…》研究的是干旱区的生态避难所（生态侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "内陆受副热带高压长期控制，降水少且年际变化大；蒸发强，河流多为间歇性。干旱区的生物以避旱、耐旱策略适应，形成独特的生态避难所格局。",
       "influence": "干旱与降水变率决定了农业只能在边缘地带发展，内陆以牧业为主；生态避难所的存在说明干旱区的生物多样性并非均匀丧失，而是集中于少数湿润refugia。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",

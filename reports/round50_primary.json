@@ -1,0 +1,214 @@
+{
+  "印加帝国": {
+    "cand": null,
+    "rejected": [
+      {
+        "t": "Chinchaysuyu and the Northern Inca Territory",
+        "w": "缺主题槽",
+        "miss": [
+          "administrat",
+          "road"
+        ]
+      },
+      {
+        "t": "PREFACE",
+        "w": "标题无对象词"
+      }
+    ]
+  },
+  "南极大陆": {
+    "cand": {
+      "doi": "10.26686/wgtn.17142116",
+      "title": "Deglacial climate and ice sheet evolution of the Ross Embayment, Antarctica",
+      "year": 2019,
+      "oa_id": "W3008286574",
+      "cited": 0,
+      "type": "dissertation",
+      "abs_len": 2245,
+      "abstract": "Reconstructing past grounding-line evolution can help inform future sea level projections by constraining marine ice sheet sensitivities to changes in climate. The Ross Embayment, the largest sector of Antarctica, experienced substantial grounding-line retreat since the Last Glacial Maximum. However, different interpretations for the timing and spatial pattern of deglacial grounding-line retreat in this region persist, suggesting either very high or low sensitivity to external forcings. Complicating matters is the sparse paleoclimate record, which is limited spatially and temporally. In this thesis, I address these issues by analysing the output of two transient climate simulations in relation to Antarctic ice core and marine sediment records, and performing and analysing the largest ensemble to date of regional ice sheet model simulations of the last deglaciation in the Ross Sea. The climate models and paleoclimate proxy records exhibit key differences in the timing, magnitude and duration of millennial-scale climate change events through the deglacial period. Using this diverse set of deglacial climate trajectories as ocean and atmosphere forcings, the ice sheet model ensemble produces a wide range of ice sheet responses, supporting the view that external forcings are the main drivers of past grounding-line retreat in the region. The simulations demonstrate that atmospheric conditions early in the deglacial period can enhance or diminish ice sheet sensitivity to rising ocean temperatures, thereby controlling the initial timing and spatial pattern of grounding-line retreat. Through the Holocene, grounding-line position is more sensitive to sub-shelf melt rates as the ocean cavity below the ice shelf expands. Model parameters that control the physical properties of the bed, deformation of the continental shelf, and rheological properties of the ice strongly influence the sensitivity of ice sheets to external forcing. Basin-wide differences in these forcings, driven by oceanic and atmospheric circulation, and spatial heterogeneity of bed properties likely contribute to the asynchronous pattern of retreat in the eastern and western parts of the embayment, as indicated by marine and terrestrial proxy records.",
+      "claim": "南极大陆的地貌与冰盖总体",
+      "slots": [
+        "ice sheet",
+        "continent"
+      ],
+      "period": [],
+      "host": "Open Access Victoria University of Wellington | Te Herenga Waka (Figshare)"
+    },
+    "rejected": [
+      {
+        "t": "Glacial-lake outbursts along the mid-contine",
+        "w": "标题无对象词"
+      },
+      {
+        "t": "Diatom stratigraphy defining ice sheet groun",
+        "w": "缺主题槽",
+        "miss": [
+          "continent"
+        ]
+      },
+      {
+        "t": "Deglacial climate and ice sheet evolution of",
+        "w": "缺时期槽(降为可选)"
+      }
+    ]
+  },
+  "密西西比河": {
+    "cand": {
+      "doi": "10.1002/hyp.1403",
+      "title": "Tritium hydrology of the Mississippi River basin",
+      "year": 2004,
+      "oa_id": "W2146690155",
+      "cited": 57,
+      "type": "article",
+      "abs_len": 2385,
+      "abstract": "In the early 1960s, the US Geological Survey began routinely analysing river water samples for tritium concentrations at locations within the Mississippi River basin. The sites included the main stem of the Mississippi River (at Luling Ferry, Louisiana), and three of its major tributaries, the Ohio River (at Markland Dam, Kentucky), the upper Missouri River (at Nebraska City, Nebraska) and the Arkansas River (near Van Buren, Arkansas). The measurements cover the period during the peak of the bomb‐produced tritium transient when tritium concentrations in precipitation rose above natural levels by two to three orders of magnitude. Using measurements of tritium concentrations in precipitation, a tritium input function was established for the river basins above the Ohio River, Missouri River and Arkansas River sampling locations. Owing to the extent of the basin above the Luling Ferry site, no input function was developed for that location. The input functions for the Ohio and Missouri Rivers were then used in a two‐component mixing model to estimate residence times of water within these two basins. (The Arkansas River was not modelled because of extremely large yearly variations in flow during the peak of the tritium transient.) The two components used were: (i) recent precipitation (prompt outflow) and (ii) waters derived from the long‐term groundwater reservoir of the basin. The tritium concentration of the second component is a function of the atmospheric input and the residence times of the groundwaters within the basin. Using yearly time periods, the parameters of the model were varied until a best fit was obtained between modelled and measured tritium data. The results from the model indicate that about 40% of the flow in the Ohio River was from prompt outflow, as compared with 10% for the Missouri River. Mean residence times of 10 years were calculated for the groundwater component of the Ohio River versus 4 years for the Missouri River. The mass flux of tritium through the Mississippi Basin and its tributaries was calculated during the years that tritium measurements were made. The cumulative fluxes, calculated in grams of 3H were: (i) 160 g for the Ohio (1961–1986), (ii) 98 g for the upper Missouri (1963–1997), (iii) 30 g for the Arkansas (1961–1997) and (iv) 780 g for the Mississippi (1961–1997). Copyright © 2004 John Wiley & Sons, Ltd.",
+      "claim": "密西西比河的水系与流域特征",
+      "slots": [
+        "river",
+        "basin",
+        "hydrolog"
+      ],
+      "period": [],
+      "host": "Hydrological Processes"
+    },
+    "rejected": [
+      {
+        "t": "Estimation of sedimentation rates in the dis",
+        "w": "缺时期槽(降为可选)"
+      },
+      {
+        "t": "Changes in hydrology and suspended-sediment ",
+        "w": "缺时期槽(降为可选)"
+      },
+      {
+        "t": "Tritium hydrology of the Mississippi River b",
+        "w": "缺时期槽(降为可选)"
+      },
+      {
+        "t": "Geology, geomorphology, and river engineerin",
+        "w": "缺主题槽",
+        "miss": [
+          "basin",
+          "hydrolog"
+        ]
+      },
+      {
+        "t": "River restoration in the upper Mississippi R",
+        "w": "缺时期槽(降为可选)"
+      }
+    ]
+  },
+  "亚马逊盆地": {
+    "cand": null,
+    "rejected": [
+      {
+        "t": "Land-cover detection and landscape structure",
+        "w": "缺主题槽",
+        "miss": [
+          "geomorph",
+          "hydrolog"
+        ]
+      },
+      {
+        "t": "Geomorphology, hydrology, and ecology of Gre",
+        "w": "标题无对象词"
+      },
+      {
+        "t": "Denudation and Erosion in the Southern Appal",
+        "w": "标题无对象词"
+      }
+    ]
+  },
+  "季风系统": {
+    "cand": {
+      "doi": "10.1175/2007jas2415.1",
+      "title": "Eddy-Mediated Regime Transitions in the Seasonal Cycle of a Hadley Circulation and Implications for Monsoon Dynamics",
+      "year": 2008,
+      "oa_id": "W2120503412",
+      "cited": 176,
+      "type": "article",
+      "abs_len": 2317,
+      "abstract": "In a simulation of seasonal cycles with an idealized general circulation model without a hydrologic cycle and with zonally symmetric boundary conditions, the Hadley cells undergo transitions between two regimes distinguishable according to whether large-scale eddy momentum fluxes strongly or weakly influence the strength of a cell. The center of the summer and equinox Hadley cell lies in a latitude zone of upper-level westerlies and significant eddy momentum flux divergence; the influence of eddy momentum fluxes on the strength of the cell is strong. The center of the cross-equatorial winter Hadley cell lies in a latitude zone of upper-level easterlies and is shielded from the energy-containing midlatitude eddies; the influence of eddy momentum fluxes on the strength of the cell is weak. Mediated by feedbacks between eddy fluxes, mean zonal winds at upper levels, and the mean meridional circulation, the dominant balance in the zonal momentum equation at the center of a Hadley cell shifts at the transitions between the regimes, from eddies dominating the momentum flux divergence in the summer and equinox cell to the mean meridional circulation dominating in the winter cell. At the transitions, a feedback involving changes in the strength of the lower-level temperature advection and in the latitude of the boundary between the winter and summer cell is responsible for changes in the strength of the cross-equatorial winter cell. The transitions resemble the onset and end of monsoons, for example, in the shift in the dominant zonal momentum balance, rapid shifts in the latitudes of maximum meridional mass flux and of maximum convergence at lower levels, rapid changes in strength of the upward mass flux, and changes in direction and strength of the zonal wind at upper and lower levels. In the monsoonal regime, the maximum upward mass flux occurs in an off-equatorial convergence zone located where the balance of the meridional geopotential gradient in the planetary boundary layer shifts from nonlinear frictional to geostrophic. Similar dynamic mechanisms as at the regime transitions in the simulation—mechanisms that can act irrespective of land–sea contrasts and other inhomogeneities in lower boundary conditions—may be implicated in large-scale monsoon dynamics in Earth’s atmosphere.",
+      "claim": "季风系统的驱动与季节进退",
+      "slots": [
+        "circulation",
+        "seasonal"
+      ],
+      "period": [],
+      "host": "Journal of the Atmospheric Sciences"
+    },
+    "rejected": [
+      {
+        "t": "Synoptic circulation of the North American M",
+        "w": "缺时期槽(降为可选)"
+      },
+      {
+        "t": "Some Aspects of the Monsoon Circulation and ",
+        "w": "缺时期槽(降为可选)"
+      },
+      {
+        "t": "Interannual Variations of the Asian Monsoon ",
+        "w": "缺时期槽(降为可选)"
+      },
+      {
+        "t": "The Seasonal Reversal of the Stratospheric C",
+        "w": "标题无对象词"
+      },
+      {
+        "t": "On the onset of the Indian southwest monsoon",
+        "w": "缺主题槽",
+        "miss": [
+          "precipitation",
+          "seasonal"
+        ]
+      }
+    ]
+  },
+  "河流三角洲": {
+    "cand": {
+      "doi": "10.1134/s0097807808030044",
+      "title": "Mathematical modeling of the formation and progradation of a river mouth bar into a sea: Case study of Danube Delta branches",
+      "year": 2008,
+      "oa_id": "W2034581965",
+      "cited": 5,
+      "type": "article",
+      "abs_len": 661,
+      "abstract": "The effect of sediment yield of a stream and the energy of sea waves on the formation of bars and their dynamics at nontidal river mouths is demonstrated. Data on variations in the hydrological regime of the Potapovskii and Bystryi branches in the Danube Delta and the morphodynamics of their bars are given. Major problems of mathematical modeling of the formation and progradation of mouth bars into the sea are discussed. An analytical expression is obtained for the shape of the foreset slope of a bar, which moves over a constant-slope seabed. The results of simulation were checked against data on the Potapovskii and Bystryi branches in the Danube Delta.",
+      "claim": "三角洲的形成与沉积过程",
+      "slots": [
+        "sediment",
+        "prograd",
+        "formation"
+      ],
+      "period": [],
+      "host": "Water Resources"
+    },
+    "rejected": [
+      {
+        "t": "Mathematical modeling of the formation and p",
+        "w": "缺时期槽(降为可选)"
+      }
+    ]
+  },
+  "文艺复兴意大利": {
+    "cand": null,
+    "rejected": [
+      {
+        "t": "Patronage and Italian Renaissance Sculpture",
+        "w": "缺主题槽",
+        "miss": [
+          "city",
+          "econom"
+        ]
+      },
+      {
+        "t": "Aspects of Clerical Patronage and Musical Mi",
+        "w": "缺主题槽",
+        "miss": [
+          "city",
+          "econom"
+        ]
+      }
+    ]
+  }
+}

@@ -460,7 +460,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4322713864（2010年，《Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection》，DOI https://doi.org/10.1558/isbn.9781781791929，Equinox Publishing eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1940–前1640年（据所引专著）」表述。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4322713864（2010年，《Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection》，DOI https://doi.org/10.1558/isbn.9781781791929，Equinox Publishing eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1940–前1640年（据所引专著）」表述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Poetry and Culture in Middle Kingdom Egypt》研究的是文学与文化（文本侧面），不涉行政与灌溉。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -496,12 +496,12 @@
         "openalex-W197188726"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1550年–前1070年）来自 Wikidata wikidata-q180568 的属性值；引文照录实体描述：「period from 1570 to 1069 BC in Egypt」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W197188726（2005年，「Amphorae in New Kingdom Egypt」，DOI https://doi.org/10.1553/aeundl14s175）；其摘要含 New Kingdom，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第48轮剔除】候选《Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite…》研究对象是新王国灭亡之后（前11–前6世纪）的时期，与本条「新王国本身」时期错配（D081②），剔除。",
+      "pending_notes": "第17轮复核：东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东北非×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东北非×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1550年–前1070年）来自 Wikidata wikidata-q180568 的属性值；引文照录实体描述：「period from 1570 to 1069 BC in Egypt」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W197188726（2005年，「Amphorae in New Kingdom Egypt」，DOI https://doi.org/10.1553/aeundl14s175）；其摘要含 New Kingdom，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第48轮剔除】候选《Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite…》研究对象是新王国灭亡之后（前11–前6世纪）的时期，与本条「新王国本身」时期错配（D081②），剔除。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Amphorae in New Kingdom Egypt》研究的是双耳瓶（器物侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "尼罗河谷与三角洲的农业剩余支撑人口与工程能力；底比斯所在的上埃及河谷是宗教与政治重心。河流运输把南北连成整体，绿洲与红海通道通向外部。",
       "influence": "河谷农业与尼罗河运输是国家动员的基础；对外扩张与防务同样依赖组织与财政，地理条件提供约束与机会，不作单因解释。",
       "polities": "据 Wikidata 记录，前1550年–前1070年。口径需说明：同一 Wikidata 实体的英文描述写「period from 1570 to 1069 BC」，而其 P580/P582 属性值为 1550/1070 BC；两者相差约 20 年，属年代划分不同版本。本条取属性值（1550–1070），并注明描述值以供比对。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",

@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 49,
+  "last_round": 50,
   "history": [
     {
       "round": 1,
@@ -598,6 +598,17 @@
       "gaps_found": 241,
       "note": "剔除4条错配、降3条旁证、识别约30条侧面文献；≥2内容源 222",
       "result": "对象同名校验推进"
+    },
+    {
+      "round": 50,
+      "methods_used": [
+        "30条侧面文献标注",
+        "核心条目补主来源",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "侧面文献 30 条已标注；2条核心补主来源；≥2内容源 222",
+      "result": "证据分层"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -625,6 +636,7 @@
     "ge2_has_body": 222,
     "one_has_body": 20,
     "zero_has_body": 1,
-    "note": "第①层（有正文）实测；第②层（内容对题）已开始人工全量扫描（196 条）"
+    "side_evidence_annotated": 30,
+    "note": "第①层（有正文）实测；第②层（内容对题）已扫描196条并对30条侧面文献标注旁证"
   }
 }

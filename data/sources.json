@@ -8046,6 +8046,32 @@
       "verified": true,
       "page_title": "Unification and the Peerage System in Qin Dynasty",
       "note": "OpenAlex 作品 W2979855713（DOI 10.17856/jahs.2019.9.148.45）；2019年；동양사학연구；被引 0。HTTP 200，13161 字节。摘要长度 981 字符；标题含对象词（R19 精神），槽位命中 ['qin', 'unification']。"
+    },
+    {
+      "id": "openalex-W2146690155",
+      "title": "OpenAlex W2146690155 — Tritium hydrology of the Mississippi River basin",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2004,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2146690155",
+      "url2": "https://doi.org/10.1002/hyp.1403",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Tritium hydrology of the Mississippi River basin",
+      "note": "OpenAlex 作品 W2146690155（DOI 10.1002/hyp.1403）；2004年；Hydrological Processes；被引 57。HTTP 200，16725 字节。摘要长度 2385 字符；主题槽命中 ['river', 'basin', 'hydrolog']。"
+    },
+    {
+      "id": "openalex-W2034581965",
+      "title": "OpenAlex W2034581965 — Mathematical modeling of the formation and progradation of a river mouth bar into a sea: Case study of Danube Delta branches",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2008,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2034581965",
+      "url2": "https://doi.org/10.1134/s0097807808030044",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Mathematical modeling of the formation and progradation of a river mouth bar into a sea: Case study of Danube Delta branches",
+      "note": "OpenAlex 作品 W2034581965（DOI 10.1134/s0097807808030044）；2008年；Water Resources；被引 5。HTTP 200，14062 字节。摘要长度 661 字符；主题槽命中 ['sediment', 'prograd', 'formation']。"
     }
   ]
 }
