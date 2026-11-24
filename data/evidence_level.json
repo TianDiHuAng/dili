@@ -1,5 +1,5 @@
 {
-  "round": 59,
+  "round": 60,
   "levels": {
     "撒哈拉沙漠": {
       "level": "A",
@@ -200,9 +200,9 @@
       "tier": "补充"
     },
     "加纳帝国": {
-      "level": "C",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 1,
         "side": 0,
         "data": 1,
@@ -213,9 +213,9 @@
     "马里帝国": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 3,
         "unknown": 0
       },
@@ -255,11 +255,11 @@
       "tier": "重要"
     },
     "非洲大湖地区": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -665,8 +665,8 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
-        "side": 1,
+        "weak": 3,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -783,13 +783,13 @@
       "tier": "补充"
     },
     "古希腊城邦": {
-      "level": "C",
+      "level": "A",
       "counts": {
-        "strong": 0,
+        "strong": 4,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 3,
-        "unknown": 3
+        "unknown": 0
       },
       "tier": "核心"
     },
@@ -805,13 +805,13 @@
       "tier": "重要"
     },
     "罗马共和国": {
-      "level": "C",
+      "level": "A",
       "counts": {
-        "strong": 0,
+        "strong": 3,
         "weak": 1,
         "side": 0,
         "data": 3,
-        "unknown": 2
+        "unknown": 0
       },
       "tier": "核心"
     },
@@ -840,9 +840,9 @@
     "意大利半岛": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -882,11 +882,11 @@
       "tier": "核心"
     },
     "阿尔卑斯山": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
-        "side": 2,
+        "side": 1,
         "data": 0,
         "unknown": 0
       },
@@ -917,9 +917,9 @@
     "维京时代": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 1,
-        "side": 1,
+        "side": 2,
         "data": 3,
         "unknown": 0
       },
@@ -1082,9 +1082,9 @@
     "白令陆桥": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 3,
         "unknown": 0
       },
@@ -1311,11 +1311,11 @@
       "tier": "重要"
     },
     "古巴岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
-        "weak": 1,
-        "side": 3,
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1324,9 +1324,9 @@
     "安第斯山脉": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 3,
         "unknown": 0
       },
@@ -1346,9 +1346,9 @@
     "巴西高原": {
       "level": "A",
       "counts": {
-        "strong": 2,
+        "strong": 3,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1368,9 +1368,9 @@
     "巴塔哥尼亚": {
       "level": "A",
       "counts": {
-        "strong": 2,
+        "strong": 3,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1410,11 +1410,11 @@
       "tier": "补充"
     },
     "查文文化": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1423,9 +1423,9 @@
     "莫切文化": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1498,11 +1498,11 @@
       "tier": "重要"
     },
     "南美贸易网络": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1522,9 +1522,9 @@
     "南锥体": {
       "level": "A",
       "counts": {
-        "strong": 2,
-        "weak": 0,
-        "side": 2,
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1533,9 +1533,9 @@
     "澳大利亚大陆": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 3,
         "unknown": 0
       },
@@ -1555,9 +1555,9 @@
     "大自流盆地": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 2,
-        "side": 1,
+        "side": 2,
         "data": 0,
         "unknown": 0
       },
@@ -1588,9 +1588,9 @@
     "新西兰南岛": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 2,
         "weak": 2,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "unknown": 0
       },
@@ -1654,9 +1654,9 @@
     "复活节岛": {
       "level": "A",
       "counts": {
-        "strong": 2,
+        "strong": 3,
         "weak": 2,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1709,9 +1709,9 @@
     "南极大陆": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 5,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1740,22 +1740,22 @@
       "tier": "补充"
     },
     "南极冰盖": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 3,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 2,
         "data": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "罗斯海": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
-        "weak": 0,
-        "side": 3,
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1773,11 +1773,11 @@
       "tier": "重要"
     },
     "南极科考站": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
-        "weak": 0,
-        "side": 3,
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1797,9 +1797,9 @@
     "南极洲无农业的环境约束": {
       "level": "A",
       "counts": {
-        "strong": 2,
+        "strong": 3,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -1839,11 +1839,11 @@
       "tier": "核心"
     },
     "大陆漂移": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
-        "side": 2,
+        "side": 1,
         "data": 0,
         "unknown": 0
       },
@@ -1863,9 +1863,9 @@
     "洋流": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 1,
         "unknown": 0
       },
@@ -1985,8 +1985,8 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
-        "side": 1,
+        "weak": 2,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -2006,9 +2006,9 @@
     "城市地理": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 0,
-        "side": 1,
+        "side": 0,
         "data": 1,
         "unknown": 0
       },
@@ -2028,9 +2028,9 @@
     "争议边界处理原则": {
       "level": "A",
       "counts": {
-        "strong": 2,
+        "strong": 3,
         "weak": 1,
-        "side": 1,
+        "side": 0,
         "data": 0,
         "unknown": 0
       },
@@ -2202,11 +2202,11 @@
       "tier": "补充"
     },
     "自然灾害风险": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
-        "side": 2,
+        "side": 1,
         "data": 0,
         "unknown": 0
       },
@@ -2422,11 +2422,11 @@
       "tier": "补充"
     },
     "可持续交通": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
-        "side": 2,
+        "side": 1,
         "data": 0,
         "unknown": 0
       },
@@ -2653,7 +2653,7 @@
       "tier": "补充"
     },
     "农业企业与价值链": {
-      "level": "C",
+      "level": "D",
       "counts": {
         "strong": 0,
         "weak": 1,
@@ -2676,16 +2676,16 @@
     }
   },
   "summary": {
-    "A": 196,
-    "B": 43,
-    "C": 4,
-    "D": 0
+    "A": 207,
+    "B": 35,
+    "C": 0,
+    "D": 1
   },
   "definition": {
     "A": "≥2 强来源",
-    "B": "1 强来源 + 旁证/弱",
+    "B": "1 强来源",
     "C": "无强来源",
-    "D": "仅数据端点与机构页（指标解读类）"
+    "D": "仅数据端点+机构页（指标解读类）"
   },
-  "strong_rule": "被引≥10 或 正文/摘要≥800 字符（满足其一）"
+  "fix": "第60轮修：层级判定按【】分段，避免相邻来源的『剔除/旁证』字样污染；D 判据放宽为 data>0 且 side==0"
 }

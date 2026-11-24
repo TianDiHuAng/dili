@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 59,
+  "last_round": 60,
   "history": [
     {
       "round": 1,
@@ -712,6 +712,18 @@
       "gaps_found": 241,
       "note": "层级 A196/B43/C4/D0；C 级 4 条为证据最弱",
       "result": "证据可见化"
+    },
+    {
+      "round": 60,
+      "methods_used": [
+        "livius正文实测",
+        "补2条学术来源",
+        "层级判据修bug",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "C级 4→0；层级 A207/B35/D1",
+      "result": "证据层级修正"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -737,13 +749,13 @@
   "multi_source_entries": 143,
   "evidence": {
     "ge2_has_body": 224,
-    "one_has_body": 18,
+    "one_has_body": 19,
     "levels": {
-      "A": 196,
-      "B": 43,
-      "C": 4,
-      "D": 0
+      "A": 207,
+      "B": 35,
+      "C": 0,
+      "D": 1
     },
-    "note": "R19+R20+R21 三道机器校验；读者可在条目页看到证据层级 A/B/C"
+    "note": "层级 C 已清零；D 级 1 条为指标解读类"
   }
 }

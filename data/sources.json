@@ -2299,7 +2299,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Polis - Livius",
-      "note": "curl 实测 HTTP 200；页面标题：Polis - Livius；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：Polis - Livius；年份未标注。 【第60轮实测】strip 后正文 2,469 字符（HTTP 200；第二次连接波动，采用首次成功值）。"
     },
     {
       "id": "livius-athens",
@@ -2312,7 +2312,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Athens - Livius",
-      "note": "curl 实测 HTTP 200；页面标题：Athens - Livius；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：Athens - Livius；年份未标注。 【第60轮实测】strip 后正文 6,313 字符（HTTP 200；第二次连接波动，采用首次成功值）。"
     },
     {
       "id": "livius-greece",
@@ -2325,7 +2325,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Greece - Livius",
-      "note": "curl 实测 HTTP 200；页面标题：Greece - Livius；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：Greece - Livius；年份未标注。 【第60轮实测】strip 后正文 43,476 字符（HTTP 200；第二次连接波动，采用首次成功值）。"
     },
     {
       "id": "natgeo-maya",
@@ -2364,7 +2364,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Roman Republic - Livius",
-      "note": "curl 实测 HTTP 200；页面标题：Roman Republic - Livius；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：Roman Republic - Livius；年份未标注。 【第60轮实测】strip 后正文 25,552 字符（HTTP 200；第二次连接波动，采用首次成功值）。"
     },
     {
       "id": "livius-italy",
@@ -2377,7 +2377,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Italy - Livius",
-      "note": "curl 实测 HTTP 200；页面标题：Italy - Livius；年份未标注。"
+      "note": "curl 实测 HTTP 200；页面标题：Italy - Livius；年份未标注。 【第60轮实测】strip 后正文 5,515 字符（HTTP 200；第二次连接波动，采用首次成功值）。"
     },
     {
       "id": "nps-grand-canyon-geology",
@@ -8410,6 +8410,32 @@
       "verified": true,
       "page_title": "A message for our future? The Rapa Nui (Easter Island) ecodisaster and Pacific island environments",
       "note": "OpenAlex 作品 W2081858996（DOI https://doi.org/10.1080/00438240120107468）；2002年；World Archaeology；被引 114。HTTP 200，15003 字节。摘要长度 1455 字符；主题槽命中 ['island', 'environment']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2010072736",
+      "title": "OpenAlex W2010072736 — Archaeology and the prehistoric origins of the Ghana empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1980,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2010072736",
+      "url2": "https://doi.org/https://doi.org/10.1017/s0021853700018685",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Archaeology and the prehistoric origins of the Ghana empire",
+      "note": "OpenAlex 作品 W2010072736；1980年；被引 107。摘要长度 1265 字符；主题槽命中 ['ghana', 'state', 'trade', 'empire']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2503981100",
+      "title": "OpenAlex W2503981100 — Mass Oratory and Political Power in the Late Roman Republic",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2004,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2503981100",
+      "url2": "https://doi.org/https://doi.org/10.1017/cbo9780511482878",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Mass Oratory and Political Power in the Late Roman Republic",
+      "note": "OpenAlex 作品 W2503981100；2004年；被引 943。摘要长度 971 字符；主题槽命中 ['republic', 'senate', 'institution', 'politic']。证据强度：strong。"
     }
   ]
 }

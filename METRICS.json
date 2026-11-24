@@ -866,6 +866,21 @@
       "sample_rate": "243条层级计算",
       "sample_audit": "层级判据经抽查校准（被引458但摘要795字符的经典著作不再误判为unknown）",
       "note": "证据层级系统上线（A196/B43/C4/D0）并渲染到条目页；R21校验层级覆盖"
+    },
+    {
+      "round": 60,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 2,
+      "sample_rate": "C级4条全查",
+      "sample_audit": "层级判据经段污染bug修复后重算",
+      "note": "C级清零：实测livius正文、补2条学术来源（加纳/罗马）、修层级判定段污染bug；层级 A207/B35/C0/D1"
     }
   ]
 }
