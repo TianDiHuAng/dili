@@ -530,11 +530,11 @@
       "tier": "重要"
     },
     "汉代": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 3,
         "alias": 1,
         "unknown": 0
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 186,
-    "B": 44,
+    "A": 185,
+    "B": 45,
     "C": 0,
     "D": 13
   },

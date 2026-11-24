@@ -1316,6 +1316,21 @@
       "sample_rate": "3条重要级新尝试 + G3a 4条说明",
       "sample_audit": "3/3命中0%失败；登记2条（吠陀/马来群岛）；明清史学史不采用",
       "note": "补2条→G3 16→14；重要G3b 10→8；A186；澄清隋唐G1清零≠无缺口"
+    },
+    {
+      "round": 90,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 8,
+      "fixes": 2,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "41项边界用例 + 8条A级抽样",
+      "sample_audit": "代码全绿；抽样发现2处虚高 → 修出 content_count 不认 side 的根本缺陷",
+      "note": "D146：content_count 须与 strength 同源→G3 14→45（此前旁证被算作内容源）；A185"
     }
   ]
 }
