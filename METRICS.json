@@ -1346,6 +1346,21 @@
       "sample_rate": "A级抽样12条",
       "sample_audit": "12条又发现2处虚高（城市化←气候页错挂、埃及新王国←双耳瓶）",
       "note": "抽样复核：A 185→183、D 13→14、G3 45→46"
+    },
+    {
+      "round": 92,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 52,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "A级全量复核africa+asia（52条）",
+      "sample_audit": "发现AAG首页被12条当强来源、CBD首页4条；另修2处侧面",
+      "note": "D149首页规则：A 183→171、D 14→19、G3 46→53"
     }
   ]
 }

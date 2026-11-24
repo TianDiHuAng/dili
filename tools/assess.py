@@ -11,7 +11,19 @@ MIN_CITED = 10      # 强来源：被引门槛
 MIN_BODY = 800      # 强来源：正文/摘要字符门槛
 MIN_BYTES = 3000    # 字节门槛（约 1000 字符）
 BAD_TYPES = ("书评", "book-review")
-SHELL_MARK = "空壳页判定"   # 非内容类型（D082/D134）
+SHELL_MARK = "空壳页判定"
+# D149：机构首页/导航页即便字符数达标，也不是内容页（抓到的多为导航与新闻列表）
+HOME_TITLES = ("home", "home -", "home |", "homepage", "index", "welcome")
+
+
+def is_homepage(src):
+    """标题形如「Home - 某某」/「Home | 某某」者判为机构首页。"""
+    ti = ((src or {}).get("title") or "").strip().lower()
+    if not ti:
+        return False
+    # 去掉站点名后缀后判断第一个词
+    head = re.split(r"[|\-–—]", ti)[0].strip()
+    return head in HOME_TITLES   # 非内容类型（D082/D134）
 
 
 def is_data(sid):
@@ -67,6 +79,8 @@ def has_content(sid, src, entry=None):
     # D142：已被实测标为「空壳页」的来源一律不算内容来源
     if SHELL_MARK in (src.get("note") or ""):
         return False
+    if is_homepage(src):
+        return False
     texts = [src.get("note") or ""]
     if entry is not None:
         texts.append(entry.get("pending_notes") or "")
@@ -90,6 +104,8 @@ def strength(sid, src, entry=None):
         return "side"
     if SHELL_MARK in (src.get("note") or ""):
         return "weak"      # 空壳页最多算弱来源
+    if is_homepage(src):
+        return "weak"      # D149：首页/导航页最多算弱来源
     # 备注中被判旁证/剔除者
     seg = ""
     for part in re.split(r"【", (entry or {}).get("pending_notes") or ""):

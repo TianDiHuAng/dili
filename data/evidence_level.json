@@ -590,10 +590,10 @@
       "tier": "重要"
     },
     "朝鲜半岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 5,
@@ -614,10 +614,10 @@
       "tier": "核心"
     },
     "中南半岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 4,
@@ -782,10 +782,10 @@
       "tier": "重要"
     },
     "黎凡特": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 4,
@@ -926,10 +926,10 @@
       "tier": "重要"
     },
     "伊比利亚半岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 5,
@@ -938,10 +938,10 @@
       "tier": "重要"
     },
     "高卢": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 5,
@@ -974,10 +974,10 @@
       "tier": "重要"
     },
     "多瑙河": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 4,
@@ -1106,10 +1106,10 @@
       "tier": "重要"
     },
     "巴尔干半岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 4,
@@ -1970,10 +1970,10 @@
       "tier": "补充"
     },
     "南极特别保护区": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 1,
+        "strong": 1,
+        "weak": 2,
         "side": 0,
         "data": 0,
         "alias": 1,
@@ -2188,8 +2188,8 @@
     "城市地理": {
       "level": "A",
       "counts": {
-        "strong": 4,
-        "weak": 0,
+        "strong": 3,
+        "weak": 1,
         "side": 0,
         "data": 1,
         "alias": 0,
@@ -2210,10 +2210,10 @@
       "tier": "补充"
     },
     "争议边界处理原则": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 2,
@@ -2258,10 +2258,10 @@
       "tier": "补充"
     },
     "海洋保护区": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 1,
         "alias": 0,
@@ -2354,11 +2354,11 @@
       "tier": "补充"
     },
     "人均产出空间差异": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
-        "weak": 0,
-        "side": 1,
+        "weak": 1,
+        "side": 0,
         "data": 1,
         "alias": 0,
         "unknown": 0
@@ -2366,11 +2366,11 @@
       "tier": "补充"
     },
     "作物单产差异": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
-        "weak": 1,
-        "side": 1,
+        "weak": 2,
+        "side": 0,
         "data": 1,
         "alias": 0,
         "unknown": 0
@@ -2534,10 +2534,10 @@
       "tier": "补充"
     },
     "陆地保护区": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 1,
         "alias": 0,
@@ -2645,8 +2645,8 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 0,
-        "side": 1,
+        "weak": 1,
+        "side": 0,
         "data": 0,
         "alias": 1,
         "unknown": 0
@@ -2678,11 +2678,11 @@
       "tier": "补充"
     },
     "国家收入分类": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
-        "weak": 0,
-        "side": 1,
+        "weak": 1,
+        "side": 0,
         "data": 1,
         "alias": 0,
         "unknown": 0
@@ -2728,8 +2728,8 @@
     "农业气候风险": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 0,
+        "strong": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
         "alias": 1,
@@ -2786,10 +2786,10 @@
       "tier": "补充"
     },
     "人文地理学": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 1,
+        "strong": 1,
+        "weak": 2,
         "side": 0,
         "data": 0,
         "alias": 1,
@@ -2919,10 +2919,10 @@
     }
   },
   "summary": {
-    "A": 183,
-    "B": 46,
+    "A": 171,
+    "B": 53,
     "C": 0,
-    "D": 14
+    "D": 19
   },
   "definition": {
     "A": "≥2 强来源",
