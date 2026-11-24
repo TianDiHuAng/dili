@@ -1,0 +1,527 @@
+{
+  "吠陀时代": {
+    "cand": [
+      {
+        "oid": "W4321152954",
+        "title": "Status of Woman Reflected in Vedic Literature",
+        "year": 2023,
+        "cited": 4,
+        "abs_len": 2167,
+        "slots": [
+          "vedic",
+          "society",
+          "religion",
+          "india",
+          "period"
+        ],
+        "doi": "https://doi.org/10.5281/zenodo.7644407"
+      },
+      {
+        "oid": "W3006608552",
+        "title": "The Political and Social Organization in India During Early Vedic Civilization (1500 – 1000 B.C)",
+        "year": 2019,
+        "cited": 1,
+        "abs_len": 1657,
+        "slots": [
+          "vedic",
+          "society",
+          "religion",
+          "india",
+          "period"
+        ],
+        "doi": "https://doi.org/10.31185/eduj.vol3.iss3.956"
+      },
+      {
+        "oid": "W7218004838",
+        "title": "A Comparative Analysis on the Concept of Culture and Period of Vedic In Ancient India: Unraveling the Cultural Significance of the Vedic Period in Ancient India",
+        "year": 2013,
+        "cited": 0,
+        "abs_len": 1836,
+        "slots": [
+          "vedic",
+          "society",
+          "religion",
+          "india",
+          "period"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 26
+  },
+  "孔雀王朝": {
+    "cand": [
+      {
+        "oid": "W7220362328",
+        "title": "The Empire Under One Umbrella: Espionage, Reporting and the Communications System of the Mauryan State in the Aśokan Edicts, the Contemporary Textual Sources and Recent Scholarship",
+        "year": 2026,
+        "cited": 2,
+        "abs_len": 3665,
+        "slots": [
+          "maurya",
+          "empire",
+          "administrat",
+          "state",
+          "asoka"
+        ],
+        "doi": "https://doi.org/10.36948/ijfmr.2026.v08i05.89018"
+      },
+      {
+        "oid": "W2015841063",
+        "title": "The Mauryan empire in early India*",
+        "year": 2006,
+        "cited": 24,
+        "abs_len": 726,
+        "slots": [
+          "maurya",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1111/j.1468-2281.2006.00394.x"
+      },
+      {
+        "oid": "W4414785481",
+        "title": "An Analysis of Ashoka’s Policy of Dhamma as a Tool for Political Consolidation in the Mauryan Empire",
+        "year": 2025,
+        "cited": 6,
+        "abs_len": 821,
+        "slots": [
+          "maurya",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "https://doi.org/10.70558/ijssr.2025.v2.i5.30616"
+      }
+    ],
+    "n": 17
+  },
+  "笈多王朝": {
+    "cand": [
+      {
+        "oid": "W7160711899",
+        "title": "Role of Coins in Reconstructing History After Gupta Period",
+        "year": 2026,
+        "cited": 0,
+        "abs_len": 896,
+        "slots": [
+          "gupta",
+          "empire",
+          "econom"
+        ],
+        "doi": "https://doi.org/10.71097/ijaidr.v17.i1.1874"
+      },
+      {
+        "oid": "W7163883213",
+        "title": "An Analysis of Continuity and Transformation in Art and Culture: From the Mauryan to the Gupta Period",
+        "year": 2026,
+        "cited": 0,
+        "abs_len": 2341,
+        "slots": [
+          "gupta",
+          "empire",
+          "culture"
+        ],
+        "doi": "https://doi.org/10.56975/jaafr.v4i6.511182"
+      },
+      {
+        "oid": "W4400658485",
+        "title": "Treasures of the Gupta Empire",
+        "year": 2024,
+        "cited": 3,
+        "abs_len": 1356,
+        "slots": [
+          "gupta",
+          "empire"
+        ],
+        "doi": "https://doi.org/10.2307/jj.17610828"
+      }
+    ],
+    "n": 3
+  },
+  "周代": {
+    "cand": [
+      {
+        "oid": "W4406476289",
+        "title": "A modeling radiocarbon dating for the founding of Yan Vassal State in Western Zhou Dynasty",
+        "year": 2025,
+        "cited": 6,
+        "abs_len": 1387,
+        "slots": [
+          "zhou",
+          "dynasty",
+          "state",
+          "system"
+        ],
+        "doi": "https://doi.org/10.1017/rdc.2024.117"
+      },
+      {
+        "oid": "W4389001701",
+        "title": "The Transition of Early Chinese Ritual and Music Systems after Ritual Institution by Duke of Zhou",
+        "year": 2023,
+        "cited": 4,
+        "abs_len": 1173,
+        "slots": [
+          "zhou",
+          "dynasty",
+          "feudal",
+          "system"
+        ],
+        "doi": "https://doi.org/10.23977/jsoce.2023.051017"
+      },
+      {
+        "oid": "W2375540927",
+        "title": "Cultural Interpretation on Archaeological Relics of Tomb of Zhongli State in Zhou Dynasty",
+        "year": 2014,
+        "cited": 0,
+        "abs_len": 1196,
+        "slots": [
+          "zhou",
+          "dynasty",
+          "state",
+          "system"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 10
+  },
+  "明清": {
+    "cand": [
+      {
+        "oid": "W1995978398",
+        "title": "Organized Medicine in Ming-Qing China: State and Private Medical Institutions in the Lower Yangzi Region",
+        "year": 1987,
+        "cited": 136,
+        "abs_len": 4457,
+        "slots": [
+          "ming",
+          "qing",
+          "state",
+          "society",
+          "econom"
+        ],
+        "doi": "https://doi.org/10.1353/late.1987.0003"
+      },
+      {
+        "oid": "W2092181912",
+        "title": "Ming-Qing Studies in Japan: 1986",
+        "year": 1989,
+        "cited": 2,
+        "abs_len": 4273,
+        "slots": [
+          "ming",
+          "qing",
+          "state",
+          "society",
+          "econom"
+        ],
+        "doi": "https://doi.org/10.1353/late.1989.0006"
+      },
+      {
+        "oid": "W2385386852",
+        "title": "Readjustment of Marriage Laws and the Stability of the Grass-root Society in the Ming and Qing Dynasties",
+        "year": 2005,
+        "cited": 1,
+        "abs_len": 861,
+        "slots": [
+          "ming",
+          "qing",
+          "state",
+          "society",
+          "econom"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 12
+  },
+  "吴哥": {
+    "cand": [
+      {
+        "oid": "W3014329675",
+        "title": "Top-down and bottom-up water management: A diachronic model of changing water management strategies at Angkor, Cambodia",
+        "year": 2020,
+        "cited": 48,
+        "abs_len": 1413,
+        "slots": [
+          "angkor",
+          "khmer",
+          "state",
+          "hydraul"
+        ],
+        "doi": "https://doi.org/10.1016/j.jaa.2020.101166"
+      },
+      {
+        "oid": "W2178611632",
+        "title": "Imaging the Waters of Angkor: A Method for Semi‐Automated Pond Extraction from LiDAR Data",
+        "year": 2015,
+        "cited": 23,
+        "abs_len": 1419,
+        "slots": [
+          "angkor",
+          "khmer",
+          "state",
+          "hydraul"
+        ],
+        "doi": "https://doi.org/10.1002/arp.1530"
+      },
+      {
+        "oid": "W97120880",
+        "title": "Power and pragmatism in the political economy of Angkor",
+        "year": 2009,
+        "cited": 23,
+        "abs_len": 2037,
+        "slots": [
+          "angkor",
+          "khmer",
+          "state",
+          "administrat"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 19
+  },
+  "马来群岛": {
+    "cand": [
+      {
+        "oid": "W2081422164",
+        "title": "Malay dialect research in Malysia: The issue of perspective",
+        "year": 1989,
+        "cited": 47,
+        "abs_len": 1046,
+        "slots": [
+          "malay",
+          "archipelago",
+          "trade",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1163/22134379-90003253"
+      },
+      {
+        "oid": "W2889449563",
+        "title": "The Triumph of Ruler: Islam and Statecraft in Pre-Colonial Malay-Archipelago",
+        "year": 2017,
+        "cited": 28,
+        "abs_len": 2068,
+        "slots": [
+          "malay",
+          "archipelago",
+          "state",
+          "maritime"
+        ],
+        "doi": "https://doi.org/10.14421/ajis.2017.551.211-240"
+      },
+      {
+        "oid": "W2029431663",
+        "title": "Sailing the Archipelago in a boat of rhymes Pantun in the Malay world",
+        "year": 2011,
+        "cited": 15,
+        "abs_len": 835,
+        "slots": [
+          "malay",
+          "archipelago",
+          "trade",
+          "state"
+        ],
+        "doi": "https://doi.org/10.17510/wjhi.v13i1.10"
+      }
+    ],
+    "n": 24
+  },
+  "河中地区": {
+    "cand": [
+      {
+        "oid": "W4390557038",
+        "title": "The Legacy of Sogdian Inscriptions. On a Newly Published Sogdian Chrestomathy",
+        "year": 2023,
+        "cited": 0,
+        "abs_len": 1666,
+        "slots": [
+          "samarkand",
+          "sogdian",
+          "trade",
+          "city"
+        ],
+        "doi": "https://doi.org/10.53644/eh.2023.2.98"
+      },
+      {
+        "oid": "W7219928948",
+        "title": "THE ROLE AND POSITION OF TRANSOXIANA IN ISLAMIC CIVILIZATION IN THE FIRST FOUR CENTURIES OF THE HIJRI",
+        "year": 2025,
+        "cited": 0,
+        "abs_len": 2637,
+        "slots": [
+          "transoxiana",
+          "samarkand",
+          "city"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W7224683932",
+        "title": "Sogdian Merchants on the Great Silk Road during the Period of the Kangju State",
+        "year": 2026,
+        "cited": 0,
+        "abs_len": 1183,
+        "slots": [
+          "samarkand",
+          "sogdian",
+          "trade"
+        ],
+        "doi": "https://doi.org/10.31150/ajshr.v7i10.5817"
+      }
+    ],
+    "n": 11
+  },
+  "匈奴": {
+    "cand": [
+      {
+        "oid": "W2013667302",
+        "title": "Iron Smelting in the Nomadic Empire of Xiongnu in Ancient Mongolia",
+        "year": 2014,
+        "cited": 21,
+        "abs_len": 1451,
+        "slots": [
+          "xiongnu",
+          "state",
+          "steppe",
+          "empire"
+        ],
+        "doi": "https://doi.org/10.2355/isijinternational.54.1017"
+      },
+      {
+        "oid": "W4393393354",
+        "title": "Local circulation of elites punctuated by transregional mobility enabled steppe political consolidation in the Xiongnu nomadic state",
+        "year": 2024,
+        "cited": 7,
+        "abs_len": 1875,
+        "slots": [
+          "xiongnu",
+          "state",
+          "steppe",
+          "organiz"
+        ],
+        "doi": "https://doi.org/10.1371/journal.pone.0298593"
+      },
+      {
+        "oid": "W2522059696",
+        "title": "A bioarchaeological analysis of the effects of the Xiongnu Empire on the physical health of nomadic groups in Iron Age Mongolia",
+        "year": 2016,
+        "cited": 7,
+        "abs_len": 2425,
+        "slots": [
+          "xiongnu",
+          "steppe",
+          "empire",
+          "organiz"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 13
+  },
+  "突厥": {
+    "cand": [
+      {
+        "oid": "W4390557189",
+        "title": "Female burial of the Turkic period from the barrow of Shagalaly V",
+        "year": 2023,
+        "cited": 4,
+        "abs_len": 1197,
+        "slots": [
+          "turk",
+          "turkic",
+          "khaganate",
+          "state",
+          "steppe"
+        ],
+        "doi": "https://doi.org/10.32523/2664-5157-2023-4-18-34"
+      },
+      {
+        "oid": "W7115174564",
+        "title": "Iron arrowheads of the Altai northern foothills people in the Turkic khaganates period",
+        "year": 2025,
+        "cited": 1,
+        "abs_len": 1840,
+        "slots": [
+          "turk",
+          "turkic",
+          "khaganate",
+          "state",
+          "steppe"
+        ],
+        "doi": "https://doi.org/10.31833/uav/2025.25.4.043"
+      },
+      {
+        "oid": "W4392916342",
+        "title": "TURKIC STATEHOOD: MEGA-EMPIRES, CONFEDERATIONS, KHAGANATS AND KHANATES",
+        "year": 2024,
+        "cited": 1,
+        "abs_len": 809,
+        "slots": [
+          "turk",
+          "turkic",
+          "khaganate",
+          "state",
+          "steppe"
+        ],
+        "doi": "https://doi.org/10.31219/osf.io/safcx"
+      }
+    ],
+    "n": 26
+  },
+  "阿拉伯半岛": {
+    "cand": [
+      {
+        "oid": "W1995877879",
+        "title": "Chronology of the impact of Quaternary climate change on continental environments in the Arabian Peninsula",
+        "year": 2009,
+        "cited": 95,
+        "abs_len": 976,
+        "slots": [
+          "arabian",
+          "arabia",
+          "climate",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.1016/j.crte.2009.02.003"
+      },
+      {
+        "oid": "W4390697037",
+        "title": "Rapid diversification of grey mangroves (Avicennia marina) driven by geographic isolation and extreme environmental conditions in the Arabian Peninsula",
+        "year": 2024,
+        "cited": 27,
+        "abs_len": 1820,
+        "slots": [
+          "arabian",
+          "arabia",
+          "geograph",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.1111/mec.17260"
+      },
+      {
+        "oid": "W3015648376",
+        "title": "Population genomic response to geographic gradients by widespread and endemic fishes of the Arabian Peninsula",
+        "year": 2020,
+        "cited": 26,
+        "abs_len": 2089,
+        "slots": [
+          "arabian",
+          "arabia",
+          "geograph",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.1002/ece3.6199"
+      }
+    ],
+    "n": 20
+  },
+  "克里特文明": {
+    "cand": [],
+    "n": 0
+  }
+}

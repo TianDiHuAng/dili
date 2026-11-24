@@ -422,9 +422,9 @@
       "tier": "重要"
     },
     "孔雀王朝": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -506,9 +506,9 @@
       "tier": "重要"
     },
     "周代": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -638,9 +638,9 @@
       "tier": "重要"
     },
     "吴哥": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -710,9 +710,9 @@
       "tier": "核心"
     },
     "匈奴": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -770,9 +770,9 @@
       "tier": "核心"
     },
     "阿拉伯半岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 132,
-    "B": 108,
+    "A": 137,
+    "B": 103,
     "C": 1,
     "D": 2
   },

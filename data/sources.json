@@ -8917,6 +8917,71 @@
       "verified": true,
       "page_title": "Investigation into the Impacts of Foreign Ruling Elites in Traditional State Societies: The Case of the Kassite State in Babylonia (Iraq)",
       "note": "OpenAlex 作品 W2526588393（DOI 无）；2014年；被引 4。HTTP 200，15046 字节。摘要长度 4076 字符；主题槽命中 ['babylon', 'babylonia', 'state', 'society', 'administrat']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W3014329675",
+      "title": "OpenAlex W3014329675 — Top-down and bottom-up water management: A diachronic model of changing water management strategies at Angkor, Cambodia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2020,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3014329675",
+      "url2": "https://doi.org/https://doi.org/10.1016/j.jaa.2020.101166",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Top-down and bottom-up water management: A diachronic model of changing water management strategies at Angkor, Cambodia",
+      "note": "OpenAlex 作品 W3014329675（DOI https://doi.org/10.1016/j.jaa.2020.101166）；2020年；被引 48。HTTP 200，21927 字节。摘要长度 1413 字符；主题槽命中 ['angkor', 'khmer', 'state', 'hydraul']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W1995877879",
+      "title": "OpenAlex W1995877879 — Chronology of the impact of Quaternary climate change on continental environments in the Arabian Peninsula",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2009,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W1995877879",
+      "url2": "https://doi.org/https://doi.org/10.1016/j.crte.2009.02.003",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Chronology of the impact of Quaternary climate change on continental environments in the Arabian Peninsula",
+      "note": "OpenAlex 作品 W1995877879（DOI https://doi.org/10.1016/j.crte.2009.02.003）；2009年；被引 95。HTTP 200，16784 字节。摘要长度 976 字符；主题槽命中 ['arabian', 'arabia', 'climate', 'environment']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2013667302",
+      "title": "OpenAlex W2013667302 — Iron Smelting in the Nomadic Empire of Xiongnu in Ancient Mongolia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2014,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2013667302",
+      "url2": "https://doi.org/https://doi.org/10.2355/isijinternational.54.1017",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Iron Smelting in the Nomadic Empire of Xiongnu in Ancient Mongolia",
+      "note": "OpenAlex 作品 W2013667302（DOI https://doi.org/10.2355/isijinternational.54.1017）；2014年；被引 21。HTTP 200，15939 字节。摘要长度 1451 字符；主题槽命中 ['xiongnu', 'state', 'steppe', 'empire']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W4406476289",
+      "title": "OpenAlex W4406476289 — A modeling radiocarbon dating for the founding of Yan Vassal State in Western Zhou Dynasty",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2025,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4406476289",
+      "url2": "https://doi.org/https://doi.org/10.1017/rdc.2024.117",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "A modeling radiocarbon dating for the founding of Yan Vassal State in Western Zhou Dynasty",
+      "note": "OpenAlex 作品 W4406476289（DOI https://doi.org/10.1017/rdc.2024.117）；2025年；被引 6。HTTP 200，21175 字节。摘要长度 1387 字符；主题槽命中 ['zhou', 'dynasty', 'state', 'system']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W7220362328",
+      "title": "OpenAlex W7220362328 — The Empire Under One Umbrella: Espionage, Reporting and the Communications System of the Mauryan State in the Aśokan Edicts, the Contemporary Textual Sources and Recent Scholarship",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2026,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W7220362328",
+      "url2": "https://doi.org/https://doi.org/10.36948/ijfmr.2026.v08i05.89018",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Empire Under One Umbrella: Espionage, Reporting and the Communications System of the Mauryan State in the Aśokan Edicts, the Contemporary Textual Sources and Recent Scholarship",
+      "note": "OpenAlex 作品 W7220362328（DOI https://doi.org/10.36948/ijfmr.2026.v08i05.89018）；2026年；被引 2。HTTP 200，20291 字节。摘要长度 3665 字符；主题槽命中 ['maurya', 'empire', 'administrat', 'state', 'asoka']。证据强度：strong。"
     }
   ]
 }

@@ -1106,6 +1106,21 @@
       "sample_rate": "重要条目首批12条",
       "sample_audit": "9条登记、3条不采用（桑海←鱼养殖项目、萨珊←钱币学、阿拉伯征服←史学史）",
       "note": "补9条→G3 83→74；层级 A132/B108/C1/D2"
+    },
+    {
+      "round": 76,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 5,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 5,
+      "sample_rate": "重要条目第二批12条",
+      "sample_audit": "5条登记、7条侧面不采用",
+      "note": "补5条→G3 74→69；层级 A137/B103/C1/D2"
     }
   ]
 }
