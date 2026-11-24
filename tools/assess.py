@@ -10,7 +10,8 @@ DATA_PREFIX = ("wb-", "usgs-eq", "noaa-current", "ats-parties", "wikidata-")
 MIN_CITED = 10      # 强来源：被引门槛
 MIN_BODY = 800      # 强来源：正文/摘要字符门槛
 MIN_BYTES = 3000    # 字节门槛（约 1000 字符）
-BAD_TYPES = ("书评", "book-review")   # 非内容类型（D082/D134）
+BAD_TYPES = ("书评", "book-review")
+SHELL_MARK = "空壳页判定"   # 非内容类型（D082/D134）
 
 
 def is_data(sid):
@@ -30,22 +31,28 @@ def is_bad_type(src):
 
 
 def _nums(note):
-    """从 note 文本中抽取（被引数、正文字符数）。"""
+    """从 note 文本中抽取（被引数、正文字符数）。
+    D142：若 note 中并存多个字符数（如文本提取 5,455 与 strip 后 750），取**最小值**
+    （更严格者），避免用旧口径大数字掩盖空壳页。"""
+    note = note or ""
     cited = None
-    m = re.search(r"被引\s*(\d+)", note or "")
+    m = re.search(r"被引\s*(\d+)", note)
     if m:
         cited = int(m.group(1))
-    body = None
+    bodies = []
     for pat in (r"摘要长度\s*(\d+)\s*字符", r"正文节录\s*\*{0,2}([\d,]+)\s*字符",
                 r"正文\s*\*{0,2}([\d,]+)\s*字符", r"摘要\s*(\d+)\s*字符"):
-        m = re.search(pat, note or "")
-        if m:
-            body = int(m.group(1).replace(",", ""))
-            break
+        for mm in re.finditer(pat, note):
+            v = int(mm.group(1).replace(",", ""))
+            if v > 0:
+                bodies.append(v)
+    body = min(bodies) if bodies else None
     if body is None:
-        m = re.search(r"(\d{3,7})\s*字节", note or "")
-        if m and int(m.group(1)) >= MIN_BYTES:
-            body = int(m.group(1)) // 3
+        mb = re.findall(r"(\d{3,7})\s*字节", note)
+        if mb:
+            vals = [int(x) for x in mb if int(x) >= MIN_BYTES]
+            if vals:
+                body = min(vals) // 3
     return cited, body
 
 
@@ -56,6 +63,9 @@ def has_content(sid, src, entry=None):
         return False
     src = src or {}
     if is_bad_type(src):
+        return False
+    # D142：已被实测标为「空壳页」的来源一律不算内容来源
+    if SHELL_MARK in (src.get("note") or ""):
         return False
     texts = [src.get("note") or ""]
     if entry is not None:
@@ -78,6 +88,8 @@ def strength(sid, src, entry=None):
     src = src or {}
     if is_bad_type(src):
         return "side"
+    if SHELL_MARK in (src.get("note") or ""):
+        return "weak"      # 空壳页最多算弱来源
     # 备注中被判旁证/剔除者
     seg = ""
     for part in re.split(r"【", (entry or {}).get("pending_notes") or ""):

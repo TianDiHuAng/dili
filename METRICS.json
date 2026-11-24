@@ -1151,6 +1151,21 @@
       "sample_rate": "补充类36条全查",
       "sample_audit": "D141 生效：12条指标解读类判D；G1 13→1、G3 69→62",
       "note": "D141指标解读类豁免；缺口 G1=1/G2=3/G3a=2/G3b=60；层级 A137/B93/C1/D12"
+    },
+    {
+      "round": 79,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 2,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "审计 assess.py 本身：查出2处偏离（多值取大/空壳页未排除）并修复",
+      "note": "D142：_nums取严格值+空壳页排除；A 137→135、G3 62→64"
     }
   ]
 }

@@ -2702,10 +2702,10 @@
       "tier": "补充"
     },
     "教育机会地域差异": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 1,
+        "strong": 1,
+        "weak": 2,
         "side": 0,
         "data": 1,
         "alias": 0,
@@ -2714,10 +2714,10 @@
       "tier": "补充"
     },
     "儿童发展地域差异": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 2,
-        "weak": 0,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 1,
         "alias": 0,
@@ -2919,10 +2919,10 @@
     }
   },
   "summary": {
-    "A": 137,
-    "B": 93,
+    "A": 135,
+    "B": 94,
     "C": 1,
-    "D": 12
+    "D": 13
   },
   "definition": {
     "A": "≥2 强来源",
