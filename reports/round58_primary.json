@@ -1,0 +1,789 @@
+{
+  "河中地区": {
+    "claim": "河中地区的绿洲、灌溉与商路",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Samarkand Bukhara oasis trade Silk Road",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.30892/gtg.574spl14-1367",
+            "title": "ASSESSING THE EFFICIENCY OF HOTELS IN UZBEKISTAN’S ANCIENT CITIES OF SAMARKAND AND BUKHARA USING DATA ENVELOPMENT ANALYSIS",
+            "year": 2024,
+            "oa_id": "W4405948908",
+            "cited": 19,
+            "type": "article",
+            "abs_len": 737,
+            "slots": [
+              "samarkand",
+              "bukhara"
+            ],
+            "host": "GeoJournal of Tourism and Geosites"
+          },
+          {
+            "doi": "10.70102/afts.2025.1732.023",
+            "title": "THE ARCHITECTURAL LEGACY OF SAMARKAND AND BUKHARA ALONG THE SILK ROAD",
+            "year": 2025,
+            "oa_id": "W4409144216",
+            "cited": 5,
+            "type": "article",
+            "abs_len": 798,
+            "slots": [
+              "trade",
+              "silk road",
+              "samarkand",
+              "bukhara"
+            ],
+            "host": "Archives for Technical Sciences"
+          },
+          {
+            "doi": "10.4324/9781003369899-7",
+            "title": "Golden Peaches of Samarkand",
+            "year": 2023,
+            "oa_id": "W4375949656",
+            "cited": 3,
+            "type": "book-chapter",
+            "abs_len": 894,
+            "slots": [
+              "sogdian",
+              "samarkand"
+            ],
+            "host": "Routledge eBooks"
+          },
+          {
+            "doi": "10.4995/thesis/10251/201551",
+            "title": "The Silk Road Heritage Enhancement for Local Sustainable Tourism Development in Bukhara (Uzbekistan). Analysis and Diagnosis about the Current Situation",
+            "year": 2023,
+            "oa_id": "W4390605085",
+            "cited": 6,
+            "type": "dissertation",
+            "abs_len": 3230,
+            "slots": [
+              "silk road",
+              "bukhara"
+            ],
+            "host": "RiuNet (Universitat Politècnica de València)"
+          },
+          {
+            "doi": "10.1093/9780197750957.003.0017",
+            "title": "Along the Silk Road: Tashkent and Bukhara",
+            "year": 2026,
+            "oa_id": "W7117960024",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 989,
+            "slots": [
+              "trade",
+              "silk road",
+              "samarkand",
+              "bukhara"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "10.1163/9789004693999_013",
+            "title": "Radiocarbon Dating in the Oasis of Bukhara",
+            "year": 2024,
+            "oa_id": "W4398145961",
+            "cited": 1,
+            "type": "book-chapter",
+            "abs_len": 472,
+            "slots": [
+              "oasis",
+              "bukhara"
+            ],
+            "host": "BRILL eBooks"
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Samarkand Bukhara oasis trade Silk Road",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.70102/afts.2025.1732.023",
+            "title": "THE ARCHITECTURAL LEGACY OF SAMARKAND AND BUKHARA ALONG THE SILK ROAD",
+            "year": 2025,
+            "oa_id": "W4409144216",
+            "cited": 5,
+            "type": "article",
+            "abs_len": 798,
+            "slots": [
+              "trade",
+              "silk road",
+              "samarkand",
+              "bukhara"
+            ],
+            "host": "Archives for Technical Sciences"
+          },
+          {
+            "doi": null,
+            "title": "Reading the Great Silk Road in the Samarkand Oasis from the Activities of the Uzbek-Italian Archaeological Expedition",
+            "year": 2017,
+            "oa_id": "W3093178908",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 2480,
+            "slots": [
+              "oasis",
+              "silk road",
+              "samarkand"
+            ],
+            "host": "Archivio istituzionale della ricerca (Alma Mater Studiorum Università di Bologna)"
+          },
+          {
+            "doi": "https://doi.org/10.1007/s12231-021-09531-6",
+            "title": "Qarakhanids on the Edge of the Bukhara Oasis: Archaeobotany of Medieval Paykend",
+            "year": 2021,
+            "oa_id": "W3210778872",
+            "cited": 20,
+            "type": "article",
+            "abs_len": 985,
+            "slots": [
+              "oasis",
+              "silk road",
+              "bukhara"
+            ],
+            "host": "Economic Botany"
+          },
+          {
+            "doi": "https://doi.org/10.1007/s12520-026-02516-3",
+            "title": "Tracing herding strategies in the Samarkand Oasis: isotopic and proteomic insights from Kafir Kala (Samarkand, Uzbekistan)",
+            "year": 2026,
+            "oa_id": "W7164676320",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1608,
+            "slots": [
+              "trade",
+              "oasis",
+              "silk road",
+              "samarkand"
+            ],
+            "host": "Archaeological and Anthropological Sciences"
+          },
+          {
+            "doi": "https://doi.org/10.38177/ajbsr.2025.7317",
+            "title": "Ethnotourism Villages and Tourist Neighborhoods of the Bukhara Oasis",
+            "year": 2025,
+            "oa_id": "W4415168329",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1705,
+            "slots": [
+              "oasis",
+              "bukhara"
+            ],
+            "host": "Asian Journal of Basic Science & Research"
+          },
+          {
+            "doi": "https://doi.org/10.47134/bai.v2i3.4364",
+            "title": "Ethnotourism In The Bukhara Oasis: Opportunities, Achievements and Problems",
+            "year": 2025,
+            "oa_id": "W4412062501",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1284,
+            "slots": [
+              "oasis",
+              "bukhara"
+            ],
+            "host": "Buletin Antropologi Indonesia"
+          },
+          {
+            "doi": null,
+            "title": "By hotter winds : the road to Samarkand",
+            "year": 2014,
+            "oa_id": "W2934770250",
+            "cited": 0,
+            "type": "dissertation",
+            "abs_len": 2429,
+            "slots": [
+              "silk road",
+              "samarkand",
+              "bukhara"
+            ],
+            "host": "Open University of Cape Town (University of Cape Town)"
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Sogdian trade network Central Asia",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Sogdian trade network Central Asia",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.37547/ijhps/volume06issue04-13",
+            "title": "Sogdians’ Eastern Trade Networks (5th–8th Centuries)",
+            "year": 2026,
+            "oa_id": "W7160263236",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 905,
+            "slots": [
+              "trade",
+              "sogdian"
+            ],
+            "host": "International Journal Of History And Political Sciences"
+          },
+          {
+            "doi": "https://doi.org/10.68358/4fv1q492",
+            "title": "Sogdian Merchants and the Silk Road: Central Asia’s Role in East–West Connections (2nd Century BCE – 8th Century CE)",
+            "year": 2026,
+            "oa_id": "W7223057976",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 901,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Sherdor Central Asian Journal of Social Sciences and Humanities"
+          },
+          {
+            "doi": "https://doi.org/10.54254/2753-7064/2025.ht28823",
+            "title": "Reading Hierarchy on the Silk Road-- The Ancient Sogdian Letters and Sogdian Social Structure",
+            "year": 2025,
+            "oa_id": "W4415618671",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 738,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Communications in Humanities Research"
+          },
+          {
+            "doi": "https://doi.org/10.25136/2409-868x.2026.1.73275",
+            "title": "Trade and diplomatic relations between the Eastern Turkic Qaganate and China in Central Asia in the VI-VIII centuries",
+            "year": 2026,
+            "oa_id": "W7127050493",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 2167,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Genesis исторические исследования"
+          },
+          {
+            "doi": "https://doi.org/10.5281/zenodo.19213280",
+            "title": "Voices from the West: Persians, Sogdians, and the Poetry and Music of Tang China",
+            "year": 2026,
+            "oa_id": "W7140275974",
+            "cited": 0,
+            "type": "preprint",
+            "abs_len": 2538,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Zenodo (CERN European Organization for Nuclear Research)"
+          },
+          {
+            "doi": "https://doi.org/10.46586/er.11.2020.9222",
+            "title": "The Sogdians and Their Religions in Turfan: Evidence in the Catalogue of the Middle Iranian Fragments in Sogdian Script of the Berlin Turfan Collection",
+            "year": 2021,
+            "oa_id": "W3212433262",
+            "cited": 23,
+            "type": "article",
+            "abs_len": 1313,
+            "slots": [
+              "oasis",
+              "sogdian"
+            ],
+            "host": "Entangled Religions"
+          },
+          {
+            "doi": "https://doi.org/10.5281/zenodo.23371521",
+            "title": "THE SPREAD OF PAPER AMONG THE SOGDIANS: BASED ON TRADE RELATIONS ALONG THE SILK ROAD AND WRITTEN SOURCES",
+            "year": 2026,
+            "oa_id": "W7221803322",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 566,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Zenodo (CERN European Organization for Nuclear Research)"
+          },
+          {
+            "doi": "https://doi.org/10.1017/s0021911808000326",
+            "title": "Sogdian Traders: A History. By Étienne de la Vaissière. Translated by James Ward. Leiden: Brill, 2005. xiv, 410 pp. $199.00 (cloth).",
+            "year": 2008,
+            "oa_id": "W2041478172",
+            "cited": 0,
+            "type": "book-review",
+            "abs_len": 10119,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian",
+              "samarkand",
+              "bukhara"
+            ],
+            "host": "The Journal of Asian Studies"
+          },
+          {
+            "doi": "https://doi.org/10.54254/2753-7064/4/20220927",
+            "title": "The Influence of Tang Dynastys Policies on Sogdian Commercial Networks",
+            "year": 2023,
+            "oa_id": "W4379143448",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1226,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Communications in Humanities Research"
+          },
+          {
+            "doi": "https://doi.org/10.4324/9781003348702-13",
+            "title": "The Sogdians, the ‘Cultural Bees’ of Eurasia",
+            "year": 2024,
+            "oa_id": "W4405072529",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 707,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Routledge eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.54254/2753-7064/28/20230061",
+            "title": "Social Foundation of Sogdian Commercial Diaspora in China",
+            "year": 2024,
+            "oa_id": "W4394949113",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 521,
+            "slots": [
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Communications in Humanities Research"
+          },
+          {
+            "doi": "https://doi.org/10.37547/ijhps/volume05issue10-10",
+            "title": "Sogdian Villages: Before and After the Arab Conquest",
+            "year": 2025,
+            "oa_id": "W4416064270",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 696,
+            "slots": [
+              "irrigation",
+              "sogdian"
+            ],
+            "host": "International Journal Of History And Political Sciences"
+          },
+          {
+            "doi": "https://doi.org/10.61882/pjas.1240",
+            "title": "New Perspectives on Sogdian Societies in North China",
+            "year": 2025,
+            "oa_id": "W7116696345",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 2089,
+            "slots": [
+              "trade",
+              "silk road",
+              "sogdian"
+            ],
+            "host": "Parseh Journal of Archaeological Studies"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.46586/er.11.2020.9222",
+      "title": "The Sogdians and Their Religions in Turfan: Evidence in the Catalogue of the Middle Iranian Fragments in Sogdian Script of the Berlin Turfan Collection",
+      "year": 2021,
+      "oa_id": "W3212433262",
+      "cited": 23,
+      "type": "article",
+      "abs_len": 1313,
+      "slots": [
+        "oasis",
+        "sogdian"
+      ],
+      "host": "Entangled Religions"
+    }
+  },
+  "库什与努比亚": {
+    "claim": "库什的商路与商品结构",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Meroe trade network commodities",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Meroe trade network commodities",
+        "results": 15,
+        "passed": []
+      },
+      {
+        "engine": "Crossref",
+        "query": "Kushite Red Sea trade",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Kushite Red Sea trade",
+        "results": 15,
+        "passed": []
+      }
+    ],
+    "best": null
+  },
+  "莫切文化": {
+    "claim": "莫切的河谷政治与灌溉社会",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Moche irrigation canals valleys",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Moche irrigation canals valleys",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1353/pcg.1974.0007",
+            "title": "Irrigation and Urbanization in Pre-Hispanic Peru: The Moche Valley",
+            "year": 1974,
+            "oa_id": "W2004371677",
+            "cited": 6,
+            "type": "article",
+            "abs_len": 4352,
+            "slots": [
+              "irrigation",
+              "canal",
+              "politic",
+              "valley"
+            ],
+            "host": "Yearbook - Association of Pacific Coast Geographers"
+          },
+          {
+            "doi": "https://doi.org/10.1179/009346985791169535",
+            "title": "Hydraulic Engineering and Historical Aspects of the Pre-Columbian Intravalley Canal Systems of the Moche Valley, Peru",
+            "year": 1985,
+            "oa_id": "W2018176677",
+            "cited": 52,
+            "type": "article",
+            "abs_len": 1006,
+            "slots": [
+              "canal",
+              "valley"
+            ],
+            "host": "Journal of Field Archaeology"
+          },
+          {
+            "doi": "https://doi.org/10.1017/s0959774322000117",
+            "title": "To Unite and Divide: Canals,Tinku, Liquids and Time in the Moche World",
+            "year": 2022,
+            "oa_id": "W4280556738",
+            "cited": 7,
+            "type": "article",
+            "abs_len": 1227,
+            "slots": [
+              "irrigation",
+              "canal",
+              "politic",
+              "valley"
+            ],
+            "host": "Cambridge Archaeological Journal"
+          },
+          {
+            "doi": null,
+            "title": "Moche Geopolitical Networks and the Dynamic Role of Licapa II, Chicama Valley, Peru",
+            "year": 2013,
+            "oa_id": "W1958136187",
+            "cited": 13,
+            "type": "dissertation",
+            "abs_len": 2041,
+            "slots": [
+              "irrigation",
+              "canal",
+              "politic",
+              "valley"
+            ],
+            "host": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)"
+          },
+          {
+            "doi": "https://doi.org/10.18800/9789972428364.025",
+            "title": "San Ildefonso and the \"popularization\" of Moche ideology in the Jequetepeque Valley",
+            "year": 2008,
+            "oa_id": "W4366522749",
+            "cited": 20,
+            "type": "book-chapter",
+            "abs_len": 2109,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "Pontificia Universidad Católica del Perú eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.26575/daj.v17i2.145",
+            "title": "Food and the State: Bioarchaeological Investigations of Diet in the Moche Valley of Perú",
+            "year": 2018,
+            "oa_id": "W2906874959",
+            "cited": 16,
+            "type": "article",
+            "abs_len": 1859,
+            "slots": [
+              "irrigation",
+              "politic",
+              "valley"
+            ],
+            "host": "Dental Anthropology Journal"
+          },
+          {
+            "doi": "https://doi.org/10.1371/journal.pone.0211691",
+            "title": "A mass sacrifice of children and camelids at the Huanchaquito-Las Llamas site, Moche Valley, Peru",
+            "year": 2019,
+            "oa_id": "W2919010554",
+            "cited": 78,
+            "type": "article",
+            "abs_len": 1159,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "PLoS ONE"
+          },
+          {
+            "doi": null,
+            "title": "A paleopathological analysis of skeletal remains from the Salinar and Gallinazo phases in the Moche Valley (Peru)",
+            "year": 2018,
+            "oa_id": "W2896519897",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 996,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "D-Scholarship@Pitt (University of Pittsburgh)"
+          },
+          {
+            "doi": null,
+            "title": "Reimagining Ancient Agricultural Strategies and Gendered Labor in the Prehispanic Moche Valley of North Coastal Peru",
+            "year": 2017,
+            "oa_id": "W2948596096",
+            "cited": 5,
+            "type": "dissertation",
+            "abs_len": 3159,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "eScholarship (California Digital Library)"
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Moche political organization valleys",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1017/laq.2018.46",
+            "title": "BIOLOGICAL DISTANCE PATTERNS AMONG THE NORTHERN MOCHE LORDS: DENTAL PHENOTYPES AND POLITICAL ORGANIZATION IN ANCIENT PERU",
+            "year": 2018,
+            "oa_id": "W2893727475",
+            "cited": 10,
+            "type": "article",
+            "abs_len": 1294,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "Latin American Antiquity"
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Moche political organization valleys",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.7183/1045-6635.26.4.473",
+            "title": "Moche Sociopolitical Dynamics and the Role of Licapa II, Chicama Valley, Peru",
+            "year": 2015,
+            "oa_id": "W2571193261",
+            "cited": 24,
+            "type": "article",
+            "abs_len": 1353,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "Latin American Antiquity"
+          },
+          {
+            "doi": "https://doi.org/10.26575/daj.v17i2.145",
+            "title": "Food and the State: Bioarchaeological Investigations of Diet in the Moche Valley of Perú",
+            "year": 2018,
+            "oa_id": "W2906874959",
+            "cited": 16,
+            "type": "article",
+            "abs_len": 1859,
+            "slots": [
+              "irrigation",
+              "politic",
+              "valley"
+            ],
+            "host": "Dental Anthropology Journal"
+          },
+          {
+            "doi": null,
+            "title": "Moche Marks of Distinction: Time and Politics in Painted Pottery Substyles of the Moche Culture, North Coast, Peru AD 100-900",
+            "year": 2012,
+            "oa_id": "W1199538575",
+            "cited": 3,
+            "type": "dissertation",
+            "abs_len": 2669,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "eScholarship (California Digital Library)"
+          },
+          {
+            "doi": null,
+            "title": "Moche Geopolitical Networks and the Dynamic Role of Licapa II, Chicama Valley, Peru",
+            "year": 2013,
+            "oa_id": "W1958136187",
+            "cited": 13,
+            "type": "dissertation",
+            "abs_len": 2041,
+            "slots": [
+              "irrigation",
+              "canal",
+              "politic",
+              "valley"
+            ],
+            "host": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)"
+          },
+          {
+            "doi": "https://doi.org/10.17615/tenp-8t24",
+            "title": "Daily Life and the Development of the State in the Moche Valley of North Coastal Perú: A Bioarchaeological Analysis",
+            "year": 2006,
+            "oa_id": "W2564666987",
+            "cited": 27,
+            "type": "dissertation",
+            "abs_len": 2396,
+            "slots": [
+              "irrigation",
+              "politic",
+              "valley"
+            ],
+            "host": "Carolina Digital Repository (University of North Carolina at Chapel Hill)"
+          },
+          {
+            "doi": "https://doi.org/10.1017/s0959774322000117",
+            "title": "To Unite and Divide: Canals,Tinku, Liquids and Time in the Moche World",
+            "year": 2022,
+            "oa_id": "W4280556738",
+            "cited": 7,
+            "type": "article",
+            "abs_len": 1227,
+            "slots": [
+              "irrigation",
+              "canal",
+              "politic",
+              "valley"
+            ],
+            "host": "Cambridge Archaeological Journal"
+          },
+          {
+            "doi": "https://doi.org/10.18800/9789972428364.025",
+            "title": "San Ildefonso and the \"popularization\" of Moche ideology in the Jequetepeque Valley",
+            "year": 2008,
+            "oa_id": "W4366522749",
+            "cited": 20,
+            "type": "book-chapter",
+            "abs_len": 2109,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "Pontificia Universidad Católica del Perú eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.1017/laq.2018.46",
+            "title": "BIOLOGICAL DISTANCE PATTERNS AMONG THE NORTHERN MOCHE LORDS: DENTAL PHENOTYPES AND POLITICAL ORGANIZATION IN ANCIENT PERU",
+            "year": 2018,
+            "oa_id": "W2893727475",
+            "cited": 10,
+            "type": "article",
+            "abs_len": 1294,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "Latin American Antiquity"
+          },
+          {
+            "doi": null,
+            "title": "A paleopathological analysis of skeletal remains from the Salinar and Gallinazo phases in the Moche Valley (Peru)",
+            "year": 2018,
+            "oa_id": "W2896519897",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 996,
+            "slots": [
+              "politic",
+              "valley"
+            ],
+            "host": "D-Scholarship@Pitt (University of Pittsburgh)"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1371/journal.pone.0211691",
+      "title": "A mass sacrifice of children and camelids at the Huanchaquito-Las Llamas site, Moche Valley, Peru",
+      "year": 2019,
+      "oa_id": "W2919010554",
+      "cited": 78,
+      "type": "article",
+      "abs_len": 1159,
+      "slots": [
+        "politic",
+        "valley"
+      ],
+      "host": "PLoS ONE"
+    }
+  }
+}

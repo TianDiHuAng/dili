@@ -536,5 +536,183 @@
   "城市地理": [
     "urban",
     "city"
+  ],
+  "仰韶文化": [
+    "yangshao"
+  ],
+  "古埃及中王国": [
+    "egypt",
+    "middle kingdom"
+  ],
+  "法蒂玛王朝": [
+    "fatimid"
+  ],
+  "赫梯王国": [
+    "hittite"
+  ],
+  "贵霜帝国": [
+    "kushan"
+  ],
+  "室利佛逝": [
+    "srivijaya"
+  ],
+  "满者伯夷": [
+    "majapahit"
+  ],
+  "帖木儿帝国": [
+    "timurid"
+  ],
+  "迈锡尼文明": [
+    "mycenaean"
+  ],
+  "神圣罗马帝国": [
+    "holy roman"
+  ],
+  "汉萨同盟": [
+    "hanseatic"
+  ],
+  "基辅罗斯": [
+    "kyivan",
+    "kievan",
+    "rus"
+  ],
+  "非洲大湖地区": [
+    "great lakes"
+  ],
+  "西北海岸": [
+    "northwest coast"
+  ],
+  "新法兰西": [
+    "new france"
+  ],
+  "古巴岛": [
+    "cuba"
+  ],
+  "巴塔哥尼亚": [
+    "patagonia"
+  ],
+  "的的喀喀湖": [
+    "titicaca"
+  ],
+  "查文文化": [
+    "chavin"
+  ],
+  "纳斯卡文化": [
+    "nazca"
+  ],
+  "奇穆帝国": [
+    "chimu"
+  ],
+  "南美贸易网络": [
+    "andean",
+    "exchange"
+  ],
+  "南锥体": [
+    "southern cone",
+    "cone"
+  ],
+  "美拉尼西亚": [
+    "melanesia"
+  ],
+  "密克罗尼西亚": [
+    "micronesia"
+  ],
+  "复活节岛": [
+    "easter island",
+    "rapa nui"
+  ],
+  "太平洋殖民航线": [
+    "lapita",
+    "pacific",
+    "voyaging"
+  ],
+  "横贯南极山脉": [
+    "transantarctic"
+  ],
+  "罗斯海": [
+    "ross sea"
+  ],
+  "南极科考站": [
+    "antarctic",
+    "station"
+  ],
+  "南极特别保护区": [
+    "antarctic",
+    "protected area"
+  ],
+  "争议边界处理原则": [
+    "disputed",
+    "boundary"
+  ],
+  "人文地理学": [
+    "human geography"
+  ],
+  "可持续交通": [
+    "sustainable transport",
+    "car sharing"
+  ],
+  "地图投影": [
+    "map projection"
+  ],
+  "地球系统科学": [
+    "earth system"
+  ],
+  "地理空间数据产品": [
+    "laserfarm",
+    "lidar"
+  ],
+  "环境数据访问": [
+    "ecodatacube",
+    "environmental data"
+  ],
+  "城市热岛": [
+    "heat island"
+  ],
+  "城市贫困": [
+    "urban",
+    "poverty"
+  ],
+  "沙漠化": [
+    "desertification",
+    "dryland"
+  ],
+  "自然灾害风险": [
+    "hazard",
+    "disaster"
+  ],
+  "火灾生态": [
+    "fire regime",
+    "bark"
+  ],
+  "生物多样性分布": [
+    "biodiversity",
+    "phylogenetic"
+  ],
+  "极端天气预警": [
+    "monsoon",
+    "climate model",
+    "warning",
+    "forecast",
+    "extreme weather",
+    "efficacy"
+  ],
+  "玛雅研究新进展": [
+    "maya",
+    "lidar"
+  ],
+  "欧洲冰期地貌": [
+    "glacial",
+    "map"
+  ],
+  "环境治理": [
+    "environmental governance"
+  ],
+  "农业气候风险": [
+    "agricultural",
+    "climate",
+    "vulnerab"
+  ],
+  "巴塔哥尼亚高原": [
+    "patagonia"
   ]
 }

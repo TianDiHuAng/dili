@@ -836,6 +836,21 @@
       "sample_rate": "148条对象词全量校验",
       "sample_audit": "R20扩至148条（核心+重要全覆盖）：检出7条，剔除3条真对象碰撞（元代←美国黑人史书评、河中←西地中海沙沉积、河中←PPNB小雕像指纹）；3条别名补齐（norden/north america/vertical）；另修河中孤儿引用（2023 Bukhara未登记成功）",
       "note": "R20扩至148条；检出7条，剔除3条真对象碰撞、加3条别名、修1条孤儿引用；≥2内容源 224"
+    },
+    {
+      "round": 58,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "198条对象词全量",
+      "sample_audit": "R20覆盖扩至198条（全部含学术来源的条目），仅检出1条并补映射（极端天气预警←该文确实讲预报效力）；3处缺口如实记录无合格主来源（河中←粟特宗教文本、库什商路←无候选、莫切←奇穆献祭对象时期双错）",
+      "note": "R20覆盖扩至198条（含补充条目），检出1条并补映射；3处缺口如实记录无合格主来源；≥2内容源 224"
     }
   ]
 }
