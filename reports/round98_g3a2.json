@@ -1,0 +1,523 @@
+{
+  "results": {
+    "多瑙河": {
+      "cand": [
+        {
+          "oid": "W2467786621",
+          "title": "Hydrology as a major factor determining plankton development in two floodplain segments and the River Danube, Austria",
+          "year": 1999,
+          "cited": 55,
+          "abs_len": 781,
+          "slots": [
+            "danube",
+            "river",
+            "hydrolog",
+            "environment"
+          ],
+          "doi": "10.1127/lr/11/1999/439"
+        },
+        {
+          "oid": "W1673522389",
+          "title": "Strengthening river basin institutions: The Global Environment Facility and the Danube River Basin",
+          "year": 2004,
+          "cited": 24,
+          "abs_len": 1236,
+          "slots": [
+            "danube",
+            "river",
+            "basin",
+            "environment"
+          ],
+          "doi": "10.1029/2003wr002936"
+        },
+        {
+          "oid": "W7114765137",
+          "title": "Development of an Adapted Water Quality Index for the Danube River Using Objective Weighting Methods",
+          "year": 2025,
+          "cited": 8,
+          "abs_len": 2164,
+          "slots": [
+            "danube",
+            "river",
+            "basin",
+            "environment"
+          ],
+          "doi": "10.3390/hydrology12120329"
+        }
+      ],
+      "n": 8
+    },
+    "莱茵河": {
+      "cand": [
+        {
+          "oid": "W2114886861",
+          "title": "Middle and late Holocene avulsion history of the River Rhine (Rhine-Meuse delta, Netherlands)",
+          "year": 1994,
+          "cited": 194,
+          "abs_len": 1095,
+          "slots": [
+            "rhine",
+            "river",
+            "history"
+          ],
+          "doi": "10.1130/0091-7613(1994)022<0711:malhah>2.3.co;2"
+        },
+        {
+          "oid": "W2016887666",
+          "title": "Sand exchange between groyne‐field beaches and the navigation channel of the Dutch Rhine: the impact of navigation versus river flow",
+          "year": 2004,
+          "cited": 57,
+          "abs_len": 2031,
+          "slots": [
+            "rhine",
+            "river",
+            "navigat"
+          ],
+          "doi": "10.1002/rra.809"
+        },
+        {
+          "oid": "W2733430212",
+          "title": "Monthly streamflow forecasting at varying spatial scales in the Rhine basin",
+          "year": 2018,
+          "cited": 17,
+          "abs_len": 1711,
+          "slots": [
+            "rhine",
+            "river",
+            "hydrolog"
+          ],
+          "doi": "10.5194/hess-22-929-2018"
+        }
+      ],
+      "n": 6
+    },
+    "维京时代": {
+      "cand": [
+        {
+          "oid": "W2164904993",
+          "title": "Viking Expansion Northwards: Mediaeval Sources",
+          "year": 1995,
+          "cited": 18,
+          "abs_len": 1372,
+          "slots": [
+            "viking",
+            "norse",
+            "scandinavia",
+            "expansion",
+            "trade"
+          ],
+          "doi": "10.14430/arctic1245"
+        },
+        {
+          "oid": "W4390564676",
+          "title": "Local Society and Viking-Age Towns",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 1303,
+          "slots": [
+            "viking",
+            "scandinavia",
+            "society",
+            "trade"
+          ],
+          "doi": "10.1017/9781009298070.006"
+        },
+        {
+          "oid": "W4285013244",
+          "title": "Introduction: Characteristics of the Viking Age in Scandinavia",
+          "year": 2022,
+          "cited": 0,
+          "abs_len": 1561,
+          "slots": [
+            "viking",
+            "norse",
+            "scandinavia",
+            "society"
+          ],
+          "doi": "10.7591/cornell/9781501760471.003.0001"
+        }
+      ],
+      "n": 17
+    },
+    "巴尔干半岛": {
+      "cand": [
+        {
+          "oid": "W4407567235",
+          "title": "THE BALKANS: HISTORY, RELIGION AND SOCIETY",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 7541,
+          "slots": [
+            "balkan",
+            "geograph",
+            "history",
+            "society"
+          ],
+          "doi": "10.51331/eb02"
+        },
+        {
+          "oid": "W4410878562",
+          "title": "The Balkan Peninsula and Its Languages",
+          "year": 2025,
+          "cited": 0,
+          "abs_len": 1302,
+          "slots": [
+            "balkan",
+            "geograph",
+            "history"
+          ],
+          "doi": "10.1017/9781139019095.003"
+        },
+        {
+          "oid": "W4407566623",
+          "title": "The Balkans Politics, History and Society",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 1916,
+          "slots": [
+            "balkan",
+            "history",
+            "society"
+          ],
+          "doi": "10.51331/eb06"
+        }
+      ],
+      "n": 6
+    },
+    "落基山脉": {
+      "cand": [
+        {
+          "oid": "W2106865001",
+          "title": "Large-scale geomorphology and fission-track thermochronology in topographic and exhumation reconstructions of the Southern Rocky Mountains",
+          "year": 1998,
+          "cited": 39,
+          "abs_len": 3923,
+          "slots": [
+            "rocky",
+            "mountain",
+            "geolog",
+            "orogen",
+            "evolution"
+          ],
+          "doi": "10.2113/33.2.229"
+        },
+        {
+          "oid": "W2340304559",
+          "title": "Introduction to special issues, Part II: Nature of tectonic boundaries in lithosphere of the Rocky Mountains",
+          "year": 1999,
+          "cited": 21,
+          "abs_len": 2017,
+          "slots": [
+            "rocky",
+            "mountain",
+            "geolog",
+            "orogen",
+            "evolution"
+          ],
+          "doi": "10.2113/34.1.1"
+        },
+        {
+          "oid": "W2043556372",
+          "title": "Tectonic evolution of the Proterozoic Colorado province, Southern Rocky Mountains: A summary and appraisal",
+          "year": 2003,
+          "cited": 34,
+          "abs_len": 1609,
+          "slots": [
+            "rocky",
+            "mountain",
+            "orogen",
+            "evolution"
+          ],
+          "doi": "10.2113/gsrocky.38.2.183"
+        }
+      ],
+      "n": 13
+    },
+    "格陵兰岛": {
+      "cand": [
+        {
+          "oid": "W2162366278",
+          "title": "Greenland ice sheet hydrology: A review",
+          "year": 2013,
+          "cited": 239,
+          "abs_len": 1671,
+          "slots": [
+            "greenland",
+            "ice sheet",
+            "climate",
+            "environment"
+          ],
+          "doi": "10.1177/0309133313507075"
+        },
+        {
+          "oid": "W2050677118",
+          "title": "Observations of Open System Pingos in a Marsh Environment, Mellemfjord, Disko, Central West Greenland",
+          "year": 1995,
+          "cited": 22,
+          "abs_len": 530,
+          "slots": [
+            "greenland",
+            "climate",
+            "geograph",
+            "environment"
+          ],
+          "doi": "10.1080/00167223.1995.10649362"
+        },
+        {
+          "oid": "W2283514634",
+          "title": "QUANTIFYING REGIONAL SEA LEVEL RISE CONTRIBUTIONS FROM THE GREENLAND ICE SHEET",
+          "year": 2013,
+          "cited": 0,
+          "abs_len": 1446,
+          "slots": [
+            "greenland",
+            "ice sheet",
+            "climate",
+            "geograph"
+          ],
+          "doi": "10.24057/2071-9388-2013-6-3-77-85"
+        }
+      ],
+      "n": 7
+    },
+    "阿塔卡马沙漠": {
+      "cand": [
+        {
+          "oid": "W2125388221",
+          "title": "Oligocene–Miocene age of aridity in the Atacama Desert revealed by exposure dating of erosion-sensitive landforms",
+          "year": 2005,
+          "cited": 505,
+          "abs_len": 751,
+          "slots": [
+            "atacama",
+            "desert",
+            "aridity",
+            "hyperarid"
+          ],
+          "doi": "10.1130/g21184.1"
+        },
+        {
+          "oid": "W2462899698",
+          "title": "Enhanced facilitation at the extreme end of the aridity gradient in the Atacama Desert: a community‐level approach",
+          "year": 2016,
+          "cited": 57,
+          "abs_len": 2243,
+          "slots": [
+            "atacama",
+            "desert",
+            "aridity",
+            "climate"
+          ],
+          "doi": "10.1890/15-1152.1"
+        },
+        {
+          "oid": "W3120072513",
+          "title": "Spatial Variability of Microbial Communities and Salt Distributions Across a Latitudinal Aridity Gradient in the Atacama Desert",
+          "year": 2021,
+          "cited": 37,
+          "abs_len": 1630,
+          "slots": [
+            "atacama",
+            "desert",
+            "aridity",
+            "hyperarid"
+          ],
+          "doi": "10.1007/s00248-020-01672-w"
+        }
+      ],
+      "n": 15
+    },
+    "马丘比丘": {
+      "cand": [
+        {
+          "oid": "W1983292771",
+          "title": "Inca Foundations, Site Preparation, and Drainage at Machu Picchu",
+          "year": 2012,
+          "cited": 5,
+          "abs_len": 922,
+          "slots": [
+            "machu picchu",
+            "archaeolog",
+            "construction",
+            "inca",
+            "site"
+          ],
+          "doi": "10.1061/(asce)sc.1943-5576.0000146"
+        },
+        {
+          "oid": "W2471346024",
+          "title": "MYSTERIES OF MACHU PICCHU AND INCA CIVILIZATION",
+          "year": 2016,
+          "cited": 0,
+          "abs_len": 1253,
+          "slots": [
+            "machu picchu",
+            "archaeolog",
+            "inca"
+          ],
+          "doi": "10.19075/2414-0031-2016-5-426-439"
+        }
+      ],
+      "n": 2
+    },
+    "大自流盆地": {
+      "cand": [
+        {
+          "oid": "W2132195427",
+          "title": "The hydrogeology of the Uitenhage Artesian Basin with reference to the Table Mountain Group Aquifer",
+          "year": 2001,
+          "cited": 37,
+          "abs_len": 2049,
+          "slots": [
+            "artesian",
+            "basin",
+            "hydrogeolog",
+            "groundwater"
+          ],
+          "doi": "10.4314/wsa.v27i4.4963"
+        },
+        {
+          "oid": "W2367241647",
+          "title": "Groundwater flow and transport model of the Estonian Artesian Basin and its hydrological developments",
+          "year": 2016,
+          "cited": 16,
+          "abs_len": 1012,
+          "slots": [
+            "artesian",
+            "basin",
+            "hydrogeolog",
+            "groundwater"
+          ],
+          "doi": "10.2166/nh.2016.104"
+        },
+        {
+          "oid": "W4404378090",
+          "title": "Formation conditions of fresh groundwater deposits in Irkutsk artesian basin",
+          "year": 2024,
+          "cited": 2,
+          "abs_len": 1749,
+          "slots": [
+            "artesian",
+            "basin",
+            "hydrogeolog",
+            "groundwater"
+          ],
+          "doi": "10.21285/2686-9993-2024-47-3-280-288"
+        }
+      ],
+      "n": 15
+    },
+    "新西兰南岛": {
+      "cand": [
+        {
+          "oid": "W2019965919",
+          "title": "Stratigraphy and Paleoecology of the Productus Creek Group, South Island, New Zealand",
+          "year": 1975,
+          "cited": 15,
+          "abs_len": 1004,
+          "slots": [
+            "south island",
+            "new zealand",
+            "environment"
+          ],
+          "doi": "10.1080/00288306.1975.10421544"
+        },
+        {
+          "oid": "W1978319611",
+          "title": "Rate of co‐seismic strain release in the northern South Island, New Zealand",
+          "year": 1993,
+          "cited": 11,
+          "abs_len": 711,
+          "slots": [
+            "south island",
+            "new zealand",
+            "geolog"
+          ],
+          "doi": "10.1080/00288306.1993.9514565"
+        },
+        {
+          "oid": "W1487977867",
+          "title": "Taiwan and South Island, New Zealand: A comparison of continental collisional orogenies",
+          "year": 2007,
+          "cited": 4,
+          "abs_len": 2010,
+          "slots": [
+            "south island",
+            "new zealand",
+            "geolog"
+          ],
+          "doi": "10.1029/175gm17"
+        }
+      ],
+      "n": 22
+    },
+    "大堡礁": {
+      "cand": [
+        {
+          "oid": "W5261359",
+          "title": "Taxonomy and ecology of non-geniculate coralline algae (corallinales, rhodophyta) on Heron Reef (Great Barrier Reef)",
+          "year": 2002,
+          "cited": 2,
+          "abs_len": 5705,
+          "slots": [
+            "great barrier",
+            "reef",
+            "ecolog",
+            "coral"
+          ],
+          "doi": "10.14264/105857"
+        },
+        {
+          "oid": "W2028211795",
+          "title": "PRIORITY EFFECTS IN CORAL REEF FISH COMMUNITIES OF THE GREAT BARRIER REEF",
+          "year": 2004,
+          "cited": 88,
+          "abs_len": 1479,
+          "slots": [
+            "great barrier",
+            "reef",
+            "coral"
+          ],
+          "doi": "10.1890/03-3166"
+        },
+        {
+          "oid": "W2913781828",
+          "title": "Managing the Great Barrier Reef",
+          "year": 2018,
+          "cited": 8,
+          "abs_len": 910,
+          "slots": [
+            "great barrier",
+            "reef",
+            "coral"
+          ],
+          "doi": "10.1201/9781351075602-11"
+        }
+      ],
+      "n": 6
+    },
+    "元代": {
+      "cand": [
+        {
+          "oid": "W4385538089",
+          "title": "The Mongol Yuan Dynasty in China",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1346,
+          "slots": [
+            "yuan dynasty",
+            "mongol",
+            "administrat",
+            "china"
+          ],
+          "doi": "10.1017/9781108355025.013"
+        }
+      ],
+      "n": 1
+    }
+  },
+  "http": {
+    "ok": 444,
+    "fail": 6
+  }
+}

@@ -566,9 +566,9 @@
       "tier": "重要"
     },
     "元代": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 1,
@@ -974,9 +974,9 @@
       "tier": "重要"
     },
     "多瑙河": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -986,9 +986,9 @@
       "tier": "重要"
     },
     "莱茵河": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -998,9 +998,9 @@
       "tier": "重要"
     },
     "维京时代": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 2,
         "data": 3,
@@ -1106,9 +1106,9 @@
       "tier": "重要"
     },
     "巴尔干半岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -1226,9 +1226,9 @@
       "tier": "核心"
     },
     "落基山脉": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 2,
@@ -1370,9 +1370,9 @@
       "tier": "补充"
     },
     "格陵兰岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 2,
         "data": 3,
@@ -1502,9 +1502,9 @@
       "tier": "补充"
     },
     "阿塔卡马沙漠": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 2,
@@ -1610,9 +1610,9 @@
       "tier": "核心"
     },
     "马丘比丘": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -1730,9 +1730,9 @@
       "tier": "重要"
     },
     "新西兰南岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -1814,9 +1814,9 @@
       "tier": "补充"
     },
     "大堡礁": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 1,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 173,
-    "B": 48,
+    "A": 184,
+    "B": 37,
     "C": 0,
     "D": 22
   },

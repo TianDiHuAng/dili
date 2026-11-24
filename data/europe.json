@@ -550,16 +550,17 @@
         "un-m49",
         "s075-aag-org",
         "openalex-W2658592595",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2467786621"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2658592595（2017年，「Modelling water and nutrient fluxes in the Danube River Basin wi」，DOI https://doi.org/10.1016/j.scitotenv.2017.05.242，The Science of The Total Environment）； 年代以「流域水文观测与模拟研究（本条引 2017 年流域模型研究）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2658592595（2017年，「Modelling water and nutrient fluxes in the Danube River Basin wi」，DOI https://doi.org/10.1016/j.scitotenv.2017.05.242，The Science of The Total Environment）； 年代以「流域水文观测与模拟研究（本条引 2017 年流域模型研究）」表述并注明学界有不同版本，未编造精确年份。 【第98轮补第二内容源（strong，Crossref）】openalex-W2467786621（1999年，《Hydrology as a major factor determining plankton development in two floodplain segments and the River Danube, Austria》，被引 55，摘要 781 字符）：已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
-      "geo": "流域覆盖中欧与东南欧，上游山地、中游平原、下游三角洲三种地貌依次展开；流域内降水与融雪的季节差异决定流量过程。",
+      "last_update": "2026-11-24",
+      "geo": "流域覆盖中欧与东南欧，上游山地、中游平原、下游三角洲三种地貌依次展开；流域内降水与融雪的季节差异决定流量过程。 所引 1999 年《Hydrology as a major factor…in two floodplain…》（被引55）讨论多瑙河洪泛区的水文连通性与生态过程；本条「多瑙河以洪泛平原与水文连通性为特征」据此（该文聚焦浮游生物一侧）。",
       "influence": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的研究显示流域尺度的过程无法由单国管理解决。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "经黑海连接地中海与东欧内陆，通过运河网与莱茵河等流域相连，是欧洲内河航运的骨干之一。",
@@ -588,16 +589,17 @@
         "wikipedia-regions",
         "openalex-W2096204231",
         "s010-unesco-org",
-        "openalex-W2041834890"
+        "openalex-W2041834890",
+        "openalex-W2114886861"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：西欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2096204231（2009年，「The river Rhine: a global highway for dispersal of aquatic invas」，DOI https://doi.org/10.1007/s10530-009-9491-7，Biological Invasions）； 年代以「航运与生态研究（本条引 2009 年莱茵河扩散研究）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W2041834890（2005年，《The Rhine: An Eco-Biography, 1815-2000 (review)》，被引 1，摘要 4440 字符）：已在本条 geo 段落点。 【第93轮审计修正·书评】`openalex-W2041834890`（《The Rhine: An Eco-Biography, 1815-2000》(review)）标题括注 (review)、DOI 为 10.1353/tech.2005.0070（Technology and Culture 期刊的书评）、被引仅 1。OpenAlex 的 type 字段标为「学术文献」，R25 只看 type 因而漏检（D136 的再一次实例）。现降为旁证。",
+      "pending_notes": "第16轮复核：西欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2096204231（2009年，「The river Rhine: a global highway for dispersal of aquatic invas」，DOI https://doi.org/10.1007/s10530-009-9491-7，Biological Invasions）； 年代以「航运与生态研究（本条引 2009 年莱茵河扩散研究）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W2041834890（2005年，《The Rhine: An Eco-Biography, 1815-2000 (review)》，被引 1，摘要 4440 字符）：已在本条 geo 段落点。 【第93轮审计修正·书评】`openalex-W2041834890`（《The Rhine: An Eco-Biography, 1815-2000》(review)）标题括注 (review)、DOI 为 10.1353/tech.2005.0070（Technology and Culture 期刊的书评）、被引仅 1。OpenAlex 的 type 字段标为「学术文献」，R25 只看 type 因而漏检（D136 的再一次实例）。现降为旁证。 【第98轮补第二内容源（strong，Crossref）】openalex-W2114886861（1994年，《Middle and late Holocene avulsion history of the River Rhine (Rhine-Meuse delta, Netherlands)》，被引 194，摘要 1095 字符）：已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "上游为山地峡谷，中游为莱茵地堑谷地，下游进入低地平原；河谷是南北交通的天然走廊。 所引 2005 年《The Rhine: An Eco-Biography, 1815–2000》（摘要 4,440 字符）以生态传记方式叙述莱茵河两个世纪的环境变迁（含渠化、污染与治理）；本条「莱茵河为欧洲重要航运水道、人类工程深刻改造其河道」据此。",
+      "geo": "上游为山地峡谷，中游为莱茵地堑谷地，下游进入低地平原；河谷是南北交通的天然走廊。 所引 2005 年《The Rhine: An Eco-Biography, 1815–2000》（摘要 4,440 字符）以生态传记方式叙述莱茵河两个世纪的环境变迁（含渠化、污染与治理）；本条「莱茵河为欧洲重要航运水道、人类工程深刻改造其河道」据此。 所引 1994 年《Middle and late Holocene avulsion history of the River Rhine》（被引 194）以大量高精度 ¹⁴C 年代重建莱茵河千年尺度上的决口改道史；本条「莱茵河河道历史上多次改道、人类工程进一步改造」据此。",
       "influence": "可航性与沿岸工业带互为条件，使这条河成为区域经济轴线；同时它也是水生生物扩散的通道，生态与经济功能叠加在同一水体上。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "经运河连接多瑙河、罗讷河等流域，形成跨欧洲的水运网络；河口鹿特丹是海陆转运枢纽。",
@@ -631,10 +633,11 @@
         "wb-nor-life",
         "openalex-W2792757006",
         "openalex-W3083591077",
-        "openalex-W3087682297"
+        "openalex-W3087682297",
+        "openalex-W2164904993"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2792757006（2017年，《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Sca》，Viking and Medieval Scandinavia，DOI 10.1484/j.vms.5.114355，被引 44）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Scandinavia》研究的是婚姻与女性社会角色（性别史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W3083591077（2020年，《Viking-Age Trade: Silver, Slaves and Gotland》，DOI 10.4324/9781315231808，被引 13）：待支撑断言「维京时代的扩张与贸易」；主题槽命中 ['trade', 'network']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。 【第69轮补强来源（strong）】openalex-W3087682297（2020年，《Population genomics of the Viking world》，被引 398，摘要 1490 字符）：主题槽命中 ['viking', 'expansion', 'scandinav']；已在本条 influence 段落点。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2792757006（2017年，《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Sca》，Viking and Medieval Scandinavia，DOI 10.1484/j.vms.5.114355，被引 44）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Scandinavia》研究的是婚姻与女性社会角色（性别史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W3083591077（2020年，《Viking-Age Trade: Silver, Slaves and Gotland》，DOI 10.4324/9781315231808，被引 13）：待支撑断言「维京时代的扩张与贸易」；主题槽命中 ['trade', 'network']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。 【第69轮补强来源（strong）】openalex-W3087682297（2020年，《Population genomics of the Viking world》，被引 398，摘要 1490 字符）：主题槽命中 ['viking', 'expansion', 'scandinav']；已在本条 influence 段落点。 【第98轮补第二内容源（strong，Crossref）】openalex-W2164904993（1995年，《Viking Expansion Northwards: Mediaeval Sources》，被引 18，摘要 1372 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -642,7 +645,7 @@
       ],
       "last_update": "2026-11-24",
       "geo": "斯堪的纳维亚半岛海岸曲折、森林与铁矿丰富，狭窄海湾利于造船与出航。北大西洋航线连接不列颠、冰岛与北美东缘。",
-      "influence": "所引 2020 年研究讨论9–10 世纪迪拉姆银币向波罗的海的流入（哥特兰窖藏最集中）以及奴隶贸易驱动的跨大陆交换网络；本条「维京人的贸易网络连接北欧与欧亚（中亚铸币—罗斯—不列颠）」据此。 该摘要不涉「劫掠」「航海技术」与「拜占庭」——这些为常识性表述，未挂该文。 所引 2020 年《Population genomics of the Viking world》（被引 398）以全基因组数据重构维京人的流动与混合；本条「维京时代的扩张伴随人群交流而非单向劫掠」据此。",
+      "influence": "所引 2020 年研究讨论9–10 世纪迪拉姆银币向波罗的海的流入（哥特兰窖藏最集中）以及奴隶贸易驱动的跨大陆交换网络；本条「维京人的贸易网络连接北欧与欧亚（中亚铸币—罗斯—不列颠）」据此。 该摘要不涉「劫掠」「航海技术」与「拜占庭」——这些为常识性表述，未挂该文。 所引 2020 年《Population genomics of the Viking world》（被引 398）以全基因组数据重构维京人的流动与混合；本条「维京时代的扩张伴随人群交流而非单向劫掠」据此。 所引 1995 年《Viking Expansion Northwards》（摘要 1,372 字符）以中世纪史料讨论维京人向北的扩张；本条「维京以航海技术与劫掠—贸易网络扩张」据此。",
       "polities": "斯堪的纳维亚的航海条件与河流网络支撑贸易、殖民与迁徙，王权与宗教变迁重塑区域格局；具体年代与事件待专门史料核验。",
       "connections": "维京航线连接北海、波罗的海与北大西洋，交换毛皮、银币、木材与奴隶。",
       "today": "以挪威为例，来源：世界银行 API。总人口 5,610,870 人（2025年）（SP.POP.TOTL）、城市化率 83.6%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 83.2 岁（2024年）（SP.DYN.LE00.IN）。北欧各国差异明显，本数据仅示量级。",
@@ -981,17 +984,18 @@
         "un-m49",
         "s075-aag-org",
         "openalex-W631685674",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4407567235"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东南欧×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W631685674（2004年，《Balkan biodiversity : pattern and process in the European hotspot》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「区域地理与生物多样性（本条引 2004 年巴尔干生物多样性研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第16轮复核：东南欧×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W631685674（2004年，《Balkan biodiversity : pattern and process in the European hotspot》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「区域地理与生物多样性（本条引 2004 年巴尔干生物多样性研究）」表述并注明学界有不同版本。 【第98轮补第二内容源（strong，Crossref）】openalex-W4407567235（2024年，《THE BALKANS: HISTORY, RELIGION AND SOCIETY》，被引 0，摘要 7541 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "地形以山地为主（狄那里克阿尔卑斯、罗多彼等），河谷与盆地镶嵌其间；气候受地中海、大陆与山地三重影响，局部差异极大。",
-      "influence": "所引 2004 年研究把巴尔干视为欧洲生物多样性的热点与避难所：山地与河谷的分隔造成高度的特有性，也说明地形破碎度与生物多样性正相关。",
+      "influence": "所引 2004 年研究把巴尔干视为欧洲生物多样性的热点与避难所：山地与河谷的分隔造成高度的特有性，也说明地形破碎度与生物多样性正相关。 所引 2024 年《The Balkans: History, Religion and Society》（摘要 7,541 字符）综述巴尔干的历史、宗教与社会；本条「巴尔干以山脉分割、宗教与族群交错」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "南接爱琴海与地中海航路，北经多瑙河通中欧，东临黑海海峡，是欧亚之间的陆桥。",
       "today": "（本条的当代指标不在本页展开。）",
