@@ -446,9 +446,9 @@
       "tier": "补充"
     },
     "笈多王朝": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 3,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -1466,9 +1466,9 @@
       "tier": "核心"
     },
     "巴西高原": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2078,9 +2078,9 @@
       "tier": "核心"
     },
     "冲积平原": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 208,
-    "B": 6,
+    "A": 211,
+    "B": 3,
     "C": 0,
     "D": 29
   },

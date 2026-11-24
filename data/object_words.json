@@ -446,7 +446,8 @@
     "caribbean"
   ],
   "巴西高原": [
-    "brazil"
+    "brazil",
+    "brazilian highland"
   ],
   "莫切文化": [
     "moche"
@@ -732,5 +733,12 @@
   ],
   "巴塔哥尼亚高原": [
     "patagonia"
+  ],
+  "卫星遥感地表观测": [
+    "remote sensing",
+    "satellite",
+    "land cover",
+    "landsat",
+    "earth observation"
   ]
 }

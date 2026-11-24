@@ -85,3 +85,9 @@
 - 结果：检索通道失败，不是检索结论。OpenAlex works?search 两次均 429；Crossref 按被引排序返回无关高被引论文，全部拒收。
 - 按 D110，不得写成“无候选”。6 条保持原状，G3 维持 6，A 维持 208。
 - 下一轮：用 Crossref query.bibliographic + filter=has-abstract:true 按相关度排序，再经 DOI 桥取 OpenAlex 摘要；并为卫星遥感地表观测补 object_words。
+
+## 第111轮
+- 方法：Crossref query.bibliographic + has-abstract 按相关度检索，经 DOI 桥取 OpenAlex 摘要，逐条阅读。
+- 登记：笈多王朝（2016 百科条目 + 2024 钱币学专著，后者纪年 319–543 与 Wikidata 320/550 并列）、冲积平原（2016 亚马孙前陆盆地，决口扇与改道）、巴西高原（2026 SSRN 预印本，已标证据有限）。
+- 拒收：卫星遥感 GLC_FCS30D 内容相关但标题无对象词（R20 拦截后撤回）；拉普拉塔平原候选全部对象不符；大分水岭最佳候选已是现有来源。
+- 结果：G3 6→3（拉普拉塔平原、大分水岭、卫星遥感地表观测），A 208→211，check 0 错误。

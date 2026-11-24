@@ -303,17 +303,18 @@
         "s016-fao-org",
         "openalex-W2154930938",
         "s010-unesco-org",
-        "openalex-W3095474398"
+        "openalex-W3095474398",
+        "openalex-W1755791855"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 0；s016（FAO Land overview）200 / 4070 字符 / 命中 0。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2154930938（2005年，《Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength》，DOI https://doi.org/10.2110/jsr.2005.029）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质尺度（本条引 2005 年冲积序列研究）」表述并注明学界有不同版本。 【第103轮检索记录】过筛候选《Walls Formation, Western Shetland》(1985, 摘要 1,492) 研究设得兰群岛西部的一处泥盆纪冲积层序（局部地质），不支撑冲积平原的一般形成机制。不采用。 【第105轮补第二内容源（Crossref，旁证）】openalex-W3095474398（2020年，《Channel-floodplain response to changes in sediment supply and floodplain width》，被引 2，摘要 1597 字符）：已在本条 geo 段落点。 【第107轮检索记录】候选均为区域或古盆地个案（Yahagi 河下游、Calore 河、密西西比下游、Walls 组、East Berlin 组），不能支撑冲积平原的一般论断，不采用。",
+      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 0；s016（FAO Land overview）200 / 4070 字符 / 命中 0。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2154930938（2005年，《Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength》，DOI https://doi.org/10.2110/jsr.2005.029）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质尺度（本条引 2005 年冲积序列研究）」表述并注明学界有不同版本。 【第103轮检索记录】过筛候选《Walls Formation, Western Shetland》(1985, 摘要 1,492) 研究设得兰群岛西部的一处泥盆纪冲积层序（局部地质），不支撑冲积平原的一般形成机制。不采用。 【第105轮补第二内容源（Crossref，旁证）】openalex-W3095474398（2020年，《Channel-floodplain response to changes in sediment supply and floodplain width》，被引 2，摘要 1597 字符）：已在本条 geo 段落点。 【第107轮检索记录】候选均为区域或古盆地个案（Yahagi 河下游、Calore 河、密西西比下游、Walls 组、East Berlin 组），不能支撑冲积平原的一般论断，不采用。 【第111轮补第二内容源】openalex-W1755791855（2016年，《Alluvial plain dynamics in the southern Amazonian foreland basin》，被引 33，摘要 1804 字符）：已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-24",
-      "geo": "由河道反复迁移与泛滥堆积形成，沉积物以砂、粉砂与黏土互层；地形极平坦，坡度常小于1‰，微地形决定排水与土壤差异。 所引 2020 年《Channel-floodplain response to changes in sediment supply and floodplain width》（被引2，摘要 1,597 字符）讨论泥沙供给与河漫滩宽度如何影响冲积河道与漫滩的几何形态和演化，对应冲积平原的形成过程；属水槽或模型类研究章节，被引很少，证据强度有限。",
+      "geo": "由河道反复迁移与泛滥堆积形成，沉积物以砂、粉砂与黏土互层；地形极平坦，坡度常小于1‰，微地形决定排水与土壤差异。 所引 2020 年《Channel-floodplain response to changes in sediment supply and floodplain width》（被引2，摘要 1,597 字符）讨论泥沙供给与河漫滩宽度如何影响冲积河道与漫滩的几何形态和演化，对应冲积平原的形成过程；属水槽或模型类研究章节，被引很少，证据强度有限。 所引 2016 年《Alluvial plain dynamics in the southern Amazonian foreland basin》（被引33，摘要 1,804 字符）指出冲积平原由河流向邻近泛洪盆地堆积的沉积物构成，主要经决口扇与改道（crevasse splays and avulsions）实现；本条「由河道反复迁移与泛滥堆积形成」据此。",
       "influence": "所引 2005 年研究以不连续界面划分冲积序列，说明平原的堆积并非连续均匀，而是由洪水事件与河道改道分段形成——这决定了对平原地层与古洪水记录的解释方式。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "连接上游侵蚀区与下游三角洲，是泥沙与水量的输送通道，也是农业与聚落最密集的地带。",
@@ -1740,11 +1741,11 @@
         "s038-earthobservatory-nasa-gov"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s041 标题即主题（Landsat），剥离后 21601 字符、landsat|satellite 命中 116）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·卫星遥感地表观测】本条正则 landsat|satellite（英文源用英文，D070）；s041-science-nasa-gov=200/正文21599字符/本条命中116；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中1。档位判定：档①5000。D055 判定：达标（档①5000：正文21599、命中116）。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s041 标题即主题（Landsat），剥离后 21601 字符、landsat|satellite 命中 116）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·卫星遥感地表观测】本条正则 landsat|satellite（英文源用英文，D070）；s041-science-nasa-gov=200/正文21599字符/本条命中116；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中1。档位判定：档①5000。D055 判定：达标（档①5000：正文21599、命中116）。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第111轮检索记录】候选 GLC_FCS30D（被引612）内容相关，但标题不含对象词（remote sensing/satellite），按 R20 不登记为本条来源；第二内容源仍缺。",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "不同波段对植被、水体、冰雪与裸地敏感，空间与时间分辨率决定可观测的尺度；云覆盖与地形阴影是限制因素。",
       "influence": "遥感把点观测扩展为面状时序数据，支撑变化检测与资源评估；结果精度依赖定标、算法与地面验证。",
       "polities": "本条不展开政权序列；数据共享与开放政策影响应用范围。",

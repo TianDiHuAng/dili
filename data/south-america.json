@@ -109,17 +109,18 @@
         "wikipedia-regions",
         "ap-human-geo",
         "openalex-W1982587238",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W7143967103"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1982587238（2007年，《The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition》，DOI https://doi.org/10.1179/174963107x226390）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）」表述并注明学界有不同版本。 【第80轮检索记录】过筛候选《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020, 被引7) 只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部区域），不支撑高原的地质与地貌总体。不采用。 【第87轮检索记录】候选仍是《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020)——只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部），第80轮已拒。 【已列为无解（D145）】连续两轮（第80、87轮）命中同一篇局部喀斯特地貌制图（仅覆盖里奥韦尔梅柳保护区）。无高原尺度的地质地貌综述可得。停止重试。",
+      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1982587238（2007年，《The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition》，DOI https://doi.org/10.1179/174963107x226390）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）」表述并注明学界有不同版本。 【第80轮检索记录】过筛候选《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020, 被引7) 只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部区域），不支撑高原的地质与地貌总体。不采用。 【第87轮检索记录】候选仍是《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020)——只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部），第80轮已拒。 【已列为无解（D145）】连续两轮（第80、87轮）命中同一篇局部喀斯特地貌制图（仅覆盖里奥韦尔梅柳保护区）。无高原尺度的地质地貌综述可得。停止重试。 【第111轮补第二内容源】openalex-W7143967103（2026年，《Fire History and Conservation Value of Open Ecosystems in South Brazilian Highlands》，被引 0，摘要 1635 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
       "geo": "高原海拔多在500–1000米，边缘陡降为崖壁；气候自热带向亚热带过渡，降水与干季长度决定植被类型。",
-      "influence": "所引 2007 年研究讨论 Araucaria 森林在巴西南部的扩张，显示植被分布随气候与人类活动的千年尺度变化而移动，不是固定不变的景观。",
+      "influence": "所引 2007 年研究讨论 Araucaria 森林在巴西南部的扩张，显示植被分布随气候与人类活动的千年尺度变化而移动，不是固定不变的景观。 所引 2026 年 SSRN 预印本《Fire History and Conservation Value of Open Ecosystems in South Brazilian Highlands》（被引0，摘要 1,635 字符）指出巴西南部高原草地历史上由火与放牧塑造，保护区排除干扰后出现高草优势与木本入侵；本条「植被分布随气候与人类活动的千年尺度变化而移动」据此补一例（火与放牧为人类活动一侧）。该文为未经同行评审的预印本，证据强度有限。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "高原上的河流多向西或向北汇入亚马孙与巴拉那水系，是南美内陆水系的源头区。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -154,7 +155,7 @@
         "openalex-W7150774676"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮检索记录】过筛候选《Sustainable intensification of agriculture and economy》(2022, 被引3) 摘要以「任何人类活动都有影响」泛论开场，未见针对潘帕斯的具体结论。不采用。 【第87轮检索记录】候选仍是《Sustainable intensification of agriculture》(2022)——泛论，第80轮已拒。 【已列为无解（D145）】连续两轮（第80、87轮）命中同一篇泛论（《Sustainable intensification of agriculture》，摘要以「任何人类活动都有影响」开场，无潘帕斯具体结论）。停止重试。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮检索记录】过筛候选《Sustainable intensification of agriculture and economy》(2022, 被引3) 摘要以「任何人类活动都有影响」泛论开场，未见针对潘帕斯的具体结论。不采用。 【第87轮检索记录】候选仍是《Sustainable intensification of agriculture》(2022)——泛论，第80轮已拒。 【已列为无解（D145）】连续两轮（第80、87轮）命中同一篇泛论（《Sustainable intensification of agriculture》，摘要以「任何人类活动都有影响」开场，无潘帕斯具体结论）。停止重试。 【第111轮检索记录】Crossref 相关度检索（Pampas plain Argentina geomorphology / Rio de la Plata basin）12 条过筛候选，最接近者《Pliocene pedosedimentary cycles in the southern Pampas》(2000, 被引52) 讨论上新世古土壤，不支撑本条「黑土肥沃、农牧业」；其余为殖民史、鱼类生化等无关对象，全部拒收。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
