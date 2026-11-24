@@ -10287,6 +10287,58 @@
       "verified": true,
       "page_title": "The Antarctic Specially Protected Species conservation management tool: Development, use and future outlook",
       "note": "OpenAlex 作品 W4403964437（DOI 10.1016/j.biocon.2024.110835）；2024年；被引 8。HTTP 200，29545 字节。摘要长度 1689 字符；主题槽命中 ['antarctic', 'protected', 'area', 'conservation', 'management']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2093695471",
+      "title": "OpenAlex W2093695471 — A Re-Examination of the Evidence for Agricultural Origins in the Nile Valley",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1971,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2093695471",
+      "url2": "https://doi.org/10.1017/s0079497x0001255x",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "A Re-Examination of the Evidence for Agricultural Origins in the Nile Valley",
+      "note": "OpenAlex 作品 W2093695471（DOI 10.1017/s0079497x0001255x）；1971年；被引 94。HTTP 200，14649 字节。摘要长度 1439 字符；主题槽命中 ['nile', 'valley', 'agricultur']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W3036250648",
+      "title": "OpenAlex W3036250648 — Evolution of agricultural civilization in the Yellow River Basin based on the technology-economic paradigm",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2020,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3036250648",
+      "url2": "https://doi.org/10.18402/resci.2020.01.02",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Evolution of agricultural civilization in the Yellow River Basin based on the technology-economic paradigm",
+      "note": "OpenAlex 作品 W3036250648（DOI 10.18402/resci.2020.01.02）；2020年；被引 7。HTTP 200，16220 字节。摘要长度 1789 字符；主题槽命中 ['yellow river', 'neolithic', 'agricultur', 'basin']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4248129382",
+      "title": "OpenAlex W4248129382 — Starch granule analysis reveals the functions of stone tools and implications on subsistence economy in Neolithic Yangtze River Basin, China",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2021,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4248129382",
+      "url2": "https://doi.org/10.18520/cs/v120/i9/1520-1526",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Starch granule analysis reveals the functions of stone tools and implications on subsistence economy in Neolithic Yangtze River Basin, China",
+      "note": "OpenAlex 作品 W4248129382（DOI 10.18520/cs/v120/i9/1520-1526）；2021年；被引 3。HTTP 200，18564 字节。摘要长度 816 字符；主题槽命中 ['yangtze', 'neolithic', 'agricultur', 'basin']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W3182616223",
+      "title": "OpenAlex W3182616223 — Early Dynastic Sealing Practices as a Reflection of State Formation in Egypt",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2018,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3182616223",
+      "url2": "https://doi.org/10.1017/9781108160186.018",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Early Dynastic Sealing Practices as a Reflection of State Formation in Egypt",
+      "note": "OpenAlex 作品 W3182616223（DOI 10.1017/9781108160186.018）；2018年；被引 3。HTTP 200，10333 字节。摘要长度 994 字符；主题槽命中 ['early dynastic', 'egypt', 'state', 'administrat', 'dynast']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

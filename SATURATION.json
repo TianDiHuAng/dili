@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 99,
+  "last_round": 101,
   "history": [
     {
       "round": 1,
@@ -762,8 +762,8 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 190,
-      "B": 31,
+      "A": 194,
+      "B": 27,
       "C": 0,
       "D": 22
     },
@@ -775,8 +775,8 @@
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json",
-    "ge2_content": 190,
-    "one_content": 51,
+    "ge2_content": 194,
+    "one_content": 47,
     "zero_content": 2,
     "criterion": "tools/assess.py（D138 单一实现）",
     "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）",
@@ -804,7 +804,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 31,
+        "count": 27,
         "fixed_by": "补第二内容源，须过 R19/R20/R22/R25"
       },
       {
@@ -832,6 +832,10 @@
     {
       "round": 95,
       "event": "G1=0、C=0（D152 判据收敛并完成全量复核后重算；与第85轮的假清零不同）"
+    },
+    {
+      "round": 101,
+      "event": "核心缺口清零（G3a 核心 0 / G3b 核心 0）；剩余 27 条均为重要或补充级"
     }
   ],
   "unsolvable": [

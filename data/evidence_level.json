@@ -14,9 +14,9 @@
       "tier": "核心"
     },
     "尼罗河谷": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -110,9 +110,9 @@
       "tier": "重要"
     },
     "古埃及早王朝": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -458,9 +458,9 @@
       "tier": "重要"
     },
     "黄河流域": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -470,9 +470,9 @@
       "tier": "核心"
     },
     "长江流域": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 4,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 190,
-    "B": 31,
+    "A": 194,
+    "B": 27,
     "C": 0,
     "D": 22
   },

@@ -1481,6 +1481,21 @@
       "sample_rate": "41项边界用例 + 6项交叉一致性 + 全量来源引用核查",
       "sample_audit": "边界用例0失败、一致性0问题；新发现777登记中139未引用（D154）",
       "note": "D154：来源登记数≠引用数（638 引用/139 未引用）；缺口 G1=0/G3a=14/G3b=17"
+    },
+    {
+      "round": 101,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 4,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "4条核心缺口",
+      "sample_audit": "4/4有候选0%失败；3+1条登记，核心缺口清零",
+      "note": "核心清零：G3a核心 1→0、G3b核心 3→0；G3 31→27；A194"
     }
   ]
 }

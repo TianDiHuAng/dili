@@ -1,0 +1,215 @@
+{
+  "results": {
+    "长江流域": {
+      "cand": [
+        {
+          "oid": "W4248129382",
+          "title": "Starch granule analysis reveals the functions of stone tools and implications on subsistence economy in Neolithic Yangtze River Basin, China",
+          "year": 2021,
+          "cited": 3,
+          "abs_len": 816,
+          "slots": [
+            "yangtze",
+            "neolithic",
+            "agricultur",
+            "basin"
+          ],
+          "doi": "10.18520/cs/v120/i9/1520-1526"
+        },
+        {
+          "oid": "W7118013113",
+          "title": "Multidimensional Drought Relationships in the Yangtze River Basin: Causality, Propagation Thresholds, and Drought Resistance Capacity",
+          "year": 2026,
+          "cited": 1,
+          "abs_len": 1446,
+          "slots": [
+            "yangtze",
+            "agricultur",
+            "basin"
+          ],
+          "doi": "10.3390/agriculture16010118"
+        },
+        {
+          "oid": "W4311626263",
+          "title": "Does the 10-Year Fishing Ban Compensation Policy in the Yangtze River Basin Improve the Livelihoods of Fishing Households? Evidence from Ma’anshan City, China",
+          "year": 2022,
+          "cited": 19,
+          "abs_len": 1280,
+          "slots": [
+            "yangtze",
+            "basin"
+          ],
+          "doi": "10.3390/agriculture12122088"
+        },
+        {
+          "oid": "W4366987302",
+          "title": "Case Study of Pumping and Recharging in the Floodplain by Yangtze River in Jiang Bei Nanjing",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 1594,
+          "slots": [
+            "yangtze",
+            "floodplain"
+          ],
+          "doi": "10.57237/j.cear.2023.01.004"
+        }
+      ],
+      "n": 4
+    },
+    "尼罗河谷": {
+      "cand": [
+        {
+          "oid": "W1992606798",
+          "title": "The Location of Land Use Types: The Nile Valley in Northern Sudan",
+          "year": 1970,
+          "cited": 23,
+          "abs_len": 1715,
+          "slots": [
+            "nile",
+            "valley",
+            "agricultur",
+            "geograph"
+          ],
+          "doi": "10.2307/142683"
+        },
+        {
+          "oid": "W2093695471",
+          "title": "A Re-Examination of the Evidence for Agricultural Origins in the Nile Valley",
+          "year": 1971,
+          "cited": 94,
+          "abs_len": 1439,
+          "slots": [
+            "nile",
+            "valley",
+            "agricultur"
+          ],
+          "doi": "10.1017/s0079497x0001255x"
+        },
+        {
+          "oid": "W2922254056",
+          "title": "The Fertile Crescent and the Nile Valley",
+          "year": 2018,
+          "cited": 0,
+          "abs_len": 903,
+          "slots": [
+            "nile",
+            "valley",
+            "floodplain"
+          ],
+          "doi": "10.4324/9780203827550-3"
+        },
+        {
+          "oid": "W1788968059",
+          "title": "Introduction and the example of the Nile",
+          "year": 1997,
+          "cited": 0,
+          "abs_len": 1448,
+          "slots": [
+            "nile",
+            "floodplain",
+            "geograph"
+          ],
+          "doi": "10.1017/cbo9780511607820.002"
+        }
+      ],
+      "n": 5
+    },
+    "古埃及早王朝": {
+      "cand": [
+        {
+          "oid": "W3182616223",
+          "title": "Early Dynastic Sealing Practices as a Reflection of State Formation in Egypt",
+          "year": 2018,
+          "cited": 3,
+          "abs_len": 994,
+          "slots": [
+            "early dynastic",
+            "egypt",
+            "state",
+            "administrat",
+            "dynast"
+          ],
+          "doi": "10.1017/9781108160186.018"
+        },
+        {
+          "oid": "W1982277160",
+          "title": "EARLY DYNASTIC EGYPT",
+          "year": 1999,
+          "cited": 462,
+          "abs_len": 795,
+          "slots": [
+            "early dynastic",
+            "egypt",
+            "state",
+            "dynast"
+          ],
+          "doi": "10.4324/9780203024386"
+        }
+      ],
+      "n": 2
+    },
+    "黄河流域": {
+      "cand": [
+        {
+          "oid": "W4232042281",
+          "title": "Exploration on Ecological Restoration Model for the Improvement of Ecosystem Services of Yellow River Floodplains —A Case Study of Zhengzhou Yellow River Floodplain Park Planning and Design",
+          "year": 2021,
+          "cited": 11,
+          "abs_len": 1601,
+          "slots": [
+            "yellow river",
+            "agricultur",
+            "basin",
+            "floodplain"
+          ],
+          "doi": "10.15302/j-laf-1-040025"
+        },
+        {
+          "oid": "W3036250648",
+          "title": "Evolution of agricultural civilization in the Yellow River Basin based on the technology-economic paradigm",
+          "year": 2020,
+          "cited": 7,
+          "abs_len": 1789,
+          "slots": [
+            "yellow river",
+            "neolithic",
+            "agricultur",
+            "basin"
+          ],
+          "doi": "10.18402/resci.2020.01.02"
+        },
+        {
+          "oid": "W4392156125",
+          "title": "Geographical Types and Driving Mechanisms of Rural Hollowing-Out in the Yellow River Basin",
+          "year": 2024,
+          "cited": 12,
+          "abs_len": 2676,
+          "slots": [
+            "yellow river",
+            "agricultur",
+            "basin"
+          ],
+          "doi": "10.3390/agriculture14030365"
+        },
+        {
+          "oid": "W4391432221",
+          "title": "Does Urbanization Affect the Carbon-Output Efficiency of Agriculture? Empirical Evidence from the Yellow River Basin",
+          "year": 2024,
+          "cited": 6,
+          "abs_len": 1872,
+          "slots": [
+            "yellow river",
+            "agricultur",
+            "basin"
+          ],
+          "doi": "10.3390/agriculture14020245"
+        }
+      ],
+      "n": 17
+    }
+  },
+  "http": {
+    "ok": 235,
+    "fail": 0
+  }
+}
