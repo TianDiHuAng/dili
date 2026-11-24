@@ -1,0 +1,388 @@
+{
+  "大平原": {
+    "cand": [
+      {
+        "oid": "W2186081253",
+        "title": "Ethnicity on the Great Plains: Preface & Introduction",
+        "year": 1980,
+        "cited": 12,
+        "abs_len": 3398,
+        "slots": [
+          "great plains",
+          "settle",
+          "agricultur",
+          "history"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W4406498973",
+        "title": "Encyclopedia of the Great Plains Indians",
+        "year": 2011,
+        "cited": 11,
+        "abs_len": 942,
+        "slots": [
+          "great plains",
+          "settle",
+          "agricultur",
+          "history"
+        ],
+        "doi": "https://doi.org/10.5250/9781496245205"
+      },
+      {
+        "oid": "W2021365919",
+        "title": "A five‐year analysis of MODIS NDVI and NDWI for grassland drought assessment over the central Great Plains of the United States",
+        "year": 2007,
+        "cited": 843,
+        "abs_len": 1097,
+        "slots": [
+          "great plains",
+          "grassland",
+          "history"
+        ],
+        "doi": "https://doi.org/10.1029/2006gl029127"
+      }
+    ],
+    "n": 24
+  },
+  "玛雅文明": {
+    "cand": [
+      {
+        "oid": "W579057180",
+        "title": "Ancestral Maya Economies in Archaeological Perspective",
+        "year": 2010,
+        "cited": 191,
+        "abs_len": 1121,
+        "slots": [
+          "maya",
+          "civiliz",
+          "society",
+          "politic",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1017/cbo9781139195867"
+      },
+      {
+        "oid": "W4247140245",
+        "title": "Lightning Warrior: Maya Art and Kingship at Quirigua",
+        "year": 2003,
+        "cited": 133,
+        "abs_len": 1546,
+        "slots": [
+          "maya",
+          "civiliz",
+          "society",
+          "politic"
+        ],
+        "doi": "https://doi.org/10.7560/705562"
+      },
+      {
+        "oid": "W2334372469",
+        "title": "Polychrome Pottery and Political Strategies in Late and Terminal Classic Lowland Maya Society",
+        "year": 1999,
+        "cited": 118,
+        "abs_len": 1428,
+        "slots": [
+          "maya",
+          "society",
+          "politic",
+          "state"
+        ],
+        "doi": "https://doi.org/10.2307/972029"
+      }
+    ],
+    "n": 16
+  },
+  "安第斯山脉": {
+    "cand": [
+      {
+        "oid": "W2112184907",
+        "title": "Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution, and Biodiversity",
+        "year": 2010,
+        "cited": 2762,
+        "abs_len": 802,
+        "slots": [
+          "andes",
+          "andean",
+          "geolog",
+          "uplift",
+          "climate"
+        ],
+        "doi": "https://doi.org/10.1126/science.1194585"
+      },
+      {
+        "oid": "W2065079127",
+        "title": "Andean uplift and climate change",
+        "year": 2003,
+        "cited": 252,
+        "abs_len": 747,
+        "slots": [
+          "andes",
+          "andean",
+          "uplift",
+          "climate"
+        ],
+        "doi": "https://doi.org/10.1144/0016-764902-083"
+      },
+      {
+        "oid": "W2001265377",
+        "title": "Mountain building in the central Andes",
+        "year": 1989,
+        "cited": 187,
+        "abs_len": 3067,
+        "slots": [
+          "andes",
+          "andean",
+          "geolog",
+          "uplift"
+        ],
+        "doi": "https://doi.org/10.1029/jb094ib04p03891"
+      }
+    ],
+    "n": 16
+  },
+  "印加帝国": {
+    "cand": [
+      {
+        "oid": "W2073474856",
+        "title": "Machu Picchu: Unveiling the Mystery of the Incas",
+        "year": 2005,
+        "cited": 15,
+        "abs_len": 6157,
+        "slots": [
+          "inca",
+          "empire",
+          "administrat",
+          "road",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1215/00182168-85-3-500"
+      },
+      {
+        "oid": "W4412174993",
+        "title": "Barter and Hierarchy: A Heuristic-Practical Analysis of Food, Society, and Knowledge in the Inca Empire",
+        "year": 2025,
+        "cited": 0,
+        "abs_len": 1124,
+        "slots": [
+          "inca",
+          "empire",
+          "administrat",
+          "road",
+          "state"
+        ],
+        "doi": "https://doi.org/10.62656/sijss.v23i3.2202"
+      },
+      {
+        "oid": "W3083669428",
+        "title": "The Archaeology of Qhapaq Ñan (Inca Royal Road)",
+        "year": 2020,
+        "cited": 0,
+        "abs_len": 2648,
+        "slots": [
+          "inca",
+          "empire",
+          "administrat",
+          "road",
+          "state"
+        ],
+        "doi": "https://doi.org/10.1093/acrefore/9780190854584.013.480"
+      }
+    ],
+    "n": 25
+  },
+  "澳大利亚大陆": {
+    "cand": [
+      {
+        "oid": "W2120218248",
+        "title": "Climate change and Australia: Trends, projections and impacts",
+        "year": 2003,
+        "cited": 941,
+        "abs_len": 3793,
+        "slots": [
+          "australia",
+          "climate",
+          "continent",
+          "arid"
+        ],
+        "doi": "https://doi.org/10.1111/j.1442-9993.2003.tb00266.x"
+      },
+      {
+        "oid": "W2135867331",
+        "title": "Climate change and Australia",
+        "year": 2013,
+        "cited": 241,
+        "abs_len": 1897,
+        "slots": [
+          "australia",
+          "climate",
+          "continent",
+          "arid"
+        ],
+        "doi": "https://doi.org/10.1002/wcc.255"
+      },
+      {
+        "oid": "W2802532600",
+        "title": "Early Cretaceous polar biotas of Victoria, southeastern Australia—an overview of research to date",
+        "year": 2018,
+        "cited": 89,
+        "abs_len": 4816,
+        "slots": [
+          "australia",
+          "geolog",
+          "continent",
+          "arid"
+        ],
+        "doi": "https://doi.org/10.1080/03115518.2018.1453085"
+      }
+    ],
+    "n": 22
+  },
+  "澳大利亚原住民": {
+    "cand": [
+      {
+        "oid": "W1992578884",
+        "title": "Reempowering Ourselves: Australian Aboriginal Women",
+        "year": 2010,
+        "cited": 134,
+        "abs_len": 1946,
+        "slots": [
+          "aboriginal",
+          "indigenous",
+          "society",
+          "land"
+        ],
+        "doi": "https://doi.org/10.1086/648511"
+      },
+      {
+        "oid": "W1486731256",
+        "title": "Evidence of ENSO mega‐drought triggered collapse of prehistory Aboriginal society in northwest Australia",
+        "year": 2012,
+        "cited": 87,
+        "abs_len": 1273,
+        "slots": [
+          "aboriginal",
+          "society",
+          "land",
+          "prehistor"
+        ],
+        "doi": "https://doi.org/10.1029/2012gl053916"
+      },
+      {
+        "oid": "W161235533",
+        "title": "Australia's Aboriginal Small Business Owners: Challenges for the Future",
+        "year": 1999,
+        "cited": 68,
+        "abs_len": 3952,
+        "slots": [
+          "aboriginal",
+          "indigenous",
+          "society",
+          "land"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 17
+  },
+  "波利尼西亚": {
+    "cand": [
+      {
+        "oid": "W2241623891",
+        "title": "Micronesian and Polynesian Voyaging: Three Readings",
+        "year": 1976,
+        "cited": 5,
+        "abs_len": 2690,
+        "slots": [
+          "polynesia",
+          "polynesian",
+          "settle",
+          "navigat",
+          "island",
+          "society"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W2905683626",
+        "title": "The Making of Tupaia’s Map: A Story of the Extent and Mastery of Polynesian Navigation, Competing Systems of Wayfinding on James Cook’s Endeavour , and the Invention of an Ingenious Cartographic System",
+        "year": 2018,
+        "cited": 77,
+        "abs_len": 1049,
+        "slots": [
+          "polynesia",
+          "polynesian",
+          "navigat",
+          "island",
+          "society"
+        ],
+        "doi": "https://doi.org/10.1080/00223344.2018.1512369"
+      },
+      {
+        "oid": "W4299828489",
+        "title": "Polynesian researches during a residence of nearly eight years in the Society and Sandwich Islands /",
+        "year": 1831,
+        "cited": 73,
+        "abs_len": 1640,
+        "slots": [
+          "polynesia",
+          "polynesian",
+          "settle",
+          "island",
+          "society"
+        ],
+        "doi": "https://doi.org/10.5962/bhl.title.162864"
+      }
+    ],
+    "n": 20
+  },
+  "河流三角洲": {
+    "cand": [
+      {
+        "oid": "W2097225658",
+        "title": "High-Resolution Stratigraphy of a Mississippi Subdelta-Lobe Progradation in the Barataria Bight, North-Central Gulf of Mexico",
+        "year": 2006,
+        "cited": 23,
+        "abs_len": 1150,
+        "slots": [
+          "delta",
+          "sediment",
+          "evolution",
+          "stratigraph",
+          "prograd"
+        ],
+        "doi": "https://doi.org/10.2110/jsr.2006.030"
+      },
+      {
+        "oid": "W55146376",
+        "title": "An application of sequence stratigraphy to Mars: the Eberswalde fan delta",
+        "year": 2008,
+        "cited": 6,
+        "abs_len": 2009,
+        "slots": [
+          "delta",
+          "sediment",
+          "evolution",
+          "stratigraph",
+          "prograd"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W1995963722",
+        "title": "Stratigraphy and sedimentology of the Niger Delta",
+        "year": 2011,
+        "cited": 386,
+        "abs_len": 2527,
+        "slots": [
+          "delta",
+          "sediment",
+          "stratigraph",
+          "prograd"
+        ],
+        "doi": "https://doi.org/10.2478/v10118-011-0008-3"
+      }
+    ],
+    "n": 22
+  }
+}

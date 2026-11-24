@@ -8722,6 +8722,84 @@
       "verified": true,
       "page_title": "Soil Salinity Mapping by Multiscale Remote Sensing in Mesopotamia, Iraq",
       "note": "OpenAlex 作品 W2031767966（DOI https://doi.org/10.1109/jstars.2014.2360411）；2014年；被引 129。HTTP 200，22366 字节。摘要长度 1552 字符；主题槽命中 ['mesopotamia', 'salin', 'agricultur', 'environment']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W579057180",
+      "title": "OpenAlex W579057180 — Ancestral Maya Economies in Archaeological Perspective",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2010,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W579057180",
+      "url2": "https://doi.org/https://doi.org/10.1017/cbo9781139195867",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Ancestral Maya Economies in Archaeological Perspective",
+      "note": "OpenAlex 作品 W579057180（DOI https://doi.org/10.1017/cbo9781139195867）；2010年；被引 191。HTTP 200，13392 字节。摘要长度 1121 字符；主题槽命中 ['maya', 'civiliz', 'society', 'politic', 'state']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2112184907",
+      "title": "OpenAlex W2112184907 — Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution, and Biodiversity",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2010,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2112184907",
+      "url2": "https://doi.org/https://doi.org/10.1126/science.1194585",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution, and Biodiversity",
+      "note": "OpenAlex 作品 W2112184907（DOI https://doi.org/10.1126/science.1194585）；2010年；被引 2762。HTTP 200，43631 字节。摘要长度 802 字符；主题槽命中 ['andes', 'andean', 'geolog', 'uplift', 'climate']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2120218248",
+      "title": "OpenAlex W2120218248 — Climate change and Australia: Trends, projections and impacts",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2003,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2120218248",
+      "url2": "https://doi.org/https://doi.org/10.1111/j.1442-9993.2003.tb00266.x",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Climate change and Australia: Trends, projections and impacts",
+      "note": "OpenAlex 作品 W2120218248（DOI https://doi.org/10.1111/j.1442-9993.2003.tb00266.x）；2003年；被引 941。HTTP 200，24169 字节。摘要长度 3793 字符；主题槽命中 ['australia', 'climate', 'continent', 'arid']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2097225658",
+      "title": "OpenAlex W2097225658 — High-Resolution Stratigraphy of a Mississippi Subdelta-Lobe Progradation in the Barataria Bight, North-Central Gulf of Mexico",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2006,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2097225658",
+      "url2": "https://doi.org/https://doi.org/10.2110/jsr.2006.030",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "High-Resolution Stratigraphy of a Mississippi Subdelta-Lobe Progradation in the Barataria Bight, North-Central Gulf of Mexico",
+      "note": "OpenAlex 作品 W2097225658（DOI https://doi.org/10.2110/jsr.2006.030）；2006年；被引 23。HTTP 200，18995 字节。摘要长度 1150 字符；主题槽命中 ['delta', 'sediment', 'evolution', 'stratigraph', 'prograd']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2241623891",
+      "title": "OpenAlex W2241623891 — Micronesian and Polynesian Voyaging: Three Readings",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1976,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2241623891",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Micronesian and Polynesian Voyaging: Three Readings",
+      "note": "OpenAlex 作品 W2241623891（DOI 无）；1976年；被引 5。HTTP 200，14398 字节。摘要长度 2690 字符；主题槽命中 ['polynesia', 'polynesian', 'settle', 'navigat', 'island', 'society']。证据强度：weak。"
+    },
+    {
+      "id": "openalex-W2186081253",
+      "title": "OpenAlex W2186081253 — Ethnicity on the Great Plains: Preface & Introduction",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1980,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2186081253",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Ethnicity on the Great Plains: Preface & Introduction",
+      "note": "OpenAlex 作品 W2186081253（DOI 无）；1980年；被引 12。HTTP 200，15136 字节。摘要长度 3398 字符；主题槽命中 ['great plains', 'settle', 'agricultur', 'history']。证据强度：weak。"
     }
   ]
 }

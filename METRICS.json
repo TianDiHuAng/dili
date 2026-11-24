@@ -1076,6 +1076,21 @@
       "sample_rate": "8条核心G3全查",
       "sample_audit": "6条登记、2条不采用（食肉动物/死海裂谷碰撞）",
       "note": "补6条第二内容源→G3 93→88；层级 A120/B119/C2/D2"
+    },
+    {
+      "round": 74,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 8,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "第二批8条核心G3全查",
+      "sample_audit": "6条登记（安第斯2762/澳大利亚941/玛雅191）、2条不采用",
+      "note": "补6条第二内容源→G3 88→83、G1 4→3；层级 A123/B117/C1/D2"
     }
   ]
 }

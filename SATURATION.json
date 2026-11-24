@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 73,
+  "last_round": 74,
   "history": [
     {
       "round": 1,
@@ -762,9 +762,9 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 120,
-      "B": 119,
-      "C": 2,
+      "A": 123,
+      "B": 117,
+      "C": 1,
       "D": 2
     },
     "side_evidence": {
@@ -775,8 +775,8 @@
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json",
-    "ge2_content": 154,
-    "one_content": 88,
+    "ge2_content": 159,
+    "one_content": 83,
     "zero_content": 1,
     "criterion": "tools/assess.py（D138 单一实现）"
   },
@@ -786,7 +786,7 @@
       {
         "id": "G1",
         "name": "无强来源（C/D 级）",
-        "count": 4,
+        "count": 3,
         "fixed_by": "补一条被引≥10 或正文≥800 的来源（且非别名页/书评）"
       },
       {
@@ -798,7 +798,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 88,
+        "count": 83,
         "fixed_by": "补第二内容源，须过 R19/R20/R22/R25"
       },
       {

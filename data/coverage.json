@@ -921,7 +921,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 7,
+      "source_count": 8,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -1005,7 +1005,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·无实证)",
-      "source_count": 11,
+      "source_count": 12,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -1105,7 +1105,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 8,
+      "source_count": 9,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -1280,7 +1280,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 8,
+      "source_count": 9,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -1365,7 +1365,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·无实证)",
-      "source_count": 7,
+      "source_count": 8,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -1587,7 +1587,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第25轮·无实证)",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -2288,7 +2288,7 @@
       "区域": 28
     }
   },
-  "round": 73,
+  "round": 74,
   "round_processed": 6,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2

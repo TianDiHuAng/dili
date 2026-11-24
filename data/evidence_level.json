@@ -1205,7 +1205,7 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 0,
+        "weak": 1,
         "side": 0,
         "data": 2,
         "alias": 4,
@@ -1310,9 +1310,9 @@
       "tier": "重要"
     },
     "玛雅文明": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 6,
@@ -1442,9 +1442,9 @@
       "tier": "补充"
     },
     "安第斯山脉": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -1670,9 +1670,9 @@
       "tier": "补充"
     },
     "澳大利亚大陆": {
-      "level": "C",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 1,
         "data": 3,
@@ -1781,7 +1781,7 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 0,
+        "weak": 1,
         "side": 0,
         "data": 2,
         "alias": 4,
@@ -2066,9 +2066,9 @@
       "tier": "补充"
     },
     "河流三角洲": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -2919,9 +2919,9 @@
     }
   },
   "summary": {
-    "A": 120,
-    "B": 119,
-    "C": 2,
+    "A": 123,
+    "B": 117,
+    "C": 1,
     "D": 2
   },
   "definition": {
