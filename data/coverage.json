@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-22",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -143,7 +143,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -381,7 +381,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -399,7 +399,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第33轮)-Wikidata年代",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -563,7 +563,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第32轮)-Wikidata年代",
-      "source_count": 5,
+      "source_count": 6,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -1624,7 +1624,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第34轮)-学术专题",
-      "source_count": 2,
+      "source_count": 3,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2288,7 +2288,7 @@
       "区域": 28
     }
   },
-  "round": 47,
+  "round": 48,
   "round_processed": 0,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2

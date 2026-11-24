@@ -7955,6 +7955,97 @@
       "verified": true,
       "page_title": "Integrating Sequence Stratigraphy and Geostatistical Methods for 3D Lithofacies Modelling of the Tiber Alluvial Plain, Rome, Italy",
       "note": "OpenAlex 作品 W4408242507（DOI 10.1111/bre.70024）；2025年；Basin Research；被引 3。HTTP 200，25360 字节。摘要长度 2532 字符。"
+    },
+    {
+      "id": "openalex-W2291403203",
+      "title": "OpenAlex W2291403203 — The Postal Roads of the Great Khans in Central Asia under the Mongol-Yuan Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2014,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2291403203",
+      "url2": "https://doi.org/10.1353/sys.2014.0006",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Postal Roads of the Great Khans in Central Asia under the Mongol-Yuan Empire",
+      "note": "OpenAlex 作品 W2291403203（DOI 10.1353/sys.2014.0006）；2014年；Journal of Sung-Yuan studies；被引 45。HTTP 200，16508 字节。摘要长度 4414 字符；标题含对象词（R19 精神），槽位命中 ['mongol', 'empire']。"
+    },
+    {
+      "id": "openalex-W2609565117",
+      "title": "OpenAlex W2609565117 — Aztec Empire of the Triple Alliance as an Example of the Hegemonic Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2017,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2609565117",
+      "url2": "https://doi.org/10.17951/rh.2016.0.63",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Aztec Empire of the Triple Alliance as an Example of the Hegemonic Empire",
+      "note": "OpenAlex 作品 W2609565117（DOI 10.17951/rh.2016.0.63）；2017年；Res Historica；被引 0。HTTP 200，12984 字节。摘要长度 910 字符；标题含对象词（R19 精神），槽位命中 ['aztec', 'alliance']。"
+    },
+    {
+      "id": "openalex-W4405268832",
+      "title": "OpenAlex W4405268832 — City-State Civilizations: Mesoamerica’s Urban Revolution",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2024,
+      "type": "专著章节",
+      "url": "https://api.openalex.org/works/W4405268832",
+      "url2": "https://doi.org/10.1017/9781009444958.007",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "City-State Civilizations: Mesoamerica’s Urban Revolution",
+      "note": "OpenAlex 作品 W4405268832（DOI 10.1017/9781009444958.007）；2024年；Cambridge University Press eBooks；被引 0。HTTP 200，10129 字节。摘要长度 1147 字符；标题含对象词（R19 精神），槽位命中 ['urban', 'cit']。"
+    },
+    {
+      "id": "openalex-W2896238063",
+      "title": "OpenAlex W2896238063 — The ironworking remains in the royal city of Meroe: new insights on the Nile Corridor and the Kingdom of Kush",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2019,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2896238063",
+      "url2": "https://doi.org/10.15184/aqy.2018.182",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The ironworking remains in the royal city of Meroe: new insights on the Nile Corridor and the Kingdom of Kush",
+      "note": "OpenAlex 作品 W2896238063（DOI 10.15184/aqy.2018.182）；2019年；Antiquity；被引 26。HTTP 200，15889 字节。摘要长度 756 字符；标题含对象词（R19 精神），槽位命中 ['kush', 'meroe']。"
+    },
+    {
+      "id": "openalex-W2481617052",
+      "title": "OpenAlex W2481617052 — The Segermes-Project Population and Production in the Roman Province of Africa Proconsularis",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2004,
+      "type": "专著章节",
+      "url": "https://api.openalex.org/works/W2481617052",
+      "url2": "https://doi.org/10.1524/9783486594577.303",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Segermes-Project Population and Production in the Roman Province of Africa Proconsularis",
+      "note": "OpenAlex 作品 W2481617052（DOI 10.1524/9783486594577.303）；2004年；De Gruyter eBooks；被引 1。HTTP 200，15722 字节。摘要长度 2644 字符；标题含对象词（R19 精神），槽位命中 ['africa', 'roman']。"
+    },
+    {
+      "id": "openalex-W4387138649",
+      "title": "OpenAlex W4387138649 — Bronze alloying recipes at Anyang during the Shang Dynasty",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2023,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W4387138649",
+      "url2": "https://doi.org/10.1007/s12520-023-01853-x",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Bronze alloying recipes at Anyang during the Shang Dynasty",
+      "note": "OpenAlex 作品 W4387138649（DOI 10.1007/s12520-023-01853-x）；2023年；Archaeological and Anthropological Sciences；被引 7。HTTP 200，16784 字节。摘要长度 1391 字符；标题含对象词（R19 精神），槽位命中 ['shang', 'bronze']。"
+    },
+    {
+      "id": "openalex-W2979855713",
+      "title": "OpenAlex W2979855713 — Unification and the Peerage System in Qin Dynasty",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2019,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2979855713",
+      "url2": "https://doi.org/10.17856/jahs.2019.9.148.45",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Unification and the Peerage System in Qin Dynasty",
+      "note": "OpenAlex 作品 W2979855713（DOI 10.17856/jahs.2019.9.148.45）；2019年；동양사학연구；被引 0。HTTP 200，13161 字节。摘要长度 981 字符；标题含对象词（R19 精神），槽位命中 ['qin', 'unification']。"
     }
   ]
 }

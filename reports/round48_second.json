@@ -1,0 +1,439 @@
+{
+  "汉代": {
+    "cand": null,
+    "rejected": [
+      {
+        "title": "The Scale of Empire: Territory, Population, Distri",
+        "why": "标题无对象词",
+        "obj": "han"
+      },
+      {
+        "title": "Opening new territory and partitioning the space",
+        "why": "标题无对象词",
+        "obj": "han"
+      },
+      {
+        "title": "Selected Timeline of the Expansion of US Judicial ",
+        "why": "标题无对象词",
+        "obj": "han"
+      },
+      {
+        "title": "Imagined Spaces: Nation, State, and Territory in t",
+        "why": "标题无对象词",
+        "obj": "han"
+      },
+      {
+        "title": "Law, Capital, and the Geographies of Empire",
+        "why": "标题无对象词",
+        "obj": "han"
+      }
+    ]
+  },
+  "蒙古帝国": {
+    "cand": {
+      "doi": "10.1353/sys.2014.0006",
+      "title": "The Postal Roads of the Great Khans in Central Asia under the Mongol-Yuan Empire",
+      "year": 2014,
+      "oa_id": "W2291403203",
+      "cited": 45,
+      "type": "article",
+      "abs_len": 4414,
+      "abstract": "The Postal Roads of the Great Khans in Central Asia under the Mongol-Yuan Empire Hosung Shim Introduction The Mongols built up the largest empire in human history, an empire that embraced most of Eurasia during the thirteenth and fourteenth centuries. The unification of Eurasia by the Mongols is considered to have greatly contributed to the development and integration of world history insofar as the active interchanges in material, personal and intellectual spheres, which were catalyzed by the “Pax Mongolica,” augmented the confluence among the various civilizations in Eurasia to an unprecedented degree.1 Many regions in Eurasia were able to develop close relationships above all due to the fact that the Mongols had succeeded in conquering a huge portion of Eurasia during the thirteenth and fourteenth centuries. In other words, the Mongols overcame political and military obstacles that had isolated Eurasian civilizations from one another by gaining control over most of Eurasia except for Western Europe and India. As a result, Eurasian civilizations were able to come into contact with each other under the Mongoldom. The unification of Eurasia by the Mongols, however, is not enough by itself to fully explain the extent of the exchanges that took place among various regions in Eurasia during the Mongol Empire; integration per se does not necessarily guarantee such lively and widespread interaction. For this reason, it can be argued that close relationships among various regions were made possible in Mongol-Eurasia by the Mongols’ support and encouragement of [End Page 405] vibrant exchanges among the various civilizations in both systematical and institutional aspects. From this perspective, in order to understand the roots of such bustling interrelation during the Mongol era, it is necessary to consider the postal system (the jam/站 system), which was established by the Mongols throughout the Empire. Scholars have published a considerable number of texts on the postal system in the Mongol-Yuan Empire. First of all, Haneda Tōru conducted a series of pioneering studies on the postal system of the Mongol-Yuan Empire in the early twentieth century.2 Afterward, several researchers dealt with the postal household (站戶), which was the most unique feature of the Mongols’ postal system and also functioned as the system’s most crucial foundation insofar as it supplied various provisions and corvee to post stations.3 In addition, some papers have investigated the origins and initial form of the Mongols’ postal system.4 On top of that, several important research projects have been undertaken in order to elucidate the postal system in China proper by utilizing comparatively ample Chinese sources,5 and a few scholars have attempted to scrutinize post stations in the northwestern region of China by employing newly published archeological resources.6 Next, there is a group of famous articles regarding the postal roads connecting Northern China with Mongolia.7 And, finally, multiple researchers have examined the postal systems [End Page 406] in each of the Mongol khanates, such as the Golden Horde, the Ilkhanate and the Chaghadaid Khanate.8 Most of these existing studies, however, have overlooked the postal roads established in the areas ‘between’ these Mongol khanates, which various travelers must have used in order to make a cross-continental journey and which made inter-civilizational contact in Eurasia possible. Instead, the previous scholars have usually focused on the large sedentary regions—that is, China, Iran and Russia—which were then incorporated in the Mongol khanates. For this reason, this article will examine the postal roads established in Central Asia9 and their transformation during the Mongol Empire in light of the inter-khanate political relationship;10 in doing so, it will pursue a new understanding of the postal system in Central Asia, which functioned as a [End Page 407] crucial foundation for brisk interregional and inter-civilizational exchanges in the Mongol Empire. To this end, the first chapter will scrutinize the political background in which postal roads were built in Central Asia in the early Mongol Empire, or more specifically, first during the reign of Chinggis Khan and second in the period of Ögödei Qa’an and its aftermath. The second chapter of this paper will investigate the ways that the postal roads in Central Asia...",
+      "claim": "蒙古帝国的驿站与跨欧亚联系",
+      "slots": [
+        "mongol",
+        "empire"
+      ],
+      "host": "Journal of Sung-Yuan studies"
+    },
+    "rejected": []
+  },
+  "阿兹特克": {
+    "cand": {
+      "doi": "10.17951/rh.2016.0.63",
+      "title": "Aztec Empire of the Triple Alliance as an Example of the Hegemonic Empire",
+      "year": 2017,
+      "oa_id": "W2609565117",
+      "cited": 0,
+      "type": "article",
+      "abs_len": 910,
+      "abstract": "Imperium Trójprzymierza powstało w 1428 r. jako związek trzech miast-państw Tenchotitlan, Texcoco i Tlacopan. Do przybycia Hiszpanów w 1519 r. zdołało podbić rozległe obszary Mezoameryki. Tenochtitlan było wówczas najbardziej znaczącym członkiem sojuszu. Imperium Trójprzymierza było przykładem imperium hegemonicznego, co oznacza, że podstawą jego istnienia była percepcja siły hegemona jako zdolnego do wyegzekwowania swojej woli, przy jednoczesnej rezygnacji z utrzymywania garnizonów w podbitych prowincjach. Prowincje podbite przez Trójprzymierze dzieliły się na trybutarne i strategiczne. Prowincje trybutarne dostarczały trybut w postaci towarów, zadaniem prowincji strategicznych była ochrona granic imperium przed wrogami. Hegemoniczny charakter władztwa Trójprzymierza był zaletą w realiach Mezoameryki (m.in. brak zwierząt pociągowych, niestosowanie koła), jednak ułatwił konkwistadorom jego podbój.",
+      "claim": "阿兹特克三方联盟与贡赋",
+      "slots": [
+        "aztec",
+        "alliance"
+      ],
+      "host": "Res Historica"
+    },
+    "rejected": [
+      {
+        "title": "Subject States and Tribute Provinces: The Aztec Em",
+        "why": "缺槽",
+        "missing": [
+          "alliance"
+        ]
+      },
+      {
+        "title": "The 2:2:1 Tribute Distribution in the Triple Allia",
+        "why": "标题无对象词",
+        "obj": "aztec"
+      },
+      {
+        "title": "Gift and Tribute: Relations of Dependency in Aztec",
+        "why": "缺槽",
+        "missing": [
+          "alliance"
+        ]
+      },
+      {
+        "title": "Tenochtitlan: Capital of the Aztec Empire",
+        "why": "缺槽",
+        "missing": [
+          "alliance"
+        ]
+      },
+      {
+        "title": "The Triple Alliance of Mexico: Tenochtitlan, Texco",
+        "why": "标题无对象词",
+        "obj": "aztec"
+      }
+    ]
+  },
+  "城市起源": {
+    "cand": {
+      "doi": "10.1017/9781009444958.007",
+      "title": "City-State Civilizations: Mesoamerica’s Urban Revolution",
+      "year": 2024,
+      "oa_id": "W4405268832",
+      "cited": 0,
+      "type": "book-chapter",
+      "abs_len": 1147,
+      "abstract": "Mesoamerica is one of only three world regions to have developed pristine cities, that is, without outside influence. Mesoamerica scholarship, especially the influential work of Richard E. Blanton, has vigorously applied world systems theory to the region in a way reminiscent of Mesopotamia studies. Teotihuacan, for which this analysis is apt, bears similarities to today’s migrant magnets, replete with expat neighborhoods and multilingual apartment blocks. Moreover, it reaped the benefit of trade relations outside its sphere, growing to massive size. The chapter culminates with Tenochtitlan, the apogee of Mesoamerican urbanism, at its height when Europeans arrived in 1519. It did not directly hold territory, making the Spanish-derived term “Aztec Empire” somewhat misleading. This chapter stresses the multiplicity of exchanges between cities. Environmental scarcity was central to the ebb and flow of urbanization. Tenochtitlan, like modern world cities, inspired European imaginations much the way Venice did. Its imagery fascinated renaissance figures in Europe such as Albrecht Dürer, in this sense making it the first “global” city.",
+      "claim": "城市起源的机制解释",
+      "slots": [
+        "urban",
+        "cit"
+      ],
+      "host": "Cambridge University Press eBooks"
+    },
+    "rejected": [
+      {
+        "title": "Urban Heterogeneity in the Early Cities of Norther",
+        "why": "标题无对象词",
+        "obj": "city"
+      },
+      {
+        "title": "Circular cities",
+        "why": "标题无对象词",
+        "obj": "city"
+      },
+      {
+        "title": "Urban Power in the Dutch Empire",
+        "why": "标题无对象词",
+        "obj": "city"
+      },
+      {
+        "title": "Introduction",
+        "why": "标题无对象词",
+        "obj": "city"
+      },
+      {
+        "title": "The Babylonian Cities: Investigating Urban Morphol",
+        "why": "标题无对象词",
+        "obj": "city"
+      }
+    ]
+  },
+  "古埃及新王国": {
+    "cand": {
+      "doi": "10.5743/cairo/9789774165313.001.0001",
+      "title": "Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite Renaissance",
+      "year": 2012,
+      "oa_id": "W4244075171",
+      "cited": 85,
+      "type": "book",
+      "abs_len": 1083,
+      "abstract": "During the half-millennium from the eleventh through the sixth centuries BC, the power and the glory of the imperial pharaohs of the New Kingdom crumbled in the face of internal crises and external pressures, ultimately reversed by invaders from Nubia and consolidated by natives of the Nile Delta following a series of Assyrian invasions. Much of this era remains obscure, with little consensus among Egyptologists. Against this background, the author reconsiders the evidence and proposes a number of new solutions to the problems of the period. He also considers the art, architecture, and archaeology of the period, including the royal tombs of Tanis, one of which yielded the intact burials of no fewer than five pharaohs. The book is extensively illustrated with images of this material, much of which is little known to non-specialists of the period. An examination (evidenced on monuments and inscriptions) of how the many kings of this period should be fitted into the dynastic structure listed by Manetho. By the author of the bestselling Amarna Sunset and Poisoned Legacy.",
+      "claim": "新王国的帝国扩张与行政",
+      "slots": [
+        "new kingdom",
+        "egypt"
+      ],
+      "host": "The American University in Cairo Press eBooks"
+    },
+    "rejected": [
+      {
+        "title": "Introduction: Imperial Egypt",
+        "why": "缺槽",
+        "missing": [
+          "new kingdom"
+        ]
+      },
+      {
+        "title": "State Correspondence in the Roman Empire",
+        "why": "标题无对象词",
+        "obj": "egypt"
+      }
+    ]
+  },
+  "库什与努比亚": {
+    "cand": {
+      "doi": "10.15184/aqy.2018.182",
+      "title": "The ironworking remains in the royal city of Meroe: new insights on the Nile Corridor and the Kingdom of Kush",
+      "year": 2019,
+      "oa_id": "W2896238063",
+      "cited": 26,
+      "type": "article",
+      "abs_len": 756,
+      "abstract": "Meroe is one of Africa's most famous archaeological sites, renowned not least for its evidence of ironworking. Yet, the extensive slagheaps that characterise the site have received little archaeological attention. To illuminate the chronology and distribution of these remains, this article combines extant excavation data with the results of recent site-wide surface and geoprospection survey, and ongoing slagheap excavation and radiocarbon dating. The slagheaps date predominantly to either the Early (Napatan) or Late (late/post-Meroitic) periods, with little evidence for activity between c. 300 BC and AD 300—precisely when Meroe was the capital of the Kingdom of Kush—indicating significant reorganisation of the city's industrial base at this time.",
+      "claim": "库什王国的麦罗埃时期",
+      "slots": [
+        "kush",
+        "meroe"
+      ],
+      "host": "Antiquity"
+    },
+    "rejected": []
+  },
+  "罗马阿非利加": {
+    "cand": {
+      "doi": "10.1524/9783486594577.303",
+      "title": "The Segermes-Project Population and Production in the Roman Province of Africa Proconsularis",
+      "year": 2004,
+      "oa_id": "W2481617052",
+      "cited": 1,
+      "type": "book-chapter",
+      "abs_len": 2644,
+      "abstract": "The Segermes-Project Population and Production in the Roman Province of Africa Proconsularis* In the years 1987-90, the Institut Nationale de Patrimoine 1 in collaboration with a number of Danish research institutes carried out a survey in the area between Bou Ficha and Zaghouan, the so-called Segermes basin, in Tunisia (fig.1).The results of this work were published in 1995 2 .Its objectives were to reveal the economic mechanisms and social relations between a town and its environs in antiquity, and to find an empirical confirmation, or refutation, of the still ongoing and very theoretical discussion re-opened by M. I. Finley in 1973 3 .At its outset the project was given the name Africa Proconsularis, in memory of C. T. Falbe, the Danish consul in Tunisia, who not only carried out pioneering work in mapping the centuriation around Carthage but was also the first Dane to visit the Segermes valley, and the first to leave a short description of Segermes itself 4 .It should be made clear, however, that the main title of this project does not cover an analysis of the province as a whole, especially as our studies have since made it clear that the greater part of the Sergermes valley, in a purely adminis-* Three volumes have appeared: Dietz, S., Sebaï, L. L., Ben Hassan, H. and 0rsted, P. et al., (eds.),Africa Proconsularis.Regional studies in the Segermes Valley of Northern Tunisia (Copenhagen 1995 and Aarhus 2000) Further refs.are made to Vol.I, or Vol.II. 1 The formal framework for the project was an agreement made between the National Tunisian Institute for Archaeology (INAA, now IPA) through its then keeper of National Antiquities M. Fantar, and the University of Copenhagen, through Peter 0rsted and Erik Poulsen.The Tunisian side was managed by H. Slim, the director, L. Sebaï and H. Ben Hassen, to whom I am greatly indebted.2 Dietz (1995a).In recent research the area is mentioned in: Lassere (1977) 200 and passim; Lepelley (1979-81) 304-305 and 248-250 (Ziqua); Gascon (1972) 146 and id.(1982) 230-320.Longer descriptions of the project are found in: Sebaï ( 1990); 0rsted (1990) 26-37; Carlsen (1989) 803-813, and: Extrait du Bulletin des Travaux de ΓΙΝΑΑ no. 4 (Tunis 1991); Qrsted (1992) 69-97.Further in two articles in Ant.Afr.(1990) 43-86 and (1994) 7-55; Qrsted (1993) 128; Dietz (1995b) 171-95; Qrsted, in: Ant.Afr.(1998) 157-173.3 The Ancient Economy (London 1973).More on this point is found in Qrsted (1992) 69 ff. and Vol.I, 11 ff.The discussion Ampolo (1987-89).Of importance for the ideas behind this approach are: Leveau (1984); Peyras (1983) 209-253 and Trousset (1977) 175-207.4 See Lund 1,3.",
+      "claim": "罗马阿非利加行省的粮食产出",
+      "slots": [
+        "africa",
+        "roman"
+      ],
+      "host": "De Gruyter eBooks"
+    },
+    "rejected": [
+      {
+        "title": "State Grain Transport",
+        "why": "标题无对象词",
+        "obj": "africa"
+      },
+      {
+        "title": "Roman Grain Pests in Britain: Implications for Gra",
+        "why": "标题无对象词",
+        "obj": "africa"
+      },
+      {
+        "title": "Spatio-Temporal Evolution and Driving Factors of “",
+        "why": "标题无对象词",
+        "obj": "africa"
+      },
+      {
+        "title": "Commodity Production in Kenya’s Central Province",
+        "why": "标题无对象词",
+        "obj": "africa"
+      },
+      {
+        "title": "Analysis of Henan Province grain production proble",
+        "why": "标题无对象词",
+        "obj": "africa"
+      }
+    ]
+  },
+  "加纳帝国": {
+    "cand": {
+      "doi": "10.4324/9781315730257-19",
+      "title": "Youth entrepreneurship in a small-scale gold mining settlement in Ghana",
+      "year": 2016,
+      "oa_id": "W2905545660",
+      "cited": 3,
+      "type": "book-chapter",
+      "abs_len": 953,
+      "abstract": "This chapter explores the range of entrepreneurial activities undertaken by youth in Small-scale mining (SSM). It draws on extensive fieldwork conducted in the recently established mining settlement of Kui in northern Ghana. Kui is a newly established mining settlement located in Bole District in the Northern Region, which did not exist prior to the discovery of gold. The chapter shows how SSM is an important source of livelihood for many young people, some of whom progress through the ranks within the sector while others use mining as a stepping stone to other income-generating activities. SSM has long existed in Ghana but has become more widespread in recent years linked to rising gold prices and the declining interest in agricultural activities, especially among the youth. The importance of the SSM sector in providing youth with livelihoods has been widely recognised by researchers and international organisations such as the World Bank.",
+      "claim": "加纳帝国的黄金贸易",
+      "slots": [
+        "ghana",
+        "gold"
+      ],
+      "host": "Routledge eBooks"
+    },
+    "rejected": [
+      {
+        "title": "TRANS-SAHARAN GOLD TRADE AND BYZANTINE COINAGE",
+        "why": "标题无对象词",
+        "obj": "ghana"
+      },
+      {
+        "title": "The Trans-Saharan Slave Trade",
+        "why": "标题无对象词",
+        "obj": "ghana"
+      },
+      {
+        "title": "A Historical Geography Of The Trans-Saharan Trade",
+        "why": "标题无对象词",
+        "obj": "ghana"
+      },
+      {
+        "title": "Myth and Metrology: The Early Trans-Saharan Gold T",
+        "why": "标题无对象词",
+        "obj": "ghana"
+      },
+      {
+        "title": "On Trans-Saharan Trails",
+        "why": "标题无对象词",
+        "obj": "ghana"
+      }
+    ]
+  },
+  "桑海帝国": {
+    "cand": null,
+    "rejected": [
+      {
+        "title": "Songhai Empire",
+        "why": "缺槽",
+        "missing": [
+          "niger"
+        ]
+      }
+    ]
+  },
+  "笈多王朝": {
+    "cand": null,
+    "rejected": [
+      {
+        "title": "Empire of Violence",
+        "why": "标题无对象词",
+        "obj": "gupta"
+      },
+      {
+        "title": "Escape Agriculture, Foraging Culture",
+        "why": "标题无对象词",
+        "obj": "gupta"
+      },
+      {
+        "title": "Against the Empire: Polity, Economy and Culture du",
+        "why": "标题无对象词",
+        "obj": "gupta"
+      },
+      {
+        "title": "Evangelisation and Colonialism",
+        "why": "标题无对象词",
+        "obj": "gupta"
+      },
+      {
+        "title": "Colonialism and Khankho",
+        "why": "标题无对象词",
+        "obj": "gupta"
+      }
+    ]
+  },
+  "商代": {
+    "cand": {
+      "doi": "10.1007/s12520-023-01853-x",
+      "title": "Bronze alloying recipes at Anyang during the Shang Dynasty",
+      "year": 2023,
+      "oa_id": "W4387138649",
+      "cited": 7,
+      "type": "article",
+      "abs_len": 1391,
+      "abstract": "We present a detailed analysis of the chemical alloying data (Cu, Sn, Pb) on the bronzes recovered from the Late Shang capital at Yinxu, revealing a complex pattern which varies by social status and object typology, and which also changes over time. The preference for higher tin in the bronze vessels and weapons for the elites during Yinxu Phase II gives way to a more binary pattern (with weapons being preferentially alloyed with lead) for the lower elites of phase II, which becomes prevalent in subsequent phases. These changes are interpreted in terms of different ‘alloying practices’, which attempts to reconstruct the way in which the alloys are created at the point of casting. The alloy type described here as A1/A2 (11–24% tin, 0 to 3–5% lead) seems most likely to have been created by mixing together three components, corresponding to mixing relatively pure copper, tin and lead. This contrasts with the suggestion in theKaogong Ji, several hundred years later, that binary pre-prepared alloys were used. It is now important to determine when such a change might have occurred. The suggestion that alloy type B (low tin, variably high lead)couldhave been made by combining pure copper with a slightly impure lead (95%Pb/5%Sn) hints that such practices might have started during the Shang, but requires more work, especially on the intervening Western and Eastern Zhou periods.",
+      "claim": "商代的青铜与都邑",
+      "slots": [
+        "shang",
+        "bronze"
+      ],
+      "host": "Archaeological and Anthropological Sciences"
+    },
+    "rejected": []
+  },
+  "周代": {
+    "cand": null,
+    "rejected": [
+      {
+        "title": "How was the feudal rule in the Han Dynasty Positiv",
+        "why": "标题无对象词",
+        "obj": "zhou"
+      },
+      {
+        "title": "The rain-making sacrifice of the Zhou Dynasty",
+        "why": "缺槽",
+        "missing": [
+          "feudal"
+        ]
+      }
+    ]
+  },
+  "秦代": {
+    "cand": {
+      "doi": "10.17856/jahs.2019.9.148.45",
+      "title": "Unification and the Peerage System in Qin Dynasty",
+      "year": 2019,
+      "oa_id": "W2979855713",
+      "cited": 0,
+      "type": "article",
+      "abs_len": 981,
+      "abstract": "초록·키워드 목차 오류제보하기 天下统一后出现的大规模赐爵，是秦统治阶级围绕此后应如何治理帝国而进行的代表性举措。统一帝国之新臣民被称为“黔首”，无论“秦民”还是“旧六国民”，均被纳入皇帝的支配体系之内。同时由于赐爵，一元的爵制亦被改编。爵位作为皇帝之恩德，多被下赐以示怀柔、抚慰。帝国通过随 之而来的种种特权诱导“黔首”自发地服从统治。通过爵制诞生的新秩序，并不仅仅意味着国家秩序可藉之向新“黔首”们强制性推行。在基层行政单位中，随着各自爵位的不同，在一定程度上可归入统治阶层。赐爵为黔首间带来了差别，随之赋予一定的统治权力；齐民们对爵位之差异亦开始在现实层面有切肤之感。统一后，帝国有意确保处于地方行政末端的、激增的属吏阶层；臣民作为统治的助力，则试图维持或扩大在乡里社会中的影响力。新秩序正是二者妥协之结果。 当时的爵位在实效方面的界限，正代表了帝国统治政策之界限。随着秦的灭亡，此界限已为今人所熟知。于始皇陵附近的赵背户村所发现的墓地瓦志对此极具说明力。该史料中记录的，多是出身于旧六国属地的民众，在统一后以居资等身份来此从事劳役。他们大多是因赐爵而成为的有爵者，但因劳役之苦而早逝。而他们即便作为有爵者，墓葬与旧六国民之处境无异，极度穷困。 新近发掘的史料，就秦统一后“黔首”这一称呼的使用与以爵制进行的一元统治如何进行，提供了更为具体的信息。在秦律令中出现的“秦邦”、“新黔首”、“新地吏”等用语，将当时统治阶级中的秦民与旧六国民明确区分。二者甚至在律令的适用上，亦存在差别对待之可能。“黔首”称呼的使用与赐爵是何等有名无实亦由此可见一斑。此必然增长旧六国民之反秦感情。荆楚一代群盗丛生，为讨伐该地所征发的吏民，并不尽力厮杀，多有逃亡。此案例亦可说明，秦代为了旧六国地的服属与统治所付出的努力，有着巨大的局限性。 #秦帝國 #里耶秦简 #爵制 #赐爵 #县属吏 #服属政策 #地域统治 #秦帝国 #Li-ye Bammbo Slips #Peerage System #Officers in county #Subjugation Policies #Local administration #Unification #Qin dynasty 서론Ⅰ. 遷陵縣의 有爵者들Ⅱ. 賜爵의 기능과 지역 통치Ⅲ. 賜爵의 실효성결론참고문헌中文摘要",
+      "claim": "秦代的郡县与统一制度",
+      "slots": [
+        "qin",
+        "unification"
+      ],
+      "host": "동양사학연구"
+    },
+    "rejected": [
+      {
+        "title": "Unification of Ellsworth County School Districts",
+        "why": "标题无对象词",
+        "obj": "qin"
+      },
+      {
+        "title": "Government document systems in Qin dynasty evident",
+        "why": "缺槽",
+        "missing": [
+          "unification"
+        ]
+      },
+      {
+        "title": "A Study on the Marriage Alliances Between the Tang",
+        "why": "标题无对象词",
+        "obj": "qin"
+      }
+    ]
+  },
+  "元代": {
+    "cand": null,
+    "rejected": [
+      {
+        "title": "明代的軍站與站軍",
+        "why": "标题无对象词",
+        "obj": "yuan"
+      },
+      {
+        "title": "The Description of Yeog-nyeo (“a maidservant at a ",
+        "why": "标题无对象词",
+        "obj": "yuan"
+      },
+      {
+        "title": "The naval power of the Yuan dynasty",
+        "why": "缺槽",
+        "missing": [
+          "relay"
+        ]
+      },
+      {
+        "title": "The naval power of the Yuan dynasty",
+        "why": "缺槽",
+        "missing": [
+          "relay"
+        ]
+      },
+      {
+        "title": "The Development of Ocean Transport and Zhe-Yang sh",
+        "why": "缺槽",
+        "missing": [
+          "relay"
+        ]
+      }
+    ]
+  }
+}

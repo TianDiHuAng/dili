@@ -408,10 +408,11 @@
       ],
       "sources": [
         "openalex-W2165758805",
-        "wb-wld-urban"
+        "wb-wld-urban",
+        "openalex-W4405268832"
       ],
       "needs_verification": true,
-      "pending_notes": "第34轮升级：由 L1 升 L2。第二来源为 OpenAlex 收录的 Cambridge Archaeological Journal 2014 年论文（「Households and the Emergence of Cities in Ancient Mesopotamia」，DOI 10.1017/s095977431400047x），其摘要明确给出「the world's first cities emerged on the plains of Mesopotamia … in the fourth millennium bc」，可直接支撑本条的时间与地点断言。现状数据用世界银行 WLD 城市化率端点。 机制解释部分已并列多种学说，未作单一归因。",
+      "pending_notes": "第34轮升级：由 L1 升 L2。第二来源为 OpenAlex 收录的 Cambridge Archaeological Journal 2014 年论文（「Households and the Emergence of Cities in Ancient Mesopotamia」，DOI 10.1017/s095977431400047x），其摘要明确给出「the world's first cities emerged on the plains of Mesopotamia … in the fourth millennium bc」，可直接支撑本条的时间与地点断言。现状数据用世界银行 WLD 城市化率端点。 机制解释部分已并列多种学说，未作单一归因。 【第48轮第二源·D101】openalex-W4405268832（2024年，《City-State Civilizations: Mesoamerica’s Urban Revolution》，DOI 10.1017/9781009444958.007，被引 0）：待支撑断言「城市起源的机制解释」；对象词在标题、槽位命中 ['urban', 'cit']；已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -419,7 +420,7 @@
       ],
       "last_update": "2026-11-24",
       "geo": "两河流域的冲积平原由底格里斯河与幼发拉底河的泥沙沉积形成，地势低平、灌溉便利。河流的不定期泛滥要求排水与蓄水安排，灌溉农业因此成为聚落密集的前提。平原缺乏石材与木材，建筑以泥砖为主，这一材料条件塑造了城市形态。",
-      "influence": "灌溉农业带来的剩余、人口集中与专业分工是城市出现的条件；但把城市视为「为精英目标而作的功能性适应」只是其中一种解释，学术界另有强调家庭单位连续性与本土制度演化的模型。地理条件提供可能，制度与组织决定形态，不宜单因解释。",
+      "influence": "灌溉农业带来的剩余、人口集中与专业分工是城市出现的条件；但把城市视为「为精英目标而作的功能性适应」只是其中一种解释，学术界另有强调家庭单位连续性与本土制度演化的模型。地理条件提供可能，制度与组织决定形态，不宜单因解释。 所引 2024 年《City-State Civilizations: Mesoamerica's Urban Revolution》指出中美洲是全球仅有的三个独立起源城市区之一，并与两河流域研究的世界体系视角相互参照；本条「城市起源是多地独立发生的过程」据此。",
       "polities": "本条不展开具体政权序列。起源时期的治理形态（神庙经济、城邦议事、家庭生产单位）存在竞争性解释，待专门考古与文献研究核验。",
       "connections": "乌鲁克等早期城市通过河道与陆路连接周边聚落，形成原料（木材、金属、石材）与农产品交换的网络；两河平原缺乏的物资须从周边山地与高地输入，这一结构性缺口推动了远距离交换。",
       "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS，城市人口占比）：全球 2025年 57.8%。城市化率只反映居住形态的比例，不等于城市治理或生活质量；各国城镇化口径与城市定义差异较大，跨国比较须核对。",
