@@ -1,0 +1,307 @@
+{
+  "results": {
+    "隋唐": {
+      "cand": [
+        {
+          "oid": "W4252574396",
+          "title": "Pirates and Publishers: A Social History of Copyright in Modern China",
+          "year": 2019,
+          "cited": 3,
+          "abs_len": 1530,
+          "slots": [
+            "econom",
+            "social",
+            "history"
+          ],
+          "doi": "10.23943/princeton/9780691171821.001.0001"
+        },
+        {
+          "oid": "W4300467555",
+          "title": "Tang China in Multi-Polar Asia: A History of Diplomacy and War",
+          "year": 2013,
+          "cited": 22,
+          "abs_len": 2343,
+          "slots": [
+            "tang",
+            "history"
+          ],
+          "doi": "10.21313/hawaii/9780824836443.001.0001"
+        },
+        {
+          "oid": "W2783604165",
+          "title": "Water and the History of China",
+          "year": 2018,
+          "cited": 10,
+          "abs_len": 930,
+          "slots": [
+            "social",
+            "history"
+          ],
+          "doi": "10.1080/02529203.2018.1414413"
+        }
+      ],
+      "n": 6
+    },
+    "明清": {
+      "cand": [
+        {
+          "oid": "W3095559789",
+          "title": "State and local society in the reform of the garrison system in the Qing Dynasty",
+          "year": 2020,
+          "cited": 0,
+          "abs_len": 936,
+          "slots": [
+            "ming",
+            "qing",
+            "state",
+            "society"
+          ],
+          "doi": "10.4324/9781003001737-5"
+        },
+        {
+          "oid": "W2807929631",
+          "title": "Imagining History/Writing Late Imperial China",
+          "year": 2018,
+          "cited": 3,
+          "abs_len": 3982,
+          "slots": [
+            "ming",
+            "qing"
+          ],
+          "doi": "10.1353/late.2018.0004"
+        },
+        {
+          "oid": "W4405037086",
+          "title": "Beyond the Lens: the Telescope’s Influence on Art and Vision in Ming-Qing China",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 829,
+          "slots": [
+            "ming",
+            "qing"
+          ],
+          "doi": "10.1163/24684791-12340083"
+        }
+      ],
+      "n": 3
+    },
+    "威尼斯": {
+      "cand": [
+        {
+          "oid": "W2026126115",
+          "title": "Molding the History of a Maritime Empire: The Role of the Thirteenth‐century Mosaics of San Marco in Reforming the Venetian Past",
+          "year": 2006,
+          "cited": 0,
+          "abs_len": 1281,
+          "slots": [
+            "venice",
+            "venetian",
+            "maritime",
+            "empire",
+            "politic"
+          ],
+          "doi": "10.15760/mcnair.2006.206"
+        },
+        {
+          "oid": "W2487743288",
+          "title": "Venice’s Maritime Empire in the Early Modern Period",
+          "year": 2013,
+          "cited": 113,
+          "abs_len": 1008,
+          "slots": [
+            "venice",
+            "venetian",
+            "maritime",
+            "empire"
+          ],
+          "doi": "10.1163/9789004252523_006"
+        },
+        {
+          "oid": "W4386384336",
+          "title": "La Serenissima in Cyprus: Aspects of Venetian Art on the Edge of a Maritime Empire, 1474/89–1570/1",
+          "year": 2023,
+          "cited": 2,
+          "abs_len": 1230,
+          "slots": [
+            "venice",
+            "venetian",
+            "maritime",
+            "empire"
+          ],
+          "doi": "10.3390/arts12050186"
+        }
+      ],
+      "n": 12
+    },
+    "大分水岭": {
+      "cand": [
+        {
+          "oid": "W4412586503",
+          "title": "The great divide: population comparison using 3D and 2D geometric morphometrics of Petaurus breviceps and Petaurus notatus along Australia’s eastern Great Dividing Range",
+          "year": 2025,
+          "cited": 2,
+          "abs_len": 994,
+          "slots": [
+            "dividing",
+            "range"
+          ],
+          "doi": "10.1071/am24046"
+        },
+        {
+          "oid": "W2981351267",
+          "title": "Pollen Flowing over the Great Dividing Range, Australia",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 2169,
+          "slots": [
+            "dividing",
+            "range"
+          ],
+          "doi": "10.1097/01.ee9.0000610820.53949.3a"
+        }
+      ],
+      "n": 2
+    },
+    "南极条约体系": {
+      "cand": [
+        {
+          "oid": "W998940622",
+          "title": "The Development of the Antarctic Treaty System",
+          "year": 2011,
+          "cited": 38,
+          "abs_len": 520,
+          "slots": [
+            "antarctic treaty",
+            "governance",
+            "evolution",
+            "system"
+          ],
+          "doi": "10.5479/si.9781935623069.29"
+        },
+        {
+          "oid": "W2476792850",
+          "title": "The Antarctic Treaty System: Goals, Performance and Impact",
+          "year": 1991,
+          "cited": 19,
+          "abs_len": 1514,
+          "slots": [
+            "antarctic treaty",
+            "regime",
+            "system"
+          ],
+          "doi": "10.1007/978-1-349-12471-8_2"
+        },
+        {
+          "oid": "W2730999956",
+          "title": "The Antarctic exception: sovereignty and the Antarctic Treaty governance",
+          "year": 2017,
+          "cited": 12,
+          "abs_len": 2581,
+          "slots": [
+            "antarctic treaty",
+            "governance",
+            "system"
+          ],
+          "doi": "10.11606/t.101.2017.tde-21062017-163536"
+        }
+      ],
+      "n": 9
+    },
+    "冲积平原": {
+      "cand": [
+        {
+          "oid": "W2160234329",
+          "title": "Walls Formation, Western Shetland: distal alluvial plain deposits within a tectonically active Devonian basin",
+          "year": 1985,
+          "cited": 7,
+          "abs_len": 1492,
+          "slots": [
+            "alluvial",
+            "floodplain",
+            "formation",
+            "sediment",
+            "plain"
+          ],
+          "doi": "10.1144/sjg21010023"
+        },
+        {
+          "oid": "W2016969783",
+          "title": "Ichnology of an ephemeral lacustrine/alluvial plain system: Jurassic East Berlin Formation, Hartford Basin, USA",
+          "year": 1991,
+          "cited": 91,
+          "abs_len": 1152,
+          "slots": [
+            "alluvial",
+            "formation",
+            "sediment",
+            "plain"
+          ],
+          "doi": "10.1080/10420949109386354"
+        },
+        {
+          "oid": "W2056394177",
+          "title": "Reconstructing floodplain sedimentation rates from heavy metal profiles by inverse modelling",
+          "year": 2002,
+          "cited": 63,
+          "abs_len": 1771,
+          "slots": [
+            "floodplain",
+            "formation",
+            "sediment",
+            "plain"
+          ],
+          "doi": "10.1002/hyp.283"
+        }
+      ],
+      "n": 14
+    },
+    "山地农业": {
+      "cand": [
+        {
+          "oid": "W4293701402",
+          "title": "A Future for Mountain Terraces: Experiences from Mediterranean Wineries",
+          "year": 2022,
+          "cited": 16,
+          "abs_len": 1779,
+          "slots": [
+            "mountain",
+            "agricultur",
+            "terrace",
+            "farming"
+          ],
+          "doi": "10.1659/mrd-journal-d-21-00031.1"
+        },
+        {
+          "oid": "W4243348566",
+          "title": "Terraces",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 943,
+          "slots": [
+            "mountain",
+            "agricultur",
+            "terrace"
+          ],
+          "doi": "10.1201/9780429308062-16"
+        },
+        {
+          "oid": "W2010773629",
+          "title": "Modern Farming Technologies: Impact on Farm Productivity and Food Security in the Rice Terraces of the Cordillera Region, Northern Philippines",
+          "year": 2014,
+          "cited": 7,
+          "abs_len": 1682,
+          "slots": [
+            "terrace",
+            "farming"
+          ],
+          "doi": "10.9734/ajea/2014/9202"
+        }
+      ],
+      "n": 3
+    }
+  },
+  "http": {
+    "ok": 281,
+    "fail": 6
+  }
+}

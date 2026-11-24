@@ -10339,6 +10339,58 @@
       "verified": true,
       "page_title": "Early Dynastic Sealing Practices as a Reflection of State Formation in Egypt",
       "note": "OpenAlex 作品 W3182616223（DOI 10.1017/9781108160186.018）；2018年；被引 3。HTTP 200，10333 字节。摘要长度 994 字符；主题槽命中 ['early dynastic', 'egypt', 'state', 'administrat', 'dynast']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W3095559789",
+      "title": "OpenAlex W3095559789 — State and local society in the reform of the garrison system in the Qing Dynasty",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2020,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3095559789",
+      "url2": "https://doi.org/10.4324/9781003001737-5",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "State and local society in the reform of the garrison system in the Qing Dynasty",
+      "note": "OpenAlex 作品 W3095559789（DOI 10.4324/9781003001737-5）；2020年；被引 0。HTTP 200，9966 字节。摘要长度 936 字符；主题槽命中 ['ming', 'qing', 'state', 'society']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2026126115",
+      "title": "OpenAlex W2026126115 — Molding the History of a Maritime Empire: The Role of the Thirteenth‐century Mosaics of San Marco in Reforming the Venetian Past",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2006,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2026126115",
+      "url2": "https://doi.org/10.15760/mcnair.2006.206",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Molding the History of a Maritime Empire: The Role of the Thirteenth‐century Mosaics of San Marco in Reforming the Venetian Past",
+      "note": "OpenAlex 作品 W2026126115（DOI 10.15760/mcnair.2006.206）；2006年；被引 0。HTTP 200，15973 字节。摘要长度 1281 字符；主题槽命中 ['venice', 'venetian', 'maritime', 'empire', 'politic']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W998940622",
+      "title": "OpenAlex W998940622 — The Development of the Antarctic Treaty System",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2011,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W998940622",
+      "url2": "https://doi.org/10.5479/si.9781935623069.29",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Development of the Antarctic Treaty System",
+      "note": "OpenAlex 作品 W998940622（DOI 10.5479/si.9781935623069.29）；2011年；被引 38。HTTP 200，9771 字节。摘要长度 520 字符；主题槽命中 ['antarctic treaty', 'governance', 'evolution', 'system']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4293701402",
+      "title": "OpenAlex W4293701402 — A Future for Mountain Terraces: Experiences from Mediterranean Wineries",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2022,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4293701402",
+      "url2": "https://doi.org/10.1659/mrd-journal-d-21-00031.1",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "A Future for Mountain Terraces: Experiences from Mediterranean Wineries",
+      "note": "OpenAlex 作品 W4293701402（DOI 10.1659/mrd-journal-d-21-00031.1）；2022年；被引 16。HTTP 200，22293 字节。摘要长度 1779 字符；主题槽命中 ['mountain', 'agricultur', 'terrace', 'farming']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

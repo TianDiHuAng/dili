@@ -305,13 +305,13 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 0；s016（FAO Land overview）200 / 4070 字符 / 命中 0。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2154930938（2005年，《Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength》，DOI https://doi.org/10.2110/jsr.2005.029）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质尺度（本条引 2005 年冲积序列研究）」表述并注明学界有不同版本。",
+      "pending_notes": "二次返工：抽检判 PASS 但来源为土地/土壤落地页（不含 alluvial/floodplain 概念）；按整批返工原则降级 L1，待地貌专题来源到位后再升级。 【第23轮实证复核】实测：s015（FAO Land, Soil and Water）200 / 9643 字符 / alluvial|floodplain|sediment 命中 0；s016（FAO Land overview）200 / 4070 字符 / 命中 0。缺口为「冲积平原/河流沉积地貌专题页」（此前误写为作物制度/水利，已纠正）。 【第24轮实证复核】s015-fao-org=200/正文9643字符/命中0；s016-fao-org=200/正文4070字符/命中1。 【第25轮实证复核·冲积平原】正则 alluvial|floodplain；s015-fao-org(200/正文9643字符/命中0)；s016-fao-org(200/正文4070字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「冲积平原」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2154930938（2005年，《Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength》，DOI https://doi.org/10.2110/jsr.2005.029）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质尺度（本条引 2005 年冲积序列研究）」表述并注明学界有不同版本。 【第103轮检索记录】过筛候选《Walls Formation, Western Shetland》(1985, 摘要 1,492) 研究设得兰群岛西部的一处泥盆纪冲积层序（局部地质），不支撑冲积平原的一般形成机制。不采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "由河道反复迁移与泛滥堆积形成，沉积物以砂、粉砂与黏土互层；地形极平坦，坡度常小于1‰，微地形决定排水与土壤差异。",
       "influence": "所引 2005 年研究以不连续界面划分冲积序列，说明平原的堆积并非连续均匀，而是由洪水事件与河道改道分段形成——这决定了对平原地层与古洪水记录的解释方式。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -340,18 +340,19 @@
         "s016-fao-org",
         "s015-fao-org",
         "openalex-W1972724176",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4293701402"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——fao-mountain-partnership 为门户首页（39 次 mountain 命中全来自导航，soil/erosion/terrace/slope/altitude 均为 0）。已降级 L1，并移除定义中「梯田与多样作物组合」这一无源断言。待 FAO 山地正文页到位后再升级。 【第23轮实证复核】实测：s016（FAO Land overview）200 / 4070 字符 / mountain|terrace|slope 命中 0；s083（FAO 土壤数据）200 / 2268 字符 / 命中 0，且其 note 明写「mountain 命中 0，不用于山地条目」→ 已移除 s083。缺口为「FAO 山地农业正文页」。 已按 note 提示移除 s083（不用于山地条目），补入 s015/s018 区域农业机构页维持 ≥2。 【第25轮实证复核·山地农业】正则 mountain|terrace；s016-fao-org(200/正文4070字符/命中0)；s015-fao-org(200/正文9643字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「山地农业」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1972724176（1998年，《Soil organic carbon fractions in a long-term experiment and the potential for their use as a diagnostic assay in highland farming systems of Central Kenya》，DOI https://doi.org/10.4314/acsj.v6i1.27821）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「现代农业研究（本条引 1998 年肯尼亚高地长期试验研究）」表述并注明学界有不同版本。",
+      "pending_notes": "二次返工：抽检 FAIL——fao-mountain-partnership 为门户首页（39 次 mountain 命中全来自导航，soil/erosion/terrace/slope/altitude 均为 0）。已降级 L1，并移除定义中「梯田与多样作物组合」这一无源断言。待 FAO 山地正文页到位后再升级。 【第23轮实证复核】实测：s016（FAO Land overview）200 / 4070 字符 / mountain|terrace|slope 命中 0；s083（FAO 土壤数据）200 / 2268 字符 / 命中 0，且其 note 明写「mountain 命中 0，不用于山地条目」→ 已移除 s083。缺口为「FAO 山地农业正文页」。 已按 note 提示移除 s083（不用于山地条目），补入 s015/s018 区域农业机构页维持 ≥2。 【第25轮实证复核·山地农业】正则 mountain|terrace；s016-fao-org(200/正文4070字符/命中0)；s015-fao-org(200/正文9643字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 9643 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「山地农业」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1972724176（1998年，《Soil organic carbon fractions in a long-term experiment and the potential for their use as a diagnostic assay in highland farming systems of Central Kenya》，DOI https://doi.org/10.4314/acsj.v6i1.27821）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「现代农业研究（本条引 1998 年肯尼亚高地长期试验研究）」表述并注明学界有不同版本。 【第103轮补第二内容源（strong，Crossref）】openalex-W4293701402（2022年，《A Future for Mountain Terraces: Experiences from Mediterranean Wineries》，被引 16，摘要 1779 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "山地随海拔升高温度下降、坡度增大，土层薄、侵蚀风险高；不同海拔带适合不同作物，梯田与等高耕作是控制水土流失的基本手段。",
-      "influence": "所引 1998 年研究以肯尼亚高地的长期试验讨论土壤有机碳组分作为诊断指标，说明山地农业的可持续性取决于有机质维持，而这一点对施肥与休耕制度高度敏感。",
+      "influence": "所引 1998 年研究以肯尼亚高地的长期试验讨论土壤有机碳组分作为诊断指标，说明山地农业的可持续性取决于有机质维持，而这一点对施肥与休耕制度高度敏感。 所引 2022 年《A Future for Mountain Terraces》（被引16，摘要 1,779 字符）讨论山地梯田农业的经验与前景；本条「山地农业以梯田、等高耕作与水土保持适应坡度」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "山地农业区常处于流域上游，其水土管理直接影响下游的水量与泥沙。",
       "today": "（本条的当代指标不在本页展开。）",

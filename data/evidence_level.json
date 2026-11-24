@@ -578,9 +578,9 @@
       "tier": "重要"
     },
     "明清": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1058,9 +1058,9 @@
       "tier": "补充"
     },
     "威尼斯": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1922,9 +1922,9 @@
       "tier": "补充"
     },
     "南极条约体系": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -2090,9 +2090,9 @@
       "tier": "重要"
     },
     "山地农业": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 194,
-    "B": 20,
+    "A": 198,
+    "B": 16,
     "C": 0,
     "D": 29
   },

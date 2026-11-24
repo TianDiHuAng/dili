@@ -824,10 +824,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2104329013",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2026126115"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2104329013（2014年，「International Trade and Institutional Change: Medieval Venice’s 」，DOI https://doi.org/10.1093/qje/qju006，The Quarterly Journal of Economics）； 年代以「中世纪至近代（共和国存续至1797年）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】① 1797 年不在所引文献摘要内，已改「待专门史学来源核验」；② influence 因果方向纠正为「贸易扩张→制度变迁」，原文并非「地理约束塑造制度」；③ geo 标注为常识性描述。 【第80轮检索记录】过筛候选《Negotiating Transcultural Relations in the Early Modern Mediterranean》(2014, 被引45) 时段是 16–17 世纪，而威尼斯本条叙述的是其海上共和国鼎盛期（13–15 世纪），时期错配（D108）。不采用。 【第87轮检索记录】过筛候选《Venice Incognito: Masks in the Serene Republic》(2011) 主题是威尼斯的面具文化，社会习俗侧面。不采用。 【第88轮检索记录】本轮候选《Public service and private trade: Northern seamen in seventeenth-century Venice》(2015) 时段是17 世纪且主体是北欧海员，与本条（威尼斯共和国鼎盛期）时期与主题双重错配。",
+      "pending_notes": "第16轮复核：南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2104329013（2014年，「International Trade and Institutional Change: Medieval Venice’s 」，DOI https://doi.org/10.1093/qje/qju006，The Quarterly Journal of Economics）； 年代以「中世纪至近代（共和国存续至1797年）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】① 1797 年不在所引文献摘要内，已改「待专门史学来源核验」；② influence 因果方向纠正为「贸易扩张→制度变迁」，原文并非「地理约束塑造制度」；③ geo 标注为常识性描述。 【第80轮检索记录】过筛候选《Negotiating Transcultural Relations in the Early Modern Mediterranean》(2014, 被引45) 时段是 16–17 世纪，而威尼斯本条叙述的是其海上共和国鼎盛期（13–15 世纪），时期错配（D108）。不采用。 【第87轮检索记录】过筛候选《Venice Incognito: Masks in the Serene Republic》(2011) 主题是威尼斯的面具文化，社会习俗侧面。不采用。 【第88轮检索记录】本轮候选《Public service and private trade: Northern seamen in seventeenth-century Venice》(2015) 时段是17 世纪且主体是北欧海员，与本条（威尼斯共和国鼎盛期）时期与主题双重错配。 【第103轮补第二内容源（strong，Crossref）】openalex-W2026126115（2006年，《Molding the History of a Maritime Empire: The Role of the Thirteenth‐century Mosaics of San Marco in Reforming the Venetian Past》，被引 0，摘要 1281 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -835,7 +836,7 @@
       ],
       "last_update": "2026-11-24",
       "geo": "建在潟湖岛屿上，浅水与沙洲提供天然防护；缺乏淡水与耕地，这一环境约束迫使居民依赖海运与贸易。（本段为常识性地理描述，未引专门来源）",
-      "influence": "所引 QJE 2014 研究的论证方向是：长程贸易扩大 → 商人家族财富与政治参与变化 → 1297 年后转向寡头化的制度安排。即制度由贸易扩张塑造，而非「地理约束直接塑造制度」；潟湖环境提供航运条件，但因果链需要制度中介。",
+      "influence": "所引 QJE 2014 研究的论证方向是：长程贸易扩大 → 商人家族财富与政治参与变化 → 1297 年后转向寡头化的制度安排。即制度由贸易扩张塑造，而非「地理约束直接塑造制度」；潟湖环境提供航运条件，但因果链需要制度中介。 所引 2006 年《Molding the History of a Maritime Empire: The Role of the Thirteenth-century Mosaics…》（摘要 1,281 字符）指出圣马可教堂的马赛克体现这个海上帝国如何以图像服务政治与教会目的；本条「威尼斯以海上霸权与视觉宣传塑造共和国认同」据此。说明：该文是艺术史研究，不涉经济与制度。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "经亚得里亚海连接地中海东部与黑海，通过陆路连接中欧与阿尔卑斯以北，是东西方贸易的中介节点。",
       "today": "（本条的当代指标不在本页展开。）",

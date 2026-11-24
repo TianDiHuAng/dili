@@ -1511,6 +1511,21 @@
       "sample_rate": "G3a补充10条性质判读",
       "sample_audit": "D157/D158：指标解读类有旁证与 today 指标均不阻止判 D；G3 27→20",
       "note": "D157+D158 →D 22→29、G3 27→20；一致性0问题"
+    },
+    {
+      "round": 103,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 7,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "G3b重要7条（跳过3无解）",
+      "sample_audit": "7/7命中2%失败；登记4条（明清军制/威尼斯马赛克/ATS/山地梯田）；3条碰撞",
+      "note": "补4条→G3 20→16、G3b重要 10→6；A198；一致性0问题"
     }
   ]
 }
