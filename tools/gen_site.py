@@ -332,7 +332,8 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 <p class="dim">对比：同期实测 OWID 长文为 3,298–31,443 字符，World Bank 8,041–11,098，NOAA 2,753，IUCN 4,086。若不实测，会把这些空壳误当成「独立互证」。</p></div>
 <div class="section"><h2>四、机器校验的能力边界</h2>
 <p>R18–R23 能保证：引用年份存在（R18）、弱来源不称主来源（R19）、标题含对象词（R20）、层级有记录（R21）、层级与重算一致（R22）、空壳页不称内容源（R23）。</p>
-<p><b>不能判断</b>：① 一篇文献是否只涉对象的某个侧面；② 某条断言是否被该文献真正支持、强度是否相称；③ 个案能否代表通例。这三类依赖人工逐条扫描，记录见 <code>data/semantic_scan.json</code>。</p></div>
+<p><b>不能判断</b>：① 一篇文献是否只涉对象的某个侧面；② 某条断言是否被该文献真正支持、强度是否相称；③ 个案能否代表通例；④ <b>题目级错位</b>——<code>sources.title</code> 是章节名，而数据库返回的摘要是整卷导论（或反之），题名与摘要不是同一文本。这四类依赖人工逐条扫描，记录见 <code>data/semantic_scan.json</code>。</p>
+<p class="dim">第67轮语义抽检就抓到一例：某来源题名是章节《Sumerian Agriculture and Land Management》，返回摘要却是整卷《The Sumerian World》的导论——六道机器闸全绿通过，语义层失守。</p></div>
 <div class="section"><h2>五、环境限制</h2><ul>
 <li>Wikipedia、Britannica、archive.org 在本环境不可达（HTTP 000/403）。</li>
 <li>Wikidata 时通时断；断线期间登记的实体标 verified=false。</li>

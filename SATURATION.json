@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 67,
+  "last_round": 68,
   "history": [
     {
       "round": 1,
@@ -762,17 +762,17 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 215,
-      "B": 28,
-      "C": 0,
-      "D": 0
+      "A": 119,
+      "B": 114,
+      "C": 5,
+      "D": 5
     },
     "side_evidence": {
       "side": 34,
       "dropped": 27,
       "weak_claim": 12
     },
-    "note": "R19/R20/R21/R22 四道机器校验；侧面文献与剔除记录已结构化",
+    "note": "第68轮修正：别名页/索引页不计强来源后，A 由虚高 213 降至真实 119，G1 由 0 升至 10",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json"
   },
@@ -782,7 +782,7 @@
       {
         "id": "G1",
         "name": "无强来源（C/D 级）",
-        "count": 0,
+        "count": 10,
         "fixed_by": "补一条被引≥10 或正文≥800 的来源"
       },
       {
@@ -794,7 +794,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 5,
+        "count": 7,
         "fixed_by": "补第二内容源，须过 R19/R20/R22"
       },
       {

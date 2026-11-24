@@ -5,7 +5,7 @@
     {
       "id": "G1",
       "name": "无强来源（C/D 级）",
-      "count": 0,
+      "count": 10,
       "fixed_by": "补一条被引≥10 或正文≥800 的来源"
     },
     {
@@ -17,7 +17,7 @@
     {
       "id": "G3",
       "name": "内容源仅 1 个（需第二互证）",
-      "count": 5,
+      "count": 7,
       "fixed_by": "补第二内容源，须过 R19/R20/R22"
     },
     {
@@ -28,6 +28,56 @@
     }
   ],
   "gaps": [
+    {
+      "entry": "孔雀王朝",
+      "gap": "主来源",
+      "detail": "层级 C（{'strong': 0, 'weak': 0, 'side': 0, 'data': 0, 'alias': 4, 'unknown': 0}）"
+    },
+    {
+      "entry": "隋唐",
+      "gap": "主来源",
+      "detail": "层级 C（{'strong': 0, 'weak': 0, 'side': 0, 'data': 0, 'alias': 3, 'unknown': 0}）"
+    },
+    {
+      "entry": "克里特文明",
+      "gap": "主来源",
+      "detail": "层级 D（{'strong': 0, 'weak': 0, 'side': 0, 'data': 2, 'alias': 4, 'unknown': 0}）"
+    },
+    {
+      "entry": "维京时代",
+      "gap": "主来源",
+      "detail": "层级 C（{'strong': 0, 'weak': 0, 'side': 2, 'data': 3, 'alias': 4, 'unknown': 0}）"
+    },
+    {
+      "entry": "十字军东征",
+      "gap": "主来源",
+      "detail": "层级 C（{'strong': 0, 'weak': 0, 'side': 0, 'data': 0, 'alias': 3, 'unknown': 0}）"
+    },
+    {
+      "entry": "大平原",
+      "gap": "主来源",
+      "detail": "层级 D（{'strong': 0, 'weak': 0, 'side': 0, 'data': 2, 'alias': 4, 'unknown': 0}）"
+    },
+    {
+      "entry": "玛雅文明",
+      "gap": "主来源",
+      "detail": "层级 D（{'strong': 0, 'weak': 0, 'side': 0, 'data': 6, 'alias': 4, 'unknown': 0}）"
+    },
+    {
+      "entry": "印加帝国",
+      "gap": "主来源",
+      "detail": "层级 D（{'strong': 0, 'weak': 0, 'side': 0, 'data': 3, 'alias': 4, 'unknown': 0}）"
+    },
+    {
+      "entry": "澳大利亚大陆",
+      "gap": "主来源",
+      "detail": "层级 C（{'strong': 0, 'weak': 0, 'side': 1, 'data': 3, 'alias': 4, 'unknown': 0}）"
+    },
+    {
+      "entry": "澳大利亚原住民",
+      "gap": "主来源",
+      "detail": "层级 D（{'strong': 0, 'weak': 0, 'side': 0, 'data': 2, 'alias': 4, 'unknown': 0}）"
+    },
     {
       "entry": "河中地区",
       "gap": "主来源（检索确认无解）",
@@ -49,6 +99,8 @@
     "加纳帝国",
     "桑海帝国",
     "笈多王朝",
-    "周代"
+    "周代",
+    "隋唐",
+    "十字军东征"
   ]
 }

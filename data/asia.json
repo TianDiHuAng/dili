@@ -37,9 +37,9 @@
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "两河流域位于幼发拉底河与底格里斯河之间，冲积平原地势低平，灌溉条件好但排水不良与盐渍化风险高。气候干旱，农业依赖引水与季节性洪水管理。",
-      "influence": "灌溉农业支撑城市与人口密集，渠网维护推动协作与行政组织；但土壤盐渍化与水量变化也可能削弱政权稳定。学界对灌溉与国家形成的关系仍有争论，地理条件是重要变量而非唯一原因。",
+      "influence": "灌溉农业支撑城市与人口密集，渠网维护需要协作与行政组织（机制性常识表述，未挂专门来源）；土壤盐渍化与水量变化是否削弱政权稳定，学界在 1960 年代以后已有修正与争议，本条标为待核。 所引 1960 年研究（Helbaek，*Iraq* 22）讨论的是早期作物扩散与农业起源，摘要未涉及两河灌溉的盐渍化结论。",
       "polities": "冲积平原的水利与城市条件支撑早期政治组织，区域在多个时期被不同政权整合；具体王朝序列与年代待专门史料核验。",
       "connections": "两河流域连接安纳托利亚高原、伊朗高原与地中海沿岸，是西亚陆路贸易与技术传播枢纽。",
       "today": "以伊拉克为例，来源：世界银行 API。总人口 47,020,774 人（2025年）（SP.POP.TOTL）、城市化率 69.9%（2025年）（SP.URB.TOTL.IN.ZS）、农业增加值占 GDP 3.4%（2025年）（NV.AGR.TOTL.ZS）。两河水量分配与灌溉面积数据待专门统计与流域机构核验。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
@@ -443,16 +443,15 @@
         "britannica-regions",
         "wikipedia-regions",
         "ap-human-geo",
-        "openalex-W1977985637",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1977985637（1962年，「Asoka and the Decline of the Mauryas」，DOI https://doi.org/10.1086/ahr/67.3.730，The American Historical Review）； 年代以「约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1977985637（1962年，「Asoka and the Decline of the Mauryas」，DOI https://doi.org/10.1086/ahr/67.3.730，The American Historical Review）； 年代以「约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第68轮剔除·书评】openalex-W1977985637 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "核心在恒河平原，冲积土与季风降水支撑密集农业；西北接印度河平原与开伯尔等山口，是外来势力与商路的入口。",
       "influence": "恒河平原的农业剩余支撑了庞大军队与行政；但统一依赖道路、驿站与地方代理，以及阿育王时期的行政与教化政策，地理只是前提。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
@@ -822,16 +821,15 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "openalex-W2325759714",
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。",
+      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "核心在关中与华北平原，隋唐以长安、洛阳为双都，靠大运河把江南粮赋北运；西北的河西走廊通向中亚，是陆路对外通道。",
       "influence": "运河把南北经济区联结，使政治中心得以留在关中；但漕运距离与成本也长期制约首都规模。草原与绿洲方向的安全压力塑造了都护府与军镇体系。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -868,13 +866,13 @@
         "openalex-W4361197788"
       ],
       "needs_verification": true,
-      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但逐词核对为噪声：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条不构成实证复核、不判达标。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。 【第42轮第二来源（strong）】openalex-W4361197788（2023年，《Deeper Structures of Song Governance》，Cambridge University Press eBooks，DOI 10.1017/9781009235624.013，被引 0）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "【第29轮·非实证复核】实测 britannica-regions（UNSD M49 国别清单页）=200/正文 137675 字符/正则 han|song|china 命中 12，但逐词核对为噪声：han 的命中全部来自 Handbook / Ghana / Afghanistan，china 为国名，song=0、宋=0、dynasty=0；wikipedia-regions（UN SDG 门户）=200/正文 5 字符/命中 0。按 D071（别名页命中不计达标），本条不构成实证复核、不判达标。本环境内可达的宋代专题页（Britannica/Met/Wikipedia 中文站）均 403 或连接失败，待找到可达机构专题页后用 song|宋 重测命中≥3 方可恢复。 【第30轮探测】又试 5 个宋代专题候选（OpenStax world-history 章节、Livius China、Met TOAH Northern Song、Archives research、OpenStax 书目页）：全部 404/无法取回/正文 10–1233 字符且 song 命中 0。本环境可及渠道内仍无宋代专题页，保持「非实证」状态。 【第42轮第二来源（strong）】openalex-W4361197788（2023年，《Deeper Structures of Song Governance》，Cambridge University Press eBooks，DOI 10.1017/9781009235624.013，被引 0）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（第43轮立规，本轮 R25 机器检出）。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "宋代经济重心南移，江南水网、丘陵与海岸共同塑造农业与贸易。东南沿海港口为海外交通提供条件。",
       "influence": "稻作、水利与城市商业相互支撑，海外贸易扩大商品来源。经济繁荣不能仅由自然条件解释，技术与制度同样关键。",
       "polities": "该时期政治中心与北方政权的互动影响疆域与财政结构；具体年代、战役与制度细节待专门史料核验。",
@@ -1531,8 +1529,8 @@
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
-      "geo": "高原平均海拔极高，边缘由山脉围限，内部包含盆地、湖泊与宽谷。高寒气候、冻土与强烈日照并存；冰川和河流源区是其重要自然特征。",
+      "last_update": "2026-11-24",
+      "geo": "高原平均海拔极高，边缘由山脉围限，内部包含盆地、湖泊与宽谷。高寒气候、冻土与强烈日照并存；冰川和河流源区是其重要自然特征。 所引 1985 年研究是以运动学模型推算的隆升史（45 Ma 碰撞以来；中新世早期仍低于 1 千米，中中新世起稳定抬升至现今高度）——可支撑「隆升年代框架（模型）」一句，不支撑水系源区与亚洲气候影响；模型推算非实测年代，不得作实测年代的互证。",
       "influence": "高海拔与寒冷限制农业和交通，河谷与低海拔地带更适合聚落。高原对亚洲水系与气候具有重要影响，但人类活动的结果取决于技术、制度与交流，不是环境单因决定。",
       "polities": "历史上高原与周边地区存在长期互动，形成多样的地方政权与宗教文化网络；具体年代与政权序列待专门来源核验。",
       "connections": "高原通过河流与东亚、南亚、中亚相连，山口与河谷构成交通通道，也是多条大河源头。",

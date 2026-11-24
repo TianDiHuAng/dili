@@ -6895,13 +6895,13 @@
       "title": "OpenAlex W2910624658 — The first Maya civilization: ritual and power before the classic period",
       "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
       "year": 2011,
-      "type": "学术文献",
+      "type": "书评（不作内容来源）",
       "url": "https://api.openalex.org/works/W2910624658",
       "url2": "https://doi.org/10.5860/choice.49-0460",
       "link_ok": true,
       "verified": true,
       "page_title": "The first Maya civilization: ritual and power before the classic period",
-      "note": "OpenAlex 作品 W2910624658（经 Crossref DOI 10.5860/choice.49-0460 定位）；2011年；Choice Reviews Online；被引 158。HTTP 200，11100 字节。摘要长度 1181 字符。"
+      "note": "OpenAlex 作品 W2910624658（经 Crossref DOI 10.5860/choice.49-0460 定位）；2011年；Choice Reviews Online；被引 158。HTTP 200，11100 字节。摘要长度 1181 字符。 【第68轮类型更正】OpenAlex type=book-review，按 D082 仅登记备查，不得作内容来源。"
     },
     {
       "id": "openalex-W2504408383",

@@ -986,6 +986,21 @@
       "sample_rate": "15条语义全查（21个来源摘要逐句对读）",
       "sample_audit": "4 PASS / 10 SOFT / 1 FAIL",
       "note": "R24上线（悬空落点检测）；落实11条语义修改；站点加层级悬停与「如何读懂」"
+    },
+    {
+      "round": 68,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 15,
+      "fixes": 14,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "15条语义全查（17个来源）",
+      "sample_audit": "2 PASS / 8 SOFT / 5 FAIL",
+      "note": "语义抽检5FAIL已剔6源、8SOFT改措辞；R25上线(书评拦截)；别名页不计强来源→A 213→119、G1 0→10"
     }
   ]
 }

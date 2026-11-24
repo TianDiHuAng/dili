@@ -44,6 +44,22 @@ if os.path.exists(_ob_path):
     OBJ_MAP = load_json(_ob_path)
 
 
+BAD_TYPES = ("书评", "book-review")   # 仅书评；数据集/数据端点由 D107 单独处理
+
+
+def check_source_type(e, sources):
+    """R25（D082/D134）：书评等非内容类型不得作为内容来源被引用。"""
+    pn = e.get("pending_notes") or ""
+    for sid in e.get("sources", []):
+        if not sid.startswith("openalex-"):   # 数据端点不适用
+            continue
+        s = sources.get(sid) or {}
+        note = s.get("note") or ""
+        typ = (s.get("type") or "") + " " + note
+        if any(b in typ for b in BAD_TYPES):
+            err(f"R25 {e['id']}: 来源 {sid} 类型为书评/非内容文献（type={s.get('type')}），按 D082 不得作内容来源")
+
+
 BODY_FIELDS = ("definition", "overview", "geo", "influence", "polities", "connections", "today", "time_or_place")
 
 
@@ -85,6 +101,9 @@ MIN_STRONG_CITED = 10
 MIN_STRONG_BODY = 800
 
 
+ALIAS_PAGES = ("britannica-regions", "wikipedia-regions", "un-m49", "ap-human-geo", "s010-unesco-org")
+
+
 def _is_data_src(sid):
     return sid.startswith(("wb-", "usgs-eq", "noaa-current", "ats-parties", "wikidata-"))
 
@@ -101,6 +120,8 @@ def _seg_for(sid, e):
 def _grade_one(sid, e, sources):
     if _is_data_src(sid):
         return "data"
+    if sid in ALIAS_PAGES:      # D135：别名页/索引页只证明对象存在，不计强弱
+        return "alias"
     note = (sources.get(sid) or {}).get("note") or ""
     seg = _seg_for(sid, e)
     if any(k in seg for k in ("旁证", "剔除", "不作", "降级")):
@@ -128,7 +149,7 @@ def check_level_consistency(e, evmap, sources):
     rec = evmap.get(e.get("title"))
     if not rec:
         return
-    c = {"strong": 0, "weak": 0, "side": 0, "data": 0, "unknown": 0}
+    c = {"strong": 0, "weak": 0, "side": 0, "data": 0, "alias": 0, "unknown": 0}
     for sid in e.get("sources", []):
         g = _grade_one(sid, e, sources)
         c[g if g else "unknown"] += 1
@@ -269,6 +290,7 @@ def main():
             check_level_consistency(e, EV_MAP, src_by_id)
             check_shell_not_content(e, src_by_id)
             check_dangling_landing(e)
+            check_source_type(e, src_by_id)
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)

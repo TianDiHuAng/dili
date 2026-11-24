@@ -8,7 +8,7 @@
   },
   "counts": {
     "side": 34,
-    "dropped": 27,
+    "dropped": 37,
     "weak_claim": 12
   },
   "side": [
@@ -261,6 +261,33 @@
       "note": "候选为《The Mande Creation Myth》的书评（book review），按 D082 不作内容来源。"
     },
     {
+      "entry": "孔雀王朝",
+      "kind": "dropped",
+      "sids": [
+        "openalex-W1977985637",
+        "book-review"
+      ],
+      "note": "openalex-W1977985637 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。"
+    },
+    {
+      "entry": "隋唐",
+      "kind": "dropped",
+      "sids": [
+        "openalex-W2325759714",
+        "book-review"
+      ],
+      "note": "openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。"
+    },
+    {
+      "entry": "宋代",
+      "kind": "dropped",
+      "sids": [
+        "openalex-W2325759714",
+        "book-review"
+      ],
+      "note": "openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（第43轮立规，本轮 R25 机器检出）。"
+    },
+    {
       "entry": "元代",
       "kind": "dropped",
       "sids": [],
@@ -305,6 +332,12 @@
       "note": "候选为《The artistic reception of Minoan Crete》，主题是艺术接受史，不支撑「海上贸易与宫殿再分配体系」，已剔除。"
     },
     {
+      "entry": "克里特文明",
+      "kind": "dropped",
+      "sids": [],
+      "note": "该文为米诺斯印章学专著（类型学/沉积/图像与宗教含义），摘要 725 字符 <800（D112①），且与本条「海上贸易与宫殿再分配」无对应——与第45轮已剔除的《The artistic reception of Minoan Crete》同判据。"
+    },
+    {
       "entry": "古希腊城邦",
       "kind": "dropped",
       "sids": [],
@@ -323,10 +356,37 @@
       "note": "所引 W4408242507 是《Integrating Sequence Stratigraphy and Geostatistical Methods for 3D Lithofacies Modelling of the Tiber Alluvial Plain, Rome, Italy》（2025），研究对象是台伯河冲积平原的三维岩相模型（地质学），虽地理上在罗马，但学科与主题均不涉「罗马共和国的政体与扩张」。已剔除，相关落点句同删。"
     },
     {
+      "entry": "法兰克王国",
+      "kind": "dropped",
+      "sids": [
+        "openalex-W617733386",
+        "book-review"
+      ],
+      "note": "openalex-W617733386 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（第43轮立规，本轮 R25 机器检出）。"
+    },
+    {
+      "entry": "十字军东征",
+      "kind": "dropped",
+      "sids": [],
+      "note": "该文为纪念文集（John Pryor）导言，摘要 793 字符 <800（D112①）、被引 6，属卷级书目介绍而非实证结论；第34轮曾据此升级 L2，依据不成立。"
+    },
+    {
+      "entry": "十字军东征",
+      "kind": "dropped",
+      "sids": [],
+      "note": "该文覆盖 1305–1352（阿维尼翁教廷的布道组织），落在本条「11世纪末至13世纪末」时段之外（D108 时期槽否决），且属布道与宣传侧面。"
+    },
+    {
       "entry": "白令陆桥",
       "kind": "dropped",
       "sids": [],
       "note": "所引为《Grazing exclosures in Bering Land Bridge National Preserve》——研究对象是阿拉斯加以陆桥命名的现代国家保护区（驯鹿放牧围栏 2012–2022 数据），与更新世陆桥无关，属地名碰撞（与 Circular Cities 同型）。 已撤出该来源，本条不据此建立互证。"
+    },
+    {
+      "entry": "大平原",
+      "kind": "dropped",
+      "sids": [],
+      "note": "该文为加拿大冰碛大平原 96 样地植被顶极群落分类（1961），仅涉植被侧面，空间亦不及美国大平原主体；与本条农业/野牛/铁路/沙尘暴诸断言无对应（适用范围 case，D128）。"
     },
     {
       "entry": "五大湖",
@@ -339,6 +399,12 @@
       "kind": "dropped",
       "sids": [],
       "note": "所引 2024 年《Optimal Water Level Study Based on Great Lakes》为水位优化建模（AHP/SQP/模拟退火/水坝出流），摘要中 season/seasonal/hydrolog 0 次命中，不描述水文特征；且 cited 1、Clausius Press，质量门不足。已撤下该源与落点句。 改以机构来源（NOAA GLERL、EPA 五大湖页）作背景，具体水文特征待专门水文学来源。"
+    },
+    {
+      "entry": "玛雅文明",
+      "kind": "dropped",
+      "sids": [],
+      "note": "该书评（Choice Reviews Online 49-0460）按 D082 不作内容来源；且其所述为形成期（前古典期）兴起（Nakbe/El Mirador/Cival），与「古典期衰落」断言时段错配。剔除后本条学术内容源归零。"
     },
     {
       "entry": "阿兹特克",
@@ -359,6 +425,12 @@
       "kind": "dropped",
       "sids": [],
       "note": "所引 2008 年《Review and analysis of altitudinal distribution…》摘要中 climate/zone/vertical/temperature 均为 0 次命中，全文是哥伦比亚安第斯无尾类（蛙类）的海拔分布与特有种，不支撑「垂直气候带」断言。已撤下落点句，该源降为旁证（不作特征描述依据）；「垂直气候带」待引气候/地貌专题文献。"
+    },
+    {
+      "entry": "印加帝国",
+      "kind": "dropped",
+      "sids": [],
+      "note": "该文为玉米酒（chicha）器物的分布研究（aríbalos），属仪式性再分配侧面；第50轮已判旁证，但第42轮 strong 标签未撤，本条直接剔除以免冲突残留。"
     },
     {
       "entry": "巴西殖民经济",

@@ -1,13 +1,14 @@
 {
-  "round": 60,
+  "round": 68,
   "levels": {
     "撒哈拉沙漠": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -19,6 +20,7 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 4
       },
       "tier": "核心"
@@ -27,31 +29,34 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "东非大裂谷": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "埃塞俄比亚高原": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -63,6 +68,7 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
@@ -70,10 +76,11 @@
     "几内亚湾沿岸": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 3,
+        "strong": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -85,17 +92,19 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "重要"
     },
     "马格里布": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -104,9 +113,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 1,
         "unknown": 1
       },
       "tier": "核心"
@@ -115,20 +125,22 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 1,
         "unknown": 1
       },
       "tier": "重要"
     },
     "古埃及中王国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -137,9 +149,10 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -148,9 +161,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -162,6 +176,7 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "核心"
@@ -170,31 +185,34 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "阿拉伯征服北非": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "法蒂玛王朝": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -203,20 +221,22 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "马里帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -225,53 +245,58 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "大津巴布韦": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "斯瓦希里海岸": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "非洲大湖地区": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "两河流域": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -280,9 +305,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 1,
         "unknown": 1
       },
       "tier": "核心"
@@ -291,42 +317,46 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 1,
         "unknown": 1
       },
       "tier": "重要"
     },
     "古巴比伦": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "亚述帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "赫梯王国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -338,28 +368,31 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "核心"
     },
     "帕提亚帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "萨珊波斯": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -371,39 +404,43 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "吠陀时代": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "孔雀王朝": {
-      "level": "A",
+      "level": "C",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "贵霜帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -412,9 +449,10 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -426,6 +464,7 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 4
       },
       "tier": "核心"
@@ -437,17 +476,19 @@
         "weak": 0,
         "side": 1,
         "data": 4,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "仰韶文化": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -456,9 +497,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -467,9 +509,10 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -478,9 +521,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -489,31 +533,34 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "核心"
     },
     "隋唐": {
-      "level": "A",
+      "level": "C",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "宋代": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 2,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
@@ -522,20 +569,22 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "明清": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -543,10 +592,11 @@
     "朝鲜半岛": {
       "level": "A",
       "counts": {
-        "strong": 5,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 5,
         "unknown": 0
       },
       "tier": "重要"
@@ -558,6 +608,7 @@
         "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
@@ -565,10 +616,11 @@
     "中南半岛": {
       "level": "A",
       "counts": {
-        "strong": 4,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
@@ -577,64 +629,70 @@
       "level": "A",
       "counts": {
         "strong": 4,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "吴哥": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "马来群岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "室利佛逝": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "满者伯夷": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "河中地区": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -642,32 +700,35 @@
     "丝绸之路": {
       "level": "A",
       "counts": {
-        "strong": 5,
-        "weak": 1,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "匈奴": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "突厥": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 3,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -676,20 +737,22 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "核心"
     },
     "帖木儿帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -701,17 +764,19 @@
         "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "阿拉伯半岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -719,10 +784,11 @@
     "黎凡特": {
       "level": "A",
       "counts": {
-        "strong": 4,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
@@ -730,10 +796,11 @@
     "安纳托利亚": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -742,42 +809,46 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "爱琴海世界": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "克里特文明": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "迈锡尼文明": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -789,17 +860,19 @@
         "weak": 1,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "马其顿与亚历山大": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -808,31 +881,34 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "核心"
     },
     "罗马帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "拜占庭帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 1,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -840,10 +916,11 @@
     "意大利半岛": {
       "level": "A",
       "counts": {
-        "strong": 4,
-        "weak": 2,
+        "strong": 3,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -851,10 +928,11 @@
     "伊比利亚半岛": {
       "level": "A",
       "counts": {
-        "strong": 5,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 5,
         "unknown": 0
       },
       "tier": "重要"
@@ -862,10 +940,11 @@
     "高卢": {
       "level": "A",
       "counts": {
-        "strong": 5,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 5,
         "unknown": 0
       },
       "tier": "重要"
@@ -877,6 +956,7 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
@@ -885,9 +965,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
-        "side": 1,
+        "weak": 0,
+        "side": 0,
         "data": 0,
+        "alias": 2,
         "unknown": 0
       },
       "tier": "重要"
@@ -895,109 +976,119 @@
     "多瑙河": {
       "level": "A",
       "counts": {
-        "strong": 4,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "莱茵河": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "维京时代": {
-      "level": "A",
+      "level": "C",
       "counts": {
-        "strong": 3,
-        "weak": 1,
+        "strong": 0,
+        "weak": 0,
         "side": 2,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "法兰克王国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "神圣罗马帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "十字军东征": {
-      "level": "A",
+      "level": "C",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "汉萨同盟": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "威尼斯": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "文艺复兴意大利": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 2,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "基辅罗斯": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1005,10 +1096,11 @@
     "莫斯科公国": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1016,10 +1108,11 @@
     "巴尔干半岛": {
       "level": "A",
       "counts": {
-        "strong": 4,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
@@ -1027,21 +1120,23 @@
     "斯堪的纳维亚": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "欧洲冰期地貌": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1049,10 +1144,11 @@
     "黑海海峡": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1061,9 +1157,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 3,
+        "weak": 2,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -1072,20 +1169,22 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "白令陆桥": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -1097,17 +1196,19 @@
         "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
     },
     "大平原": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -1119,28 +1220,31 @@
         "weak": 0,
         "side": 1,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "落基山脉": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 1,
         "data": 2,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "阿巴拉契亚山脉": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1152,6 +1256,7 @@
         "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
@@ -1163,6 +1268,7 @@
         "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
@@ -1171,9 +1277,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -1185,39 +1292,43 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "奥尔梅克": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "玛雅文明": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 6,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "特奥蒂瓦坎": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1226,9 +1337,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "核心"
@@ -1237,20 +1349,22 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "西北海岸": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1262,28 +1376,31 @@
         "weak": 0,
         "side": 1,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
     },
     "新法兰西": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "十三殖民地": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1291,21 +1408,23 @@
     "美国西进": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 1,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "加勒比海群岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1313,21 +1432,23 @@
     "古巴岛": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "安第斯山脉": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -1339,28 +1460,31 @@
         "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "巴西高原": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "拉普拉塔平原": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
@@ -1368,21 +1492,23 @@
     "巴塔哥尼亚": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "阿塔卡马沙漠": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 1,
         "data": 2,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
@@ -1394,28 +1520,31 @@
         "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "的的喀喀湖": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "查文文化": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1423,21 +1552,23 @@
     "莫切文化": {
       "level": "A",
       "counts": {
-        "strong": 4,
-        "weak": 2,
+        "strong": 3,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "纳斯卡文化": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1445,43 +1576,47 @@
     "蒂亚瓦纳科": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "奇穆帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "印加帝国": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "马丘比丘": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 3,
+        "strong": 1,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1489,32 +1624,35 @@
     "安第斯垂直农业": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "南美贸易网络": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "巴西殖民经济": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1522,54 +1660,59 @@
     "南锥体": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 1,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 2,
         "unknown": 0
       },
       "tier": "补充"
     },
     "澳大利亚大陆": {
-      "level": "A",
+      "level": "C",
       "counts": {
-        "strong": 3,
-        "weak": 1,
+        "strong": 0,
+        "weak": 0,
         "side": 1,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "大分水岭": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "大自流盆地": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 2,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "澳大利亚原住民": {
-      "level": "A",
+      "level": "D",
       "counts": {
-        "strong": 3,
-        "weak": 1,
+        "strong": 0,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -1577,65 +1720,71 @@
     "新西兰北岛": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "新西兰南岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 1,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
     },
     "毛利人": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 3,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "美拉尼西亚": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "密克罗尼西亚": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "波利尼西亚": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -1643,10 +1792,11 @@
     "夏威夷群岛": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "重要"
@@ -1654,10 +1804,11 @@
     "复活节岛": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 2,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1666,20 +1817,22 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "太平洋殖民航线": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1688,9 +1841,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -1699,9 +1853,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -1709,10 +1864,11 @@
     "南极大陆": {
       "level": "A",
       "counts": {
-        "strong": 5,
-        "weak": 1,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -1721,20 +1877,22 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
     },
     "横贯南极山脉": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1746,39 +1904,43 @@
         "weak": 0,
         "side": 2,
         "data": 0,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
     },
     "罗斯海": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "南极条约体系": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "南极科考站": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
@@ -1790,6 +1952,7 @@
         "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
@@ -1798,9 +1961,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -1809,9 +1973,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -1820,9 +1985,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "重要"
@@ -1834,6 +2000,7 @@
         "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
@@ -1842,9 +2009,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
-        "side": 1,
+        "weak": 0,
+        "side": 0,
         "data": 0,
+        "alias": 2,
         "unknown": 0
       },
       "tier": "重要"
@@ -1852,54 +2020,59 @@
     "季风系统": {
       "level": "A",
       "counts": {
-        "strong": 5,
-        "weak": 1,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
     },
     "洋流": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "气候带": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "重要"
     },
     "沙漠化": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
-        "weak": 2,
+        "strong": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 3,
         "unknown": 0
       },
       "tier": "补充"
     },
     "河流三角洲": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 4,
-        "weak": 1,
+        "strong": 1,
+        "weak": 0,
         "side": 1,
         "data": 0,
+        "alias": 4,
         "unknown": 0
       },
       "tier": "核心"
@@ -1908,9 +2081,10 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 2
       },
       "tier": "重要"
@@ -1919,9 +2093,10 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 2
       },
       "tier": "重要"
@@ -1933,6 +2108,7 @@
         "weak": 0,
         "side": 0,
         "data": 2,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
@@ -1944,6 +2120,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "核心"
@@ -1955,6 +2132,7 @@
         "weak": 1,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
@@ -1966,6 +2144,7 @@
         "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "重要"
@@ -1977,6 +2156,7 @@
         "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "重要"
@@ -1988,6 +2168,7 @@
         "weak": 2,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
@@ -1999,6 +2180,7 @@
         "weak": 1,
         "side": 0,
         "data": 7,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
@@ -2010,6 +2192,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "重要"
@@ -2018,9 +2201,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2028,10 +2212,11 @@
     "争议边界处理原则": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 1,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 2,
         "unknown": 0
       },
       "tier": "补充"
@@ -2043,6 +2228,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2054,6 +2240,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2062,9 +2249,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2076,17 +2264,19 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
     },
     "极端贫困空间分布": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2098,6 +2288,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2109,6 +2300,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2120,6 +2312,7 @@
         "weak": 1,
         "side": 2,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2128,9 +2321,10 @@
       "level": "A",
       "counts": {
         "strong": 4,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2142,6 +2336,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2153,6 +2348,7 @@
         "weak": 1,
         "side": 1,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2164,6 +2360,7 @@
         "weak": 0,
         "side": 1,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2175,6 +2372,7 @@
         "weak": 1,
         "side": 1,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2186,6 +2384,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2197,6 +2396,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2205,9 +2405,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 1,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2219,6 +2420,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2230,6 +2432,7 @@
         "weak": 1,
         "side": 1,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2237,10 +2440,11 @@
     "城市化水平": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 8,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2252,6 +2456,7 @@
         "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2263,6 +2468,7 @@
         "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "补充"
@@ -2274,6 +2480,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "补充"
@@ -2285,6 +2492,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "补充"
@@ -2293,9 +2501,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2307,6 +2516,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2318,6 +2528,7 @@
         "weak": 1,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2329,6 +2540,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2336,10 +2548,11 @@
     "城市贫困": {
       "level": "A",
       "counts": {
-        "strong": 3,
-        "weak": 1,
+        "strong": 2,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 2,
         "unknown": 0
       },
       "tier": "补充"
@@ -2351,6 +2564,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "补充"
@@ -2362,6 +2576,7 @@
         "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "补充"
@@ -2373,6 +2588,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2384,6 +2600,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2395,6 +2612,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2406,6 +2624,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2414,9 +2633,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2425,9 +2645,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 1,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2436,9 +2657,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2447,9 +2669,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2461,6 +2684,7 @@
         "weak": 0,
         "side": 1,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2469,9 +2693,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2483,6 +2708,7 @@
         "weak": 1,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2494,6 +2720,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2502,9 +2729,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2516,6 +2744,7 @@
         "weak": 1,
         "side": 1,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2527,6 +2756,7 @@
         "weak": 1,
         "side": 1,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2535,9 +2765,10 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2546,9 +2777,10 @@
       "level": "A",
       "counts": {
         "strong": 3,
-        "weak": 1,
+        "weak": 0,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2557,64 +2789,70 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
+        "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
     },
     "撒哈拉以南非洲发展数据": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
     },
     "东亚与太平洋区域发展": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
     },
     "拉丁美洲与加勒比区域发展": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 7,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
     },
     "中东与北非区域发展": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
     },
     "南亚区域发展": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 4,
+        "alias": 1,
         "unknown": 0
       },
       "tier": "补充"
@@ -2626,6 +2864,7 @@
         "weak": 1,
         "side": 0,
         "data": 0,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "补充"
@@ -2637,6 +2876,7 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 1
       },
       "tier": "补充"
@@ -2648,6 +2888,7 @@
         "weak": 1,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2659,6 +2900,7 @@
         "weak": 1,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
@@ -2670,22 +2912,29 @@
         "weak": 0,
         "side": 0,
         "data": 1,
+        "alias": 0,
         "unknown": 0
       },
       "tier": "补充"
     }
   },
   "summary": {
-    "A": 215,
-    "B": 28,
-    "C": 0,
-    "D": 0
+    "A": 119,
+    "B": 114,
+    "C": 5,
+    "D": 5
   },
-  "definition": {
-    "A": "≥2 强来源",
-    "B": "1 强来源",
-    "C": "无强来源",
-    "D": "仅数据端点+机构页（指标解读类）"
-  },
-  "fix": "第60轮修：层级判定按【】分段，避免相邻来源的『剔除/旁证』字样污染；D 判据放宽为 data>0 且 side==0"
+  "alias_list": [
+    "britannica-regions",
+    "wikipedia-regions",
+    "un-m49",
+    "ap-human-geo",
+    "s010-unesco-org"
+  ],
+  "fix": "第68轮：别名页/索引页（britannica-regions/wikipedia-regions/un-m49/ap-human-geo）不计为强来源——它们只证明对象存在，不含主题正文（D071 机器化,D135）",
+  "alias_only_entries": [
+    "孔雀王朝",
+    "隋唐",
+    "十字军东征"
+  ]
 }
