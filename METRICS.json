@@ -1121,6 +1121,21 @@
       "sample_rate": "重要条目第二批12条",
       "sample_audit": "5条登记、7条侧面不采用",
       "note": "补5条→G3 74→69；层级 A137/B103/C1/D2"
+    },
+    {
+      "round": 77,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 2,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "G3 拆分为 G3a/G3b；发现 G3a 仅 2 条、G3b 67 条",
+      "note": "结构性改进：G3a=2/G3b=67；≥2内容源 173"
     }
   ]
 }

@@ -322,6 +322,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 <div class="section"><h2>一、缺口四类（当前）</h2><table><thead><tr><th>编号</th><th>缺口</th><th>条数</th><th>如何关闭</th></tr></thead><tbody>
 {"".join(f'<tr><td><b>{d["id"]}</b></td><td>{esc(d["name"])}</td><td><b>{d["count"]}</b></td><td>{esc(d["fixed_by"])}</td></tr>' for d in _gmod)}
 </tbody></table>
+<p class="dim"><b>G3a 与 G3b 的区别</b>（第77轮拆分）：G3a 是「已有侧面文献可补充，缺的是整体研究」；G3b 是「连侧面文献都未登记，只有单一内容源」。两者的处置不同——前者可把侧面文献登记为补充源并限定范围（D140），后者只能继续检索或承认无解。当前 G3a 仅 {len([x for x in _gmod if x['id']=='G3a']) and _gmap.get('G3a',{}).get('count',0)} 条、G3b {_gmap.get('G3b',{}).get('count',0)} 条。</p>
 <p class="dim">关闭条件：G1=0 且 G3=0 后方可讨论「饱和」；G2 记为既有结论，不再重试同类检索；G4 不可自动化。</p></div>
 <div class="section"><h2>二、经检索确认「无合格第二来源」的条目（{len(_noans)} 条）</h2>
 <p>以下条目经<b>两个库（Crossref + OpenAlex）、多条检索式</b>检索后仍无合格第二来源。本站不作硬配。</p>
