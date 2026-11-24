@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 47,
+  "last_round": 48,
   "history": [
     {
       "round": 1,
@@ -574,6 +574,18 @@
       "gaps_found": 241,
       "note": "实测 66 条条目的来源；ge2 结构层 219",
       "result": "口径实测"
+    },
+    {
+      "round": 48,
+      "methods_used": [
+        "D101槽位化补源",
+        "错源替换",
+        "时期错配剔除",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "≥2内容源 219→224；1个 18",
+      "result": "证据质量推进"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -598,9 +610,8 @@
   "all_l2": true,
   "multi_source_entries": 143,
   "evidence": {
-    "ge2_has_body": 219,
-    "one_has_body": 24,
-    "note": "第①层（有正文）实测；第②层（内容对题）未校验（D106）",
-    "data_endpoints_excluded": true
+    "ge2_has_body": 224,
+    "one_has_body": 18,
+    "note": "第①层（有正文）实测；第②层（内容对题）未全量校验（D106）"
   }
 }
