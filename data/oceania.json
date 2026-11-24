@@ -504,13 +504,13 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 0；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO 大堡礁世界遗产页；当前两源对珊瑚礁主题均无正文支撑。 【第24轮实证复核】s050-oceanservice-noaa-gov=200/正文2753字符/命中0；s085-unesco-org=0/正文0字符/命中0。 【第25轮实证复核·大堡礁】正则 reef|coral；s050-oceanservice-noaa-gov(200/正文2753字符/命中0)；s085-unesco-org(200/正文218字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 2753 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「大堡礁」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020216779（2003年，《Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia》，DOI https://doi.org/10.3354/meps251153）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「生态尺度（本条引 2003 年珊瑚除草剂影响研究）」表述并注明学界有不同版本。",
+      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 0；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO 大堡礁世界遗产页；当前两源对珊瑚礁主题均无正文支撑。 【第24轮实证复核】s050-oceanservice-noaa-gov=200/正文2753字符/命中0；s085-unesco-org=0/正文0字符/命中0。 【第25轮实证复核·大堡礁】正则 reef|coral；s050-oceanservice-noaa-gov(200/正文2753字符/命中0)；s085-unesco-org(200/正文218字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 2753 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「大堡礁」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020216779（2003年，《Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia》，DOI https://doi.org/10.3354/meps251153）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「生态尺度（本条引 2003 年珊瑚除草剂影响研究）」表述并注明学界有不同版本。 【第94轮审计修正·侧面】`openalex-W2020216779`（《Effects of herbicides diuron and atrazine on corals》, 2003）是除草剂对珊瑚的毒理学研究，属污染生态侧面，不支撑「大堡礁的生态格局与保护」。现降为旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "位于昆士兰海岸外的大陆架，水深浅、光照足、水温适宜，适合造礁珊瑚；外海与近岸的水质差异直接影响礁体健康。",
       "influence": "所引 2003 年实验显示，除草剂（敌草隆、阿特拉津）在极低浓度下即可影响珊瑚的共生藻，说明陆源农业径流对近岸礁体的影响可通过化学途径传导，而不仅是泥沙覆盖。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",

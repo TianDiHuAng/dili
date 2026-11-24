@@ -2,11 +2,11 @@
   "round": 72,
   "levels": {
     "撒哈拉沙漠": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 4,
         "alias": 4,
         "unknown": 0
@@ -26,11 +26,11 @@
       "tier": "核心"
     },
     "尼罗河三角洲": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "alias": 1,
         "unknown": 1
@@ -122,11 +122,11 @@
       "tier": "核心"
     },
     "古埃及古王国": {
-      "level": "B",
+      "level": "C",
       "counts": {
-        "strong": 1,
+        "strong": 0,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 2,
         "alias": 1,
         "unknown": 2
@@ -134,11 +134,11 @@
       "tier": "重要"
     },
     "古埃及中王国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "alias": 3,
         "unknown": 0
@@ -230,11 +230,11 @@
       "tier": "重要"
     },
     "马里帝国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 3,
         "alias": 4,
         "unknown": 0
@@ -302,11 +302,11 @@
       "tier": "核心"
     },
     "苏美尔城邦": {
-      "level": "B",
+      "level": "C",
       "counts": {
-        "strong": 1,
+        "strong": 0,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 2,
         "alias": 1,
         "unknown": 2
@@ -725,8 +725,8 @@
       "level": "B",
       "counts": {
         "strong": 1,
-        "weak": 1,
-        "side": 0,
+        "weak": 0,
+        "side": 1,
         "data": 0,
         "alias": 3,
         "unknown": 0
@@ -854,11 +854,11 @@
       "tier": "补充"
     },
     "古希腊城邦": {
-      "level": "A",
+      "level": "C",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 3,
         "alias": 0,
         "unknown": 0
@@ -916,9 +916,9 @@
     "意大利半岛": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 2,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "alias": 3,
         "unknown": 0
@@ -986,11 +986,11 @@
       "tier": "重要"
     },
     "莱茵河": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "alias": 3,
         "unknown": 0
@@ -1370,11 +1370,11 @@
       "tier": "补充"
     },
     "格陵兰岛": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 1,
+        "side": 2,
         "data": 3,
         "alias": 0,
         "unknown": 0
@@ -1658,11 +1658,11 @@
       "tier": "重要"
     },
     "南锥体": {
-      "level": "A",
+      "level": "C",
       "counts": {
-        "strong": 2,
+        "strong": 0,
         "weak": 0,
-        "side": 0,
+        "side": 2,
         "data": 0,
         "alias": 2,
         "unknown": 0
@@ -1814,11 +1814,11 @@
       "tier": "补充"
     },
     "大堡礁": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "alias": 1,
         "unknown": 0
@@ -1934,11 +1934,11 @@
       "tier": "重要"
     },
     "南极科考站": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
-        "side": 0,
+        "side": 1,
         "data": 0,
         "alias": 3,
         "unknown": 0
@@ -2165,8 +2165,8 @@
       "level": "A",
       "counts": {
         "strong": 2,
-        "weak": 2,
-        "side": 0,
+        "weak": 1,
+        "side": 1,
         "data": 0,
         "alias": 0,
         "unknown": 0
@@ -2919,9 +2919,9 @@
     }
   },
   "summary": {
-    "A": 168,
-    "B": 53,
-    "C": 0,
+    "A": 158,
+    "B": 59,
+    "C": 4,
     "D": 22
   },
   "definition": {

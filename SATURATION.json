@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 93,
+  "last_round": 94,
   "history": [
     {
       "round": 1,
@@ -762,9 +762,9 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 168,
-      "B": 53,
-      "C": 0,
+      "A": 158,
+      "B": 59,
+      "C": 4,
       "D": 22
     },
     "side_evidence": {
@@ -775,9 +775,9 @@
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json",
-    "ge2_content": 168,
-    "one_content": 73,
-    "zero_content": 2,
+    "ge2_content": 158,
+    "one_content": 80,
+    "zero_content": 5,
     "criterion": "tools/assess.py（D138 单一实现）",
     "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）"
   },
@@ -787,7 +787,7 @@
       {
         "id": "G1",
         "name": "无强来源（仅 C 级；D 级指标解读类不计）",
-        "count": 0,
+        "count": 4,
         "fixed_by": "补一条被引≥10 或正文≥800 的来源（且非别名页/书评）"
       },
       {
@@ -799,7 +799,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 53,
+        "count": 60,
         "fixed_by": "补第二内容源，须过 R19/R20/R22/R25"
       },
       {
@@ -819,6 +819,10 @@
     {
       "round": 90,
       "event": "D146：content_count 与 strength 同源；G3 由虚低的 14 修正为 45"
+    },
+    {
+      "round": 94,
+      "event": "修正：第85轮「G1 清零」不成立（D152 发现 for…break 忽略降级记录）；G1 真实为 4"
     }
   ],
   "unsolvable": [

@@ -115,12 +115,11 @@ def strength(sid, src, entry=None):
     if is_homepage(src):
         return "weak"      # D149：首页/导航页最多算弱来源
     # 备注中被判旁证/剔除者
-    seg = ""
-    for part in re.split(r"【", (entry or {}).get("pending_notes") or ""):
-        if sid in part:
-            seg = part
-            break
-    if any(k in seg for k in ("旁证", "剔除", "不作", "降级")):
+    # D152：须检查 sid 的**所有**出现段落，任一含豁免词即判 side。
+    # （此前用 for…break 只取第一段，导致「先补登记、后降级」的来源降级记录被完全忽略。）
+    segs = [part for part in re.split(r"【", (entry or {}).get("pending_notes") or "")
+            if sid in part]
+    if any(any(k in part for k in ("旁证", "剔除", "不作", "降级")) for part in segs):
         return "side"
     note = src.get("note") or ""
     if "证据强度：weak" in note:
