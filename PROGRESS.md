@@ -2,7 +2,7 @@
 
 - 状态：正常循环（NORMAL）
 - **检索路线：Crossref `query.bibliographic` → DOI → OpenAlex by-ID**（OpenAlex search 429 不可用）
-- 当前轮次：**第 106 轮已完成，下一轮为第 107 轮**
+- 当前轮次：**第 107 轮已完成，下一轮为第 108 轮**
 - **第104轮：G3 16→11，A 198→203**（G3a 7→2）
   | 条目 | 新第二来源 | 被引 | 备注 |
   |---|---|---|---|
@@ -56,3 +56,10 @@
   - 第106轮收尾：层级 A206 / B8 / C0 / D29；缺口 G1=0 / G2=3 / G3=8（G3a 2 + G3b 6）/ G4=243；check.py 0 错误，check_links.py 0 断链，round100_consist.py 0 问题。
   - 剩余 8 条：G3a 大分水岭、冲积平原；G3b 非洲大湖地区、笈多王朝（无解）、西北海岸、巴西高原（无解）、拉普拉塔平原（无解）、卫星遥感地表观测。
   - 下一轮起点（第107轮）：为大分水岭、冲积平原换检索词（如 Eastern Highlands、alluvial plain 与具体河流平原名）；再追非洲大湖、西北海岸、卫星遥感地表观测。
+
+- **第107轮：G3 仍为 8，A 仍为 206**（未登记新来源）
+  - 大分水岭：新检索词（Eastern Highlands、Great Escarpment、drainage divide 等）得 5 条候选，均为东南高地或大断崖研究；W2077060230《180 Ma continental drainage divide in northeastern Australia》（2000，被引21）确论及澳大利亚东北部分水岭，但标题不含 Great Dividing Range，登记后 check.py R20 报错，已回退，仅在条目 pending_notes 记录。
+  - 冲积平原：5 条候选均为区域或古盆地个案（Yahagi 河下游、Calore 河、密西西比下游、Walls 组、East Berlin 组），不能支撑一般论断，不采用。
+  - 教训：R20 要求来源标题含对象词；检索词含对象词的候选，标题未必含，须先看标题再登记。登记失败时先 git checkout 回退派生文件，再重跑 round68_levels、round62_gaps、round77_split 与三项检查。
+  - 收尾：层级 A206 / B8 / C0 / D29；缺口 G1=0 / G2=3 / G3=8（G3a 2 + G3b 6）/ G4=243；check.py 0 错误，check_links.py 0 断链，round100_consist.py 0 问题。
+  - 下一轮起点（第108轮）：大分水岭、冲积平原已两轮无合格标题，暂缓；转追非洲大湖地区、西北海岸、卫星遥感地表观测，检索词用标题常见的英文名（African Great Lakes、Pacific Northwest coast、satellite remote sensing land surface）。

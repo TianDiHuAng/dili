@@ -1,0 +1,168 @@
+{
+  "results": {
+    "大分水岭": {
+      "cand": [
+        {
+          "oid": "W2079870425",
+          "title": "Controls on post‐mid‐Cretaceous landscape evolution in the southeastern highlands of Australia: Insights from numerical surface process models",
+          "year": 1999,
+          "cited": 74,
+          "abs_len": 1799,
+          "slots": [
+            "australia",
+            "range",
+            "highland",
+            "escarpment",
+            "uplift",
+            "eastern",
+            "divide",
+            "drainage"
+          ],
+          "doi": "10.1029/1998jb900060"
+        },
+        {
+          "oid": "W2027611009",
+          "title": "The Great Escarpment of eastern Australia: Tectonic and geomorphic significance",
+          "year": 1982,
+          "cited": 203,
+          "abs_len": 1172,
+          "slots": [
+            "australia",
+            "escarpment",
+            "uplift",
+            "eastern",
+            "divide"
+          ],
+          "doi": "10.1080/00167618208729190"
+        },
+        {
+          "oid": "W1964834558",
+          "title": "Numerical modelling of landscape evolution on geological time‐scales: a parameter analysis and comparison with the south‐eastern highlands of Australia",
+          "year": 1998,
+          "cited": 118,
+          "abs_len": 2581,
+          "slots": [
+            "australia",
+            "range",
+            "highland",
+            "escarpment",
+            "eastern"
+          ],
+          "doi": "10.1046/j.1365-2117.1998.00056.x"
+        },
+        {
+          "oid": "W2162984058",
+          "title": "Escarpment erosion and landscape evolution in southeastern Australia",
+          "year": 2006,
+          "cited": 97,
+          "abs_len": 3339,
+          "slots": [
+            "australia",
+            "highland",
+            "escarpment",
+            "catchment",
+            "eastern"
+          ],
+          "doi": "10.1130/2006.2398(10)"
+        },
+        {
+          "oid": "W2077060230",
+          "title": "180 Ma continental drainage divide in northeastern Australia: Role of passive margin tectonics",
+          "year": 2000,
+          "cited": 21,
+          "abs_len": 711,
+          "slots": [
+            "australia",
+            "highland",
+            "eastern",
+            "divide",
+            "drainage"
+          ],
+          "doi": "10.1130/0091-7613(2000)028<0763:mcddin>2.3.co;2"
+        }
+      ],
+      "n": 14
+    },
+    "冲积平原": {
+      "cand": [
+        {
+          "oid": "W2032347497",
+          "title": "Geomorphology and Subsurface Ceology of the Alluvial Plain of the lower Yahagi River, Central Japan",
+          "year": 1972,
+          "cited": 9,
+          "abs_len": 2607,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "sediment",
+            "deposit"
+          ],
+          "doi": "10.4116/jaqua.11.193"
+        },
+        {
+          "oid": "W2160234329",
+          "title": "Walls Formation, Western Shetland: distal alluvial plain deposits within a tectonically active Devonian basin",
+          "year": 1985,
+          "cited": 7,
+          "abs_len": 1492,
+          "slots": [
+            "alluvial",
+            "plain",
+            "sediment",
+            "flood",
+            "deposit"
+          ],
+          "doi": "10.1144/sjg21010023"
+        },
+        {
+          "oid": "W2016969783",
+          "title": "Ichnology of an ephemeral lacustrine/alluvial plain system: Jurassic East Berlin Formation, Hartford Basin, USA",
+          "year": 1991,
+          "cited": 91,
+          "abs_len": 1152,
+          "slots": [
+            "alluvial",
+            "plain",
+            "sediment",
+            "deposit"
+          ],
+          "doi": "10.1080/10420949109386354"
+        },
+        {
+          "oid": "W4256416420",
+          "title": "Geomorphology of the Lower Calore River alluvial plain (Southern Italy)",
+          "year": 2016,
+          "cited": 21,
+          "abs_len": 1437,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "flood"
+          ],
+          "doi": "10.1080/17445647.2015.1132277"
+        },
+        {
+          "oid": "W1548440186",
+          "title": "Floodflow frequency of streams in the alluvial plain of the Lower Mississippi River in Mississippi, Arkansas, and Louisiana",
+          "year": 1985,
+          "cited": 7,
+          "abs_len": 832,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "flood"
+          ],
+          "doi": "10.3133/wri854150"
+        }
+      ],
+      "n": 22
+    }
+  },
+  "http": {
+    "ok": 279,
+    "fail": 6
+  }
+}
