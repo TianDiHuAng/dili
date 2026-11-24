@@ -1466,6 +1466,21 @@
       "sample_rate": "G3a剩余12条",
       "sample_audit": "10/12命中1%失败；登记6条（澳大利亚Gawler283/南锥体115/波利尼西亚82/大自流盆地终于对位）",
       "note": "补6条→G3 37→31、G3a核心 3→1；A190"
+    },
+    {
+      "round": 100,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 243,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "41项边界用例 + 6项交叉一致性 + 全量来源引用核查",
+      "sample_audit": "边界用例0失败、一致性0问题；新发现777登记中139未引用（D154）",
+      "note": "D154：来源登记数≠引用数（638 引用/139 未引用）；缺口 G1=0/G3a=14/G3b=17"
     }
   ]
 }

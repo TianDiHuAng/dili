@@ -779,7 +779,12 @@
     "one_content": 51,
     "zero_content": 2,
     "criterion": "tools/assess.py（D138 单一实现）",
-    "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）"
+    "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）",
+    "sources_registered": 777,
+    "sources_referenced": 638,
+    "sources_unreferenced": 139,
+    "sources_fetch_failed": 48,
+    "note_sources": "sources.json 是**登记库**（含抓取失败的尝试记录与未被采用的候选），实际被条目引用的是 sources_referenced。此前报告「777 来源」用的是登记数，会让来源显得比实际多（D154）。"
   },
   "gap_model": {
     "note": "第62轮重定义、第77轮细分：G3 拆为 G3a（有侧面文献可补充）与 G3b（无任何其他来源）。两者的处置不同——G3a 可把侧面文献登记为补充源并限定范围，G3b 只能继续找或承认无解。",
