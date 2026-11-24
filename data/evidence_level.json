@@ -2270,7 +2270,7 @@
       "tier": "补充"
     },
     "极端贫困空间分布": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2474,7 +2474,7 @@
       "tier": "补充"
     },
     "沙尘暴": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2486,7 +2486,7 @@
       "tier": "补充"
     },
     "渔业资源": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2798,7 +2798,7 @@
       "tier": "补充"
     },
     "撒哈拉以南非洲发展数据": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2810,7 +2810,7 @@
       "tier": "补充"
     },
     "东亚与太平洋区域发展": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2822,7 +2822,7 @@
       "tier": "补充"
     },
     "拉丁美洲与加勒比区域发展": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2834,7 +2834,7 @@
       "tier": "补充"
     },
     "中东与北非区域发展": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2846,7 +2846,7 @@
       "tier": "补充"
     },
     "南亚区域发展": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2870,7 +2870,7 @@
       "tier": "补充"
     },
     "二氧化碳排放清单": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2906,7 +2906,7 @@
       "tier": "补充"
     },
     "水资源供给概览": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2920,9 +2920,9 @@
   },
   "summary": {
     "A": 137,
-    "B": 103,
+    "B": 93,
     "C": 1,
-    "D": 2
+    "D": 12
   },
   "definition": {
     "A": "≥2 强来源",

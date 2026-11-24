@@ -1136,6 +1136,21 @@
       "sample_rate": "—",
       "sample_audit": "G3 拆分为 G3a/G3b；发现 G3a 仅 2 条、G3b 67 条",
       "note": "结构性改进：G3a=2/G3b=67；≥2内容源 173"
+    },
+    {
+      "round": 78,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 36,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "补充类36条全查",
+      "sample_audit": "D141 生效：12条指标解读类判D；G1 13→1、G3 69→62",
+      "note": "D141指标解读类豁免；缺口 G1=1/G2=3/G3a=2/G3b=60；层级 A137/B93/C1/D12"
     }
   ]
 }

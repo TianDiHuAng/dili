@@ -11,12 +11,12 @@ TODAY = os.environ.get("DILI_TODAY", "2026-11-24")
 S = load_sources()
 T = load_entries(UNITS)
 
-one = [t for t, e in T.items() if content_count(e, S) == 1]
-zero = [t for t, e in T.items() if content_count(e, S) == 0]
+# G3：内容源仅 1 个，**排除 D 级**（指标解读类只需机构长文 + 数据端点）
 lvl = {t: level_of(e, S) for t, e in T.items()}
-
-# G1：无强来源（C/D 级）
-g1 = [t for t, v in lvl.items() if v in ("C", "D")]
+one = [t for t, e in T.items() if content_count(e, S) == 1 and lvl[t] != "D"]
+zero = [t for t, e in T.items() if content_count(e, S) == 0 and lvl[t] != "D"]
+# G1：无强来源（**仅 C 级**——D 级是指标解读类，本不要求强来源，不计入缺口）
+g1 = [t for t, v in lvl.items() if v == "C"]
 NOFIX = ("河中地区", "库什与努比亚", "莫切文化")   # 已确认无合格主来源
 gaps = []
 for t in g1:
@@ -24,7 +24,7 @@ for t in g1:
 
 out = {"round": 72, "date": TODAY,
  "gap_definitions": [
-   {"id": "G1", "name": "无强来源（C/D 级）", "count": len(g1),
+   {"id": "G1", "name": "无强来源（仅 C 级；D 级指标解读类不计）", "count": len(g1),
     "fixed_by": "补一条被引≥10 或正文≥800 的来源（且非别名页/书评）"},
    {"id": "G2", "name": "检索确认无合格主来源", "count": len(NOFIX),
     "fixed_by": "仅待新文献出现；不再重试同类检索"},

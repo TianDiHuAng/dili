@@ -114,12 +114,24 @@ def content_count(entry, sources):
                if has_content(sid, sources.get(sid) or {}, entry))
 
 
+def _strong_sids(entry, sources):
+    return [sid for sid in entry.get("sources", [])
+            if strength(sid, sources.get(sid) or {}, entry) == "strong"]
+
+
 def level_of(entry, sources):
-    """A/B/C/D 四档。"""
+    """A/B/C/D 四档。
+    D141：若仅有 1 个强来源、且该强来源是**机构长文**（非 openalex- 学术论文）、
+    同时条目带数据端点——判为 D（指标解读类），因为其正文是指标解释与空间差异概述，
+    机构长文即主体，不要求第二篇学术文献。"""
     c = count_entry(entry, sources)
     if c["strong"] >= 2:
         return "A"
     if c["strong"] == 1:
+        sids = _strong_sids(entry, sources)
+        is_institutional = sids and not any(s.startswith("openalex-") for s in sids)
+        if is_institutional and c["data"] > 0 and c["side"] == 0:
+            return "D"
         return "B"
     if c["data"] > 0 and c["side"] == 0 and c["weak"] == 0:
         return "D"
