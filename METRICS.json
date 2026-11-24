@@ -851,6 +851,21 @@
       "sample_rate": "198条对象词全量",
       "sample_audit": "R20覆盖扩至198条（全部含学术来源的条目），仅检出1条并补映射（极端天气预警←该文确实讲预报效力）；3处缺口如实记录无合格主来源（河中←粟特宗教文本、库什商路←无候选、莫切←奇穆献祭对象时期双错）",
       "note": "R20覆盖扩至198条（含补充条目），检出1条并补映射；3处缺口如实记录无合格主来源；≥2内容源 224"
+    },
+    {
+      "round": 59,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 1,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "243条层级计算",
+      "sample_audit": "层级判据经抽查校准（被引458但摘要795字符的经典著作不再误判为unknown）",
+      "note": "证据层级系统上线（A196/B43/C4/D0）并渲染到条目页；R21校验层级覆盖"
     }
   ]
 }

@@ -33,10 +33,26 @@ def load_json(path):
         return json.load(f)
 
 
+EV_MAP = {}
+_evp = os.path.join(DATA, "evidence_level.json")
+if os.path.exists(_evp):
+    EV_MAP = load_json(_evp).get("levels", {})
+
 OBJ_MAP = {}
 _ob_path = os.path.join(DATA, "object_words.json")
 if os.path.exists(_ob_path):
     OBJ_MAP = load_json(_ob_path)
+
+
+def check_evidence_level(e, evmap):
+    """R21（第59轮）：每条目须在 evidence_level.json 中有层级记录（A/B/C/D）。"""
+    if not evmap:
+        return
+    rec = evmap.get(e.get("title"))
+    if not rec:
+        err(f"R21 {e['id']}: evidence_level.json 缺少本条的层级记录")
+    elif rec.get("level") not in ("A", "B", "C", "D"):
+        err(f"R21 {e['id']}: 层级值非法 {rec.get('level')}")
 
 
 def _norm_text(s):
@@ -149,6 +165,7 @@ def main():
             check_orphan_citation(e, src_by_id)
             check_weak_as_primary(e, src_by_id)
             check_object_word(e, src_by_id, OBJ_MAP)
+            check_evidence_level(e, EV_MAP)
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)

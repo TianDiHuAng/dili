@@ -1,0 +1,2691 @@
+{
+  "round": 59,
+  "levels": {
+    "撒哈拉沙漠": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "尼罗河谷": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 4
+      },
+      "tier": "核心"
+    },
+    "尼罗河三角洲": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "东非大裂谷": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "埃塞俄比亚高原": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "刚果盆地": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "几内亚湾沿岸": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 3,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "萨赫勒带": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 1
+      },
+      "tier": "重要"
+    },
+    "马格里布": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "古埃及早王朝": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 1
+      },
+      "tier": "核心"
+    },
+    "古埃及古王国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 1
+      },
+      "tier": "重要"
+    },
+    "古埃及中王国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "古埃及新王国": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "库什与努比亚": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "迦太基": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 1
+      },
+      "tier": "核心"
+    },
+    "罗马阿非利加": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "阿拉伯征服北非": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "法蒂玛王朝": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "加纳帝国": {
+      "level": "C",
+      "counts": {
+        "strong": 0,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "马里帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 1,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "桑海帝国": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "大津巴布韦": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "斯瓦希里海岸": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "非洲大湖地区": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "两河流域": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "苏美尔城邦": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 1
+      },
+      "tier": "核心"
+    },
+    "阿卡德帝国": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 1
+      },
+      "tier": "重要"
+    },
+    "古巴比伦": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "亚述帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "赫梯王国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "阿契美尼德波斯": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 1
+      },
+      "tier": "核心"
+    },
+    "帕提亚帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "萨珊波斯": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "印度河文明": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "吠陀时代": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "孔雀王朝": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "贵霜帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "笈多王朝": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "黄河流域": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 4
+      },
+      "tier": "核心"
+    },
+    "长江流域": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 1,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "仰韶文化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "商代": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "周代": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "秦代": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "汉代": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "隋唐": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "宋代": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 2,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "元代": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 2,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "明清": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "朝鲜半岛": {
+      "level": "A",
+      "counts": {
+        "strong": 5,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "日本列岛": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "中南半岛": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "湄公河三角洲": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "吴哥": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "马来群岛": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "室利佛逝": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "满者伯夷": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "河中地区": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "丝绸之路": {
+      "level": "A",
+      "counts": {
+        "strong": 5,
+        "weak": 1,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "匈奴": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "突厥": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "蒙古帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "帖木儿帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "青藏高原": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "阿拉伯半岛": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "黎凡特": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "安纳托利亚": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "东亚季风": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "爱琴海世界": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "克里特文明": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "迈锡尼文明": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "古希腊城邦": {
+      "level": "C",
+      "counts": {
+        "strong": 0,
+        "weak": 1,
+        "side": 1,
+        "data": 3,
+        "unknown": 3
+      },
+      "tier": "核心"
+    },
+    "马其顿与亚历山大": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "罗马共和国": {
+      "level": "C",
+      "counts": {
+        "strong": 0,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 2
+      },
+      "tier": "核心"
+    },
+    "罗马帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "拜占庭帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "意大利半岛": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "伊比利亚半岛": {
+      "level": "A",
+      "counts": {
+        "strong": 5,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "高卢": {
+      "level": "A",
+      "counts": {
+        "strong": 5,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "不列颠群岛": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "阿尔卑斯山": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 2,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "多瑙河": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "莱茵河": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "维京时代": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 1,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "法兰克王国": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "神圣罗马帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "十字军东征": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "汉萨同盟": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "威尼斯": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "文艺复兴意大利": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 2,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "基辅罗斯": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "莫斯科公国": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "巴尔干半岛": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "斯堪的纳维亚": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "欧洲冰期地貌": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "黑海海峡": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "欧洲温带海洋性气候": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 3,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "中世纪欧洲庄园农业": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "白令陆桥": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 1,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "北美冰盖": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "大平原": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "密西西比河": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 0,
+        "side": 1,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "落基山脉": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 1,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "阿巴拉契亚山脉": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "五大湖": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "科罗拉多高原": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "墨西哥湾": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "中美洲地峡": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "奥尔梅克": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "玛雅文明": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 6,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "特奥蒂瓦坎": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "阿兹特克": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "北美原住民": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "西北海岸": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "格陵兰岛": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 1,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "新法兰西": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "十三殖民地": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "美国西进": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "加勒比海群岛": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "古巴岛": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 3,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "安第斯山脉": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 1,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "亚马逊盆地": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 0,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "巴西高原": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "拉普拉塔平原": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "巴塔哥尼亚": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "阿塔卡马沙漠": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 1,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "亚马逊河": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 0,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "的的喀喀湖": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "查文文化": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "莫切文化": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "纳斯卡文化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "蒂亚瓦纳科": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "奇穆帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "印加帝国": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "马丘比丘": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 3,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "安第斯垂直农业": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "南美贸易网络": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "巴西殖民经济": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "南锥体": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 2,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "澳大利亚大陆": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "大分水岭": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "大自流盆地": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "澳大利亚原住民": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "新西兰北岛": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "新西兰南岛": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "毛利人": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 3,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "美拉尼西亚": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "密克罗尼西亚": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "波利尼西亚": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "夏威夷群岛": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "复活节岛": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "大堡礁": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "太平洋殖民航线": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "澳大利亚内陆干旱气候": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "澳大利亚混合农业": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "南极大陆": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "南极半岛": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "横贯南极山脉": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "南极冰盖": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "罗斯海": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 3,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "南极条约体系": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "南极科考站": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 3,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "冰芯气候记录": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "南极洲无农业的环境约束": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "南极特别保护区": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "松岛冰川退缩": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "板块构造": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "大陆漂移": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 2,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "季风系统": {
+      "level": "A",
+      "counts": {
+        "strong": 5,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "洋流": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 1,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "气候带": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "沙漠化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "河流三角洲": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "冲积平原": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 2
+      },
+      "tier": "重要"
+    },
+    "山地农业": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 2
+      },
+      "tier": "重要"
+    },
+    "游牧": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 0,
+        "side": 0,
+        "data": 2,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "城市起源": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "人口迁移": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "植物物候变化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "unknown": 1
+      },
+      "tier": "重要"
+    },
+    "北极火情变化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "unknown": 1
+      },
+      "tier": "重要"
+    },
+    "地理信息系统": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "人口地理": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 7,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "城市地理": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 1,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "地图投影": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "争议边界处理原则": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 1,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "森林覆盖变化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "土地利用变化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "生物多样性分布": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "海洋保护区": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "极端贫困空间分布": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "能源转型": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "碳排放空间差异": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "人口年龄结构": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "城市热岛": {
+      "level": "A",
+      "counts": {
+        "strong": 4,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "湿地与水资源": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "预期寿命空间差异": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "人均产出空间差异": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 1,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "作物单产差异": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "肥料使用与环境": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "肉奶生产与土地": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "自然灾害风险": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 2,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "森林面积占比": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "人口增长": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "城市化水平": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 0,
+        "side": 0,
+        "data": 8,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "全球气温变化": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "荒漠化": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "沙尘暴": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "渔业资源": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "极端天气预警": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "土壤资源": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "海洋生态系统": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "陆地保护区": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "城市贫困": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "水资源管理": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "卫星遥感地表观测": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "健康地理数据": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "气候与健康风险": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "全球营养状况": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "气候适应政策": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "环境治理": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "可持续交通": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 2,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "地理空间数据产品": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "火灾生态": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "国家收入分类": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 1,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "玛雅研究新进展": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "教育机会地域差异": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "儿童发展地域差异": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "农业气候风险": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "农业统计体系": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "全球人口规模": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "地球系统科学": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "环境数据访问": {
+      "level": "A",
+      "counts": {
+        "strong": 3,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "人文地理学": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 2,
+        "side": 0,
+        "data": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "撒哈拉以南非洲发展数据": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "东亚与太平洋区域发展": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "拉丁美洲与加勒比区域发展": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 7,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "中东与北非区域发展": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "南亚区域发展": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 4,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "全球气温距平": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 0,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "二氧化碳排放清单": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "保护与保育区体系": {
+      "level": "B",
+      "counts": {
+        "strong": 1,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "农业企业与价值链": {
+      "level": "C",
+      "counts": {
+        "strong": 0,
+        "weak": 1,
+        "side": 0,
+        "data": 1,
+        "unknown": 1
+      },
+      "tier": "补充"
+    },
+    "水资源供给概览": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 1,
+        "unknown": 0
+      },
+      "tier": "补充"
+    }
+  },
+  "summary": {
+    "A": 196,
+    "B": 43,
+    "C": 4,
+    "D": 0
+  },
+  "definition": {
+    "A": "≥2 强来源",
+    "B": "1 强来源 + 旁证/弱",
+    "C": "无强来源",
+    "D": "仅数据端点与机构页（指标解读类）"
+  },
+  "strong_rule": "被引≥10 或 正文/摘要≥800 字符（满足其一）"
+}

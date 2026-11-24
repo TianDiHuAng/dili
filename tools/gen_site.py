@@ -51,6 +51,21 @@ def source_link(sid, sources):
     return f'<a href="{esc(s["url"])}" target="_blank" rel="noopener">{flag}{esc(s["title"])}</a>'
 
 
+_evp = os.path.join(DATA, "evidence_level.json")
+EV = (json.load(open(_evp, encoding="utf-8"))["levels"] if os.path.exists(_evp) else {})
+
+
+def evlabel(title):
+    """第59轮：证据层级标签 A≥2强 / B 1强 / C 无强 / D 仅数据端点。"""
+    lv = (EV.get(title) or {}).get("level")
+    if not lv:
+        return ""
+    txt = {"A": "证据 A（≥2 强来源）", "B": "证据 B（1 强来源）",
+           "C": "证据 C（仅旁证/弱来源）", "D": "证据 D（仅数据端点）"}.get(lv, "")
+    cls = {"A": "tag", "B": "tag", "C": "tag warn", "D": "tag dim"}.get(lv, "tag")
+    return f'<span class="{cls}">{esc(txt)}</span>'
+
+
 def srcgrade(e, flags=None):
     """来源等级徽标：按 coverage 标志位判定（避免 status 子串误判）。"""
     flags = flags or {}
@@ -160,7 +175,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
     # 条目页
     for eid, e in entries.items():
         parts = [f'''<div class="crumb"><a href="../index.html">首页</a> / <a href="../units/{esc(e['unit_id'])}.html">{esc(UNIT_NAMES[e['unit_id']])}</a> / {esc(e['title'])}</div>
-<h1>{esc(e['title'])}</h1><p><span class="tag">{esc(e['tier'])}</span><span class="tag">{esc(e['level'])}</span><span class="tag">{esc(e['region'])}</span><span class="tag">{esc(e['theme'])}</span>{srcgrade(e, covflags.get(e['id'], {}))}</p>
+<h1>{esc(e['title'])}</h1><p><span class="tag">{esc(e['tier'])}</span><span class="tag">{esc(e['level'])}</span><span class="tag">{esc(e['region'])}</span><span class="tag">{esc(e['theme'])}</span>{srcgrade(e, covflags.get(e['id'], {}))}{evlabel(e['title'])}</p>
 <div class="section"><h2>定义</h2><p>{esc(e['definition'])}</p></div>
 <div class="section"><h2>时间或位置</h2><p>{esc(e['time_or_place'])}</p></div>
 <div class="section"><h2>概述</h2><p>{esc(e['overview'])}</p></div>''']

@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 58,
+  "last_round": 59,
   "history": [
     {
       "round": 1,
@@ -700,6 +700,18 @@
       "gaps_found": 241,
       "note": "R20 覆盖 198 条；3处（河中/库什商路/莫切灌溉）确无合格主来源",
       "result": "校验全覆盖"
+    },
+    {
+      "round": 59,
+      "methods_used": [
+        "证据层级系统",
+        "站点渲染",
+        "R21校验",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "层级 A196/B43/C4/D0；C 级 4 条为证据最弱",
+      "result": "证据可见化"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -726,7 +738,12 @@
   "evidence": {
     "ge2_has_body": 224,
     "one_has_body": 18,
-    "obj_word_map": 198,
-    "note": "R19+R20 覆盖 198 条；语义对题仍依赖人工扫描"
+    "levels": {
+      "A": 196,
+      "B": 43,
+      "C": 4,
+      "D": 0
+    },
+    "note": "R19+R20+R21 三道机器校验；读者可在条目页看到证据层级 A/B/C"
   }
 }
