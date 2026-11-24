@@ -8371,6 +8371,45 @@
       "verified": true,
       "page_title": "Large-Scale Control on the Patagonian Climate",
       "note": "OpenAlex 作品 W1994664019（DOI 10.1175/jcli-d-12-00001.1）；2013年；Journal of Climate；被引 668。HTTP 200，24360 字节。摘要长度 1674 字符；主题槽命中 ['climate', 'westerl', 'precipitation']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2167909753",
+      "title": "OpenAlex W2167909753 — Hypotheses to explain the origin of species in Amazonia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2008,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2167909753",
+      "url2": "https://doi.org/https://doi.org/10.1590/s1519-69842008000500003",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Hypotheses to explain the origin of species in Amazonia",
+      "note": "OpenAlex 作品 W2167909753（DOI https://doi.org/10.1590/s1519-69842008000500003）；2008年；Brazilian Journal of Biology；被引 281。HTTP 200，28981 字节。摘要长度 4196 字符；主题槽命中 ['landscape', 'ecolog', 'geolog']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W3120122943",
+      "title": "OpenAlex W3120122943 — Connections of climate change and variability to large and extreme forest fires in southeast Australia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2021,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W3120122943",
+      "url2": "https://doi.org/https://doi.org/10.1038/s43247-020-00065-8",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Connections of climate change and variability to large and extreme forest fires in southeast Australia",
+      "note": "OpenAlex 作品 W3120122943（DOI https://doi.org/10.1038/s43247-020-00065-8）；2021年；Communications Earth & Environment；被引 982。HTTP 200，49875 字节。摘要长度 1757 字符；主题槽命中 ['climate', 'variab']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2081858996",
+      "title": "OpenAlex W2081858996 — A message for our future? The Rapa Nui (Easter Island) ecodisaster and Pacific island environments",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2002,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2081858996",
+      "url2": "https://doi.org/https://doi.org/10.1080/00438240120107468",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "A message for our future? The Rapa Nui (Easter Island) ecodisaster and Pacific island environments",
+      "note": "OpenAlex 作品 W2081858996（DOI https://doi.org/10.1080/00438240120107468）；2002年；World Archaeology；被引 114。HTTP 200，15003 字节。摘要长度 1455 字符；主题槽命中 ['island', 'environment']。证据强度：strong。"
     }
   ]
 }

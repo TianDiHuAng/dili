@@ -460,7 +460,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4322713864（2010年，《Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection》，DOI https://doi.org/10.1558/isbn.9781781791929，Equinox Publishing eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1940–前1640年（据所引专著）」表述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Poetry and Culture in Middle Kingdom Egypt》研究的是文学与文化（文本侧面），不涉行政与灌溉。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮检索记录】引擎 Crossref+OpenAlex 两库、各两条检索式；过筛者为《Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom》（1988, 被引172）——主题是自传体铭文的文体发展（铭文学侧面），不支撑「行政与灌溉开发」。主来源仍缺。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4322713864（2010年，《Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection》，DOI https://doi.org/10.1558/isbn.9781781791929，Equinox Publishing eBooks）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1940–前1640年（据所引专著）」表述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Poetry and Culture in Middle Kingdom Egypt》研究的是文学与文化（文本侧面），不涉行政与灌溉。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮检索记录】引擎 Crossref+OpenAlex 两库、各两条检索式；过筛者为《Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom》（1988, 被引172）——主题是自传体铭文的文体发展（铭文学侧面），不支撑「行政与灌溉开发」。主来源仍缺。 【第55轮检索记录】两库（Crossref+OpenAlex）各一条检索式；过筛者仍是《Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom》(1988)——自传体铭文的文体研究，不支撑行政与灌溉。未采用。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

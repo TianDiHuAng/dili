@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 54,
+  "last_round": 55,
   "history": [
     {
       "round": 1,
@@ -654,6 +654,17 @@
       "gaps_found": 241,
       "note": "R19抓出6条弱来源误称主来源并降级；补2条主来源；≥2内容源 224",
       "result": "校验机器化"
+    },
+    {
+      "round": 55,
+      "methods_used": [
+        "两库精确检索",
+        "3条不采用记录",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "补3条主来源；≥2内容源 224",
+      "result": "主来源推进"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -680,9 +691,8 @@
   "evidence": {
     "ge2_has_body": 224,
     "one_has_body": 19,
-    "side_evidence": 30,
-    "primary_claims": 12,
+    "primary_claims": 15,
     "weak_claims": 6,
-    "note": "R19 已上线（弱来源不得称主来源）；内容对题仍依赖人工扫描"
+    "note": "R19 已机器化（弱来源不得称主来源）；内容对题仍依赖人工扫描"
   }
 }

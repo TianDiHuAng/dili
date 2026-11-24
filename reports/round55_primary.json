@@ -1,0 +1,909 @@
+{
+  "印加帝国": {
+    "claim": "印加国家的疆域、道路与行政",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Inca state administration roads",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1061/9780784414163.ch12",
+            "title": "Inca Roads",
+            "year": 2016,
+            "oa_id": "W4233034698",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 534,
+            "slots": [
+              "road",
+              "empire"
+            ],
+            "host": "American Society of Civil Engineers eBooks"
+          },
+          {
+            "doi": "10.1093/oxfordhb/9780190219352.013.9",
+            "title": "The Inca State and Local Ritual Landscapes",
+            "year": 2018,
+            "oa_id": "W2796271025",
+            "cited": 12,
+            "type": "book",
+            "abs_len": 1021,
+            "slots": [
+              "state",
+              "empire"
+            ],
+            "host": "Oxford University Press eBooks"
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Inca state administration roads",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1093/acrefore/9780190854584.013.480",
+            "title": "The Archaeology of Qhapaq Ñan (Inca Royal Road)",
+            "year": 2020,
+            "oa_id": "W3083669428",
+            "cited": 0,
+            "type": "reference-entry",
+            "abs_len": 2648,
+            "slots": [
+              "state",
+              "administrat",
+              "road",
+              "empire",
+              "organiz"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.1215/00182168-85-3-500",
+            "title": "Machu Picchu: Unveiling the Mystery of the Incas",
+            "year": 2005,
+            "oa_id": "W2073474856",
+            "cited": 15,
+            "type": "article",
+            "abs_len": 6157,
+            "slots": [
+              "state",
+              "administrat",
+              "road",
+              "empire",
+              "organiz"
+            ],
+            "host": "Hispanic American Historical Review"
+          },
+          {
+            "doi": null,
+            "title": "El Camino del Inca en el Norte Chico chileno",
+            "year": 2011,
+            "oa_id": "W1526939480",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 9741,
+            "slots": [
+              "state",
+              "administrat",
+              "road",
+              "empire",
+              "organiz"
+            ],
+            "host": "Cuadernos de Investigación Urbanística"
+          },
+          {
+            "doi": "https://doi.org/10.22215/etd/2023-15399",
+            "title": "The Role of Terraces in the Inca Empire",
+            "year": 2023,
+            "oa_id": "W4362575919",
+            "cited": 2,
+            "type": "dissertation",
+            "abs_len": 1042,
+            "slots": [
+              "state",
+              "administrat",
+              "empire"
+            ],
+            "host": "Carleton University's Institutional Repository (MacOdrum Library, Carleton University)"
+          },
+          {
+            "doi": "https://doi.org/10.18441/ind.v28i0.79-107",
+            "title": "The concept of Inca province at Tawantinsuyu",
+            "year": 2011,
+            "oa_id": "W1950112172",
+            "cited": 7,
+            "type": "article",
+            "abs_len": 594,
+            "slots": [
+              "state",
+              "administrat",
+              "organiz"
+            ],
+            "host": "INDIANA - Estudios Antropológicos sobre América Latina y el Caribe"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1215/00182168-85-3-500",
+      "title": "Machu Picchu: Unveiling the Mystery of the Incas",
+      "year": 2005,
+      "oa_id": "W2073474856",
+      "cited": 15,
+      "type": "article",
+      "abs_len": 6157,
+      "slots": [
+        "state",
+        "administrat",
+        "road",
+        "empire",
+        "organiz"
+      ],
+      "host": "Hispanic American Historical Review"
+    }
+  },
+  "亚马逊盆地": {
+    "claim": "亚马逊盆地的地貌、水文与生态总体",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Amazonia landscape ecology overview",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1093/oxfordhb/9780199672691.013.16",
+            "title": "Landscaping, Landscape Legacies, and Landesque Capital in Pre-Columbian Amazonia",
+            "year": 2016,
+            "oa_id": "W2401419073",
+            "cited": 49,
+            "type": "reference-entry",
+            "abs_len": 774,
+            "slots": [
+              "landscape",
+              "ecolog"
+            ],
+            "host": "Oxford University Press eBooks"
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Amazonia landscape ecology overview",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1139/cjb-2021-0107",
+            "title": "Sensory ecologies, plant-persons, and multinatural landscapes in Amazonia",
+            "year": 2021,
+            "oa_id": "W3216135115",
+            "cited": 43,
+            "type": "article",
+            "abs_len": 691,
+            "slots": [
+              "landscape",
+              "ecolog"
+            ],
+            "host": "Botany"
+          },
+          {
+            "doi": "https://doi.org/10.1590/s1519-69842008000500003",
+            "title": "Hypotheses to explain the origin of species in Amazonia",
+            "year": 2008,
+            "oa_id": "W2167909753",
+            "cited": 281,
+            "type": "article",
+            "abs_len": 4196,
+            "slots": [
+              "landscape",
+              "ecolog",
+              "geolog"
+            ],
+            "host": "Brazilian Journal of Biology"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1590/s1519-69842008000500003",
+      "title": "Hypotheses to explain the origin of species in Amazonia",
+      "year": 2008,
+      "oa_id": "W2167909753",
+      "cited": 281,
+      "type": "article",
+      "abs_len": 4196,
+      "slots": [
+        "landscape",
+        "ecolog",
+        "geolog"
+      ],
+      "host": "Brazilian Journal of Biology"
+    }
+  },
+  "新法兰西": {
+    "claim": "新法兰西殖民地的地理与经济",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "New France colony economy",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "New France colony economy",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1353/rah.2016.0024",
+            "title": "The End of New France: Falling with Gravity",
+            "year": 2016,
+            "oa_id": "W2297135930",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 4286,
+            "slots": [
+              "colony",
+              "econom"
+            ],
+            "host": "Reviews in American History"
+          },
+          {
+            "doi": "https://doi.org/10.1086/250152",
+            "title": "The Paper Currencies of New France",
+            "year": 1893,
+            "oa_id": "W1985093397",
+            "cited": 10,
+            "type": "article",
+            "abs_len": 1564,
+            "slots": [
+              "colony",
+              "trade",
+              "settlement"
+            ],
+            "host": "Journal of Political Economy"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1086/250152",
+      "title": "The Paper Currencies of New France",
+      "year": 1893,
+      "oa_id": "W1985093397",
+      "cited": 10,
+      "type": "article",
+      "abs_len": 1564,
+      "slots": [
+        "colony",
+        "trade",
+        "settlement"
+      ],
+      "host": "Journal of Political Economy"
+    }
+  },
+  "古埃及中王国": {
+    "claim": "中王国的行政与灌溉开发",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Middle Kingdom Egypt state",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.5040/9781472554550",
+            "title": "Asiatics in Middle Kingdom Egypt : Perceptions and Reality",
+            "year": 2016,
+            "oa_id": "W4251756451",
+            "cited": 34,
+            "type": "book",
+            "abs_len": 756,
+            "slots": [
+              "middle kingdom",
+              "econom"
+            ],
+            "host": "Bloomsbury Academic eBooks"
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Middle Kingdom Egypt state",
+        "results": 15,
+        "passed": [
+          {
+            "doi": null,
+            "title": "Court Officials of the Egyptian Middle Kingdom",
+            "year": 2009,
+            "oa_id": "W648520396",
+            "cited": 106,
+            "type": "book",
+            "abs_len": 1183,
+            "slots": [
+              "middle kingdom",
+              "state"
+            ],
+            "host": null
+          },
+          {
+            "doi": "https://doi.org/10.1177/1350508404044060",
+            "title": "Work Organization in the Middle Kingdom, Ancient Egypt",
+            "year": 2004,
+            "oa_id": "W1964424793",
+            "cited": 60,
+            "type": "article",
+            "abs_len": 1216,
+            "slots": [
+              "middle kingdom",
+              "state",
+              "administrat"
+            ],
+            "host": "Organization"
+          },
+          {
+            "doi": "https://doi.org/10.1093/oso/9780190687571.003.0020",
+            "title": "Middle Kingdom Egypt and Africa",
+            "year": 2022,
+            "oa_id": "W4293757803",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 976,
+            "slots": [
+              "middle kingdom",
+              "state"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.2308/0148-4184.29.1.61",
+            "title": "ACCOUNTING AND REDISTRIBUTION: THE PALACE AND MORTUARY CULT IN THE MIDDLE KINGDOM, ANCIENT EGYPT",
+            "year": 2002,
+            "oa_id": "W1900384961",
+            "cited": 69,
+            "type": "article",
+            "abs_len": 1235,
+            "slots": [
+              "middle kingdom",
+              "state",
+              "econom"
+            ],
+            "host": "Accounting Historians Journal"
+          },
+          {
+            "doi": "https://doi.org/10.5167/uzh-141274",
+            "title": "Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom: A Study and an Anthology",
+            "year": 1988,
+            "oa_id": "W595618343",
+            "cited": 172,
+            "type": "book",
+            "abs_len": 1342,
+            "slots": [
+              "middle kingdom",
+              "administrat"
+            ],
+            "host": "Zurich Open Repository and Archive (University of Zurich)"
+          },
+          {
+            "doi": "https://doi.org/10.1093/oso/9780190687571.003.0022",
+            "title": "Egypt’s Middle Kingdom: Perspectives on Culture and Society",
+            "year": 2022,
+            "oa_id": "W4293757882",
+            "cited": 2,
+            "type": "book-chapter",
+            "abs_len": 1280,
+            "slots": [
+              "middle kingdom",
+              "state"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.1093/oxfordhb/9780190496272.013.15",
+            "title": "Egyptian Fortresses and the Colonization of Lower Nubia in the Middle Kingdom",
+            "year": 2021,
+            "oa_id": "W3183450055",
+            "cited": 10,
+            "type": "book-chapter",
+            "abs_len": 1663,
+            "slots": [
+              "middle kingdom",
+              "state",
+              "econom"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.1017/cbo9781139942119",
+            "title": "The Archaeology of Urbanism in Ancient Egypt: From the Predynastic Period to the End of the Middle Kingdom",
+            "year": 2015,
+            "oa_id": "W4242740052",
+            "cited": 130,
+            "type": "book",
+            "abs_len": 953,
+            "slots": [
+              "middle kingdom",
+              "state"
+            ],
+            "host": "Cambridge University Press eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.30958/ajhis.5-1-2",
+            "title": "The Lower Nubian Egyptian Fortresses in the Middle Kingdom: A Strategic Point of View",
+            "year": 2019,
+            "oa_id": "W2913291760",
+            "cited": 7,
+            "type": "article",
+            "abs_len": 3800,
+            "slots": [
+              "middle kingdom",
+              "state",
+              "administrat",
+              "econom"
+            ],
+            "host": "Athens Journal of History"
+          },
+          {
+            "doi": null,
+            "title": "The Archaeology of Urbanism in Ancient Egypt : From the Predynastic Period to the End of the Middle Kingdom",
+            "year": 2018,
+            "oa_id": "W2491618866",
+            "cited": 60,
+            "type": "book",
+            "abs_len": 953,
+            "slots": [
+              "middle kingdom",
+              "state"
+            ],
+            "host": null
+          },
+          {
+            "doi": "https://doi.org/10.21608/jarch.2022.212056",
+            "title": "%mntyw\"Prospectors\"in the Middle Kingdom of Egypt",
+            "year": 2022,
+            "oa_id": "W4206223464",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 843,
+            "slots": [
+              "middle kingdom",
+              "econom"
+            ],
+            "host": "مجلة کلية الآثار جامعة القاهرة"
+          },
+          {
+            "doi": "https://doi.org/10.1177/1469605306064244",
+            "title": "Miners and mistresses: Middle Kingdom mining on the margins",
+            "year": 2006,
+            "oa_id": "W2011851477",
+            "cited": 32,
+            "type": "article",
+            "abs_len": 1191,
+            "slots": [
+              "middle kingdom",
+              "state"
+            ],
+            "host": "Journal of Social Archaeology"
+          },
+          {
+            "doi": "https://doi.org/10.2307/40000984",
+            "title": "Some Remarks on Stone Quarrying in the Egyptian Middle Kingdom (2060-1786 B.C.)",
+            "year": 1964,
+            "oa_id": "W2325331009",
+            "cited": 12,
+            "type": "article",
+            "abs_len": 1670,
+            "slots": [
+              "middle kingdom",
+              "state"
+            ],
+            "host": "Journal of the American Research Center in Egypt"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.5167/uzh-141274",
+      "title": "Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom: A Study and an Anthology",
+      "year": 1988,
+      "oa_id": "W595618343",
+      "cited": 172,
+      "type": "book",
+      "abs_len": 1342,
+      "slots": [
+        "middle kingdom",
+        "administrat"
+      ],
+      "host": "Zurich Open Repository and Archive (University of Zurich)"
+    }
+  },
+  "澳大利亚内陆干旱气候": {
+    "claim": "澳大利亚内陆干旱的成因与变率",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Australian arid interior climate variability",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.3390/w9090614",
+            "title": "A Comparative Study of GRACE with Continental Evapotranspiration Estimates in Australian Semi-Arid and Arid Basins: Sensitivity to Climate Variability and Extremes",
+            "year": 2017,
+            "oa_id": "W2753539080",
+            "cited": 13,
+            "type": "article",
+            "abs_len": 1474,
+            "slots": [
+              "arid",
+              "climate",
+              "variab"
+            ],
+            "host": "Water"
+          },
+          {
+            "doi": "10.1071/es05019",
+            "title": "Climate variability, climate change and the Australian snow season",
+            "year": 2005,
+            "oa_id": "W3019991133",
+            "cited": 111,
+            "type": "article",
+            "abs_len": 1047,
+            "slots": [
+              "climate",
+              "variab"
+            ],
+            "host": "Australian meteorological magazine"
+          },
+          {
+            "doi": "10.1080/00049180802657075",
+            "title": "Inter-annual Rainfall Variability of Arid Australia: greater than elsewhere?",
+            "year": 2009,
+            "oa_id": "W2161454672",
+            "cited": 132,
+            "type": "article",
+            "abs_len": 1885,
+            "slots": [
+              "arid",
+              "desert",
+              "climate",
+              "variab"
+            ],
+            "host": "Australian Geographer"
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Australian arid interior climate variability",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.5194/bg-11-5181-2014",
+            "title": "Land surface phenological response to decadal climate variability across Australia using satellite remote sensing",
+            "year": 2014,
+            "oa_id": "W2155259881",
+            "cited": 143,
+            "type": "article",
+            "abs_len": 2386,
+            "slots": [
+              "arid",
+              "climate",
+              "variab"
+            ],
+            "host": "Biogeosciences"
+          },
+          {
+            "doi": "https://doi.org/10.1038/s43247-020-00065-8",
+            "title": "Connections of climate change and variability to large and extreme forest fires in southeast Australia",
+            "year": 2021,
+            "oa_id": "W3120122943",
+            "cited": 982,
+            "type": "article",
+            "abs_len": 1757,
+            "slots": [
+              "climate",
+              "variab"
+            ],
+            "host": "Communications Earth & Environment"
+          },
+          {
+            "doi": "https://doi.org/10.1002/2017gl072977",
+            "title": "Indonesian Throughflow drove Australian climate from humid Pliocene to arid Pleistocene",
+            "year": 2017,
+            "oa_id": "W2683375450",
+            "cited": 152,
+            "type": "article",
+            "abs_len": 1095,
+            "slots": [
+              "arid",
+              "climate"
+            ],
+            "host": "Geophysical Research Letters"
+          },
+          {
+            "doi": "https://doi.org/10.26192/5bf5fa61ed34e",
+            "title": "Climate, vegetation cover and dust storm events in arid and semi-arid regions of Australia - relationships, models and predictions",
+            "year": 2016,
+            "oa_id": "W2754677094",
+            "cited": 3,
+            "type": "dissertation",
+            "abs_len": 4525,
+            "slots": [
+              "arid",
+              "climate",
+              "variab"
+            ],
+            "host": "University of Southern Queensland research data collection"
+          },
+          {
+            "doi": "https://doi.org/10.22459/aurj.05.2013.07",
+            "title": "Classification of Arid & Semi-Arid Areas: A Case Study in Western Australia",
+            "year": 2013,
+            "oa_id": "W2974268719",
+            "cited": 10,
+            "type": "article",
+            "abs_len": 1273,
+            "slots": [
+              "arid",
+              "climate"
+            ],
+            "host": "ANU Undergraduate Research Journal"
+          },
+          {
+            "doi": "https://doi.org/10.5194/hess-28-1383-2024",
+            "title": "Potential for historically unprecedented Australian droughts from natural variability and climate change",
+            "year": 2024,
+            "oa_id": "W4393227230",
+            "cited": 48,
+            "type": "article",
+            "abs_len": 1854,
+            "slots": [
+              "climate",
+              "variab"
+            ],
+            "host": "Hydrology and earth system sciences"
+          },
+          {
+            "doi": "https://doi.org/10.1088/1748-9326/ab33cb",
+            "title": "TERN, Australia’s land observatory: addressing the global challenge of forecasting ecosystem responses to climate variability and change",
+            "year": 2019,
+            "oa_id": "W2962935314",
+            "cited": 60,
+            "type": "article",
+            "abs_len": 1654,
+            "slots": [
+              "arid",
+              "climate",
+              "variab"
+            ],
+            "host": "Environmental Research Letters"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1038/s43247-020-00065-8",
+      "title": "Connections of climate change and variability to large and extreme forest fires in southeast Australia",
+      "year": 2021,
+      "oa_id": "W3120122943",
+      "cited": 982,
+      "type": "article",
+      "abs_len": 1757,
+      "slots": [
+        "climate",
+        "variab"
+      ],
+      "host": "Communications Earth & Environment"
+    }
+  },
+  "复活节岛": {
+    "claim": "复活节岛的环境与孤立性",
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Rapa Nui island environment",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.4324/9781315294452-6",
+            "title": "Subsistence strategies on Rapa Nui (Easter Island)",
+            "year": 2017,
+            "oa_id": "W2904457339",
+            "cited": 10,
+            "type": "book-chapter",
+            "abs_len": 1073,
+            "slots": [
+              "island",
+              "environment",
+              "prehistor"
+            ],
+            "host": "Routledge eBooks"
+          },
+          {
+            "doi": "10.1353/rnj.2015.0025",
+            "title": "Easter Island: The Essential Guide",
+            "year": 2015,
+            "oa_id": "W2784944007",
+            "cited": 3,
+            "type": "article",
+            "abs_len": 3938,
+            "slots": [
+              "island",
+              "environment"
+            ],
+            "host": "Rapa nui journal"
+          },
+          {
+            "doi": "10.1093/oxfordhb/9780199925070.013.026",
+            "title": "The Archaeology of Rapa Nui (Easter Island)",
+            "year": 2017,
+            "oa_id": "W2806706361",
+            "cited": 14,
+            "type": "book",
+            "abs_len": 779,
+            "slots": [
+              "island",
+              "environment",
+              "prehistor"
+            ],
+            "host": "Oxford University Press eBooks"
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Rapa Nui island environment",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1080/00438240120107468",
+            "title": "A message for our future? The Rapa Nui (Easter Island) ecodisaster and Pacific island environments",
+            "year": 2002,
+            "oa_id": "W2081858996",
+            "cited": 114,
+            "type": "article",
+            "abs_len": 1455,
+            "slots": [
+              "island",
+              "environment"
+            ],
+            "host": "World Archaeology"
+          },
+          {
+            "doi": "https://doi.org/10.2984/049.063.0407",
+            "title": "Revisiting Rapa Nui (Easter Island) “Ecocide”",
+            "year": 2009,
+            "oa_id": "W2150410148",
+            "cited": 59,
+            "type": "article",
+            "abs_len": 1092,
+            "slots": [
+              "island",
+              "environment",
+              "prehistor"
+            ],
+            "host": "Pacific Science"
+          },
+          {
+            "doi": "https://doi.org/10.1093/oxfordhb/9780199925070.013.026",
+            "title": "The Archaeology of Rapa Nui (Easter Island)",
+            "year": 2017,
+            "oa_id": "W2806706361",
+            "cited": 14,
+            "type": "book",
+            "abs_len": 779,
+            "slots": [
+              "island",
+              "environment",
+              "prehistor"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.5040/9798216411918",
+            "title": "Easter Island, Earth Island: The Enigmas of Rapa Nui",
+            "year": 2011,
+            "oa_id": "W4417373339",
+            "cited": 4,
+            "type": "book",
+            "abs_len": 996,
+            "slots": [
+              "island",
+              "environment",
+              "prehistor"
+            ],
+            "host": "Rowman & Littlefield Publishers eBooks"
+          },
+          {
+            "doi": "https://doi.org/10.1002/ajpa.23273",
+            "title": "Diet of the prehistoric population of Rapa Nui (Easter Island, Chile) shows environmental adaptation and resilience",
+            "year": 2017,
+            "oa_id": "W2725720318",
+            "cited": 103,
+            "type": "article",
+            "abs_len": 1483,
+            "slots": [
+              "island",
+              "environment",
+              "prehistor"
+            ],
+            "host": "American Journal of Physical Anthropology"
+          },
+          {
+            "doi": null,
+            "title": "The Human Transformation of Rapa Nui (Easter Island, Pacific Ocean)",
+            "year": 2013,
+            "oa_id": "W2938233625",
+            "cited": 13,
+            "type": "article",
+            "abs_len": 1311,
+            "slots": [
+              "island",
+              "landscape",
+              "environment",
+              "prehistor"
+            ],
+            "host": "The Open Repository - Binghamton (Binghamton University)"
+          },
+          {
+            "doi": "https://doi.org/10.1073/pnas.1420712112",
+            "title": "Variation in Rapa Nui (Easter Island) land use indicates production and population peaks prior to European contact",
+            "year": 2015,
+            "oa_id": "W2049769897",
+            "cited": 113,
+            "type": "article",
+            "abs_len": 1128,
+            "slots": [
+              "island",
+              "environment",
+              "prehistor"
+            ],
+            "host": "Proceedings of the National Academy of Sciences"
+          },
+          {
+            "doi": "https://doi.org/10.3897/zookeys.515.9477",
+            "title": "The terrestrial Isopoda (Crustacea, Oniscidea) of Rapa Nui (Easter Island), with descriptions of two new species",
+            "year": 2015,
+            "oa_id": "W1017033722",
+            "cited": 32,
+            "type": "article",
+            "abs_len": 782,
+            "slots": [
+              "island",
+              "environment"
+            ],
+            "host": "ZooKeys"
+          },
+          {
+            "doi": "https://doi.org/10.1093/biosci/biu090",
+            "title": "Disturbance Relicts in a Rapidly Changing World: The Rapa Nui (Easter Island) Factor",
+            "year": 2014,
+            "oa_id": "W2164886313",
+            "cited": 47,
+            "type": "article",
+            "abs_len": 1060,
+            "slots": [
+              "island",
+              "environment"
+            ],
+            "host": "BioScience"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1080/00438240120107468",
+      "title": "A message for our future? The Rapa Nui (Easter Island) ecodisaster and Pacific island environments",
+      "year": 2002,
+      "oa_id": "W2081858996",
+      "cited": 114,
+      "type": "article",
+      "abs_len": 1455,
+      "slots": [
+        "island",
+        "environment"
+      ],
+      "host": "World Archaeology"
+    }
+  }
+}
