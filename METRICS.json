@@ -896,6 +896,21 @@
       "sample_rate": "—",
       "sample_audit": "R22交叉校验通过；新增两页链接校验4914条0断链",
       "note": "R22上线（层级记录须与重算一致）；新增证据层级说明页与已知限制页，导航已接入"
+    },
+    {
+      "round": 62,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "侧面文献结构化（34旁证/27剔除/12弱）；缺口四类定义",
+      "note": "新建 side_evidence.json；重定义缺口 G1=1/G2=3/G3=19/G4=243；evidence.html 显示侧面统计"
     }
   ]
 }

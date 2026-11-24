@@ -1,0 +1,495 @@
+{
+  "round": 62,
+  "date": "2026-11-24",
+  "definition": {
+    "side": "对象同一但只涉一个侧面的来源（降为旁证）",
+    "dropped": "对象/时期/学科错配，已撤出的来源",
+    "weak_claim": "被引≤5 或 正文<800 的来源（不得称主来源）"
+  },
+  "counts": {
+    "side": 34,
+    "dropped": 27,
+    "weak_claim": 12
+  },
+  "side": [
+    {
+      "entry": "古埃及中王国",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Poetry and Culture in Middle Kingdom Egypt》研究的是文学与文化（文本侧面），不涉行政与灌溉。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "古埃及新王国",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Amphorae in New Kingdom Egypt》研究的是双耳瓶（器物侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "汉代",
+      "kind": "side",
+      "sids": [],
+      "note": "所引 W4403972561 是《Dogs in Early Imperial China: Anthropo-Zoological Reading of Iconographic Sources from the Han Dynasty (206 BC-AD 220)》，标题含「汉代」与「前206–公元220」因而过了对象词检验，但主题是汉代图像中的狗（动物考古侧面），不能支撑本条的疆域与行政叙述。现降为旁证（仅可说明汉代有动物利用的图像材料），不作第二互证来源。"
+    },
+    {
+      "entry": "元代",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Koryŏ inlay celadon from Taicang Port of the Yuan Dynasty》研究的是太仓港出土的高丽镶嵌青瓷（陶瓷贸易侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "河中地区",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Connection of the Genetic, Cultural and Geographic…》讨论的是遗传、文化与地理的关联（多学科侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "突厥",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Genetic Legacy of the Expansion of Turkic-Speaking…》研究的是突厥语人群扩张的遗传遗产（遗传侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "突厥",
+      "kind": "side",
+      "sids": [
+        "book-chapter"
+      ],
+      "note": "该源被引 0、book-chapter、摘要 619 字符 < 800（D106 第一层不成立），按 D101 只能作旁证；已把 polities 的自相矛盾（「待核验」+ 具体年代）合并为「据该章节可确认 552 年起」并标出 745/742 两说。主来源待补突厥史专著。"
+    },
+    {
+      "entry": "拜占庭帝国",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Birth of the Hospital in the Byzantine Empire》研究的是医院的起源（医疗制度侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "意大利半岛",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Paleomagnetic evidence for rotation of the Italian Peninsula》研究的是古地磁记录的半岛旋转（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "维京时代",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Scandinavia》研究的是婚姻与女性社会角色（性别史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "文艺复兴意大利",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Poverty Makes Me Invisible: Street Singers…in Italian Renaissance Cities》研究的是街头艺人与贫困（社会史侧面）；《Patronage and Italian Renaissance Sculpture》研究的是雕塑赞助。两者都不涉城邦竞争与商业财富的整体格局。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "密西西比河",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Mississippi River Basin Compact》讨论的是流域跨州治理协定（法律与制度），不涉水系本身的走向与水文。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "落基山脉",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Yavapai-Mazatzal crustal boundary in the Southern Rocky…》研究的是南部落基山的地壳边界（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "新法兰西",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Travel Writing, Ethnography, and the Colony-Centric…》研究的是耶稣会《Relations》的文本流通（文献史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "美国西进",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Black West》是非裔美国人在西部的史料集，属西进运动的一个群体侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "古巴岛",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Age and Tectonic Setting of the Camagüey Volcanic-Intrusive Arc》研究的是中部古巴的火山—侵入弧（构造地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "亚马逊盆地",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Atmospheric Component of Biogeochemical Cycles in…》研究的是大气输送的生物地球化学循环，不涉盆地地貌与人口。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "巴塔哥尼亚",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Ancient genomes in South Patagonia…》研究的是古基因组与人群史，且本条 theme 为「气候」，属跨领域侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "阿塔卡马沙漠",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Endolithic Cyanobacteria in Halite Rocks…》研究的是岩盐中的岩内蓝细菌（微生物侧面），不涉沙漠的形成与气候。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "莫切文化",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Moche Art and Iconography》研究的是莫切的图像与器物（艺术史侧面），不涉河谷政治经济。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "印加帝国",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Role of Chicha in Inca State Expansion》研究的是玉米酒（chicha）在国家扩张中的角色——印加的一个侧面（仪式与再分配），不涉疆域、道路与行政。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "南锥体",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《The Spanish postwar emigration to the Southern Cone》研究的是战后西班牙移民（人口史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "大自流盆地",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《A mid-Cretaceous microfossil assemblage…》研究的是白垩纪微体化石组合（古生物侧面）；《Chlorine 36 dating of very old groundwater》研究的是地下水定年（水文地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "新西兰南岛",
+      "kind": "side",
+      "sids": [
+        "south-west"
+      ],
+      "note": "本条现有学术来源属侧面文献：《Naturalised plants in south-west South Island》研究的是归化植物（植物侧面）；《Origin of the Torlesse terrane…》研究的是地体成因（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "密克罗尼西亚",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Exploring the role of Micronesian islands in the maintenance of coral…》研究的是珊瑚礁遗传多样性的维持（海洋生物侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "复活节岛",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Prehistoric and early historic agriculture at Maunga Orito》研究的是一处采石场旁的农业序列（遗址侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "澳大利亚内陆干旱气候",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Evolutionary refugia and ecological refuges…》研究的是干旱区的生态避难所（生态侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "南极大陆",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Diatom stratigraphy defining ice sheet grounding…》研究的是硅藻地层与冰盖接地线——南极的一个侧面（地层学），不涉大陆地貌总体。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "季风系统",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Mid-Tropospheric Cyclones of the Summer Monsoon》(1978) 研究的是夏季风中的中层气旋，属季风系统的一个子现象。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "河流三角洲",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Nutrient and Sediment Effects on Oligohaline Marsh…》研究的是寡盐沼泽的养分与泥沙效应，属三角洲的一个生态侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "植物物候变化",
+      "kind": "side",
+      "sids": [],
+      "note": "所引 W7224996787 是《PhenoFECT: A Python package for forecasting and exploring plant phenology under climate change》，对象是预测工具（软件包），不是物候变化的观测或机制。可作「已有工具化方法」的旁证，不作趋势断言的来源。"
+    },
+    {
+      "entry": "地理信息系统",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《Remote Scheduling System for Drip Irrigation》是滴灌远程调度的应用案例，属 GIS 应用的一个侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    },
+    {
+      "entry": "地理信息系统",
+      "kind": "side",
+      "sids": [],
+      "note": "① 该源被引 4、属设计类工程文，按 D101 质量门只能作旁证，不得称「主来源」；② 补写摘要的反向限定「GIS 缺乏问题域建模能力、须外挂模型」；③ 删除正文残留的「灾害评估」（第44轮已判该源无据，但当时只删备注未删正文）。"
+    },
+    {
+      "entry": "城市地理",
+      "kind": "side",
+      "sids": [],
+      "note": "本条现有学术来源属侧面文献：《2008 Urban Geography Plenary Lecture—Public Health as…》讨论的是公共卫生与城市政治（一个专题侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。"
+    }
+  ],
+  "dropped": [
+    {
+      "entry": "马格里布",
+      "kind": "dropped",
+      "sids": [],
+      "note": "《Mitochondrial DNA analysis of Northwest African populations》——研究对象是人群的线粒体 DNA，不是区域地理；仅可作「人群连续性」的旁证，不作地理来源。"
+    },
+    {
+      "entry": "古埃及新王国",
+      "kind": "dropped",
+      "sids": [],
+      "note": "候选《Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite…》研究对象是新王国灭亡之后（前11–前6世纪）的时期，与本条「新王国本身」时期错配（D081②），剔除。"
+    },
+    {
+      "entry": "库什与努比亚",
+      "kind": "dropped",
+      "sids": [],
+      "note": "原 W7169572344 是 Educational Media Reviews Online 的影像资料评介，非研究论文；已撤出，改由麦罗埃冶铁研究承担。"
+    },
+    {
+      "entry": "加纳帝国",
+      "kind": "dropped",
+      "sids": [
+        "small-scale"
+      ],
+      "note": "候选《Youth entrepreneurship in a small-scale gold mining settlement in Ghana》研究的是当代加纳北部 Kui 的小型金矿与青年创业，与「加纳帝国」无历史关联（对象碰撞），剔除。"
+    },
+    {
+      "entry": "加纳帝国",
+      "kind": "dropped",
+      "sids": [],
+      "note": "《Expansions and Contractions: World-Historical…》的摘要与标题均不含 ghana/mali/sahel，属世界史框架下的泛论，不能作为「加纳帝国」的来源；已撤出。"
+    },
+    {
+      "entry": "马里帝国",
+      "kind": "dropped",
+      "sids": [],
+      "note": "候选为《The Mande Creation Myth》的书评（book review），按 D082 不作内容来源。"
+    },
+    {
+      "entry": "元代",
+      "kind": "dropped",
+      "sids": [],
+      "note": "《William Alexander Mabry, The Negro in North…》——这是美国黑人史著作的书评，与元朝毫无关系（R20 检出，纯对象碰撞）。 已撤出。"
+    },
+    {
+      "entry": "日本列岛",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引 2017 年章讨论家畜引入日本列岛（动物考古/畜牧史），与本条「列岛地理（地形）」主题不同位（D089），已剔除。"
+    },
+    {
+      "entry": "日本列岛",
+      "kind": "dropped",
+      "sids": [
+        "flat-slab"
+      ],
+      "note": "候选为《Seismic tomography of the Pampean flat-slab subduction》（阿根廷潘帕地区），对象不是日本列岛，已剔除（同为地名碰撞）。"
+    },
+    {
+      "entry": "日本列岛",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引 W2319079898 实为《Jurassic Silicic Volcanism…in Northwestern Colombia》（2016，被引27）——研究对象是哥伦比亚的侏罗纪（180 Ma）陆弧，既非日本列岛（对象碰撞，与第45轮「阿根廷 Pampean」同型），也不涉「现在位于板块交界」这一现在时断言（时期错配）。已撤回该来源与落点句。 现仅保留「位于板块交界附近」的常识性表述，具体地震/火山频度待引日弧专题文献。"
+    },
+    {
+      "entry": "河中地区",
+      "kind": "dropped",
+      "sids": [],
+      "note": "《Analysis of fingerprints on a PPNB figurine》——研究对象是近东新石器 PPNB 小雕像的指纹，与河中地区无关。 已撤出。"
+    },
+    {
+      "entry": "阿拉伯半岛",
+      "kind": "dropped",
+      "sids": [],
+      "note": "《Genetic structure of Arabian Peninsula dromedary camels》——研究对象是单峰驼的群体遗传结构，不是半岛的地理与面积；第41轮曾加说明但未剔除，本轮按 R19 剔除。"
+    },
+    {
+      "entry": "克里特文明",
+      "kind": "dropped",
+      "sids": [],
+      "note": "候选为《The artistic reception of Minoan Crete》，主题是艺术接受史，不支撑「海上贸易与宫殿再分配体系」，已剔除。"
+    },
+    {
+      "entry": "古希腊城邦",
+      "kind": "dropped",
+      "sids": [],
+      "note": "候选为《Mountains in Greek and Roman Art》，主题是艺术中的山，不支撑「山地分割与海上通道并存」这一地形断言，已剔除。"
+    },
+    {
+      "entry": "罗马共和国",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引是《Oxford Handbook of Roman Epigraphy》第 9 章，摘要自述写拉丁共和时期碑铭的类型与特征（碑铭学），不能作「政体结构与演进」的来源；已剔除，落点句同删除。"
+    },
+    {
+      "entry": "罗马共和国",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引 W4408242507 是《Integrating Sequence Stratigraphy and Geostatistical Methods for 3D Lithofacies Modelling of the Tiber Alluvial Plain, Rome, Italy》（2025），研究对象是台伯河冲积平原的三维岩相模型（地质学），虽地理上在罗马，但学科与主题均不涉「罗马共和国的政体与扩张」。已剔除，相关落点句同删。"
+    },
+    {
+      "entry": "白令陆桥",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引为《Grazing exclosures in Bering Land Bridge National Preserve》——研究对象是阿拉斯加以陆桥命名的现代国家保护区（驯鹿放牧围栏 2012–2022 数据），与更新世陆桥无关，属地名碰撞（与 Circular Cities 同型）。 已撤出该来源，本条不据此建立互证。"
+    },
+    {
+      "entry": "五大湖",
+      "kind": "dropped",
+      "sids": [],
+      "note": "候选为《Hitchhiking Bats on the Great Lakes》，研究对象是蝙蝠而非湖泊本身，对象不符（D095）。"
+    },
+    {
+      "entry": "五大湖",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引 2024 年《Optimal Water Level Study Based on Great Lakes》为水位优化建模（AHP/SQP/模拟退火/水坝出流），摘要中 season/seasonal/hydrolog 0 次命中，不描述水文特征；且 cited 1、Clausius Press，质量门不足。已撤下该源与落点句。 改以机构来源（NOAA GLERL、EPA 五大湖页）作背景，具体水文特征待专门水文学来源。"
+    },
+    {
+      "entry": "阿兹特克",
+      "kind": "dropped",
+      "sids": [
+        "openalex-W2609565117"
+      ],
+      "note": "原 W2331608140 研究的是 Tlaxcallan（特拉斯卡拉）——阿兹特克的敌对城邦，非本条对象；已撤出，改由 openalex-W2609565117（三方联盟霸权型帝国，2017）承担。"
+    },
+    {
+      "entry": "加勒比海群岛",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。"
+    },
+    {
+      "entry": "安第斯山脉",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引 2008 年《Review and analysis of altitudinal distribution…》摘要中 climate/zone/vertical/temperature 均为 0 次命中，全文是哥伦比亚安第斯无尾类（蛙类）的海拔分布与特有种，不支撑「垂直气候带」断言。已撤下落点句，该源降为旁证（不作特征描述依据）；「垂直气候带」待引气候/地貌专题文献。"
+    },
+    {
+      "entry": "巴西殖民经济",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引为《The coffee economy in Imperial Brazil (c.1800–1850)》——条目为 1500–1822 葡属殖民地，源为帝国时期，时期不一致（D081）。 已撤出该来源，本条不据此建立互证。"
+    },
+    {
+      "entry": "大分水岭",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引为春尾虫（springtail）系统地理学研究，大分水岭仅为采样地（Tallaganda）；正文断言（雨影、跨山调水、城市带）无一句可由此支撑。 已撤出该来源，本条不据此建立互证。"
+    },
+    {
+      "entry": "澳大利亚原住民",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引为《Australian academic archaeology: Aboriginal transformation of its aims and practices》——研究对象是考古学这门学科的方法论转向，不是原住民本身。 已撤出该来源，本条不据此建立互证。"
+    },
+    {
+      "entry": "澳大利亚原住民",
+      "kind": "dropped",
+      "sids": [],
+      "note": "所引 W2260197586 是《Aboriginal Australians abroad 1606–1875》，对象是19 世纪原住民板球队员的访英巡游，与本条「适应干旱生态、语言与文化传统」无对应；已剔除。"
+    },
+    {
+      "entry": "河流三角洲",
+      "kind": "dropped",
+      "sids": [
+        "non-refractory"
+      ],
+      "note": "所引为《…non-refractory submicron aerosols in the Pearl River Delta, China》——珠三角在此是大气研究地名，主题为气溶胶来源与形成，与三角洲地貌成因/沉积无概念对应。 已撤出该来源，本条不据此建立互证。"
+    }
+  ],
+  "weak_claim": [
+    {
+      "entry": "突厥",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W4384485896"
+      ],
+      "note": "openalex-W4384485896（2023年，《The Earliest, Nomad Turkic Peoples of the Mongolian Steppe》，DOI 10.4324/9781003256496-2，被引 0）：待支撑断言「突厥汗国的草原政治与扩张」；主题槽命中 ['steppe', 'empire']；已在本条 polities 段落点。"
+    },
+    {
+      "entry": "突厥",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W4384485896"
+      ],
+      "note": "openalex-W4384485896 为旁证（被引0、摘要619字符<800），不得称「主来源」；该章节只能说明「有研究给出 552–745 这一年代区间」，不能作为年代断言的唯一依据；具体的汗国世系与分裂过程仍待突厥史专著（如 Golden 的通史类著作）。"
+    },
+    {
+      "entry": "意大利半岛",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W4298223504"
+      ],
+      "note": "openalex-W4298223504（2010年，《Geology and Tectonic Evolution of the Central-Southern Apennines, Italy》，DOI 10.1130/2010.2469，被引 192）：待支撑断言「意大利半岛的地质构造与地形」；主题槽命中 ['geolog', 'tecton']；已在本条 geo 段落点。"
+    },
+    {
+      "entry": "意大利半岛",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W4298223504"
+      ],
+      "note": "openalex-W4298223504 为旁证（摘要693字符截断、无结论句），不得称「主来源」；该摘要于 693 字符处截断，未含结论句；仅可说明「有基于 1:250,000 实测图的中南部亚平宁构造研究」，全半岛的地质结论须读全文或另引综述。"
+    },
+    {
+      "entry": "文艺复兴意大利",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W2487072270",
+        "city-states"
+      ],
+      "note": "openalex-W2487072270（2012年，《The collapse of city-states and the role of urban centres in the new political geography of Renaissance Italy》，DOI 10.1017/cbo9780511845697.016，被引 8）：待支撑断言「城邦竞争、商业财富与艺术赞助」；主题槽命中 ['city', 'state', 'urban']；已在本条 influence 段落点。此前的两篇（街头"
+    },
+    {
+      "entry": "文艺复兴意大利",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W2487072270"
+      ],
+      "note": "openalex-W2487072270 为旁证（摘要660字符<800），不得称「主来源」；该摘要较短（660 字符），仅可作「城邦危机与区域国家形成」的提示，不能作为本条政治背景的唯一依据。"
+    },
+    {
+      "entry": "美国西进",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W3023324006"
+      ],
+      "note": "openalex-W3023324006（2020年，《The course of westward expansion》，DOI 10.4324/9781351057875-4，被引 0）：待支撑断言「美国向西部扩张的定居与边疆过程」；主题槽命中 ['westward', 'settle', 'expansion']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。"
+    },
+    {
+      "entry": "美国西进",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W3023324006"
+      ],
+      "note": "openalex-W3023324006 为旁证（被引0），不得称「主来源」；该文被引 0，仅可作「西进使版图从大西洋岸延伸至太平洋岸」这一概述的旁证。"
+    },
+    {
+      "entry": "河流三角洲",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W2034581965"
+      ],
+      "note": "openalex-W2034581965（2008年，《Mathematical modeling of the formation and progradation of a river mouth bar into a sea: Case study of Danube Delta branches》，DOI 10.1134/s0097807808030044，被引 5）：待支撑断言「三角洲的形成与沉积过程」；主题槽命中 ['sediment', 'prograd', 'formation']；已在本条 geo"
+    },
+    {
+      "entry": "河流三角洲",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W2034581965"
+      ],
+      "note": "openalex-W2034581965 为旁证（被引5、摘要661字符<800），不得称「主来源」；该摘要较短，仅支撑「河口沙坝形成与前积」的模型讨论，不作三角洲成因的定论。"
+    },
+    {
+      "entry": "地理信息系统",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W4230464905"
+      ],
+      "note": "openalex-W4230464905（2006年，《Spatial (GIS-based) decision support system for the Westernport region》，DOI 10.2104/ag060017，被引 4）：待支撑断言「GIS 的空间分析与决策支持」；主题槽命中 ['spatial', 'decision', 'information system']；已在本条 influence 段落点。"
+    },
+    {
+      "entry": "地理信息系统",
+      "kind": "weak_claim",
+      "sids": [
+        "openalex-W4230464905"
+      ],
+      "note": "openalex-W4230464905 为旁证（被引4、设计类工程文），不得称「主来源」；该文属 SDSS 概念设计（被引4），仅作「以 GIS 为底座的空间决策支持系统一例」，不作 GIS 能力的通例断言；主来源待补 GIS 综述类文献。"
+    }
+  ]
+}

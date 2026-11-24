@@ -55,6 +55,8 @@ _evp = os.path.join(DATA, "evidence_level.json")
 _evfull = json.load(open(_evp, encoding="utf-8")) if os.path.exists(_evp) else {"levels": {}, "summary": {}}
 EV = _evfull["levels"]
 ev_doc = _evfull
+_sep = os.path.join(DATA, "side_evidence.json")
+se_counts = (json.load(open(_sep, encoding="utf-8")).get("counts", {}) if os.path.exists(_sep) else {})
 
 
 def evlabel(title):
@@ -280,6 +282,8 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 <tr><td><b>C</b></td><td>无强来源（仅旁证或弱来源）</td><td>{evs.get('C',0)}</td></tr>
 <tr><td><b>D</b></td><td>仅数据端点与机构页（指标解读类）</td><td>{evs.get('D',0)}</td></tr>
 </tbody></table></div>
+<div class="section"><h2>侧面文献统计</h2><p>「对象同一但只涉一个侧面」的文献共 <b>{se_counts.get('side',0)}</b> 条，已全部降为旁证；被判定对象/时期/学科错配并撤出的共 <b>{se_counts.get('dropped',0)}</b> 条；被引与篇幅均不足、仅供辅助的共 <b>{se_counts.get('weak_claim',0)}</b> 条。结构化记录见 <code>data/side_evidence.json</code>。</p>
+<p class="dim">例：拜占庭帝国条目引用医院史、元代条目引用高丽青瓷、印加条目引用玉米酒——这些都「对」但只涉一面，不能作整条的主来源。</p></div>
 <div class="section"><h2>什么叫「强来源」</h2><p>满足以下<b>任一</b>条件即为强来源：被引 ≥ 10；或正文/摘要 ≥ 800 字符。</p>
 <p class="dim">初版曾要求两者同时满足，把被引 458、摘要 795 字符的经典著作误判为弱来源，故改为「满足其一」（D117）。数据端点（世界银行、NOAA、USGS 等 JSON）一律不计为内容来源，只支撑数值（D107）。</p></div>
 <div class="section"><h2>旁证与弱来源</h2><p>以下情况会被降为<b>旁证</b>：来源与条目<b>对象同一但只涉其中一个侧面</b>（如「拜占庭帝国」条目引用医院史）；或来源标题<b>不含条目对象词</b>（R20）；或被引与篇幅均不足（R19）。降级理由写在条目页的「待核实」区。</p></div>

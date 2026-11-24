@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 61,
+  "last_round": 62,
   "history": [
     {
       "round": 1,
@@ -761,13 +761,47 @@
   "multi_source_entries": 143,
   "evidence": {
     "ge2_has_body": 224,
-    "one_has_body": 19,
     "levels": {
       "A": 207,
       "B": 35,
       "C": 0,
       "D": 1
     },
-    "note": "R19/R20/R21/R22 四道机器校验；证据层级与已知限制已对读者公开"
+    "side_evidence": {
+      "side": 34,
+      "dropped": 27,
+      "weak_claim": 12
+    },
+    "note": "R19/R20/R21/R22 四道机器校验；侧面文献与剔除记录已结构化"
+  },
+  "gap_model": {
+    "note": "第62轮重定义：不再用模糊的「多维缺口」，改为四类可陈述、可计数的缺口",
+    "definitions": [
+      {
+        "id": "G1",
+        "name": "无强来源（C/D 级）",
+        "count": 1,
+        "fixed_by": "补一条被引≥10 或正文≥800 的来源"
+      },
+      {
+        "id": "G2",
+        "name": "检索确认无合格主来源",
+        "count": 3,
+        "fixed_by": "仅待新文献出现；不再重试同类检索"
+      },
+      {
+        "id": "G3",
+        "name": "内容源仅 1 个（需第二互证）",
+        "count": 19,
+        "fixed_by": "补第二内容源，须过 R19/R20/R22"
+      },
+      {
+        "id": "G4",
+        "name": "语义对题未经机器校验",
+        "count": 243,
+        "fixed_by": "人工逐条扫描（不可自动化）"
+      }
+    ],
+    "close_condition": "G1=0 且 G2 记为既有结论（不再重试）且 G3=0 后，方可讨论 saturation；G4（语义对题）不可自动化，须以人工扫描记录为准"
   }
 }
