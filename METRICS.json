@@ -1196,6 +1196,21 @@
       "sample_rate": "核心5+重要7全查",
       "sample_audit": "核心命中4/5（含印加终于找到）、重要7条0候选",
       "note": "补4条→G3 57→53、核心G3b 5→1；层级 A146/B83/C1/D13"
+    },
+    {
+      "round": 82,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 3,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 3,
+      "sample_rate": "补充12条（OpenAlex 429 故障）",
+      "sample_audit": "识别 API 配额故障、撤销12条错误的「0候选」记录、改用 Crossref 路线",
+      "note": "OpenAlex search 429 配额耗尽；Crossref 路线验证可行并补3条→G3 53→50；层级 A149"
     }
   ]
 }

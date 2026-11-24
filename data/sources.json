@@ -9125,6 +9125,45 @@
       "verified": true,
       "page_title": "Imperial Expansion and Local Agency: A Case Study of Labor Organization Under Inca Rule",
       "note": "OpenAlex 作品 W2748774691（DOI https://doi.org/10.1111/aman.12924）；2017年；被引 43。HTTP 200，17438 字节。摘要长度 1411 字符；主题槽命中 ['inca', 'state', 'econom', 'labor', 'politic', 'organiz']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2622786242",
+      "title": "OpenAlex W2622786242 — The Hittite Empire from Textual Evidence",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2012,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2622786242",
+      "url2": "https://doi.org/10.1093/oxfordhb/9780195376142.013.0041",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Hittite Empire from Textual Evidence",
+      "note": "OpenAlex 作品 W2622786242（DOI 10.1093/oxfordhb/9780195376142.013.0041）；2012年；被引 21。HTTP 200，11642 字节。摘要长度 992 字符；主题槽命中 ['hittite', 'empire', 'administrat', 'state']。证据强度：strong。检索路线：Crossref bibliographic → DOI → OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2891976860",
+      "title": "OpenAlex W2891976860 — Associative Political Culture in the Holy Roman Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2018,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2891976860",
+      "url2": "https://doi.org/10.1093/oso/9780198827252.001.0001",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Associative Political Culture in the Holy Roman Empire",
+      "note": "OpenAlex 作品 W2891976860（DOI 10.1093/oso/9780198827252.001.0001）；2018年；被引 39。HTTP 200，12862 字节。摘要长度 1775 字符；主题槽命中 ['holy roman', 'empire', 'constitution']。证据强度：strong。检索路线：Crossref bibliographic → DOI → OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4400815659",
+      "title": "OpenAlex W4400815659 — The Hanseatic League",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2024,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4400815659",
+      "url2": "https://doi.org/10.4324/9780415791182-rmeo449-1",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Hanseatic League",
+      "note": "OpenAlex 作品 W4400815659（DOI 10.4324/9780415791182-rmeo449-1）；2024年；被引 0。HTTP 200，10803 字节。摘要长度 2462 字符；主题槽命中 ['hanseatic', 'trade', 'city']。证据强度：strong。检索路线：Crossref bibliographic → DOI → OpenAlex by-ID。"
     }
   ]
 }

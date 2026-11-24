@@ -350,9 +350,9 @@
       "tier": "重要"
     },
     "赫梯王国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1022,9 +1022,9 @@
       "tier": "重要"
     },
     "神圣罗马帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1046,9 +1046,9 @@
       "tier": "重要"
     },
     "汉萨同盟": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 146,
-    "B": 83,
+    "A": 149,
+    "B": 80,
     "C": 1,
     "D": 13
   },

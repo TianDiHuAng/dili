@@ -114,3 +114,14 @@
 1. 提供可达的学术数据库或机构专题页（JSTOR、Project MUSE、Britannica API、机构 OA 全文）
 2. 或提供离线来源包（PDF/HTML 入库后本机可核验）
 3. 或允许使用 Wikidata 单源并降低双源要求（需修改 TASK_geo.md 的规则）
+
+## 第82轮：OpenAlex search 端点日配额耗尽（HTTP 429）
+- **现象**：`GET https://api.openalex.org/works?search=…` 返回 **HTTP 429**
+  `{"error":"Rate limit exceeded","message":"Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget is used up ($0 remaining)"}`
+- **仍可用的端点**：
+  - `GET https://api.openalex.org/works/{ID}` → 200 ✅（单条按 ID 查）
+  - `GET https://api.openalex.org/works/https://doi.org/{DOI}` → 200 ✅（按 DOI 查）
+  - `GET https://api.crossref.org/works?query.bibliographic=…` → 200 ✅
+- **绕行路线**：`Crossref query.bibliographic` → 取 DOI → `OpenAlex works/{ID}` 取摘要。已验证 3/3 命中。
+- **第82轮教训**：检索脚本在 429 时会返回空列表，若不加区分会**把「配额耗尽」静默当成「0 候选」**，进而得出「该条目无解」的错误结论。已撤销 12 条此类记录（D144）。
+- 何时恢复：免费日配额按网络 IP 共享，耗尽后须等待重置；无法通过本地操作恢复。

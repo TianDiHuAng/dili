@@ -1,0 +1,132 @@
+{
+  "赫梯王国": {
+    "cand": [
+      {
+        "oid": "W2622786242",
+        "title": "The Hittite Empire from Textual Evidence",
+        "year": 2012,
+        "cited": 21,
+        "abs_len": 992,
+        "slots": [
+          "hittite",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "10.1093/oxfordhb/9780195376142.013.0041"
+      },
+      {
+        "oid": "W2652303135",
+        "title": "The Hittite State and Empire from Archaeological Evidence",
+        "year": 2012,
+        "cited": 10,
+        "abs_len": 996,
+        "slots": [
+          "hittite",
+          "empire",
+          "administrat",
+          "state"
+        ],
+        "doi": "10.1093/oxfordhb/9780195376142.013.0040"
+      },
+      {
+        "oid": "W4221134389",
+        "title": "12 Hittite Economics",
+        "year": 2022,
+        "cited": 7,
+        "abs_len": 1744,
+        "slots": [
+          "hittite",
+          "administrat",
+          "state"
+        ],
+        "doi": "10.1515/9783110661781-013"
+      }
+    ],
+    "n": 5
+  },
+  "神圣罗马帝国": {
+    "cand": [
+      {
+        "oid": "W2891976860",
+        "title": "Associative Political Culture in the Holy Roman Empire",
+        "year": 2018,
+        "cited": 39,
+        "abs_len": 1775,
+        "slots": [
+          "holy roman",
+          "empire",
+          "constitution"
+        ],
+        "doi": "10.1093/oso/9780198827252.001.0001"
+      },
+      {
+        "oid": "W2883415962",
+        "title": "The Holy Roman Empire: A Very Short Introduction",
+        "year": 2018,
+        "cited": 10,
+        "abs_len": 734,
+        "slots": [
+          "holy roman",
+          "empire"
+        ],
+        "doi": "10.1093/actrade/9780198748762.001.0001"
+      },
+      {
+        "oid": "W4309945300",
+        "title": "France and the Holy Roman Empire",
+        "year": 2022,
+        "cited": 1,
+        "abs_len": 3560,
+        "slots": [
+          "holy roman",
+          "empire"
+        ],
+        "doi": "10.4324/9780367347093-rerw23-1"
+      }
+    ],
+    "n": 3
+  },
+  "汉萨同盟": {
+    "cand": [
+      {
+        "oid": "W4400815659",
+        "title": "The Hanseatic League",
+        "year": 2024,
+        "cited": 0,
+        "abs_len": 2462,
+        "slots": [
+          "hanseatic",
+          "trade",
+          "city"
+        ],
+        "doi": "10.4324/9780415791182-rmeo449-1"
+      },
+      {
+        "oid": "W1764799527",
+        "title": "A Companion to the Hanseatic League",
+        "year": 2015,
+        "cited": 79,
+        "abs_len": 791,
+        "slots": [
+          "hanseatic",
+          "trade"
+        ],
+        "doi": "10.1163/9789004284760"
+      },
+      {
+        "oid": "W4380142852",
+        "title": "Interorganizational Relationships in Medieval Trade: An Analysis of the Hanseatic League",
+        "year": 2023,
+        "cited": 3,
+        "abs_len": 1314,
+        "slots": [
+          "hanseatic",
+          "trade"
+        ],
+        "doi": "10.5539/res.v15n2p1"
+      }
+    ],
+    "n": 4
+  }
+}
