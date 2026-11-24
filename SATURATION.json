@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 51,
+  "last_round": 52,
   "history": [
     {
       "round": 1,
@@ -620,6 +620,17 @@
       "gaps_found": 241,
       "note": "2条补主来源；库什记录无候选；≥2内容源 223",
       "result": "主来源推进"
+    },
+    {
+      "round": 52,
+      "methods_used": [
+        "D110两检索式补主来源",
+        "无候选如实记录",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "6条补主来源；库什商路/古埃及新王国记录无候选；≥2内容源 223",
+      "result": "主来源推进"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -646,8 +657,8 @@
   "evidence": {
     "ge2_has_body": 223,
     "one_has_body": 20,
-    "zero_has_body": 0,
     "side_evidence": 30,
-    "note": "第①层实测；第②层 196 条已扫、30 条侧面已标注；库什 0 源为诚实留空"
+    "primary_added_this_round": 6,
+    "note": "第①层实测；第②层 196 条已扫、30 条侧面已标注、本轮补 6 条主来源"
   }
 }

@@ -303,17 +303,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "s010-unesco-org",
-        "openalex-W1968112198"
+        "openalex-W1968112198",
+        "openalex-W2497655684"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）； 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Birth of the Hospital in the Byzantine Empire》研究的是医院的起源（医疗制度侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）； 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Birth of the Hospital in the Byzantine Empire》研究的是医院的起源（医疗制度侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2497655684（2009年，《The Middle Byzantine Economy (600–1204)》，DOI 10.1017/chol9780521832311.019，被引 21）：待支撑断言「拜占庭帝国的行政、经济与长期延续」；主题槽命中 ['econom', 'state']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
       "geo": "首都扼守博斯普鲁斯海峡，同时控制黑海与地中海的通道；腹地为色雷斯与安纳托利亚高原，沿海平原与河谷支撑农业与城市。",
-      "influence": "海峡位置带来关税与战略价值，也带来持续的外部压力；帝国的延续依赖税收、军区制与外交手腕，地理位置是条件而非保证。",
+      "influence": "海峡位置带来关税与战略价值，也带来持续的外部压力；帝国的延续依赖税收、军区制与外交手腕，地理位置是条件而非保证。 所引 2009 年《The Middle Byzantine Economy (600–1204)》（被引21）讨论中期拜占庭经济的结构，并把它视为理解拜占庭国家、社会与文化的关键；本条「农业、税收与军区制相互支撑」据此（军区制部分为常识性补充）。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "通过黑海连接北方草原与罗斯，经地中海东岸连接黎凡特与埃及，经爱琴海与意大利保持西部联系。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -616,10 +617,11 @@
         "wb-nor-pop",
         "wb-nor-urban",
         "wb-nor-life",
-        "openalex-W2792757006"
+        "openalex-W2792757006",
+        "openalex-W3083591077"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2792757006（2017年，《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Sca》，Viking and Medieval Scandinavia，DOI 10.1484/j.vms.5.114355，被引 44）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Scandinavia》研究的是婚姻与女性社会角色（性别史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·维京时代】本条正则 viking。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「维京时代」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为维京时代主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：挪威），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2792757006（2017年，《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Sca》，Viking and Medieval Scandinavia，DOI 10.1484/j.vms.5.114355，被引 44）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Polygyny, Concubinage, and the Social Lives of Women in Viking-Age Scandinavia》研究的是婚姻与女性社会角色（性别史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W3083591077（2020年，《Viking-Age Trade: Silver, Slaves and Gotland》，DOI 10.4324/9781315231808，被引 13）：待支撑断言「维京时代的扩张与贸易」；主题槽命中 ['trade', 'network']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -627,7 +629,7 @@
       ],
       "last_update": "2026-11-24",
       "geo": "斯堪的纳维亚半岛海岸曲折、森林与铁矿丰富，狭窄海湾利于造船与出航。北大西洋航线连接不列颠、冰岛与北美东缘。",
-      "influence": "航海技术使贸易、殖民与袭击并存，河流网络把北欧与东欧、拜占庭连接起来。社会动因复杂，不能简化为资源匮乏驱动。",
+      "influence": "航海技术使贸易、殖民与袭击并存，河流网络把北欧与东欧、拜占庭连接起来。社会动因复杂，不能简化为资源匮乏驱动。 所引 2020 年《Viking-Age Trade: Silver, Slaves and Gotland》（被引13）以哥特兰岛为中心讨论维京时代的白银、奴隶与贸易网络；本条「维京人以海上贸易与劫掠并行的方式连接北欧与欧亚商路」据此。",
       "polities": "斯堪的纳维亚的航海条件与河流网络支撑贸易、殖民与迁徙，王权与宗教变迁重塑区域格局；具体年代与事件待专门史料核验。",
       "connections": "维京航线连接北海、波罗的海与北大西洋，交换毛皮、银币、木材与奴隶。",
       "today": "以挪威为例，来源：世界银行 API。总人口 5,610,870 人（2025年）（SP.POP.TOTL）、城市化率 83.6%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 83.2 岁（2024年）（SP.DYN.LE00.IN）。北欧各国差异明显，本数据仅示量级。",
@@ -847,17 +849,18 @@
         "wb-ita-urban",
         "wb-ita-life",
         "openalex-W2396225729",
-        "openalex-W4298015793"
+        "openalex-W4298015793",
+        "openalex-W2487072270"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·文艺复兴意大利】本条正则 renaissance。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「文艺复兴意大利」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为文艺复兴意大利主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2396225729（2016年，《‘Poverty Makes Me Invisible’: Street Singers and Hard Times in Italian》，Italian Studies，DOI 10.1080/00751634.2016.1175719，被引 31）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第45轮补源·按断言选文献（D100）】openalex-W4298015793（2017年，《Patronage and Italian Renaissance Sculpture》，DOI 10.4324/9781315090030）：先在正文定位待支撑句「城邦竞争、商业财富与城市赞助为艺术与学术提供条件」，再选此文献；摘要命中「renaissance」「patronage」，已在本条 influence 段落点。 【第45轮返工·收紧】原 influence 写「城邦竞争、商业财富与城市赞助为艺术与学术提供条件」，而摘要中 city-state/competition/commercial/wealth/learn 均为 0 次命中；已收窄为「赞助制度为艺术生产提供条件」；该专著 cited 0 且只谈雕塑，证据强度有限。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Poverty Makes Me Invisible: Street Singers…in Italian Renaissance Cities》研究的是街头艺人与贫困（社会史侧面）；《Patronage and Italian Renaissance Sculpture》研究的是雕塑赞助。两者都不涉城邦竞争与商业财富的整体格局。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·文艺复兴意大利】本条正则 renaissance。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「文艺复兴意大利」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为文艺复兴意大利主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：意大利），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（partial）】openalex-W2396225729（2016年，《‘Poverty Makes Me Invisible’: Street Singers and Hard Times in Italian》，Italian Studies，DOI 10.1080/00751634.2016.1175719，被引 31）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第45轮补源·按断言选文献（D100）】openalex-W4298015793（2017年，《Patronage and Italian Renaissance Sculpture》，DOI 10.4324/9781315090030）：先在正文定位待支撑句「城邦竞争、商业财富与城市赞助为艺术与学术提供条件」，再选此文献；摘要命中「renaissance」「patronage」，已在本条 influence 段落点。 【第45轮返工·收紧】原 influence 写「城邦竞争、商业财富与城市赞助为艺术与学术提供条件」，而摘要中 city-state/competition/commercial/wealth/learn 均为 0 次命中；已收窄为「赞助制度为艺术生产提供条件」；该专著 cited 0 且只谈雕塑，证据强度有限。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Poverty Makes Me Invisible: Street Singers…in Italian Renaissance Cities》研究的是街头艺人与贫困（社会史侧面）；《Patronage and Italian Renaissance Sculpture》研究的是雕塑赞助。两者都不涉城邦竞争与商业财富的整体格局。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源】openalex-W2487072270（2012年，《The collapse of city-states and the role of urban centres in the new political geography of Renaissance Italy》，DOI 10.1017/cbo9780511845697.016，被引 8）：待支撑断言「城邦竞争、商业财富与艺术赞助」；主题槽命中 ['city', 'state', 'urban']；已在本条 influence 段落点。此前的两篇（街头艺人社会史、雕塑赞助）仍为旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
       "geo": "意大利半岛北部平原与中南部丘陵、海岸城市并存，阿尔卑斯山口连接中欧，第勒尼安海与亚得里亚海提供贸易通道。",
-      "influence": "所引 2017 年研究《Patronage and Italian Renaissance Sculpture》讨论私人公民对雕塑的赞助及其对公共空间的僭越；本条据此只写「赞助制度为艺术生产提供条件」，不据此写城邦竞争、商业财富或学术。后者待专门经济社会史来源。",
+      "influence": "所引 2012 年研究（剑桥大学出版社，意大利语）描述 14–15 世纪意大利城邦国家的危机，并分析各城市及其统治阶层在区域国家形成过程中的处境；本条据此写「城邦竞争与区域国家的兴替构成文艺复兴的政治背景」。艺术赞助与商业财富的具体关系另由本条已列的赞助研究作旁证。",
       "polities": "半岛城邦依托商业财富与竞争形成文化中心，政治地图由多个城邦与领地构成；具体年代与人物待专门史料核验。",
       "connections": "意大利商人连接地中海东岸与西北欧，丝绸、香料、银行业与手稿沿贸易与学术网络传播。",
       "today": "以意大利为例，来源：世界银行 API。总人口 58,915,656 人（2025年）（SP.POP.TOTL）、城市化率 69.7%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 84.0 岁（2024年）（SP.DYN.LE00.IN）。北部城市带仍是制造业与文化中心；具体游客与经济数据待核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",

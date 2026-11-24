@@ -189,16 +189,17 @@
         "ap-human-geo",
         "wb-usa-pop",
         "wb-usa-forest",
-        "openalex-W2087734990"
+        "openalex-W2087734990",
+        "openalex-W2339053595"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·落基山脉】本条正则 rocky mountain。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「落基山脉」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为落基山脉主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W2087734990（1999年，《The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains》，Rocky Mountain geology，DOI 10.2113/34.1.37，被引 116）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Yavapai-Mazatzal crustal boundary in the Southern Rocky…》研究的是南部落基山的地壳边界（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·落基山脉】本条正则 rocky mountain。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「落基山脉」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为落基山脉主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W2087734990（1999年，《The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains》，Rocky Mountain geology，DOI 10.2113/34.1.37，被引 116）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Yavapai-Mazatzal crustal boundary in the Southern Rocky…》研究的是南部落基山的地壳边界（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2339053595（1975年，《Laramide (Late Cretaceous-Early Tertiary) Orogeny in the Southern Rocky Mountains》，DOI 10.1130/mem144-p1，被引 223）：待支撑断言「落基山脉的地质与隆升」；主题槽命中 ['orogen', 'uplift', 'tecton']；已在本条 geo 段落点。此前的侧面文献仍保留为旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "落基山脉纵贯北美西部，高山、盆地与峡谷交错，是重要分水岭。海拔与纬度共同决定降水和植被带。",
+      "geo": "落基山脉纵贯北美西部，高山、盆地与峡谷交错，是重要分水岭。海拔与纬度共同决定降水和植被带。 所引 1975 年《Laramide (Late Cretaceous-Early Tertiary) Orogeny》（被引223）讨论拉拉米造山运动对落基山脉形成的控制；本条「落基山脉主要由晚白垩世至早第三纪的造山运动抬升」据此。",
       "influence": "山脉影响降水分布与交通走向，河谷与山口成为通道；矿业与牧业依赖山地资源。资源开发的结果取决于技术与制度，不只是地形。",
       "polities": "山地资源与通道条件影响土地利用，原住民、外来定居者与国家公园体系先后塑造管理格局；具体年代待专门史料核验。",
       "connections": "落基山脉连接北美内陆与西部海岸，河流向两大洋输送水量与泥沙。",
@@ -766,10 +767,11 @@
         "wikipedia-regions",
         "s018-fao-org",
         "openalex-W1548267435",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W3023324006"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s059-worldbank-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1548267435（2005年，《The Black West: A Documentary and Pictorial History of the African American Role in the Westward Expansion of the United States》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「19世纪（本条引 2005 年关于美国西部非裔 American 的史料集）」表述并注明学界有不同版本。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Black West》是非裔美国人在西部的史料集，属西进运动的一个群体侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "第16轮复核：北美洲×农业；新增背景来源 s059-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（作物制度、农业起源与水利细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s059-worldbank-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1548267435（2005年，《The Black West: A Documentary and Pictorial History of the African American Role in the Westward Expansion of the United States》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「19世纪（本条引 2005 年关于美国西部非裔 American 的史料集）」表述并注明学界有不同版本。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Black West》是非裔美国人在西部的史料集，属西进运动的一个群体侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（weak）】openalex-W3023324006（2020年，《The course of westward expansion》，DOI 10.4324/9781351057875-4，被引 0）：待支撑断言「美国向西部扩张的定居与边疆过程」；主题槽命中 ['westward', 'settle', 'expansion']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -777,7 +779,7 @@
       ],
       "last_update": "2026-11-24",
       "geo": "自密西西比河谷向西依次为平原、落基山地、大盆地与太平洋沿岸，降水递减；越过 100°W 后进入半干旱区，农业需依赖灌溉与旱作技术。",
-      "influence": "所引史料集提示：西进的叙述长期以白人 settler 为主体，非裔与其它群体的参与被系统性低估；这说明对同一地理过程的记述本身受立场影响。",
+      "influence": "所引史料集提示：西进的叙述长期以白人 settler 为主体，非裔与其它群体的参与被系统性低估；这说明对同一地理过程的记述本身受立场影响。 所引 2020 年研究讨论内战时期美国东西部之间的分隔与向西扩张的推进过程；本条「西进使联邦版图从大西洋岸延伸至太平洋岸」据此。（该文被引 0，证据强度有限，仅作辅助。）",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经俄勒冈小径、圣塔菲小径与横贯大陆铁路连接东部与西部，太平洋沿岸港口通亚洲贸易。",
       "today": "（本条的当代指标不在本页展开。）",

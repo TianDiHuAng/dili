@@ -1,0 +1,759 @@
+{
+  "拜占庭帝国": {
+    "claim": "拜占庭帝国的行政、经济与长期延续",
+    "records": [
+      {
+        "query": "Byzantine Empire administration economy state",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1017/chol9780521832311.019",
+            "title": "The Middle Byzantine Economy (600–1204)",
+            "year": 2009,
+            "oa_id": "W2497655684",
+            "cited": 21,
+            "type": "book-chapter",
+            "abs_len": 977,
+            "abstract": "The Byzantine economy is an important subject on a number of grounds. It is arguably the key to the history of the Byzantine state, society and culture; it forms part of the picture of a transition from the ancient world to the middle ages – and part of the debate as to whether those are meaningful concepts at all; it is a test case for whether we should be talking about particular regional economies, such as the 'Byzantine economy', or whether we should instead be thinking in terms of a general pre-modern Mediterranean economy, of which the economic activities of the Byzantine world were merely a part. It is a subject, too, upon which there was once considerable agreement among scholars, but there is now some uncertainty. The recent publication of The economic history of Byzantium, a substantial multi-authored work in three volumes, has been a major achievement and it serves as an important reference work and body of data; it does not represent an end to debate.",
+            "slots": [
+              "econom",
+              "state"
+            ],
+            "host": "Cambridge University Press eBooks"
+          },
+          {
+            "doi": "10.1093/oxfordhb/9780199689736.013.20",
+            "title": "Monasteries, Society, Economy, and the State in the Byzantine Empire",
+            "year": 2020,
+            "oa_id": "W3093041794",
+            "cited": 6,
+            "type": "book-chapter",
+            "abs_len": 713,
+            "abstract": "The chapter provides an overview of the social, political, and economic functions of Byzantine monasteries from the ninth to the fifteenth century. Relations between monasteries and the state, the Church, and lay society were complex. The monks received donations and protection in exchange for various spiritual and material services. The great landowning monasteries engaged in large-scale agrarian production and trade, and they played a substantial role in local and regional economies. Finally, the chapter addresses the fate and significance of monasteries in the long period of crisis that began in the middle of the fourteenth century and ended with the replacement of the Byzantine by the Ottoman Empire.",
+            "slots": [
+              "econom",
+              "state"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "10.23943/princeton/9780691153018.003.0005",
+            "title": "The Collapse of the Byzantine Empire in the Twelfth Century: A Study of a Medieval Economy",
+            "year": 2013,
+            "oa_id": "W4230561216",
+            "cited": 2,
+            "type": "book-chapter",
+            "abs_len": 930,
+            "abstract": "This chapter examines the collapse of the Byzantine Empire in the twelfth century. Between the tenth and twelfth centuries, the Byzantine state machinery was extremely sophisticated. It directed a systematic foreign policy and maintained a developed network of diplomatic relations with neighboring powers, controlled the minting and circulation of a stable gold currency, and ran a complex bureaucratic administration. However, the empire's economic organization was primitive. The chapter analyzes the fiscal and commercial aspects of the economic organization of a provincial area of the Byzantine Empire under the Angeloi during the period 1185–1204. It suggests that the conquest and sack of Constantinople by the Fourth Crusade constitutes a collapse and disappearance of the empire in 1204, and that the establishment of a Latin Empire on Byzantine territory signals a definite break with the former Byzantine organization.",
+            "slots": [
+              "administration",
+              "econom",
+              "state",
+              "fiscal"
+            ],
+            "host": "Princeton University Press eBooks"
+          },
+          {
+            "doi": "10.1017/9781108759557.010",
+            "title": "Post-Byzantine Empire or Romanian National State?",
+            "year": 2022,
+            "oa_id": "W4310448415",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 870,
+            "abstract": "This chapter focusses on the period of Ceaușescu’s ‘cultural revolution’ and its implications for historical scholarship. During the 1970s and 1980s a large-scale historiographical re-evaluation began, underpinned by nationalist exaltation, cultural megalomania and assertive autochthonism and supplemented by a retrieval of the big names of pre-war nationalist historiography and their works. Two topics dominated the debate on Byzantium: the actual contact of the Romanian countries with the empire and the transmission of its cultural legacy to the Romanians. The concept of ‘active reception’ of Byzantine culture established itself in cultural, art and architectural studies, testifying to the maturity of the receiving culture. The adaptation of the Byzantine institutional ‘model’ and political ideology, however, proved a more contentious and politicised matter.",
+            "slots": [
+              "state",
+              "institution"
+            ],
+            "host": "Cambridge University Press eBooks"
+          }
+        ]
+      },
+      {
+        "query": "Byzantine state institutions fiscal",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1163/9789004277878_011",
+            "title": "The Mobilisation of Fiscal Resources in the Byzantine Empire (Eighth to Eleventh Centuries)",
+            "year": 2014,
+            "oa_id": "W792444361",
+            "cited": 19,
+            "type": "book-chapter",
+            "abs_len": 1027,
+            "abstract": "This chapter addresses the relative extent of payments in kind, in cash and in service required of the populations, along with its wide range of implications, notably strategic. It concerns how tax was calculated, a crucial point for understanding the impact of taxation on the economy at large. The chapter looks into the nature of tax-assessment units and notably their size, the importance of which has been under-rated. It leads one to consider the relationship between those responsible for and those benefiting from the tax levy. This chapter examines the existing relationship between areas of levy, storage and investment of the fiscal product, this issue being connected with the question of public infrastructures. It examines the period spanning the seventh-century crisis to the beginning of the twelfth century, which constitutes a coherent whole, without foregoing appropriate forays either side of this chronological range. Keywords: Byzantine Empire; fiscal product; seventh-century crisis; tax-assessment units",
+            "slots": [
+              "econom",
+              "fiscal"
+            ],
+            "host": "BRILL eBooks"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.1017/chol9780521832311.019",
+      "title": "The Middle Byzantine Economy (600–1204)",
+      "year": 2009,
+      "oa_id": "W2497655684",
+      "cited": 21,
+      "type": "book-chapter",
+      "abs_len": 977,
+      "abstract": "The Byzantine economy is an important subject on a number of grounds. It is arguably the key to the history of the Byzantine state, society and culture; it forms part of the picture of a transition from the ancient world to the middle ages – and part of the debate as to whether those are meaningful concepts at all; it is a test case for whether we should be talking about particular regional economies, such as the 'Byzantine economy', or whether we should instead be thinking in terms of a general pre-modern Mediterranean economy, of which the economic activities of the Byzantine world were merely a part. It is a subject, too, upon which there was once considerable agreement among scholars, but there is now some uncertainty. The recent publication of The economic history of Byzantium, a substantial multi-authored work in three volumes, has been a major achievement and it serves as an important reference work and body of data; it does not represent an end to debate.",
+      "slots": [
+        "econom",
+        "state"
+      ],
+      "host": "Cambridge University Press eBooks"
+    }
+  },
+  "元代": {
+    "claim": "元代的行政、驿站与海运",
+    "records": [
+      {
+        "query": "Yuan dynasty administration postal relay",
+        "results": 18,
+        "passed": []
+      },
+      {
+        "query": "Yuan China transport sea grain",
+        "results": 18,
+        "passed": []
+      }
+    ],
+    "best": null
+  },
+  "维京时代": {
+    "claim": "维京时代的扩张与贸易",
+    "records": [
+      {
+        "query": "Viking Age expansion trade network",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.4324/9781315231808",
+            "title": "Viking-Age Trade: Silver, Slaves and Gotland",
+            "year": 2020,
+            "oa_id": "W3083591077",
+            "cited": 13,
+            "type": "book",
+            "abs_len": 1531,
+            "abstract": "That there was an influx of silver dirhams from the Muslim world into eastern and northern Europe in the ninth and tenth centuries is well known, as is the fact that the largest concentration of hoards is on the Baltic island of Gotland. Recent discoveries have shown that dirhams were reaching the British Isles, too. What brought the dirhams to northern Europe in such large numbers? The fur trade has been proposed as one driver for transactions, but the slave trade offers another – complementary – explanation. This volume does not offer a comprehensive delineation of the hoard finds, or a full answer to the question of what brought the silver north. But it highlights the trade in slaves as driving exchanges on a trans-continental scale. By their very nature, the nexuses were complex, mutable and unclear even to contemporaries, and they have eluded modern scholarship. Contributions to this volume shed light on processes and key places: the mints of Central Asia; the chronology of the inflows of dirhams to Rus and northern Europe; the reasons why silver was deposited in the ground and why so much ended up on Gotland; the functioning of networks – perhaps comparable to the twenty-first-century drug trade; slave-trading in the British Isles; and the stimulus and additional networks that the Vikings brought into play. This combination of general surveys, presentations of fresh evidence and regional case studies sets Gotland and the early medieval slave trade in a firmer framework than has been available before.",
+            "slots": [
+              "trade",
+              "network"
+            ],
+            "host": "Routledge eBooks"
+          },
+          {
+            "doi": "10.4324/9781315548197-1",
+            "title": "Viking-Age economic transformations",
+            "year": 2017,
+            "oa_id": "W2903757092",
+            "cited": 11,
+            "type": "book-chapter",
+            "abs_len": 1088,
+            "abstract": "This chapter discusses the study of Viking-Age economic transformations. In Scandinavia, the Viking Age – in this context c. ad 750-1100 – is a period of transformations. Towns were founded and became numerous, three kingdoms were established, Christianity became the dominant religion, production thrived, and long-distance contacts, peaceful and hostile, brought Scandinavian societies into closer and more regular contact with each other and the rest of Europe. By 1100 the Iron Age communities, polities, and cultures of Scandinavia had been transformed profoundly and irrevocably. Prior to the Viking period, the only known large-scale commodity production directed at long-distance trade was that of iron in the Early Iron Age. Several types of artisans bought their raw materials, some from regional, and others from long-distance trade networks. Turning to rural production, Iron Age farms were never fully self-sufficient. Viking-Age rural commodity production for long-distance trade was based on mineral, botanical, and zoological resources of the woodlands and alpine regions.",
+            "slots": [
+              "trade",
+              "network"
+            ],
+            "host": "Routledge eBooks"
+          },
+          {
+            "doi": "10.4324/9781315231808-20",
+            "title": "Viking-Age bullion from southern Scandinavia and the Baltic region in Ireland",
+            "year": 2020,
+            "oa_id": "W3083511604",
+            "cited": 2,
+            "type": "book-chapter",
+            "abs_len": 841,
+            "abstract": "Ireland’s early Viking-Age hoards contain few imported silver objects of southern Scandinavian or Baltic origin, as most ended up in the melting pot to supply the developing Hiberno-Scandinavian silver-working industry. Despite their scarcity, however, they show how well networked Ireland was and where some of the vast quantities of silver used in Hiberno-Scandinavian and native Irish silver-working came from. The materials point to a southern Scandinavian/Baltic influence on some local ornament-types and styles, via trade through a ‘nodal market’ in Dublin. The chapter considers the types of objects found, and posits a connection between certain early tenth-century mixed hoards – deposited during the exile of Dublin’s Scandinavians – and the arrival of southern Scandinavian entrepreneurs into the region during this power vacuum.",
+            "slots": [
+              "trade",
+              "network"
+            ],
+            "host": "Routledge eBooks"
+          }
+        ]
+      },
+      {
+        "query": "Viking maritime trade routes",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.4324/9781315630755-6",
+            "title": "Maritime Societies and the Transformation of the Viking Age and Medieval World",
+            "year": 2016,
+            "oa_id": "W2941810375",
+            "cited": 2,
+            "type": "book-chapter",
+            "abs_len": 1529,
+            "abstract": "This book is about maritime societies, groups at scales ranging from a settlement to a polity, who drew their identity and livelihood from relations with water. It focuses on the Baltic, North and Irish Seas, and the waters that linked them, in the Viking Age (ad c790-1050) and, with a few later exceptions, the early Middle Ages (ad c1050-1200). Thus it explores long-range interaction in the northern European world prior to the era of the German Hansa, and provides a complement to past research on the Norse settlements of the North Atlantic (eg Arneborg et al 2009-10; Barrett 2003; Dugmore et al 2005; Ve´steinsson et al 2011; Sigurdsson 2008; Zori and Byock 2014). The book crosscuts the traditional chronological boundary between the Viking Age and the Middle Ages, and provides a comparative context for maritime communities ranging from, for example, the Isle of Man in the Irish Sea to Gotland in the Baltic. Concurrently, it touches on the relationship between estate centres, landing places, towns and the sea in the more terrestrially oriented societies that surrounded northern Europe’s main spheres of maritime interaction. Many studies of Viking Age and medieval maritime activity focus on warfare (eg Price 2002), trade (eg Sindbæk 2007) or identity (eg Abrams 2012) — recognizing that they are interdependent at various scales. A key purpose of the present book is to illuminate this interrelationship, exploring the dialectic between long-range interconnections and distinctive expressions of local identity.",
+            "slots": [
+              "trade",
+              "maritime"
+            ],
+            "host": "Routledge eBooks"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.4324/9781315231808",
+      "title": "Viking-Age Trade: Silver, Slaves and Gotland",
+      "year": 2020,
+      "oa_id": "W3083591077",
+      "cited": 13,
+      "type": "book",
+      "abs_len": 1531,
+      "abstract": "That there was an influx of silver dirhams from the Muslim world into eastern and northern Europe in the ninth and tenth centuries is well known, as is the fact that the largest concentration of hoards is on the Baltic island of Gotland. Recent discoveries have shown that dirhams were reaching the British Isles, too. What brought the dirhams to northern Europe in such large numbers? The fur trade has been proposed as one driver for transactions, but the slave trade offers another – complementary – explanation. This volume does not offer a comprehensive delineation of the hoard finds, or a full answer to the question of what brought the silver north. But it highlights the trade in slaves as driving exchanges on a trans-continental scale. By their very nature, the nexuses were complex, mutable and unclear even to contemporaries, and they have eluded modern scholarship. Contributions to this volume shed light on processes and key places: the mints of Central Asia; the chronology of the inflows of dirhams to Rus and northern Europe; the reasons why silver was deposited in the ground and why so much ended up on Gotland; the functioning of networks – perhaps comparable to the twenty-first-century drug trade; slave-trading in the British Isles; and the stimulus and additional networks that the Vikings brought into play. This combination of general surveys, presentations of fresh evidence and regional case studies sets Gotland and the early medieval slave trade in a firmer framework than has been available before.",
+      "slots": [
+        "trade",
+        "network"
+      ],
+      "host": "Routledge eBooks"
+    }
+  },
+  "美国西进": {
+    "claim": "美国向西部扩张的定居与边疆过程",
+    "records": [
+      {
+        "query": "American westward expansion settlement frontier",
+        "results": 18,
+        "passed": []
+      },
+      {
+        "query": "United States westward migration land",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.4324/9781351057875-4",
+            "title": "The course of westward expansion",
+            "year": 2020,
+            "oa_id": "W3023324006",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 994,
+            "abstract": "At the start of the Civil War the United States was not just torn apart along a north–south axis; there was also a great division between its east and west. The fast-growing nation laid claim to lands spanning from Atlantic-bound Maine in the Northeast, to the relatively new state of California on the Pacific border with Mexico. During the war, the Union government had set the groundwork for enlargement, partly to connect the loyal Union states and partly because southern opposition to expansion had been temporarily removed. Native Americans were the primary settlers of the Great Plains of the West prior to the Civil War, often having been driven from homes elsewhere during earlier eras of expansion by European powers and the United States. As Native Americans were increasingly moved to ever-shrinking reservations, various attractions and government incentives noted earlier led thousands to settle in areas of the West that had previously seen little if any settlement by migrants.",
+            "slots": [
+              "westward",
+              "settle",
+              "expansion"
+            ],
+            "host": "Routledge eBooks"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.4324/9781351057875-4",
+      "title": "The course of westward expansion",
+      "year": 2020,
+      "oa_id": "W3023324006",
+      "cited": 0,
+      "type": "book-chapter",
+      "abs_len": 994,
+      "abstract": "At the start of the Civil War the United States was not just torn apart along a north–south axis; there was also a great division between its east and west. The fast-growing nation laid claim to lands spanning from Atlantic-bound Maine in the Northeast, to the relatively new state of California on the Pacific border with Mexico. During the war, the Union government had set the groundwork for enlargement, partly to connect the loyal Union states and partly because southern opposition to expansion had been temporarily removed. Native Americans were the primary settlers of the Great Plains of the West prior to the Civil War, often having been driven from homes elsewhere during earlier eras of expansion by European powers and the United States. As Native Americans were increasingly moved to ever-shrinking reservations, various attractions and government incentives noted earlier led thousands to settle in areas of the West that had previously seen little if any settlement by migrants.",
+      "slots": [
+        "westward",
+        "settle",
+        "expansion"
+      ],
+      "host": "Routledge eBooks"
+    }
+  },
+  "大自流盆地": {
+    "claim": "大自流盆地的地下水与自流机制",
+    "records": [
+      {
+        "query": "Great Artesian Basin groundwater hydrogeology",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.58799/c-93",
+            "title": "Structure, stratigraphy, and hydrogeology of the northern Roswell Artesian basin, Chaves County, New Mexico",
+            "year": 1968,
+            "oa_id": "W4383461111",
+            "cited": 16,
+            "type": "book",
+            "abs_len": 3057,
+            "abstract": "Structural and stratigraphic controls of the quantity and quality of waters within the northernmost part of the Roswell artesian basin were studied using outcrops, cores, samples, and electric logs.Three structural zones are recognized: The Border Hill, Six Mile, and YO.A fourth near the town of Dexter is suggested, and a fifth in the vicinity of T. 1 4 S., R. 27 E. is considered because of the close dating of faulting (early Desmoines).Three structural blocks, Six Mile, Roswell, and Orchard Park, between the first four of these zones are delineated.The strata in the Orchard Park block are most uniform and compare generally to the complete section preserved in the subsurface east of the artesian basin.The Glorieta, lower and upper units of the San Andres, and most of the Artesia Group are present.The artesian aquifer is developed in the top one third of the San Andres (all in the upper unit) and in the overlying Grayburg.The Queen forms the aquitard between the artesian and shallow aquifers.The latter comprises part of the Seven Rivers Formation and the overlying Tertiary-Quaternary alluvium.Structural uplift and consequent deep, irregular erosion have stripped the Artesia Group and the upper unit of the San Andres from the Roswell block.Secondary porosity enlargement has been developed in the Slaughter zone of the lower San Andres and constitutes the principal porosity zone of the artesian aquifer.The Slaughter zone, a regionally porous and permeable unit, is the principal hydrocarbon-producing zone of the San Andres of the Northwest Shelf of southeast New Mexico and west Texas.Reduced head, because of regional over-appropriation, and reduced pressure, caused by locally intensive pumping on the Roswell block, relieve the retarding hydrostatic pressure on the saline waters in the regionally porous Slaughter zone and permit saline water encroachment into the Roswell block.The positioning of the Queen aquitard on the downthrown side of the YO structural zone probably inhibits the movement of saline water from the Roswell to the Orchard Park block.Erosion of the Roswell block has developed a collapse breccia and overlying terra rossalike residual clay, heretofore referred to the Artesia Group.This younger deposit forms the aquitard on the Roswell block.Physical differences of the Queen aquitard indicate that its leakage factor will be much higher than the Queen.The Six Mile block is a grabenlike tilted fault block.A more complete San Andres comprises part of this block than the Roswell block.Remnants of the Artesia, previously reported, are not present in part of the block.Considerations for control of saline encroachment include additional stratigraphic work to determine the areal extent of the base of the aquifer porosity and Slaughter porosity interface.Retardation might result from the employment of injection wells.Further investigations should include acquiring more electric logs, sample examination, continued study of the Glorieta, and adaptation of hydrologic methods to the geology.drologist; S. E.",
+            "slots": [
+              "aquifer",
+              "hydrogeolog"
+            ],
+            "host": null
+          },
+          {
+            "doi": "10.1201/b10530-12",
+            "title": "Verification of 4He and 36Cl dating of very old groundwater in the Great Artesian Basin, Australia",
+            "year": 2010,
+            "oa_id": "W2267953807",
+            "cited": 7,
+            "type": "book-chapter",
+            "abs_len": 1326,
+            "abstract": "ABSTRACT: Groundwater dating is one of the most promising methods to evaluate very slow groundwater flow. In this study, 36Cl and 4He dating were carried out in the Great Artesian Basin, Australia. Groundwater samples were collected from 77 flowing artesian waterbores tapping aquifers in the Cadna-owie Formation and Hooray Sandstone, the uppermost confined aquifers in the Lower Cretaceous-Jurassic sedimentary sequence. Major ions, stable isotopes (δD, δ18O and δ13C), radioactive isotopes (14C, 36Cl) and noble gases (4He, 3He/4He, Ne) were analysed. The results show that 36Cl/Cl ratios decrease from the recharge areas to the discharge areas and 4He values increase with the distances from the recharge areas. The 36Cl ages have a close relationship with the distances from the recharge areas, as well as those from earlier studies. These relationships of 36Cl concentrations reflect the groundwater residence times. Concentrations of 4He increase with 36Cl ages near the recharge areas. This result indicates that 4He concentrations also reflect the groundwater residence times. However, 4He concentrations vary due to sampling conditions, such as depressurisation and high temperatures in waterbores. These results confirm that 36Cl and 4He are useful indicators of groundwater residence times of very old groundwater.",
+            "slots": [
+              "groundwater",
+              "recharge",
+              "aquifer",
+              "discharge"
+            ],
+            "host": "CRC Press eBooks"
+          },
+          {
+            "doi": "10.1201/9781315210025-21",
+            "title": "Groundwater governance in the Great Artesian Basin, Australia",
+            "year": 2017,
+            "oa_id": "W2914108853",
+            "cited": 6,
+            "type": "book-chapter",
+            "abs_len": 2049,
+            "abstract": "The Great Artesian Basin, Australia’s largest groundwater resource, is a multi-layered confined aquifer system, with artesian aquifers in Triassic, Jurassic and Cretaceous continental quartzose sandstones. It underlies three States and one Territory within Australia’s Rangelands with low rainfall in arid and semi-arid regions. Pastoral activity, homestead, town water supplies, mining and petroleum ventures are all totally dependent on artesian groundwater from the basin. State Government investigations and legislation dominated during the period from the 1890s to 1960s, but Commonwealth Government funding and scientific investigations assisted since the 1960s. The States have the primary constitutional powers and responsibilities for land and water resources management under the Federal Australian Constitution. State (and Territory) Water Acts vest groundwater (and surface water) resources in the Crown, and provide for rights in water, control and management of works with respect to water conservation and protection. All artesian (flowing) bores, and sub-artesian (non-flowing) bores are required to be licensed, and construction and purpose of the bore are specified, as well as use, volumetric allocation and distribution works. Bores are to be constructed by suitably licensed (artesian) drillers. Bore owners are responsible for the maintenance of all bores, including casing, headworks and distribution networks. Combined Commonwealth and State projects and funding since 1989 for rehabilitation of bores alleviates the serious drawdown of artesian pressures. The Environment Protection and Biodiversity Conservation Act 1999 (the EPBC Act) is the Australian Government’s central piece of environmental legislation. It provides a legal framework to protect and manage nationally and internationally important flora, fauna, ecological communities (groundwater dependent ecosystems) and heritage places, defined in the EPBC Act as matters of national environmental significance, and is applicable to the Great Artesian Basin area.",
+            "slots": [
+              "groundwater",
+              "aquifer"
+            ],
+            "host": "CRC Press eBooks"
+          },
+          {
+            "doi": "10.1007/s10040-019-02061-5",
+            "title": "Improved characterisation of unmetered stock and domestic groundwater use in the Surat and Southern Bowen basins of the Great Artesian Basin (Australia)",
+            "year": 2020,
+            "oa_id": "W2999026672",
+            "cited": 6,
+            "type": "article",
+            "abs_len": 1497,
+            "abstract": "Time-series and current estimates of groundwater use are critical for conceptualisation of groundwater systems and for understanding system responses. A key challenge for managing Australia’s Great Artesian Basin (GAB) is the limited available data on water use. In the absence of an existing method, the Queensland Government’s Office of Groundwater Impact Assessment developed a demand-based method to estimate unmetered stock and domestic (S&D) groundwater use in 2016, with further enhancements since then. The method integrates publicly available datasets including property grazing potential and availability of other water supplies to derive a range of groundwater use estimates. The method also distributes the estimated demand for groundwater use across water supply bores and across screened geological formations based on bore construction and screened-aquifer information. The method has been applied to the GAB’s Surat and southern Bowen basins. Integrating the results and outcomes from related research projects, this article provides an overview of the demand-based method, highlighting new understanding of the temporal and spatial distribution of groundwater use. Results were validated at the bore scale with limited metered bore data, and at the sub-regional level from census data and landholder survey information. Across the Surat Basin, comparisons with previous estimates show, as estimated, a reduction in S&D water extraction from approximately 80,000 to 25,000 ML/year.",
+            "slots": [
+              "groundwater",
+              "aquifer"
+            ],
+            "host": "Hydrogeology Journal"
+          },
+          {
+            "doi": "10.1016/j.jhydrol.2025.133311",
+            "title": "Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry",
+            "year": 2025,
+            "oa_id": "W4409434538",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1590,
+            "abstract": "An unusual north–south line of ∼ 50 springs along the eastern margin of the Eromanga Basin, northeastern Australia, discharge from the outcrop margin of the Hutton Sandstone aquifer, which is folded so the springs are fed by easterly groundwater flow, in contrast to the dominant westwards flow within the Eromanga Basin. This means that the effective recharge area of the Hutton Sandstone in this region is less than previously estimated. The springs occur as pools which represent water-table windows, with groundwater ‘streams’ flowing from one side to the other along subhorizontal joints within a near-surface silcrete layer developed on the Hutton Sandstone. The springs are recharged through fractures in the silcrete, feeding laminar groundwater flow through the Hutton Sandstone until its outcrop terminates. At this point flow transfers into the overlying silcrete as concentrated pathways probably localised along broad, shallow troughs in the silcrete beneath surface drainage lines. The springs are surrounded by white siliceous precipitates with a groundmass of intergrown amorphous silica and kaolinite; this may have been allophane originally. Most silica springs are geothermal, yet the eastern Alice Tableland springs have surface temperatures. The elevated dissolved Si levels in these springs are due to dissolution of relatively soluble silica microcrystallites within the silcrete through which the spring water flows. The lack of calcite precipitation from the springs reflects the low Ca concentrations of the groundwater, probably due to strong Ca uptake by plants.",
+            "slots": [
+              "groundwater",
+              "recharge",
+              "aquifer",
+              "hydrogeolog",
+              "discharge"
+            ],
+            "host": "Journal of Hydrology"
+          },
+          {
+            "doi": "10.36334/modsim.2011.e8.costelloe",
+            "title": "Field estimates of groundwater discharge – Great Artesian Basin, South Australia",
+            "year": 2011,
+            "oa_id": "W2341817925",
+            "cited": 0,
+            "type": "conference-paper",
+            "abs_len": 1082,
+            "abstract": "Understanding the water balance of large groundwater systems is fundamental for the sustainable management of the resource.However, measuring many of the major components of the water balance pose considerable challenges and are thus estimated through modelling.A shortcoming of the modelling approach is that the water balance may have high bias and uncertainty due to insufficient information.The vertical leakage (i.e.discharge to upper aquifers or the unconfined water table) component of the Great Artesian Basin (GAB) is an example of a poorly constrained but large component of the water balance of Australia's largest groundwater resource.This paper reports on the use of field measurements and remote sensing to estimate the evaporative discharge along the southwestern margin of the GAB in South Australia, as this flux provides an upper bounds of vertical leakage along this part of the GAB margin.These discharge estimates are compared to published estimates of vertical leakage from modelled simulations by the Bureau of Rural Sciences (BRS) steady-state GABFLOW model.",
+            "slots": [
+              "groundwater",
+              "aquifer",
+              "discharge"
+            ],
+            "host": "International Congress on Modelling and Simulation (MODSIM)"
+          }
+        ]
+      },
+      {
+        "query": "Great Artesian Basin recharge discharge",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1201/9781315210025-21",
+            "title": "Groundwater governance in the Great Artesian Basin, Australia",
+            "year": 2017,
+            "oa_id": "W2914108853",
+            "cited": 6,
+            "type": "book-chapter",
+            "abs_len": 2049,
+            "abstract": "The Great Artesian Basin, Australia’s largest groundwater resource, is a multi-layered confined aquifer system, with artesian aquifers in Triassic, Jurassic and Cretaceous continental quartzose sandstones. It underlies three States and one Territory within Australia’s Rangelands with low rainfall in arid and semi-arid regions. Pastoral activity, homestead, town water supplies, mining and petroleum ventures are all totally dependent on artesian groundwater from the basin. State Government investigations and legislation dominated during the period from the 1890s to 1960s, but Commonwealth Government funding and scientific investigations assisted since the 1960s. The States have the primary constitutional powers and responsibilities for land and water resources management under the Federal Australian Constitution. State (and Territory) Water Acts vest groundwater (and surface water) resources in the Crown, and provide for rights in water, control and management of works with respect to water conservation and protection. All artesian (flowing) bores, and sub-artesian (non-flowing) bores are required to be licensed, and construction and purpose of the bore are specified, as well as use, volumetric allocation and distribution works. Bores are to be constructed by suitably licensed (artesian) drillers. Bore owners are responsible for the maintenance of all bores, including casing, headworks and distribution networks. Combined Commonwealth and State projects and funding since 1989 for rehabilitation of bores alleviates the serious drawdown of artesian pressures. The Environment Protection and Biodiversity Conservation Act 1999 (the EPBC Act) is the Australian Government’s central piece of environmental legislation. It provides a legal framework to protect and manage nationally and internationally important flora, fauna, ecological communities (groundwater dependent ecosystems) and heritage places, defined in the EPBC Act as matters of national environmental significance, and is applicable to the Great Artesian Basin area.",
+            "slots": [
+              "groundwater",
+              "aquifer"
+            ],
+            "host": "CRC Press eBooks"
+          },
+          {
+            "doi": "10.3390/w17091338",
+            "title": "Groundwater Extraction Causes a Rapid Reduction in Spring Expression at Abercorn Springs in the Recharge Area of the Great Artesian Basin, Australia",
+            "year": 2025,
+            "oa_id": "W4409920358",
+            "cited": 2,
+            "type": "article",
+            "abs_len": 1557,
+            "abstract": "Groundwater levels were monitored before, during and after groundwater pumping to understand the impacts of groundwater extraction on Abercorn Spring, a recharge spring in the Great Artesian Basin (GAB) in southeast Queensland, Australia. We measured the wetted area of the spring during this time to understand if changes in hydrology affected the water available for vegetation communities. Sustained groundwater extraction >20 km upgradient of the spring resulted in (1) rapid drawdown of the source aquifer, causing a reduction in aquifer pressure; (2) a small decline (0.35 m) in water level at the spring; and (3) a significant change (p = 0.0001) in wetted area in winter. Recovery of water levels and wetted area of the mound spring took over three years after pumping ceased. Our study demonstrated that significant changes to the wetted area occurred with only a minimal drawdown at the springs. Abercorn Springs have a natural low variability in water level (<0.2 m), implying a stable and predictable biological community. This natural range is less than half the water level change that is currently considered for impact assessment in artesian springs in the Queensland section of the GAB, highlighting the need to incorporate updated information to inform future management of both recharge and discharge springs. In the case of Abercorn Springs, long-term monitoring and research have led to refinement of license conditions for groundwater extraction, thereby mitigating further impacts to the springs and demonstrating adaptive management.",
+            "slots": [
+              "groundwater",
+              "recharge",
+              "aquifer",
+              "discharge"
+            ],
+            "host": "Water"
+          },
+          {
+            "doi": "10.36334/modsim.2011.e8.costelloe",
+            "title": "Field estimates of groundwater discharge – Great Artesian Basin, South Australia",
+            "year": 2011,
+            "oa_id": "W2341817925",
+            "cited": 0,
+            "type": "conference-paper",
+            "abs_len": 1082,
+            "abstract": "Understanding the water balance of large groundwater systems is fundamental for the sustainable management of the resource.However, measuring many of the major components of the water balance pose considerable challenges and are thus estimated through modelling.A shortcoming of the modelling approach is that the water balance may have high bias and uncertainty due to insufficient information.The vertical leakage (i.e.discharge to upper aquifers or the unconfined water table) component of the Great Artesian Basin (GAB) is an example of a poorly constrained but large component of the water balance of Australia's largest groundwater resource.This paper reports on the use of field measurements and remote sensing to estimate the evaporative discharge along the southwestern margin of the GAB in South Australia, as this flux provides an upper bounds of vertical leakage along this part of the GAB margin.These discharge estimates are compared to published estimates of vertical leakage from modelled simulations by the Bureau of Rural Sciences (BRS) steady-state GABFLOW model.",
+            "slots": [
+              "groundwater",
+              "aquifer",
+              "discharge"
+            ],
+            "host": "International Congress on Modelling and Simulation (MODSIM)"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.58799/c-93",
+      "title": "Structure, stratigraphy, and hydrogeology of the northern Roswell Artesian basin, Chaves County, New Mexico",
+      "year": 1968,
+      "oa_id": "W4383461111",
+      "cited": 16,
+      "type": "book",
+      "abs_len": 3057,
+      "abstract": "Structural and stratigraphic controls of the quantity and quality of waters within the northernmost part of the Roswell artesian basin were studied using outcrops, cores, samples, and electric logs.Three structural zones are recognized: The Border Hill, Six Mile, and YO.A fourth near the town of Dexter is suggested, and a fifth in the vicinity of T. 1 4 S., R. 27 E. is considered because of the close dating of faulting (early Desmoines).Three structural blocks, Six Mile, Roswell, and Orchard Park, between the first four of these zones are delineated.The strata in the Orchard Park block are most uniform and compare generally to the complete section preserved in the subsurface east of the artesian basin.The Glorieta, lower and upper units of the San Andres, and most of the Artesia Group are present.The artesian aquifer is developed in the top one third of the San Andres (all in the upper unit) and in the overlying Grayburg.The Queen forms the aquitard between the artesian and shallow aquifers.The latter comprises part of the Seven Rivers Formation and the overlying Tertiary-Quaternary alluvium.Structural uplift and consequent deep, irregular erosion have stripped the Artesia Group and the upper unit of the San Andres from the Roswell block.Secondary porosity enlargement has been developed in the Slaughter zone of the lower San Andres and constitutes the principal porosity zone of the artesian aquifer.The Slaughter zone, a regionally porous and permeable unit, is the principal hydrocarbon-producing zone of the San Andres of the Northwest Shelf of southeast New Mexico and west Texas.Reduced head, because of regional over-appropriation, and reduced pressure, caused by locally intensive pumping on the Roswell block, relieve the retarding hydrostatic pressure on the saline waters in the regionally porous Slaughter zone and permit saline water encroachment into the Roswell block.The positioning of the Queen aquitard on the downthrown side of the YO structural zone probably inhibits the movement of saline water from the Roswell to the Orchard Park block.Erosion of the Roswell block has developed a collapse breccia and overlying terra rossalike residual clay, heretofore referred to the Artesia Group.This younger deposit forms the aquitard on the Roswell block.Physical differences of the Queen aquitard indicate that its leakage factor will be much higher than the Queen.The Six Mile block is a grabenlike tilted fault block.A more complete San Andres comprises part of this block than the Roswell block.Remnants of the Artesia, previously reported, are not present in part of the block.Considerations for control of saline encroachment include additional stratigraphic work to determine the areal extent of the base of the aquifer porosity and Slaughter porosity interface.Retardation might result from the employment of injection wells.Further investigations should include acquiring more electric logs, sample examination, continued study of the Glorieta, and adaptation of hydrologic methods to the geology.drologist; S. E.",
+      "slots": [
+        "aquifer",
+        "hydrogeolog"
+      ],
+      "host": null
+    }
+  },
+  "古埃及新王国": {
+    "claim": "新王国的帝国扩张与行政",
+    "records": [
+      {
+        "query": "New Kingdom Egypt empire administration",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.5743/cairo/9789774165313.001.0001",
+            "title": "Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite Renaissance",
+            "year": 2012,
+            "oa_id": "W4244075171",
+            "cited": 85,
+            "type": "book",
+            "abs_len": 1083,
+            "abstract": "During the half-millennium from the eleventh through the sixth centuries BC, the power and the glory of the imperial pharaohs of the New Kingdom crumbled in the face of internal crises and external pressures, ultimately reversed by invaders from Nubia and consolidated by natives of the Nile Delta following a series of Assyrian invasions. Much of this era remains obscure, with little consensus among Egyptologists. Against this background, the author reconsiders the evidence and proposes a number of new solutions to the problems of the period. He also considers the art, architecture, and archaeology of the period, including the royal tombs of Tanis, one of which yielded the intact burials of no fewer than five pharaohs. The book is extensively illustrated with images of this material, much of which is little known to non-specialists of the period. An examination (evidenced on monuments and inscriptions) of how the many kings of this period should be fitted into the dynastic structure listed by Manetho. By the author of the bestselling Amarna Sunset and Poisoned Legacy.",
+            "slots": [
+              "new kingdom",
+              "empire"
+            ],
+            "host": "The American University in Cairo Press eBooks"
+          },
+          {
+            "doi": "10.1093/acprof:oso/9780199354771.001.0001",
+            "title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+            "year": 2014,
+            "oa_id": "W215461327",
+            "cited": 24,
+            "type": "book",
+            "abs_len": 1656,
+            "abstract": "This book’s central thesis is simple: long-distance communication plays a key role in the cohesion and stability of early states and in turn, these states invest heavily in long-term communication strategies and networks. As reliable and fast long-distance communication facilitates the successful delegation of power from the center to the local administrations the creation and maintenance of the necessary infrastructure to support this is a key strategy of the central state, especially in the case of early empires where the need to control a geographically extensive region from a relatively small central unit (be that conceived as a locality or a group of people) presents a permanent challenge to state cohesion. Written by established experts whose research focuses on ancient state letters and the study of early empires, each chapter introduces and contextualizes the surviving state correspondences before analyzing the state’s communication strategies and information network. Five chapters deal with the dominant Iron Age empires of the Mediterranean and the Middle East: the Assyrian, Neo-Babylonian, Persian and Seleucid empires, and the Imperium Romanum. Two more chapters are devoted to New Kingdom Egypt and the Hittite state in its so-called imperial phase, the two major state systems of the Late Bronze Age. The resultant book covers the period from the 15th century BC to the 6th century AD. Rich illustrations allow the reader to appreciate the materiality of the state correspondence and support the many primary source quotes in making tangible the intersecting streams of information that connected and sustained ancient states.",
+            "slots": [
+              "new kingdom",
+              "empire",
+              "administrat",
+              "state"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "10.1002/9781118455074.wbeoe088",
+            "title": "Egypt: 1. Ancient (New Kingdom)",
+            "year": 2016,
+            "oa_id": "W2518402882",
+            "cited": 1,
+            "type": "reference-entry",
+            "abs_len": 954,
+            "abstract": "The empire period of New Kingdom Egypt encompasses a distinctly new phase in Egyptian history. Between about 1575 and 1100 bce (Dynasties XVIII–XX), the Egyptian state founded two separate zones of control (Figure 1). To the south in Nubia the territory was organized into zones (Wawat and Kush) whereas in western Asia Palestine, southern Syria and portions of coastal Lebanon became highly influenced by Egypt. The nature of the administration established in both regions differed considerably. In Nubia the land was directly regulated by a viceroy and his subordinates. In addition, the pharaohs established many temples. To the north, on the other hand, the local rulers of the numerous city‐states were left in power so long as they remained loyal to the Egyptian king. By and large, Nubia was extensively exploited economically whereas Egypt's Asiatic territories were run far less profitably, with the emphasis placed upon adherence to the empire.",
+            "slots": [
+              "new kingdom",
+              "empire",
+              "administrat",
+              "state"
+            ],
+            "host": "Wiley eBooks"
+          },
+          {
+            "doi": "10.5743/cairo/9789774165313.003.0001",
+            "title": "Introduction: Imperial Egypt",
+            "year": 2012,
+            "oa_id": "W2490210456",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 1307,
+            "abstract": "During the second half of the second millennium BC, Egypt had transformed from an entity primarily focused on the Nile valley to an imperial power. At her empire's height she exercised direct or indirect control over a vast swath of territory that stretched from northern Syria into the heart of Upper Nubia. This expansion seems to have been a direct reaction to the humiliation of the Second Intermediate Period, during which much of Egypt had been under the sway of the Palestinian Hyksos rulers,1Close while Nubia, long a tributary of Egypt, had become an independent and hostile state.2Close The wars of liberation conducted by the last rulers of the Theban Seventeenth Dynasty had at length driven out the Hyksos, with the mopping-up operations of the first Eighteenth Dynasty kings transformed by Thutmose I and III into a ‘forward policy’ that pushed up to, and beyond, the Euphrates. An empire was thus created in Syria-Palestine that would endure, apparently with little challenge, for over a century.3Close At the same time, Nubia was once again brought under Egyptian control, with a formal viceregal regime established at least as far south as the Fifth Cataract, which replaced the looser approach that seems to have been applied during previous periods of Egyptian control in the south.4Close",
+            "slots": [
+              "empire",
+              "state",
+              "expansion"
+            ],
+            "host": "The American University in Cairo Press eBooks"
+          }
+        ]
+      },
+      {
+        "query": "New Kingdom Egypt state expansion",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1093/acprof:oso/9780199354771.001.0001",
+            "title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+            "year": 2014,
+            "oa_id": "W215461327",
+            "cited": 24,
+            "type": "book",
+            "abs_len": 1656,
+            "abstract": "This book’s central thesis is simple: long-distance communication plays a key role in the cohesion and stability of early states and in turn, these states invest heavily in long-term communication strategies and networks. As reliable and fast long-distance communication facilitates the successful delegation of power from the center to the local administrations the creation and maintenance of the necessary infrastructure to support this is a key strategy of the central state, especially in the case of early empires where the need to control a geographically extensive region from a relatively small central unit (be that conceived as a locality or a group of people) presents a permanent challenge to state cohesion. Written by established experts whose research focuses on ancient state letters and the study of early empires, each chapter introduces and contextualizes the surviving state correspondences before analyzing the state’s communication strategies and information network. Five chapters deal with the dominant Iron Age empires of the Mediterranean and the Middle East: the Assyrian, Neo-Babylonian, Persian and Seleucid empires, and the Imperium Romanum. Two more chapters are devoted to New Kingdom Egypt and the Hittite state in its so-called imperial phase, the two major state systems of the Late Bronze Age. The resultant book covers the period from the 15th century BC to the 6th century AD. Rich illustrations allow the reader to appreciate the materiality of the state correspondence and support the many primary source quotes in making tangible the intersecting streams of information that connected and sustained ancient states.",
+            "slots": [
+              "new kingdom",
+              "empire",
+              "administrat",
+              "state"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "10.4324/9780203468821_chapter_6",
+            "title": "New Kingdom Egypt: The mature state",
+            "year": 2010,
+            "oa_id": "W2798429598",
+            "cited": 6,
+            "type": "book-chapter",
+            "abs_len": 785,
+            "abstract": "Completely revised and updated to reflect the latest developments in the field, this second edition of Barry J. Kemp's popular text presents a compelling reassessment of what gave ancient Egypt its distinctive and enduring characteristics. Ranging across Ancient Egyptian material culture, social and economic experiences, and the mindset of its people, the book also includes two new chapters exploring the last ten centuries of Ancient Egyptian civilization and who, in ethnic terms, the ancients were. Fully illustrated, the book draws on both ancient written materials and decades of excavation evidence, transforming our understanding of this remarkable civilization. Broad ranging yet impressively detailed, Kemp’s work is an indispensable text for all students of Ancient Egypt.",
+            "slots": [
+              "new kingdom",
+              "state"
+            ],
+            "host": "Taylor & Francis eBooks"
+          },
+          {
+            "doi": "10.4324/9781351166485-7",
+            "title": "New Kingdom Egypt: the mature state",
+            "year": 2018,
+            "oa_id": "W4239463265",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 1156,
+            "abstract": "The five centuries of the New Kingdom illustrate how, in comparison to earlier periods, Egypt developed a system of governance in which Pharaoh exercised power through institutions, primarily temples and the army, which were sufficiently well established to dilute his power. The chapter considers the greatly enlarged scale of urban temples and their central role in the life of the community, which included the provision of processional festivals centred on portable boat shrines as well as the large-scale ownership of land and other forms of wealth which, directly and indirectly, flowed into the community. Thebes had become the leading ceremonial centre (the temples of Karnak and Luxor, and the Valley of the Kings parts of its landscape), and its god Amun (sometimes called Amun-Ra) the mythical father of each king. For the first time, the lives of Egypt’s kings can be pictured in some detail, partly from texts and partly from the survival of palaces, including that of Amenhetep III at Malkata (also at Thebes). Through the imperial ambitions of the time a multicultural court culture developed, illustrated in part through the Amarna Letters.",
+            "slots": [
+              "new kingdom",
+              "state"
+            ],
+            "host": "Routledge eBooks"
+          },
+          {
+            "doi": "10.1093/acprof:oso/9780199982226.003.0001",
+            "title": "Intimations of an Earlier Age: History and Fiction in New Kingdom Egypt",
+            "year": 2013,
+            "oa_id": "W2502118782",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 757,
+            "abstract": "This chapter introduces the approaches to history during the New Kingdom, including a tour of Medinet Habu through the eyes of an ancient administrator, Amunmose. A survey of the intertextual universe of historical fiction includes a discussion of military literature, day-book texts, and other New Kingdom fictional tales. The definition of historical fiction as a genre is then presented, using the genre theories of Alastair Fowler and Mikhail Bakhtin; this discussion represents the first application of Bakhtin’s theory of the chronotope to ancient Egyptian literature. The physical media of the four works of historical fiction are examined—the hieratic papyri and their interesting use of different grammatical forms in the ancient Egyptian language.",
+            "slots": [
+              "new kingdom",
+              "administrat"
+            ],
+            "host": "Oxford University Press eBooks"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.5743/cairo/9789774165313.001.0001",
+      "title": "Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite Renaissance",
+      "year": 2012,
+      "oa_id": "W4244075171",
+      "cited": 85,
+      "type": "book",
+      "abs_len": 1083,
+      "abstract": "During the half-millennium from the eleventh through the sixth centuries BC, the power and the glory of the imperial pharaohs of the New Kingdom crumbled in the face of internal crises and external pressures, ultimately reversed by invaders from Nubia and consolidated by natives of the Nile Delta following a series of Assyrian invasions. Much of this era remains obscure, with little consensus among Egyptologists. Against this background, the author reconsiders the evidence and proposes a number of new solutions to the problems of the period. He also considers the art, architecture, and archaeology of the period, including the royal tombs of Tanis, one of which yielded the intact burials of no fewer than five pharaohs. The book is extensively illustrated with images of this material, much of which is little known to non-specialists of the period. An examination (evidenced on monuments and inscriptions) of how the many kings of this period should be fitted into the dynastic structure listed by Manetho. By the author of the bestselling Amarna Sunset and Poisoned Legacy.",
+      "slots": [
+        "new kingdom",
+        "empire"
+      ],
+      "host": "The American University in Cairo Press eBooks"
+    }
+  },
+  "意大利半岛": {
+    "claim": "意大利半岛的地质与地形",
+    "records": [
+      {
+        "query": "Italian peninsula geology tectonics",
+        "results": 18,
+        "passed": []
+      },
+      {
+        "query": "geology of Italy Apennines",
+        "results": 18,
+        "passed": []
+      }
+    ],
+    "best": null
+  },
+  "落基山脉": {
+    "claim": "落基山脉的地质与隆升",
+    "records": [
+      {
+        "query": "Rocky Mountains geology orogeny uplift",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1130/mem144-p1",
+            "title": "Laramide (Late Cretaceous-Early Tertiary) Orogeny in the Southern Rocky Mountains",
+            "year": 1975,
+            "oa_id": "W2339053595",
+            "cited": 223,
+            "type": "book-chapter",
+            "abs_len": 4434,
+            "abstract": "At the beginning of Laramide orogeny, a blanket of undisturbed Cretaceous and minor older Mesozoic sedimentary rocks 1,500 to 3,000 m thick covered the Southern Rocky Mountain province, and the last of a series of Cretaceous seas was starting to withdraw northeastward across the region. Beneath the blanket was an older and inhomogeneous terrane that in some places consisted of the eroded stumps of late Paleozoic mountain ranges made up of Precambrian rocks, and in other places of piles of sedimentary rocks thousands of meters thick on the sites of late Paleozoic basins. At the onset of Laramide orogeny in Late Cretaceous time, most of the buried mountain ranges were re-elevated, and adjoining Laramide basins, in part inherited from the late Paleozoic basins, began to subside and receive orogenic sediments. In addition, two anticlines of mountain-range proportions—the Sawatch and Uinta—rose from the sites of late Paleozoic basins. Orogeny began in the southwest part of the province before marine deposition ended in the northeast. The late Paleozoic San Luis highland of southwestern Colorado and northern New Mexico was re-elevated in late Campanian or middle Montana Cretaceous time, as indicated by orogenic sediments in the San Juan basin to the south and the Raton basin to the east. The Sawatch anticline, which diverges northward from the rejuvenated San Luis highland, rose at about the same time, as indicated by the age (72 to 70 m.y.) of fault-controlled porphyries on the flanks. The Front, Park-Sierra Madre, and Medicine Bow Ranges, on the site of the late Paleozoic Front Range highland, rose after the marine Fox Hills Sandstone was deposited over their sites 67.5 m.y. ago. Uplift and erosion were rapid. By 66 to 65 m.y., and before the close of Cretaceous time, 3,000 m of sedimentary rocks had been eroded from at least parts of these ranges, and streams were carrying detritus from Precambrian rocks to bordering basins. Once started, uplift of mountain units continued through Paleocene and into Eocene time, as indicated by nearly continuous Upper Cretaceous to Eocene sedimentary sequences in the interiors of bordering basins. Uplifts grew laterally as they rose vertically. Consequently, the major uplifts of today are areally larger than those that supplied the first orogenic sediments, and their border structures are younger than those sediments. The crystalline rock body of the interior of the Laramide San Luis highland supplied sediments to adjoining basins in Cretaceous time, but the sedimentary rock flank of the uplift at the site of the Sangre de Cristo Range was not uplifted and deformed until Paleocene and early Eocene time. Similarly, an interior part of the Front Range supplied Precambrian rock detritus to bordering basins very late in Cretaceous time, but the flank structures of the range, which involve the early orogenic sediments, developed in Paleocene and Eocene time. The Laramie Range prong of the northern Front Range probably did not begin to rise until Paleocene time. The White River Plateau, the last major Laramide uplift unit to appear in the province, began to rise in early Eocene time, but it did not attain its present outline and flank structure until late Eocene time. Laramide volcanism and intrusion were almost entirely confined to a broad northeast-trending belt that cuts diagonally across major tectonic units of the province. The Colorado mineral belt constitutes an inner zone of this igneous belt. Andesitic volcanism occurred at several localities within the igneous belt at an early stage in Larmide orogeny but after the first uplift of mountain units. Intrusion of granodioritic porphyries in stocks and smaller bodies began at about the same time as volcanism but continued longer, at least through Paleocene time. Though magmatism may have been the cause of some structural features within the igneous belt, the belt itself has no evident Laramide structural control and seems to be independent of the tectonic elements it crosses. The only unifying structural feature within the belt is a system of discontinuous and overlapping Precambrian shear zones. This system probably furthered the rise of magma bodies into the upper crust from batholiths at depth, but it had no role in the generation of those batholiths. Concurrent magmatism and tectonism must have shared the same cause, but they proceeded independently in the upper crust.",
+            "slots": [
+              "orogen",
+              "uplift",
+              "tecton"
+            ],
+            "host": "Geological Society of America eBooks"
+          },
+          {
+            "doi": "10.2113/34.1.37",
+            "title": "The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains",
+            "year": 1999,
+            "oa_id": "W2087734990",
+            "cited": 116,
+            "type": "article",
+            "abs_len": 1817,
+            "abstract": "A major geologic boundary has been proposed in the Southern Rocky Mountains separating Proterozoic crustal provinces with different ages and tectonic histories. These provinces probably correlate with the Yavapai (1.8–1.7 Ga) and Mazatzal (1.7–1.6 Ga) provinces of Arizona. Geologic, geochemical, geochronologic, and xenolith data suggest that the boundary lies within a ∼300 km-wide zone that trends northeastward through southern Colorado and northern New Mexico. This zone also seems to have focused later tectonic and thermal effects. However, no major shear zone that might represent a discrete tectonic suture has been identified in the area, and there is no agreement on precisely where the boundary is or what tectonic significance it may have. We present a review of evidence supporting extrapolation of the Yavapai-Mazatzal boundary through the Southern Rocky Mountains. Limitations in the precision, quantity, and interpretation of available data probably contribute to disagreement over the location of the boundary. However, the disparity in boundaries defined by different data sets may partly reflect a complex or gradational transition between crustal domains. We propose a speculative model for the boundary based on a preliminary structural analysis. Tectonic fabrics appear to be consistent with the initial juxtaposition of arc terranes of the Yavapai and Mazatzal provinces on a low-angle thrust system with later modification and steepening of the boundary during continued crustal shortening. This model explains the diffuse isotopic boundary as a manifestation of a vertically heterogeneous crustal column that might promote isotopic mixing. The cryptic structural expression of the suture may result from a layer-parallel style of suturing and complex post-accretionary tectonic overprinting.",
+            "slots": [
+              "geolog",
+              "tecton"
+            ],
+            "host": "Rocky Mountain geology"
+          },
+          {
+            "doi": "10.2113/40.2.167",
+            "title": "Geometry, timing, and continuity of the Rock Springs uplift, Wyoming, and Douglas Creek arch, Colorado: Implications for uplift mechanisms in the Rocky Mountain foreland, U.S.A.",
+            "year": 2005,
+            "oa_id": "W2409842305",
+            "cited": 48,
+            "type": "article",
+            "abs_len": 1927,
+            "abstract": "The Rock Springs uplift of Wyoming and the Douglas Creek arch of Colorado are intrabasinal, Laramide-age basement uplifts within the Rocky Mountain foreland, and are currently separated by the east–west-trending Uinta Mountains. The geometry, timing, and progressive development of these uplifts were investigated using a combined geophysical and geological approach. New gravity surveys were combined with existing regional data to provide a regional Bouguer gravity anomaly map of these two uplifts and the intervening Uinta uplift. The gravity data show a distinct and continuous north–south-striking gravity high along the trend of the two uplifts that crosses the east–west-trending Uinta uplift. The relatively constant amplitude (∼40 mGal) of the gravity anomaly indicates that the inferred basement relief is similar for both arches (∼4 km). Sedimentation patterns indicate that the Rock Springs uplift and Douglas Creek arch formed simultaneously in the Late Cretaceous. The intrabasinal setting of the uplifts records aspects of foreland deformation that are overprinted or obscured in better-developed uplifts. On the local scale, neither the Rock Springs or Douglas Creek uplift apparently reactivates a pre-existing structure. On a regional scale, there is no change in structural style or timing of the two uplifts, despite their formation in different crustal provinces. The Rock Springs uplift occurs within the Archean Wyoming province north of the Cheyenne belt, whereas the Douglas Creek arch occurs in Proterozoic crust south of this boundary. Timing relations, available from the basinal stratigraphy, indicate the uplifts were initiated as broad arches in the Late Cretaceous before developing into more concentrated uplifts. Thus, large-scale folding, and not reactivation of pre-existing structures, may be the primary control on the initial pattern of north- to northwest-trending foreland deformation.",
+            "slots": [
+              "geolog",
+              "uplift"
+            ],
+            "host": "Rocky Mountain geology"
+          },
+          {
+            "doi": "10.2113/34.1.1",
+            "title": "Introduction to special issues, Part II: Nature of tectonic boundaries in lithosphere of the Rocky Mountains",
+            "year": 1999,
+            "oa_id": "W2340304559",
+            "cited": 21,
+            "type": "article",
+            "abs_len": 2017,
+            "abstract": "This is the second of two issues of Rocky Mountain Geology that addresses the structure and evolution of continental lithosphere in a transect through the Rocky Mountains from Wyoming to New Mexico. Contributions are mainly from participants in the CDROM (Continental Dynamics – Rocky Mountain) project, recently funded by the Continental Dynamics Program of the National Science Foundation (Karlstrom, 1998). The overall theme for papers in both issues involves the present geometry and long-term evolution of tectonic boundaries within the 1000 km-wide Paleoproterozoic crust of the southwestern United States (Fig. 1). In this region, as in many other orogens, a first-order geodynamic problem is to understand where ancient accretionary structures are located and how they become reactivated in subsequent tectonic events. We would like to know which components of present lithospheric structure were “inherited” from the time of lithosphere formation. The first issue ( RMG , v. 33, no. 2, 1998) contains papers that discuss the concept of inheritance, the present geophysical structure of the region, and the Archean-Proterozoic boundary (Cheyenne belt) in Wyoming. The Cheyenne belt is one of the most profound lithospheric structural boundaries exposed anywhere and is well documented at crustal and mantle levels (Fig. 1). Figure 1. \nLocation of Precambrian province boundaries in the Southwest and present mantle structure (from Fig. 2). Black represents Cenozoic volcanism along the Jemez and St. George lineaments; line pattern designates the Rio Grande rift. Numbers show locations of study areas in this issue: (1) Park Range (Foster et al.; Barinek et al.); (2) Yavapai–Mazatzal boundary of southern Colorado (Shaw and Karlstrom); (3) Tusas Mountains (Williams et al.); (4) Rincon Range (Read et al.); (5) Manzano Mountains (Marcoline et al.); (6) southwestern New Mexico (Change et al.); line pattern is the Rio Grande rift (Keller and Baldridge). Reflection experiments across the Cheyenne belt and …",
+            "slots": [
+              "geolog",
+              "orogen",
+              "tecton"
+            ],
+            "host": "Rocky Mountain geology"
+          }
+        ]
+      },
+      {
+        "query": "Rocky Mountain orogenic belt",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1130/mem171-p171",
+            "title": "Influence of Rocky Mountain foreland uplifts on the development of the frontal fold and thrust belt, southwestern Montana",
+            "year": 1988,
+            "oa_id": "W2339050561",
+            "cited": 61,
+            "type": "book-chapter",
+            "abs_len": 2793,
+            "abstract": "A distinct structural style is present in southwestern Montana where the Cordilleran frontal fold and thrust belt encountered basement surface irregularities in the adjacent cratonic foreland. This structural style is characterized by footwall thrust ramps that have a close spatial and genetic relationship to the basement surface irregularities. These basement irregularities are normal fault blocks, of Proterozoic ancestry, oriented parallel to the direction of tectonic transport on the décollement, and southwest-facing fault blocks, bounded by steeply northeast-dipping reverse faults, oriented obliquely to the direction of tectonic transport, that acted as buttresses to thrust propagation. A major east-trending Late Cretaceous and Paleocene structural boundary is the southwest Montana transverse zone that separates a terrane composed of “thin-skinned” thrusts in the Middle Proterozoic and younger rocks on the north in the Helena salient from basement-involved “thick-skinned” thrusts and reverse faults of the Rocky Mountain foreland on the south. This first-order structural boundary is interpreted to be superimposed on a down-to-the-north normal fault zone that marked the southern margin of the Proterozoic Belt basin. West-to-east shortening in the salient was manifested in right-reverse slip movements on the faults of the transverse zone. The principal fault of the zone is interpreted as a major oblique-to-lateral ramp formed over one or more normal-fault steps. Second-order features, produced when thrust sheets impinged upon abrupt basement surface irregularities, include strongly anastomosing patterns of thrusts, younger-over-older thrust relations, and the localization of small, convex-eastward thrust salients. These features are directly controlled by Late Cretaceous, northwest-trending, left-reverse slip faults of Middle Proterozoic ancestry. Basement-cored anticlines on the hanging-wall sides of these faults deflected frontal thrust sheets into zones of oblique ramps that locally place younger rocks over older rocks. The convex-eastward shape of the McCartney Mountain salient is probably the result of local changes of the direction of west-southwest-east-northeast principal shortening adjacent to two northwest-trending en-echelon foreland blocks along the northeastern side of the salient. The principal sets of foreland structures and thrust belt structures along the front of the thrust belt in southwestern Montana overlap closely in time. Both structures are interpreted to have been produced by the same, dominantly eastward- or east-north-eastward-directed forces during Late Cretaceous and early Paleocene time. Structures in the foreland probably continue for some distance into and beneath the thin-skinned structures of the thrust belt.",
+            "slots": [
+              "uplift",
+              "tecton"
+            ],
+            "host": "Geological Society of America eBooks"
+          },
+          {
+            "doi": "10.1130/mem171-p75",
+            "title": "Region of overlap and styles of interaction of Cordilleran thrust belt and Rocky Mountain foreland",
+            "year": 1988,
+            "oa_id": "W2341404718",
+            "cited": 60,
+            "type": "book-chapter",
+            "abs_len": 2576,
+            "abstract": "The Cordilleran thrust belt and Rocky Mountain foreland overlap in a zone 120 to 160 km wide, extending at least from the central Montana salient to the northern edge of the Colorado Plateau, along the area of transition from the North American craton to the Cordilleran miogeocline. Current literature describes the Cordilleran thrust belt and Rocky Mountain foreland structural provinces as a paired belt with two distinct styles of deformation. Eastward-directed, décollement-soled thrusts are described as typical of the thrust belt, whereas fault-bounded, basement-cored uplifts with various trends and intervening deep basins have been identified with the Rocky Mountain foreland. The overlap zone is characterized by the overlap in space and in time of structures of the thrust belt and foreland provinces, by the interaction between thrust belt and foreland structures, and by superposed deformation at two crustal levels. Timing of thrust sheet movement and foreland uplift employs chiefly paleontologic, and especially palynologic, dating of associated synorogenic deposits, stratigraphic bracketing based on paleontology, and radiometric dating of syntectonic igneous rocks. The results of numerous studies of this kind in the overlap province define an overlap between late Campanian (Late Cretaceous) and early Eocene time, a span of approximately 25 m.y. Interaction of structures of the Rocky Mountain foreland and those of the Cordilleran thrust belt has been described from many local areas within the overlap province. The styles of interaction include ramping of thrust faults over fault-bounded foreland uplifts and folding of thrust sheets by postthrust foreland uplift. The position of the overlap zone is controlled in part by the presence of the transitional margin between the Proterozoic cratonic shelf and the Cordilleran miogeocline. Thrusting in the miogeoclinal wedge is assumed to have been initiated at a zone of brittle-ductile transition and to have been controlled principally by the layering in the sedimentary section. We believe detachment in the region from the hingeline eastward occurred at two crustal levels: the upper one controlled by mechanical decoupling in the sedimentary overburden, and the lower one controlled by the zone of transition from brittle to ductile behavior in the basement. Deformation in the foreland also may have been controlled by compressional reactivation of zones of crustal weakness inherited from earlier orogenic events, particularly Middle and Late Proterozoic normal faults along the cratonic margin.",
+            "slots": [
+              "orogen",
+              "uplift",
+              "tecton"
+            ],
+            "host": "Geological Society of America eBooks"
+          },
+          {
+            "doi": "10.1144/gsl.sp.1969.003.01.03",
+            "title": "Some principles governing interpretation of structure in the Rocky Mountain orogenic belt",
+            "year": 1969,
+            "oa_id": "W2140721125",
+            "cited": 16,
+            "type": "article",
+            "abs_len": 472,
+            "abstract": "Summary Any interpretation of the structure of an orogenic belt must be based upon detailed geological maps of the belt or large areas of it, together with sufficient stratigraphical data for sections to be constructed projecting the structure observable at the surface to depth. In making such structural interpretations a number of principles and ‘rules’ should be observed; some of these are outlined and their application illustrated with selected structural sections.",
+            "slots": [
+              "geolog",
+              "orogen"
+            ],
+            "host": "Geological Society London Special Publications"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.1130/mem144-p1",
+      "title": "Laramide (Late Cretaceous-Early Tertiary) Orogeny in the Southern Rocky Mountains",
+      "year": 1975,
+      "oa_id": "W2339053595",
+      "cited": 223,
+      "type": "book-chapter",
+      "abs_len": 4434,
+      "abstract": "At the beginning of Laramide orogeny, a blanket of undisturbed Cretaceous and minor older Mesozoic sedimentary rocks 1,500 to 3,000 m thick covered the Southern Rocky Mountain province, and the last of a series of Cretaceous seas was starting to withdraw northeastward across the region. Beneath the blanket was an older and inhomogeneous terrane that in some places consisted of the eroded stumps of late Paleozoic mountain ranges made up of Precambrian rocks, and in other places of piles of sedimentary rocks thousands of meters thick on the sites of late Paleozoic basins. At the onset of Laramide orogeny in Late Cretaceous time, most of the buried mountain ranges were re-elevated, and adjoining Laramide basins, in part inherited from the late Paleozoic basins, began to subside and receive orogenic sediments. In addition, two anticlines of mountain-range proportions—the Sawatch and Uinta—rose from the sites of late Paleozoic basins. Orogeny began in the southwest part of the province before marine deposition ended in the northeast. The late Paleozoic San Luis highland of southwestern Colorado and northern New Mexico was re-elevated in late Campanian or middle Montana Cretaceous time, as indicated by orogenic sediments in the San Juan basin to the south and the Raton basin to the east. The Sawatch anticline, which diverges northward from the rejuvenated San Luis highland, rose at about the same time, as indicated by the age (72 to 70 m.y.) of fault-controlled porphyries on the flanks. The Front, Park-Sierra Madre, and Medicine Bow Ranges, on the site of the late Paleozoic Front Range highland, rose after the marine Fox Hills Sandstone was deposited over their sites 67.5 m.y. ago. Uplift and erosion were rapid. By 66 to 65 m.y., and before the close of Cretaceous time, 3,000 m of sedimentary rocks had been eroded from at least parts of these ranges, and streams were carrying detritus from Precambrian rocks to bordering basins. Once started, uplift of mountain units continued through Paleocene and into Eocene time, as indicated by nearly continuous Upper Cretaceous to Eocene sedimentary sequences in the interiors of bordering basins. Uplifts grew laterally as they rose vertically. Consequently, the major uplifts of today are areally larger than those that supplied the first orogenic sediments, and their border structures are younger than those sediments. The crystalline rock body of the interior of the Laramide San Luis highland supplied sediments to adjoining basins in Cretaceous time, but the sedimentary rock flank of the uplift at the site of the Sangre de Cristo Range was not uplifted and deformed until Paleocene and early Eocene time. Similarly, an interior part of the Front Range supplied Precambrian rock detritus to bordering basins very late in Cretaceous time, but the flank structures of the range, which involve the early orogenic sediments, developed in Paleocene and Eocene time. The Laramie Range prong of the northern Front Range probably did not begin to rise until Paleocene time. The White River Plateau, the last major Laramide uplift unit to appear in the province, began to rise in early Eocene time, but it did not attain its present outline and flank structure until late Eocene time. Laramide volcanism and intrusion were almost entirely confined to a broad northeast-trending belt that cuts diagonally across major tectonic units of the province. The Colorado mineral belt constitutes an inner zone of this igneous belt. Andesitic volcanism occurred at several localities within the igneous belt at an early stage in Larmide orogeny but after the first uplift of mountain units. Intrusion of granodioritic porphyries in stocks and smaller bodies began at about the same time as volcanism but continued longer, at least through Paleocene time. Though magmatism may have been the cause of some structural features within the igneous belt, the belt itself has no evident Laramide structural control and seems to be independent of the tectonic elements it crosses. The only unifying structural feature within the belt is a system of discontinuous and overlapping Precambrian shear zones. This system probably furthered the rise of magma bodies into the upper crust from batholiths at depth, but it had no role in the generation of those batholiths. Concurrent magmatism and tectonism must have shared the same cause, but they proceeded independently in the upper crust.",
+      "slots": [
+        "orogen",
+        "uplift",
+        "tecton"
+      ],
+      "host": "Geological Society of America eBooks"
+    }
+  }
+}

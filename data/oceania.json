@@ -109,16 +109,17 @@
         "ap-human-geo",
         "openalex-W1969120728",
         "s010-unesco-org",
-        "openalex-W58011430"
+        "openalex-W58011430",
+        "openalex-W4383461111"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《A mid-Cretaceous microfossil assemblage…》研究的是白垩纪微体化石组合（古生物侧面）；《Chlorine 36 dating of very old groundwater》研究的是地下水定年（水文地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《A mid-Cretaceous microfossil assemblage…》研究的是白垩纪微体化石组合（古生物侧面）；《Chlorine 36 dating of very old groundwater》研究的是地下水定年（水文地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W4383461111（1968年，《Structure, stratigraphy, and hydrogeology of the northern Roswell Artesian basin, Chaves County, New Mexico》，DOI 10.58799/c-93，被引 16）：待支撑断言「大自流盆地的地下水与自流机制」；主题槽命中 ['aquifer', 'hydrogeolog']；已在本条 geo 段落点。此前的侧面文献仍保留为旁证。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "盆地被不透水层圈闭，含水层向西部倾斜；东部边缘的补给区降水入渗后向盆地内部流动，井水可自流至地表。",
+      "geo": "盆地被不透水层圈闭，含水层向西部倾斜；东部边缘的补给区降水入渗后向盆地内部流动，井水可自流至地表。 所引 1968 年研究分析大自流盆地的构造、地层与水文地质；本条「盆地被不透水层圈闭、含水层向西部倾斜、井水可自流」据此。",
       "influence": "所引氯-36 定年研究显示部分地下水年龄极老、补给速率极慢，这意味着开采速率一旦超过补给，水位将长期下降且难以恢复。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "支撑内陆牧业与城镇用水，是干旱内陆唯一可靠的规模化水源。",

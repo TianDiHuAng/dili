@@ -1,0 +1,522 @@
+{
+  "印加帝国": {
+    "claim": "印加帝国的疆域、道路与行政",
+    "records": [
+      {
+        "query": "Inca empire road system administration",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1179/naw.2010.30.2.189",
+            "title": "Road to empire: documenting an Inca road in northern Ecuador",
+            "year": 2010,
+            "oa_id": "W2052365700",
+            "cited": 8,
+            "type": "article",
+            "abs_len": 507,
+            "abstract": "The Inca faced fierce resistance from the Cayambes in the highlands of northern Ecuador, finally conquering the area shortly before the arrival of the Spanish. Despite their short occupation of the region, the Inca constructed a road eastward from the Pambamarca fortress complex through several ecological zones, complete with stone paving, steps, and canals. This paper is an analysis of the road's spatial configuration, preservation, construction, and engineering in different ecological zones. Los Inca",
+            "slots": [
+              "empire",
+              "road"
+            ],
+            "host": "Ñawpa Pacha"
+          },
+          {
+            "doi": "10.22215/etd/2023-15399",
+            "title": "The Role of Terraces in the Inca Empire",
+            "year": 2023,
+            "oa_id": "W4362575919",
+            "cited": 2,
+            "type": "dissertation",
+            "abs_len": 1042,
+            "abstract": "This thesis assesses the theoretical and empirical evidence that would support the proposition that terraces played a number of important roles in the Inca empire. The Incas borrowed and developed much more extensively, practices and statecraft from earlier Andean civilizations. Although the Incas relied on their predecessors, they also advanced their own distinctive statecraft which tied together ideology and practical means to grow and manage the empire. Terrace use and construction by the Incas were both more sophisticated and served several purposes beyond those in earlier civilizations. This paper finds little evidence that Wittfogel's hydraulic society theory was applicable to the Inca empire but is more persuaded that Andean spirituality, ideology and terrace use had natural links to aspects of Actor Network Theory. Important roles terraces played in the Inca empire included: economic, political, scientific, architectural, support to the military and state administration, aesthetic/ornamental, ecological, and spiritual.",
+            "slots": [
+              "empire",
+              "administrat",
+              "state"
+            ],
+            "host": "Carleton University's Institutional Repository (MacOdrum Library, Carleton University)"
+          },
+          {
+            "doi": "10.1002/9781118455074.wbeoe090",
+            "title": "Inca (Tawantinsuyu) Empire",
+            "year": 2016,
+            "oa_id": "W2784117294",
+            "cited": 0,
+            "type": "reference-entry",
+            "abs_len": 772,
+            "abstract": "Tawantinsuyu, the land of the four quarters, was the last and largest empire to arise in South America before the European conquest. The Inca, the founding ethnic group, created and managed a complex and ingenious social system and landscape infrastructure in the mountainous Andean realm. Incorporating the institutions of earlier Andean states, the Inca built an empire whose expansion was unparalleled in Andean history. Their strategies of incorporation and maintenance of imperial power were distinctive in many respects in world political history and challenge models of political and economic organization based solely on Western civilization. Tawantinsuyu's development was cut short by the European conquest less than 150 years after its imperial expansion began.",
+            "slots": [
+              "empire",
+              "state"
+            ],
+            "host": "Wiley eBooks"
+          }
+        ],
+        "rejected": [
+          {
+            "doi": "10.1061/ciegag.0001065",
+            "title": "highways to empire: the inca road system",
+            "why": "摘要155字符<400"
+          },
+          {
+            "doi": "10.5040/9798400637124.ch-006",
+            "title": "daily life in the inca empire: two recon",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1061/9780784408513.ch06",
+            "title": "tipon's canal system",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.7560/330685-010",
+            "title": "chapter 8 inca ceramics around the empir",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.7560/730083-004",
+            "title": "the inca empire: tribes and provinces",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1061/9780784408513.ch01",
+            "title": "tipon: estate for inca nobility",
+            "why": "摘要0字符<400"
+          }
+        ]
+      },
+      {
+        "query": "Inca state expansion territory Cusco",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.7560/708655",
+            "title": "The Sacred Landscape of the Inca: The Cusco Ceque System",
+            "year": 1998,
+            "oa_id": "W4243431792",
+            "cited": 230,
+            "type": "book",
+            "abs_len": 1065,
+            "abstract": "The ceque system of Cusco, the ancient capital of the Inca empire, was perhaps the most complex indigenous ritual system in the pre-Columbian Americas. From a center known as the Coricancha (Golden Enclosure) or the Temple of the Sun, a system of 328 huacas (shrines) arranged along 42 ceques (lines) radiated out toward the mountains surrounding the city. This elaborate network, maintained by ayllus (kin groups) that made offerings to the shrines in their area, organized the city both temporally and spiritually. From 1990 to 1995, Brian Bauer directed a major project to document the ceque system of Cusco. In this book, he synthesizes extensive archaeological survey work with archival research into the Inca social groups of the Cusco region, their land holdings, and the positions of the shrines to offer a comprehensive, empirical description of the ceque system. Moving well beyond previous interpretations, Bauer constructs a convincing model of the system's physical form and its relation to the social, political, and territorial organization of Cusco.",
+            "slots": [
+              "empire",
+              "territor"
+            ],
+            "host": "University of Texas Press eBooks"
+          },
+          {
+            "doi": "10.1093/oxfordhb/9780190219352.013.36",
+            "title": "Chinchaysuyu and the Northern Inca Territory",
+            "year": 2018,
+            "oa_id": "W2795374950",
+            "cited": 1,
+            "type": "book",
+            "abs_len": 933,
+            "abstract": "Based on available archaeological and ethnohistorical data, this chapter examines the nature of Inca presence in the norther portion of the empire. Located in present-day Ecuador, this region had a singular importance in the last phases of Inca imperial expansion. This contribution provides an overview of the Inca occupation and the different forms of integration that the populations dwelling in the sierra, coast, and tropical oriente experienced. The discussion also highlights the importance of the Inca centers of Tomebamba and Quito in the imperial politics, and the system of defensive fortifications along the imperial frontiers. It also discusses the complex relations that the Inca established with competing polities like the Caranqui and Cañari among many others. Altogether, this illustrates the complexity of the complexity of the Inca conquest in the Northern region, and the remaining work to be done in the future.",
+            "slots": [
+              "empire",
+              "territor"
+            ],
+            "host": "Oxford University Press eBooks"
+          }
+        ],
+        "rejected": [
+          {
+            "doi": "10.30861/9780860548294",
+            "title": "limatambo: archaeology, history and the ",
+            "why": "主题槽仅['state']"
+          },
+          {
+            "doi": "10.7560/708655-011",
+            "title": "9 albornoz and the cusco ceque system",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.7560/708655-013",
+            "title": "11 an overview of the cusco ceque system",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.7560/708655-006",
+            "title": "4 the social organization of cusco and i",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.7560/708655-017",
+            "title": "notes",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.7560/708655-toc",
+            "title": "contents",
+            "why": "摘要0字符<400"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.7560/708655",
+      "title": "The Sacred Landscape of the Inca: The Cusco Ceque System",
+      "year": 1998,
+      "oa_id": "W4243431792",
+      "cited": 230,
+      "type": "book",
+      "abs_len": 1065,
+      "abstract": "The ceque system of Cusco, the ancient capital of the Inca empire, was perhaps the most complex indigenous ritual system in the pre-Columbian Americas. From a center known as the Coricancha (Golden Enclosure) or the Temple of the Sun, a system of 328 huacas (shrines) arranged along 42 ceques (lines) radiated out toward the mountains surrounding the city. This elaborate network, maintained by ayllus (kin groups) that made offerings to the shrines in their area, organized the city both temporally and spiritually. From 1990 to 1995, Brian Bauer directed a major project to document the ceque system of Cusco. In this book, he synthesizes extensive archaeological survey work with archival research into the Inca social groups of the Cusco region, their land holdings, and the positions of the shrines to offer a comprehensive, empirical description of the ceque system. Moving well beyond previous interpretations, Bauer constructs a convincing model of the system's physical form and its relation to the social, political, and territorial organization of Cusco.",
+      "slots": [
+        "empire",
+        "territor"
+      ],
+      "host": "University of Texas Press eBooks"
+    }
+  },
+  "文艺复兴意大利": {
+    "claim": "城邦竞争、商业财富与艺术赞助",
+    "records": [
+      {
+        "query": "Italian Renaissance city-state economy",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1017/cbo9780511845697.016",
+            "title": "The collapse of city-states and the role of urban centres in the new political geography of Renaissance Italy",
+            "year": 2012,
+            "oa_id": "W2487072270",
+            "cited": 8,
+            "type": "book-chapter",
+            "abs_len": 660,
+            "abstract": "Il saggio descrive le cause e le modalità della crisi degli stati cittadini italiani tra XIV e XV secolo ed analizza la condizione delle città italiane (e dei relativi ceti dirigenti) nel quadro degli Stati regionali formatisi nel suddetto periodo. Si discute inoltre la situazione delle città del Regno di Napoli e del Regno di Sicilia, sottolineando come la condizione dei centri urbani nell'ambito di questi più antichi stati ad ordinamento monarchico si venne in realtà avvicinando a quella delle città centro-settentrionali, riducendo in questo modo la storica distanza tra la cosiddetta \"Italia delle città\" e l'area dell'antico \"Regnum Siciliae\".",
+            "slots": [
+              "city",
+              "state",
+              "urban"
+            ],
+            "host": "Cambridge University Press eBooks"
+          }
+        ],
+        "rejected": [
+          {
+            "doi": "10.2307/j.ctv24rgbqh.21",
+            "title": "chapter 16 city-state liberty versus uni",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.5040/9781978733619.ch-2",
+            "title": "the city of the italian renaissance and ",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.2307/2901972",
+            "title": ": the italian city state: from commune t",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1515/9781400847679-019",
+            "title": "chapter 16 city-state liberty versus uni",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.2307/1262262",
+            "title": ": venice reconsidered: the history and c",
+            "why": "摘要262字符<400"
+          },
+          {
+            "doi": "10.1017/cbo9780511845697.025",
+            "title": "renaissance diplomacy",
+            "why": "摘要0字符<400"
+          }
+        ]
+      },
+      {
+        "query": "Renaissance Italy urban economy patronage",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.4324/9780367347093-rerw229-1",
+            "title": "Circular Economy in Renaissance Italy",
+            "year": 2025,
+            "oa_id": "W4409443749",
+            "cited": 1,
+            "type": "reference-entry",
+            "abs_len": 2300,
+            "abstract": "A circular economy aims to redefine the traditional “linear” cycle of consumption – from extraction of resources to production, consumption and waste – into a “circular” one, by working waste out of the system. In Renaissance Italy, alongside a linear economy – where items were manufactured from raw materials, then sold, used and discarded at the end of their “life” – there was another economy, where cast-offs, waste, and residues of some industries, were re-employed more than once, thus making for an alternative way of producing and consuming. Instead of being thrown away and replaced by new ones, old things were repaired and recovered, and the waste of valuable goods reused and recycled in different production sectors until they were completely worn out. While “recycle” means turning an object into a raw material that can be reused, usually for a completely different purpose or product from the one originally intended, “reuse” refers to the re-employment of the same object as it was originally conceived, without any transformation or treatment that would profoundly alter its initial function. Practices of reuse and recycle were adopted to respond first of all to episodic phases of crisis in the supply and production chains, but sometimes to cope with shortages of a structural nature, given the general scarcity of raw materials, their high price, and the considerable cost of transport, which also included tolls and duties. Also a frequent occurrence was the recovery of various components from production surpluses, the so-called deadstock such as scraps of fabric and shavings of leather. Similarly, ashes and animals’ dung, as well the contents of sewers and cesspools, were employed as fertilizers; broken terracotta artefacts were adjusted to produce “new” houseware; and metal objects were reconverted into other models from the original ones, re-adapted according to people’s need. Cast-offs objects were produced, bought, and exchanged, but also altered, modified, bequeathed, inherited, given away, and taken back as payments for other goods or services, used as gifts, passed down from hand to hand or throughout generations, and ultimately pawned, to the point that one can say that “circularity of consumption” was also an intrinsic feature of Renaissance society.",
+            "slots": [
+              "city",
+              "econom"
+            ],
+            "host": null
+          }
+        ],
+        "rejected": [
+          {
+            "doi": "10.4324/9781003271901-4",
+            "title": "public patronage and urban development",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.4324/9781315090030-1",
+            "title": "introduction: the virtues of the medium:",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.2307/2862812",
+            "title": ": patronage, art and society in renaissa",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.4324/9780367347093-rerw229-0",
+            "title": "circular economy in renaissance italy",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1515/9780271091105-fm",
+            "title": "frontmatter",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1515/9780271091105-015",
+            "title": "contributors",
+            "why": "摘要0字符<400"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.1017/cbo9780511845697.016",
+      "title": "The collapse of city-states and the role of urban centres in the new political geography of Renaissance Italy",
+      "year": 2012,
+      "oa_id": "W2487072270",
+      "cited": 8,
+      "type": "book-chapter",
+      "abs_len": 660,
+      "abstract": "Il saggio descrive le cause e le modalità della crisi degli stati cittadini italiani tra XIV e XV secolo ed analizza la condizione delle città italiane (e dei relativi ceti dirigenti) nel quadro degli Stati regionali formatisi nel suddetto periodo. Si discute inoltre la situazione delle città del Regno di Napoli e del Regno di Sicilia, sottolineando come la condizione dei centri urbani nell'ambito di questi più antichi stati ad ordinamento monarchico si venne in realtà avvicinando a quella delle città centro-settentrionali, riducendo in questo modo la storica distanza tra la cosiddetta \"Italia delle città\" e l'area dell'antico \"Regnum Siciliae\".",
+      "slots": [
+        "city",
+        "state",
+        "urban"
+      ],
+      "host": "Cambridge University Press eBooks"
+    }
+  },
+  "亚马逊盆地": {
+    "claim": "亚马逊盆地的地貌、水文与生态",
+    "records": [
+      {
+        "query": "Amazon basin geomorphology hydrology",
+        "results": 20,
+        "passed": [],
+        "rejected": [
+          {
+            "doi": "10.1016/j.geomorph.2021.108078",
+            "title": "geomorphological diversity of rivers in ",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1017/9781316831885.004",
+            "title": "climate and hydrology",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1016/j.geomorph.2014.05.011",
+            "title": "characterization of confluences in free ",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.5194/egusphere-2023-2271",
+            "title": "Riverine Sediment Response to Deforestat",
+            "why": "type=posted-content"
+          },
+          {
+            "doi": "10.2737/rmrs-gtr-258",
+            "title": "geomorphology, hydrology, and ecology of",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.1016/j.geomorph.2008.11.017",
+            "title": "late quaternary paleohydrology of the ma",
+            "why": "摘要0字符<400"
+          }
+        ]
+      },
+      {
+        "query": "Amazon basin landscape evolution",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1093/oso/9780195114317.003.0011",
+            "title": "Extractive Reserves and Participatory Research as Factors in the Biogeochemistry of the Amazon Basin",
+            "year": 2001,
+            "oa_id": "W3101213176",
+            "cited": 3,
+            "type": "book-chapter",
+            "abs_len": 2415,
+            "abstract": "The word Amazonia conjures up diverse images, ranging from an exotic jungle to resources for development to a vast web of ecosystems that interact with global element cycles-the focus of this book. This chapter examines the biogeochemical role of extractive reserves, a relatively new land use type within Amazonia in which nontimber forest extraction is the defining human activity. The chapter also provides examples of how participatory research with local communities can enhance the quality of the results and improve their transmission to society. Humans have been a part of the Amazon for the past several thousand years. Amerindian activities have affected forest structure in significant manners by selective planting and clearing (Balée 1989) and by increasing fire frequency, particularly during mega-El Niño events (Meggers 1994). During the last few centuries, neo-Europeans have tragically reduced native indigenous populations by several million and made wide-scale transformations in the tropics of the Americas (Crosby 1993, Ribeiro 1996). The booms in rubber extraction in the late 1800s and during World War II brought waves of nonindigenous migrants to Brazilian Amazonia (Dean 1989). More recently, large-scale implantation of cattle ranching and colonization projects, and to a lesser degree, mining activity, have accelerated change in Amazonian landscapes (Schmink and Wood 1992). In addition, the ensuing road network and infrastructure left in the wake of these recent activities increased access to primary forest, precipitating further deforestation. By 1996, about 52 million hectares, nearly the size of France, had been deforested in Brazilian Amazonia (INPE 1998). At the average rate of deforestation from 1992 to 1996 (1.9 million hectares per year), another area equivalent to this figure will be added by the year 2025, a time frame within the career of many reading this book. Continuation of the present trends will result in an increasing savannization of the Amazonian region, with pastures, secondary forests, and crop lands expanding into areas once occupied by closed-canopy forests. This phenomenon may also be called the “Africanization” of Amazonia because most of the pastures are planted with grasses imported from Africa, such as Bracharia brisanthum, which are notably different in their response to rainfall patterns and to fire than the forests that they replace.",
+            "slots": [
+              "basin",
+              "landscape"
+            ],
+            "host": "Oxford University Press eBooks"
+          },
+          {
+            "doi": "10.25148/etd.fi15082600",
+            "title": "Land-cover detection and landscape structure analysis in the Pachitea Basin, Peruvian Amazon",
+            "year": 2002,
+            "oa_id": "W1425681761",
+            "cited": 2,
+            "type": "dissertation",
+            "abs_len": 1681,
+            "abstract": "Classification procedures, including atmospheric correction satellite images as well as classification performance utilizing calibration and validation at different levels, have been investigated in the context of a coarse land-cover classification scheme for the Pachitea Basin. Two different correction methods were tested against no correction in terms of reflectance correction towards a common response for pseudo-invariant features (PIF). The accuracy of classifications derived from each of the three methods was then assessed in a discriminant analysis using crossvalidation at pixel, polygon, region, and image levels. Results indicate that only regression adjusted images using PIFs show no significant difference between images in any of the bands. A comparison of classifications at different levels suggests though that at pixel, polygon, and region levels the accuracy of the classifications do not significantly differ between corrected and uncorrected images. Spatial patterns of land-cover were analyzed in terms of colonization history, infrastructure, suitability of the land, and landownership. The actual use of the land is driven mainly by the ability to access the land and markets as is obvious in the distribution of land cover as a function of distance to rivers and roads. When considering all rivers and roads a threshold distance at which disproportional agro-pastoral land cover switches from over represented to under represented is at about 1km. Best land use suggestions seem not to affect the choice of land use. Differences in abundance of land cover between watersheds are more prevailing than differences between colonist and indigenous groups.",
+            "slots": [
+              "basin",
+              "landscape"
+            ],
+            "host": "FIU - Digital Commons (Florida International University)"
+          },
+          {
+            "doi": "10.31390/gradschool_dissertations.6031",
+            "title": "Effects of Riverine Barriers on Avian Evolution in the Amazon Basin",
+            "year": 2022,
+            "oa_id": "W4379113483",
+            "cited": 0,
+            "type": "dissertation",
+            "abs_len": 2016,
+            "abstract": "The high biodiversity found in the Amazon Basin has long captivated the attention of naturalists and evolutionary biologists seeking to explain its origins. Early observations by Alfred Wallace highlighted the role of rivers in delimiting the geographic ranges of many species; furthermore, where rivers narrow towards their headwaters, he noted that some species cross rivers freely. A major goal of this dissertation is to investigate how these and other observations about riverine barriers might inform our understanding of how speciation unfolds in Amazonia. My approach involved generating genomic data with dense geographic sampling for manakins in the genus Lepidothrix, particularly the Blue-capped Manakin (Lepidothrix coronata). Using these data, I first estimated a phylogeny of the genus, clarifying evolutionary relationships and facilitating testing of biogeographic hypotheses. Based on the newly generated phylogeny, I selected the monophyletic Blue-capped Manakin of the western Amazon Basin for an investigation of patterns of genetic connectivity around riverine barriers. I tested the hypothesis that genetic connectivity between populations is greater across narrow river headwaters and found evidence that this was the case in headwater regions of northern Peru, Ecuador, and Colombia, although I found exceptions as well. My findings suggest that river barriers as currently observed on the landscape are unlikely to fully account for cycles of allopatry and diversification of Amazonian species. However, I emphasize that Amazonian rivers are dynamic over time and there is mounting evidence to support the hypothesis that river channel movements can promote speciation in Amazonia. I conclude my dissertation by discussing how river channel movements help account for multiple patterns in Amazonian biogeography, and I describe the avian biogeography around a recent, well-dated river avulsion in Peru provide that provides a suitable context for testing hypotheses of Amazonian speciation.",
+            "slots": [
+              "basin",
+              "landscape"
+            ],
+            "host": "Louisiana State University"
+          }
+        ],
+        "rejected": [
+          {
+            "doi": "10.1093/oso/9780195114317.003.0008",
+            "title": "nutrient cycling as a function of landsc",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.1002/9781444306408.ch14",
+            "title": "modern andean rainfall variation during ",
+            "why": "摘要196字符<400"
+          },
+          {
+            "doi": "10.1007/978-94-009-6542-3_2",
+            "title": "the geological evolution of the amazon b",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.70675/125cfb26z2507z48a9z8cbaz35df78d04416",
+            "title": "integrated geological and geophysical st",
+            "why": "主题槽仅['basin']"
+          },
+          {
+            "doi": "10.1093/oso/9780195114317.003.0006",
+            "title": "the atmospheric component of biogeochemi",
+            "why": "主题槽仅['basin']"
+          },
+          {
+            "doi": "10.1007/978-94-009-6542-3",
+            "title": "the amazon: limnology and landscape ecol",
+            "why": "摘要0字符<400"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.1093/oso/9780195114317.003.0011",
+      "title": "Extractive Reserves and Participatory Research as Factors in the Biogeochemistry of the Amazon Basin",
+      "year": 2001,
+      "oa_id": "W3101213176",
+      "cited": 3,
+      "type": "book-chapter",
+      "abs_len": 2415,
+      "abstract": "The word Amazonia conjures up diverse images, ranging from an exotic jungle to resources for development to a vast web of ecosystems that interact with global element cycles-the focus of this book. This chapter examines the biogeochemical role of extractive reserves, a relatively new land use type within Amazonia in which nontimber forest extraction is the defining human activity. The chapter also provides examples of how participatory research with local communities can enhance the quality of the results and improve their transmission to society. Humans have been a part of the Amazon for the past several thousand years. Amerindian activities have affected forest structure in significant manners by selective planting and clearing (Balée 1989) and by increasing fire frequency, particularly during mega-El Niño events (Meggers 1994). During the last few centuries, neo-Europeans have tragically reduced native indigenous populations by several million and made wide-scale transformations in the tropics of the Americas (Crosby 1993, Ribeiro 1996). The booms in rubber extraction in the late 1800s and during World War II brought waves of nonindigenous migrants to Brazilian Amazonia (Dean 1989). More recently, large-scale implantation of cattle ranching and colonization projects, and to a lesser degree, mining activity, have accelerated change in Amazonian landscapes (Schmink and Wood 1992). In addition, the ensuing road network and infrastructure left in the wake of these recent activities increased access to primary forest, precipitating further deforestation. By 1996, about 52 million hectares, nearly the size of France, had been deforested in Brazilian Amazonia (INPE 1998). At the average rate of deforestation from 1992 to 1996 (1.9 million hectares per year), another area equivalent to this figure will be added by the year 2025, a time frame within the career of many reading this book. Continuation of the present trends will result in an increasing savannization of the Amazonian region, with pastures, secondary forests, and crop lands expanding into areas once occupied by closed-canopy forests. This phenomenon may also be called the “Africanization” of Amazonia because most of the pastures are planted with grasses imported from Africa, such as Bracharia brisanthum, which are notably different in their response to rainfall patterns and to fire than the forests that they replace.",
+      "slots": [
+        "basin",
+        "landscape"
+      ],
+      "host": "Oxford University Press eBooks"
+    }
+  },
+  "库什与努比亚": {
+    "claim": "库什的商路与商品结构",
+    "records": [
+      {
+        "query": "Meroe trade routes goods exchange",
+        "results": 20,
+        "passed": [],
+        "rejected": [
+          {
+            "doi": "10.1787/9789264278349-en",
+            "title": "mapping the real routes of trade in fake",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.54103/eap/27373",
+            "title": "trade routes and grave goods: pathways o",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.5220/0012962700003882",
+            "title": "exploring ancient silk road routes in uz",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.1163/ej.9789004145665.i-1228.131",
+            "title": "article xv. exchange agreements",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.4324/9781003278818-9",
+            "title": "trade routes and trade goods at the nort",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.1017/cbo9780511549281.006",
+            "title": "forward exchange rates in a model with s",
+            "why": "标题无对象词"
+          }
+        ]
+      },
+      {
+        "query": "Kushite long-distance trade",
+        "results": 20,
+        "passed": [],
+        "rejected": [
+          {
+            "doi": "10.1093/acprof:oso/9780195386844.003.0004",
+            "title": "communication and roman long-distance tr",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.4324/9780415791182-rmeo419-1",
+            "title": "intercontinental and long distance trade",
+            "why": "标题无对象词"
+          },
+          {
+            "doi": "10.1017/9781009086547.003",
+            "title": "funnel beaker societies and long-distanc",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.2307/j.ctv17db2t2.12",
+            "title": "the modus operandi of roman long-distanc",
+            "why": "摘要0字符<400"
+          },
+          {
+            "doi": "10.1163/2352-0272_emho_com_019191",
+            "title": "Trade, Long-distance",
+            "why": "type=dataset"
+          },
+          {
+            "doi": "10.4324/9780415791182-rmeo419-0",
+            "title": "intercontinental and long distance trade",
+            "why": "摘要0字符<400"
+          }
+        ]
+      }
+    ],
+    "best": null
+  }
+}

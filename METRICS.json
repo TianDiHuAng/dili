@@ -746,6 +746,21 @@
       "sample_rate": "2条补源+1条无候选记录全查",
       "sample_audit": "3条全查3FAIL：季风←2010可预测性论文撑机制断言（season/driv全0）→换2012《Thermal Controls on Asian Summer Monsoon》(被引915)；南极←用摘要首句当通例且「露岩区极少」零支撑→降个案保存性证据；库什「无候选」实为只查Crossref一条检索式→OpenAlex补纳帕塔政体(被引65)+麦罗埃冶铁(被引34)、两说并陈；另修round2_apply硬编码TODAY",
       "note": "季风系统/南极大陆补主来源；库什如实记录无合格候选；≥2内容源 223"
+    },
+    {
+      "round": 52,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "6条补源全查",
+      "sample_audit": "本轮为6条侧面条目补主来源（文艺复兴意大利/拜占庭/维京/大自流盆地/落基山脉/美国西进）；库什商路、古埃及新王国（二次命中「新王国之后」）、印加（ceque仪式系统）、亚马逊（采掘保护区）均按D110如实记录无合格候选",
+      "note": "为6条侧面条目补主来源（文艺复兴意大利/拜占庭/维京/大自流盆地/落基山脉/美国西进）；库什商路与古埃及新王国如实记录无候选；≥2内容源 223"
     }
   ]
 }
