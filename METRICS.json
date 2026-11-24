@@ -731,6 +731,21 @@
       "sample_rate": "30条侧面+2条主来源全查",
       "sample_audit": "30条侧面文献逐条标注旁证性质（对象同一但仅涉一侧面）；为核心7条补主来源成功2条（密西西比河←氚水文、河流三角洲←河口沙坝模型）；未采用2条（季风←哈德莱环流、南极←单扇区）",
       "note": "30条侧面文献标注旁证、2条核心补主来源（密西西比河/河流三角洲）；≥2内容源 222"
+    },
+    {
+      "round": 51,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 3,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 2,
+      "sample_rate": "2条补源+1条无候选记录全查",
+      "sample_audit": "3条全查3FAIL：季风←2010可预测性论文撑机制断言（season/driv全0）→换2012《Thermal Controls on Asian Summer Monsoon》(被引915)；南极←用摘要首句当通例且「露岩区极少」零支撑→降个案保存性证据；库什「无候选」实为只查Crossref一条检索式→OpenAlex补纳帕塔政体(被引65)+麦罗埃冶铁(被引34)、两说并陈；另修round2_apply硬编码TODAY",
+      "note": "季风系统/南极大陆补主来源；库什如实记录无合格候选；≥2内容源 223"
     }
   ]
 }

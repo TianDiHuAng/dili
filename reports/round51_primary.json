@@ -1,0 +1,192 @@
+{
+  "库什与努比亚": {
+    "cand": {
+      "doi": "10.15184/aqy.2018.182",
+      "title": "The ironworking remains in the royal city of Meroe: new insights on the Nile Corridor and the Kingdom of Kush",
+      "year": 2019,
+      "oa_id": "W2896238063",
+      "cited": 26,
+      "type": "article",
+      "abs_len": 756,
+      "abstract": "Meroe is one of Africa's most famous archaeological sites, renowned not least for its evidence of ironworking. Yet, the extensive slagheaps that characterise the site have received little archaeological attention. To illuminate the chronology and distribution of these remains, this article combines extant excavation data with the results of recent site-wide surface and geoprospection survey, and ongoing slagheap excavation and radiocarbon dating. The slagheaps date predominantly to either the Early (Napatan) or Late (late/post-Meroitic) periods, with little evidence for activity between c. 300 BC and AD 300—precisely when Meroe was the capital of the Kingdom of Kush—indicating significant reorganisation of the city's industrial base at this time.",
+      "claim": "库什王国的商路与纳帕塔/麦罗埃时期的政治经济",
+      "slots": [
+        "napata",
+        "meroe",
+        "kingdom"
+      ],
+      "period": [
+        "bc"
+      ],
+      "host": "Antiquity"
+    },
+    "rejected": [
+      {
+        "t": "III. The Invention of Tradition in the Dongo",
+        "w": "标题无对象词"
+      }
+    ]
+  },
+  "印加帝国": {
+    "cand": null,
+    "rejected": [
+      {
+        "t": "Road to empire: documenting an Inca road in ",
+        "w": "主题槽不足",
+        "hit": [
+          "empire",
+          "road"
+        ]
+      },
+      {
+        "t": "Chinchaysuyu and the Northern Inca Territory",
+        "w": "主题槽不足",
+        "hit": [
+          "empire",
+          "territor"
+        ]
+      }
+    ]
+  },
+  "文艺复兴意大利": {
+    "cand": null,
+    "rejected": [
+      {
+        "t": "Italian communes and city-states, c. 1300",
+        "w": "标题无对象词"
+      },
+      {
+        "t": "Patronage and Italian Renaissance Sculpture",
+        "w": "主题槽不足",
+        "hit": [
+          "patron",
+          "art"
+        ]
+      }
+    ]
+  },
+  "亚马逊盆地": {
+    "cand": null,
+    "rejected": [
+      {
+        "t": "Land-cover detection and landscape structure",
+        "w": "主题槽不足",
+        "hit": [
+          "basin",
+          "landscape"
+        ]
+      },
+      {
+        "t": "Geomorphology, hydrology, and ecology of Gre",
+        "w": "标题无对象词"
+      },
+      {
+        "t": "Denudation and Erosion in the Southern Appal",
+        "w": "标题无对象词"
+      }
+    ]
+  },
+  "季风系统": {
+    "cand": {
+      "doi": "10.1175/2010jcli3546.1",
+      "title": "Understanding the Predictability of East Asian Summer Monsoon from the Reproduction of Land–Sea Thermal Contrast Change in AMIP-Type Simulation",
+      "year": 2010,
+      "oa_id": "W2124570107",
+      "cited": 97,
+      "type": "article",
+      "abs_len": 2178,
+      "abstract": "Previous studies on the predictability of East Asian summer monsoon circulation based on SST-constrained Atmospheric Model Intercomparison Project (AMIP)-type simulations show that this phenomenon is reproduced with lower skill than other monsoon patterns. The authors examine the reason in terms of the predictability of land–sea thermal contrast change. In the observation, a stronger monsoon circulation is dominated by a tropospheric warming over East Asian continent and a cooling over the tropical western Pacific and North Pacific, indicating an enhancement of the summertime “warmer land–colder ocean” mean state. The tropospheric cooling over the tropical western Pacific and North Pacific, and the tropospheric warming over East Asian continent are reproducible in AMIP-type simulations, although there are biases over both the North Pacific and East Asia. The tropospheric temperature responses in the model indicate a reasonable predictability of the meridional land–sea thermal contrast; the zonal land–sea thermal contrast change is also predictable but shows bias over the region north to 25°N in North Pacific. The reproducibility of the meridional thermal contrast is higher than that of the zonal thermal contrast. An examination of the predictability of two commonly used monsoon indices reveals far different skills. The index defined as zonal wind shear between 850 and 200 hPa averaged over East Asia is highly predictable. The skill comes from the predictability of the meridional land–sea thermal contrast. Although the zonal thermal contrast change is mostly predictable except for the biases over the North Pacific, the monsoon index defined as zonal sea level pressure (SLP) difference across the East Asian continent and the North Pacific is unpredictable. The low skill is related to the index definition, which attaches more importance to the land SLP change. The limitation of the index in measuring the land SLP change reduces the model skill. Although regional features of monsoon precipitation changes remain a challenge for current climate models, the predictable land–sea thermal contrast change sheds light on monsoon circulation prediction.",
+      "claim": "季风系统由海陆热力差异驱动、随季节进退",
+      "slots": [
+        "land",
+        "sea",
+        "circulation",
+        "precipitation"
+      ],
+      "period": [],
+      "host": "Journal of Climate"
+    },
+    "rejected": [
+      {
+        "t": "Link between the Land–Sea Thermal Contrast a",
+        "w": "主题槽不足",
+        "hit": [
+          "land",
+          "sea",
+          "circulation"
+        ]
+      },
+      {
+        "t": "Role of the land‐sea thermal contrast in the",
+        "w": "主题槽不足",
+        "hit": [
+          "land",
+          "sea",
+          "precipitation"
+        ]
+      },
+      {
+        "t": "Land–Sea Thermal Contrast and Intensity of t",
+        "w": "主题槽不足",
+        "hit": [
+          "land",
+          "sea",
+          "precipitation"
+        ]
+      },
+      {
+        "t": "Dual Nature of Land Ocean Thermal Contrast d",
+        "w": "主题槽不足",
+        "hit": [
+          "land"
+        ]
+      }
+    ]
+  },
+  "南极大陆": {
+    "cand": {
+      "doi": "10.5194/tc-18-1733-2024",
+      "title": "Alpine topography of the Gamburtsev Subglacial Mountains, Antarctica, mapped from ice sheet surface morphology",
+      "year": 2024,
+      "oa_id": "W4394779946",
+      "cited": 15,
+      "type": "article",
+      "abs_len": 2075,
+      "abstract": "Landscapes buried beneath the Antarctic Ice Sheet preserve information about the geologic and geomorphic evolution of the continent both before and during the wide-scale glaciation that began roughly 34×10 6 years ago. Since the inception of this ice sheet, some areas have remained cold-based and non-erosive, preserving ancient landscapes remarkably intact. The Gamburtsev Subglacial Mountains in central East Antarctica are one such landscape, maintaining evidence of tectonic, fluvial and glacial controls on their distinctly alpine morphology. The central Gamburtsev Mountains have previously been surveyed using airborne ice-penetrating radar; however, many questions remain as to their evolution and their influence on the East Antarctic Ice Sheet, including where in the region to drill for a 1.5×10 6 year-long “oldest-ice” core. Here, we derive new maps of the planform geometry of the Gamburtsev Subglacial Mountains from satellite remote sensing datasets of the ice sheet surface, based on the relationship between bed roughness and ice surface morphology. Automated and manual approaches to mapping were tested and validated against existing radar data and elevation models. Manual mapping was more effective than automated approaches at reproducing bed features observed in radar data, but a hybrid approach is suggested for future work. The maps produced here show the detail of mountain ridges and valleys on wavelengths significantly smaller than the spacing of existing radar flightlines, and mapping has extended well beyond the confines of existing radar surveys. Morphometric analysis of the mapped landscape reveals that it constitutes a preserved ( > 34 Ma) dendritic valley network, with some evidence for modification by topographically confined glaciation prior to ice sheet inception. The planform geometry of the landscape is a significant control on locations of basal melting, subglacial hydrological flows and the stability of the ice sheet over time, so the maps presented here may help to guide decisions about where to search for oldest ice.",
+      "claim": "南极大陆的地貌与冰盖总体",
+      "slots": [
+        "continent",
+        "ice sheet",
+        "topograph",
+        "geolog"
+      ],
+      "period": [],
+      "host": "The Cryosphere"
+    },
+    "rejected": [
+      {
+        "t": "Diatom stratigraphy defining ice sheet groun",
+        "w": "主题槽不足",
+        "hit": [
+          "ice sheet"
+        ]
+      },
+      {
+        "t": "Deglacial climate and ice sheet evolution of",
+        "w": "主题槽不足",
+        "hit": [
+          "continent",
+          "ice sheet"
+        ]
+      },
+      {
+        "t": "Understanding surface melt in Antarctica and",
+        "w": "主题槽不足",
+        "hit": [
+          "ice sheet",
+          "topograph"
+        ]
+      }
+    ]
+  }
+}

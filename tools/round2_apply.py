@@ -7,7 +7,7 @@ import json, os, re, sys, datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
-TODAY = "2026-11-22"
+TODAY = os.environ.get("DILI_TODAY", "2026-11-24")
 D041_FLAGS = ("d041_legacy", "d041_pairing_gap")
 UNITS = ["africa","asia","europe","north-america","south-america","oceania","antarctica","global-themes"]
 NAMES = {"africa":"非洲","asia":"亚洲","europe":"欧洲","north-america":"北美洲","south-america":"南美洲","oceania":"大洋洲","antarctica":"南极洲","global-themes":"全球主题"}
