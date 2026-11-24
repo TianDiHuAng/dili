@@ -1,0 +1,188 @@
+{
+  "玛雅文明": {
+    "cand": {
+      "oid": "W2090314934",
+      "title": "Climate and the Collapse of Maya Civilization",
+      "year": 2003,
+      "cited": 1145,
+      "abs_len": 699,
+      "slots": [
+        "maya",
+        "collapse",
+        "classic"
+      ],
+      "doi": "https://doi.org/10.1126/science.1080444",
+      "type": "article"
+    },
+    "n": 22,
+    "nstrong": 22
+  },
+  "印加帝国": {
+    "cand": {
+      "oid": "W2121796756",
+      "title": "Segmentary State Formation and the Ritual Control of Water Under the Incas",
+      "year": 1993,
+      "cited": 162,
+      "abs_len": 1418,
+      "slots": [
+        "inca",
+        "empire",
+        "administrat",
+        "state",
+        "organiz"
+      ],
+      "doi": "https://doi.org/10.1017/s0010417500018557",
+      "type": "article"
+    },
+    "n": 21,
+    "nstrong": 19
+  },
+  "澳大利亚大陆": {
+    "cand": {
+      "oid": "W2644132672",
+      "title": "Refining Rodinia: Geologic Evidence for the Australia–Western U.S. connection in the Proterozoic",
+      "year": 1999,
+      "cited": 668,
+      "abs_len": 1164,
+      "slots": [
+        "australia",
+        "geolog",
+        "continent"
+      ],
+      "doi": "https://doi.org/10.1130/gsat-1999-10-01-science",
+      "type": "article"
+    },
+    "n": 14,
+    "nstrong": 14
+  },
+  "澳大利亚原住民": {
+    "cand": {
+      "oid": "W621323142",
+      "title": "Visions from the Past: The Archaeology of Australian Aboriginal Art",
+      "year": 2002,
+      "cited": 169,
+      "abs_len": 1538,
+      "slots": [
+        "aboriginal",
+        "archaeolog",
+        "land"
+      ],
+      "doi": null,
+      "type": "book"
+    },
+    "n": 8,
+    "nstrong": 7
+  },
+  "孔雀王朝": {
+    "cand": {
+      "oid": "W2015841063",
+      "title": "The Mauryan empire in early India*",
+      "year": 2006,
+      "cited": 24,
+      "abs_len": 726,
+      "slots": [
+        "maurya",
+        "empire",
+        "administrat",
+        "state"
+      ],
+      "doi": "https://doi.org/10.1111/j.1468-2281.2006.00394.x",
+      "type": "article"
+    },
+    "n": 19,
+    "nstrong": 17
+  },
+  "隋唐": {
+    "cand": {
+      "oid": "W2325759714",
+      "title": "Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors",
+      "year": 1999,
+      "cited": 82,
+      "abs_len": 897,
+      "slots": [
+        "tang",
+        "sui",
+        "state",
+        "empire"
+      ],
+      "doi": "https://doi.org/10.2307/606153",
+      "type": "book-review"
+    },
+    "n": 25,
+    "nstrong": 20
+  },
+  "克里特文明": {
+    "cand": {
+      "oid": "W1912318686",
+      "title": "The Volcanic Destruction of Minoan Crete",
+      "year": 1939,
+      "cited": 224,
+      "abs_len": 955,
+      "slots": [
+        "minoan",
+        "crete",
+        "palace",
+        "civiliz"
+      ],
+      "doi": "https://doi.org/10.1017/s0003598x00028088",
+      "type": "article"
+    },
+    "n": 21,
+    "nstrong": 17
+  },
+  "维京时代": {
+    "cand": {
+      "oid": "W3087682297",
+      "title": "Population genomics of the Viking world",
+      "year": 2020,
+      "cited": 398,
+      "abs_len": 1490,
+      "slots": [
+        "viking",
+        "expansion",
+        "scandinav"
+      ],
+      "doi": "https://doi.org/10.1038/s41586-020-2688-8",
+      "type": "article"
+    },
+    "n": 25,
+    "nstrong": 23
+  },
+  "十字军东征": {
+    "cand": {
+      "oid": "W2130215469",
+      "title": "Patterns in Medieval Trade: The Commerce of Amalfi Before the Crusades",
+      "year": 1968,
+      "cited": 155,
+      "abs_len": 503,
+      "slots": [
+        "crusade",
+        "trade",
+        "mediterran"
+      ],
+      "doi": "https://doi.org/10.1017/s0022050700100968",
+      "type": "article"
+    },
+    "n": 20,
+    "nstrong": 16
+  },
+  "大平原": {
+    "cand": {
+      "oid": "W2074464380",
+      "title": "Effects of agriculture, urbanization, and climate on water quality in the northernGreat Plains",
+      "year": 1999,
+      "cited": 407,
+      "abs_len": 2151,
+      "slots": [
+        "great plains",
+        "agricultur",
+        "settle",
+        "environment"
+      ],
+      "doi": "https://doi.org/10.4319/lo.1999.44.3_part_2.0739",
+      "type": "article"
+    },
+    "n": 20,
+    "nstrong": 20
+  }
+}

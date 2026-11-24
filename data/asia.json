@@ -443,10 +443,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "ap-human-geo",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2015841063"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1977985637（1962年，「Asoka and the Decline of the Mauryas」，DOI https://doi.org/10.1086/ahr/67.3.730，The American Historical Review）； 年代以「约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第68轮剔除·书评】openalex-W1977985637 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1977985637（1962年，「Asoka and the Decline of the Mauryas」，DOI https://doi.org/10.1086/ahr/67.3.730，The American Historical Review）； 年代以「约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第68轮剔除·书评】openalex-W1977985637 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。 【第69轮补强来源（strong）】openalex-W2015841063（2006年，《The Mauryan empire in early India*》，被引 24，摘要 726 字符）：主题槽命中 ['maurya', 'empire', 'administrat', 'state']；已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -454,7 +455,7 @@
       "last_update": "2026-11-24",
       "geo": "核心在恒河平原，冲积土与季风降水支撑密集农业；西北接印度河平原与开伯尔等山口，是外来势力与商路的入口。",
       "influence": "恒河平原的农业剩余支撑了庞大军队与行政；但统一依赖道路、驿站与地方代理，以及阿育王时期的行政与教化政策，地理只是前提。",
-      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 2006 年《The Mauryan empire in early India》（被引24）讨论孔雀帝国的政体与治理；本条「孔雀王朝以行政与军事控制印度次大陆大部」据此。",
       "connections": "经西北山口连接中亚与波斯方向，经孟加拉湾与西海岸港口接入印度洋贸易，与斯里兰卡及东南亚存在交流。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>孔雀王朝</text><text x='480' y='215' class='dim'>约公元前4世纪末至前2世纪初（孔雀王朝；起讫年学界有不同表述</text><text x='40' y='370' class='dim'>孔雀王朝 · 简笔示意，非精确测绘</text></svg>"
@@ -824,7 +825,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。",
+      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。 【第69轮补强来源（strong）】openalex-W2325759714（1999年，《Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors》，被引 82，摘要 897 字符）：主题槽命中 ['tang', 'sui', 'state', 'empire']；已在本条 polities 段落点。 【第69轮清除·书评】W2325759714 为 book-review（D082/R25），已从本条 sources 移除。 【第69轮·重要教训】命题中的 W2325759714 标题为《Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors》，标题就是书名，但 OpenAlex 的 type 是 book-review——它是对该书的书评，不是书本身。我一度把它当作主来源登记，R25（书评拦截）当场报错拦下。隋唐的主来源仍缺。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"

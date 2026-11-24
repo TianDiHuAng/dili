@@ -1001,6 +1001,21 @@
       "sample_rate": "15条语义全查（17个来源）",
       "sample_audit": "2 PASS / 8 SOFT / 5 FAIL",
       "note": "语义抽检5FAIL已剔6源、8SOFT改措辞；R25上线(书评拦截)；别名页不计强来源→A 213→119、G1 0→10"
+    },
+    {
+      "round": 69,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 10,
+      "fixes": 5,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 5,
+      "sample_rate": "10条G1全查",
+      "sample_audit": "被引1145/398/169/82/24等；R25拦下1条书评(标题即书名)",
+      "note": "补5条强来源→G1 10→5；R25拦下「标题即书名」的书评；G3 7；层级 A119/B119/C3/D2"
     }
   ]
 }
