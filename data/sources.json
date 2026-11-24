@@ -10508,6 +10508,19 @@
       "verified": true,
       "page_title": "Channel-floodplain response to changes in sediment supply and floodplain width",
       "note": "OpenAlex 作品 W3095474398（DOI 10.1201/b22619-85）；2020年；被引 2。HTTP 200，11879 字节。摘要长度 1597 字符；主题槽命中 ['alluvial', 'plain', 'river', 'sediment', 'floodplain', 'deposit']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4387983363",
+      "title": "OpenAlex W4387983363 — Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2023,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4387983363",
+      "url2": "https://doi.org/10.30954/2231-4105.01.2023.6",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities",
+      "note": "OpenAlex 作品 W4387983363（DOI 10.30954/2231-4105.01.2023.6）；2023年；被引 25。HTTP 200，13075 字节。摘要长度 1234 字符；主题槽命中 ['inequal', 'opportunit', 'access', 'disparit']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

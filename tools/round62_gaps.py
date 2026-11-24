@@ -13,6 +13,7 @@ T = load_entries(UNITS)
 
 # G3：内容源仅 1 个，**排除 D 级**（指标解读类只需机构长文 + 数据端点）
 lvl = {t: level_of(e, S) for t, e in T.items()}
+lvl = {t: level_of(e, S) for t, e in T.items()}
 one = [t for t, e in T.items() if content_count(e, S) == 1 and lvl[t] != "D"]
 zero = [t for t, e in T.items() if content_count(e, S) == 0 and lvl[t] != "D"]
 # G1：无强来源（**仅 C 级**——D 级是指标解读类，本不要求强来源，不计入缺口）

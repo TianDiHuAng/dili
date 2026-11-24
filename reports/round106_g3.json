@@ -1,0 +1,235 @@
+{
+  "results": {
+    "大分水岭": {
+      "cand": [
+        {
+          "oid": "W2040726548",
+          "title": "Fission track data from the Bathurst Batholith: Evidence for rapid mid‐Cretaceous uplift and erosion within the eastern highlands of Australia",
+          "year": 1995,
+          "cited": 76,
+          "abs_len": 1486,
+          "slots": [
+            "australia",
+            "range",
+            "highland",
+            "uplift",
+            "eastern"
+          ],
+          "doi": "10.1080/08120099508728228"
+        },
+        {
+          "oid": "W2766544685",
+          "title": "Denudation history of the Southeastern Highlands of Australia",
+          "year": 2017,
+          "cited": 21,
+          "abs_len": 1972,
+          "slots": [
+            "australia",
+            "highland",
+            "uplift",
+            "eastern"
+          ],
+          "doi": "10.1080/08120099.2017.1384759"
+        },
+        {
+          "oid": "W2104455153",
+          "title": "Genetic evidence for historical continuity between populations of the Australian freshwater fish Craterocephalus stercusmuscarum (Atherinidae) east and west of the Great Dividing Range",
+          "year": 2001,
+          "cited": 77,
+          "abs_len": 1052,
+          "slots": [
+            "australia",
+            "range",
+            "eastern"
+          ],
+          "doi": "10.1111/j.1095-8649.2001.tb01378.x"
+        },
+        {
+          "oid": "W4392642520",
+          "title": "Biology, distribution and conservation of a dwarf-group crayfish, Euastacus spinichelatus Morgan, 1997 (Decapoda: Astacidea: Parastacidae), a freshwater crayfish from the Great Dividing Range, New South Wales, Australia",
+          "year": 2024,
+          "cited": 3,
+          "abs_len": 1192,
+          "slots": [
+            "australia",
+            "range",
+            "eastern"
+          ],
+          "doi": "10.1093/jcbiol/ruae011"
+        },
+        {
+          "oid": "W2159370596",
+          "title": "Phylogeography recapitulates topography: very fine‐scale local endemism of a saproxylic ‘giant’ springtail at Tallaganda in the Great Dividing Range of south–east Australia",
+          "year": 2004,
+          "cited": 108,
+          "abs_len": 1219,
+          "slots": [
+            "australia",
+            "range"
+          ],
+          "doi": "10.1111/j.1365-294x.2004.02340.x"
+        }
+      ],
+      "n": 6
+    },
+    "冲积平原": {
+      "cand": [
+        {
+          "oid": "W2404859000",
+          "title": "Nonmarine facies of the Middle and Late Devonian Catskill coastal alluvial plain",
+          "year": 1985,
+          "cited": 66,
+          "abs_len": 1823,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "sediment",
+            "flood",
+            "deposit"
+          ],
+          "doi": "10.1130/spe201-p79"
+        },
+        {
+          "oid": "W1560095828",
+          "title": "Quaternary Alluvial Fans in Southwestern Crete: Sedimentation Processes and Geomorphic Evolution",
+          "year": 1993,
+          "cited": 402,
+          "abs_len": 2952,
+          "slots": [
+            "alluvial",
+            "plain",
+            "sediment",
+            "flood",
+            "deposit"
+          ],
+          "doi": "10.1002/9781444303995.ch18"
+        },
+        {
+          "oid": "W1966940962",
+          "title": "Radiocarbon dating and sedimentation rates in the Holocene alluvial sediments of the northern Bihar plains, India",
+          "year": 1996,
+          "cited": 47,
+          "abs_len": 1055,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "sediment",
+            "deposit"
+          ],
+          "doi": "10.1017/s0016756800007263"
+        },
+        {
+          "oid": "W2808615332",
+          "title": "Hydrodynamic controls on alluvial ridge construction and avulsion likelihood in meandering river floodplains",
+          "year": 2018,
+          "cited": 25,
+          "abs_len": 1767,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "sediment",
+            "flood"
+          ],
+          "doi": "10.1130/g40104.1"
+        },
+        {
+          "oid": "W3136874312",
+          "title": "Clay-plug sediment as the locus of arsenic pollution in Holocene alluvial-plain aquifers",
+          "year": 2021,
+          "cited": 15,
+          "abs_len": 1935,
+          "slots": [
+            "alluvial",
+            "plain",
+            "river",
+            "sediment",
+            "deposit"
+          ],
+          "doi": "10.1016/j.catena.2021.105255"
+        }
+      ],
+      "n": 22
+    },
+    "教育机会地域差异": {
+      "cand": [
+        {
+          "oid": "W4387983363",
+          "title": "Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities",
+          "year": 2023,
+          "cited": 25,
+          "abs_len": 1234,
+          "slots": [
+            "inequal",
+            "opportunit",
+            "access",
+            "disparit"
+          ],
+          "doi": "10.30954/2231-4105.01.2023.6"
+        },
+        {
+          "oid": "W3016118152",
+          "title": "Regional Disparities: Analysis of Policy Responses Towards Educational Inequalities in Cameroon",
+          "year": 2020,
+          "cited": 6,
+          "abs_len": 1509,
+          "slots": [
+            "regional",
+            "inequal",
+            "access",
+            "disparit"
+          ],
+          "doi": "10.7176/dcs/10-3-07"
+        },
+        {
+          "oid": "W7163160998",
+          "title": "Spatial and Gender Dynamics of Educational Inequality Across Regions in Türkiye",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 2114,
+          "slots": [
+            "regional",
+            "inequal",
+            "opportunit",
+            "disparit"
+          ],
+          "doi": "10.3390/su18115627"
+        },
+        {
+          "oid": "W7160706223",
+          "title": "Regional Inequality in Higher Education between Eastern and Western China: A Perspective of Educational Equity",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 1198,
+          "slots": [
+            "regional",
+            "inequal",
+            "opportunit",
+            "disparit"
+          ],
+          "doi": "10.35534/es.0804059"
+        },
+        {
+          "oid": "W4404284961",
+          "title": "Inequality of Educational Opportunity in Switzerland: Exploring Regional Differences and Institutional Factors",
+          "year": 2024,
+          "cited": 11,
+          "abs_len": 1792,
+          "slots": [
+            "regional",
+            "inequal",
+            "opportunit"
+          ],
+          "doi": "10.1016/j.ijer.2024.102495"
+        }
+      ],
+      "n": 16
+    }
+  },
+  "http": {
+    "ok": 307,
+    "fail": 3
+  }
+}

@@ -1556,6 +1556,21 @@
       "sample_rate": "G3 剩余 11 条中 5 条检索",
       "sample_audit": "登记4条：人文地理学、隋唐计入内容源；大分水岭、冲积平原因标题不含对象词(R20)只能作旁证，不计入内容源；教育机会地域差异无合格候选",
       "note": "G3 11→9（登记2条计入，2条旁证不计）；A205；一致性0问题"
+    },
+    {
+      "round": 106,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 3,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 1,
+      "sample_rate": "G3a 3 条全部检索",
+      "sample_audit": "登记1条：教育机会地域差异计入第二内容源（证据偏弱，已注明）；大分水岭、冲积平原无标题含对象词的合格候选",
+      "note": "G3 9→8；A206；一致性0问题"
     }
   ]
 }

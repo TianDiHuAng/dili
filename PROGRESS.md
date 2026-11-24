@@ -2,7 +2,7 @@
 
 - 状态：正常循环（NORMAL）
 - **检索路线：Crossref `query.bibliographic` → DOI → OpenAlex by-ID**（OpenAlex search 429 不可用）
-- 当前轮次：**第 105 轮已完成，下一轮为第 106 轮**
+- 当前轮次：**第 106 轮已完成，下一轮为第 107 轮**
 - **第104轮：G3 16→11，A 198→203**（G3a 7→2）
   | 条目 | 新第二来源 | 被引 | 备注 |
   |---|---|---|---|
@@ -45,3 +45,14 @@
   - 第105轮收尾：层级 A205 / B9 / C0 / D29；缺口 G1=0 / G2=3 / G3=9（G3a 3 + G3b 6）/ G4=243；check.py 0 错误，check_links.py 0 断链，round100_consist.py 0 问题。
   - 剩余 9 条：G3a 大分水岭、冲积平原、教育机会地域差异；G3b 非洲大湖地区、笈多王朝（无解）、西北海岸、巴西高原（无解）、拉普拉塔平原（无解）、卫星遥感地表观测。
   - 下一轮起点（第106轮）：为大分水岭、冲积平原找标题含对象词的第二来源；教育机会地域差异换角度；再追非洲大湖、西北海岸、卫星遥感地表观测。
+
+- **第106轮：G3 9→8，A 205→206**（登记1条）
+  | 条目 | 新来源 | 被引 | 处理 |
+  |---|---|---|---|
+  | 教育机会地域差异 | Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities (2023) | 25 | 计入第二内容源；摘要无具体机制与区域数据、期刊层级较低，已在条目中注明，不支撑具体区域论断 |
+  - 大分水岭：候选标题均不含 Great Dividing Range，最接近的 Southeastern Highlands 一篇不采用，仍在 G3a。
+  - 冲积平原：标题含 alluvial 的候选主题过窄（砷污染、河道改道、冲积扇、古地层），不采用，仍在 G3a。
+  - **流程教训（第106轮）**：登记新内容源后，须按顺序重跑 round68_levels.py（层级）、round62_gaps.py（缺口）、round77_split.py（G3a/G3b）、finalize 脚本，再跑三项检查；只重跑部分会出现 R22 与一致性告警，或 finalize 读到过期的 G3 总数。
+  - 第106轮收尾：层级 A206 / B8 / C0 / D29；缺口 G1=0 / G2=3 / G3=8（G3a 2 + G3b 6）/ G4=243；check.py 0 错误，check_links.py 0 断链，round100_consist.py 0 问题。
+  - 剩余 8 条：G3a 大分水岭、冲积平原；G3b 非洲大湖地区、笈多王朝（无解）、西北海岸、巴西高原（无解）、拉普拉塔平原（无解）、卫星遥感地表观测。
+  - 下一轮起点（第107轮）：为大分水岭、冲积平原换检索词（如 Eastern Highlands、alluvial plain 与具体河流平原名）；再追非洲大湖、西北海岸、卫星遥感地表观测。
