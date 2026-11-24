@@ -1,0 +1,325 @@
+{
+  "results": {
+    "古埃及中王国": {
+      "cand": [
+        {
+          "oid": "W2339022878",
+          "title": "Setting a State Anew: The Central Administration from the End of the Old Kingdom to the End of the Middle Kingdom",
+          "year": 2013,
+          "cited": 52,
+          "abs_len": 912,
+          "slots": [
+            "middle kingdom",
+            "state",
+            "administrat"
+          ],
+          "doi": "10.1163/9789004250086_009"
+        },
+        {
+          "oid": "W4251756451",
+          "title": "Asiatics in Middle Kingdom Egypt : Perceptions and Reality",
+          "year": 2016,
+          "cited": 34,
+          "abs_len": 756,
+          "slots": [
+            "middle kingdom",
+            "egypt"
+          ],
+          "doi": "10.5040/9781472554550"
+        }
+      ],
+      "n": 2
+    },
+    "法蒂玛王朝": {
+      "cand": [
+        {
+          "oid": "W4391104973",
+          "title": "The Fatimid Caliphate",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 876,
+          "slots": [
+            "fatimid",
+            "state",
+            "caliphate"
+          ],
+          "doi": "10.3366/edinburgh/9781399503174.003.0004"
+        },
+        {
+          "oid": "W4285722466",
+          "title": "\"Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid Architecture\"",
+          "year": 2020,
+          "cited": 17,
+          "abs_len": 1525,
+          "slots": [
+            "fatimid",
+            "caliphate"
+          ],
+          "doi": "10.37862/aaeportal.00258."
+        },
+        {
+          "oid": "W4245032937",
+          "title": "5. Rebuilding the Fatimid City",
+          "year": 2020,
+          "cited": 0,
+          "abs_len": 854,
+          "slots": [
+            "fatimid",
+            "caliphate"
+          ],
+          "doi": "10.37862/aaeportal.00258.006"
+        }
+      ],
+      "n": 3
+    },
+    "非洲大湖地区": {
+      "cand": [
+        {
+          "oid": "W872113480",
+          "title": "Conflict and Peacebuilding in the African Great Lakes Region",
+          "year": 2013,
+          "cited": 51,
+          "abs_len": 2692,
+          "slots": [
+            "great lakes",
+            "region",
+            "state",
+            "africa"
+          ],
+          "doi": "10.2307/j.ctt16gzgdv"
+        },
+        {
+          "oid": "W4300982073",
+          "title": "Understanding wellbeing in refugee youth from the African great lakes region.",
+          "year": 2021,
+          "cited": 0,
+          "abs_len": 2369,
+          "slots": [
+            "great lakes",
+            "region",
+            "state",
+            "africa"
+          ],
+          "doi": "10.18297/etd/3760"
+        },
+        {
+          "oid": "W2949444868",
+          "title": "Political Myths of the African Great Lakes Region",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 1273,
+          "slots": [
+            "great lakes",
+            "region",
+            "state",
+            "africa"
+          ],
+          "doi": "10.31142/ijtsrd23599"
+        }
+      ],
+      "n": 4
+    },
+    "贵霜帝国": {
+      "cand": [
+        {
+          "oid": "W3029827220",
+          "title": "The Kushan Empire",
+          "year": 2020,
+          "cited": 1,
+          "abs_len": 1598,
+          "slots": [
+            "kushan",
+            "empire",
+            "state",
+            "administrat"
+          ],
+          "doi": "10.1093/acrefore/9780190277727.013.227"
+        },
+        {
+          "oid": "W4205265904",
+          "title": "The Kushan Empire",
+          "year": 2021,
+          "cited": 4,
+          "abs_len": 921,
+          "slots": [
+            "kushan",
+            "empire",
+            "state"
+          ],
+          "doi": "10.1093/oso/9780197532768.003.0011"
+        },
+        {
+          "oid": "W4200467338",
+          "title": "13 Economic Development under the Greek Kingdoms of Central Asia to the Kushan Empire: Empire, Migration, and Monasteries",
+          "year": 2021,
+          "cited": 6,
+          "abs_len": 2306,
+          "slots": [
+            "kushan",
+            "empire"
+          ],
+          "doi": "10.1515/9783110607642-021"
+        }
+      ],
+      "n": 4
+    },
+    "仰韶文化": {
+      "cand": [
+        {
+          "oid": "W7117752262",
+          "title": "The Social Function of Painted Pottery Motifs in the Yangshao Culture of Neolithic China",
+          "year": 2025,
+          "cited": 2,
+          "abs_len": 1194,
+          "slots": [
+            "yangshao",
+            "culture",
+            "neolithic",
+            "society"
+          ],
+          "doi": "10.52152/heranca.v8i4/1169"
+        },
+        {
+          "oid": "W3104597724",
+          "title": "The Neolithic Revolution in the North ca. 7/6000–2000 bce: Xinglongwa, Xinlei, Yangshao, Hongshan, and Related Cultures (Inequality/Social Complexity) in Neolithic Northern China",
+          "year": 2020,
+          "cited": 0,
+          "abs_len": 879,
+          "slots": [
+            "yangshao",
+            "culture",
+            "neolithic"
+          ],
+          "doi": "10.1093/oxfordhb/9780199328369.013.2"
+        },
+        {
+          "oid": "W2344314333",
+          "title": "Yangshao Burial Customs and Social Organization: A Comment on the Theory of Yangshao Matrilineal Society and Its Methodology",
+          "year": 1985,
+          "cited": 27,
+          "abs_len": 1477,
+          "slots": [
+            "yangshao",
+            "society"
+          ],
+          "doi": "10.1017/s0362502800003953"
+        }
+      ],
+      "n": 4
+    },
+    "室利佛逝": {
+      "cand": [],
+      "n": 0
+    },
+    "满者伯夷": {
+      "cand": [],
+      "n": 0
+    },
+    "帖木儿帝国": {
+      "cand": [
+        {
+          "oid": "W7161477855",
+          "title": "Diplomacy of The Timurid Empire",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 1610,
+          "slots": [
+            "timurid",
+            "empire",
+            "state",
+            "econom"
+          ],
+          "doi": "10.37547/ajsshr/volume06issue05-03"
+        },
+        {
+          "oid": "W4229908955",
+          "title": "Timurid Empire",
+          "year": 2016,
+          "cited": 1,
+          "abs_len": 1754,
+          "slots": [
+            "timurid",
+            "empire",
+            "state"
+          ],
+          "doi": "10.1002/9781118455074.wbeoe401"
+        },
+        {
+          "oid": "W7223569002",
+          "title": "Functional Typology of State Offices and Officials in the Timurid Empire",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 1677,
+          "slots": [
+            "timurid",
+            "empire",
+            "state"
+          ],
+          "doi": "10.57033/mijournals-2026-4-0364"
+        }
+      ],
+      "n": 6
+    },
+    "迈锡尼文明": {
+      "cand": [
+        {
+          "oid": "W586005727",
+          "title": "Beyond the Palace: Mycenaean East Lokris",
+          "year": 2008,
+          "cited": 39,
+          "abs_len": 1195,
+          "slots": [
+            "mycenaean",
+            "palace",
+            "society"
+          ],
+          "doi": "10.30861/9781407302690"
+        },
+        {
+          "oid": "W4312737986",
+          "title": "Reassessing a Peripheral Geopolitical Vacuum. The Case for a Mycenaean Palace-State in the Spercheios Valley Region",
+          "year": 2022,
+          "cited": 0,
+          "abs_len": 1943,
+          "slots": [
+            "mycenaean",
+            "palace",
+            "state"
+          ],
+          "doi": "10.1484/m.wsa-eb.5.128958"
+        },
+        {
+          "oid": "W2990511084",
+          "title": "Mycenaean Greece and the Aegean World: Palace and Province in the Late Bronze Age",
+          "year": 2016,
+          "cited": 64,
+          "abs_len": 825,
+          "slots": [
+            "mycenaean",
+            "palace"
+          ],
+          "doi": "10.1017/cbo9781316227718"
+        }
+      ],
+      "n": 3
+    }
+  },
+  "http": {
+    "ok": 184,
+    "fail": 3,
+    "errors": [
+      [
+        404,
+        "https://api.openalex.org/works/https://doi.org/10.55776/p280"
+      ],
+      [
+        404,
+        "https://api.openalex.org/works/https://doi.org/10.55776/p280"
+      ],
+      [
+        404,
+        "https://api.openalex.org/works/https://doi.org/10.55776/p280"
+      ]
+    ]
+  }
+}

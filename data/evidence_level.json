@@ -134,9 +134,9 @@
       "tier": "重要"
     },
     "古埃及中王国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -206,9 +206,9 @@
       "tier": "重要"
     },
     "法蒂玛王朝": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -434,9 +434,9 @@
       "tier": "重要"
     },
     "贵霜帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -482,9 +482,9 @@
       "tier": "核心"
     },
     "仰韶文化": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -746,9 +746,9 @@
       "tier": "核心"
     },
     "帖木儿帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -842,9 +842,9 @@
       "tier": "重要"
     },
     "迈锡尼文明": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 149,
-    "B": 80,
+    "A": 155,
+    "B": 74,
     "C": 1,
     "D": 13
   },

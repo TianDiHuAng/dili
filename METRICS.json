@@ -1211,6 +1211,21 @@
       "sample_rate": "补充12条（OpenAlex 429 故障）",
       "sample_audit": "识别 API 配额故障、撤销12条错误的「0候选」记录、改用 Crossref 路线",
       "note": "OpenAlex search 429 配额耗尽；Crossref 路线验证可行并补3条→G3 53→50；层级 A149"
+    },
+    {
+      "round": 83,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 9,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "被撤销的9条重跑（Crossref 路线）",
+      "sample_audit": "7/9命中、失败率2%——证明上轮0候选是429假象",
+      "note": "D144 首次执行：Crossref 路线重跑得6条→G3 50→44；层级 A155"
     }
   ]
 }

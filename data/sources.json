@@ -9164,6 +9164,84 @@
       "verified": true,
       "page_title": "The Hanseatic League",
       "note": "OpenAlex 作品 W4400815659（DOI 10.4324/9780415791182-rmeo449-1）；2024年；被引 0。HTTP 200，10803 字节。摘要长度 2462 字符；主题槽命中 ['hanseatic', 'trade', 'city']。证据强度：strong。检索路线：Crossref bibliographic → DOI → OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2339022878",
+      "title": "OpenAlex W2339022878 — Setting a State Anew: The Central Administration from the End of the Old Kingdom to the End of the Middle Kingdom",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2013,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2339022878",
+      "url2": "https://doi.org/10.1163/9789004250086_009",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Setting a State Anew: The Central Administration from the End of the Old Kingdom to the End of the Middle Kingdom",
+      "note": "OpenAlex 作品 W2339022878（DOI 10.1163/9789004250086_009）；2013年；被引 52。HTTP 200，10574 字节。摘要长度 912 字符；主题槽命中 ['middle kingdom', 'state', 'administrat']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID（D144）。"
+    },
+    {
+      "id": "openalex-W4391104973",
+      "title": "OpenAlex W4391104973 — The Fatimid Caliphate",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2023,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4391104973",
+      "url2": "https://doi.org/10.3366/edinburgh/9781399503174.003.0004",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Fatimid Caliphate",
+      "note": "OpenAlex 作品 W4391104973（DOI 10.3366/edinburgh/9781399503174.003.0004）；2023年；被引 0。HTTP 200，10325 字节。摘要长度 876 字符；主题槽命中 ['fatimid', 'state', 'caliphate']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID（D144）。"
+    },
+    {
+      "id": "openalex-W3029827220",
+      "title": "OpenAlex W3029827220 — The Kushan Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2020,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3029827220",
+      "url2": "https://doi.org/10.1093/acrefore/9780190277727.013.227",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Kushan Empire",
+      "note": "OpenAlex 作品 W3029827220（DOI 10.1093/acrefore/9780190277727.013.227）；2020年；被引 1。HTTP 200，14182 字节。摘要长度 1598 字符；主题槽命中 ['kushan', 'empire', 'state', 'administrat']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID（D144）。"
+    },
+    {
+      "id": "openalex-W7161477855",
+      "title": "OpenAlex W7161477855 — Diplomacy of The Timurid Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2026,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W7161477855",
+      "url2": "https://doi.org/10.37547/ajsshr/volume06issue05-03",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Diplomacy of The Timurid Empire",
+      "note": "OpenAlex 作品 W7161477855（DOI 10.37547/ajsshr/volume06issue05-03）；2026年；被引 0。HTTP 200，15620 字节。摘要长度 1610 字符；主题槽命中 ['timurid', 'empire', 'state', 'econom']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID（D144）。"
+    },
+    {
+      "id": "openalex-W586005727",
+      "title": "OpenAlex W586005727 — Beyond the Palace: Mycenaean East Lokris",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2008,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W586005727",
+      "url2": "https://doi.org/10.30861/9781407302690",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Beyond the Palace: Mycenaean East Lokris",
+      "note": "OpenAlex 作品 W586005727（DOI 10.30861/9781407302690）；2008年；被引 39。HTTP 200，11825 字节。摘要长度 1195 字符；主题槽命中 ['mycenaean', 'palace', 'society']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID（D144）。"
+    },
+    {
+      "id": "openalex-W7117752262",
+      "title": "OpenAlex W7117752262 — The Social Function of Painted Pottery Motifs in the Yangshao Culture of Neolithic China",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2025,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W7117752262",
+      "url2": "https://doi.org/10.52152/heranca.v8i4/1169",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Social Function of Painted Pottery Motifs in the Yangshao Culture of Neolithic China",
+      "note": "OpenAlex 作品 W7117752262（DOI 10.52152/heranca.v8i4/1169）；2025年；被引 2。HTTP 200，16754 字节。摘要长度 1194 字符；主题槽命中 ['yangshao', 'culture', 'neolithic', 'society']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID（D144）。"
     }
   ]
 }
