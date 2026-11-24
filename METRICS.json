@@ -1406,6 +1406,21 @@
       "sample_rate": "G1 全部4条",
       "sample_audit": "4/4命中0%失败；4条登记（Polis被引494）",
       "note": "G1 4→0、C 4→0；G3 60→62；A159"
+    },
+    {
+      "round": 96,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 9,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "核心G3a 9条",
+      "sample_audit": "9/9命中3%失败；登记6条（苏美尔244引）；3条不采用",
+      "note": "补6条→G3 62→56、核心G3a 9→3；A165；R20第7-8次补别名"
     }
   ]
 }

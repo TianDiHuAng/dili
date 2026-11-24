@@ -9697,6 +9697,84 @@
       "verified": true,
       "page_title": "The Southern Cone Model",
       "note": "OpenAlex 作品 W4251197559（DOI 10.4324/9780203463338）；2004年；被引 79。HTTP 200，10876 字节。摘要长度 792 字符；主题槽命中 ['southern cone', 'chile', 'argentina', 'econom']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2135916824",
+      "title": "OpenAlex W2135916824 — The impact of Sahara desertification on Arctic cooling during the Holocene",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2015,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2135916824",
+      "url2": "https://doi.org/10.5194/cp-11-571-2015",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The impact of Sahara desertification on Arctic cooling during the Holocene",
+      "note": "OpenAlex 作品 W2135916824（DOI 10.5194/cp-11-571-2015）；2015年；被引 21。HTTP 200，28130 字节。摘要长度 1150 字符；主题槽命中 ['sahara', 'desertif', 'climate']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W7125457932",
+      "title": "OpenAlex W7125457932 — The Grand Empires of the Sahel: Gold, Trade, and Religion",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2025,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W7125457932",
+      "url2": "https://doi.org/10.1093/oso/9780197840290.003.0007",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Grand Empires of the Sahel: Gold, Trade, and Religion",
+      "note": "OpenAlex 作品 W7125457932（DOI 10.1093/oso/9780197840290.003.0007）；2025年；被引 0。HTTP 200，14673 字节。摘要长度 935 字符；主题槽命中 ['mali', 'empire', 'gold', 'trade', 'sahel', 'state']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W1860590611",
+      "title": "OpenAlex W1860590611 — Early Mesopotamian urbanism: a new view from the north",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2007,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W1860590611",
+      "url2": "https://doi.org/10.1017/s0003598x00095600",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Early Mesopotamian urbanism: a new view from the north",
+      "note": "OpenAlex 作品 W1860590611（DOI 10.1017/s0003598x00095600）；2007年；被引 244。HTTP 200，19276 字节。摘要长度 1067 字符；主题槽命中 ['sumer', 'mesopotamia', 'urbanism', 'state']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2961296942",
+      "title": "OpenAlex W2961296942 — War economy during the Western Han Dynasty",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2019,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2961296942",
+      "url2": "https://doi.org/10.4324/9781315162911-7",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "War economy during the Western Han Dynasty",
+      "note": "OpenAlex 作品 W2961296942（DOI 10.4324/9781315162911-7）；2019年；被引 1。HTTP 200，9922 字节。摘要长度 945 字符；主题槽命中 ['han', 'dynasty', 'empire', 'econom']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W1999738724",
+      "title": "OpenAlex W1999738724 — The Great Plains: Agriculture and the Environment in the Late Twentieth Century",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2001,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W1999738724",
+      "url2": "https://doi.org/10.1215/00021482-75.4.395",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Great Plains: Agriculture and the Environment in the Late Twentieth Century",
+      "note": "OpenAlex 作品 W1999738724（DOI 10.1215/00021482-75.4.395）；2001年；被引 1。HTTP 200，13391 字节。摘要长度 999 字符；主题槽命中 ['great plains', 'environment', 'agricultur', 'history']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4365137248",
+      "title": "OpenAlex W4365137248 — Present and future Ross Ice Shelf dynamics from observations and modelling, and implications for the Antarctic Ice Sheet",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2023,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4365137248",
+      "url2": "https://doi.org/10.26686/wgtn.22597135",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Present and future Ross Ice Shelf dynamics from observations and modelling, and implications for the Antarctic Ice Sheet",
+      "note": "OpenAlex 作品 W4365137248（DOI 10.26686/wgtn.22597135）；2023年；被引 0。HTTP 200，29360 字节。摘要长度 3172 字符；主题槽命中 ['antarctic', 'ice sheet', 'dynamic', 'mass']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

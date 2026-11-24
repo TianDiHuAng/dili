@@ -2,9 +2,9 @@
   "round": 72,
   "levels": {
     "撒哈拉沙漠": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 4,
@@ -230,9 +230,9 @@
       "tier": "重要"
     },
     "马里帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 3,
@@ -302,9 +302,9 @@
       "tier": "核心"
     },
     "苏美尔城邦": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 2,
@@ -530,9 +530,9 @@
       "tier": "重要"
     },
     "汉代": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 3,
@@ -1202,9 +1202,9 @@
       "tier": "重要"
     },
     "大平原": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 2,
@@ -1898,9 +1898,9 @@
       "tier": "补充"
     },
     "南极冰盖": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 2,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 159,
-    "B": 62,
+    "A": 165,
+    "B": 56,
     "C": 0,
     "D": 22
   },

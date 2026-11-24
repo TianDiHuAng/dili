@@ -1,0 +1,381 @@
+{
+  "results": {
+    "撒哈拉沙漠": {
+      "cand": [
+        {
+          "oid": "W2135916824",
+          "title": "The impact of Sahara desertification on Arctic cooling during the Holocene",
+          "year": 2015,
+          "cited": 21,
+          "abs_len": 1150,
+          "slots": [
+            "sahara",
+            "desertif",
+            "climate"
+          ],
+          "doi": "10.5194/cp-11-571-2015"
+        },
+        {
+          "oid": "W4306691509",
+          "title": "Comparison of the green-to-desert Sahara transitions between the Holocene and the last interglacial",
+          "year": 2022,
+          "cited": 12,
+          "abs_len": 2644,
+          "slots": [
+            "sahara",
+            "desertif",
+            "climate"
+          ],
+          "doi": "10.5194/cp-18-2303-2022"
+        },
+        {
+          "oid": "W2023940296",
+          "title": "Abrupt shifts of the Sahara–Sahel boundary during Heinrich stadials",
+          "year": 2013,
+          "cited": 100,
+          "abs_len": 1439,
+          "slots": [
+            "sahara",
+            "climate"
+          ],
+          "doi": "10.5194/cp-9-1181-2013"
+        }
+      ],
+      "n": 8
+    },
+    "马里帝国": {
+      "cand": [
+        {
+          "oid": "W7125457932",
+          "title": "The Grand Empires of the Sahel: Gold, Trade, and Religion",
+          "year": 2025,
+          "cited": 0,
+          "abs_len": 935,
+          "slots": [
+            "mali",
+            "empire",
+            "gold",
+            "trade",
+            "sahel",
+            "state"
+          ],
+          "doi": "10.1093/oso/9780197840290.003.0007"
+        },
+        {
+          "oid": "W2150846452",
+          "title": "Conflict and Conflict Resolution in the Sahel: The Tuareg Insurgency in Mali",
+          "year": 1998,
+          "cited": 126,
+          "abs_len": 558,
+          "slots": [
+            "mali",
+            "sahel",
+            "state"
+          ],
+          "doi": "10.21236/ada349121"
+        },
+        {
+          "oid": "W7150763364",
+          "title": "Vulnérabilité urbaine au Sahel : Ouagadougou (Burkina Faso) et Bamako (Mali) sous le poids des inondations",
+          "year": 2021,
+          "cited": 10,
+          "abs_len": 2183,
+          "slots": [
+            "mali",
+            "sahel",
+            "state"
+          ],
+          "doi": "10.70675/4ace03c9zbbd9z43e7zad78z51dbd0699d2c"
+        }
+      ],
+      "n": 8
+    },
+    "苏美尔城邦": {
+      "cand": [
+        {
+          "oid": "W1860590611",
+          "title": "Early Mesopotamian urbanism: a new view from the north",
+          "year": 2007,
+          "cited": 244,
+          "abs_len": 1067,
+          "slots": [
+            "sumer",
+            "mesopotamia",
+            "urbanism",
+            "state"
+          ],
+          "doi": "10.1017/s0003598x00095600"
+        },
+        {
+          "oid": "W2119035300",
+          "title": "The Spatial Dimensions of Early Mesopotamian Urbanism: The Tell Brak Suburban Survey, 2003–2006",
+          "year": 2011,
+          "cited": 91,
+          "abs_len": 1176,
+          "slots": [
+            "mesopotamia",
+            "urbanism",
+            "settlement"
+          ],
+          "doi": "10.1017/s0021088900000061"
+        },
+        {
+          "oid": "W2756041739",
+          "title": "Demographic Trends in Early Mesopotamian Urbanism",
+          "year": 2017,
+          "cited": 6,
+          "abs_len": 1020,
+          "slots": [
+            "mesopotamia",
+            "urbanism",
+            "settlement"
+          ],
+          "doi": "10.1163/9789004353572_003"
+        }
+      ],
+      "n": 7
+    },
+    "长江流域": {
+      "cand": [
+        {
+          "oid": "W7158271847",
+          "title": "Geographic patterns of industrial water consumption in the Yangtze River Basin",
+          "year": 2025,
+          "cited": 0,
+          "abs_len": 1375,
+          "slots": [
+            "yangtze",
+            "basin",
+            "geograph",
+            "agricultur"
+          ],
+          "doi": "10.22271/27067483.2025.v7.i2b.577"
+        },
+        {
+          "oid": "W7118013113",
+          "title": "Multidimensional Drought Relationships in the Yangtze River Basin: Causality, Propagation Thresholds, and Drought Resistance Capacity",
+          "year": 2026,
+          "cited": 1,
+          "abs_len": 1446,
+          "slots": [
+            "yangtze",
+            "basin",
+            "agricultur"
+          ],
+          "doi": "10.3390/agriculture16010118"
+        },
+        {
+          "oid": "W4304842713",
+          "title": "Has the Yangtze river economic belt strategy promoted the construction of ecological civilization in the upper reaches of the Yangtze river?",
+          "year": 2022,
+          "cited": 37,
+          "abs_len": 1786,
+          "slots": [
+            "yangtze",
+            "basin"
+          ],
+          "doi": "10.3389/fenvs.2022.1046323"
+        }
+      ],
+      "n": 8
+    },
+    "汉代": {
+      "cand": [
+        {
+          "oid": "W2961296942",
+          "title": "War economy during the Western Han Dynasty",
+          "year": 2019,
+          "cited": 1,
+          "abs_len": 945,
+          "slots": [
+            "han",
+            "dynasty",
+            "empire",
+            "econom"
+          ],
+          "doi": "10.4324/9781315162911-7"
+        },
+        {
+          "oid": "W2908078138",
+          "title": "Analysis of Agricultural Development in Hexi in Han Dynasty",
+          "year": 2018,
+          "cited": 0,
+          "abs_len": 878,
+          "slots": [
+            "han",
+            "dynasty",
+            "econom"
+          ],
+          "doi": "10.2991/icoeme-18.2018.91"
+        }
+      ],
+      "n": 2
+    },
+    "大平原": {
+      "cand": [
+        {
+          "oid": "W1999738724",
+          "title": "The Great Plains: Agriculture and the Environment in the Late Twentieth Century",
+          "year": 2001,
+          "cited": 1,
+          "abs_len": 999,
+          "slots": [
+            "great plains",
+            "environment",
+            "agricultur",
+            "history"
+          ],
+          "doi": "10.1215/00021482-75.4.395"
+        },
+        {
+          "oid": "W2041849268",
+          "title": "Scarp Woodlands, Transported Grassland Soils, and Concept of Grassland Climate in the Great Plains Region",
+          "year": 1965,
+          "cited": 117,
+          "abs_len": 503,
+          "slots": [
+            "great plains",
+            "grassland"
+          ],
+          "doi": "10.1126/science.148.3667.246"
+        },
+        {
+          "oid": "W4211086749",
+          "title": "Suffrage History in the Northern Great Plains: Why It Matters",
+          "year": 2020,
+          "cited": 0,
+          "abs_len": 4441,
+          "slots": [
+            "great plains",
+            "history"
+          ],
+          "doi": "10.1353/gpq.2020.0034"
+        }
+      ],
+      "n": 3
+    },
+    "澳大利亚大陆": {
+      "cand": [
+        {
+          "oid": "W2135287259",
+          "title": "Australian Participation in the Intergovernmental Panel on Climate Change",
+          "year": 2008,
+          "cited": 14,
+          "abs_len": 1789,
+          "slots": [
+            "australia",
+            "environment",
+            "climate"
+          ],
+          "doi": "10.1260/095830508783563145"
+        },
+        {
+          "oid": "W4295163478",
+          "title": "Does the Australian Labor Party care about climate change? A content analysis of ALP attitudes towards the environment from 2007 to 2013",
+          "year": 2022,
+          "cited": 0,
+          "abs_len": 885,
+          "slots": [
+            "australia",
+            "environment",
+            "climate"
+          ],
+          "doi": "10.1080/10361146.2022.2107485"
+        },
+        {
+          "oid": "W2922223396",
+          "title": "Old ways for new days: Australian Indigenous peoples and climate change",
+          "year": 2019,
+          "cited": 113,
+          "abs_len": 1182,
+          "slots": [
+            "australia",
+            "climate"
+          ],
+          "doi": "10.1080/13549839.2019.1590325"
+        }
+      ],
+      "n": 7
+    },
+    "波利尼西亚": {
+      "cand": [
+        {
+          "oid": "W4312984527",
+          "title": "Southeast Solomon Islands in regional perspective: settlement history, interaction spheres, Polynesian outliers and eastward dispersals",
+          "year": 2022,
+          "cited": 46,
+          "abs_len": 761,
+          "slots": [
+            "polynesia",
+            "polynesian",
+            "dispersal",
+            "settlement"
+          ],
+          "doi": "10.15286/jps.131.2.113-184"
+        },
+        {
+          "oid": "W2158274041",
+          "title": "Late colonization of East Polynesia",
+          "year": 1993,
+          "cited": 342,
+          "abs_len": 510,
+          "slots": [
+            "polynesia",
+            "coloniz",
+            "settlement"
+          ],
+          "doi": "10.1017/s0003598x00045324"
+        },
+        {
+          "oid": "W2177955965",
+          "title": "Colonization, Settlement, and Process in Central Eastern Polynesia",
+          "year": 2014,
+          "cited": 8,
+          "abs_len": 960,
+          "slots": [
+            "polynesia",
+            "coloniz",
+            "settlement"
+          ],
+          "doi": "10.1093/oxfordhb/9780199925070.013.020"
+        }
+      ],
+      "n": 8
+    },
+    "南极冰盖": {
+      "cand": [
+        {
+          "oid": "W4365137248",
+          "title": "Present and future Ross Ice Shelf dynamics from observations and modelling, and implications for the Antarctic Ice Sheet",
+          "year": 2023,
+          "cited": 0,
+          "abs_len": 3172,
+          "slots": [
+            "antarctic",
+            "ice sheet",
+            "dynamic",
+            "mass"
+          ],
+          "doi": "10.26686/wgtn.22597135"
+        },
+        {
+          "oid": "W7151870887",
+          "title": "Evolution of snow and air below the surface of the East Antarctic ice sheet",
+          "year": 2024,
+          "cited": 2,
+          "abs_len": 3970,
+          "slots": [
+            "antarctic",
+            "ice sheet"
+          ],
+          "doi": "10.70675/4b34641fz9b15z4680za2edzf31a735fafaf"
+        }
+      ],
+      "n": 2
+    }
+  },
+  "http": {
+    "ok": 340,
+    "fail": 12
+  }
+}

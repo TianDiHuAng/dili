@@ -1,47 +1,54 @@
-# REPORT.md — 第 95 轮摘要
+# REPORT.md — 第 96 轮摘要
 
 - 日期：2026-11-24
-- 状态：正常循环（**G1 与 C 级清零（重建后）**）
+- 状态：正常循环（**G3：62 → 56，核心 G3a 9→3**）
 
-## 1. 补上 G1 的 4 条
+## 1. 核心 G3a 9 条：登记 6 条
 
-| 条目 | 新强来源 | 被引 | 摘要 |
+| 条目 | 新第二来源 | 被引 | 摘要 |
 |---|---|---|---|
-| **古希腊城邦** | Polis: An Introduction to the Ancient Greek City-State (2006) | **494** | 867 |
-| 南锥体 | The Southern Cone Model (2004) | **79** | 792 |
-| 古埃及古王国 | Territorial Appropriation during the Old Kingdom (2007) | 9 | 944 |
-| 苏美尔城邦 | The Sumerian City-state (1997) | 0 | 1,053 |
+| 苏美尔城邦 | Early Mesopotamian urbanism: a new view (2007) | **244** | 1,067 |
+| 撒哈拉沙漠 | The impact of Sahara **desertification** on Arctic cooling (2015) | 21 | 1,150 |
+| 汉代 | **War economy** during the Western Han Dynasty (2019) | 1 | 945 |
+| 大平原 | The Great Plains: **Agriculture and the Environment** (2001) | 1 | 999 |
+| 马里帝国 | The Grand Empires of the **Sahel**: Gold, Trade (2025) | 0 | 935 |
+| 南极冰盖 | Present and future **Ross Ice Shelf** dynamics (2023) | 0 | 3,172 |
 
-**古希腊城邦那条被引 494**——是本轮质量最高的一条，摘要直接给出「两种国家形态：内含若干城市的大型国家 vs 由城邦构成的区域」，与条目的政体叙述完全对位。
-**苏美尔城邦**的摘要写明「迄今最早明确证实的国家约在前 3200 年出现于尼罗河谷与南美索不达米亚」，并解释「明确」是因为这两地发明了文字——正是本条要的机制。
-**南锥体**那条是政治经济学研究，落点句已注明「该文是政治经济学研究，不涉本条的温带气候与地形叙述」。
+**撒哈拉那条是意外的好**：研究的是「撒哈拉沙漠化对全新世北极降温的影响」——正是本条要的「干旱化与全球气候耦合」机制，而不是又一次「20 世纪非洲气候」。
+**苏美尔**那条被引 244，是本轮最高。
 
-## 2. 一个必须说清的差别
+## 2. 三条不采用
 
-第85轮我也写过「G1 清零」，第94轮证明那是假的（`for…break` 让 4 条降级记录被忽略）。
-**这次不同**：清零是在 D152 修正**之后**重算的，而且 A 级全量复核（191 条）已完成。按 D153，这才能写入 `milestones`，并已注明「与第85轮的假清零不同」。
-但仍有保留：**这是「按当前判据」的结果**。若日后判据再修，可能又会推翻——所以 SATURATION 里保留了两条里程碑记录，不删除旧的。
+| 条目 | 候选 | 问题 |
+|---|---|---|
+| 澳大利亚大陆 | Australian Participation in the **IPCC** | 国际气候治理的政策史 |
+| 波利尼西亚 | Southeast **Solomon Islands** in regional perspective | **所罗门群岛属美拉尼西亚**，与波利尼西亚文化圈不同（对象偏差） |
+| 长江流域 | Geographic patterns of **industrial water consumption** | 现代工业用水的地理格局 |
 
-## 3. 口径
+## 3. R20 第七、第八次逼我补别名
 
-- tools/check.py：ERRORS=0 ALL_PASS（243 条、746 来源；R1–R25）
+| 条目 | 来源标题实际用词 | 补入 |
+|---|---|---|
+| 马里帝国 | **SAHEL**（萨赫勒） | `sahel`、`saharan` |
+| 苏美尔城邦 | **MESOPOTAMIAN** | `mesopotamia`、`mesopotamian` |
+
+前六次：indus→harappan、andes→andean、nazca→nasca、conquest→maghrib、zone→biome、malay→southeast asia。
+**R20 现在是全项目触发次数最多的规则（8 次）**，每次都在我自以为完成时冒出来——它的价值就在这。
+
+## 4. 口径
+
+- tools/check.py：ERRORS=0 ALL_PASS（243 条、752 来源；R1–R25）
 - tools/check_links.py：BROKEN=0 LINKS_PASS
-- 层级：**A 159** / B 62 / **C 0** / D 22
-- 内容源 ≥2：**159**；1 个：82；0 个：2
-- 缺口：**G1=0** / G2=3 / G3a=45 / G3b=17 / G4=243
+- 层级：**A 165** / B 56 / C 0 / D 22
+- 内容源 ≥2：**165**；1 个：76；0 个：2
+- 缺口：G1=0 / G2=3 / **G3a=39**（核心 3） / G3b=17 / G4=243
 
 | 条件 | 状态 |
 |---|---|
 | 全部 243 条 L2 | **已达成** |
 | A 级来源真实对位（全量复核） | **已达成** |
-| **每个条目都有强来源（G1=0）** | **已达成（D152 后重算）** |
+| 每个条目都有强来源（G1=0） | **已达成** |
 | 判据单一实现 | 已达成（四次收敛） |
 | 机器校验 R19–R25 | 已上线，0 违规 |
-| 每条（非 D 级）都有 ≥2 内容源 | 未达成（62 条） |
+| 每条（非 D 级）都有 ≥2 内容源 | 未达成（56 条，核心仅 6） |
 | G4 语义对题 | 243/243 已扫描 |
-
-## 4. 下一阶段的重心
-
-现在每个条目都有**至少一个**强来源，但 **62 条只有 1 个**（G3a 45 + G3b 17）。
-这是本项目最后一类实质缺口：**「有一条对位文献」与「有两条可互证」之间**。
-其中 G3a 的 45 条已有侧面/弱来源可补，G3b 的 17 条（含 3 条已判无解）需要真正对位的整体研究。
