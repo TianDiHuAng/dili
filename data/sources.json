@@ -10521,6 +10521,32 @@
       "verified": true,
       "page_title": "Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities",
       "note": "OpenAlex 作品 W4387983363（DOI 10.30954/2231-4105.01.2023.6）；2023年；被引 25。HTTP 200，13075 字节。摘要长度 1234 字符；主题槽命中 ['inequal', 'opportunit', 'access', 'disparit']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2899960445",
+      "title": "OpenAlex W2899960445 — Prognosis for long‐term sustainable fisheries in the African Great Lakes",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2018,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2899960445",
+      "url2": "https://doi.org/10.1111/fme.12282",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Prognosis for long‐term sustainable fisheries in the African Great Lakes",
+      "note": "OpenAlex 作品 W2899960445（DOI 10.1111/fme.12282）；2018年；被引 35。HTTP 200，20614 字节。摘要长度 1476 字符；主题槽命中 ['lake', 'africa', 'fish', 'tanganyika', 'victoria', 'malawi']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W1581636576",
+      "title": "OpenAlex W1581636576 — Salmon, Science, and Reciprocity on the Northwest Coast",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2009,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W1581636576",
+      "url2": "https://doi.org/10.5751/es-03107-140243",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Salmon, Science, and Reciprocity on the Northwest Coast",
+      "note": "OpenAlex 作品 W1581636576（DOI 10.5751/es-03107-140243）；2009年；被引 62。HTTP 200，17164 字节。摘要长度 859 字符；主题槽命中 ['coast', 'salmon', 'northwest', 'pacific']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

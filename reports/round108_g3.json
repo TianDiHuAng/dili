@@ -1,0 +1,252 @@
+{
+  "results": {
+    "非洲大湖地区": {
+      "cand": [
+        {
+          "oid": "W2770074231",
+          "title": "Fish communities in East African rift lakes",
+          "year": 2017,
+          "cited": 0,
+          "abs_len": 1277,
+          "slots": [
+            "lake",
+            "africa",
+            "rift",
+            "fish",
+            "tanganyika",
+            "victoria",
+            "malawi"
+          ],
+          "doi": "10.4000/books.irdeditions.25244"
+        },
+        {
+          "oid": "W2899960445",
+          "title": "Prognosis for long‐term sustainable fisheries in the African Great Lakes",
+          "year": 2018,
+          "cited": 35,
+          "abs_len": 1476,
+          "slots": [
+            "lake",
+            "africa",
+            "fish",
+            "tanganyika",
+            "victoria",
+            "malawi"
+          ],
+          "doi": "10.1111/fme.12282"
+        },
+        {
+          "oid": "W2165686744",
+          "title": "Fisheries and Cichlid Evolution in the African Great Lakes: Progress and Problems",
+          "year": 2009,
+          "cited": 28,
+          "abs_len": 644,
+          "slots": [
+            "lake",
+            "africa",
+            "fish",
+            "tanganyika",
+            "victoria",
+            "malawi"
+          ],
+          "doi": "10.1608/frj-2.2.2"
+        },
+        {
+          "oid": "W1588532229",
+          "title": "Comparative analysis of fisheries restoration and public participation in Lake Victoria and Lake Tanganyika",
+          "year": 2013,
+          "cited": 22,
+          "abs_len": 1809,
+          "slots": [
+            "lake",
+            "fish",
+            "tanganyika",
+            "victoria"
+          ],
+          "doi": "10.1080/14634988.2013.816618"
+        },
+        {
+          "oid": "W2057059959",
+          "title": "Preliminary Comparisons Between the Ecology of the Haplochromine Cichlid Fishes of Lake Victoria and Lake Malawi",
+          "year": 1980,
+          "cited": 13,
+          "abs_len": 1208,
+          "slots": [
+            "lake",
+            "fish",
+            "victoria",
+            "malawi"
+          ],
+          "doi": "10.1163/002829681x00266"
+        }
+      ],
+      "n": 15
+    },
+    "西北海岸": {
+      "cand": [
+        {
+          "oid": "W1581636576",
+          "title": "Salmon, Science, and Reciprocity on the Northwest Coast",
+          "year": 2009,
+          "cited": 62,
+          "abs_len": 859,
+          "slots": [
+            "coast",
+            "salmon",
+            "northwest",
+            "pacific"
+          ],
+          "doi": "10.5751/es-03107-140243"
+        },
+        {
+          "oid": "W2607888707",
+          "title": "Indigenous perspectives of ecosystem-based management and co-governance in the Pacific Northwest: lessons for Aotearoa",
+          "year": 2017,
+          "cited": 30,
+          "abs_len": 807,
+          "slots": [
+            "coast",
+            "indigenous",
+            "northwest",
+            "pacific"
+          ],
+          "doi": "10.1177/1177180117701692"
+        },
+        {
+          "oid": "W2798320255",
+          "title": "The Northwest Coast: British Navigation, Trade, and Discoveries to 1812",
+          "year": 1992,
+          "cited": 16,
+          "abs_len": 2160,
+          "slots": [
+            "coast",
+            "northwest",
+            "pacific",
+            "trade"
+          ],
+          "doi": "10.59962/9780774856553"
+        },
+        {
+          "oid": "W4396567519",
+          "title": "Native Peoples of the Northwest Coast",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 874,
+          "slots": [
+            "coast",
+            "salmon",
+            "northwest",
+            "potlatch"
+          ],
+          "doi": "10.4324/9781032672762-6"
+        },
+        {
+          "oid": "W4245445822",
+          "title": "Pacific Northwest Container Availability Study: West Coast Container Traffic Analysis, August 30, 2019",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 1853,
+          "slots": [
+            "coast",
+            "northwest",
+            "pacific",
+            "trade"
+          ],
+          "doi": "10.9752/ts207.05-2019"
+        }
+      ],
+      "n": 10
+    },
+    "卫星遥感地表观测": {
+      "cand": [
+        {
+          "oid": "W2897401870",
+          "title": "Classification accuracy and trend assessments of land cover- land use changes from principal components of land satellite images",
+          "year": 2018,
+          "cited": 34,
+          "abs_len": 2484,
+          "slots": [
+            "satellite",
+            "land",
+            "vegetation",
+            "urban",
+            "water",
+            "cover",
+            "monitor"
+          ],
+          "doi": "10.1080/01431161.2018.1524587"
+        },
+        {
+          "oid": "W4409766653",
+          "title": "Advancing Sparse Vegetation Monitoring in the Arctic and Antarctic: A Review of Satellite and UAV Remote Sensing, Machine Learning, and Sensor Fusion",
+          "year": 2025,
+          "cited": 30,
+          "abs_len": 1559,
+          "slots": [
+            "satellite",
+            "land",
+            "vegetation",
+            "urban",
+            "cover",
+            "monitor",
+            "sensor"
+          ],
+          "doi": "10.3390/rs17091513"
+        },
+        {
+          "oid": "W1583194356",
+          "title": "Tracking Land Use/Land Cover Dynamics in Cloud Prone Areas Using Moderate Resolution Satellite Data: A Case Study in Central Africa",
+          "year": 2015,
+          "cited": 66,
+          "abs_len": 1848,
+          "slots": [
+            "satellite",
+            "land",
+            "vegetation",
+            "urban",
+            "cover",
+            "monitor"
+          ],
+          "doi": "10.3390/rs70606683"
+        },
+        {
+          "oid": "W2939408505",
+          "title": "Spatial Monitoring of Urban Expansion Using Satellite Remote Sensing Images: A Case Study of Amman City, Jordan",
+          "year": 2019,
+          "cited": 66,
+          "abs_len": 1435,
+          "slots": [
+            "satellite",
+            "land",
+            "vegetation",
+            "urban",
+            "cover",
+            "monitor"
+          ],
+          "doi": "10.3390/su11082260"
+        },
+        {
+          "oid": "W3102374499",
+          "title": "Land Use Land Cover Change Detection using LANDSAT images: A Case Study",
+          "year": 2020,
+          "cited": 16,
+          "abs_len": 902,
+          "slots": [
+            "satellite",
+            "land",
+            "vegetation",
+            "urban",
+            "water",
+            "cover"
+          ],
+          "doi": "10.1109/iccca49541.2020.9250801"
+        }
+      ],
+      "n": 50
+    }
+  },
+  "http": {
+    "ok": 482,
+    "fail": 0
+  }
+}

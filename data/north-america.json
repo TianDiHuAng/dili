@@ -625,17 +625,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2163451848",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W1581636576"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2163451848（2013年，《Indigenous marine resource management on the Northwest Coast of North America》，DOI https://doi.org/10.1186/2192-1709-2-12）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第84轮检索记录】候选 W4385599252（《Incorporating Culture: How Indigenous People Are Reshaping…》, 2018）主题是文化旅游与文化商品化（当代议题），不支撑「西北海岸原住民的传统社会与资源管理」。不采用。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2163451848（2013年，《Indigenous marine resource management on the Northwest Coast of North America》，DOI https://doi.org/10.1186/2192-1709-2-12）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第84轮检索记录】候选 W4385599252（《Incorporating Culture: How Indigenous People Are Reshaping…》, 2018）主题是文化旅游与文化商品化（当代议题），不支撑「西北海岸原住民的传统社会与资源管理」。不采用。 【第108轮补第二内容源（Crossref）】openalex-W1581636576（2009年，《Salmon, Science, and Reciprocity on the Northwest Coast》，被引 62，摘要 859 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
       "geo": "海岸为峡湾与岛屿交错，冷温带雨林提供雪松与鲑鱼；海洋生产力高，河流的鲑鱼洄游形成季节性资源脉冲。",
-      "influence": "所引 2013 年研究指出，该区域原住民主动管理陆域与海洋资源（如贝类床、火控促进资源植物），其管理实践嵌入复杂的社会经济网络。这修正了「采集者被动适应」的印象。",
+      "influence": "所引 2013 年研究指出，该区域原住民主动管理陆域与海洋资源（如贝类床、火控促进资源植物），其管理实践嵌入复杂的社会经济网络。这修正了「采集者被动适应」的印象。 另据所引 2009 年《Salmon, Science, and Reciprocity on the Northwest Coast》（被引62，摘要 859 字符）：作者论证该沿岸的部落在近代商业捕捞之前的数千年间管理鲑鱼种群，并拥有对终端渔场的排他权利、由互惠关系维系；作者称现有证据「令人信服」地表明其主动维护了鲑鱼的持续丰度。此为单篇研究的论证，摘要之外的具体机制与数据本条不引用。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "沿岸航线连接南北，与内陆高原文化区通过河流与山口交换。",
       "today": "（本条的当代指标不在本页展开。）",

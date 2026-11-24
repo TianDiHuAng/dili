@@ -935,17 +935,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W2967976954",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2899960445"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第39轮渠道探测】OpenAlex 候选为《A sister lineage of the Mycobacterium tuberculosis》（结核分枝杆菌谱系），对象为病原体而非区域，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2967976954（2019年，《Comparison of Hydrology and Physical Limnology of the East African Great Lakes: Tanganyika, Malawi, Victoria, Kivu and Turkana (with reference to some North American Great Lakes)》，DOI 10.1201/9780203748978-6），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】删除「分层与混合→营养循环与渔业」——所引摘要只讲湖盆形态与水量平衡，该推链条属摘要外推。 【第82轮·检索失败已撤销】本轮首次检索时 OpenAlex 的 search 端点返回 HTTP 429（免费日配额耗尽，$0 remaining），脚本把失败静默当成「0 候选」。该结论无效——『没检索到』不等于『不存在』（D065/D110/D144）。改用 Crossref 路线（`query.bibliographic` → DOI → OpenAlex by-ID）后，赫梯、神圣罗马帝国、汉萨同盟三条均取到合格来源；其余条目待下一轮用 Crossref 路线重跑。 【第83轮检索记录】候选 W872113480（type=book）主题为冲突与和平建设，属当代政治侧面，不支撑「大湖地区的自然地理与人口分布」。不采用。 【第85轮剔除·对象碰撞】W2317827584（《Cement Production and Trade on the Great Lakes》, 1944）研究对象是北美五大湖的水泥工业与航运，与「非洲大湖地区」无关（Great Lakes 地名歧义）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第39轮渠道探测】OpenAlex 候选为《A sister lineage of the Mycobacterium tuberculosis》（结核分枝杆菌谱系），对象为病原体而非区域，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2967976954（2019年，《Comparison of Hydrology and Physical Limnology of the East African Great Lakes: Tanganyika, Malawi, Victoria, Kivu and Turkana (with reference to some North American Great Lakes)》，DOI 10.1201/9780203748978-6），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】删除「分层与混合→营养循环与渔业」——所引摘要只讲湖盆形态与水量平衡，该推链条属摘要外推。 【第82轮·检索失败已撤销】本轮首次检索时 OpenAlex 的 search 端点返回 HTTP 429（免费日配额耗尽，$0 remaining），脚本把失败静默当成「0 候选」。该结论无效——『没检索到』不等于『不存在』（D065/D110/D144）。改用 Crossref 路线（`query.bibliographic` → DOI → OpenAlex by-ID）后，赫梯、神圣罗马帝国、汉萨同盟三条均取到合格来源；其余条目待下一轮用 Crossref 路线重跑。 【第83轮检索记录】候选 W872113480（type=book）主题为冲突与和平建设，属当代政治侧面，不支撑「大湖地区的自然地理与人口分布」。不采用。 【第85轮剔除·对象碰撞】W2317827584（《Cement Production and Trade on the Great Lakes》, 1944）研究对象是北美五大湖的水泥工业与航运，与「非洲大湖地区」无关（Great Lakes 地名歧义）。 【第108轮补第二内容源（Crossref）】openalex-W2899960445（2018年，《Prognosis for long‐term sustainable fisheries in the African Great Lakes》，被引 35，摘要 1476 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
       "geo": "湖泊位于东非裂谷带的构造洼地，深度大、水体分层明显；周边高原降水较丰，农业与渔业支撑密集人口。湖泊之间的海拔与连通性差异极大。",
-      "influence": "所引 2019 年研究比较该区域各湖的水文与物理湖沼学特征，指出湖盆形态与水量平衡的差异使各湖表现不同，不能一概而论。 本条不据该文献推断分层、营养循环或渔业的具体机制。",
+      "influence": "所引 2019 年研究比较该区域各湖的水文与物理湖沼学特征，指出湖盆形态与水量平衡的差异使各湖表现不同，不能一概而论。 本条不据该文献推断分层、营养循环或渔业的具体机制。 另据所引 2018 年《Prognosis for long-term sustainable fisheries in the African Great Lakes》（被引35，摘要 1,476 字符）：坦噶尼喀湖、马拉维湖与维多利亚湖的渔业仍为开放准入，渔获量下降、物种组成发生变化；作者认为可持续管理需转向更强的社会—生态路径，并称若无相应行动，长期可持续渔业的前景「黯淡」。此为该文的评估与论断，本条不据此推断各湖渔获的具体数值或成因分解。",
       "connections": "经尼罗河、刚果河与赞比西河等水系连接外部，湖泊本身构成内河航运与渔业的中心。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",

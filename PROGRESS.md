@@ -63,3 +63,12 @@
   - 教训：R20 要求来源标题含对象词；检索词含对象词的候选，标题未必含，须先看标题再登记。登记失败时先 git checkout 回退派生文件，再重跑 round68_levels、round62_gaps、round77_split 与三项检查。
   - 收尾：层级 A206 / B8 / C0 / D29；缺口 G1=0 / G2=3 / G3=8（G3a 2 + G3b 6）/ G4=243；check.py 0 错误，check_links.py 0 断链，round100_consist.py 0 问题。
   - 下一轮起点（第108轮）：大分水岭、冲积平原已两轮无合格标题，暂缓；转追非洲大湖地区、西北海岸、卫星遥感地表观测，检索词用标题常见的英文名（African Great Lakes、Pacific Northwest coast、satellite remote sensing land surface）。
+
+- **第108轮：G3 8→6，A 206→208**（登记2条）
+  | 条目 | 新来源 | 被引 | 处理 |
+  |---|---|---|---|
+  | 非洲大湖地区 | Prognosis for long-term sustainable fisheries in the African Great Lakes (2018) | 35 | 计入；仅引渔业评估与作者论断 |
+  | 西北海岸 | Salmon, Science, and Reciprocity on the Northwest Coast (2009) | 62 | 计入；单篇论证，已注明作者口径 |
+  - 卫星遥感地表观测：无合格候选。
+  - 第108轮收尾：层级 A208 / B6 / C0 / D29；缺口 G1=0 / G2=3 / G3=6（G3a 2 + G3b 4）/ G4=243；check.py 0 错误，check_links.py 0 断链，round100_consist.py 0 问题。
+  - 下一轮起点（第109轮）：追卫星遥感地表观测；大分水岭、冲积平原换角度；笈多/巴西高原/拉普拉塔已多轮无解，除非有新渠道不再重复检索。

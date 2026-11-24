@@ -278,9 +278,9 @@
       "tier": "重要"
     },
     "非洲大湖地区": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1358,9 +1358,9 @@
       "tier": "重要"
     },
     "西北海岸": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 206,
-    "B": 8,
+    "A": 208,
+    "B": 6,
     "C": 0,
     "D": 29
   },

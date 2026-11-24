@@ -1571,6 +1571,21 @@
       "sample_rate": "G3a 3 条全部检索",
       "sample_audit": "登记1条：教育机会地域差异计入第二内容源（证据偏弱，已注明）；大分水岭、冲积平原无标题含对象词的合格候选",
       "note": "G3 9→8；A206；一致性0问题"
+    },
+    {
+      "round": 108,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 3,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 2,
+      "sample_rate": "G3b 3 条全部检索",
+      "sample_audit": "登记2条：非洲大湖地区(被引35)、西北海岸(被引62)计入第二内容源；卫星遥感地表观测无合格候选",
+      "note": "G3 8→6；A208；一致性0问题"
     }
   ]
 }
