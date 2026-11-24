@@ -671,6 +671,21 @@
       "sample_rate": "10条",
       "sample_audit": "10条抽检8FAIL：日本列岛新源实为哥伦比亚侏罗纪火山（对象碰撞+时期错配，已上页面）→撤回；地形常识类3条系检索不力→用领域词重检取到Cited63-75同位文献；指标解读类37条中12条influence含因果断言→逐条弱化为「与…相关」；hb()由单读sources.note改为双读pending_notes并回写9条实测→ge2真实为126而非29；D103-D105",
       "note": "口径澄清：44条「缺来源」中37条为指标解读类、3条地形常识类，真缺口仅3条"
+    },
+    {
+      "round": 47,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "实测轮：为66条条目实测来源字符数；发现世界银行JSON(2248字符)被当文章正文使ge2虚高至241，已把数据端点单列；修正后ge2结构层219(未校验内容对题)",
+      "note": "口径实测轮：为 66 条条目实测来源字符数；数据端点与内容源分离后 ge2=219（结构层，未校验内容对题）"
     }
   ]
 }
