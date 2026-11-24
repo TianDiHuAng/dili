@@ -1,0 +1,487 @@
+{
+  "results": {
+    "基辅罗斯": {
+      "cand": [
+        {
+          "oid": "W2955991686",
+          "title": "THE POSITION AND ROLE OF THE KYIVAN RUS’ STATE IN THE CENTURIES-OLD HISTORY OF UKRAINIAN STATE-BUILDING",
+          "year": 2019,
+          "cited": 4,
+          "abs_len": 3466,
+          "slots": [
+            "kyivan",
+            "rus",
+            "state",
+            "society"
+          ],
+          "doi": "10.30970/vla.2019.68.074"
+        },
+        {
+          "oid": "W3210011079",
+          "title": "Death and burial in Kyivan Rus’ according to written sources",
+          "year": 2021,
+          "cited": 2,
+          "abs_len": 1062,
+          "slots": [
+            "kyivan",
+            "rus",
+            "state",
+            "society"
+          ],
+          "doi": "10.34739/his.2021.10.09"
+        },
+        {
+          "oid": "W2990962021",
+          "title": "Introduction: Ancient Russia and Kievan Rus’",
+          "year": 2018,
+          "cited": 1,
+          "abs_len": 1015,
+          "slots": [
+            "kievan",
+            "rus",
+            "state",
+            "society"
+          ],
+          "doi": "10.4324/9780429497520-1"
+        }
+      ],
+      "n": 19
+    },
+    "欧洲冰期地貌": {
+      "cand": [
+        {
+          "oid": "W2038364128",
+          "title": "Dynamics of the pleistocene glaciation and the nature of Marine Transgression Basins in northern Europe",
+          "year": 1986,
+          "cited": 0,
+          "abs_len": 953,
+          "slots": [
+            "glacial",
+            "pleistocene",
+            "europe"
+          ],
+          "doi": "10.1080/10889378609377269"
+        },
+        {
+          "oid": "W26920352",
+          "title": "Early Pleistocene glaciation in Idaho",
+          "year": 1930,
+          "cited": 3,
+          "abs_len": 1237,
+          "slots": [
+            "glacial",
+            "pleistocene"
+          ],
+          "doi": "10.3133/pp158g"
+        },
+        {
+          "oid": "W3043923387",
+          "title": "Lithology of glacial deposits of the last Late Pleistocene glaciation",
+          "year": 2020,
+          "cited": 0,
+          "abs_len": 975,
+          "slots": [
+            "glacial",
+            "pleistocene"
+          ],
+          "doi": "10.1201/9781003077695-26"
+        }
+      ],
+      "n": 3
+    },
+    "阿巴拉契亚山脉": {
+      "cand": [
+        {
+          "oid": "W2948623208",
+          "title": "CONNECTING TRAIL: THE INTERNATIONAL APPALACHIAN TRAIL AND THE APPALACHIAN OROGENY",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 1499,
+          "slots": [
+            "appalachian",
+            "orogen",
+            "geolog",
+            "evolution"
+          ],
+          "doi": "10.1130/abs/2019ne-328249"
+        },
+        {
+          "oid": "W2160884279",
+          "title": "A newly identified Gondwanan terrane in the northern Appalachian Mountains: Implications for the Taconic orogeny and closure of the Iapetus Ocean: COMMENT",
+          "year": 2015,
+          "cited": 6,
+          "abs_len": 5062,
+          "slots": [
+            "appalachian",
+            "orogen",
+            "geolog"
+          ],
+          "doi": "10.1130/g36425c.1"
+        },
+        {
+          "oid": "W1902061871",
+          "title": "Alleghanian (Appalachian) orogeny, a product of zipper tectonics: Rotational transpressive continent-continent collision and closing of ancient oceans along irregular margins",
+          "year": 2002,
+          "cited": 164,
+          "abs_len": 1943,
+          "slots": [
+            "appalachian",
+            "orogen"
+          ],
+          "doi": "10.1130/0-8137-2364-7.199"
+        }
+      ],
+      "n": 10
+    },
+    "西北海岸": {
+      "cand": [
+        {
+          "oid": "W4385599252",
+          "title": "Incorporating Culture: How Indigenous People Are Reshaping the Northwest Coast Art Industry",
+          "year": 2018,
+          "cited": 7,
+          "abs_len": 1107,
+          "slots": [
+            "northwest coast",
+            "indigenous"
+          ],
+          "doi": "10.59962/9780774837408"
+        }
+      ],
+      "n": 1
+    },
+    "新法兰西": {
+      "cand": [
+        {
+          "oid": "W4382866151",
+          "title": "Power and Subsistence: The Political Economy of Grain in New France",
+          "year": 2018,
+          "cited": 6,
+          "abs_len": 1323,
+          "slots": [
+            "new france",
+            "econom"
+          ],
+          "doi": "10.1515/9780773555983"
+        }
+      ],
+      "n": 1
+    },
+    "的的喀喀湖": {
+      "cand": [
+        {
+          "oid": "W1934332297",
+          "title": "GEOLOGY OF THE LAKE TITICACA REGION, PERU AND BOLIVIA",
+          "year": 1949,
+          "cited": 122,
+          "abs_len": 614,
+          "slots": [
+            "titicaca",
+            "lake",
+            "basin"
+          ],
+          "doi": "10.1130/mem36-p1"
+        },
+        {
+          "oid": "W4392386992",
+          "title": "A groundwater basin multidisciplinary approach to conceptualize subsurface flow and trace nitrate contamination sources. Lake Titicaca, Bolivia",
+          "year": 2019,
+          "cited": 1,
+          "abs_len": 4087,
+          "slots": [
+            "titicaca",
+            "lake",
+            "basin"
+          ],
+          "doi": "10.70675/e83bd5f4zfb46z4837z8614z002d53aa534e"
+        },
+        {
+          "oid": "W2917558117",
+          "title": "The Lake Titicaca region",
+          "year": 2018,
+          "cited": 0,
+          "abs_len": 913,
+          "slots": [
+            "titicaca",
+            "lake"
+          ],
+          "doi": "10.4324/9780429459436-6"
+        }
+      ],
+      "n": 3
+    },
+    "查文文化": {
+      "cand": [
+        {
+          "oid": "W4252739642",
+          "title": "Chavin culture (pre‐Moche)",
+          "year": 2016,
+          "cited": 2,
+          "abs_len": 909,
+          "slots": [
+            "chavin",
+            "culture",
+            "andes",
+            "huantar"
+          ],
+          "doi": "10.1002/9781118455074.wbeoe305"
+        },
+        {
+          "oid": "W1979034930",
+          "title": "The Evolution of Authority and Power at Chavin de Huantar, Peru",
+          "year": 2004,
+          "cited": 124,
+          "abs_len": 1267,
+          "slots": [
+            "chavin",
+            "andes",
+            "huantar"
+          ],
+          "doi": "10.1525/ap3a.2005.14.071"
+        },
+        {
+          "oid": "W2164638574",
+          "title": "Seeing like an archaeologist: Viveiros de Castro at Chavín de Huantar",
+          "year": 2015,
+          "cited": 82,
+          "abs_len": 790,
+          "slots": [
+            "chavin",
+            "culture",
+            "huantar"
+          ],
+          "doi": "10.1177/1469605315575425"
+        }
+      ],
+      "n": 9
+    },
+    "纳斯卡文化": {
+      "cand": [
+        {
+          "oid": "W2543231307",
+          "title": "Beyond the Nasca Lines: Ancient Life at La Tiza in the Peruvian Desert",
+          "year": 2016,
+          "cited": 22,
+          "abs_len": 1434,
+          "slots": [
+            "nasca",
+            "culture",
+            "society",
+            "archaeolog"
+          ],
+          "doi": "10.5744/florida/9780813062020.001.0001"
+        },
+        {
+          "oid": "W4406629351",
+          "title": "Lines of Nazca: Memoirs, American Philosophical Society (vol. 183)",
+          "year": 1990,
+          "cited": 28,
+          "abs_len": 752,
+          "slots": [
+            "nazca",
+            "society",
+            "archaeolog"
+          ],
+          "doi": "10.70249/9798893981193"
+        },
+        {
+          "oid": "W4234127379",
+          "title": "The Nasca Culture: Civilization in the Desert",
+          "year": 2016,
+          "cited": 0,
+          "abs_len": 947,
+          "slots": [
+            "nasca",
+            "culture",
+            "society"
+          ],
+          "doi": "10.5744/florida/9780813062020.003.0006"
+        }
+      ],
+      "n": 3
+    },
+    "奇穆帝国": {
+      "cand": [
+        {
+          "oid": "W2093974440",
+          "title": "Imperialist Expansion in Peruvian Prehistory: Chimu Administration of a Conquered Territory",
+          "year": 1983,
+          "cited": 82,
+          "abs_len": 1766,
+          "slots": [
+            "chimu",
+            "state",
+            "administrat",
+            "empire"
+          ],
+          "doi": "10.1179/009346983791504246"
+        },
+        {
+          "oid": "W2312215401",
+          "title": "Pattern and Meaning in Prehistoric Peruvian Architecture: The Architecture of Social Control in the Chimu State",
+          "year": 1992,
+          "cited": 63,
+          "abs_len": 1245,
+          "slots": [
+            "chimu",
+            "state"
+          ],
+          "doi": "10.2307/971938"
+        },
+        {
+          "oid": "W1987443699",
+          "title": "CONSTRUCTION AND LABOR ORGANIZATION IN THE CHIMU EMPIRE",
+          "year": 1981,
+          "cited": 18,
+          "abs_len": 619,
+          "slots": [
+            "chimu",
+            "empire"
+          ],
+          "doi": "10.1179/naw.1981.19.1.006"
+        }
+      ],
+      "n": 3
+    },
+    "南美贸易网络": {
+      "cand": [
+        {
+          "oid": "W4224004721",
+          "title": "The Jaén Stone Bowl Tradition and Ceja de Selva Contributions to Early Andean Exchange Networks",
+          "year": 2022,
+          "cited": 4,
+          "abs_len": 1275,
+          "slots": [
+            "andean",
+            "exchange",
+            "network"
+          ],
+          "doi": "10.1017/laq.2022.9"
+        },
+        {
+          "oid": "W4388168570",
+          "title": "On the Margin: Letter Exchange among Andean Non-Literates",
+          "year": 1997,
+          "cited": 31,
+          "abs_len": 682,
+          "slots": [
+            "andean",
+            "exchange"
+          ],
+          "doi": "10.1093/oso/9780195097894.003.0011"
+        },
+        {
+          "oid": "W2344015479",
+          "title": "Ritual practices and wrapped objects: Unpacking prehispanic Andean sacred bundles",
+          "year": 2015,
+          "cited": 28,
+          "abs_len": 1018,
+          "slots": [
+            "andean",
+            "prehispanic"
+          ],
+          "doi": "10.1177/1359183515610135"
+        }
+      ],
+      "n": 6
+    },
+    "美拉尼西亚": {
+      "cand": [
+        {
+          "oid": "W2795469032",
+          "title": "Change and Resilience in Melanesian Societies",
+          "year": 2018,
+          "cited": 0,
+          "abs_len": 13669,
+          "slots": [
+            "melanesia",
+            "melanesian",
+            "societ",
+            "culture"
+          ],
+          "doi": "10.1162/glep_a_00460"
+        },
+        {
+          "oid": "W3135092423",
+          "title": "Biographical relations in Amerindian and Melanesian societies",
+          "year": 2021,
+          "cited": 1,
+          "abs_len": 827,
+          "slots": [
+            "melanesia",
+            "melanesian",
+            "societ"
+          ],
+          "doi": "10.4324/9781003158806-2-6"
+        },
+        {
+          "oid": "W2933782916",
+          "title": "Missionaries in the Melanesian World",
+          "year": 2019,
+          "cited": 1,
+          "abs_len": 1031,
+          "slots": [
+            "melanesia",
+            "melanesian",
+            "societ"
+          ],
+          "doi": "10.4324/9781315529691-4"
+        }
+      ],
+      "n": 8
+    },
+    "密克罗尼西亚": {
+      "cand": [
+        {
+          "oid": "W4252938015",
+          "title": "Traditional Micronesian Societies: Adaptation, Integration, and Political Organization in the Central Pacific",
+          "year": 2017,
+          "cited": 22,
+          "abs_len": 2141,
+          "slots": [
+            "micronesia",
+            "micronesian",
+            "societ",
+            "settle",
+            "island"
+          ],
+          "doi": "10.1515/9780824865283"
+        },
+        {
+          "oid": "W2174072181",
+          "title": "Archaeology of the Eastern Caroline Islands, Micronesia",
+          "year": 2014,
+          "cited": 7,
+          "abs_len": 831,
+          "slots": [
+            "micronesia",
+            "societ",
+            "settle",
+            "island"
+          ],
+          "doi": "10.1093/oxfordhb/9780199925070.013.013"
+        },
+        {
+          "oid": "W2556437735",
+          "title": "Some Exceptions to the Pan-Micronesian Patterns",
+          "year": 2009,
+          "cited": 0,
+          "abs_len": 1091,
+          "slots": [
+            "micronesia",
+            "micronesian",
+            "societ",
+            "island"
+          ],
+          "doi": "10.21313/hawaii/9780824832483.003.0009"
+        }
+      ],
+      "n": 8
+    }
+  },
+  "http": {
+    "ok": 485,
+    "fail": 0,
+    "errors": []
+  }
+}

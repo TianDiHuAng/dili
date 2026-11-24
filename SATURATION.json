@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 83,
+  "last_round": 84,
   "history": [
     {
       "round": 1,
@@ -762,8 +762,8 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 155,
-      "B": 74,
+      "A": 166,
+      "B": 63,
       "C": 1,
       "D": 13
     },
@@ -775,8 +775,8 @@
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json",
-    "ge2_content": 189,
-    "one_content": 52,
+    "ge2_content": 200,
+    "one_content": 41,
     "zero_content": 2,
     "criterion": "tools/assess.py（D138 单一实现）",
     "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）"
@@ -799,7 +799,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 44,
+        "count": 33,
         "fixed_by": "补第二内容源，须过 R19/R20/R22/R25"
       },
       {

@@ -1226,6 +1226,21 @@
       "sample_rate": "被撤销的9条重跑（Crossref 路线）",
       "sample_audit": "7/9命中、失败率2%——证明上轮0候选是429假象",
       "note": "D144 首次执行：Crossref 路线重跑得6条→G3 50→44；层级 A155"
+    },
+    {
+      "round": 84,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 11,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 11,
+      "sample_rate": "补充G3b 12条（Crossref 路线）",
+      "sample_audit": "12/12命中、HTTP失败率0%；11条登记",
+      "note": "Crossref 路线稳定（0%失败）；补11条→G3 44→33、G3b补充 20→9；A166"
     }
   ]
 }

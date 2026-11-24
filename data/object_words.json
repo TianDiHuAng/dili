@@ -600,7 +600,8 @@
     "chavin"
   ],
   "纳斯卡文化": [
-    "nazca"
+    "nazca",
+    "nasca"
   ],
   "奇穆帝国": [
     "chimu"
@@ -704,7 +705,9 @@
   ],
   "欧洲冰期地貌": [
     "glacial",
-    "map"
+    "map",
+    "pleistocene",
+    "glaciation"
   ],
   "环境治理": [
     "environmental governance"
