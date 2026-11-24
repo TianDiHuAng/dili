@@ -1496,6 +1496,21 @@
       "sample_rate": "4条核心缺口",
       "sample_audit": "4/4有候选0%失败；3+1条登记，核心缺口清零",
       "note": "核心清零：G3a核心 1→0、G3b核心 3→0；G3 31→27；A194"
+    },
+    {
+      "round": 102,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 10,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "G3a补充10条性质判读",
+      "sample_audit": "D157/D158：指标解读类有旁证与 today 指标均不阻止判 D；G3 27→20",
+      "note": "D157+D158 →D 22→29、G3 27→20；一致性0问题"
     }
   ]
 }

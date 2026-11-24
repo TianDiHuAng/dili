@@ -2306,7 +2306,7 @@
       "tier": "补充"
     },
     "人口年龄结构": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 1,
@@ -2342,7 +2342,7 @@
       "tier": "补充"
     },
     "预期寿命空间差异": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 1,
@@ -2426,7 +2426,7 @@
       "tier": "补充"
     },
     "人口增长": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 1,
@@ -2462,7 +2462,7 @@
       "tier": "补充"
     },
     "荒漠化": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 0,
@@ -2738,7 +2738,7 @@
       "tier": "补充"
     },
     "农业统计体系": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 1,
@@ -2750,7 +2750,7 @@
       "tier": "补充"
     },
     "全球人口规模": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 1,
@@ -2858,7 +2858,7 @@
       "tier": "补充"
     },
     "全球气温距平": {
-      "level": "B",
+      "level": "D",
       "counts": {
         "strong": 1,
         "weak": 1,
@@ -2920,9 +2920,9 @@
   },
   "summary": {
     "A": 194,
-    "B": 27,
+    "B": 20,
     "C": 0,
-    "D": 22
+    "D": 29
   },
   "definition": {
     "A": "≥2 强来源",

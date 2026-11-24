@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 101,
+  "last_round": 102,
   "history": [
     {
       "round": 1,
@@ -763,9 +763,9 @@
     "ge2_has_body": 224,
     "levels": {
       "A": 194,
-      "B": 27,
+      "B": 20,
       "C": 0,
-      "D": 22
+      "D": 29
     },
     "side_evidence": {
       "side": 34,
@@ -804,7 +804,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 27,
+        "count": 20,
         "fixed_by": "补第二内容源，须过 R19/R20/R22/R25"
       },
       {

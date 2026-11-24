@@ -185,7 +185,14 @@ def level_of(entry, sources):
     if c["strong"] == 1:
         sids = _strong_sids(entry, sources)
         is_institutional = sids and not any(s.startswith("openalex-") for s in sids)
-        if is_institutional and c["data"] > 0 and c["side"] == 0:
+        # D157：不再要求 side==0——指标解读类条目本来就只有一篇机构长文，
+        # 其余来源被判旁证（side）是常态，不该因此阻止它归入 D。
+        # D158：数据证据不限于 wb-/usgs- 等 API 端点——
+        # 若 today 字段自述「来源：…指标…」且**只说明数值、不作叙事断言**，同样属指标解读类。
+        td = (entry.get("today") or "")
+        has_indicator = ("指标" in td) or ("Climate at a Glance" in td) or ("世界银行 API" in td)
+        is_numeric_today = bool(td) and has_indicator and ("（本条的当代指标不在本页展开。）" not in td)
+        if is_institutional and (c["data"] > 0 or is_numeric_today):
             return "D"
         return "B"
     if c["data"] > 0 and c["side"] == 0 and c["weak"] == 0:
