@@ -1526,6 +1526,21 @@
       "sample_rate": "G3b重要7条（跳过3无解）",
       "sample_audit": "7/7命中2%失败；登记4条（明清军制/威尼斯马赛克/ATS/山地梯田）；3条碰撞",
       "note": "补4条→G3 20→16、G3b重要 10→6；A198；一致性0问题"
+    },
+    {
+      "round": 104,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 7,
+      "fixes": 5,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 5,
+      "sample_rate": "G3a剩余7条",
+      "sample_audit": "5/7命中；登记5条（中王国107引/争议边界117引/黎凡特98引/朝鲜半岛/中南半岛）；教育机会、人文地理学无通过候选；1条对象碰撞（季风对流）",
+      "note": "补5条→G3 16→11、G3a 7→2；A203；一致性0问题"
     }
   ]
 }

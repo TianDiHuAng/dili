@@ -10391,6 +10391,71 @@
       "verified": true,
       "page_title": "A Future for Mountain Terraces: Experiences from Mediterranean Wineries",
       "note": "OpenAlex 作品 W4293701402（DOI 10.1659/mrd-journal-d-21-00031.1）；2022年；被引 16。HTTP 200，22293 字节。摘要长度 1779 字符；主题槽命中 ['mountain', 'agricultur', 'terrace', 'farming']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4392989059",
+      "title": "OpenAlex W4392989059 — The Middle Kingdom of Ancient Egypt: History, Archaeology and Society",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2006,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4392989059",
+      "url2": "https://doi.org/10.5040/9781350455573",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Middle Kingdom of Ancient Egypt: History, Archaeology and Society",
+      "note": "OpenAlex 作品 W4392989059（DOI 10.5040/9781350455573）；2006年；被引 107。HTTP 200，12226 字节。摘要长度 1170 字符；主题槽命中 ['middle kingdom', 'egypt', 'society', 'culture']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2942131961",
+      "title": "OpenAlex W2942131961 — Equitable Principles of Maritime Boundary Delimitation: The Quest for Distributive Justice in International Law",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2015,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2942131961",
+      "url2": "https://doi.org/10.1017/cbo9781139944588",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Equitable Principles of Maritime Boundary Delimitation: The Quest for Distributive Justice in International Law",
+      "note": "OpenAlex 作品 W2942131961（DOI 10.1017/cbo9781139944588）；2015年；被引 117。HTTP 200，12709 字节。摘要长度 927 字符；主题槽命中 ['boundary', 'delimitation']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2321518539",
+      "title": "OpenAlex W2321518539 — Structural Transformations in Settlement Systems of the Northern Levant",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2007,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2321518539",
+      "url2": "https://doi.org/10.3764/aja.111.2.195",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Structural Transformations in Settlement Systems of the Northern Levant",
+      "note": "OpenAlex 作品 W2321518539（DOI 10.3764/aja.111.2.195）；2007年；被引 98。HTTP 200，13603 字节。摘要长度 1401 字符；主题槽命中 ['levant', 'archaeolog', 'settlement']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4392820314",
+      "title": "OpenAlex W4392820314 — LEARNING GEOGRAPHY OF KOREA BY MOUNTAINS AND ISLAND AS MAIN RESOURCE OF KOREAN PENINSULA",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2024,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4392820314",
+      "url2": "https://doi.org/10.37547/ijasr-04-03-06",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "LEARNING GEOGRAPHY OF KOREA BY MOUNTAINS AND ISLAND AS MAIN RESOURCE OF KOREAN PENINSULA",
+      "note": "OpenAlex 作品 W4392820314（DOI 10.37547/ijasr-04-03-06）；2024年；被引 1。HTTP 200，11706 字节。摘要长度 806 字符；主题槽命中 ['korea', 'korean', 'geograph']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W3202931813",
+      "title": "OpenAlex W3202931813 — Land Use History in Montane Mainland Southeast Asia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2005,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3202931813",
+      "url2": "https://doi.org/10.53055/icimod.432",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Land Use History in Montane Mainland Southeast Asia",
+      "note": "OpenAlex 作品 W3202931813（DOI 10.53055/icimod.432）；2005年；被引 2。HTTP 200，11820 字节。摘要长度 1329 字符；主题槽命中 ['mainland', 'history']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

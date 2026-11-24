@@ -134,9 +134,9 @@
       "tier": "重要"
     },
     "古埃及中王国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 1,
         "data": 0,
@@ -590,9 +590,9 @@
       "tier": "重要"
     },
     "朝鲜半岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -614,9 +614,9 @@
       "tier": "核心"
     },
     "中南半岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -782,9 +782,9 @@
       "tier": "重要"
     },
     "黎凡特": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -2210,9 +2210,9 @@
       "tier": "补充"
     },
     "争议边界处理原则": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 198,
-    "B": 16,
+    "A": 203,
+    "B": 11,
     "C": 0,
     "D": 29
   },

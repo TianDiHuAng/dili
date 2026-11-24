@@ -1,0 +1,181 @@
+{
+  "results": {
+    "朝鲜半岛": {
+      "cand": [
+        {
+          "oid": "W4392820314",
+          "title": "LEARNING GEOGRAPHY OF KOREA BY MOUNTAINS AND ISLAND AS MAIN RESOURCE OF KOREAN PENINSULA",
+          "year": 2024,
+          "cited": 1,
+          "abs_len": 806,
+          "slots": [
+            "korea",
+            "korean",
+            "geograph"
+          ],
+          "doi": "10.37547/ijasr-04-03-06"
+        }
+      ],
+      "n": 1
+    },
+    "中南半岛": {
+      "cand": [
+        {
+          "oid": "W2139501289",
+          "title": "Role of the quasi‐biweekly oscillation in the onset of convection over the Indochina Peninsula",
+          "year": 2007,
+          "cited": 21,
+          "abs_len": 1975,
+          "slots": [
+            "indochina",
+            "society"
+          ],
+          "doi": "10.1002/qj.38"
+        },
+        {
+          "oid": "W3202931813",
+          "title": "Land Use History in Montane Mainland Southeast Asia",
+          "year": 2005,
+          "cited": 2,
+          "abs_len": 1329,
+          "slots": [
+            "mainland",
+            "history"
+          ],
+          "doi": "10.53055/icimod.432"
+        }
+      ],
+      "n": 2
+    },
+    "黎凡特": {
+      "cand": [
+        {
+          "oid": "W2321518539",
+          "title": "Structural Transformations in Settlement Systems of the Northern Levant",
+          "year": 2007,
+          "cited": 98,
+          "abs_len": 1401,
+          "slots": [
+            "levant",
+            "archaeolog",
+            "settlement"
+          ],
+          "doi": "10.3764/aja.111.2.195"
+        },
+        {
+          "oid": "W2050590492",
+          "title": "Pre-Pottery Neolithic A Settlement Variability: Evidence for Sociopolitical Developments in the Southern Levant",
+          "year": 1994,
+          "cited": 51,
+          "abs_len": 1009,
+          "slots": [
+            "levant",
+            "archaeolog",
+            "settlement"
+          ],
+          "doi": "10.1558/jmea.v7i2.165"
+        },
+        {
+          "oid": "W4399936509",
+          "title": "Accommodating agriculture at al-Khayran: Economic relations and settlement practices in the earliest agricultural communities of the southern Levant",
+          "year": 2024,
+          "cited": 2,
+          "abs_len": 1418,
+          "slots": [
+            "levant",
+            "archaeolog",
+            "settlement"
+          ],
+          "doi": "10.1016/j.jaa.2024.101606"
+        }
+      ],
+      "n": 7
+    },
+    "古埃及中王国": {
+      "cand": [
+        {
+          "oid": "W4392989059",
+          "title": "The Middle Kingdom of Ancient Egypt: History, Archaeology and Society",
+          "year": 2006,
+          "cited": 107,
+          "abs_len": 1170,
+          "slots": [
+            "middle kingdom",
+            "egypt",
+            "society",
+            "culture"
+          ],
+          "doi": "10.5040/9781350455573"
+        },
+        {
+          "oid": "W4322713864",
+          "title": "Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection",
+          "year": 2010,
+          "cited": 95,
+          "abs_len": 1113,
+          "slots": [
+            "middle kingdom",
+            "egypt",
+            "culture"
+          ],
+          "doi": "10.1558/isbn.9781781791929"
+        },
+        {
+          "oid": "W4251756451",
+          "title": "Asiatics in Middle Kingdom Egypt : Perceptions and Reality",
+          "year": 2016,
+          "cited": 34,
+          "abs_len": 756,
+          "slots": [
+            "middle kingdom",
+            "egypt",
+            "econom"
+          ],
+          "doi": "10.5040/9781472554550"
+        }
+      ],
+      "n": 3
+    },
+    "争议边界处理原则": {
+      "cand": [
+        {
+          "oid": "W2942131961",
+          "title": "Equitable Principles of Maritime Boundary Delimitation: The Quest for Distributive Justice in International Law",
+          "year": 2015,
+          "cited": 117,
+          "abs_len": 927,
+          "slots": [
+            "boundary",
+            "delimitation"
+          ],
+          "doi": "10.1017/cbo9781139944588"
+        },
+        {
+          "oid": "W2590739542",
+          "title": "Equitable Principles of Maritime Boundary Delimitation: The Quest for Distributive Justice in International Law",
+          "year": 2017,
+          "cited": 0,
+          "abs_len": 1645,
+          "slots": [
+            "boundary",
+            "delimitation"
+          ],
+          "doi": "10.1093/bybil/brw006"
+        }
+      ],
+      "n": 2
+    },
+    "教育机会地域差异": {
+      "cand": [],
+      "n": 0
+    },
+    "人文地理学": {
+      "cand": [],
+      "n": 0
+    }
+  },
+  "http": {
+    "ok": 272,
+    "fail": 3
+  }
+}
