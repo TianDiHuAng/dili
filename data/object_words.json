@@ -172,7 +172,9 @@
   ],
   "气候带": [
     "climate zone",
-    "climate classification"
+    "climate classification",
+    "biome",
+    "vegetation"
   ],
   "城市起源": [
     "cit"

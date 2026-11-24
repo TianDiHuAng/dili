@@ -9606,6 +9606,19 @@
       "verified": true,
       "page_title": "Maori Values Can Reinvigorate a New Zealand Philosophy",
       "note": "OpenAlex 作品 W4205336612（DOI 10.26686/wgtn.17000128）；2012年；被引 14。HTTP 200，27847 字节。摘要长度 6902 字符；主题槽命中 ['maori', 'societ', 'culture', 'new zealand']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2046345013",
+      "title": "OpenAlex W2046345013 — On coupling global biome models with climate models",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1994,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2046345013",
+      "url2": "https://doi.org/10.3354/cr004203",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "On coupling global biome models with climate models",
+      "note": "OpenAlex 作品 W2046345013（DOI 10.3354/cr004203）；1994年；被引 145。HTTP 200，16869 字节。摘要长度 2065 字符；主题槽命中 ['biome', 'climate', 'global', 'shift', 'distribution']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

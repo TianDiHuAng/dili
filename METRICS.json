@@ -1286,6 +1286,21 @@
       "sample_rate": "重要G3b剩余10条",
       "sample_audit": "10/10命中、2%失败；3条登记",
       "note": "补3条（洋流120/毛利人/巴西殖民）→G3 20→17；重要G3b 14→11；A183"
+    },
+    {
+      "round": 88,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 6,
+      "fixes": 1,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 1,
+      "sample_rate": "6条首次尝试",
+      "sample_audit": "6/6命中0%失败；仅1条登记（气候带）；3条列无解",
+      "note": "D145：3条重复命中列无解；补1条→G3 17→16；A184"
     }
   ]
 }

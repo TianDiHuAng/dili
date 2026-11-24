@@ -1,0 +1,245 @@
+{
+  "results": {
+    "吠陀时代": {
+      "cand": [
+        {
+          "oid": "W7213543853",
+          "title": "Chemistry in Vedic and Post-Vedic Literature",
+          "year": 2026,
+          "cited": 0,
+          "abs_len": 3793,
+          "slots": [
+            "vedic",
+            "literature",
+            "ritual",
+            "india"
+          ],
+          "doi": "10.1201/9781003685722-2"
+        },
+        {
+          "oid": "W2329604796",
+          "title": "Conjectures on a Structural Principle of Vedic Poetry",
+          "year": 1976,
+          "cited": 0,
+          "abs_len": 1298,
+          "slots": [
+            "vedic",
+            "india"
+          ],
+          "doi": "10.2307/1769654"
+        },
+        {
+          "oid": "W3046235224",
+          "title": "The Innermost Enigmas of the Vedic Literature",
+          "year": 2020,
+          "cited": 0,
+          "abs_len": 1016,
+          "slots": [
+            "vedic",
+            "literature"
+          ],
+          "doi": "10.21694/2378-9026.20009"
+        }
+      ],
+      "n": 4
+    },
+    "明清": {
+      "cand": [
+        {
+          "oid": "W4405037086",
+          "title": "Beyond the Lens: the Telescope’s Influence on Art and Vision in Ming-Qing China",
+          "year": 2024,
+          "cited": 0,
+          "abs_len": 829,
+          "slots": [
+            "ming",
+            "qing"
+          ],
+          "doi": "10.1163/24684791-12340083"
+        }
+      ],
+      "n": 1
+    },
+    "马来群岛": {
+      "cand": [
+        {
+          "oid": "W4399086030",
+          "title": "Winstedt, colonialism and the Malaysian history wars",
+          "year": 2024,
+          "cited": 5,
+          "abs_len": 1505,
+          "slots": [
+            "malay",
+            "archipelago",
+            "history",
+            "state"
+          ],
+          "doi": "10.1080/13639811.2024.2351280"
+        },
+        {
+          "oid": "W2971337687",
+          "title": "THE MALAY WORLD IN HISTORY: STUDY ON MALAY IDENTITY",
+          "year": 2017,
+          "cited": 16,
+          "abs_len": 1882,
+          "slots": [
+            "malay",
+            "history",
+            "state"
+          ],
+          "doi": "10.19109/jmis.v1i2.3838"
+        },
+        {
+          "oid": "W1845409175",
+          "title": "Linnaeus and the troglodyte: Early European encounters with the Malay world and the natural history of man",
+          "year": 2014,
+          "cited": 43,
+          "abs_len": 1516,
+          "slots": [
+            "malay",
+            "history"
+          ],
+          "doi": "10.1080/13639811.2014.915084"
+        }
+      ],
+      "n": 5
+    },
+    "威尼斯": {
+      "cand": [
+        {
+          "oid": "W2040868090",
+          "title": "Public service and private trade: Northern seamen in seventeenth-century Venetian courts of justice",
+          "year": 2015,
+          "cited": 10,
+          "abs_len": 1056,
+          "slots": [
+            "venetian",
+            "maritime",
+            "trade",
+            "econom"
+          ],
+          "doi": "10.1177/0843871414565968"
+        },
+        {
+          "oid": "W4376620566",
+          "title": "The Icon Trade in Fifteenth-century Venetian Crete",
+          "year": 2023,
+          "cited": 14,
+          "abs_len": 848,
+          "slots": [
+            "venice",
+            "venetian",
+            "trade"
+          ],
+          "doi": "10.4324/9781003417521-17"
+        },
+        {
+          "oid": "W613646656",
+          "title": "The Justice of Venice: Authorities and Liberties in the Urban Economy, 1550-1700",
+          "year": 2006,
+          "cited": 58,
+          "abs_len": 936,
+          "slots": [
+            "venice",
+            "econom"
+          ],
+          "doi": "10.5871/bacad/9780197263778.001.0001"
+        }
+      ],
+      "n": 7
+    },
+    "大分水岭": {
+      "cand": [
+        {
+          "oid": "W3153139914",
+          "title": "Seasonal changes in the distribution of rainfall over the Great Dividing Range: general trends",
+          "year": 1983,
+          "cited": 15,
+          "abs_len": 1027,
+          "slots": [
+            "dividing",
+            "range"
+          ],
+          "doi": "10.1071/es83015"
+        },
+        {
+          "oid": "W4412586503",
+          "title": "The great divide: population comparison using 3D and 2D geometric morphometrics of Petaurus breviceps and Petaurus notatus along Australia’s eastern Great Dividing Range",
+          "year": 2025,
+          "cited": 2,
+          "abs_len": 994,
+          "slots": [
+            "dividing",
+            "range"
+          ],
+          "doi": "10.1071/am24046"
+        },
+        {
+          "oid": "W2981351267",
+          "title": "Pollen Flowing over the Great Dividing Range, Australia",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 2169,
+          "slots": [
+            "dividing",
+            "range"
+          ],
+          "doi": "10.1097/01.ee9.0000610820.53949.3a"
+        }
+      ],
+      "n": 3
+    },
+    "气候带": {
+      "cand": [
+        {
+          "oid": "W2046345013",
+          "title": "On coupling global biome models with climate models",
+          "year": 1994,
+          "cited": 145,
+          "abs_len": 2065,
+          "slots": [
+            "biome",
+            "climate",
+            "global",
+            "shift",
+            "distribution"
+          ],
+          "doi": "10.3354/cr004203"
+        },
+        {
+          "oid": "W2154017026",
+          "title": "Climate and CO2 controls on global vegetation distribution at the last glacial maximum: analysis based on palaeovegetation data, biome modelling and palaeoclimate simulations",
+          "year": 2003,
+          "cited": 376,
+          "abs_len": 1736,
+          "slots": [
+            "biome",
+            "climate",
+            "global",
+            "distribution"
+          ],
+          "doi": "10.1046/j.1365-2486.2003.00640.x"
+        },
+        {
+          "oid": "W2804635677",
+          "title": "Northward shift of the agricultural climate zone under 21st-century global climate change",
+          "year": 2018,
+          "cited": 305,
+          "abs_len": 1339,
+          "slots": [
+            "climate",
+            "global",
+            "zone",
+            "shift"
+          ],
+          "doi": "10.1038/s41598-018-26321-8"
+        }
+      ],
+      "n": 8
+    }
+  },
+  "http": {
+    "ok": 229,
+    "fail": 0
+  }
+}
