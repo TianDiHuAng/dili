@@ -9580,6 +9580,32 @@
       "verified": true,
       "page_title": "The Fifth Crusade in Context: The Crusading Movement in the Early Thirteenth Century",
       "note": "OpenAlex 作品 W3012443801（DOI 10.4324/9781315574059）；2016年；被引 8。HTTP 200，9651 字节。摘要长度 1247 字符；主题槽命中 ['crusad', 'history', 'movement']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W2989712440",
+      "title": "OpenAlex W2989712440 — Sugar and the Formation of Colonial Brazil",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2019,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2989712440",
+      "url2": "https://doi.org/10.1093/acrefore/9780199366439.013.729",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Sugar and the Formation of Colonial Brazil",
+      "note": "OpenAlex 作品 W2989712440（DOI 10.1093/acrefore/9780199366439.013.729）；2019年；被引 3。HTTP 200，13797 字节。摘要长度 842 字符；主题槽命中 ['brazil', 'colonial', 'econom', 'sugar']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
+    },
+    {
+      "id": "openalex-W4205336612",
+      "title": "OpenAlex W4205336612 — Maori Values Can Reinvigorate a New Zealand Philosophy",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2012,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4205336612",
+      "url2": "https://doi.org/10.26686/wgtn.17000128",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Maori Values Can Reinvigorate a New Zealand Philosophy",
+      "note": "OpenAlex 作品 W4205336612（DOI 10.26686/wgtn.17000128）；2012年；被引 14。HTTP 200，27847 字节。摘要长度 6902 字符；主题槽命中 ['maori', 'societ', 'culture', 'new zealand']。证据强度：strong。路线：Crossref→DOI→OpenAlex by-ID。"
     }
   ]
 }

@@ -112,7 +112,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1982587238（2007年，《The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition》，DOI https://doi.org/10.1179/174963107x226390）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）」表述并注明学界有不同版本。 【第80轮检索记录】过筛候选《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020, 被引7) 只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部区域），不支撑高原的地质与地貌总体。不采用。",
+      "pending_notes": "第16轮复核：南美洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 第17轮清理：移除 s056（USGS 站点迁移通告页，0 命中，不作内容依据）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1982587238（2007年，《The expansion ofAraucariaforest in the southern Brazilian highlands during the last 4000 years and its implications for the development of the Taquara/Itararé Tradition》，DOI https://doi.org/10.1179/174963107x226390）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）」表述并注明学界有不同版本。 【第80轮检索记录】过筛候选《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020, 被引7) 只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部区域），不支撑高原的地质与地貌总体。不采用。 【第87轮检索记录】候选仍是《GIS-Based Relief Compartment Mapping…central Brazilian highlands》(2020)——只覆盖里奥韦尔梅柳保护区的喀斯特地貌（局部），第80轮已拒。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -154,7 +154,7 @@
         "openalex-W7150774676"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮检索记录】过筛候选《Sustainable intensification of agriculture and economy》(2022, 被引3) 摘要以「任何人类活动都有影响」泛论开场，未见针对潘帕斯的具体结论。不采用。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：农业类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第22轮】time_or_place 原「全新世至今」无专门来源支撑，已收敛为待核表述。 【第26轮】昨日因 ARG/URY 未纳入采集名单（非数据缺失）而未填，已补实测值并挂 wb-api 源（D065 同型问题已纠正）。 【第27轮实证复核·拉普拉塔平原】本条正则 la plata|pampa（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「拉普拉塔平原」主题专题页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮检索记录】过筛候选《Sustainable intensification of agriculture and economy》(2022, 被引3) 摘要以「任何人类活动都有影响」泛论开场，未见针对潘帕斯的具体结论。不采用。 【第87轮检索记录】候选仍是《Sustainable intensification of agriculture》(2022)——泛论，第80轮已拒。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -695,17 +695,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W565333537",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W2989712440"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s011-unesco-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W565333537（2024年，《Society and Government in Colonial Brazil, 1500-1822》，DOI https://doi.org/10.4324/9781003554967）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「1500–1822年（本条引 2024 年殖民巴西社会与政府研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《The coffee economy in Imperial Brazil (c.1800–1850)》——条目为 1500–1822 葡属殖民地，源为帝国时期，时期不一致（D081）。 已撤出该来源，本条不据此建立互证。",
+      "pending_notes": "第16轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s011-unesco-org（D040/D047 同型问题）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W565333537（2024年，《Society and Government in Colonial Brazil, 1500-1822》，DOI https://doi.org/10.4324/9781003554967）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「1500–1822年（本条引 2024 年殖民巴西社会与政府研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《The coffee economy in Imperial Brazil (c.1800–1850)》——条目为 1500–1822 葡属殖民地，源为帝国时期，时期不一致（D081）。 已撤出该来源，本条不据此建立互证。 【第87轮补第二内容源（strong，Crossref）】openalex-W2989712440（2019年，《Sugar and the Formation of Colonial Brazil》，被引 3，摘要 842 字符）：已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "沿海为狭长的湿润平原（zona da mata），适合甘蔗；内陆高原为较干燥的牧区与后来的咖啡带；这一「沿海种植园—内陆牧业」的二分是殖民经济的地理骨架。",
-      "influence": "所引 2024 年研究强调殖民巴西的社会与政府制度如何与种植园经济相互支撑：土地授予、劳役与市政组织共同决定了出口导向的形态，地理只是条件。",
+      "influence": "所引 2024 年研究强调殖民巴西的社会与政府制度如何与种植园经济相互支撑：土地授予、劳役与市政组织共同决定了出口导向的形态，地理只是条件。 所引 2019 年《Sugar and the Formation of Colonial Brazil》（摘要 842 字符）以蔗糖为轴讨论殖民巴西的形成；本条「殖民经济以甘蔗种植园与奴隶劳动为基础」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经大西洋航线连接葡萄牙与非洲（奴隶贸易），是三角贸易的关键一端。",
       "today": "（本条的当代指标不在本页展开。）",

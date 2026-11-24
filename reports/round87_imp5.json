@@ -1,0 +1,432 @@
+{
+  "results": {
+    "威尼斯": {
+      "cand": [
+        {
+          "oid": "W607374116",
+          "title": "Venice IncognitoMasks in the Serene Republic",
+          "year": 2011,
+          "cited": 17,
+          "abs_len": 1454,
+          "slots": [
+            "venice",
+            "venetian",
+            "history",
+            "republic",
+            "society"
+          ],
+          "doi": "10.1525/california/9780520267718.001.0001"
+        },
+        {
+          "oid": "W2495541143",
+          "title": "Society and the Sexes in the Venetian Republic",
+          "year": 2013,
+          "cited": 13,
+          "abs_len": 1039,
+          "slots": [
+            "venice",
+            "venetian",
+            "republic",
+            "society"
+          ],
+          "doi": "10.1163/9789004252523_010"
+        },
+        {
+          "oid": "W2899782900",
+          "title": "Military food supply in the Republic of Venice in the eighteenth century: Entrepreneurs, merchants, and the state",
+          "year": 2018,
+          "cited": 9,
+          "abs_len": 903,
+          "slots": [
+            "venice",
+            "venetian",
+            "republic",
+            "econom"
+          ],
+          "doi": "10.1080/00076791.2018.1520211"
+        }
+      ],
+      "n": 13
+    },
+    "毛利人": {
+      "cand": [
+        {
+          "oid": "W4205336612",
+          "title": "Maori Values Can Reinvigorate a New Zealand Philosophy",
+          "year": 2012,
+          "cited": 14,
+          "abs_len": 6902,
+          "slots": [
+            "maori",
+            "societ",
+            "culture",
+            "new zealand"
+          ],
+          "doi": "10.26686/wgtn.17000128"
+        },
+        {
+          "oid": "W4385601321",
+          "title": "New Treaty, New Tradition: Reconciling New Zealand and Maori Law",
+          "year": 2016,
+          "cited": 153,
+          "abs_len": 976,
+          "slots": [
+            "maori",
+            "culture",
+            "new zealand"
+          ],
+          "doi": "10.59962/9780774831703"
+        },
+        {
+          "oid": "W2057077545",
+          "title": "The Maori language in New Zealand education",
+          "year": 1988,
+          "cited": 26,
+          "abs_len": 703,
+          "slots": [
+            "maori",
+            "history",
+            "new zealand"
+          ],
+          "doi": "10.1080/07908318809525030"
+        }
+      ],
+      "n": 12
+    },
+    "南极条约体系": {
+      "cand": [
+        {
+          "oid": "W4387309994",
+          "title": "International law, climate change and the Antarctic Treaty System: re-contemplating governance questions apropos of the mounting challenges",
+          "year": 2023,
+          "cited": 29,
+          "abs_len": 1756,
+          "slots": [
+            "antarctic treaty",
+            "system",
+            "governance",
+            "regime"
+          ],
+          "doi": "10.1017/s0954102023000226"
+        },
+        {
+          "oid": "W2476792850",
+          "title": "The Antarctic Treaty System: Goals, Performance and Impact",
+          "year": 1991,
+          "cited": 19,
+          "abs_len": 1514,
+          "slots": [
+            "antarctic treaty",
+            "system",
+            "regime",
+            "history"
+          ],
+          "doi": "10.1007/978-1-349-12471-8_2"
+        },
+        {
+          "oid": "W189441975",
+          "title": "The Antarctic Treaty Regime: Law, Environment and Resources",
+          "year": 1987,
+          "cited": 69,
+          "abs_len": 581,
+          "slots": [
+            "antarctic treaty",
+            "system",
+            "regime"
+          ],
+          "doi": "10.1017/cbo9780511565502"
+        }
+      ],
+      "n": 11
+    },
+    "洋流": {
+      "cand": [
+        {
+          "oid": "W2328457086",
+          "title": "CLIMATE AND THE OCEAN CIRCULATION",
+          "year": 1969,
+          "cited": 120,
+          "abs_len": 3355,
+          "slots": [
+            "circulation",
+            "ocean"
+          ],
+          "doi": "10.1175/1520-0493(1969)097<0775:catoc>2.3.co;2"
+        },
+        {
+          "oid": "W986182974",
+          "title": "The Steady Ocean Circulation Inverse Problem",
+          "year": 1996,
+          "cited": 8,
+          "abs_len": 1658,
+          "slots": [
+            "circulation",
+            "ocean"
+          ],
+          "doi": "10.1017/cbo9780511629570.006"
+        },
+        {
+          "oid": "W1501644606",
+          "title": "Physics of the Ocean Circulation",
+          "year": 1996,
+          "cited": 2,
+          "abs_len": 1588,
+          "slots": [
+            "circulation",
+            "ocean"
+          ],
+          "doi": "10.1017/cbo9780511629570.004"
+        }
+      ],
+      "n": 3
+    },
+    "气候带": {
+      "cand": [
+        {
+          "oid": "W3124273658",
+          "title": "Observed and projected changes in global climate zones based on Köppen climate classification",
+          "year": 2021,
+          "cited": 224,
+          "abs_len": 1733,
+          "slots": [
+            "climate",
+            "classification",
+            "koppen",
+            "global",
+            "zone"
+          ],
+          "doi": "10.1002/wcc.701"
+        },
+        {
+          "oid": "W2765796307",
+          "title": "Changes in Koppen–Trewartha climate classification over South America from RegCM4 projections",
+          "year": 2017,
+          "cited": 32,
+          "abs_len": 1284,
+          "slots": [
+            "climate",
+            "classification",
+            "koppen",
+            "global"
+          ],
+          "doi": "10.1002/asl.785"
+        },
+        {
+          "oid": "W2316712754",
+          "title": "The Climates of California According to the Koppen Classification",
+          "year": 1942,
+          "cited": 25,
+          "abs_len": 2296,
+          "slots": [
+            "climate",
+            "classification",
+            "koppen",
+            "zone"
+          ],
+          "doi": "10.2307/210390"
+        }
+      ],
+      "n": 10
+    },
+    "大分水岭": {
+      "cand": [
+        {
+          "oid": "W2601248680",
+          "title": "Euastacus vesper sp. nov., a new giant spiny crayfish (Crustacea, Decapoda, Parastacidae) from the Great Dividing Range, New South Wales, Australia",
+          "year": 2017,
+          "cited": 10,
+          "abs_len": 642,
+          "slots": [
+            "dividing",
+            "range",
+            "australia"
+          ],
+          "doi": "10.11646/zootaxa.4244.4.6"
+        },
+        {
+          "oid": "W4412586503",
+          "title": "The great divide: population comparison using 3D and 2D geometric morphometrics of Petaurus breviceps and Petaurus notatus along Australia’s eastern Great Dividing Range",
+          "year": 2025,
+          "cited": 2,
+          "abs_len": 994,
+          "slots": [
+            "dividing",
+            "range",
+            "australia"
+          ],
+          "doi": "10.1071/am24046"
+        },
+        {
+          "oid": "W2981351267",
+          "title": "Pollen Flowing over the Great Dividing Range, Australia",
+          "year": 2019,
+          "cited": 0,
+          "abs_len": 2169,
+          "slots": [
+            "dividing",
+            "range",
+            "australia"
+          ],
+          "doi": "10.1097/01.ee9.0000610820.53949.3a"
+        }
+      ],
+      "n": 4
+    },
+    "巴西高原": {
+      "cand": [
+        {
+          "oid": "W3134910011",
+          "title": "GIS-Based Relief Compartment Mapping of Fluvio-Karst Landscape in Central Brazilian Highlands",
+          "year": 2020,
+          "cited": 7,
+          "abs_len": 1308,
+          "slots": [
+            "brazil",
+            "highland",
+            "geolog",
+            "geomorph"
+          ],
+          "doi": "10.46660/ijeeg.vol11.iss4.2020.518"
+        }
+      ],
+      "n": 1
+    },
+    "拉普拉塔平原": {
+      "cand": [
+        {
+          "oid": "W4294251160",
+          "title": "Sustainable intensification of agriculture and economy in the Pampas grasslands under climate change",
+          "year": 2022,
+          "cited": 3,
+          "abs_len": 1337,
+          "slots": [
+            "pampa",
+            "plata",
+            "grassland",
+            "environment"
+          ],
+          "doi": "10.4337/9781800880740.00016"
+        },
+        {
+          "oid": "W2052880363",
+          "title": "Land‐use changes and monk parakeet expansion in the Pampas grasslands of Argentina",
+          "year": 2014,
+          "cited": 88,
+          "abs_len": 1860,
+          "slots": [
+            "pampa",
+            "grassland",
+            "environment"
+          ],
+          "doi": "10.1111/jbi.12282"
+        },
+        {
+          "oid": "W4401617858",
+          "title": "Grasslands Response to Livestock Grazing Intensity in the Austral Pampas (Argentina): Testing the Intermediate Disturbance Hypothesis",
+          "year": 2024,
+          "cited": 11,
+          "abs_len": 2450,
+          "slots": [
+            "pampa",
+            "grassland",
+            "environment"
+          ],
+          "doi": "10.32604/phyton.2024.053928"
+        }
+      ],
+      "n": 14
+    },
+    "巴西殖民经济": {
+      "cand": [
+        {
+          "oid": "W2989712440",
+          "title": "Sugar and the Formation of Colonial Brazil",
+          "year": 2019,
+          "cited": 3,
+          "abs_len": 842,
+          "slots": [
+            "brazil",
+            "colonial",
+            "econom",
+            "sugar"
+          ],
+          "doi": "10.1093/acrefore/9780199366439.013.729"
+        },
+        {
+          "oid": "W2493617166",
+          "title": "From the Sugar Plantation to the Colonial Administration",
+          "year": 2011,
+          "cited": 0,
+          "abs_len": 1074,
+          "slots": [
+            "colonial",
+            "sugar",
+            "plantation"
+          ],
+          "doi": "10.1057/9780230118751_2"
+        },
+        {
+          "oid": "W4401561502",
+          "title": "Frontiers in Colonial Brazil: Reality, Myth, and Metaphor",
+          "year": 2024,
+          "cited": 2,
+          "abs_len": 975,
+          "slots": [
+            "brazil",
+            "colonial"
+          ],
+          "doi": "10.4324/9781003554967-2"
+        }
+      ],
+      "n": 5
+    },
+    "马来群岛": {
+      "cand": [
+        {
+          "oid": "W3043217496",
+          "title": "The Biological History of Homo sapiens in Island Southeast Asia",
+          "year": 2017,
+          "cited": 6,
+          "abs_len": 996,
+          "slots": [
+            "malay",
+            "island",
+            "history"
+          ],
+          "doi": "10.1002/9781119251583.ch4"
+        },
+        {
+          "oid": "W4211261506",
+          "title": "The Early History of the Austronesian Language Family in Island Southeast Asia",
+          "year": 2017,
+          "cited": 1,
+          "abs_len": 882,
+          "slots": [
+            "malay",
+            "island",
+            "history"
+          ],
+          "doi": "10.1002/9781119251583.ch6"
+        },
+        {
+          "oid": "W3160361152",
+          "title": "The Early Metal Age and Intercultural Connections in Island Southeast Asia",
+          "year": 2017,
+          "cited": 0,
+          "abs_len": 863,
+          "slots": [
+            "island",
+            "history",
+            "state"
+          ],
+          "doi": "10.1002/9781119251583.ch9"
+        }
+      ],
+      "n": 5
+    }
+  },
+  "http": {
+    "ok": 390,
+    "fail": 6
+  }
+}

@@ -1646,9 +1646,9 @@
       "tier": "补充"
     },
     "巴西殖民经济": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1742,9 +1742,9 @@
       "tier": "重要"
     },
     "毛利人": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -2030,9 +2030,9 @@
       "tier": "核心"
     },
     "洋流": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 180,
-    "B": 50,
+    "A": 183,
+    "B": 47,
     "C": 0,
     "D": 13
   },
