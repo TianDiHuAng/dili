@@ -1,0 +1,277 @@
+{
+  "隋唐": {
+    "cand": [
+      {
+        "oid": "W1982419398",
+        "title": "Maintaining Gods in Medieval China: Temple Worship and Local Governance in North China under the Jin and Yuan",
+        "year": 2010,
+        "cited": 5,
+        "abs_len": 4313,
+        "slots": [
+          "sui",
+          "dynasty",
+          "china",
+          "state",
+          "administrat",
+          "econom",
+          "society"
+        ],
+        "doi": "https://doi.org/10.1353/sys.2011.0012",
+        "type": "article"
+      },
+      {
+        "oid": "W2279905696",
+        "title": "Dressing for the Times: Fashion in Tang Dynasty China (618-907)",
+        "year": 2013,
+        "cited": 8,
+        "abs_len": 3818,
+        "slots": [
+          "tang",
+          "dynasty",
+          "china",
+          "state",
+          "econom",
+          "society"
+        ],
+        "doi": "https://doi.org/10.7916/d8kk9b6d",
+        "type": "article"
+      },
+      {
+        "oid": "W4254307011",
+        "title": "Maintaining Gods in Medieval China: Temple Worship and Local Governance in North China under the Jin and Yuan",
+        "year": 2021,
+        "cited": 2,
+        "abs_len": 4517,
+        "slots": [
+          "dynasty",
+          "china",
+          "state",
+          "administrat",
+          "econom",
+          "society"
+        ],
+        "doi": "https://doi.org/10.1353/sys.2021.0009",
+        "type": "article"
+      }
+    ],
+    "n": 42,
+    "nstrong": 32
+  },
+  "十字军东征": {
+    "cand": [
+      {
+        "oid": "W3015865789",
+        "title": "Settlement, Identity, and Memory in the Latin East: An Examination of the Term ‘Crusader States’",
+        "year": 2020,
+        "cited": 29,
+        "abs_len": 1644,
+        "slots": [
+          "crusad",
+          "levant",
+          "latin east",
+          "state",
+          "movement"
+        ],
+        "doi": "https://doi.org/10.1093/ehr/ceaa008",
+        "type": "article"
+      },
+      {
+        "oid": "W2001550239",
+        "title": "The Impact of the Third Crusade upon Trade with the Levant",
+        "year": 1981,
+        "cited": 9,
+        "abs_len": 1761,
+        "slots": [
+          "crusad",
+          "levant",
+          "mediterran",
+          "state",
+          "movement"
+        ],
+        "doi": "https://doi.org/10.1080/07075332.1981.9640243",
+        "type": "article"
+      },
+      {
+        "oid": "W4392060125",
+        "title": "The Crusades, the Latin East and Medieval History-Writing: An Introduction",
+        "year": 2024,
+        "cited": 0,
+        "abs_len": 2592,
+        "slots": [
+          "crusad",
+          "latin east",
+          "mediterran",
+          "state",
+          "movement"
+        ],
+        "doi": "https://doi.org/10.1017/9781805431510.001",
+        "type": "book-chapter"
+      }
+    ],
+    "n": 48,
+    "nstrong": 41
+  },
+  "克里特文明": {
+    "cand": [
+      {
+        "oid": "W2538009141",
+        "title": "Seals, Craft, and Community in Bronze Age Crete",
+        "year": 2016,
+        "cited": 31,
+        "abs_len": 955,
+        "slots": [
+          "minoan",
+          "crete",
+          "aegean",
+          "bronze age",
+          "palace",
+          "society"
+        ],
+        "doi": "https://doi.org/10.1017/cbo9781316443071",
+        "type": "book"
+      },
+      {
+        "oid": "W2728304387",
+        "title": "Minoan Realities : Approaches to Images, Architecture, and Society in the Aegean Bronze Age",
+        "year": 2012,
+        "cited": 22,
+        "abs_len": 987,
+        "slots": [
+          "minoan",
+          "crete",
+          "aegean",
+          "bronze age",
+          "palace",
+          "society"
+        ],
+        "doi": null,
+        "type": "book"
+      },
+      {
+        "oid": "W2889881240",
+        "title": "The Ancient Near East and the Bronze Age Aegean",
+        "year": 2018,
+        "cited": 5,
+        "abs_len": 969,
+        "slots": [
+          "minoan",
+          "crete",
+          "aegean",
+          "bronze age",
+          "palace",
+          "society"
+        ],
+        "doi": "https://doi.org/10.1002/9781118336779.ch23",
+        "type": "book-chapter"
+      }
+    ],
+    "n": 37,
+    "nstrong": 32
+  },
+  "大平原": {
+    "cand": [
+      {
+        "oid": "W2992002638",
+        "title": "Decadal heat and drought drive body size of North American bison (Bison bison) along the Great Plains",
+        "year": 2019,
+        "cited": 27,
+        "abs_len": 1706,
+        "slots": [
+          "great plains",
+          "plains",
+          "bison",
+          "grassland",
+          "drought"
+        ],
+        "doi": "https://doi.org/10.1002/ece3.5898",
+        "type": "article"
+      },
+      {
+        "oid": "W2125664929",
+        "title": "The role of herbivores in Great Plains conservation: comparative ecology of bison and cattle",
+        "year": 2011,
+        "cited": 171,
+        "abs_len": 1923,
+        "slots": [
+          "great plains",
+          "plains",
+          "bison",
+          "grassland"
+        ],
+        "doi": "https://doi.org/10.1890/es10-00152.1",
+        "type": "article"
+      },
+      {
+        "oid": "W2983988741",
+        "title": "Thinking Like a Grassland: Challenges and Opportunities for Biodiversity Conservation in the Great Plains of North America",
+        "year": 2019,
+        "cited": 167,
+        "abs_len": 2175,
+        "slots": [
+          "great plains",
+          "plains",
+          "bison",
+          "grassland"
+        ],
+        "doi": "https://doi.org/10.1016/j.rama.2019.09.001",
+        "type": "article"
+      }
+    ],
+    "n": 25,
+    "nstrong": 22
+  },
+  "澳大利亚大陆": {
+    "cand": [
+      {
+        "oid": "W2155259881",
+        "title": "Land surface phenological response to decadal climate variability across Australia using satellite remote sensing",
+        "year": 2014,
+        "cited": 143,
+        "abs_len": 2386,
+        "slots": [
+          "australia",
+          "climate",
+          "arid",
+          "geograph",
+          "continent"
+        ],
+        "doi": "https://doi.org/10.5194/bg-11-5181-2014",
+        "type": "article"
+      },
+      {
+        "oid": "W1563873358",
+        "title": "Ecology of the forests of south western Australia in relation to climate and landforms",
+        "year": 2000,
+        "cited": 15,
+        "abs_len": 4286,
+        "slots": [
+          "australia",
+          "geolog",
+          "climate",
+          "landform",
+          "geograph"
+        ],
+        "doi": null,
+        "type": "dissertation"
+      },
+      {
+        "oid": "W2490582872",
+        "title": "Geology: An Australian perspective",
+        "year": 2016,
+        "cited": 0,
+        "abs_len": 2285,
+        "slots": [
+          "australia",
+          "geolog",
+          "climate",
+          "arid",
+          "continent"
+        ],
+        "doi": "https://doi.org/10.1017/cbo9781139923866.003",
+        "type": "book-chapter"
+      }
+    ],
+    "n": 27,
+    "nstrong": 25
+  }
+}

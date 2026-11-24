@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 69,
+  "last_round": 70,
   "history": [
     {
       "round": 1,
@@ -763,9 +763,9 @@
     "ge2_has_body": 224,
     "levels": {
       "A": 119,
-      "B": 119,
-      "C": 3,
-      "D": 2
+      "B": 122,
+      "C": 2,
+      "D": 0
     },
     "side_evidence": {
       "side": 34,
@@ -782,7 +782,7 @@
       {
         "id": "G1",
         "name": "无强来源（C/D 级）",
-        "count": 5,
+        "count": 2,
         "fixed_by": "补一条被引≥10 或正文≥800 的来源"
       },
       {
@@ -794,7 +794,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 7,
+        "count": 6,
         "fixed_by": "补第二内容源，须过 R19/R20/R22"
       },
       {

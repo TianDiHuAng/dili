@@ -830,9 +830,9 @@
       "tier": "核心"
     },
     "克里特文明": {
-      "level": "D",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 2,
@@ -1034,9 +1034,9 @@
       "tier": "补充"
     },
     "十字军东征": {
-      "level": "C",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1202,9 +1202,9 @@
       "tier": "重要"
     },
     "大平原": {
-      "level": "D",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 2,
@@ -2920,9 +2920,9 @@
   },
   "summary": {
     "A": 119,
-    "B": 119,
-    "C": 3,
-    "D": 2
+    "B": 122,
+    "C": 2,
+    "D": 0
   },
   "alias_list": [
     "britannica-regions",
@@ -2933,7 +2933,6 @@
   ],
   "fix": "第68轮：别名页/索引页（britannica-regions/wikipedia-regions/un-m49/ap-human-geo）不计为强来源——它们只证明对象存在，不含主题正文（D071 机器化,D135）",
   "alias_only_entries": [
-    "隋唐",
-    "十字军东征"
+    "隋唐"
   ]
 }

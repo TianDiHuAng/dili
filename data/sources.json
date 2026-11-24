@@ -8605,6 +8605,45 @@
       "verified": true,
       "page_title": "Population genomics of the Viking world",
       "note": "OpenAlex 作品 W3087682297（DOI https://doi.org/10.1038/s41586-020-2688-8）；2020年；被引 398。HTTP 200，139265 字节。摘要长度 1490 字符；主题槽命中 ['viking', 'expansion', 'scandinav']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W3015865789",
+      "title": "OpenAlex W3015865789 — Settlement, Identity, and Memory in the Latin East: An Examination of the Term ‘Crusader States’",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2020,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3015865789",
+      "url2": "https://doi.org/https://doi.org/10.1093/ehr/ceaa008",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Settlement, Identity, and Memory in the Latin East: An Examination of the Term ‘Crusader States’",
+      "note": "OpenAlex 作品 W3015865789（DOI https://doi.org/10.1093/ehr/ceaa008）；2020年；被引 29。HTTP 200，18635 字节。摘要长度 1644 字符；主题槽命中 ['crusad', 'levant', 'latin east', 'state', 'movement']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2992002638",
+      "title": "OpenAlex W2992002638 — Decadal heat and drought drive body size of North American bison (Bison bison) along the Great Plains",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2019,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2992002638",
+      "url2": "https://doi.org/https://doi.org/10.1002/ece3.5898",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Decadal heat and drought drive body size of North American bison (Bison bison) along the Great Plains",
+      "note": "OpenAlex 作品 W2992002638（DOI https://doi.org/10.1002/ece3.5898）；2019年；被引 27。HTTP 200，21221 字节。摘要长度 1706 字符；主题槽命中 ['great plains', 'plains', 'bison', 'grassland', 'drought']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2538009141",
+      "title": "OpenAlex W2538009141 — Seals, Craft, and Community in Bronze Age Crete",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2016,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2538009141",
+      "url2": "https://doi.org/https://doi.org/10.1017/cbo9781316443071",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Seals, Craft, and Community in Bronze Age Crete",
+      "note": "OpenAlex 作品 W2538009141（DOI https://doi.org/10.1017/cbo9781316443071）；2016年；被引 31。HTTP 200，21445 字节。摘要长度 955 字符；主题槽命中 ['minoan', 'crete', 'aegean', 'bronze age', 'palace', 'society']。证据强度：strong。"
     }
   ]
 }

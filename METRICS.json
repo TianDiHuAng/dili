@@ -1016,6 +1016,21 @@
       "sample_rate": "10条G1全查",
       "sample_audit": "被引1145/398/169/82/24等；R25拦下1条书评(标题即书名)",
       "note": "补5条强来源→G1 10→5；R25拦下「标题即书名」的书评；G3 7；层级 A119/B119/C3/D2"
+    },
+    {
+      "round": 70,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 5,
+      "fixes": 3,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 3,
+      "sample_rate": "5条G1宽检索",
+      "sample_audit": "3条对位登记（十字军29/大平原27/克里特31）；2条如实记录",
+      "note": "宽检索补3条→G1 5→2；D级清零；G3 6；层级 A119/B122/C2/D0"
     }
   ]
 }
