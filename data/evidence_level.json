@@ -1,5 +1,5 @@
 {
-  "round": 68,
+  "round": 72,
   "levels": {
     "撒哈拉沙漠": {
       "level": "B",
@@ -28,12 +28,12 @@
     "尼罗河三角洲": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
         "alias": 1,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "重要"
     },
@@ -64,12 +64,12 @@
     "刚果盆地": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 0,
         "side": 0,
         "data": 3,
         "alias": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "核心"
     },
@@ -110,26 +110,26 @@
       "tier": "重要"
     },
     "古埃及早王朝": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 3,
         "alias": 1,
-        "unknown": 1
+        "unknown": 2
       },
       "tier": "核心"
     },
     "古埃及古王国": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 2,
         "alias": 1,
-        "unknown": 1
+        "unknown": 2
       },
       "tier": "重要"
     },
@@ -302,18 +302,6 @@
       "tier": "核心"
     },
     "苏美尔城邦": {
-      "level": "A",
-      "counts": {
-        "strong": 2,
-        "weak": 0,
-        "side": 0,
-        "data": 2,
-        "alias": 1,
-        "unknown": 1
-      },
-      "tier": "核心"
-    },
-    "阿卡德帝国": {
       "level": "B",
       "counts": {
         "strong": 1,
@@ -321,7 +309,19 @@
         "side": 0,
         "data": 2,
         "alias": 1,
-        "unknown": 1
+        "unknown": 2
+      },
+      "tier": "核心"
+    },
+    "阿卡德帝国": {
+      "level": "D",
+      "counts": {
+        "strong": 0,
+        "weak": 0,
+        "side": 0,
+        "data": 2,
+        "alias": 1,
+        "unknown": 2
       },
       "tier": "重要"
     },
@@ -398,14 +398,14 @@
       "tier": "重要"
     },
     "印度河文明": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 3,
         "alias": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "核心"
     },
@@ -628,12 +628,12 @@
     "湄公河三角洲": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 0,
         "side": 0,
         "data": 3,
         "alias": 1,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "重要"
     },
@@ -760,12 +760,12 @@
     "青藏高原": {
       "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 2,
         "alias": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "核心"
     },
@@ -1216,12 +1216,12 @@
     "密西西比河": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 0,
         "side": 1,
         "data": 3,
         "alias": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "核心"
     },
@@ -2104,12 +2104,12 @@
     "游牧": {
       "level": "A",
       "counts": {
-        "strong": 4,
+        "strong": 3,
         "weak": 0,
         "side": 0,
         "data": 2,
         "alias": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "核心"
     },
@@ -2558,14 +2558,14 @@
       "tier": "补充"
     },
     "水资源管理": {
-      "level": "B",
+      "level": "D",
       "counts": {
-        "strong": 1,
+        "strong": 0,
         "weak": 0,
         "side": 0,
         "data": 1,
         "alias": 0,
-        "unknown": 1
+        "unknown": 2
       },
       "tier": "补充"
     },
@@ -2906,33 +2906,29 @@
       "tier": "补充"
     },
     "水资源供给概览": {
-      "level": "A",
+      "level": "B",
       "counts": {
-        "strong": 2,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 1,
         "alias": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "tier": "补充"
     }
   },
   "summary": {
-    "A": 119,
-    "B": 122,
+    "A": 114,
+    "B": 125,
     "C": 2,
-    "D": 0
+    "D": 2
   },
-  "alias_list": [
-    "britannica-regions",
-    "wikipedia-regions",
-    "un-m49",
-    "ap-human-geo",
-    "s010-unesco-org"
-  ],
-  "fix": "第68轮：别名页/索引页（britannica-regions/wikipedia-regions/un-m49/ap-human-geo）不计为强来源——它们只证明对象存在，不含主题正文（D071 机器化,D135）",
-  "alias_only_entries": [
-    "隋唐"
-  ]
+  "definition": {
+    "A": "≥2 强来源",
+    "B": "1 强来源",
+    "C": "无强来源",
+    "D": "仅数据端点+机构页"
+  },
+  "criterion": "tools/assess.py（D138）"
 }

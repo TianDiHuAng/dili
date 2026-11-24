@@ -1046,6 +1046,21 @@
       "sample_rate": "—",
       "sample_audit": "口径统一：hb 排除别名页+加入被引条件",
       "note": "统一 hb 与层级判定口径后：≥2内容源 151（旧报238）、仅1个 91、0个 1；G3 6→91"
+    },
+    {
+      "round": 72,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "D138 单一实现完成：assess.py 被 gaps/levels/check 三处引用",
+      "note": "建立 tools/assess.py 统一判据；check/gaps/levels 全部引用；权威数字 ≥2内容源 149/1个 93/0个 1、层级 A114/B125/C2/D2"
     }
   ]
 }
