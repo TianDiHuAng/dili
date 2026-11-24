@@ -8644,6 +8644,84 @@
       "verified": true,
       "page_title": "Seals, Craft, and Community in Bronze Age Crete",
       "note": "OpenAlex 作品 W2538009141（DOI https://doi.org/10.1017/cbo9781316443071）；2016年；被引 31。HTTP 200，21445 字节。摘要长度 955 字符；主题槽命中 ['minoan', 'crete', 'aegean', 'bronze age', 'palace', 'society']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W186947854",
+      "title": "OpenAlex W186947854 — Modelling maritime interaction in the Aegean Bronze Age",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2008,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W186947854",
+      "url2": "https://doi.org/https://doi.org/10.1017/s0003598x0009774x",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Modelling maritime interaction in the Aegean Bronze Age",
+      "note": "OpenAlex 作品 W186947854（DOI https://doi.org/10.1017/s0003598x0009774x）；2008年；被引 251。HTTP 200，18207 字节。摘要长度 749 字符；主题槽命中 ['aegean', 'bronze age', 'trade', 'network']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2330725510",
+      "title": "OpenAlex W2330725510 — Market-Days in the Roman Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1970,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2330725510",
+      "url2": "https://doi.org/https://doi.org/10.2307/1087739",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Market-Days in the Roman Empire",
+      "note": "OpenAlex 作品 W2330725510（DOI https://doi.org/10.2307/1087739）；1970年；被引 198。HTTP 200，13074 字节。摘要长度 1995 字符；主题槽命中 ['roman', 'empire', 'econom', 'trade', 'road']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W4214847666",
+      "title": "OpenAlex W4214847666 — The Economy of Renaissance Italy",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2022,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4214847666",
+      "url2": "https://doi.org/https://doi.org/10.4324/9781003132776",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Economy of Renaissance Italy",
+      "note": "OpenAlex 作品 W4214847666（DOI https://doi.org/10.4324/9781003132776）；2022年；被引 11。HTTP 200，13472 字节。摘要长度 1333 字符；主题槽命中 ['renaissance', 'italy', 'econom', 'city', 'art', 'culture']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2026487640",
+      "title": "OpenAlex W2026487640 — The Colonization of Beringia and the Peopling of the New World",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1993,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2026487640",
+      "url2": "https://doi.org/https://doi.org/10.1126/science.259.5091.46",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Colonization of Beringia and the Peopling of the New World",
+      "note": "OpenAlex 作品 W2026487640（DOI https://doi.org/10.1126/science.259.5091.46）；1993年；被引 241。HTTP 200，16089 字节。摘要长度 742 字符；主题槽命中 ['bering', 'bridge', 'peopling']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W1970609697",
+      "title": "OpenAlex W1970609697 — Sociological reflections on the empire of Mali (1300 AD)",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2004,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W1970609697",
+      "url2": "https://doi.org/https://doi.org/10.1108/01443330410790687",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Sociological reflections on the empire of Mali (1300 AD)",
+      "note": "OpenAlex 作品 W1970609697（DOI https://doi.org/10.1108/01443330410790687）；2004年；被引 9。HTTP 200，13610 字节。摘要长度 848 字符；主题槽命中 ['mali', 'empire', 'trade', 'west africa']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2031767966",
+      "title": "OpenAlex W2031767966 — Soil Salinity Mapping by Multiscale Remote Sensing in Mesopotamia, Iraq",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2014,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2031767966",
+      "url2": "https://doi.org/https://doi.org/10.1109/jstars.2014.2360411",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Soil Salinity Mapping by Multiscale Remote Sensing in Mesopotamia, Iraq",
+      "note": "OpenAlex 作品 W2031767966（DOI https://doi.org/10.1109/jstars.2014.2360411）；2014年；被引 129。HTTP 200，22366 字节。摘要长度 1552 字符；主题槽命中 ['mesopotamia', 'salin', 'agricultur', 'environment']。证据强度：strong。"
     }
   ]
 }

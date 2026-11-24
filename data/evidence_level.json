@@ -230,9 +230,9 @@
       "tier": "重要"
     },
     "马里帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -290,9 +290,9 @@
       "tier": "补充"
     },
     "两河流域": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -818,9 +818,9 @@
       "tier": "重要"
     },
     "爱琴海世界": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -890,9 +890,9 @@
       "tier": "核心"
     },
     "罗马帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -1070,9 +1070,9 @@
       "tier": "重要"
     },
     "文艺复兴意大利": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 2,
         "data": 3,
@@ -1178,9 +1178,9 @@
       "tier": "重要"
     },
     "白令陆桥": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 114,
-    "B": 125,
+    "A": 120,
+    "B": 119,
     "C": 2,
     "D": 2
   },

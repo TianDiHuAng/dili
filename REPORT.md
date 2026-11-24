@@ -1,50 +1,44 @@
-# REPORT.md — 第 72 轮摘要
+# REPORT.md — 第 73 轮摘要
 
 - 日期：2026-11-24
-- 状态：正常循环（**判据单一实现完成**）
+- 状态：正常循环（**G3：93 → 88**）
 
-## 1. D138 落地：建立 `tools/assess.py`
+## 1. 为首批 8 条核心 G3 找第二内容源
 
-上一轮发现 `hb()`（内容源统计）与层级判定是两套标准，导致数字虚报。本轮把它们抽成**唯一实现**：
+| 条目 | 新第二来源 | 被引 | 摘要 |
+|---|---|---|---|
+| 爱琴海世界 | Modelling maritime interaction in the Aegean Bronze Age (2008) | **251** | 749 |
+| 白令陆桥 | The Colonization of Beringia and the Peopling of the New World (1993) | **241** | 742 |
+| 罗马帝国 | Market-Days in the Roman Empire (1970) | 198 | 1,995 |
+| 两河流域 | Soil Salinity Mapping…in Mesopotamia (2014) | 129 | 1,552 |
+| 文艺复兴意大利 | The Economy of Renaissance Italy (2022) | 11 | 1,333 |
+| 马里帝国 | Sociological reflections on the empire of Mali (2004) | 9 | 848 |
 
-```
-tools/assess.py
-  ALIAS_PAGES / DATA_PREFIX / BAD_TYPES      常量集中
-  has_content(sid, src, entry)               内容源判定
-  strength(sid, src, entry)                  层级判定（strong/weak/side/data/alias）
-  content_count(entry, sources)               条目内容源数
-  level_of(entry, sources)                    A/B/C/D
-```
+**两条须注意限定**：
+- **两河流域**：那篇是**现代伊拉克**的土壤盐渍化遥感测绘，不是古代灌溉史——落点句已写明「该文是现代测绘，不作古代灌溉史的定论」。
+- **马里帝国**：被引仅 9（<10），但摘要 848 字符 ≥800，按 D117「满足其一」成立。
 
-**`check.py`（R22）、`round62_gaps.py`、`round68_levels.py` 全部改为引用它**——此前三处各写一份，任何一处改动都会造成不一致。
+## 2. 两条对象碰撞（不采用）
 
-切换过程中 R22 立刻报出 3 条不一致（印度河文明、水资源管理、水资源供给概览），证明三处确实在算不同的东西；统一后 **0 错误**。
+| 条目 | 候选 | 问题 |
+|---|---|---|
+| 撒哈拉沙漠 | Global warming drives changes in **carnivore communities** (2017) | 主题是食肉动物，与沙漠无关 |
+| **东非大裂谷** | …paleohydrology of the **Dead Sea** rift valley (2006) | **死海裂谷**，地名碰撞 |
 
-## 2. 统一后的权威数字
+## 3. 口径（全部来自 tools/assess.py）
 
-| 指标 | 数值 |
-|---|---|
-| 层级 A / B / C / D | **114 / 125 / 2 / 2** |
-| 内容源 ≥2 | **149** |
-| 内容源 1 个 | **93** |
-| 内容源 0 个 | **1** |
-| G1 无强来源 | **4** |
-| G3 仅 1 内容源 | **93** |
-
-G1 明细：阿卡德帝国、隋唐、澳大利亚大陆、水资源管理。
-
-## 3. 口径
-
-- tools/check.py：ERRORS=0 ALL_PASS（243 条、665 来源；R1–R25）
+- tools/check.py：ERRORS=0 ALL_PASS（243 条、671 来源；R1–R25）
 - tools/check_links.py：BROKEN=0 LINKS_PASS
+- 层级：A 120 / B 119 / C 2 / D 2
+- 内容源 ≥2：**154**；1 个：**88**；0 个：**1**
+- 缺口：G1=4 / G2=3 / **G3=88** / G4=243
 - 侧面文献：side 34 / dropped 37 / weak 12
-- 来源 665（已核验 586）；待核实 241
 
 | 条件 | 状态 |
 |---|---|
 | 全部 243 条 L2 | **已达成** |
+| 判据单一实现（D138） | **已达成** |
 | R19–R25 七道机器校验 | 已上线，0 违规 |
-| **判据单一实现（D138）** | **已达成** |
 | 每个条目都有强来源（G1=0） | 未达成（4 条） |
-| 每条都有 ≥2 内容源 | 未达成（94 条不足） |
-| G4 语义对题 | 30/243 已扫描 |
+| 每条都有 ≥2 内容源 | 未达成（89 条不足） |
+| G4 语义对题 | 38/243 已扫描 |

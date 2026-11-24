@@ -1061,6 +1061,21 @@
       "sample_rate": "—",
       "sample_audit": "D138 单一实现完成：assess.py 被 gaps/levels/check 三处引用",
       "note": "建立 tools/assess.py 统一判据；check/gaps/levels 全部引用；权威数字 ≥2内容源 149/1个 93/0个 1、层级 A114/B125/C2/D2"
+    },
+    {
+      "round": 73,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 8,
+      "fixes": 6,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 6,
+      "sample_rate": "8条核心G3全查",
+      "sample_audit": "6条登记、2条不采用（食肉动物/死海裂谷碰撞）",
+      "note": "补6条第二内容源→G3 93→88；层级 A120/B119/C2/D2"
     }
   ]
 }

@@ -1,0 +1,385 @@
+{
+  "撒哈拉沙漠": {
+    "cand": [
+      {
+        "oid": "W2599039912",
+        "title": "Global warming drives changes in carnivore communities in the North Sahara Desert",
+        "year": 2017,
+        "cited": 17,
+        "abs_len": 2882,
+        "slots": [
+          "sahara",
+          "desert",
+          "climate",
+          "environment",
+          "change"
+        ],
+        "doi": "https://doi.org/10.3354/cr01463"
+      },
+      {
+        "oid": "W2035901831",
+        "title": "Adapting maize production to climate change in sub-Saharan Africa",
+        "year": 2013,
+        "cited": 665,
+        "abs_len": 1202,
+        "slots": [
+          "sahara",
+          "climate",
+          "environment",
+          "change"
+        ],
+        "doi": "https://doi.org/10.1007/s12571-013-0256-x"
+      },
+      {
+        "oid": "W2037966531",
+        "title": "The demographic response to Holocene climate change in the Sahara",
+        "year": 2014,
+        "cited": 299,
+        "abs_len": 1085,
+        "slots": [
+          "sahara",
+          "climate",
+          "environment",
+          "change"
+        ],
+        "doi": "https://doi.org/10.1016/j.quascirev.2014.07.003"
+      }
+    ],
+    "n": 22
+  },
+  "东非大裂谷": {
+    "cand": [
+      {
+        "oid": "W2339946322",
+        "title": "Groundwater hydrology and paleohydrology of the Dead Sea rift valley",
+        "year": 2006,
+        "cited": 15,
+        "abs_len": 1634,
+        "slots": [
+          "rift",
+          "geolog",
+          "volution",
+          "lake",
+          "tecton"
+        ],
+        "doi": "https://doi.org/10.1130/2006.2401(06)"
+      },
+      {
+        "oid": "W3010770915",
+        "title": "East African rift kinematics and stress field: geological & focal mechanism data",
+        "year": 2016,
+        "cited": 0,
+        "abs_len": 3312,
+        "slots": [
+          "rift",
+          "geolog",
+          "volution",
+          "lake",
+          "tecton"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W2109118908",
+        "title": "Rift Valley lake fish and shellfish provided brain-specific nutrition for early Homo",
+        "year": 1998,
+        "cited": 231,
+        "abs_len": 2197,
+        "slots": [
+          "rift",
+          "geolog",
+          "volution",
+          "lake"
+        ],
+        "doi": "https://doi.org/10.1079/bjn19980004"
+      }
+    ],
+    "n": 18
+  },
+  "马里帝国": {
+    "cand": [
+      {
+        "oid": "W1970609697",
+        "title": "Sociological reflections on the empire of Mali (1300 AD)",
+        "year": 2004,
+        "cited": 9,
+        "abs_len": 848,
+        "slots": [
+          "mali",
+          "empire",
+          "trade",
+          "west africa"
+        ],
+        "doi": "https://doi.org/10.1108/01443330410790687"
+      },
+      {
+        "oid": "W3036819405",
+        "title": "The history of the Notion of the State in West Africa: from the destruction of empires to the emergence of the modern state resulting from colonization (the case of the Mali Empire)",
+        "year": 2020,
+        "cited": 5,
+        "abs_len": 1515,
+        "slots": [
+          "mali",
+          "empire",
+          "state",
+          "west africa"
+        ],
+        "doi": "https://doi.org/10.22363/2312-8127-2020-12-1-28-34"
+      },
+      {
+        "oid": "W2967453577",
+        "title": "Beyond the Mali Empire – A New Paradigm for the Sunjata Epic.",
+        "year": 2018,
+        "cited": 42,
+        "abs_len": 989,
+        "slots": [
+          "mali",
+          "empire",
+          "west africa"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 12
+  },
+  "两河流域": {
+    "cand": [
+      {
+        "oid": "W2031767966",
+        "title": "Soil Salinity Mapping by Multiscale Remote Sensing in Mesopotamia, Iraq",
+        "year": 2014,
+        "cited": 129,
+        "abs_len": 1552,
+        "slots": [
+          "mesopotamia",
+          "salin",
+          "agricultur",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.1109/jstars.2014.2360411"
+      },
+      {
+        "oid": "W1982150356",
+        "title": "Ecological Effects of Irrigation in Ancient Mesopotamia",
+        "year": 1960,
+        "cited": 61,
+        "abs_len": 1878,
+        "slots": [
+          "mesopotamia",
+          "irrigation",
+          "agricultur",
+          "environment"
+        ],
+        "doi": "https://doi.org/10.2307/4199684"
+      },
+      {
+        "oid": "W154910917",
+        "title": "Simulating the effects of salinization on irrigation agriculture in southern Mesopotamia",
+        "year": 2013,
+        "cited": 14,
+        "abs_len": 1162,
+        "slots": [
+          "mesopotamia",
+          "irrigation",
+          "salin",
+          "agricultur"
+        ],
+        "doi": null
+      }
+    ],
+    "n": 16
+  },
+  "爱琴海世界": {
+    "cand": [
+      {
+        "oid": "W186947854",
+        "title": "Modelling maritime interaction in the Aegean Bronze Age",
+        "year": 2008,
+        "cited": 251,
+        "abs_len": 749,
+        "slots": [
+          "aegean",
+          "bronze age",
+          "trade",
+          "network"
+        ],
+        "doi": "https://doi.org/10.1017/s0003598x0009774x"
+      },
+      {
+        "oid": "W2112527207",
+        "title": "Sailing the Wine-Dark Sea: International Trade and the Late Bronze Age Aegean",
+        "year": 1999,
+        "cited": 123,
+        "abs_len": 829,
+        "slots": [
+          "aegean",
+          "bronze age",
+          "trade",
+          "network"
+        ],
+        "doi": "https://doi.org/10.2307/605546"
+      },
+      {
+        "oid": "W2186678651",
+        "title": "“Minding the Gap”: Against the Gaps. The Early Bronze Age and the Transition to the Middle Bronze Age in the Northern and Eastern Aegean/Western Anatolia",
+        "year": 2013,
+        "cited": 60,
+        "abs_len": 1236,
+        "slots": [
+          "aegean",
+          "bronze age",
+          "trade",
+          "network"
+        ],
+        "doi": "https://doi.org/10.3764/aja.117.4.0569"
+      }
+    ],
+    "n": 21
+  },
+  "罗马帝国": {
+    "cand": [
+      {
+        "oid": "W2330725510",
+        "title": "Market-Days in the Roman Empire",
+        "year": 1970,
+        "cited": 198,
+        "abs_len": 1995,
+        "slots": [
+          "roman",
+          "empire",
+          "econom",
+          "trade",
+          "road"
+        ],
+        "doi": "https://doi.org/10.2307/1087739"
+      },
+      {
+        "oid": "W2991995672",
+        "title": "Dendrochronological evidence for long-distance timber trading in the Roman Empire",
+        "year": 2019,
+        "cited": 39,
+        "abs_len": 1354,
+        "slots": [
+          "roman",
+          "empire",
+          "econom",
+          "trade",
+          "administrat"
+        ],
+        "doi": "https://doi.org/10.1371/journal.pone.0224077"
+      },
+      {
+        "oid": "W4320477468",
+        "title": "Fairs and Markets in the Roman Empire: Economic and Social Aspects of Periodic Trade in a Pre-Industrial Society",
+        "year": 1993,
+        "cited": 360,
+        "abs_len": 1007,
+        "slots": [
+          "roman",
+          "empire",
+          "econom",
+          "trade"
+        ],
+        "doi": "https://doi.org/10.1163/9789004525573"
+      }
+    ],
+    "n": 14
+  },
+  "文艺复兴意大利": {
+    "cand": [
+      {
+        "oid": "W4214847666",
+        "title": "The Economy of Renaissance Italy",
+        "year": 2022,
+        "cited": 11,
+        "abs_len": 1333,
+        "slots": [
+          "renaissance",
+          "italy",
+          "econom",
+          "city",
+          "art",
+          "culture"
+        ],
+        "doi": "https://doi.org/10.4324/9781003132776"
+      },
+      {
+        "oid": "W1892068217",
+        "title": "The Arts of Domestic Devotion in Renaissance Italy: The Case of Venice",
+        "year": 2006,
+        "cited": 10,
+        "abs_len": 2126,
+        "slots": [
+          "renaissance",
+          "italy",
+          "econom",
+          "city",
+          "art",
+          "culture"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W3117833557",
+        "title": "TO BE, TO HAVE OR TO HOLD THE POWER IN THE RENAISSANCE ITALIAN CITY-STATES?",
+        "year": 2020,
+        "cited": 0,
+        "abs_len": 1617,
+        "slots": [
+          "renaissance",
+          "italy",
+          "econom",
+          "city",
+          "art",
+          "culture"
+        ],
+        "doi": "https://doi.org/10.5593/sws.iscah.2020.7.1/s21.06"
+      }
+    ],
+    "n": 28
+  },
+  "白令陆桥": {
+    "cand": [
+      {
+        "oid": "W2026487640",
+        "title": "The Colonization of Beringia and the Peopling of the New World",
+        "year": 1993,
+        "cited": 241,
+        "abs_len": 742,
+        "slots": [
+          "bering",
+          "bridge",
+          "peopling"
+        ],
+        "doi": "https://doi.org/10.1126/science.259.5091.46"
+      },
+      {
+        "oid": "W4213116390",
+        "title": "Human Ecology of Beringia",
+        "year": 2007,
+        "cited": 119,
+        "abs_len": 1956,
+        "slots": [
+          "bering",
+          "bridge",
+          "peopling"
+        ],
+        "doi": "https://doi.org/10.7312/hoff13060"
+      },
+      {
+        "oid": "W1996249574",
+        "title": "A bridge or a barrier? Beringia's influence on the distribution and diversity of tundra plants",
+        "year": 2008,
+        "cited": 65,
+        "abs_len": 1764,
+        "slots": [
+          "bering",
+          "bridge",
+          "migration"
+        ],
+        "doi": "https://doi.org/10.1080/17550870802328660"
+      }
+    ],
+    "n": 14
+  }
+}

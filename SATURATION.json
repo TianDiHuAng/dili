@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 72,
+  "last_round": 73,
   "history": [
     {
       "round": 1,
@@ -762,8 +762,8 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 114,
-      "B": 125,
+      "A": 120,
+      "B": 119,
       "C": 2,
       "D": 2
     },
@@ -775,8 +775,8 @@
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json",
-    "ge2_content": 149,
-    "one_content": 93,
+    "ge2_content": 154,
+    "one_content": 88,
     "zero_content": 1,
     "criterion": "tools/assess.py（D138 单一实现）"
   },
@@ -798,7 +798,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 93,
+        "count": 88,
         "fixed_by": "补第二内容源，须过 R19/R20/R22/R25"
       },
       {
