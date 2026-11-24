@@ -520,12 +520,12 @@
         "openalex-W4321610807"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（320年–550年）来自 Wikidata wikidata-q11774 的属性值；引文照录实体描述：「ancient Indian empire (c. 3rd century CE–575 CE)」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4321610807（2019年，「THE EMPIRE OF GUPTA – THE GOLDEN PERIOD OF ANCIENT INDIA」，DOI https://doi.org/10.5281/zenodo.2599341）；其摘要含 Gupta、320、550，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。",
+      "pending_notes": "第17轮复核：南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】南亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】南亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（320年–550年）来自 Wikidata wikidata-q11774 的属性值；引文照录实体描述：「ancient Indian empire (c. 3rd century CE–575 CE)」。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4321610807（2019年，「THE EMPIRE OF GUPTA – THE GOLDEN PERIOD OF ANCIENT INDIA」，DOI https://doi.org/10.5281/zenodo.2599341）；其摘要含 Gupta、320、550，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；7 条候选中无过筛者。第二来源缺。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "北印度恒河平原的冲积土与季风降水支撑密集农业，河谷是人口与城市重心；周边山地与森林提供资源与屏障。",
       "influence": "农业剩余与贸易网络支撑城市与文化繁荣；统一与分裂同地方势力与继承安排相关，地理条件提供基础而不决定政治周期。",
       "polities": "据 Wikidata 记录，320年–550年。口径需说明：实体描述为「ancient Indian empire (c. 3rd century CE–575 CE)」，P571=320、P576=550。描述以世纪表述且终年作 575，与属性 320/550 不一致。本条取属性值并注明。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
@@ -712,12 +712,12 @@
         "openalex-W4206323479"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1046年–前256年）来自 Wikidata wikidata-q35216 的属性值；引文照录实体描述：「dynasty of Ancient Chinese kings lasting from c. 1046 to 256 BC」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第42轮第二来源（strong）】openalex-W4206323479（2021年，《Hierarchical, Ethnic, and Provenance Features of Western Zhou Period P》，Asian perspectives，DOI 10.1353/asi.2021.0006，被引 5）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "第17轮复核：东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第18轮复核】东亚×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页。 【第19轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第20轮复核】东亚×政权更替；按 D041/D055 仍缺含政权年代序列正文的专题页。 【第33轮升级】年代（前1046年–前256年）来自 Wikidata wikidata-q35216 的属性值；引文照录实体描述：「dynasty of Ancient Chinese kings lasting from c. 1046 to 256 BC」。 【单源待互证】本条关键年代/量值目前仅有 Wikidata 一处内容性结构化来源。可达性实况（第33轮复测）：Britannica 403、Wikipedia 无响应；DBpedia HTTP 可达（200，资源页 136–217 KB），但其英文 abstract 字段为空、内容派生自 Wikipedia，不构成独立内容来源。UNESCO Culture 首页与 UNSD M49 为区域/机构框架页，亦不构成第二独立印证。需补学术或专题来源后转为双源。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第42轮第二来源（strong）】openalex-W4206323479（2021年，《Hierarchical, Ethnic, and Provenance Features of Western Zhou Period P》，Asian perspectives，DOI 10.1353/asi.2021.0006，被引 5）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；11 条候选中无一同时满足「标题含 zhou」与「两个主题槽（state/feudal/enfeoff）」。第二来源缺。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-24",
       "geo": "核心区在关中盆地与黄河中游，渭河谷地提供农业与防御条件；东向的华北平原则是封建诸侯的主要分布区。",
       "influence": "分封与宗法把亲属与功臣安置于要冲，地理距离与交通条件影响控制强度；制度设计是政治整合的主要机制，地理提供成本约束。",
       "polities": "据 Wikidata 记录，前1046年–前256年。P571 存在多个值（-1046 preferred、-1027、-1100 精度=世纪）；本条取 preferred rank 的 1046，与描述「c. 1046 to 256 BC」一致。 具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
@@ -784,10 +784,11 @@
         "s010-unesco-org",
         "wb-chn-pop",
         "wb-chn-urban",
-        "openalex-W4403972561"
+        "openalex-W4403972561",
+        "openalex-W2113119651"
       ],
       "needs_verification": true,
-      "pending_notes": "第32轮升级：年代（前206–220年）来自 Wikidata Q7209 的结构化属性 P571/P576（精度=年），UNESCO Culture 作机构页、世界银行作现状数据端点。按 TASK 规则 Wikidata 仅为双源之一，帝系与年号待专门史学来源核验。 【第32轮返工】补年代口径：前206=汉元年/受封汉王、秦亡前207、通说建朝前202；并注明 Wikidata 自身描述写 202 BC 与 P571 的 206 BC 不一致。删除「中间有新朝中断」无源断言。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4403972561（2019年，「Dogs in Early Imperial China: Anthropo-Zoological Reading of」，DOI 无）；其摘要含 Han dynasty、206 BC、220，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第49轮降旁证】所引 W4403972561 是《Dogs in Early Imperial China: Anthropo-Zoological Reading of Iconographic Sources from the Han Dynasty (206 BC-AD 220)》，标题含「汉代」与「前206–公元220」因而过了对象词检验，但主题是汉代图像中的狗（动物考古侧面），不能支撑本条的疆域与行政叙述。现降为旁证（仅可说明汉代有动物利用的图像材料），不作第二互证来源。",
+      "pending_notes": "第32轮升级：年代（前206–220年）来自 Wikidata Q7209 的结构化属性 P571/P576（精度=年），UNESCO Culture 作机构页、世界银行作现状数据端点。按 TASK 规则 Wikidata 仅为双源之一，帝系与年号待专门史学来源核验。 【第32轮返工】补年代口径：前206=汉元年/受封汉王、秦亡前207、通说建朝前202；并注明 Wikidata 自身描述写 202 BC 与 P571 的 206 BC 不一致。删除「中间有新朝中断」无源断言。 【第34轮补第二来源】本条关键年代/量值目前仅有 Wikidata 一处结构化来源（DBpedia 与 Britannica/Wikipedia 在本环境均不可达），按 TASK 规则标为待核实；机构页（UNESCO Culture 首页、FAO 门户）与国情端点不构成第二独立印证。需补专题或学术来源后转为双源。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4403972561（2019年，「Dogs in Early Imperial China: Anthropo-Zoological Reading of」，DOI 无）；其摘要含 Han dynasty、206 BC、220，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第49轮降旁证】所引 W4403972561 是《Dogs in Early Imperial China: Anthropo-Zoological Reading of Iconographic Sources from the Han Dynasty (206 BC-AD 220)》，标题含「汉代」与「前206–公元220」因而过了对象词检验，但主题是汉代图像中的狗（动物考古侧面），不能支撑本条的疆域与行政叙述。现降为旁证（仅可说明汉代有动物利用的图像材料），不作第二互证来源。 【第63轮补第二来源（strong）】openalex-W2113119651（2014年，《Fortified settlements and the settlement system in the Northern Zone of the Han Empire》，被引 17，摘要 970 字符）：主题槽命中 ['han', 'state', 'administrat', 'empire']；已在本条 influence 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -795,7 +796,7 @@
       ],
       "last_update": "2026-11-24",
       "geo": "帝国核心位于黄河中下游与关中平原，并向长江流域与河西走廊扩展。关中盆地与渭河平原提供农业基础，河西走廊是通往中亚的陆路通道。",
-      "influence": "关中与关东平原的农业支撑人口与财政，河西走廊的通道条件支撑向西的交通与驻防。地理条件是重要基础，但帝国扩张与维系同样依赖制度、军事与财政安排。",
+      "influence": "关中与关东平原的农业支撑人口与财政，河西走廊的通道条件支撑向西的交通与驻防。地理条件是重要基础，但帝国扩张与维系同样依赖制度、军事与财政安排。 所引 2014 年《Fortified settlements and the settlement system in the Northern Zone…》（被引17）以帝国行政与防御体系如何影响聚落格局为问题，指出大型territorial国家与帝国需要复杂的治理与防御系统；本条「边地设防与行政控制塑造聚落分布」据此（该文以北方地带为个案）。",
       "polities": "据 Wikidata 结构化记录，P571（成立）= 前206年、P576（解散）= 220年。口径需说明：前206 为汉元年（刘邦受封汉王）；秦亡于前207；通说以刘邦称帝（前202）为汉朝建立。同一 Wikidata 实体的英文描述写「from 202 BC to 220 AD」，与 P571 的 206 BC 并不一致。西汉—新朝—东汉的帝系与年号待专门史学来源逐条核验。",
       "connections": "通过河西走廊与中亚绿洲相连，通过南方港口与海上航线接触东南亚与印度洋；丝绸之路的陆海两段在此交汇。",
       "today": "以中国为例，来源：世界银行 API。总人口 1,406,585,000 人（2025年）（SP.POP.TOTL）、城市化率 66.3%（2025年）（SP.URB.TOTL.IN.ZS）。上述为全国口径，仅示量级；汉代疆域内的人口与经济数据属历史人口学议题，需专门研究核验。",
@@ -1557,16 +1558,17 @@
       ],
       "sources": [
         "wikidata-q31945",
-        "un-m49"
+        "un-m49",
+        "openalex-W2000268226"
       ],
       "needs_verification": true,
-      "pending_notes": "第33轮升级：面积（3,200,000 km²）来自 Wikidata Q31945 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W3217685633（2021年，「Genetic structure of Arabian Peninsula dromedary camels reve」，DOI https://doi.org/10.1016/j.sjbs.2021.11.032）；其摘要含 Arabian Peninsula，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第34轮返工·引用范围澄清】所引文献为单峰驼群体遗传结构研究，仅涉该半岛的骆驼种群，不含年代或面积信息；本条面积数值依赖的 Wikidata 端点当前不可达，故该数值标为待核。 【第49轮剔除·对象错误】《Genetic structure of Arabian Peninsula dromedary camels》——研究对象是单峰驼的群体遗传结构，不是半岛的地理与面积；第41轮曾加说明但未剔除，本轮按 R19 剔除。",
+      "pending_notes": "第33轮升级：面积（3,200,000 km²）来自 Wikidata Q31945 的结构化属性。 【第34轮补第二来源】该量值目前仅一处结构化来源；UNSD M49 作区域框架，不构成第二独立印证。具体边界与统计口径待专门地理来源核验。 【第33轮来源留痕】升级时 sources 收敛为「Wikidata + 机构框架页」两条；原别名页（britannica-regions/wikipedia-regions）及部分机构页（s038 NASA EO、s075 AAG、ap-human-geo）随之移除——因其对本报关键年代/量值不构成独立印证。埃塞俄比亚高原另注：4,550 m 为实体自身 P2044，其 P610 最高点 Ras Dashen 为 4,533 m。 【第33轮】today 为占位而非实测数据，已显式声明。 【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W3217685633（2021年，「Genetic structure of Arabian Peninsula dromedary camels reve」，DOI https://doi.org/10.1016/j.sjbs.2021.11.032）；其摘要含 Arabian Peninsula，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第34轮返工·引用范围澄清】所引文献为单峰驼群体遗传结构研究，仅涉该半岛的骆驼种群，不含年代或面积信息；本条面积数值依赖的 Wikidata 端点当前不可达，故该数值标为待核。 【第49轮剔除·对象错误】《Genetic structure of Arabian Peninsula dromedary camels》——研究对象是单峰驼的群体遗传结构，不是半岛的地理与面积；第41轮曾加说明但未剔除，本轮按 R19 剔除。 【第63轮补第二来源（strong）】openalex-W2000268226（2012年，《Recent climate change in the Arabian Peninsula: annual rainfall and temperature analysis of Saudi Arabia for 1978–2009》，被引 396，摘要 1348 字符）：主题槽命中 ['arabian', 'peninsula', 'climate']；已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "干旱高原与沙漠为主，边缘山地与沿海平原降水稍多；绿洲、井泉与沿海港口决定人口与商路节点分布。",
+      "geo": "干旱高原与沙漠为主，边缘山地与沿海平原降水稍多；绿洲、井泉与沿海港口决定人口与商路节点分布。 所引 2012 年《Recent climate change in the Arabian Peninsula》（被引 396）以网格数据与沙特 27 个地面站（1978–2009）分析半岛的年降雨与气温气候学；沙特一国即占半岛近 80%。本条「半岛以干旱气候为主、降水与温度年际变率大」据此。",
       "influence": "干旱条件限制定居农业，绿洲与商路位置成为政治经济重心；半岛的边缘性（红海与波斯湾两翼）使其长期充当东西方贸易中介。",
       "polities": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
       "connections": "西临红海连接埃及与东非，东临波斯湾连接美索不达米亚与印度洋航线，南北向商路贯穿绿洲带。",

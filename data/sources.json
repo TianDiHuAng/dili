@@ -8436,6 +8436,58 @@
       "verified": true,
       "page_title": "Mass Oratory and Political Power in the Late Roman Republic",
       "note": "OpenAlex 作品 W2503981100；2004年；被引 943。摘要长度 971 字符；主题槽命中 ['republic', 'senate', 'institution', 'politic']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W576645707",
+      "title": "OpenAlex W576645707 — Aztec city-state capitals",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2008,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W576645707",
+      "url2": "https://doi.org/https://doi.org/10.5860/choice.46-2260",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Aztec city-state capitals",
+      "note": "OpenAlex 作品 W576645707（DOI https://doi.org/10.5860/choice.46-2260）；2008年；被引 202。HTTP 200，12501 字节。摘要长度 1164 字符；主题槽命中 ['aztec', 'state', 'empire', 'tenochtitlan']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2000268226",
+      "title": "OpenAlex W2000268226 — Recent climate change in the Arabian Peninsula: annual rainfall and temperature analysis of Saudi Arabia for 1978–2009",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2012,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2000268226",
+      "url2": "https://doi.org/https://doi.org/10.1002/joc.3446",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Recent climate change in the Arabian Peninsula: annual rainfall and temperature analysis of Saudi Arabia for 1978–2009",
+      "note": "OpenAlex 作品 W2000268226（DOI https://doi.org/10.1002/joc.3446）；2012年；被引 396。HTTP 200，20701 字节。摘要长度 1348 字符；主题槽命中 ['arabian', 'peninsula', 'climate']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W4214601784",
+      "title": "OpenAlex W4214601784 — The Invention of the Maghreb: Between Africa and the Middle East",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2021,
+      "type": "专著",
+      "url": "https://api.openalex.org/works/W4214601784",
+      "url2": "https://doi.org/https://doi.org/10.1017/9781108937337",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Invention of the Maghreb: Between Africa and the Middle East",
+      "note": "OpenAlex 作品 W4214601784（DOI https://doi.org/10.1017/9781108937337）；2021年；被引 62。HTTP 200，20439 字节。摘要长度 1034 字符；主题槽命中 ['maghreb', 'geograph', 'region']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2113119651",
+      "title": "OpenAlex W2113119651 — Fortified settlements and the settlement system in the Northern Zone of the Han Empire",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2014,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2113119651",
+      "url2": "https://doi.org/https://doi.org/10.1017/s0003598x00050328",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Fortified settlements and the settlement system in the Northern Zone of the Han Empire",
+      "note": "OpenAlex 作品 W2113119651（DOI https://doi.org/10.1017/s0003598x00050328）；2014年；被引 17。HTTP 200，14527 字节。摘要长度 970 字符；主题槽命中 ['han', 'state', 'administrat', 'empire']。证据强度：strong。"
     }
   ]
 }

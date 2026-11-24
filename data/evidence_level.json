@@ -90,9 +90,9 @@
       "tier": "重要"
     },
     "马格里布": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -486,9 +486,9 @@
       "tier": "重要"
     },
     "汉代": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 3,
@@ -706,9 +706,9 @@
       "tier": "核心"
     },
     "阿拉伯半岛": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 1,
@@ -1223,9 +1223,9 @@
       "tier": "重要"
     },
     "阿兹特克": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 3,
@@ -2676,8 +2676,8 @@
     }
   },
   "summary": {
-    "A": 207,
-    "B": 35,
+    "A": 211,
+    "B": 31,
     "C": 0,
     "D": 1
   },

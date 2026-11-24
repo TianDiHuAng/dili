@@ -911,6 +911,21 @@
       "sample_rate": "—",
       "sample_audit": "侧面文献结构化（34旁证/27剔除/12弱）；缺口四类定义",
       "note": "新建 side_evidence.json；重定义缺口 G1=1/G2=3/G3=19/G4=243；evidence.html 显示侧面统计"
+    },
+    {
+      "round": 63,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "9条政权类全查",
+      "sample_audit": "R22 主动检出3条层级落后并已重算",
+      "note": "补4条第二来源（阿兹特克/阿拉伯半岛/马格里布/汉代）；G3 19→15；层级 A211/B31"
     }
   ]
 }

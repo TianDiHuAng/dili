@@ -1,0 +1,2788 @@
+{
+  "汉代": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Han dynasty state economy society",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.4324/9781315162911-7",
+            "title": "War economy during the Western Han Dynasty",
+            "year": 2019,
+            "oa_id": "W2961296942",
+            "cited": 1,
+            "type": "book-chapter",
+            "abs_len": 945,
+            "slots": [
+              "han",
+              "dynasty",
+              "econom",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.2991/icoeme-18.2018.91",
+            "title": "Analysis of Agricultural Development in Hexi in Han Dynasty",
+            "year": 2018,
+            "oa_id": "W2908078138",
+            "cited": 0,
+            "type": "conference-paper",
+            "abs_len": 878,
+            "slots": [
+              "han",
+              "dynasty",
+              "econom"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Han dynasty state economy society",
+        "results": 15,
+        "passed": [
+          {
+            "doi": null,
+            "title": "Women's Occupation in Han Dynasty",
+            "year": 2009,
+            "oa_id": "W2385695022",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1037,
+            "slots": [
+              "han",
+              "dynasty",
+              "state",
+              "econom",
+              "administrat",
+              "society"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "The Development of Society and Culture of Liang State in the Han Dynasty",
+            "year": 2009,
+            "oa_id": "W2363914309",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 701,
+            "slots": [
+              "han",
+              "dynasty",
+              "state",
+              "econom",
+              "society"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "The textiles of the Han Dynasty & their relationship with society.",
+            "year": 2009,
+            "oa_id": "W2594818961",
+            "cited": 7,
+            "type": "dissertation",
+            "abs_len": 2409,
+            "slots": [
+              "han",
+              "dynasty",
+              "econom",
+              "society"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.11648/j.sd.20210905.17",
+            "title": "A Brief Introduction to Han Fu and Han Dynasty Architectural Culture",
+            "year": 2021,
+            "oa_id": "W3207686489",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1365,
+            "slots": [
+              "han",
+              "dynasty",
+              "state",
+              "econom",
+              "society"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.2991/assehr.k.211020.328",
+            "title": "The Xiongnu Agency and Its Political Economy Through the Relation with the Han Dynasty",
+            "year": 2021,
+            "oa_id": "W3210026066",
+            "cited": 0,
+            "type": "conference-paper",
+            "abs_len": 810,
+            "slots": [
+              "han",
+              "dynasty",
+              "econom",
+              "society"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1007/978-981-96-4994-5_4",
+            "title": "The Western Han Dynasty",
+            "year": 2025,
+            "oa_id": "W4414720005",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 631,
+            "slots": [
+              "han",
+              "dynasty",
+              "administrat",
+              "society"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.32629/asc.v6i4.4327",
+            "title": "The Political Governance Ideas of the Han Dynasty Reflected by the Differences in the Food Culture Class of the Han Dynasty in \"On Salt and Iron\"",
+            "year": 2025,
+            "oa_id": "W4415309177",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1134,
+            "slots": [
+              "han",
+              "dynasty",
+              "state",
+              "econom",
+              "society"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.2991/icelaic-14.2014.133",
+            "title": "The Design Aesthetics of Lacquerware in the Han Dynasty",
+            "year": 2014,
+            "oa_id": "W2080816796",
+            "cited": 2,
+            "type": "conference-paper",
+            "abs_len": 705,
+            "slots": [
+              "han",
+              "dynasty"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Han empire administration",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.13173/centasiaj.63.1-2.0025",
+            "title": "The Administration of the Outlying Territories of the Western Regions of the Chinese Empire under the Early Han Dynasty",
+            "year": 2020,
+            "oa_id": "W3166615141",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 616,
+            "slots": [
+              "han",
+              "dynasty",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.5790/hongkong/9789888208982.003.0006",
+            "title": "On the Edge of Empire: Han–Yuan Sha Po",
+            "year": 2017,
+            "oa_id": "W4248874588",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 678,
+            "slots": [
+              "han",
+              "empire"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Han empire administration",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.13173/caj/2020/1-2/4",
+            "title": "The Administration of the Outlying Territories of the Western Regions of the Chinese Empire under the Early Han Dynasty",
+            "year": 2020,
+            "oa_id": "W3166615141",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 616,
+            "slots": [
+              "han",
+              "dynasty",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.33528/kjma.2022.6.11.279",
+            "title": "Military-oriented state Administration and The Meaning of Establishment of The Marshal Headquarters in The Great Han Empire",
+            "year": 2022,
+            "oa_id": "W4284694931",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1565,
+            "slots": [
+              "han",
+              "state",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/9781009389983.005",
+            "title": "Local Administration, History, and Geography in the Han and Roman Empires: Ban Gu’s “Dili zhi” and Strabo’s Geographika",
+            "year": 2024,
+            "oa_id": "W4404752616",
+            "cited": 1,
+            "type": "book-chapter",
+            "abs_len": 1944,
+            "slots": [
+              "han",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/s0003598x00050328",
+            "title": "Fortified settlements and the settlement system in the Northern Zone of the Han Empire",
+            "year": 2014,
+            "oa_id": "W2113119651",
+            "cited": 17,
+            "type": "article",
+            "abs_len": 970,
+            "slots": [
+              "han",
+              "state",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Balancing Acts. Comparing political and cultural unification and persistence in the Roman Empire during the Principate and the Western Han Empire",
+            "year": 2008,
+            "oa_id": "W163668608",
+            "cited": 1,
+            "type": "dissertation",
+            "abs_len": 553,
+            "slots": [
+              "han",
+              "dynasty",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.17856/jahs.2026.9.176.001",
+            "title": "Interpreting and Communication in the Han Empire — Governance of Non-Han Subjects and External Relations —",
+            "year": 2026,
+            "oa_id": "W7223844377",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 2611,
+            "slots": [
+              "han",
+              "state",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1353/cri.0.0164",
+            "title": "The Early Chinese Empires: Qin and Han (review)",
+            "year": 2008,
+            "oa_id": "W2018065241",
+            "cited": 0,
+            "type": "book-review",
+            "abs_len": 4183,
+            "slots": [
+              "han",
+              "state",
+              "administrat",
+              "society",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.54254/2753-7064/4/20220581",
+            "title": "Characteristics of the Development of Early Empires Based on a Comparison of Rome and Qin Han",
+            "year": 2023,
+            "oa_id": "W4379143417",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1140,
+            "slots": [
+              "han",
+              "dynasty",
+              "econom",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Later Han civil administration",
+            "year": 2003,
+            "oa_id": "W1946151930",
+            "cited": 0,
+            "type": "report",
+            "abs_len": 902,
+            "slots": [
+              "han",
+              "administrat",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1163/23521341-12340212",
+            "title": "Economic Institutions in the Qin and Han Dynasties: the Governance of a Unified Empire",
+            "year": 2026,
+            "oa_id": "W7161636838",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1860,
+            "slots": [
+              "han",
+              "state",
+              "econom",
+              "administrat",
+              "society",
+              "empire"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1017/s0003598x00050328",
+      "title": "Fortified settlements and the settlement system in the Northern Zone of the Han Empire",
+      "year": 2014,
+      "oa_id": "W2113119651",
+      "cited": 17,
+      "type": "article",
+      "abs_len": 970,
+      "slots": [
+        "han",
+        "state",
+        "administrat",
+        "empire"
+      ]
+    },
+    "candidates": 21
+  },
+  "阿兹特克": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Aztec state society tribute",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.4324/9781351316606-9",
+            "title": "Gift and Tribute: Relations of Dependency in Aztec Mexico",
+            "year": 2017,
+            "oa_id": "W2904957331",
+            "cited": 6,
+            "type": "book-chapter",
+            "abs_len": 963,
+            "slots": [
+              "aztec",
+              "tribute",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.1017/cbo9780511777967.002",
+            "title": "The Cost of Courage in Aztec Society",
+            "year": 2010,
+            "oa_id": "W2344453926",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 1412,
+            "slots": [
+              "aztec",
+              "tribute",
+              "society",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "10.1017/s095653610000225x",
+            "title": "Subject States and Tribute Provinces: The Aztec Empire in the Northern Valley of Mexico",
+            "year": 1992,
+            "oa_id": "W2103064161",
+            "cited": 22,
+            "type": "article",
+            "abs_len": 1005,
+            "slots": [
+              "aztec",
+              "state",
+              "tribute",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.1525/california/9780520077348.003.0009",
+            "title": "The Aztec Era",
+            "year": 1992,
+            "oa_id": "W2489902722",
+            "cited": 1,
+            "type": "book-chapter",
+            "abs_len": 875,
+            "slots": [
+              "aztec",
+              "tribute",
+              "society",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.1017/cbo9780511777967",
+            "title": "The Cost of Courage in Aztec Society: Essays on Mesoamerican Society and Culture",
+            "year": 2010,
+            "oa_id": "W4232848014",
+            "cited": 11,
+            "type": "book",
+            "abs_len": 1002,
+            "slots": [
+              "aztec",
+              "society",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "10.2307/3773507",
+            "title": "Strategies of Legitimation and the Aztec State",
+            "year": 1984,
+            "oa_id": "W280641211",
+            "cited": 19,
+            "type": "article",
+            "abs_len": 460,
+            "slots": [
+              "aztec",
+              "state"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Aztec state society tribute",
+        "results": 15,
+        "passed": [
+          {
+            "doi": null,
+            "title": "Economic dimensions of precious metals , stones , and feathers : the aztec state society",
+            "year": 1992,
+            "oa_id": "W2595493922",
+            "cited": 32,
+            "type": "article",
+            "abs_len": 527,
+            "slots": [
+              "aztec",
+              "state",
+              "tribute",
+              "society"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.7560/731394",
+            "title": "Time, History, and Belief in Aztec and Colonial Mexico",
+            "year": 2001,
+            "oa_id": "W4301350444",
+            "cited": 94,
+            "type": "book",
+            "abs_len": 1271,
+            "slots": [
+              "aztec",
+              "state",
+              "tribute",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/cbo9781139017046",
+            "title": "Aztec Archaeology and Ethnohistory",
+            "year": 2014,
+            "oa_id": "W649486000",
+            "cited": 122,
+            "type": "book",
+            "abs_len": 682,
+            "slots": [
+              "aztec",
+              "society",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1525/ae.1979.6.1.02a00050",
+            "title": "lineage, class, and power in the Aztec state",
+            "year": 1979,
+            "oa_id": "W2020372775",
+            "cited": 27,
+            "type": "article",
+            "abs_len": 592,
+            "slots": [
+              "aztec",
+              "state",
+              "tribute",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/cbo9781316537350",
+            "title": "The Aztec Economic World: Merchants and Markets in Ancient Mesoamerica",
+            "year": 2016,
+            "oa_id": "W4251641563",
+            "cited": 118,
+            "type": "book",
+            "abs_len": 930,
+            "slots": [
+              "aztec",
+              "society"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1126/sciadv.aas9370",
+            "title": "Was Aztec and Mixtec turquoise mined in the American Southwest?",
+            "year": 2018,
+            "oa_id": "W2807931780",
+            "cited": 32,
+            "type": "article",
+            "abs_len": 961,
+            "slots": [
+              "aztec",
+              "state",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1080/02757206.2022.2060215",
+            "title": "A warlike culture? Religion and war in the Aztec world",
+            "year": 2022,
+            "oa_id": "W4306699176",
+            "cited": 10,
+            "type": "article",
+            "abs_len": 1651,
+            "slots": [
+              "aztec",
+              "society",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.7592/fejf2010.45.kulmar",
+            "title": "About the Comparison of the State Authority and Social Organization by Incas and Aztecs",
+            "year": 2010,
+            "oa_id": "W2319350451",
+            "cited": 3,
+            "type": "article",
+            "abs_len": 1033,
+            "slots": [
+              "aztec",
+              "state",
+              "society",
+              "empire"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Aztec empire Tenochtitlan",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.5744/florida/9780813042206.001.0001",
+            "title": "Tenochtitlan: Capital of the Aztec Empire",
+            "year": 2012,
+            "oa_id": "W4205510689",
+            "cited": 54,
+            "type": "book",
+            "abs_len": 1268,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Aztec empire Tenochtitlan",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.5744/florida/9780813042206.001.0001",
+            "title": "Tenochtitlan: Capital of the Aztec Empire",
+            "year": 2012,
+            "oa_id": "W4205510689",
+            "cited": 54,
+            "type": "book",
+            "abs_len": 1268,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.17855/jlas.2024.2.43.1.35",
+            "title": "Mexico-Tenochtitlan, the capital of Aztec empire: Its meanings and symbols of an exemplary history",
+            "year": 2024,
+            "oa_id": "W4393267555",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1779,
+            "slots": [
+              "aztec",
+              "state",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.7560/766563",
+            "title": "The Death of Aztec Tenochtitlan, the Life of Mexico City",
+            "year": 2015,
+            "oa_id": "W4301018093",
+            "cited": 190,
+            "type": "book",
+            "abs_len": 1547,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1073/pnas.2500095122",
+            "title": "Compositional analysis of obsidian artifacts from the Templo Mayor of Tenochtitlan, capital of the Mexica (Aztec) Empire",
+            "year": 2025,
+            "oa_id": "W4410287907",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 1437,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1080/03085699808592877",
+            "title": "Mapping the Aztec capital: The 1524 Nuremberg map of Tenochtitlan, its sources and meanings",
+            "year": 1998,
+            "oa_id": "W2036013288",
+            "cited": 132,
+            "type": "article",
+            "abs_len": 550,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1215/00182168-69.1.171",
+            "title": "The Great Temple of Tenochtitlan: Center and Periphery in the Aztec World.",
+            "year": 1989,
+            "oa_id": "W2118179214",
+            "cited": 39,
+            "type": "article",
+            "abs_len": 440,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Reliability Analysis of the Nezahualcoyotl Dike in the Aztec City of Tenochtitlan",
+            "year": 2018,
+            "oa_id": "W2894959156",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 2482,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1093/oso/9780197532768.003.0024",
+            "title": "The Aztec Empire",
+            "year": 2021,
+            "oa_id": "W4206829810",
+            "cited": 1,
+            "type": "book-chapter",
+            "abs_len": 675,
+            "slots": [
+              "aztec",
+              "state",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1093/oso/9780197552469.001.0001",
+            "title": "Conquistadors and Aztecs: A History of the Fall of Tenochtitlan",
+            "year": 2023,
+            "oa_id": "W4381889280",
+            "cited": 6,
+            "type": "book",
+            "abs_len": 1310,
+            "slots": [
+              "aztec",
+              "tribute",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1093/actrade/9780195379389.003.0001",
+            "title": "1. The city of Tenochtitlan: center of the Aztec world",
+            "year": 2011,
+            "oa_id": "W2504841989",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 731,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1093/actrade/9780195379389.003.0007",
+            "title": "7. The fall of the Aztec empire",
+            "year": 2011,
+            "oa_id": "W2497912922",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 664,
+            "slots": [
+              "aztec",
+              "empire",
+              "tenochtitlan"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.5860/choice.46-2260",
+            "title": "Aztec city-state capitals",
+            "year": 2008,
+            "oa_id": "W576645707",
+            "cited": 202,
+            "type": "book-review",
+            "abs_len": 1164,
+            "slots": [
+              "aztec",
+              "state",
+              "empire",
+              "tenochtitlan"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.5860/choice.46-2260",
+      "title": "Aztec city-state capitals",
+      "year": 2008,
+      "oa_id": "W576645707",
+      "cited": 202,
+      "type": "book-review",
+      "abs_len": 1164,
+      "slots": [
+        "aztec",
+        "state",
+        "empire",
+        "tenochtitlan"
+      ]
+    },
+    "candidates": 26
+  },
+  "加纳帝国": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Ghana empire Wagadu state trade",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1002/9781118455074.wbeoe343",
+            "title": "Ghana, Empire of",
+            "year": 2016,
+            "oa_id": "W4232265994",
+            "cited": 0,
+            "type": "reference-entry",
+            "abs_len": 613,
+            "slots": [
+              "ghana",
+              "wagadu",
+              "trade",
+              "empire"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Ghana empire Wagadu state trade",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.4324/9781315840369-3",
+            "title": "Pioneers in Ancient Ghana",
+            "year": 2014,
+            "oa_id": "W2959024546",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 858,
+            "slots": [
+              "ghana",
+              "wagadu",
+              "state",
+              "trade",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/s0021853700018685",
+            "title": "Archaeology and the prehistoric origins of the Ghana empire",
+            "year": 1980,
+            "oa_id": "W2010072736",
+            "cited": 107,
+            "type": "article",
+            "abs_len": 1265,
+            "slots": [
+              "ghana",
+              "state",
+              "trade",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1163/21915784-20180001",
+            "title": "On the Margins of Ghana and Kawkaw: Four Seasons of Excavation at Tongo Maaré Diabal (AD 500-1150), Mali",
+            "year": 2018,
+            "oa_id": "W2801396202",
+            "cited": 63,
+            "type": "article",
+            "abs_len": 592,
+            "slots": [
+              "ghana",
+              "state",
+              "trade"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.82308/12785",
+            "title": "The decline of Sufism and the rise of a new Islam: some factors contributing to the political and social ascendancy of Wahhabist Islam in Northern Ghana",
+            "year": 2011,
+            "oa_id": "W3170306616",
+            "cited": 7,
+            "type": "dissertation",
+            "abs_len": 3567,
+            "slots": [
+              "ghana",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.36347/sjahss.2021.v09i09.004",
+            "title": "Pre-Colonial and Colonial British Equation of Exploration, Expropriation and Exploitation (3Es) Through Monarchical Hierarchical Orders of Diplomatic Agents in the Gold Coast (Ghana) of West Africa 1621-1957",
+            "year": 2021,
+            "oa_id": "W4285366925",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1902,
+            "slots": [
+              "ghana",
+              "trade",
+              "empire"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Wagadu Ghana empire",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1002/9781118455074.wbeoe343",
+            "title": "Ghana, Empire of",
+            "year": 2016,
+            "oa_id": "W4232265994",
+            "cited": 0,
+            "type": "reference-entry",
+            "abs_len": 613,
+            "slots": [
+              "ghana",
+              "wagadu",
+              "trade",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.1093/acrefore/9780190277734.013.396",
+            "title": "The Empire of Ghana",
+            "year": 2019,
+            "oa_id": "W2943847112",
+            "cited": 8,
+            "type": "reference-entry",
+            "abs_len": 1084,
+            "slots": [
+              "ghana",
+              "wagadu",
+              "trade",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.23943/princeton/9780691196824.003.0004",
+            "title": "The Kingdoms of Ghana: Reform along the Senegal River",
+            "year": 2019,
+            "oa_id": "W3027633997",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 1201,
+            "slots": [
+              "ghana",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.22459/mic.02.2017.19",
+            "title": "A Chinese Empire in the Making? Questioning Myths from the Agri-Food Sector in Ghana",
+            "year": 2017,
+            "oa_id": "W4245276141",
+            "cited": 5,
+            "type": "book-chapter",
+            "abs_len": 485,
+            "slots": [
+              "ghana",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.22459/mic.01.03.2016.05",
+            "title": "A Chinese Empire in the Making? Questioning Myths from the Agri-Food Sector in Ghana",
+            "year": 2016,
+            "oa_id": "W2588725805",
+            "cited": 3,
+            "type": "article",
+            "abs_len": 485,
+            "slots": [
+              "ghana",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.1017/s0021853700018685",
+            "title": "Archaeology and the prehistoric origins of the Ghana empire",
+            "year": 1980,
+            "oa_id": "W2010072736",
+            "cited": 107,
+            "type": "article",
+            "abs_len": 1265,
+            "slots": [
+              "ghana",
+              "state",
+              "trade",
+              "empire"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Wagadu Ghana empire",
+        "results": 15,
+        "passed": [
+          {
+            "doi": null,
+            "title": "Djenne et le Ghana : deux modeles sociaux, et la question du commerce trans-saharien",
+            "year": 2014,
+            "oa_id": "W316556528",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1371,
+            "slots": [
+              "ghana",
+              "wagadu",
+              "trade",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.4324/9781315840369-3",
+            "title": "Pioneers in Ancient Ghana",
+            "year": 2014,
+            "oa_id": "W2959024546",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 858,
+            "slots": [
+              "ghana",
+              "wagadu",
+              "state",
+              "trade",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.2979/mande.24.1.07",
+            "title": "Du Wagadu au Kaabu : le puits, symbole de la fondation, légitimation et destitution du pouvoir au Sahel du VIIIe au XIXe siècles",
+            "year": 2022,
+            "oa_id": "W4387351978",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1623,
+            "slots": [
+              "ghana",
+              "wagadu",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/s0021853700018685",
+            "title": "Archaeology and the prehistoric origins of the Ghana empire",
+            "year": 1980,
+            "oa_id": "W2010072736",
+            "cited": 107,
+            "type": "article",
+            "abs_len": 1265,
+            "slots": [
+              "ghana",
+              "state",
+              "trade",
+              "empire"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1017/s0021853700018685",
+      "title": "Archaeology and the prehistoric origins of the Ghana empire",
+      "year": 1980,
+      "oa_id": "W2010072736",
+      "cited": 107,
+      "type": "article",
+      "abs_len": 1265,
+      "slots": [
+        "ghana",
+        "state",
+        "trade",
+        "empire"
+      ]
+    },
+    "candidates": 12
+  },
+  "古埃及新王国": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "New Kingdom Egypt empire administration",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1002/9781118455074.wbeoe088",
+            "title": "Egypt: 1. Ancient (New Kingdom)",
+            "year": 2016,
+            "oa_id": "W2518402882",
+            "cited": 1,
+            "type": "reference-entry",
+            "abs_len": 954,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.5743/cairo/9789774165313.003.0001",
+            "title": "Introduction: Imperial Egypt",
+            "year": 2012,
+            "oa_id": "W2490210456",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 1307,
+            "slots": [
+              "egypt",
+              "empire",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.1093/acprof:oso/9780199354771.001.0001",
+            "title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+            "year": 2014,
+            "oa_id": "W215461327",
+            "cited": 24,
+            "type": "book",
+            "abs_len": 1656,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.5743/cairo/9789774165313.001.0001",
+            "title": "Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite Renaissance",
+            "year": 2012,
+            "oa_id": "W4244075171",
+            "cited": 85,
+            "type": "book",
+            "abs_len": 1083,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.1017/9781009064521",
+            "title": "The Archaeology of Egyptian Non-Royal Burial Customs in New Kingdom Egypt and Its Empire",
+            "year": 2021,
+            "oa_id": "W3200089229",
+            "cited": 20,
+            "type": "book",
+            "abs_len": 783,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "New Kingdom Egypt empire administration",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1093/acprof:oso/9780199354771.001.0001",
+            "title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+            "year": 2014,
+            "oa_id": "W215461327",
+            "cited": 24,
+            "type": "book",
+            "abs_len": 1656,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1093/oso/9780198206644.003.0004",
+            "title": "The Egyptian Polity at Zenith: The New Kingdom",
+            "year": 1997,
+            "oa_id": "W4388058189",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 1578,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1002/ajpa.20585",
+            "title": "Traumatic injuries and imperialism: The effects of Egyptian colonial strategies at Tombos in upper Nubia",
+            "year": 2007,
+            "oa_id": "W2149801227",
+            "cited": 86,
+            "type": "article",
+            "abs_len": 1469,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3390/arts13060171",
+            "title": "Marginalized Textile Producers in New Kingdom Egypt",
+            "year": 2024,
+            "oa_id": "W4404487612",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1128,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.14288/1.0375884",
+            "title": "The Egyptian empire in the Levant through a study of space",
+            "year": 2019,
+            "oa_id": "W3103734137",
+            "cited": 0,
+            "type": "dissertation",
+            "abs_len": 1798,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.30958/ajhis.5-1-2",
+            "title": "The Lower Nubian Egyptian Fortresses in the Middle Kingdom: A Strategic Point of View",
+            "year": 2019,
+            "oa_id": "W2913291760",
+            "cited": 7,
+            "type": "article",
+            "abs_len": 3800,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1093/oso/9780190687663.003.0061",
+            "title": "The Satrapies of the Persian Empire in Egypt",
+            "year": 2023,
+            "oa_id": "W4360882361",
+            "cited": 4,
+            "type": "book-chapter",
+            "abs_len": 987,
+            "slots": [
+              "egypt",
+              "empire",
+              "administrat"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1163/9789004467149",
+            "title": "The Saqqara Necropolis through the New Kingdom: Biography of an Ancient Egyptian Cultural Landscape",
+            "year": 2023,
+            "oa_id": "W4318035746",
+            "cited": 41,
+            "type": "book",
+            "abs_len": 690,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.11606/issn.2448-1750.revmae.2002.109443",
+            "title": "Reciprocity and redistribution in Ancient Egypt during the New Kingdom.",
+            "year": 2002,
+            "oa_id": "W2490197137",
+            "cited": 3,
+            "type": "article",
+            "abs_len": 772,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.5167/uzh-141274",
+            "title": "Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom: A Study and an Anthology",
+            "year": 1988,
+            "oa_id": "W595618343",
+            "cited": 172,
+            "type": "book",
+            "abs_len": 1342,
+            "slots": [
+              "egypt",
+              "administrat"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "The fiscal administration of Egypt in the early Islamic period",
+            "year": 1981,
+            "oa_id": "W605959490",
+            "cited": 134,
+            "type": "book",
+            "abs_len": 606,
+            "slots": [
+              "egypt",
+              "empire",
+              "administrat"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.21608/thalexu.2018.51483",
+            "title": "Scenes of Officials’ Investiture in Ancient Egypt during the New Kingdom",
+            "year": 2018,
+            "oa_id": "W2980732633",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 905,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "New Kingdom Egypt state society",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.4324/9780203468821_chapter_6",
+            "title": "New Kingdom Egypt: The mature state",
+            "year": 2010,
+            "oa_id": "W2798429598",
+            "cited": 6,
+            "type": "book-chapter",
+            "abs_len": 785,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.4324/9781351166485-7",
+            "title": "New Kingdom Egypt: the mature state",
+            "year": 2018,
+            "oa_id": "W4239463265",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 1156,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.1093/acprof:oso/9780199354771.001.0001",
+            "title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+            "year": 2014,
+            "oa_id": "W215461327",
+            "cited": 24,
+            "type": "book",
+            "abs_len": 1656,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "administrat",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.1093/acprof:oso/9780199982226.003.0001",
+            "title": "Intimations of an Earlier Age: History and Fiction in New Kingdom Egypt",
+            "year": 2013,
+            "oa_id": "W2502118782",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 757,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "administrat"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "New Kingdom Egypt state society",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.4324/9781003102564-4",
+            "title": "The Egyptians of the New Kingdom",
+            "year": 2020,
+            "oa_id": "W3102322529",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 944,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "empire",
+              "state"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Ladies at the Loom: Examining Intersections of Gender and Textiles in New Kingdom Egypt",
+            "year": 2020,
+            "oa_id": "W3024814498",
+            "cited": 1,
+            "type": "dissertation",
+            "abs_len": 1082,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1093/oso/9780190687854.003.0008",
+            "title": "Egypt’s Old Kingdom: Perspectives on Culture and Society",
+            "year": 2020,
+            "oa_id": "W4248872584",
+            "cited": 4,
+            "type": "book-chapter",
+            "abs_len": 1458,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Ancient Egyptian astronomy : timekeeping and cosmography in the New Kingdom",
+            "year": 1999,
+            "oa_id": "W630604352",
+            "cited": 46,
+            "type": "dissertation",
+            "abs_len": 1837,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "From court society to power networks. Evolution of social structures in Upper Egypt during the New Kingdom",
+            "year": 2018,
+            "oa_id": "W3160261343",
+            "cited": 0,
+            "type": "conference-paper",
+            "abs_len": 594,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Egyptian historical thought: the visitors' graffiti of the New Kingdom at Saqqara and Abusir as a case study",
+            "year": 2006,
+            "oa_id": "W3006431965",
+            "cited": 2,
+            "type": "dissertation",
+            "abs_len": 1328,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3390/arts13060171",
+            "title": "Marginalized Textile Producers in New Kingdom Egypt",
+            "year": 2024,
+            "oa_id": "W4404487612",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1128,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.2307/2801598",
+            "title": "Literacy and Ancient Egyptian Society",
+            "year": 1983,
+            "oa_id": "W2260370739",
+            "cited": 333,
+            "type": "article",
+            "abs_len": 995,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1163/9789004467149",
+            "title": "The Saqqara Necropolis through the New Kingdom: Biography of an Ancient Egyptian Cultural Landscape",
+            "year": 2023,
+            "oa_id": "W4318035746",
+            "cited": 41,
+            "type": "book",
+            "abs_len": 690,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.46586/er.12.2021.9463",
+            "title": "Signs of YHWH, God of the Hebrews, in New Kingdom Egypt?",
+            "year": 2022,
+            "oa_id": "W4210827893",
+            "cited": 5,
+            "type": "article",
+            "abs_len": 535,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.21608/ijhth.2018.31495",
+            "title": "Representations of Pomegranate in Ancient Egypt during the New Kingdom",
+            "year": 2018,
+            "oa_id": "W2946479630",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 1067,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.2307/j.ctt1pk86n6.13",
+            "title": "Egyptian artists in the New Kingdom: Travelling artists and travelling ideas?",
+            "year": 2017,
+            "oa_id": "W2945754054",
+            "cited": 7,
+            "type": "book-chapter",
+            "abs_len": 589,
+            "slots": [
+              "new kingdom",
+              "egypt"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Affairs and scandals in ancient Egypt",
+            "year": 1970,
+            "oa_id": "W368000077",
+            "cited": 50,
+            "type": "book",
+            "abs_len": 1724,
+            "slots": [
+              "new kingdom",
+              "egypt",
+              "state"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.2307/2801598",
+      "title": "Literacy and Ancient Egyptian Society",
+      "year": 1983,
+      "oa_id": "W2260370739",
+      "cited": 333,
+      "type": "article",
+      "abs_len": 995,
+      "slots": [
+        "new kingdom",
+        "egypt",
+        "state"
+      ]
+    },
+    "candidates": 30
+  },
+  "周代": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Zhou dynasty state enfeoffment",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1515/char-2015-0019",
+            "title": "The production context of the Zeng State bronzes from Yejiashan Cemetery of the Western Zhou Dynasty",
+            "year": 2015,
+            "oa_id": "W2563464343",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 971,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state"
+            ]
+          },
+          {
+            "doi": "10.14711/thesis-b1176697",
+            "title": "The rain-making sacrifice of the Zhou Dynasty",
+            "year": 2012,
+            "oa_id": "W2585201396",
+            "cited": 0,
+            "type": "dissertation",
+            "abs_len": 713,
+            "slots": [
+              "zhou",
+              "dynasty"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Zhou dynasty state enfeoffment",
+        "results": 15,
+        "passed": [
+          {
+            "doi": null,
+            "title": "On the First Enfeoffment of Cai State and Its Enfeoffed Year──While referring to the Year of Shang Dynasty being conquered by the king Wuwang in Zhou dynasty",
+            "year": 2000,
+            "oa_id": "W2378052748",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 507,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state",
+              "enfeoff"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "The Morality and Religious consciousness of Zhou Dynasty",
+            "year": 2004,
+            "oa_id": "W2369734836",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 908,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state",
+              "enfeoff"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Western Zhou Dynasty's situation and its state structure",
+            "year": 2000,
+            "oa_id": "W2352838561",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 712,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state",
+              "enfeoff"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "The Territory Structure and its Characteristic of Western Zhou Dynasty",
+            "year": 2002,
+            "oa_id": "W2353770361",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 776,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state",
+              "enfeoff"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "The Political System in Western Zhou Dynasty's Period",
+            "year": 2002,
+            "oa_id": "W2361595551",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 657,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state",
+              "enfeoff"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/rdc.2024.117",
+            "title": "A modeling radiocarbon dating for the founding of Yan Vassal State in Western Zhou Dynasty",
+            "year": 2025,
+            "oa_id": "W4406476289",
+            "cited": 6,
+            "type": "article",
+            "abs_len": 1387,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state",
+              "enfeoff"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.54691/d6x3mf56",
+            "title": "Research on \"Nan Gong\" in the Bronze Inscriptions of the Western Zhou and Eastern Zhou Dynasty",
+            "year": 2025,
+            "oa_id": "W4411406935",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1130,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1007/s12520-026-02546-x",
+            "title": "Go north: Isotope and aDNA analysis reconstructing the life history of a first-generation immigrant in the early Western Zhou Yan state",
+            "year": 2026,
+            "oa_id": "W7203746646",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 2154,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "state",
+              "enfeoff"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Zhou China feudal society",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Zhou China feudal society",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.23977/jsoce.2023.051017",
+            "title": "The Transition of Early Chinese Ritual and Music Systems after Ritual Institution by Duke of Zhou",
+            "year": 2023,
+            "oa_id": "W4389001701",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 1173,
+            "slots": [
+              "zhou",
+              "dynasty",
+              "feudal"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": null,
+    "candidates": 11
+  },
+  "桑海帝国": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Songhai empire state trade",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1002/9781118455074.wbeoe218",
+            "title": "Songhai Empire",
+            "year": 2016,
+            "oa_id": "W4233500286",
+            "cited": 0,
+            "type": "reference-entry",
+            "abs_len": 594,
+            "slots": [
+              "songhai",
+              "empire"
+            ]
+          },
+          {
+            "doi": "10.4324/9781351033343-8",
+            "title": "The Rise of the Songhai Empire",
+            "year": 2018,
+            "oa_id": "W2991586769",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 865,
+            "slots": [
+              "songhai",
+              "empire",
+              "niger"
+            ]
+          },
+          {
+            "doi": "10.4324/9781351033343-15",
+            "title": "The Fall of the Songhai Empire",
+            "year": 2018,
+            "oa_id": "W2991426051",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 937,
+            "slots": [
+              "songhai",
+              "empire"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Songhai empire state trade",
+        "results": 15,
+        "passed": []
+      },
+      {
+        "engine": "Crossref",
+        "query": "Songhai Niger bend polity",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Songhai Niger bend polity",
+        "results": 15,
+        "passed": []
+      }
+    ],
+    "best": null,
+    "candidates": 3
+  },
+  "笈多王朝": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Gupta empire polity economy",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Gupta empire polity economy",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.5281/zenodo.6922556",
+            "title": "NUMISMATIC STUDY OF POLITICAL AND ECONOMIC CONDITIONS OF GUPTA EMPIRE",
+            "year": 2017,
+            "oa_id": "W4300170378",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 865,
+            "slots": [
+              "gupta",
+              "empire",
+              "econom"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Gupta dynasty administration",
+        "results": 20,
+        "passed": []
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Gupta dynasty administration",
+        "results": 15,
+        "passed": [
+          {
+            "doi": null,
+            "title": "RISE OF CULTURAL PATRONAGE IN INDIA: GUPTA DYNASTY",
+            "year": 2024,
+            "oa_id": "W7216694935",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 517,
+            "slots": [
+              "gupta",
+              "empire"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "ADMINISTRATION SYSTEM OF CHANDRA GUPTA MAURYA",
+            "year": 2017,
+            "oa_id": "W3158225997",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 891,
+            "slots": [
+              "gupta",
+              "empire",
+              "administrat"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "A Review of the Condition of Common Man in the Gupta Period: The Rise and Conquests of the Gupta Empire",
+            "year": 2018,
+            "oa_id": "W7216645589",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 774,
+            "slots": [
+              "gupta",
+              "empire"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.54660/.ijmrge.2023.4.6.204-206",
+            "title": "Establishment of administration and achievements during the Gupta period",
+            "year": 2023,
+            "oa_id": "W4388554687",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1098,
+            "slots": [
+              "gupta",
+              "empire",
+              "econom",
+              "administrat"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Cultural and Diplomatic Interactions between the Guptas and Vakatakas",
+            "year": 2015,
+            "oa_id": "W7217546414",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1007,
+            "slots": [
+              "gupta",
+              "administrat"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.71097/ijaidr.v17.i1.1874",
+            "title": "Role of Coins in Reconstructing History After Gupta Period",
+            "year": 2026,
+            "oa_id": "W7160711899",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 896,
+            "slots": [
+              "gupta",
+              "empire",
+              "econom",
+              "administrat"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": null,
+    "candidates": 7
+  },
+  "阿拉伯半岛": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Arabian Peninsula geography climate",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.3390/cli7040054",
+            "title": "Study of the Lower Stratospheric Temperature over the Arabian Peninsula",
+            "year": 2019,
+            "oa_id": "W2935501245",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1303,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "10.7591/cornell/9781501750298.003.0006",
+            "title": "Conclusion: Centering the Arabian Peninsula, Decolonizing the Academy",
+            "year": 2020,
+            "oa_id": "W3124337746",
+            "cited": 2,
+            "type": "book-chapter",
+            "abs_len": 1416,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Arabian Peninsula geography climate",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1002/joc.3446",
+            "title": "Recent climate change in the Arabian Peninsula: annual rainfall and temperature analysis of Saudi Arabia for 1978–2009",
+            "year": 2012,
+            "oa_id": "W2000268226",
+            "cited": 396,
+            "type": "article",
+            "abs_len": 1348,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.5194/acp-15-199-2015",
+            "title": "The impact of dust storms on the Arabian Peninsula and the Red Sea",
+            "year": 2015,
+            "oa_id": "W2076783983",
+            "cited": 324,
+            "type": "article",
+            "abs_len": 1746,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3844/ajessp.2010.191.203",
+            "title": "Temperature Trends and Distribution in the Arabian Peninsula",
+            "year": 2010,
+            "oa_id": "W2100285959",
+            "cited": 99,
+            "type": "article",
+            "abs_len": 1173,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1007/s10584-009-9581-7",
+            "title": "Climate change effects on winter chill for tree crops with chilling requirements on the Arabian Peninsula",
+            "year": 2009,
+            "oa_id": "W2156255245",
+            "cited": 109,
+            "type": "article",
+            "abs_len": 1578,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3133/pp560c",
+            "title": "Geology of the Arabian Peninsula; Aden Protectorate",
+            "year": 1967,
+            "oa_id": "W101348917",
+            "cited": 64,
+            "type": "report",
+            "abs_len": 701,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3133/pp560b",
+            "title": "Geology of the Arabian Peninsula - Yemen",
+            "year": 1966,
+            "oa_id": "W568519809",
+            "cited": 114,
+            "type": "report",
+            "abs_len": 1280,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.70082/esiculture.vi.1077",
+            "title": "The Effect of the Siberian Air Altitude on the Characteristics of the Climate of the Northern Arabian Peninsula",
+            "year": 2024,
+            "oa_id": "W4402572727",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1040,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3133/pp560a",
+            "title": "Geology of the Arabian Peninsula; shield area of western Saudi Arabia",
+            "year": 1989,
+            "oa_id": "W2298570460",
+            "cited": 232,
+            "type": "report",
+            "abs_len": 537,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1016/j.biortech.2021.125043",
+            "title": "Techno-economics of algae production in the Arabian Peninsula",
+            "year": 2021,
+            "oa_id": "W3152475038",
+            "cited": 69,
+            "type": "article",
+            "abs_len": 1059,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1002/evan.21308",
+            "title": "The prehistory of the Arabian peninsula: Deserts, dispersals, and demography",
+            "year": 2012,
+            "oa_id": "W2024387700",
+            "cited": 206,
+            "type": "article",
+            "abs_len": 993,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Arabian Peninsula physical geography",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.7591/cornell/9781501750298.003.0006",
+            "title": "Conclusion: Centering the Arabian Peninsula, Decolonizing the Academy",
+            "year": 2020,
+            "oa_id": "W3124337746",
+            "cited": 2,
+            "type": "book-chapter",
+            "abs_len": 1416,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          },
+          {
+            "doi": "10.1080/02723646.2022.2080902",
+            "title": "Spatiotemporal climatology of the Arabian Subtropical Anticyclone",
+            "year": 2022,
+            "oa_id": "W4281964581",
+            "cited": 11,
+            "type": "article",
+            "abs_len": 1161,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          },
+          {
+            "doi": "10.4000/cy.9507",
+            "title": "Back to Asia? South Asia and the Arabian Peninsula",
+            "year": 2023,
+            "oa_id": "W4385076965",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 3616,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Arabian Peninsula physical geography",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.5194/acp-15-199-2015",
+            "title": "The impact of dust storms on the Arabian Peninsula and the Red Sea",
+            "year": 2015,
+            "oa_id": "W2076783983",
+            "cited": 324,
+            "type": "article",
+            "abs_len": 1746,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3133/pp560i",
+            "title": "Geology of the Arabian Peninsula, Jordan",
+            "year": 1975,
+            "oa_id": "W2297464928",
+            "cited": 193,
+            "type": "report",
+            "abs_len": 1155,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3133/pp560c",
+            "title": "Geology of the Arabian Peninsula; Aden Protectorate",
+            "year": 1967,
+            "oa_id": "W101348917",
+            "cited": 64,
+            "type": "report",
+            "abs_len": 701,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Monarchy, migration and hegemony in the Arabian Peninsula",
+            "year": 2010,
+            "oa_id": "W1498118270",
+            "cited": 93,
+            "type": "book",
+            "abs_len": 915,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1002/joc.3446",
+            "title": "Recent climate change in the Arabian Peninsula: annual rainfall and temperature analysis of Saudi Arabia for 1978–2009",
+            "year": 2012,
+            "oa_id": "W2000268226",
+            "cited": 396,
+            "type": "article",
+            "abs_len": 1348,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1186/s12889-016-3642-4",
+            "title": "A systematic review of physical activity and sedentary behaviour research in the oil-producing countries of the Arabian Peninsula",
+            "year": 2016,
+            "oa_id": "W2522462850",
+            "cited": 123,
+            "type": "review",
+            "abs_len": 2113,
+            "slots": [
+              "arabian",
+              "peninsula"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.3133/pp560b",
+            "title": "Geology of the Arabian Peninsula - Yemen",
+            "year": 1966,
+            "oa_id": "W568519809",
+            "cited": 114,
+            "type": "report",
+            "abs_len": 1280,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1111/jbi.14318",
+            "title": "Physical–biological interactions underlying the connectivity patterns of coral‐dependent fishes around the Arabian Peninsula",
+            "year": 2022,
+            "oa_id": "W4210488768",
+            "cited": 11,
+            "type": "article",
+            "abs_len": 2000,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1016/j.biombioe.2021.106083",
+            "title": "Bioenergy opportunities, barriers and challenges in the Arabian Peninsula – Resource modelling, surveys & interviews",
+            "year": 2021,
+            "oa_id": "W3160062269",
+            "cited": 301,
+            "type": "article",
+            "abs_len": 1696,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "climate"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1038/s41598-018-35242-5",
+            "title": "The expansion of later Acheulean hominins into the Arabian Peninsula",
+            "year": 2018,
+            "oa_id": "W2901509523",
+            "cited": 56,
+            "type": "article",
+            "abs_len": 1057,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "Macroecology and Microevolution of reef fishes in the Arabian Peninsula",
+            "year": 2018,
+            "oa_id": "W2922709134",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 2754,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.2307/198484",
+            "title": "The Penetration of Arabia. A Record of the Development of Western Knowledge concerning the Arabian Peninsula",
+            "year": 1905,
+            "oa_id": "W1592350056",
+            "cited": 17,
+            "type": "article",
+            "abs_len": 911,
+            "slots": [
+              "arabian",
+              "peninsula",
+              "geograph"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1002/joc.3446",
+      "title": "Recent climate change in the Arabian Peninsula: annual rainfall and temperature analysis of Saudi Arabia for 1978–2009",
+      "year": 2012,
+      "oa_id": "W2000268226",
+      "cited": 396,
+      "type": "article",
+      "abs_len": 1348,
+      "slots": [
+        "arabian",
+        "peninsula",
+        "climate"
+      ]
+    },
+    "candidates": 22
+  },
+  "马格里布": {
+    "records": [
+      {
+        "engine": "Crossref",
+        "query": "Maghreb region geography",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.1080/20436564.1999.12452686",
+            "title": "Demographic Transition in the Maghreb",
+            "year": 1999,
+            "oa_id": "W2117546287",
+            "cited": 6,
+            "type": "article",
+            "abs_len": 842,
+            "slots": [
+              "maghreb",
+              "geograph"
+            ]
+          },
+          {
+            "doi": "10.4324/9781003268864-9",
+            "title": "Europe and the Maghreb Region",
+            "year": 2022,
+            "oa_id": "W4297624282",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 942,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "10.1177/030913258701100104",
+            "title": "Progress in the Human Geography of the Maghreb",
+            "year": 1987,
+            "oa_id": "W29311180",
+            "cited": 3,
+            "type": "article",
+            "abs_len": 2260,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "10.4324/9781003268864-10",
+            "title": "US and the Maghreb Region",
+            "year": 2022,
+            "oa_id": "W4297624302",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 871,
+            "slots": [
+              "maghreb",
+              "region"
+            ]
+          },
+          {
+            "doi": "10.4324/9781003268864-11",
+            "title": "China, COVID-19, and the Maghreb Region",
+            "year": 2022,
+            "oa_id": "W4297624299",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 683,
+            "slots": [
+              "maghreb",
+              "region"
+            ]
+          },
+          {
+            "doi": "10.5772/intechopen.103788",
+            "title": "Water Scarcity Management in the Maghreb Region",
+            "year": 2022,
+            "oa_id": "W4225889638",
+            "cited": 13,
+            "type": "book-chapter",
+            "abs_len": 912,
+            "slots": [
+              "maghreb",
+              "climate",
+              "region"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Maghreb region geography",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.1177/030913258701100104",
+            "title": "Progress in the Human Geography of the Maghreb",
+            "year": 1987,
+            "oa_id": "W29311180",
+            "cited": 3,
+            "type": "article",
+            "abs_len": 2260,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.4324/9781003268864-9",
+            "title": "Europe and the Maghreb Region",
+            "year": 2022,
+            "oa_id": "W4297624282",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 942,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1017/9781108937337",
+            "title": "The Invention of the Maghreb: Between Africa and the Middle East",
+            "year": 2021,
+            "oa_id": "W4214601784",
+            "cited": 62,
+            "type": "book",
+            "abs_len": 1034,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": null,
+            "title": "EXPLORING DIFFERENTIALS ACROSS THE PRESCHOOL SYSTEMS IN THE MAGHREB REGION",
+            "year": 2010,
+            "oa_id": "W2739702021",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 961,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1016/j.scienta.2012.04.024",
+            "title": "Genetic diversity and differentiation of grafted and seed propagated apricot (Prunus armeniaca L.) in the Maghreb region",
+            "year": 2012,
+            "oa_id": "W2040031087",
+            "cited": 27,
+            "type": "article",
+            "abs_len": 1166,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1353/lit.2018.0036",
+            "title": "Renegotiating the Marginality of the Maghreb in Queer African Studies",
+            "year": 2018,
+            "oa_id": "W2897905771",
+            "cited": 37,
+            "type": "article",
+            "abs_len": 4514,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.5772/intechopen.103788",
+            "title": "Water Scarcity Management in the Maghreb Region",
+            "year": 2022,
+            "oa_id": "W4225889638",
+            "cited": 13,
+            "type": "book-chapter",
+            "abs_len": 912,
+            "slots": [
+              "maghreb",
+              "climate",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1353/tmr.2013.0008",
+            "title": "The Position of the Maghreb in Traditional Chinese Geographical Knowledge about the Islamic Middle East",
+            "year": 2013,
+            "oa_id": "W155667032",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 4449,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.31219/osf.io/kx4gc",
+            "title": "Freshwater fish distribution in the Maghreb: a call to contribute",
+            "year": 2020,
+            "oa_id": "W4253231735",
+            "cited": 15,
+            "type": "preprint",
+            "abs_len": 721,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.2307/621557",
+            "title": "The Concept of Tell and Sahara in the Maghreb: A Reappraisal",
+            "year": 1972,
+            "oa_id": "W2330940637",
+            "cited": 14,
+            "type": "article",
+            "abs_len": 3164,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1371/journal.pntd.0009952",
+            "title": "Phlebotomine sand flies (Diptera: Psychodidae) of the Maghreb region: A systematic review of distribution, morphology, and role in the transmission of the pathogens",
+            "year": 2022,
+            "oa_id": "W4206589537",
+            "cited": 48,
+            "type": "review",
+            "abs_len": 2331,
+            "slots": [
+              "maghreb",
+              "geograph",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.5772/intechopen.96357",
+            "title": "Economics and Profitability of Goat Breeding in the Maghreb Region",
+            "year": 2023,
+            "oa_id": "W3163381321",
+            "cited": 11,
+            "type": "book-chapter",
+            "abs_len": 1129,
+            "slots": [
+              "maghreb",
+              "region"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "Crossref",
+        "query": "Maghrib physical geography climate",
+        "results": 20,
+        "passed": [
+          {
+            "doi": "10.4324/9780429505355-11",
+            "title": "The Geography of the Maghrib",
+            "year": 2023,
+            "oa_id": "W4387097518",
+            "cited": 1,
+            "type": "book-chapter",
+            "abs_len": 1174,
+            "slots": [
+              "maghrib",
+              "geograph",
+              "climate",
+              "region"
+            ]
+          }
+        ]
+      },
+      {
+        "engine": "OpenAlex",
+        "query": "Maghrib physical geography climate",
+        "results": 15,
+        "passed": [
+          {
+            "doi": "https://doi.org/10.4324/9780429505355-11",
+            "title": "The Geography of the Maghrib",
+            "year": 2023,
+            "oa_id": "W4387097518",
+            "cited": 1,
+            "type": "book-chapter",
+            "abs_len": 1174,
+            "slots": [
+              "maghrib",
+              "geograph",
+              "climate",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1080/13629380802343616",
+            "title": "Sustainability and the Central Maghrib economies",
+            "year": 2008,
+            "oa_id": "W2029939734",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 969,
+            "slots": [
+              "maghrib",
+              "region"
+            ]
+          },
+          {
+            "doi": "https://doi.org/10.1080/09503110.2020.1868052",
+            "title": "Authority Beyond State and Tribe in the Early Medieval Maghrib: The Impact of Climate on the Economic, Social and Political Reorganisation of the Maghrib al-Aqṣā in the Eighth–Ninth Centuries: The Case of Sijilmāsa (Morocco)",
+            "year": 2021,
+            "oa_id": "W3123952799",
+            "cited": 8,
+            "type": "article",
+            "abs_len": 941,
+            "slots": [
+              "maghrib",
+              "climate",
+              "region"
+            ]
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "https://doi.org/10.1017/9781108937337",
+      "title": "The Invention of the Maghreb: Between Africa and the Middle East",
+      "year": 2021,
+      "oa_id": "W4214601784",
+      "cited": 62,
+      "type": "book",
+      "abs_len": 1034,
+      "slots": [
+        "maghreb",
+        "geograph",
+        "region"
+      ]
+    },
+    "candidates": 18
+  }
+}
