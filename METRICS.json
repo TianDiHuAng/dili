@@ -926,6 +926,21 @@
       "sample_rate": "9条政权类全查",
       "sample_audit": "R22 主动检出3条层级落后并已重算",
       "note": "补4条第二来源（阿兹特克/阿拉伯半岛/马格里布/汉代）；G3 19→15；层级 A211/B31"
+    },
+    {
+      "round": 64,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 13,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "24个机构页实测",
+      "sample_audit": "实测发现UN/UNESCO/FAO/CBD为空壳页（7–218字符）",
+      "note": "实测24个机构页；标记6个空壳页；挂接7条第二来源；G3 15→9、G1→0；层级 A211/B32/C0/D0"
     }
   ]
 }

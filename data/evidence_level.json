@@ -2118,7 +2118,7 @@
       "counts": {
         "strong": 1,
         "weak": 1,
-        "side": 0,
+        "side": 2,
         "data": 1,
         "unknown": 0
       },
@@ -2151,7 +2151,7 @@
       "counts": {
         "strong": 1,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 1,
         "unknown": 0
       },
@@ -2173,7 +2173,7 @@
       "counts": {
         "strong": 1,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 1,
         "unknown": 0
       },
@@ -2228,7 +2228,7 @@
       "counts": {
         "strong": 1,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 1,
         "unknown": 0
       },
@@ -2514,7 +2514,7 @@
       "counts": {
         "strong": 1,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 1,
         "unknown": 0
       },
@@ -2525,7 +2525,7 @@
       "counts": {
         "strong": 1,
         "weak": 1,
-        "side": 0,
+        "side": 1,
         "data": 1,
         "unknown": 0
       },
@@ -2653,13 +2653,13 @@
       "tier": "补充"
     },
     "农业企业与价值链": {
-      "level": "D",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 1,
         "side": 0,
         "data": 1,
-        "unknown": 1
+        "unknown": 0
       },
       "tier": "补充"
     },
@@ -2677,9 +2677,9 @@
   },
   "summary": {
     "A": 211,
-    "B": 31,
+    "B": 32,
     "C": 0,
-    "D": 1
+    "D": 0
   },
   "definition": {
     "A": "≥2 强来源",

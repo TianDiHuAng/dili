@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 63,
+  "last_round": 64,
   "history": [
     {
       "round": 1,
@@ -763,16 +763,17 @@
     "ge2_has_body": 224,
     "levels": {
       "A": 211,
-      "B": 31,
+      "B": 32,
       "C": 0,
-      "D": 1
+      "D": 0
     },
     "side_evidence": {
       "side": 34,
       "dropped": 27,
       "weak_claim": 12
     },
-    "note": "R19/R20/R21/R22 四道机器校验；侧面文献与剔除记录已结构化"
+    "note": "R19/R20/R21/R22 四道机器校验；侧面文献与剔除记录已结构化",
+    "shell_pages": 6
   },
   "gap_model": {
     "note": "第62轮重定义：不再用模糊的「多维缺口」，改为四类可陈述、可计数的缺口",
@@ -780,7 +781,7 @@
       {
         "id": "G1",
         "name": "无强来源（C/D 级）",
-        "count": 1,
+        "count": 0,
         "fixed_by": "补一条被引≥10 或正文≥800 的来源"
       },
       {
@@ -792,7 +793,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 15,
+        "count": 9,
         "fixed_by": "补第二内容源，须过 R19/R20/R22"
       },
       {

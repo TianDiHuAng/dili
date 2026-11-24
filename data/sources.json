@@ -50,7 +50,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "World Population Prospects",
-      "note": "curl 实测 HTTP 200；页面标题：World Population Prospects；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：首页为 JS 壳（正文约 26 字符），仅作机构入口，不含数据正文。 【第47轮实测】strip 后正文 26 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：World Population Prospects；页面未标注统一年份，年份留空不做推定。 第15轮核验补充：首页为 JS 壳（正文约 26 字符），仅作机构入口，不含数据正文。 【第47轮实测】strip 后正文 26 字符（HTTP 200）。 【第64轮实测】strip 后正文 26 字符（HTTP 200）。 【空壳页判定】strip 后仅 26 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。"
     },
     {
       "id": "s005-who-int",
@@ -102,7 +102,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Education transforms lives | UNESCO",
-      "note": "curl 实测 HTTP 200；页面标题：Education transforms lives | UNESCO；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 0 字符（HTTP 0）。"
+      "note": "curl 实测 HTTP 200；页面标题：Education transforms lives | UNESCO；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 0 字符（HTTP 0）。 【第64轮实测】strip 后正文 218 字符（HTTP 200）。 【空壳页判定】strip 后仅 218 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。"
     },
     {
       "id": "s009-unesco-org",
@@ -180,7 +180,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "FAOSTAT",
-      "note": "curl 实测 HTTP 200；页面标题：FAOSTAT；页面未标注统一年份，年份留空不做推定。 第16轮核验补充：剥离 chrome 后可视正文约 9 字符，为应用壳页，仅作入口，不作正文依据。 【第47轮实测】strip 后正文 7 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：FAOSTAT；页面未标注统一年份，年份留空不做推定。 第16轮核验补充：剥离 chrome 后可视正文约 9 字符，为应用壳页，仅作入口，不作正文依据。 【第47轮实测】strip 后正文 7 字符（HTTP 200）。 【第64轮实测】strip 后正文 7 字符（HTTP 200）。 【空壳页判定】strip 后仅 7 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。"
     },
     {
       "id": "s015-fao-org",
@@ -245,7 +245,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Home | Climate change | Food and Agriculture Organization of the United Nations",
-      "note": "curl 实测 HTTP 200；页面标题：Home | Climate change | Food and Agriculture Organization of the United Nations；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 2,441 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Home | Climate change | Food and Agriculture Organization of the United Nations；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 2,441 字符（HTTP 200）。 【第64轮实测】strip 后正文 2,441 字符（HTTP 200）。"
     },
     {
       "id": "s020-fao-org",
@@ -271,7 +271,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Statistics | FAO | Food and Agriculture Organization of the United Nations",
-      "note": "curl 实测 HTTP 200；页面标题：Statistics | FAO | Food and Agriculture Organization of the United Nations；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,961 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Statistics | FAO | Food and Agriculture Organization of the United Nations；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,961 字符（HTTP 200）。 【第64轮实测】strip 后正文 8,961 字符（HTTP 200）。"
     },
     {
       "id": "s022-ourworldindata-org",
@@ -297,7 +297,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Population Growth | Our World in Data",
-      "note": "curl 实测 HTTP 200；页面标题：Population Growth | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 13,570 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Population Growth | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 13,570 字符（HTTP 200）。 【第64轮实测】strip 后正文 13,570 字符（HTTP 200）。"
     },
     {
       "id": "s024-ourworldindata-org",
@@ -414,7 +414,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Population | Our World in Data",
-      "note": "curl 实测 HTTP 200；页面标题：Population | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 31,443 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Population | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 31,443 字符（HTTP 200）。 【第64轮实测】strip 后正文 31,443 字符（HTTP 200）。"
     },
     {
       "id": "s033-ourworldindata-org",
@@ -427,7 +427,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Life expectancy | Our World in Data",
-      "note": "curl 实测 HTTP 200；页面标题：Life expectancy | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 15,119 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Life expectancy | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 15,119 字符（HTTP 200）。 【第64轮实测】strip 后正文 15,119 字符（HTTP 200）。"
     },
     {
       "id": "s034-ourworldindata-org",
@@ -479,7 +479,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Earth - NASA Science",
-      "note": "curl 实测 HTTP 200；页面标题：Earth - NASA Science；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 12,431 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Earth - NASA Science；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 12,431 字符（HTTP 200）。 【第64轮实测】strip 后正文 12,433 字符（HTTP 200）。"
     },
     {
       "id": "s038-earthobservatory-nasa-gov",
@@ -648,7 +648,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "NOAA's National Ocean Service",
-      "note": "curl 实测 HTTP 200；页面标题：NOAA's National Ocean Service；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 2,753 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：NOAA's National Ocean Service；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 2,753 字符（HTTP 200）。 【第64轮实测】strip 后正文 2,753 字符（HTTP 200）。"
     },
     {
       "id": "s051-fisheries-noaa-gov",
@@ -700,7 +700,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Access | National Centers for Environmental Information (NCEI)",
-      "note": "curl 实测 HTTP 200；页面标题：Access | National Centers for Environmental Information (NCEI)；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 4,099 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Access | National Centers for Environmental Information (NCEI)；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 4,099 字符（HTTP 200）。 【第64轮实测】strip 后正文 4,099 字符（HTTP 200）。"
     },
     {
       "id": "s055-ncei-noaa-gov",
@@ -765,7 +765,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Farming and Agribusiness | World Bank Group",
-      "note": "curl 实测 HTTP 200；页面标题：Farming and Agribusiness | World Bank Group；页面未标注统一年份，年份留空不做推定。"
+      "note": "curl 实测 HTTP 200；页面标题：Farming and Agribusiness | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第64轮实测】strip 后正文 10,556 字符（HTTP 200）。"
     },
     {
       "id": "s060-worldbank-org",
@@ -830,7 +830,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Africa | World Bank Group",
-      "note": "curl 实测 HTTP 200；页面标题：Africa | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 9,639 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Africa | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 9,639 字符（HTTP 200）。 【第64轮实测】strip 后正文 9,639 字符（HTTP 200）。"
     },
     {
       "id": "s065-worldbank-org",
@@ -843,7 +843,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "East Asia & Pacific | World Bank Group",
-      "note": "curl 实测 HTTP 200；页面标题：East Asia & Pacific | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,041 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：East Asia & Pacific | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,041 字符（HTTP 200）。 【第64轮实测】strip 后正文 8,041 字符（HTTP 200）。"
     },
     {
       "id": "s066-worldbank-org",
@@ -856,7 +856,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Latin America and the Caribbean | World Bank Group",
-      "note": "curl 实测 HTTP 200；页面标题：Latin America and the Caribbean | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 11,098 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Latin America and the Caribbean | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 11,098 字符（HTTP 200）。 【第64轮实测】strip 后正文 11,098 字符（HTTP 200）。"
     },
     {
       "id": "s067-worldbank-org",
@@ -869,7 +869,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Middle East, North Africa, Afghanistan & Pakistan | World Bank Group",
-      "note": "curl 实测 HTTP 200；页面标题：Middle East, North Africa, Afghanistan & Pakistan | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,278 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Middle East, North Africa, Afghanistan & Pakistan | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,278 字符（HTTP 200）。 【第64轮实测】strip 后正文 8,278 字符（HTTP 200）。"
     },
     {
       "id": "s068-worldbank-org",
@@ -882,7 +882,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "South Asia | World Bank Group",
-      "note": "curl 实测 HTTP 200；页面标题：South Asia | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,041 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：South Asia | World Bank Group；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 8,041 字符（HTTP 200）。 【第64轮实测】strip 后正文 8,041 字符（HTTP 200）。"
     },
     {
       "id": "s069-datahelpdesk-worldbank-org",
@@ -934,7 +934,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Protected and Conserved Areas",
-      "note": "curl 实测 HTTP 200；页面标题：Protected and Conserved Areas；页面未标注统一年份，年份留空不做推定。 第16轮核验补充：剥离 nav/footer 后正文约 176 字节，门户页形态，仅作入口，不作正文依据。"
+      "note": "curl 实测 HTTP 200；页面标题：Protected and Conserved Areas；页面未标注统一年份，年份留空不做推定。 第16轮核验补充：剥离 nav/footer 后正文约 176 字节，门户页形态，仅作入口，不作正文依据。 【第64轮实测】strip 后正文 172 字符（HTTP 200）。 【空壳页判定】strip 后仅 172 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。"
     },
     {
       "id": "s073-iucn-org",
@@ -960,7 +960,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "UNICEF, for every child",
-      "note": "curl 实测 HTTP 200；页面标题：UNICEF, for every child；页面未标注统一年份，年份留空不做推定。 【第46轮实测】strip 后正文 5,455 字符（现场抓取，可复现）。"
+      "note": "curl 实测 HTTP 200；页面标题：UNICEF, for every child；页面未标注统一年份，年份留空不做推定。 【第46轮实测】strip 后正文 5,455 字符（现场抓取，可复现）。 【第64轮实测】strip 后正文 750 字符（HTTP 200）。 【空壳页判定】strip 后仅 750 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。"
     },
     {
       "id": "s075-aag-org",
@@ -1012,7 +1012,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Crop Yields | Our World in Data",
-      "note": "curl 实测 HTTP 200；页面标题：Crop Yields | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 4,669 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Crop Yields | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 4,669 字符（HTTP 200）。 【第64轮实测】strip 后正文 4,669 字符（HTTP 200）。"
     },
     {
       "id": "s079-ourworldindata-org",
@@ -1051,7 +1051,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Population by age group | Our World in Data",
-      "note": "curl 实测 HTTP 200；页面标题：Population by age group | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 3,298 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Population by age group | Our World in Data；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 3,298 字符（HTTP 200）。 【第64轮实测】strip 后正文 3,298 字符（HTTP 200）。"
     },
     {
       "id": "s082-ourworldindata-org",
@@ -1103,7 +1103,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "The ocean we need for the future we want | UNESCO",
-      "note": "curl 实测 HTTP 200；页面标题：The ocean we need for the future we want | UNESCO；页面未标注统一年份，年份留空不做推定。 第14轮核验补充：该页存在间歇性 connection reset，重试可取到标题。 【第47轮实测】strip 后正文 218 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：The ocean we need for the future we want | UNESCO；页面未标注统一年份，年份留空不做推定。 第14轮核验补充：该页存在间歇性 connection reset，重试可取到标题。 【第47轮实测】strip 后正文 218 字符（HTTP 200）。 【第64轮实测】strip 后正文 218 字符（HTTP 200）。 【空壳页判定】strip 后仅 218 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。"
     },
     {
       "id": "s086-earthobservatory-nasa-gov",
@@ -1181,7 +1181,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "Protected areas and land use | IUCN",
-      "note": "curl 实测 HTTP 200；页面标题：Protected areas and land use | IUCN；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 4,086 字符（HTTP 200）。"
+      "note": "curl 实测 HTTP 200；页面标题：Protected areas and land use | IUCN；页面未标注统一年份，年份留空不做推定。 【第47轮实测】strip 后正文 4,086 字符（HTTP 200）。 【第64轮实测】strip 后正文 4,086 字符（HTTP 200）。"
     },
     {
       "id": "un-m49",
