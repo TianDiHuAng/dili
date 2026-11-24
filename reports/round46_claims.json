@@ -1,0 +1,137 @@
+{
+  "古希腊城邦": {
+    "cand": null,
+    "rejected": [
+      {
+        "title": "Mountains in Archaic Greek Poetry",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "plain"
+        ]
+      },
+      {
+        "title": "Mountains in Greek and Roman Art",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "plain"
+        ]
+      },
+      {
+        "title": "Long Term analysis of submarine transmis",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "mountain",
+          "plain"
+        ]
+      },
+      {
+        "title": "Scattering of coastal-trapped waves by i",
+        "why": "缺槽",
+        "missing": [
+          "mountain",
+          "plain"
+        ]
+      },
+      {
+        "title": "The topography of syntactic islands",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "mountain",
+          "plain"
+        ]
+      },
+      {
+        "title": "Dynamics of global coastline: Dynamics o",
+        "why": "缺槽",
+        "missing": [
+          "mountain",
+          "plain"
+        ]
+      }
+    ]
+  },
+  "日本列岛": {
+    "cand": {
+      "doi": "10.1306/13531934m1083640",
+      "title": "Jurassic Silicic Volcanism and Associated Continental-arc Basin in Northwestern Colombia (Southern Boundary of the Caribbean Plate)",
+      "year": 2016,
+      "oa_id": "W2319079898",
+      "cited": 27,
+      "type": "book-chapter",
+      "abs_len": 1047,
+      "abstract": "New petrological observations from a volcanic unit at the base of the Jurassic sequence in the Alta Guajira region (Colombia) are consistent with the presence of a continental volcanic arc and the development of an intra-arc basin in the area. Fault-bounded Jurassic sedimentary basins in the Alta Guajira region were initiated during the early Jurassic (180 Ma) with silicic volcanism in the axis of a magmatic arc and later filled with a thick volcano-sedimentary sequence. The Jurassic silicic volcanic rocks at the base of the basin (Riodacita de Ipapure–Cerro La Teta) are observed as isolated remnants of andesite, dacite, and rhyolite. These lithologies are characterized geochemically by a calc-alkaline character, enrichment in light rare earth elements, Nb-Ta depletion, and Eu negative anomaly indicating a converging tectonic-setting origin, possibly in a continental volcanic arc related to early subduction. The unit marks the beginning of a continental-arc basin that was a sediment depocenter since the middle Jurassic in the area.",
+      "claim": "位于板块交界附近，地震与火山活动频繁",
+      "slots": [
+        "subduction",
+        "volcan"
+      ],
+      "host": null
+    },
+    "rejected": [
+      {
+        "title": "Part 6. Present plate boundary seismic, ",
+        "why": "缺槽",
+        "missing": [
+          "earthquake",
+          "subduction"
+        ]
+      },
+      {
+        "title": "Seismicity modulation by external stress",
+        "why": "缺槽",
+        "missing": [
+          "earthquake",
+          "subduction",
+          "volcan"
+        ]
+      }
+    ]
+  },
+  "罗马共和国": {
+    "cand": null,
+    "rejected": []
+  },
+  "克里特文明": {
+    "cand": null,
+    "rejected": [
+      {
+        "title": "The population structure of Mesobuthus g",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "crete",
+          "mountain"
+        ]
+      },
+      {
+        "title": "Making of a border island: The example o",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "crete",
+          "mountain"
+        ]
+      },
+      {
+        "title": "Minoan Crete and the Aegean Islands",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "mountain"
+        ]
+      },
+      {
+        "title": "Final Neolithic Crete and the Southeast ",
+        "why": "缺槽",
+        "missing": [
+          "coast",
+          "mountain"
+        ]
+      }
+    ]
+  }
+}

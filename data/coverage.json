@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-22",
   "entries": [
     {
       "id": "africa-x6492x54c8x62c9x6c99x6f20",
@@ -463,7 +463,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "L2完成(第44轮复核)-内容源0条",
-      "source_count": 6,
+      "source_count": 7,
       "pending_count": 1,
       "last_update": "2026-11-22"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 45,
-  "round_processed": 6,
+  "round": 46,
+  "round_processed": 1,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

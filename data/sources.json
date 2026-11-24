@@ -7916,6 +7916,19 @@
       "verified": true,
       "page_title": "Using ocean margin density to constrain ocean circulation and surface wind strength in the past",
       "note": "OpenAlex 作品 W1556419777（经 Crossref DOI 10.1029/2001gc000208 定位）；2001年；Geochemistry Geophysics Geosystems；被引 24。HTTP 200，15598 字节。摘要长度 1386 字符；摘要同时命中「circulation」与「wind」，对应待支撑断言。"
+    },
+    {
+      "id": "openalex-W2319079898",
+      "title": "OpenAlex W2319079898 — Jurassic Silicic Volcanism and Associated Continental-arc Basin in Northwestern Colombia (Southern Boundary of the Caribbean Plate)",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2016,
+      "type": "专著章节",
+      "url": "https://api.openalex.org/works/W2319079898",
+      "url2": "https://doi.org/10.1306/13531934m1083640",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Jurassic Silicic Volcanism and Associated Continental-arc Basin in Northwestern Colombia (Southern Boundary of the Caribbean Plate)",
+      "note": "OpenAlex 作品 W2319079898（DOI 10.1306/13531934m1083640）；2016年；出版方未标；被引 27。HTTP 200，11822 字节。摘要长度 1047 字符；槽位命中 ['subduction', 'volcan']（D101 槽位化举证）。"
     }
   ]
 }

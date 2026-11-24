@@ -1,0 +1,17 @@
+{
+  "round": 46,
+  "date": "2026-11-24",
+  "categories": {
+    "ge2": 29,
+    "one": 171,
+    "indicator": 37,
+    "terrain_common": 3,
+    "alias_other": 3
+  },
+  "alias_other_list": [
+    "五大湖",
+    "荒漠化",
+    "卫星遥感地表观测"
+  ],
+  "note": "五分类：指标解读类与地形常识类的正文无需学术文献；alias_other 才是需继续补源的真缺口"
+}
