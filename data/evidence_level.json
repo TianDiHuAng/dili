@@ -122,9 +122,9 @@
       "tier": "核心"
     },
     "古埃及古王国": {
-      "level": "C",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 1,
         "data": 2,
@@ -302,9 +302,9 @@
       "tier": "核心"
     },
     "苏美尔城邦": {
-      "level": "C",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 1,
         "data": 2,
@@ -854,9 +854,9 @@
       "tier": "补充"
     },
     "古希腊城邦": {
-      "level": "C",
+      "level": "A",
       "counts": {
-        "strong": 3,
+        "strong": 4,
         "weak": 1,
         "side": 1,
         "data": 3,
@@ -1658,9 +1658,9 @@
       "tier": "重要"
     },
     "南锥体": {
-      "level": "C",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 2,
         "data": 0,
@@ -2919,9 +2919,9 @@
     }
   },
   "summary": {
-    "A": 158,
-    "B": 59,
-    "C": 4,
+    "A": 159,
+    "B": 62,
+    "C": 0,
     "D": 22
   },
   "definition": {

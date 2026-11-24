@@ -1391,6 +1391,21 @@
       "sample_rate": "A级全量复核south-america/oceania/antarctica/global-themes（77条）",
       "sample_audit": "查出 strength 的 for…break 只查首段（D152）——4条虚高、G1 假清零",
       "note": "D152：A 167→158、C 0→4、G1 0→4、G3 54→60"
+    },
+    {
+      "round": 95,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 4,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "G1 全部4条",
+      "sample_audit": "4/4命中0%失败；4条登记（Polis被引494）",
+      "note": "G1 4→0、C 4→0；G3 60→62；A159"
     }
   ]
 }

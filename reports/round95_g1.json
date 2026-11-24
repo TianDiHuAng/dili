@@ -1,0 +1,204 @@
+{
+  "results": {
+    "古埃及古王国": {
+      "cand": [
+        {
+          "oid": "W637747253",
+          "title": "Territorial Appropriation during the Old Kingdom (XXVIIIth-XXIIIrd centuries BC): The royal necropolises and the pyramid towns in Egypt",
+          "year": 2007,
+          "cited": 9,
+          "abs_len": 944,
+          "slots": [
+            "old kingdom",
+            "egypt",
+            "state",
+            "pyramid"
+          ],
+          "doi": "10.30861/9781407300115",
+          "type": "book"
+        },
+        {
+          "oid": "W4248872584",
+          "title": "Egypt’s Old Kingdom: Perspectives on Culture and Society",
+          "year": 2020,
+          "cited": 4,
+          "abs_len": 1458,
+          "slots": [
+            "old kingdom",
+            "egypt",
+            "state",
+            "society"
+          ],
+          "doi": "10.1093/oso/9780190687854.003.0008",
+          "type": "book-chapter"
+        },
+        {
+          "oid": "W2339022878",
+          "title": "Setting a State Anew: The Central Administration from the End of the Old Kingdom to the End of the Middle Kingdom",
+          "year": 2013,
+          "cited": 52,
+          "abs_len": 912,
+          "slots": [
+            "old kingdom",
+            "state",
+            "administrat"
+          ],
+          "doi": "10.1163/9789004250086_009",
+          "type": "book-chapter"
+        }
+      ],
+      "n": 9
+    },
+    "苏美尔城邦": {
+      "cand": [
+        {
+          "oid": "W4388058220",
+          "title": "The Sumerian City-state",
+          "year": 1997,
+          "cited": 0,
+          "abs_len": 1053,
+          "slots": [
+            "sumer",
+            "sumerian",
+            "city",
+            "state"
+          ],
+          "doi": "10.1093/oso/9780198206644.003.0002",
+          "type": "book-chapter"
+        },
+        {
+          "oid": "W2332571951",
+          "title": "The Sumerian City Nippur in the Period of the Third Dynasty of Ur",
+          "year": 1938,
+          "cited": 9,
+          "abs_len": 1334,
+          "slots": [
+            "sumer",
+            "sumerian",
+            "city"
+          ],
+          "doi": "10.2307/4241631",
+          "type": "article"
+        },
+        {
+          "oid": "W4206228310",
+          "title": "“The Sumerian Tempelstadt”: The Modern Making of an Ancient Urban Concept",
+          "year": 2018,
+          "cited": 1,
+          "abs_len": 870,
+          "slots": [
+            "sumer",
+            "sumerian",
+            "city"
+          ],
+          "doi": "10.5040/9781350037717.ch-011",
+          "type": "book-chapter"
+        }
+      ],
+      "n": 5
+    },
+    "古希腊城邦": {
+      "cand": [
+        {
+          "oid": "W4388377222",
+          "title": "Polis: An Introduction to the Ancient Greek City-State",
+          "year": 2006,
+          "cited": 494,
+          "abs_len": 867,
+          "slots": [
+            "polis",
+            "greek",
+            "city",
+            "state"
+          ],
+          "doi": "10.1093/oso/9780199208494.001.0001",
+          "type": "book"
+        },
+        {
+          "oid": "W4388377365",
+          "title": "The Greek Conception of Polis as a City with a Hinterland",
+          "year": 2006,
+          "cited": 1,
+          "abs_len": 999,
+          "slots": [
+            "polis",
+            "greek",
+            "city",
+            "state"
+          ],
+          "doi": "10.1093/oso/9780199208494.003.0018",
+          "type": "book-chapter"
+        },
+        {
+          "oid": "W4388392432",
+          "title": "Polis as City",
+          "year": 2006,
+          "cited": 1,
+          "abs_len": 1125,
+          "slots": [
+            "polis",
+            "greek",
+            "city",
+            "state"
+          ],
+          "doi": "10.1093/oso/9780199208494.003.0012",
+          "type": "book-chapter"
+        }
+      ],
+      "n": 8
+    },
+    "南锥体": {
+      "cand": [
+        {
+          "oid": "W4251197559",
+          "title": "The Southern Cone Model",
+          "year": 2004,
+          "cited": 79,
+          "abs_len": 792,
+          "slots": [
+            "southern cone",
+            "chile",
+            "argentina",
+            "econom"
+          ],
+          "doi": "10.4324/9780203463338",
+          "type": "book"
+        },
+        {
+          "oid": "W4403079122",
+          "title": "Chile's Pioneering Location: Pacific Rim and Southern Cone",
+          "year": 1994,
+          "cited": 2,
+          "abs_len": 925,
+          "slots": [
+            "southern cone",
+            "chile",
+            "geograph",
+            "econom"
+          ],
+          "doi": "10.1080/20436564.1994.12452437",
+          "type": "article"
+        },
+        {
+          "oid": "W2804858635",
+          "title": "The instrumental values of education in the Southern Cone",
+          "year": 2017,
+          "cited": 0,
+          "abs_len": 909,
+          "slots": [
+            "southern cone",
+            "chile",
+            "argentina"
+          ],
+          "doi": "10.1332/policypress/9781447334316.003.0015",
+          "type": "book-chapter"
+        }
+      ],
+      "n": 4
+    }
+  },
+  "http": {
+    "ok": 165,
+    "fail": 0
+  }
+}

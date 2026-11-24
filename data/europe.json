@@ -150,10 +150,11 @@
         "wb-grc-urban",
         "wb-grc-life",
         "openalex-W4388377370",
-        "openalex-W3098219892"
+        "openalex-W3098219892",
+        "openalex-W4388377222"
       ],
       "needs_verification": true,
-      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·古希腊城邦】本条正则 polis|greek；livius-polis=200/正文2469字符/本条命中12；livius-athens=200/正文6313字符/本条命中13。D055 判定：未达标（最高命中13、最高正文6313字符；档①门槛5000/档②③8000）；缺口为「古希腊城邦」主题专题页。 档位判定：本条标题为「古希腊城邦」，正则 polis|greek 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第43轮补源（strong）】openalex-W4388377370（2006年，《The Polis as City and State》，Oxford University Press eBooks，DOI 10.1093/oso/9780199208494.003.0011，被引 1，对象词命中 4 次）：该文献与本条对象一致，可作相关断言的来源。 【第43轮落点】已在正文 influence 段补入与所引文献对应的具体句子。 【第45轮剔除】候选为《Mountains in Greek and Roman Art》，主题是艺术中的山，不支撑「山地分割与海上通道并存」这一地形断言，已剔除。 【第46轮补源·领域词重检】openalex-W3098219892（2009年，《Coastal Geomorphology and Sea-Level Change》，DOI 10.1093/oso/9780199268030.003.0025，被引 75）：前一轮称「无对应专题文献」系检索不力（只用一次 bibliographic 查询、缺领域词）；改用 geomorphology/physical geography 等领域词后取得该文献，已登记。 【第56轮R19第二层】openalex-W3098219892：《Coastal Geomorphology and Sea-Level Change》(2009, 被引75) 的标题不含 greek/greece/polis——是地形与海平面研究，属「希腊地形」的旁证，不作城邦条目主来源。",
+      "pending_notes": "第6轮升级：Livius/FAO/UNESCO 专题或机构页支撑概述；具体年代、王表与遗址数据待逐条核验。 【第26轮实证复核·古希腊城邦】本条正则 polis|greek；livius-polis=200/正文2469字符/本条命中12；livius-athens=200/正文6313字符/本条命中13。D055 判定：未达标（最高命中13、最高正文6313字符；档①门槛5000/档②③8000）；缺口为「古希腊城邦」主题专题页。 档位判定：本条标题为「古希腊城邦」，正则 polis|greek 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第43轮补源（strong）】openalex-W4388377370（2006年，《The Polis as City and State》，Oxford University Press eBooks，DOI 10.1093/oso/9780199208494.003.0011，被引 1，对象词命中 4 次）：该文献与本条对象一致，可作相关断言的来源。 【第43轮落点】已在正文 influence 段补入与所引文献对应的具体句子。 【第45轮剔除】候选为《Mountains in Greek and Roman Art》，主题是艺术中的山，不支撑「山地分割与海上通道并存」这一地形断言，已剔除。 【第46轮补源·领域词重检】openalex-W3098219892（2009年，《Coastal Geomorphology and Sea-Level Change》，DOI 10.1093/oso/9780199268030.003.0025，被引 75）：前一轮称「无对应专题文献」系检索不力（只用一次 bibliographic 查询、缺领域词）；改用 geomorphology/physical geography 等领域词后取得该文献，已登记。 【第56轮R19第二层】openalex-W3098219892：《Coastal Geomorphology and Sea-Level Change》(2009, 被引75) 的标题不含 greek/greece/polis——是地形与海平面研究，属「希腊地形」的旁证，不作城邦条目主来源。 【第95轮补强来源（strong，G1 修复）】openalex-W4388377222（2006年，《Polis: An Introduction to the Ancient Greek City-State》，被引 494，摘要 867 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -162,7 +163,7 @@
       "last_update": "2026-11-24",
       "geo": "希腊本土多山，平原狭小，海岸曲折且岛屿众多。山地分割与海上通道并存，地中海气候适宜橄榄、葡萄与谷物混合农业。",
       "influence": "海洋交通促进贸易与殖民，山地限制大规模统一，但城邦制度不能仅由地形解释；制度选择与社会冲突同样关键。 所引 2006 年研究指出 polis 同时是聚居实体与自治政体，并以雅典、科林斯、麦加拉、叙拉古为例说明城邦形态的多样；本条「城邦=聚落+政治共同体」的定义即据此。",
-      "polities": "Livius 的 Polis、Athens 与 Greece 页面提供城邦概念和主要城邦的专题入口，可支撑城邦作为基本单位的概述；具体政体演变待逐条核验。",
+      "polities": "Livius 的 Polis、Athens 与 Greece 页面提供城邦概念和主要城邦的专题入口，可支撑城邦作为基本单位的概述；具体政体演变待逐条核验。 所引 2006 年《Polis: An Introduction to the Ancient Greek City-State》（被引 494）从古代到 19 世纪区分两种国家形态——大型国家（内含若干城市）与由城邦构成的区域（每个城邦由城区与腹地组成）；本条「古希腊以城邦为政治单位、公民共同体构成核心」据此。",
       "connections": "爱琴海把希腊本土、岛屿、安纳托利亚与埃及连接成交换网络，陶器、金属与思想沿航线传播。",
       "today": "以希腊为例，来源：世界银行 API。总人口 10,413,962 人（2025年）（SP.POP.TOTL）、城市化率 79.2%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 81.8 岁（2024年）（SP.DYN.LE00.IN）。古典时期人口规模的估计属史学争论，需专门研究核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古希腊城邦示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古希腊城邦</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
