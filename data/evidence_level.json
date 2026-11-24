@@ -2312,9 +2312,9 @@
       "tier": "补充"
     },
     "海洋生态系统": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 1,
@@ -2477,9 +2477,9 @@
       "tier": "补充"
     },
     "教育机会地域差异": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 1,
@@ -2642,9 +2642,9 @@
       "tier": "补充"
     },
     "保护与保育区体系": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 1,
@@ -2653,9 +2653,9 @@
       "tier": "补充"
     },
     "农业企业与价值链": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 1,
         "side": 0,
         "data": 1,
@@ -2676,8 +2676,8 @@
     }
   },
   "summary": {
-    "A": 211,
-    "B": 32,
+    "A": 215,
+    "B": 28,
     "C": 0,
     "D": 0
   },

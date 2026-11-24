@@ -1,0 +1,55 @@
+{
+  "海洋生态系统": {
+    "oid": "W2095789486",
+    "title": "Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services: A Systematic Review",
+    "year": 2013,
+    "cited": 861,
+    "abs_len": 1892,
+    "slots": [
+      "ecosystem",
+      "marine",
+      "service"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0067737"
+  },
+  "保护与保育区体系": {
+    "oid": "W2105822411",
+    "title": "Effectiveness of Marine Protected Areas in the Philippines for Biodiversity Conservation",
+    "year": 2010,
+    "cited": 244,
+    "abs_len": 1992,
+    "slots": [
+      "protected area",
+      "conservation",
+      "network",
+      "effectiveness",
+      "coverage"
+    ],
+    "doi": "https://doi.org/10.1111/j.1523-1739.2009.01340.x"
+  },
+  "教育机会地域差异": {
+    "oid": "W4317206970",
+    "title": "Regional Inequality of Higher Education Development in China: Comprehensive Evaluation and Geographical Representation",
+    "year": 2023,
+    "cited": 53,
+    "abs_len": 1333,
+    "slots": [
+      "education",
+      "inequal"
+    ],
+    "doi": "https://doi.org/10.3390/su15031824"
+  },
+  "农业企业与价值链": {
+    "oid": "W2116282164",
+    "title": "Contract farming in Indonesia: Smallholders and agribusiness working together",
+    "year": 2004,
+    "cited": 72,
+    "abs_len": 1274,
+    "slots": [
+      "agribusiness",
+      "smallholder",
+      "market"
+    ],
+    "doi": "https://doi.org/10.22004/ag.econ.113792"
+  }
+}

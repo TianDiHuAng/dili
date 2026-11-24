@@ -1930,7 +1930,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第36轮)-世界银行指标",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2065,7 +2065,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第36轮)-世界银行指标",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2200,7 +2200,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第37轮)-指标数据",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2209,7 +2209,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第19轮)-主题页·已复核(第28轮)",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 64,
-  "round_processed": 13,
+  "round": 65,
+  "round_processed": 5,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

@@ -941,6 +941,21 @@
       "sample_rate": "24个机构页实测",
       "sample_audit": "实测发现UN/UNESCO/FAO/CBD为空壳页（7–218字符）",
       "note": "实测24个机构页；标记6个空壳页；挂接7条第二来源；G3 15→9、G1→0；层级 A211/B32/C0/D0"
+    },
+    {
+      "round": 65,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 5,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "4条补充类全查",
+      "sample_audit": "R23上线；修s074测量口径冲突（5455 vs 750）",
+      "note": "补4条第二来源（海洋生态861/保护区244/教育53/农企72）；G3 9→5；层级 A215/B28/C0/D0"
     }
   ]
 }

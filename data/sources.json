@@ -960,7 +960,7 @@
       "link_ok": true,
       "verified": true,
       "page_title": "UNICEF, for every child",
-      "note": "curl 实测 HTTP 200；页面标题：UNICEF, for every child；页面未标注统一年份，年份留空不做推定。 【第46轮实测】strip 后正文 5,455 字符（现场抓取，可复现）。 【第64轮实测】strip 后正文 750 字符（HTTP 200）。 【空壳页判定】strip 后仅 750 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。"
+      "note": "curl 实测 HTTP 200；页面标题：UNICEF, for every child；页面未标注统一年份，年份留空不做推定。 【第46轮实测】strip 后正文 5,455 字符（现场抓取，可复现）。 【第64轮实测】strip 后正文 750 字符（HTTP 200）。 【空壳页判定】strip 后仅 750 字符（多为 JS 应用壳或导航条），**仅作入口页，不作正文依据**（D125）。 【口径冲突说明】本条曾记「正文 5,455 字符」（文本提取口径），第64轮 strip HTML 后实测为 **750 字符**（多为导航与卡片摘要）。两值并存时以 strip 值为准；750 < 800，故本条仅作入口页与案例引用，不作正文依据。"
     },
     {
       "id": "s075-aag-org",
@@ -8488,6 +8488,58 @@
       "verified": true,
       "page_title": "Fortified settlements and the settlement system in the Northern Zone of the Han Empire",
       "note": "OpenAlex 作品 W2113119651（DOI https://doi.org/10.1017/s0003598x00050328）；2014年；被引 17。HTTP 200，14527 字节。摘要长度 970 字符；主题槽命中 ['han', 'state', 'administrat', 'empire']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2095789486",
+      "title": "OpenAlex W2095789486 — Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services: A Systematic Review",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2013,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2095789486",
+      "url2": "https://doi.org/https://doi.org/10.1371/journal.pone.0067737",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services: A Systematic Review",
+      "note": "OpenAlex 作品 W2095789486（DOI https://doi.org/10.1371/journal.pone.0067737）；2013年；被引 861。HTTP 200，34089 字节。摘要长度 1892 字符；主题槽命中 ['ecosystem', 'marine', 'service']。证据强度：strong。适用范围：global。"
+    },
+    {
+      "id": "openalex-W2105822411",
+      "title": "OpenAlex W2105822411 — Effectiveness of Marine Protected Areas in the Philippines for Biodiversity Conservation",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2010,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2105822411",
+      "url2": "https://doi.org/https://doi.org/10.1111/j.1523-1739.2009.01340.x",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Effectiveness of Marine Protected Areas in the Philippines for Biodiversity Conservation",
+      "note": "OpenAlex 作品 W2105822411（DOI https://doi.org/10.1111/j.1523-1739.2009.01340.x）；2010年；被引 244。HTTP 200，23248 字节。摘要长度 1992 字符；主题槽命中 ['protected area', 'conservation', 'network', 'effectiveness', 'coverage']。证据强度：strong。适用范围：case。"
+    },
+    {
+      "id": "openalex-W4317206970",
+      "title": "OpenAlex W4317206970 — Regional Inequality of Higher Education Development in China: Comprehensive Evaluation and Geographical Representation",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2023,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W4317206970",
+      "url2": "https://doi.org/https://doi.org/10.3390/su15031824",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Regional Inequality of Higher Education Development in China: Comprehensive Evaluation and Geographical Representation",
+      "note": "OpenAlex 作品 W4317206970（DOI https://doi.org/10.3390/su15031824）；2023年；被引 53。HTTP 200，18907 字节。摘要长度 1333 字符；主题槽命中 ['education', 'inequal']。证据强度：strong。适用范围：case。"
+    },
+    {
+      "id": "openalex-W2116282164",
+      "title": "OpenAlex W2116282164 — Contract farming in Indonesia: Smallholders and agribusiness working together",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2004,
+      "type": "期刊论文",
+      "url": "https://api.openalex.org/works/W2116282164",
+      "url2": "https://doi.org/https://doi.org/10.22004/ag.econ.113792",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Contract farming in Indonesia: Smallholders and agribusiness working together",
+      "note": "OpenAlex 作品 W2116282164（DOI https://doi.org/10.22004/ag.econ.113792）；2004年；被引 72。HTTP 200，17563 字节。摘要长度 1274 字符；主题槽命中 ['agribusiness', 'smallholder', 'market']。证据强度：strong。适用范围：case。"
     }
   ]
 }

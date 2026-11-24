@@ -44,6 +44,26 @@ if os.path.exists(_ob_path):
     OBJ_MAP = load_json(_ob_path)
 
 
+SHELL_MARK = "空壳页判定"
+
+
+def check_shell_not_content(e, sources):
+    """R23（D125）：被标为「空壳页」的来源，不得在备注中被称作内容来源/第二来源/互证。"""
+    pn = e.get("pending_notes") or ""
+    for sid in e.get("sources", []):
+        s = sources.get(sid) or {}
+        if SHELL_MARK not in (s.get("note") or ""):
+            continue
+        # 该 sid 所属段落里若出现「第二来源/互证/内容来源/主来源」等字样 → 报错
+        seg = ""
+        for part in re.split(r"【", pn):
+            if sid in part:
+                seg = part
+                break
+        if any(k in seg for k in ("第二来源", "互证", "内容来源", "主来源")):
+            err(f"R23 {e['id']}: 空壳页 {sid} 被备注称作内容来源/互证（D125）")
+
+
 MIN_STRONG_CITED = 10
 MIN_STRONG_BODY = 800
 
@@ -230,6 +250,7 @@ def main():
             check_object_word(e, src_by_id, OBJ_MAP)
             check_evidence_level(e, EV_MAP)
             check_level_consistency(e, EV_MAP, src_by_id)
+            check_shell_not_content(e, src_by_id)
             if e.get("today"):
                 check_today_sources(e)
                 check_dynamic_source(e)
