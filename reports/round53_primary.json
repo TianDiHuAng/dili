@@ -1,0 +1,830 @@
+{
+  "莫切文化": {
+    "claim": "莫切文化的河谷政治与灌溉社会",
+    "records": [
+      {
+        "query": "Moche society irrigation politics",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1353/pcg.1974.0007",
+            "title": "Irrigation and Urbanization in Pre-Hispanic Peru: The Moche Valley",
+            "year": 1974,
+            "oa_id": "W2004371677",
+            "cited": 6,
+            "type": "article",
+            "abs_len": 4352,
+            "abstract": "Irrigation and Urbanization in Pre-Hispanic Peru: The Moche Valley James S. Kus\" THE USE OF irrigation as an agricultural technique has had a long history in diverse regions of the world. In fact, in many areas of early civilization, irrigation has been noted as a common resource-exploitation technique. This has led to much speculation by scholars as to the role of irrigation within social systems, particularly as related to its importance in the development of \"high\" civilizations. Price, for example, gives an overview on the role of irrigation in the development of New World cultures.1 The present study of irrigation in pre-Hispanic Peru, by focusing on a single system with limited areal extent, enables us to analyze some of the spatial and cultural elements that led to the development of complex irrigation systems and some of the specific effects of their use. Throughout coastal Peru, exotic rivers flowing westward out of the Andes furnish water for over forty oases. These oases are particularly large in northern Peru and have long been im- * Dr. Kus is an Associate Professor of Geography at California State University, Fresno 93740. Field research in 1967 was supported by the Latin American Studies Center, Michigan State University. In 1969-1970, research was supported by the Department of Geography, University of California, Los Angeles (UCLA), and the National Geographic Society (Grant No. 801). Rainer Berger, Institute of Geophysics, UCLA, radiocarbon -dated material associated with the Chicama-Moche Canal. The assistance of the Harvard-Peabody Museum's Chan Chan-Moche Valley Project, headed by Michael E. Moseley, is gratefully acknowledged. 1 Barbara J. Price, \"Prehispanic Irrigation Agriculture in Nuclear America,\" Latin American Research Review, Vol. 6, No. 3 (197l·), pp. 3-60. 45 46ASSOCIATION OF PACIFIC COAST GEOGRAPHERS portant areas for human settlement. Several geographic factors have combined to make the northern oases the most important agricultural region in Peru, both in the past and at the present time. First, the north coast rivers are dependable sources of irrigation water, with year-to-year fluctuations in flow generally less than those of rivers in the other zones of coastal Peru.2 Second, large amounts of arable land are available in the northern oases. In the central and, particularly, the southern coastal regions, some water goes unused because of a lack of arable land. In the north, the surplus of arable land usually means that all available water can be utilized for irrigation. Finally, the heavy winter fogs of the central coast are not a problem in the northern coastal region; therefore, in the irrigated valleys crops usually can be raised throughout the year. Human Use of the North Coast Oases The oases of the Peruvian north coast have been occupied by man for thousands of years. Numerous pre-eeramic lithic sites have been found along the margins of the valleys, and one can only suppose that before agriculture began the river oases were utilized by hunters and gatherers. Within the last three millennia, advanced cultures developed in the northern coastal region. Agriculture, initially floodwater farming in marshlands along the rivers but later with canal irrigation systems , gradually evolved in the valleys.' The eventual outcome in coastal Peru was the development of several important preIncaic civilizations. It is with one such advanced culture, the Chimu, that this paper is concerned. For five centuries the Chimu were the most important people of northern coastal Peru. Beginning some time in the 2 David A. Robinson, Peru in Four Dimensions (Lima: American Studies Press, 1964), pp. 168-171. 3 A good example of this development is contained in Gordon R. Willey's study, Prehistoric Settlement Patterns in the Viru Valley, Peru (Washington, D. C: Bureau of American Ethnography, Bulletin No. 155, 1953). YEARBOOK · VOLUME 36 · 197447 late tenth or early eleventh century A. D., and continuing until the late fifteenth century, the Chimu built upon the traditions and techniques of earlier cultures and developed a stable political unit known as the Kingdom of Chimor.4 This kingdom was centered at a site called Chan Chan in the Moche Valley, near the modern city of Trujillo. At its greatest extent the Kingdom of Chimor stretched from Tumbes in the...",
+            "slots": [
+              "irrigation",
+              "politic",
+              "state",
+              "society",
+              "valley"
+            ],
+            "host": "Yearbook - Association of Pacific Coast Geographers"
+          }
+        ]
+      },
+      {
+        "query": "Moche state organization valleys",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.7183/1045-6635.21.1.22",
+            "title": "Craft Specialists at Moche: Organization, Affiliations, and Identities",
+            "year": 2010,
+            "oa_id": "W2322039721",
+            "cited": 58,
+            "type": "article",
+            "abs_len": 1190,
+            "abstract": "This article examines the organization of specialized craft production at the urban site of Moche, known as the capital of the Southern Moche state. Recent excavations in workshop contexts revealed that the urban population of Moche was in part composed of ceramists, metallurgists, and lapidaries. These craft specialists played a significant role in the economic, political, and religious spheres of the Moche polity. Data obtained during excavations of workshops and domestic compounds are used to analyze the context, scale, and intensity of craft production, taking into account the nature of the goods produced and the identity of consumers. The discussion also considers the integration of craft specialists into the daily life and social structure at the site of Moche. Excavations showed that while urban craft specialists were not independent, they were not tightly controlled by a centralized ruling elite. They produced symbolic goods in various small to middle-scale workshops integrated into residential units, under the direct authority of urban leaders taking advantage of this particular organization of semi-attached craft production in various status-building strategies.",
+            "slots": [
+              "politic",
+              "state"
+            ],
+            "host": "Latin American Antiquity"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.7183/1045-6635.21.1.22",
+      "title": "Craft Specialists at Moche: Organization, Affiliations, and Identities",
+      "year": 2010,
+      "oa_id": "W2322039721",
+      "cited": 58,
+      "type": "article",
+      "abs_len": 1190,
+      "abstract": "This article examines the organization of specialized craft production at the urban site of Moche, known as the capital of the Southern Moche state. Recent excavations in workshop contexts revealed that the urban population of Moche was in part composed of ceramists, metallurgists, and lapidaries. These craft specialists played a significant role in the economic, political, and religious spheres of the Moche polity. Data obtained during excavations of workshops and domestic compounds are used to analyze the context, scale, and intensity of craft production, taking into account the nature of the goods produced and the identity of consumers. The discussion also considers the integration of craft specialists into the daily life and social structure at the site of Moche. Excavations showed that while urban craft specialists were not independent, they were not tightly controlled by a centralized ruling elite. They produced symbolic goods in various small to middle-scale workshops integrated into residential units, under the direct authority of urban leaders taking advantage of this particular organization of semi-attached craft production in various status-building strategies.",
+      "slots": [
+        "politic",
+        "state"
+      ],
+      "host": "Latin American Antiquity"
+    }
+  },
+  "阿塔卡马沙漠": {
+    "claim": "阿塔卡马沙漠的极端干旱与形成机制",
+    "records": [
+      {
+        "query": "Atacama Desert hyperaridity climate",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1130/b30445.1",
+            "title": "Geomorphologic evidence for the late Pliocene onset of hyperaridity in the Atacama Desert",
+            "year": 2012,
+            "oa_id": "W2019982220",
+            "cited": 140,
+            "type": "article",
+            "abs_len": 2502,
+            "abstract": "The Atacama Desert has experienced a long and protracted period of hyperaridity that has resulted in what may be the most unusual biome on Earth, but the duration of this aridity is poorly constrained. We reconstructed aspects of the fluvial and geochemical history of this region using integrated landscape features (alluvial fans, hillslope soils, soil chemistry, river profiles) in the southern portion of the present desert. Topographic reconstructions of a large watershed (11,000 km2) show deep incision and sediment removal between the late Miocene and the end of the Pliocene, and modest to negligible incision in post-Pliocene times. These changes in incision suggest an ∼50–280× reduction in river discharge, which should reflect corresponding changes in precipitation. Changes in the nature of hillslope soils in the Atacama Desert indicate that in the Pliocene or earlier, hillslopes were mantled with silicate-derived soil. This mantle was stripped off and locally deposited as alluvial fans (late Pliocene to early Pleistocene) that now block or otherwise cause a rearrangement of Pliocene and earlier river channels. Finally, the hillslopes have largely accreted a soil mantle of dust and salt since the apparent late Pliocene stripping, suggesting a decline in annual precipitation of at least 125 mm yr−1 or more (mean annual precipitation [MAP] is now <3 mm yr−1). Embedded in the long post-Pliocene era of salt accumulation, there are a variety of features suggesting overland flow on hillslopes (rills, striped gravel deposits, piping, and water spouts) and large, infrequent storms that infiltrated gentle alluvial fans (due to the depth of salt-rich horizons). Despite evidence for episodes that punctuate the hyperaridity, the magnitude and duration of these pluvial events have been insufficient to remove the regional accumulations of sulfate, chloride, and nitrate. The late Pliocene cessation of many fluvial features is coincident with recent research on the tropical Pacific, which shows that the Pacific was in a permanent El Niño state until ca. 2.2 Ma, at which time sea-surface temperatures offshore of South America declined greatly relative to those of the western Pacific, in turn setting up the present El Niño–Southern Oscillation (ENSO) climate system. These observations indicate that the latest period of aridity has been prolonged and largely continuous, and it appears to have occurred in step with the onset of the ENSO climate system, beginning ∼2 m.y. ago.",
+            "slots": [
+              "hyperarid",
+              "arid",
+              "climate",
+              "precipitation"
+            ],
+            "host": "Geological Society of America Bulletin"
+          },
+          {
+            "doi": "10.2475/001c.65657",
+            "title": "Geomorphic Process Rates in the Central Atacama Desert, Chile: Insights From Cosmogenic Nuclides and Implications for the Onset of Hyperaridity",
+            "year": 2014,
+            "oa_id": "W2058366745",
+            "cited": 44,
+            "type": "article",
+            "abs_len": 5961,
+            "abstract": "Water plays a critical role in erosion and sediment transport and this relationship is most evident in the hyperarid Atacama Desert of Northern Chile, a region characterized by erosion rates that fall to near zero and cobbles and boulders with cosmogenic nuclide concentrations indicative of exposure for many millions of years. Cosmogenic nuclide concentrations from the Atacama are used to both determine the age of hyperaridity onset and to place important constraints on rates of geomorphic processes in this uniquely arid environment. Prior determinations of cosmogenic nuclide concentrations from the Atacama Desert focus primarily on exposure ages from boulders/cobbles or erosion rates from bedrock. However, recent determinations of cosmogenic nuclide concentrations from boulders, bedrock, and sediment at the same location suggests that material from diverse sample types have different cosmogenic nuclide concentrations. Therefore, it is critical to determine which concentrations of cosmogenic nuclides are most representative of overall erosion rates from the Atacama. Here, concentrations of cosmogenic nuclides in more than 100 samples across two east-west transects within the central Atacama Desert (22-26°S) of Northern Chile are considered. Concentrations of 10Be and 26Al were measured in samples of bedrock, alluvial sediment, active stream sediment, and boulders within several sub-regions of the Atacama Desert, including: the western and eastern Coastal Cordillera, the inner absolute desert (including the Cerro de los Tetas), the Cordillera Domeyko, and the western flank of the Andes. This data allows detailed comparisons of cosmogenic nuclides concentrations both within diverse sample types at a given site and between major geomorphic sub-regions of the Atacama. The general pattern of cosmogenic nuclide concentrations in hyperarid environments is characterized by concentrations that are higher in boulders, moderately high in bedrock, lower in hillslope sediment, and lowest in channels that flow across the desert. At many locations in the central Atacama, boulders and bedrock have erosion rates as much as an order of magnitude slower than that of finer grained sediment at the same location, a relationship that is attributed to the fact that boulders sit above thick gypcrete soils. The hillslope to basin concentrations of cosmogenic nuclides within each sub-region, along with 26Al/10Be ratios, suggests that concentrations of 10Be in most bedrock and sediments reflects erosion rates. However, in the western Coastal Cordillera 10Be concentrations in sediment also reflects transport time. The overarching trend in this data set is that inferred erosion rates are lower to both the east and the west, corresponding with increases in both precipitation and erosion rates towards both the Andean Flank and in the Coastal Cordillera. This trend is previously noted for the Atacama; however, this large data set allows the first observation of the influence of other variables upon erosion rates. Most notably, another clear influence on erosion rates in the Atacama is slope. In some cases, differences in slope are enough to overcome the influence of aridity. For example, erosion rates on the flanks of the Cordillera Domeyko are faster (>1 m/Ma) than that at the crest (<0.5 m/Ma), despite the fact that the crest of this mountain range receives more moisture. Moreover, erosion rates in boulders are up to an order of magnitude slower than that of finer grained sediment. Taken together, these patterns suggest that in the extreme environment of the central Atacama erosion rates are sensitive not only to direct changes in precipitation but also to variables such as slope and soil cover. The relationship between decreased erosion and either low slope or subaerial exposure in the Atacama is potentially stronger than similar relationships documented elsewhere. These results are part of a growing body of research suggesting that even in extreme environments erosion is a complex process controlled by a multitude of variables, and where erosion rates are strongly limited by one variable, any other variable that acts to increase erosion may also have a significant effect. These new insights invoke reexamination of the global relationship between erosion and precipitation, and it is suggested that precipitation has an increasingly greater impact on erosion rates at lower values, but with some influence beginning at rates of ∼1000 mm/year. Understanding process rates in the central Atacama is essential to interpretation of cosmogenic nuclide concentrations as the timing of the onset of hyperaridity. Previous cosmogenic nuclide studies in the Atacama have specifically targeted remnant boulders to determine the age of initial aridification and this new data set shows that the boulders do not have the same cosmogenic nuclide concentration as the sediment on which they rest. Thus, the use of boulder ages or hillslope ages for the purpose of topographic reconstruction can be problematic despite the fact that, broadly, exposure of boulders and cobbles over million-year timescales implies lack of erosion over this same period. Several aspects of these results suggest that the onset of hyperaridity in the Atacama Desert predates the Pliocene. First, a number of ages from boulders predate the Pliocene. Second, new Miocene age constraints from a surface previously identified as Pliocene was shown; the age of this surface previously formed a critical component in arguments for decreased incision rates in the late Pliocene. Third, it is shown that a site that is today very sensitive to sediment fluxes from modern storm events is at least 3 Ma in age. Finally, it is shown that most of the hillslopes in the central Atacama were exposed during the Quaternary and do not have complex exposure history; this indicates that the Atacama is not and probably never has been a frozen or static landscape.",
+            "slots": [
+              "hyperarid",
+              "arid",
+              "precipitation"
+            ],
+            "host": "American Journal of Science"
+          },
+          {
+            "doi": "10.2475/10.2014.03",
+            "title": "Geomorphic Process Rates in the Central Atacama Desert, Chile: Insights From Cosmogenic Nuclides and Implications for the Onset of Hyperaridity",
+            "year": 2014,
+            "oa_id": "W2058366745",
+            "cited": 44,
+            "type": "article",
+            "abs_len": 5961,
+            "abstract": "Water plays a critical role in erosion and sediment transport and this relationship is most evident in the hyperarid Atacama Desert of Northern Chile, a region characterized by erosion rates that fall to near zero and cobbles and boulders with cosmogenic nuclide concentrations indicative of exposure for many millions of years. Cosmogenic nuclide concentrations from the Atacama are used to both determine the age of hyperaridity onset and to place important constraints on rates of geomorphic processes in this uniquely arid environment. Prior determinations of cosmogenic nuclide concentrations from the Atacama Desert focus primarily on exposure ages from boulders/cobbles or erosion rates from bedrock. However, recent determinations of cosmogenic nuclide concentrations from boulders, bedrock, and sediment at the same location suggests that material from diverse sample types have different cosmogenic nuclide concentrations. Therefore, it is critical to determine which concentrations of cosmogenic nuclides are most representative of overall erosion rates from the Atacama. Here, concentrations of cosmogenic nuclides in more than 100 samples across two east-west transects within the central Atacama Desert (22-26°S) of Northern Chile are considered. Concentrations of 10Be and 26Al were measured in samples of bedrock, alluvial sediment, active stream sediment, and boulders within several sub-regions of the Atacama Desert, including: the western and eastern Coastal Cordillera, the inner absolute desert (including the Cerro de los Tetas), the Cordillera Domeyko, and the western flank of the Andes. This data allows detailed comparisons of cosmogenic nuclides concentrations both within diverse sample types at a given site and between major geomorphic sub-regions of the Atacama. The general pattern of cosmogenic nuclide concentrations in hyperarid environments is characterized by concentrations that are higher in boulders, moderately high in bedrock, lower in hillslope sediment, and lowest in channels that flow across the desert. At many locations in the central Atacama, boulders and bedrock have erosion rates as much as an order of magnitude slower than that of finer grained sediment at the same location, a relationship that is attributed to the fact that boulders sit above thick gypcrete soils. The hillslope to basin concentrations of cosmogenic nuclides within each sub-region, along with 26Al/10Be ratios, suggests that concentrations of 10Be in most bedrock and sediments reflects erosion rates. However, in the western Coastal Cordillera 10Be concentrations in sediment also reflects transport time. The overarching trend in this data set is that inferred erosion rates are lower to both the east and the west, corresponding with increases in both precipitation and erosion rates towards both the Andean Flank and in the Coastal Cordillera. This trend is previously noted for the Atacama; however, this large data set allows the first observation of the influence of other variables upon erosion rates. Most notably, another clear influence on erosion rates in the Atacama is slope. In some cases, differences in slope are enough to overcome the influence of aridity. For example, erosion rates on the flanks of the Cordillera Domeyko are faster (>1 m/Ma) than that at the crest (<0.5 m/Ma), despite the fact that the crest of this mountain range receives more moisture. Moreover, erosion rates in boulders are up to an order of magnitude slower than that of finer grained sediment. Taken together, these patterns suggest that in the extreme environment of the central Atacama erosion rates are sensitive not only to direct changes in precipitation but also to variables such as slope and soil cover. The relationship between decreased erosion and either low slope or subaerial exposure in the Atacama is potentially stronger than similar relationships documented elsewhere. These results are part of a growing body of research suggesting that even in extreme environments erosion is a complex process controlled by a multitude of variables, and where erosion rates are strongly limited by one variable, any other variable that acts to increase erosion may also have a significant effect. These new insights invoke reexamination of the global relationship between erosion and precipitation, and it is suggested that precipitation has an increasingly greater impact on erosion rates at lower values, but with some influence beginning at rates of ∼1000 mm/year. Understanding process rates in the central Atacama is essential to interpretation of cosmogenic nuclide concentrations as the timing of the onset of hyperaridity. Previous cosmogenic nuclide studies in the Atacama have specifically targeted remnant boulders to determine the age of initial aridification and this new data set shows that the boulders do not have the same cosmogenic nuclide concentration as the sediment on which they rest. Thus, the use of boulder ages or hillslope ages for the purpose of topographic reconstruction can be problematic despite the fact that, broadly, exposure of boulders and cobbles over million-year timescales implies lack of erosion over this same period. Several aspects of these results suggest that the onset of hyperaridity in the Atacama Desert predates the Pliocene. First, a number of ages from boulders predate the Pliocene. Second, new Miocene age constraints from a surface previously identified as Pliocene was shown; the age of this surface previously formed a critical component in arguments for decreased incision rates in the late Pliocene. Third, it is shown that a site that is today very sensitive to sediment fluxes from modern storm events is at least 3 Ma in age. Finally, it is shown that most of the hillslopes in the central Atacama were exposed during the Quaternary and do not have complex exposure history; this indicates that the Atacama is not and probably never has been a frozen or static landscape.",
+            "slots": [
+              "hyperarid",
+              "arid",
+              "precipitation"
+            ],
+            "host": "American Journal of Science"
+          },
+          {
+            "doi": "10.2138/gselements.14.4.251",
+            "title": "Nitrate Deposits of the Atacama Desert: A Marker of Long-Term Hyperaridity",
+            "year": 2018,
+            "oa_id": "W2884146553",
+            "cited": 36,
+            "type": "article",
+            "abs_len": 715,
+            "abstract": "The nitrate deposits of the Atacama Desert are unique when one considers that in most surface environments nitrate is produced or consumed by biological processes and is easily washed away by rain. Nitrate deposits have puzzled geologists since Charles Darwin's visit to the Atacama in 1835 and several hypotheses have been proposed to explain their origin. Here, we review our current understanding of the nitrate deposits in the Atacama Desert and show that nitrate's primary origin is predominantly atmospheric. However, its massive accumulation and preservation specifically in Atacama is due to the serendipitous convergence of climatic, tectonic and hydrologic conditions that are unique to the Central Andes.",
+            "slots": [
+              "hyperarid",
+              "arid"
+            ],
+            "host": "Elements"
+          },
+          {
+            "doi": "10.12976/jib/2025.73.2.2",
+            "title": "A new species and new records of Ectinogonia (Coleoptera: Buprestidae) from the Atacama Desert: Pushing the boundaries towards hyperaridity!",
+            "year": 2025,
+            "oa_id": "W4417178213",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 1487,
+            "abstract": "The genus Ectinogonia Spinola is a diverse group of jewel beetles of the western slope of Andes Cordillera. Recent expeditions to Atacama Desert find a new taxon of Ectinogonia in hyperarid environments, which is morphologically different from all previously described species, and new populations of Ectinogonia fastidiosa (Fairmaire & Germain) and Ectinogonia pruinosa Pineda & Mondaca bringing their range of distribution closer to the hyperarid core of the Atacama Desert. The aim of this work is to describe this new taxon of Ectinogonia using integrative taxonomy, combining external and genital morphology with molecular evidence. To establish differences between species, we compared the specimens from new localities with those morphologically and geographically closer taxa and analyzed genetic divergence with the mitochondrial gene Cytochrome Oxidase I. We also compared the genetic distance of the new populations with their conspecifics. The new species exhibit unique combinations of traits in their cuticle coloration, pronotal sculpture, pilosity and genital structures, as well as clear genetic distance (over 2.6%) from their closest relatives. Other species in the study area were E. pruinosa and E. fastidiosa, last one showing a very high morphological variability. These new explorations extend the known distribution of Ectinogonia closer to the hyperarid core of the Atacama Desert (22°S–24°S), a region previously considered a gap in their distributional range.",
+            "slots": [
+              "hyperarid",
+              "arid"
+            ],
+            "host": "Journal of Insect Biodiversity"
+          },
+          {
+            "doi": "10.18174/564760",
+            "title": "Evaporation in the Atacama Desert",
+            "year": 2022,
+            "oa_id": "W4220901694",
+            "cited": 0,
+            "type": "dissertation",
+            "abs_len": 1587,
+            "abstract": "Understanding evaporation in arid regions is essential for climate change assessment and optimizing water resources management under a changing climate. This thesis analyses the physical processes that govern local evaporation in a representative salt flat setting at the Altiplano region of the Atacama Desert. Such physical processes are analyzed from climatic to sub-diurnal scales. Moreover, regional (>100 km) to local (<1 km) scales are integrated, through the analysis of the ocean-desert circulation and its influences on the atmospheric boundary layer and surface fluxes. Firstly, findings show that wind-driven turbulence is the primary evaporation controller at the sub-diurnal scale, whereas radiation plays a major role at the seasonal scale. Secondly, at the local scale, surface fluxes are mainly controlled by mechanical turbulence, which is only present in the afternoon due to a regional-scale flow resulting from the thermal contrast between the cool Pacific Ocean and the warm Atacama Desert. Thirdly, the regional flow that triggers evaporation in the Altiplano origins from the marine boundary layer, whose stability regime dominates the formation of fog and the inland moisture transport. Finally, the role of surface heterogeneity on turbulent fluxes measurements is quantified at the sub-kilometer scale, where footprint and MOST functions play an important role. This thesis contributes to untangling and linking processes driving evaporation from local to regional-scale and from sub-diurnal to inter-annual scale, across confined saline lakes in arid regions.",
+            "slots": [
+              "arid",
+              "climate",
+              "formation"
+            ],
+            "host": null
+          }
+        ]
+      },
+      {
+        "query": "Atacama Desert formation aridity",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1002/joc.938",
+            "title": "The central Andean west‐slope rainshadow and its potential contribution to the origin of hyper‐aridity in the Atacama Desert",
+            "year": 2003,
+            "oa_id": "W2091311622",
+            "cited": 587,
+            "type": "article",
+            "abs_len": 1409,
+            "abstract": "The west slope of the central Andes exhibits a pronounced rainshadow effect. Precipitation between 15° and 27 °S is dominated by summer convective activity from Amazonia, and data analysis shows that the increase in precipitation with elevation due to the rainshadow effect best fits an exponential correlation. Coupling with limited data from high elevations suggests that the correlation is accurate to 4500 m above sea level (m a.s.l.) and perhaps to 5500 m a.s.l., suggesting that increased precipitation goes unrecorded over the peaks of the western Cordillera. South of 27 °S the precipitation is dominated by winter frontal sources and shows no well‐defined relationship with elevation. The core zone of hyper‐aridity in the Atacama Desert extends from 15 to 30 °S at elevations from sea level to 3500 m a.s.l. Although the Atacama Desert has existed since at least 90 Ma, it is considered that the initial onset of hyper‐aridity was most likely to have developed progressively with the uplift of the Andes as they reached elevations between 1000 to 2000 m a.s.l. coupled with the intensification of a cold, upwelling Peruvian Current between 15 and 10 Ma. Also apparent in the palaeogeographic record are subsequent fluctuations between (semi‐) arid to hyper‐arid conditions that were probably largely controlled by changes in orbital and oceanic forcing. Copyright © 2003 Royal Meteorological Society",
+            "slots": [
+              "arid",
+              "precipitation"
+            ],
+            "host": "International Journal of Climatology"
+          },
+          {
+            "doi": "10.1130/g21184.1",
+            "title": "Oligocene–Miocene age of aridity in the Atacama Desert revealed by exposure dating of erosion-sensitive landforms",
+            "year": 2005,
+            "oa_id": "W2125388221",
+            "cited": 505,
+            "type": "article",
+            "abs_len": 751,
+            "abstract": "The age of onset of hyperaridity in the Atacama Desert, Chile, which is needed to validate geological and climatological concepts, has been heretofore uncertain. Measurement of cosmogenic 21Ne in clasts from erosion-sensitive sediment surfaces in northern Chile shows that these surfaces have been barely affected by erosion since 25 Ma. Surface exposure ages of sediment clasts give replicate values at 25, 20, and 14 Ma and individual values at 37 and 9 Ma. Predominantly hyperarid conditions are required to preserve these oldest continuously exposed surfaces on Earth. Our findings are compatible with the hypothesis that the onset of aridity in the Atacama Desert could be the reason for, rather than the consequence of, uplift of the high Andes.",
+            "slots": [
+              "hyperarid",
+              "arid"
+            ],
+            "host": "Geology"
+          },
+          {
+            "doi": "10.1890/15-1152.1",
+            "title": "Enhanced facilitation at the extreme end of the aridity gradient in the Atacama Desert: a community‐level approach",
+            "year": 2016,
+            "oa_id": "W2462899698",
+            "cited": 57,
+            "type": "article",
+            "abs_len": 2243,
+            "abstract": "Plant facilitation is now recognized as an important process in severe environments. However, there is still no agreement on how facilitation changes as conditions become increasingly severe. The classic stress gradient hypothesis (SGH) predicts a monotonic increase in facilitation, which rises in frequency as conditions approach the extreme end of the environmental gradient. However, few studies have evaluated the validity of the SGH at the community level, the level at which it was formulated. Moreover, few studies have tested the SGH at either extreme of the gradient, and very few have excluded the effect of livestock on community response to stress. In line with the SGH, we hypothesized that several spatial pattern summary statistics would change monotonically from the least to the most arid sites, indicating increasingly aggregated patterns. In this study, we performed an evaluation of the SGH both within communities of shrub species and across a large portion of the Atacama Desert, and we isolated the abiotic component of the SGH. Our environmental gradient covered an extreme aridity gradient (< 20-130 mm annual precipitation). To perform point pattern analysis, we established 13 sites with environmental conditions representing four distinct levels of this gradient. Further, we conducted species co-occurrence analyses at 19 sites along the gradient. Both sets of analyses showed stronger positive spatial associations among plants at the most extreme end of the gradient. This was true regardless of whether we included all individuals, only small individuals located around large ones, or individuals in species pairs. Moreover, species tended to show greater co-occurrence as environmental severity increased. This increase in aggregation in the plant community seems to correlate with an increase in the strength of positive interspecific interactions, rather than greater clustering within each species. These monotonic increases in species co-occurrence and spatial association in more severe environments are consistent with some of the predictions of SGH, and collectively these results suggest that as the climate becomes more arid, positive species pairs interactions tend to be prevalent in the community.",
+            "slots": [
+              "arid",
+              "climate",
+              "precipitation"
+            ],
+            "host": "Ecology"
+          },
+          {
+            "doi": "10.1007/s00248-020-01672-w",
+            "title": "Spatial Variability of Microbial Communities and Salt Distributions Across a Latitudinal Aridity Gradient in the Atacama Desert",
+            "year": 2021,
+            "oa_id": "W3120072513",
+            "cited": 37,
+            "type": "article",
+            "abs_len": 1630,
+            "abstract": "Over the past 150 million years, the Chilean Atacama Desert has been transformed into one of the most inhospitable landscapes by geophysical changes, which makes it an ideal Mars analog that has been explored for decades. However, a heavy rainfall that occurred in the Atacama in 2017 provides a unique opportunity to study the response of resident extremophiles to rapid environmental change associated with excessive water and salt shock. Here we combine mineral/salt composition measurements, amendment cell culture experiments, and next-generation sequencing analyses to study the variations in salts and microbial communities along a latitudinal aridity gradient of the Atacama Desert. In addition, we examine the reshuffling of Atacama microbiomes after the rainfall event. Analysis of microbial community composition revealed that soils within the southern arid desert were consistently dominated by Actinobacteria, Chloroflexi, Proteobacteria, Firmicutes, Bacteroidetes, Gemmatimonadetes, Planctomycetes, and Acidobacteria, and Verrucomicrobia. Intriguingly, the hyperarid microbial consortia exhibited a similar pattern to the more southern desert. Salts at the shallow subsurface were dissolved and leached down to a deeper layer, challenging indigenous microorganisms with the increasing osmotic stress. Microbial viability was found to change with aridity and rainfall events. This study sheds light on the structure of xerotolerant, halotolerant, and radioresistant microbiomes from the hyperarid northern desert to the less arid southern transition region, as well as their response to changes in water availability.",
+            "slots": [
+              "hyperarid",
+              "arid"
+            ],
+            "host": "Microbial Ecology"
+          },
+          {
+            "doi": "10.3390/plants11111511",
+            "title": "Changes in Diversity and Community Composition of Root Endophytic Fungi Associated with Aristolochia chilensis along an Aridity Gradient in the Atacama Desert",
+            "year": 2022,
+            "oa_id": "W4281903016",
+            "cited": 17,
+            "type": "article",
+            "abs_len": 1599,
+            "abstract": "Despite the widespread occurrence of fungal endophytes (FE) in plants inhabiting arid ecosystems, the environmental and soil factors that modulate changes in FE diversity and community composition along an aridity gradient have been little explored. We studied three locations along the coast of the Atacama Desert in Chile, in which the plant Aristolochia chilensis naturally grows, and that differ in their aridity gradient from hyper-arid to semi-arid. We evaluated if root-associated FE diversity (frequency, richness and diversity indexes) and community composition vary as a function of aridity. Additionally, we assessed whether edaphic factors co-varying with aridity (soil water potential, soil moisture, pH and nutrients) may structure FE communities. We expected that FE diversity would gradually increase towards the aridity gradient declines, and that those locations that had the most contrasting environments would show more dissimilar FE communities. We found that richness indexes were inversely related to aridity, although this pattern was only partially observed for FE frequency and diversity. FE community composition was dissimilar among contrasting locations, and soil water availability significantly influenced FE community composition across the gradient. The results indicate that FE diversity and community composition associated with A. chilensis relate to differences in the aridity level across the gradient. Overall, our findings reveal the importance of climate-related factors in shaping changes in diversity, structure and distribution of FE in desert ecosystems.",
+            "slots": [
+              "arid",
+              "climate"
+            ],
+            "host": "Plants"
+          },
+          {
+            "doi": "10.18174/564760",
+            "title": "Evaporation in the Atacama Desert",
+            "year": 2022,
+            "oa_id": "W4220901694",
+            "cited": 0,
+            "type": "dissertation",
+            "abs_len": 1587,
+            "abstract": "Understanding evaporation in arid regions is essential for climate change assessment and optimizing water resources management under a changing climate. This thesis analyses the physical processes that govern local evaporation in a representative salt flat setting at the Altiplano region of the Atacama Desert. Such physical processes are analyzed from climatic to sub-diurnal scales. Moreover, regional (>100 km) to local (<1 km) scales are integrated, through the analysis of the ocean-desert circulation and its influences on the atmospheric boundary layer and surface fluxes. Firstly, findings show that wind-driven turbulence is the primary evaporation controller at the sub-diurnal scale, whereas radiation plays a major role at the seasonal scale. Secondly, at the local scale, surface fluxes are mainly controlled by mechanical turbulence, which is only present in the afternoon due to a regional-scale flow resulting from the thermal contrast between the cool Pacific Ocean and the warm Atacama Desert. Thirdly, the regional flow that triggers evaporation in the Altiplano origins from the marine boundary layer, whose stability regime dominates the formation of fog and the inland moisture transport. Finally, the role of surface heterogeneity on turbulent fluxes measurements is quantified at the sub-kilometer scale, where footprint and MOST functions play an important role. This thesis contributes to untangling and linking processes driving evaporation from local to regional-scale and from sub-diurnal to inter-annual scale, across confined saline lakes in arid regions.",
+            "slots": [
+              "arid",
+              "climate",
+              "formation"
+            ],
+            "host": null
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.1002/joc.938",
+      "title": "The central Andean west‐slope rainshadow and its potential contribution to the origin of hyper‐aridity in the Atacama Desert",
+      "year": 2003,
+      "oa_id": "W2091311622",
+      "cited": 587,
+      "type": "article",
+      "abs_len": 1409,
+      "abstract": "The west slope of the central Andes exhibits a pronounced rainshadow effect. Precipitation between 15° and 27 °S is dominated by summer convective activity from Amazonia, and data analysis shows that the increase in precipitation with elevation due to the rainshadow effect best fits an exponential correlation. Coupling with limited data from high elevations suggests that the correlation is accurate to 4500 m above sea level (m a.s.l.) and perhaps to 5500 m a.s.l., suggesting that increased precipitation goes unrecorded over the peaks of the western Cordillera. South of 27 °S the precipitation is dominated by winter frontal sources and shows no well‐defined relationship with elevation. The core zone of hyper‐aridity in the Atacama Desert extends from 15 to 30 °S at elevations from sea level to 3500 m a.s.l. Although the Atacama Desert has existed since at least 90 Ma, it is considered that the initial onset of hyper‐aridity was most likely to have developed progressively with the uplift of the Andes as they reached elevations between 1000 to 2000 m a.s.l. coupled with the intensification of a cold, upwelling Peruvian Current between 15 and 10 Ma. Also apparent in the palaeogeographic record are subsequent fluctuations between (semi‐) arid to hyper‐arid conditions that were probably largely controlled by changes in orbital and oceanic forcing. Copyright © 2003 Royal Meteorological Society",
+      "slots": [
+        "arid",
+        "precipitation"
+      ],
+      "host": "International Journal of Climatology"
+    }
+  },
+  "元代": {
+    "claim": "元代的行政、驿站与海运",
+    "records": [
+      {
+        "query": "Yuan dynasty state administration",
+        "results": 18,
+        "passed": []
+      },
+      {
+        "query": "Yuan empire transport communications",
+        "results": 18,
+        "passed": []
+      }
+    ],
+    "best": null
+  },
+  "意大利半岛": {
+    "claim": "意大利半岛的地质构造与地形",
+    "records": [
+      {
+        "query": "geology of Italy Apennines tectonics",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1130/2010.2469",
+            "title": "Geology and Tectonic Evolution of the Central-Southern Apennines, Italy",
+            "year": 2010,
+            "oa_id": "W4298223504",
+            "cited": 192,
+            "type": "book-chapter",
+            "abs_len": 693,
+            "abstract": "The Geological-Structural Map of the Central-Southern Apennines (Italy) 1 provides entirely revised and original cartography for a large sector of the orogenic belt that stretches along peninsular Italy. New data collected by the authors over the past 20 years, together with field revisions of published data, and available subsurface data are synthesized in two geological map sheets at scale 1:250,000 giving a regional overview of the stratigraphy, geometry, and structure of the Apenninic fold-and-thrust belt. The Apennines comprise a variety of lithotectonic assemblages that evolved through interaction between the African and European plates in the central Mediterranean, with: ( i...",
+            "slots": [
+              "geolog",
+              "tecton"
+            ],
+            "host": "Geological Society of America eBooks"
+          },
+          {
+            "doi": "10.1029/1998tc900019",
+            "title": "Recent tectonic evolution and present stress in the Northern Apennines (Italy)",
+            "year": 1999,
+            "oa_id": "W1976836127",
+            "cited": 110,
+            "type": "article",
+            "abs_len": 1699,
+            "abstract": "The present‐day stress field and its recent tectonic evolution in the Northern Apennines are reconstructed from borehole breakout analysis and focal mechanisms of crustal earthquakes and through the comparison with paleostress data. We have considered 86 wells for breakout analysis, with depths down to 6–7 km, 125 fault plane solutions of crustal earthquakes with M<5 that occurred between 1988 and 1995 in the Northern and Central Apennines, and data of stronger earthquakes (M≤6) reported in other studies. The Tyrrhenian coastal region and the Apenninic belt are characterized by Shmin direction mainly trending NE–SW, with predominantly normal fault plane solutions. Along the outer front of the belt and the Adriatic offshore, Shmin is oriented NW–SE, and focal solutions are thrust or strike‐slip, with maximum compression around NE–SW. Conversely, south of 43°N, breakouts evidence an orthogonal direction of horizontal compression (NW–SE), following the Southern Apennine trend, where a widespread NE–SW extension was recognized by previous investigations. Comparing these results to the recent tectonic evolution inferred from structural geology, we argue that the extension‐compression pair, characteristic of the post‐Tortonian evolution of the mountain belt, has been migrating in time from late Miocene to Present only in the northern sector of the arc, whereas the southern sector underwent a generalized extension, at least since middle Pleistocene. The striking correspondence between the active compression front and the region with evidence of a remnant subducted slab suggests that the migrating extension‐compression pair has been controlled by progressive retreat of the slab.",
+            "slots": [
+              "geolog",
+              "tecton"
+            ],
+            "host": "Tectonics"
+          }
+        ]
+      },
+      {
+        "query": "Italian peninsula geomorphology",
+        "results": 18,
+        "passed": []
+      }
+    ],
+    "best": {
+      "doi": "10.1130/2010.2469",
+      "title": "Geology and Tectonic Evolution of the Central-Southern Apennines, Italy",
+      "year": 2010,
+      "oa_id": "W4298223504",
+      "cited": 192,
+      "type": "book-chapter",
+      "abs_len": 693,
+      "abstract": "The Geological-Structural Map of the Central-Southern Apennines (Italy) 1 provides entirely revised and original cartography for a large sector of the orogenic belt that stretches along peninsular Italy. New data collected by the authors over the past 20 years, together with field revisions of published data, and available subsurface data are synthesized in two geological map sheets at scale 1:250,000 giving a regional overview of the stratigraphy, geometry, and structure of the Apenninic fold-and-thrust belt. The Apennines comprise a variety of lithotectonic assemblages that evolved through interaction between the African and European plates in the central Mediterranean, with: ( i...",
+      "slots": [
+        "geolog",
+        "tecton"
+      ],
+      "host": "Geological Society of America eBooks"
+    }
+  },
+  "河中地区": {
+    "claim": "河中地区的绿洲、灌溉与商路",
+    "records": [
+      {
+        "query": "Transoxiana oasis irrigation trade",
+        "results": 18,
+        "passed": []
+      },
+      {
+        "query": "Central Asia Samarkand Bukhara irrigation",
+        "results": 18,
+        "passed": []
+      }
+    ],
+    "best": null
+  },
+  "突厥": {
+    "claim": "突厥汗国的草原政治与扩张",
+    "records": [
+      {
+        "query": "Turkic khaganate steppe polity",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.4324/9781003256496-2",
+            "title": "The Earliest, Nomad Turkic Peoples of the Mongolian Steppe",
+            "year": 2023,
+            "oa_id": "W4384485896",
+            "cited": 0,
+            "type": "book-chapter",
+            "abs_len": 619,
+            "abstract": "This chapter looks into the origins and history of the earliest Turkic peoples, who resided in and dominated the Mongolian and Jungharian steppes as pastoral nomads up to the mid-ninth century CE: the Tiele (also known as Oghuz), who were the earliest known Turkic people or group of tribes in history; the Türks, who founded the first Turkic empire in history, the Türk Qaghanates (552–745), which dominated much of Inner Asia for nearly two centuries from 552 to 742 CE; the Uyghurs, a Tiele people who replaced the Türks as the dominant power in the steppe world and ruled in the Mongolian steppe from 744 to 840 CE.",
+            "slots": [
+              "steppe",
+              "empire"
+            ],
+            "host": "Routledge eBooks"
+          },
+          {
+            "doi": "10.60163/tkhcbva.1582773",
+            "title": "RELIGIOUS ATTITUDES OF CHACH OASIS NOMADS DURING THE PERIOD TURKIC KHAGANATE",
+            "year": 2025,
+            "oa_id": "W4411522344",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 2520,
+            "abstract": "Based on ancient sources, Turkologists have highlighted the shamanic nature of the religion of the early settled nomadic Turks. In later periods, researchers identified elements such as animism and totemism in the religious beliefs of the settled nomadic Turks, who had adopted only the elements of shamanism. In Central Asia, however, the situation presents a different reality when compared to the Eurasian steppe region in the early Middle Ages. Zoroastrianism, the dominant religion of that period, played an important role in this region. Additionally, various local cults were widespread in the early Middle Ages, with the cult of ancestor spirits being particularly prominent. Related beliefs, such as the death and resurrection of nature, as well as Buddhism, Manichaeism, and Christianity, also had an influence. In the Chach (Tashkent) region of Central Asia, differences in religious views have been observed since ancient times. By the early Middle Ages, this diversity had further increased. During this period, Zoroastrianism began to spread, and its symbols became clearly visible in funeral ceremonies. In almost every part of the Chach (Tashkent) region, funeral rites were conducted according to the ideological traditions of this religion. However, it is also a well-known fact that local traditions were enriched by new influences from the world of settled nomadic Turks. Moreover, the tradition of burying the dead with horses has existed in Uzbekistan since the 6th to 8th centuries, that is, since the period of the Turkic Khaganate. The ancient Turks considered the horse to be a creature that could speak and fly. The horse, which held an important place in daily life, later became a sacred object. Monuments to the horse totem have also been preserved in Uzbek traditions. In more recent times, when a wealthy person died, close family members and relatives would throw the deceased’s clothes onto a horse, walk around the animal, and recall the deceased's good qualities and deeds. Many families in the Fergana Valley, associated with the Kipchaks, were linked to the horse totem. The Kipchak families living in the region viewed the horse as a legendary breed and held it in high esteem. However, over time, the horse’s function changed, and it began to be sacrificed in funeral ceremonies, symbolically associated with the deceased. This study has been prepared to provide new insights into some forgotten traditions of the Chach (Tashkent) region during the period of the Turkic Khaganate.",
+            "slots": [
+              "khaganate",
+              "steppe"
+            ],
+            "host": "Türk Kültürü ve HACI BEKTAŞ VELİ Araştırma Dergisi"
+          }
+        ]
+      },
+      {
+        "query": "Gokturk empire expansion",
+        "results": 18,
+        "passed": []
+      }
+    ],
+    "best": {
+      "doi": "10.4324/9781003256496-2",
+      "title": "The Earliest, Nomad Turkic Peoples of the Mongolian Steppe",
+      "year": 2023,
+      "oa_id": "W4384485896",
+      "cited": 0,
+      "type": "book-chapter",
+      "abs_len": 619,
+      "abstract": "This chapter looks into the origins and history of the earliest Turkic peoples, who resided in and dominated the Mongolian and Jungharian steppes as pastoral nomads up to the mid-ninth century CE: the Tiele (also known as Oghuz), who were the earliest known Turkic people or group of tribes in history; the Türks, who founded the first Turkic empire in history, the Türk Qaghanates (552–745), which dominated much of Inner Asia for nearly two centuries from 552 to 742 CE; the Uyghurs, a Tiele people who replaced the Türks as the dominant power in the steppe world and ruled in the Mongolian steppe from 744 to 840 CE.",
+      "slots": [
+        "steppe",
+        "empire"
+      ],
+      "host": "Routledge eBooks"
+    }
+  },
+  "城市地理": {
+    "claim": "城市地理学的城市形态与结构研究",
+    "records": [
+      {
+        "query": "urban geography morphology structure",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.2747/0272-3638.25.3.264",
+            "title": "Exploring Metropolitan Accessibility and Urban Structure",
+            "year": 2004,
+            "oa_id": "W2017801654",
+            "cited": 132,
+            "type": "article",
+            "abs_len": 1236,
+            "abstract": "Location-based assessments of accessibility gauge the attraction of a place relative to other places. These approaches have been used extensively in models of commuting and urban structure. Even though locational accessibility measures are integral to such efforts, they may also be used to explore aspects of urban spatial structure. As such, this paper presents a GIS-based analysis of locational accessibility for a sample of U.S. metropolitan areas. Indices of accessibility based on spatial interaction models are developed for intraurban residential and employment locations. Results show that residential accessibility patterns are similar across cities, taking a concentric pattern where the central urban area is most attractive. However, employment accessibility varies more from city to city; moreover, the areas of highest employment accessibility tend to be decentralized within their respective regions. Overall, location-based accessibility indices are useful for exploring urban form, particularly with respect to issues of urban sprawl. Directions for future research are identified, including linking comparative urban accessibility measures to ongoing work on commuting, the jobs-housing balance, and urban structure.",
+            "slots": [
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Geography"
+          },
+          {
+            "doi": "10.2747/0272-3638.19.6.489",
+            "title": "THE SPATIAL STRUCTURE OF URBAN ETHNIC ECONOMIES",
+            "year": 1998,
+            "oa_id": "W1990501324",
+            "cited": 119,
+            "type": "article",
+            "abs_len": 1002,
+            "abstract": "Most studies of the economic activity of ethnic and immigrant groups have been conducted with little regard to their spatial conditions and consequences. At the same time, geographic concentration or clustering of residences and businesses is often cited as a significant element in the formation of ethnic economies. This paper argues that spatial location may operate as a defined resource in enhancing the prospects of ethnic businesses. Specifically, it examines how the geographical concentration of residences or the clustering of businesses may operate to incubate beginning businesses, foster linkages between businesses, increase the opportunities for the establishment of additional businesses, and serve as an economic and cultural focus for the ethnic community. The paper then speculates on how the spatial patterns generated by ethnic economic activity will vary depending on the type of resources utilized, the sectoral composition of the ethnic economy, and the maturity of the economy.",
+            "slots": [
+              "structure",
+              "urban"
+            ],
+            "host": "Urban Geography"
+          },
+          {
+            "doi": "10.2747/0272-3638.7.1.46",
+            "title": "THE CHANGING MORPHOLOGY OF SUBURBAN CRIME",
+            "year": 1986,
+            "oa_id": "W2069537947",
+            "cited": 10,
+            "type": "article",
+            "abs_len": 1191,
+            "abstract": "This paper examines the spatial dynamics of suburban crime. Four hypotheses are developed postulating a decreasing central city-suburb disparity in crime rates, persistence in the relative crime rates of individual suburbs, a growing heterogeneity in the levels of crime faced by individual suburbs, and an increasing regionalization of suburban crime. The hypotheses are tested through a case study of the Chicago metropolitan area. Property and violent crime rates are studied separately, and the time frame is 1972 to 1981. Central city and suburban crime rates are found to be converging in Chicago and the United States as a whole. Persistence in the relative crime rates of individual Chicago suburbs is significant but weak. Socioeconomic status dominates the process of change in the relative safety of suburbs-not suburban age, as anticipated. Low status suburbs tend to have high-crime rates, and their relative security is worsening over time; the opposite is true of high-status jurisdictions. This process of consolidated advantage is also occurring in a spatial sense; over time, suburban regions with initially safe environments appear able to reinforce their early advantage.",
+            "slots": [
+              "morpholog",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Geography"
+          },
+          {
+            "doi": "10.2747/0272-3638.19.8.679",
+            "title": "REPEAT HOMEBUYERS AND AMERICAN URBAN STRUCTURE",
+            "year": 1998,
+            "oa_id": "W2044339003",
+            "cited": 7,
+            "type": "article",
+            "abs_len": 890,
+            "abstract": "Housing and homeownership play a variety of roles in the United States. This paper explores the literature on American housing, residential mobility, urban development, jurisdictional fragmentation, urban decline, and spatial polarization in order to examine linkages among those aspects of American life. The paper also acts as an introduction to the context surrounding seven metropolitan areas that are the focus of this special issue of Urban Geography. The seven include Akron, Cincinnati, Cleveland, Columbus, Dayton, Toledo, and Youngstown. All of the cities are in Ohio, but they represent a range of urban conditions allowing conclusions about the national system. Three of the papers provide empirical explorations of the geography of repeat homebuying in these seven cities. The final paper returns to a national perspective to link the empirical results to the national context.",
+            "slots": [
+              "structure",
+              "urban"
+            ],
+            "host": "Urban Geography"
+          },
+          {
+            "doi": "10.2747/0272-3638.15.8.698",
+            "title": "CHANGES IN URBAN STRUCTURE IN BANGLADESH",
+            "year": 1994,
+            "oa_id": "W2169893267",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 778,
+            "abstract": "This paper examines the structural effects of colonization on city-size distribution in Bangladesh. It also explores how development policies of independent Bangladesh impacted subsequent patterns and trends of urbanization in the country. The urban structure is analyzed using rank-size plots, a rank-size regression model, and a rank-mobility index. The historical analysis of city rank-size relationships reveals the structural effect of the policies of the British to concentrate urban functions in few urban centers, the Pakistani period of primate-city development, and the deconcentration policies of the Bangladeshi period. The top few cities continue to dominate, irrespective of Bangladesh's government plan to reverse development polarization caused by urban primacy.",
+            "slots": [
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Geography"
+          },
+          {
+            "doi": "10.2747/0272-3638.8.5.405",
+            "title": "SETTLEMENT STRUCTURE AND URBAN DEVELOPMENT IN THE GDR, 1950–1985",
+            "year": 1987,
+            "oa_id": "W2032852548",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 832,
+            "abstract": "Does the GDR have a settlement structure and cities with a form? Though the pattern of urbanization and urban development over the last 35 years has not lived up to the or to the GDR's own ambitious plans, researchers generally agree that to at least some extent cities and the settlement structure of the GDR are both different from what they once were and from what they might have become under capitalism (Berentsen, 1982; Dwars, 1981; Heineberg, 1979; Richter, 1984; Rugg, 1986; SchEller, 1974, 1986a, 1986b; Wallert, 1974). This paper will review what the ideal socialist city and settlement system in the CDR was to have been and will then discuss actual conditions in the country and why these came to be. In the concluding section explicit comparisons will be made between cities in the CDR and those in the capitalist West.",
+            "slots": [
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Geography"
+          },
+          {
+            "doi": "10.1080/02723638.2025.2585112",
+            "title": "Beyond morphology- and population-centric definitions: the rural and the urban as governmental categories in Indonesia",
+            "year": 2025,
+            "oa_id": "W4416088387",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 753,
+            "abstract": "This short essay analyzes how the rural and the urban categories are employed in Indonesia as governmental categories. Less interested in proposing a new, clear-cut definition of the rural and the urban, it aims to unearth inscribed logics behind the categories that are not necessarily covered by morphology- or population-centric explanations. In doing so, it explores a range of cases in which the categories are worked in practice. It also examines the consequences that such deployments of these categories have brought to the politics of spatial governance, primarily in terms of power distribution, resource allocation, and how certain issues become overlooked. In the end, I suggest why possibly certain understandings of the categories persist.",
+            "slots": [
+              "morpholog",
+              "urban"
+            ],
+            "host": "Urban Geography"
+          }
+        ]
+      },
+      {
+        "query": "urban morphology city structure",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.1080/713657026",
+            "title": "Urban morphology and the shaping of the transmissable city",
+            "year": 2000,
+            "oa_id": "W2091542370",
+            "cited": 36,
+            "type": "article",
+            "abs_len": 992,
+            "abstract": "Some recent work in architecture has begun to think through the implications of an electronically mediated environment - both in terms of new forms of spaces and of changes to existing ones. New possibilities are read as resulting from these new technologies not only in terms of shaping buildings but also in terms of new ways of thinking about existing buildings. This paper traces the work of architects, such as Marcos Novak, who have used this opportunity to think through post-Euclidean architecture, his TransArchitecture. Mike Crang outlines the case made for seeing space as fluid, folded in complex dimensions and eventful. However, such an approach raises political questions about what a plural city might look like. This is explored through the ideas of Lebbeus Woods to suggest that instability of structure may be linked to a progressive politics. City shape, it is suggested, should be thought of a morphology, a logic of changing and transmission, rather than a static shape.",
+            "slots": [
+              "morpholog",
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "City"
+          },
+          {
+            "doi": "10.51347/jum.v6i2.3902",
+            "title": "The city as form and structure: the urban project in Italy from the 1920s to the 1980s",
+            "year": 2002,
+            "oa_id": "W4294300346",
+            "cited": 17,
+            "type": "article",
+            "abs_len": 806,
+            "abstract": "Since the end of the First World War Italian architecture has had an original and decisive impact on theories and methods of urban planning. The complexity of this impact emerges if one compares the various positions of those who have expressed a clear idea of the city and made careful observations on urban planning through systematic theories or empirical methodologies Some have assumed as a basis for their research the relation between building typology and urban morphology, while others have emphasized one specific aspect of the city. These various approaches have generated a diversity of project methods and tools. What links all these experiences is the desire to bring the urban question back to the realm of architecture: to bridge the divide between architecture and urbanism as disciplines.",
+            "slots": [
+              "morpholog",
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Morphology"
+          },
+          {
+            "doi": "10.51347/jum.v20i1.4053",
+            "title": "Muratorian urban morphology: the walled city of Ahmedabad",
+            "year": 2015,
+            "oa_id": "W4296550734",
+            "cited": 15,
+            "type": "article",
+            "abs_len": 535,
+            "abstract": "This paper investigates the complexity of the urban fabric, from the urban scale to the building and neighbourhood scale, by using the concepts and tools of urban morphology according to the Muratorian School. Specifically, basic concepts such as ‘urban polarities’, ‘routes hierarchical system’ and ‘building neighbourhood’ are used. They are deployed in the walled city of Ahmedabad, India, which has a rich architectural heritage clearly recognizable in Indo-Islamic monuments and particularly in aggregative structures called pols.",
+            "slots": [
+              "morpholog",
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Morphology"
+          },
+          {
+            "doi": "10.3390/land11010135",
+            "title": "Morphology of Warsaw City Structure Using Urban Indexes and GIS Tools",
+            "year": 2022,
+            "oa_id": "W4205951626",
+            "cited": 10,
+            "type": "article",
+            "abs_len": 1010,
+            "abstract": "The article presents the process of creating a tool using GIS systems to describe the city’s spatial structure. Therefore, the subject of this research was the method of describing the city structure using non-functional zoning, in conjunction with the use of urban indicators. Using the relationships between the values of urban indicators and individual typologies of buildings, they can be assigned to subsequent zones from the Rural-to-Urban Transect methodology. Therefore, in this article, urban indicators have been defined, thanks to which it is possible to distinguish different typologies of buildings. Next, the relationships between selected indicators and transect zones have been examined, and thanks to the obtained conclusions, transect zones for Warsaw have been defined. Finally, the spatial structure of a selected part of Warsaw has been described using these zones. The purpose of this study is also to initially assess the usefulness of the developed tool for the needs of urban planners.",
+            "slots": [
+              "morpholog",
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Land"
+          },
+          {
+            "doi": "10.3233/978-1-61499-365-0-234",
+            "title": "Urban Morphology and Architectural Design of City Edges and Vertical Connections in Historical Contexts",
+            "year": 2014,
+            "oa_id": "W808517800",
+            "cited": 10,
+            "type": "book-chapter",
+            "abs_len": 1043,
+            "abstract": "The papers considers, with a comparative approach, the architecture of vertical connections and city edges. We hypothesize that the city edge, when its elevation overwhelms the surrounding urban fabric, cannot be redesigned within a basic typological repertoire. This research considers the transformations of the edge in historical towns, taking into consideration the architectural models used and investigating the contextual deformations impressed. The design of vertical connections between different city levels redefines the image of the city from its meaningful points of view, changing the collectively recognized city image. A repertoire of models, divided into typologies according to the morphology of the site, is the base for a new theory outlining which parameters (i.e. measure, elevation, slope, and major urban nodes) to use to deform models in each context. The study cases range throughout the history of architecture, focusing on some pre-modern examples such as Laurana's Torricini façade in the Palazzo Ducale of Urbino.",
+            "slots": [
+              "morpholog",
+              "city",
+              "urban"
+            ],
+            "host": "IOS Press eBooks"
+          },
+          {
+            "doi": "10.3389/fpubh.2026.1744227",
+            "title": "Park morphology and urban structure for active living: a suburban case from Seongnam City",
+            "year": 2026,
+            "oa_id": "W7125549203",
+            "cited": 5,
+            "type": "article",
+            "abs_len": 2166,
+            "abstract": "Introduction: This study investigates how park morphology and built environments are associated with residents' physical activity in a suburban context, focusing on Seongnam City, South Korea. It further examines how these relationships differ between master-planned new towns and incrementally developed old towns, which reflect contrasting planning legacies and spatial structures. Methods: Using high-resolution spatial data and geocoded survey responses from 577 residents, the analysis incorporates morphological indicators-including edge complexity and pedestrian connectivity-alongside physical activity data from the International Physical Activity Questionnaire. Binary logistic regression models were applied separately for old and new towns to examine associations between park morphology and physical activity, controlling for sociodemographic, health, and perceptual variables. Results: The findings reveal marked spatial and behavioral inequities. Although old towns contain a larger total area of neighborhood parks, their location on steep slopes or at the urban fringe, combined with fragmented distribution of other park types, limits accessibility and routine use. Residents in old towns visit parks less frequently, rely more on vehicles for access, and report lower satisfaction with neighborhood and park environments. In contrast, new towns feature an interwoven green network with centrally located waterfront parks and evenly distributed small parks within residential superblocks, supporting higher accessibility, stronger user preference, and more frequent daily park use. In new towns, higher edge density and greater neighborhood park area were significantly associated with physical activity, corresponding to a 7% increase and tenfold higher odds of participation, respectively-associations not observed in old towns. Discussion: These results underscore that green space equity extends beyond mere provision to include spatial integration and usability. Promoting health through urban green space requires context-sensitive planning strategies that ensure equitable access and functional design across different neighborhood contexts.",
+            "slots": [
+              "morpholog",
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Frontiers in Public Health"
+          },
+          {
+            "doi": "10.51347/jum.v24i2.4095",
+            "title": "Assemblage and aggregation: reading the ancient city and urban composition methods",
+            "year": 2020,
+            "oa_id": "W4296970676",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 1105,
+            "abstract": "Some of the classical methods of analysis in urban morphology have been based on the reading of the historical city. Taking ancient Rome as an example, this paper examines how the reading of the ancient city also gave rise, from the Renaissance to the present, to different ways of designing modern urban form. In particular, the notion of aggregation, understood as a system of formative laws, gave rise to synthetic design methods tending to follow a continuing process. Today this statement seems far from obvious: indeed, one of the characteristics of contemporary culture seems to be the impossibility of a synthesis. The idea of assemblage, historically opposite and complementary to that of aggregation, is then examined. Intended as a gathering of autonomous and self-sufficient parts, this notion has had, and continues to have, great success among architects. It is suggested that the distinction between the two different methods of reading the ancient city, one based on morphological analysis and the other on perception, can contribute to understanding the current condition of urban design.",
+            "slots": [
+              "morpholog",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Morphology"
+          },
+          {
+            "doi": "10.26686/wgtn.17058044",
+            "title": "A Deleuze Theory of Urban Morphology: Brunei Water City",
+            "year": 2017,
+            "oa_id": "W4285331016",
+            "cited": 3,
+            "type": "dissertation",
+            "abs_len": 9340,
+            "abstract": "The impetus for this thesis was the theoretical shortcomings uncovered in the field of urban morphology and its French branch, IPRAUS, when the researcher first attempted to account for the form of the architecture in the case study of Brunei’s water city. In this thesis’ first part, this field of study is critiqued, and a series of gaps in its theoretical framework are found. This thesis contests the main assumption of the field that there is a relation between the social and the production of architecture. The questions this thesis aims to understand are: how and why do people build their space the way they do? How do we think about the social and ecological relations that create subjects and bodies? How do we think about how the society is organized and organizes subject? How do we theorise and explore how society produces architecture and subjects? How do we conceive how subjects produce architecture and societies? This leads to call for the establishment of a new philosophical base for urban morphology. The thesis then argues that work in other disciplines points toward Deleuze’s philosophy as a means through which to understand the reasons for the production of space. This philosopher provides ways to engage with a site, to create new research methodologies and to analyse and report findings. However, study with Deleuze, in the field of architecture, is still very much in its infancy. As such, this thesis offers an experimental, original work that explores how we might think about Deleuze, how we might bring Deleuze from philosophy to architecture and how we might convey Deleuze’s philosophical thinking through an application in a particular site. The two sets of critiques, of urban morphology and of Deleuze studies in architecture, establish the two goals of this research: one theoretical, the other practical. The first goal is to develop the means to provide a better account of architectural and urban form. More specifically, this thesis investigates how Deleuzian theory might be suitable for urban morphology studies. The second goal is to experiment with the proposed theory in the study of an actual site, the water city of Brunei Darussalam. The intention of the second goal is to explore the effectiveness of the first. The second part of the thesis aims to ground the understanding of a series of elements of Deleuze’s philosophical system chosen for their relevance to study the production of architecture in relation to the social. The methodology of study follows Anne Sauvagnargue’s proposed process of understanding Deleuze’s philosophy. It is a step by step work that uncovers the fundamental elements of this philosophy in his early works. These are little known to the architecture field. These findings then ground the philosophy of Deleuze and Guattari which has created an ontology and concepts which may be applied to the analysis of concrete social formations and their production. In this ontology, put simply, the world is understood as composed of forces. This thesis put forth that these are social, cultural, political forces—what is term power and desire forces, and ecological forces—that relate to organic and non-organic, human and non-human forces. A first major contribution to this thesis is Deleuze and Guattari’s proposal of the concept of assemblage as the fundamental element of analysis. Assemblages are composed of forces; they have a certain power—an intensity and an ability to do, and a sense that comes with this power—an ‘incorporeal transformation’. An incorporeal transformation is ‘attributed to bodies’. The second contribution is Deleuze’s philosophy of immanence and its related philosophy of time. These allow researchers to conceive how assemblages are composed, formed and dissolved, and how they function. Assemblages are not fixed in time; as forces they assemble, produce, but also always look for better opportunities. They always become; and at a point in time, they disassemble and recompose into different assemblages; that is life. From this work on Deleuze’s philosophy, this thesis proposes an ontology and a research design to study architecture in relationship to what we tend to understand as social, cultural, political, and ecological forces. It is defined that the form of architecture is part of assemblages, form-as-part-of-assemblage, in relationship with other assemblages. This thesis proposes to understand architecture-as-part-of-life. And a major shift that this thesis proposes for within urban morphology is not to give meaning to the form, but to give sense to it. To give sense is to find a series of expressions that relate to these social and ecological forces. Another outcome of this thesis is a research methodology termed a genealogical inquiry. It is a way of researching in time and space, transversally, the assembling and disassembling of all these forces which-architecture-is-part-of. The aim of this methodology is to understand and explain the form, process of formation, of architecture, and to give sense to these by describing a series of expression to forces. The third part of this thesis experiments with this research framework in the site of Brunei’s water city. The genealogical inquiry defines three main eras of the relationship between the forces of interest. The first era concerns the period before the arrival of European powers in Southeast Asia. In this period, this thesis established two elements of importance. First, there is a significant impact of the political and the religious forces in the formation of the social organisation. If was found that there is an emphasis on the politic of the family group, the close and extended family. Also, there is the discovery that the social is organised in a strict hierarchy of ‘social assemblages’ following a nobility system, with at the top a Raja/Sultan. Second, there is a great importance of the relationship of the social with the water. This relationship shapes the economy, the relation to other cultures, and social formations. Having given expressions to all these forces, the thesis argues that these as they are shaped, in parallel shape the form, process of formation, of the diversity of architecture. Brunei is built in the water, and the forms of the diversity of urban area reflects the powers and the opportunities that are acting in the social field in relation to ecological forces. What is associated to social and environmental forces shapes the built environment. The second era happened when European powers took over the region. As they did so, they transformed the political system at the top only, and changed fundamentally the economic system. The thesis proposes that even if the form and diversity of architecture seem to remain the same as the previous era, a different sense to the form has arisen. This thesis’ description of the new composition of all the forces at play revealed this new sense. The third era came forth with two factors. First, the colonial power gave back to the head of Brunei’s social system, the Sultan, all the country’s powers: political, economic and religious. The second factor was the change in the world economic system and its dependence on oil. Within an IPRAUS urban morphology framework, the meaning of Brunei water city’s current diversity of architecture would be given as follows: it is a form that is a modern vernacular form with the basis of that form being the form of the past, actualised by modern practices. This thesis, however, proposes different findings: The diversity of architecture carries a different sense that reflects the struggles between political powers and subjects taking opportunities that are present. There is more than the form. The forces at play reflect the Sultan’s will to rectify the water city because the city is dying, slowly disappearing. The social fabric of the villages is dissolving, and so is its architectural fabric. Once only comprising only financially-independent Bruneian families, the water city now houses only poor Bruneians that cannot access the mainland or its economy, and immigrants that have found cheap accommodation and an entry into that economy. The sense of the water city’s diversity of architecture is thus better understood by giving expression to the interplay of all these different forces: the form of architectures—built in the past, along with that lived by the lives of today. This thesis conclusion theorises how the philosophical and experimental findings of this research might open a different approach to discussing and studying architecture than the current approaches offered in urban morphology and through IPRAUS. By returning to a discussion of the questions: How do we “explain the form, process of formation and diversity of urban areas [?]” (Kropf, 1993, 3), and ‘how do we theorise the relationship between the social and the architectural in urban morphology?’ the thesis identifies an ecology of problems, concepts and presumptions. It proposes that Deleuzian philosophical concepts allow the limitations of current approaches to be transcended. Finally, by drawing on examples of the analysis of Brunei’s water city, the thesis emphasises a shift in ontology and method, which may be of use to others in broader efforts to work transversally within urban morphology in the future.",
+            "slots": [
+              "morpholog",
+              "city",
+              "urban"
+            ],
+            "host": "Open Access Victoria University of Wellington | Te Herenga Waka (Figshare)"
+          },
+          {
+            "doi": "10.4995/isuf2017.2017.5115",
+            "title": "Researching the morphology of the city’s internal micro structure: UPM Urban Parterre Modelling",
+            "year": 2017,
+            "oa_id": "W2810826655",
+            "cited": 3,
+            "type": "conference-paper",
+            "abs_len": 2727,
+            "abstract": "As conventional cadastral maps only show building perimeters, they contain no information about the city’s internal structure—about the complex interplay of architecture and its socio-economical use. Thus urban planning seems to spare little thought for what really takes place inside the buildings lining a street, although we perfectly know that the potentials of ground floor use and the structure of the correlating public street space are directly related. The Urban Parterre Modelling UPM-method refers to the city’s “parterre” as a holistic urban system: it covers both built-up and non-built-up areas. Thus street, ground floor and courtyard are treated as entity, so that their interrelations can come to light. Technically the method represents the merging of a common 3D-city-model and a Comprehensive Ground Plan Survey CGPS—a researching technique used in the 1960s until the 1990s (mostly in Italy and Switzerland). This new urban research method has been developed and tested in a pilot study by means of an in depth exploration of an exemplary historical street in Vienna. In September 2015 a new four years research program was financed by the Austrian Science Fund (Austria's central funding organization for basic research, FWF) and launched at the Department of Urban Design at Vienna University of Technology. Within this operational framework a variety of different street-level environments in Vienna are being examined. Given this perspective the paper is therefore addressing the following issues: How was the Viennese ground level originally used? Which urban functions were located there? What are the (historical) interrelations between public space and the life inside buildings? How does this micro system influence urban life and especially pedestrian behaviour?References: CANIGGIA, G. (1986): “Lettura di Firenze – Strukturanalyse der Stadt Florenz”. In Malfroy/ Caniggia: Die morphologische Betrachtungsweise von Stadt und Territorium. Zürich: ETH, Lehrstuhl f. Städtebaugesch. MALFROY, S. (1986): „Die morphologische Betrachtungsweise von Stadt und Territorium“. Zürich : ETH, Lehrstuhl f. Städtebaugeschichte MURATORI, S. (1960): Studi per un operante storia urbana di Venezia. Roma: Istituto Poligrafico dello Stato PETERS, M. (1990): „Stadtgrundriss als Arbeitsinstrument: dem Mittelalter auf der Spur“. In: Hochparterre 1990/4, 30-31 (http://dx.doi.org/10.5169/seals-119191) accessed 23.10.2017 PETERS, M. (1999b): „Elektronische Erfassung eines Industriequartiers: zusammenhängende Grundrissaufnahme in Zürich, ein Experiment“. In: Schweizer Ingenieur und Architekt, Vol.117, 779-784. RUEGG, A. (ed.) (1975): Materialien zur Studie Bern. 4. Jahreskurs 1974/75. Zurich: ETH/Schnebli/Hofer",
+            "slots": [
+              "morpholog",
+              "structure",
+              "city",
+              "urban"
+            ],
+            "host": "Proceedings 24th ISUF 2017 - City and Territory in the Globalization Age"
+          },
+          {
+            "doi": "10.51347/um27.0001",
+            "title": "The flexible urban grid: adaptation, expansion and evolution in Philadelphia's city block morphology",
+            "year": 2023,
+            "oa_id": "W4327723700",
+            "cited": 1,
+            "type": "article",
+            "abs_len": 1344,
+            "abstract": "This study examines the evolution of Philadelphia’s city block morphology between 1683, when the city was planned by William Penn, and 1900, when urban expansion abandoned the grid. The study uses both quantitative and qualitative assessment. The city grid underwent evolution during this time that resolved deficiencies of the original Penn plan, improving circulation and maximizing block area for rowhouse development. The Penn grid had large rectilinear blocks with irregular dimensions: it experienced two types of evolution. The first was adaptation through infill, as large 1683 blocks were subdivided by secondary through streets and tertiary streets. The second was adaptation through expansion of the grid, first an irregular, ‘unplanned’ grid, and later a regular, ‘planned’ grid. Both expansions reduced 1683 block depths to permit additional east-west circulation and to increase developable block frontage. Mean block depths of 666 ft in the Penn grid were reduced to 383 ft in the adapted grid, to 328 ft (south) and 393ft (north) in the unplanned expansion grid, and to 422 ft (south) and 534 ft (north) in the planned expansion grid. In the expansion grid, tertiary streets and rowhouse dimensions and heights were integrated with quaternary streets (pedestrian alleys), permitting high levels of housing density and diversity.",
+            "slots": [
+              "morpholog",
+              "city",
+              "urban"
+            ],
+            "host": "Urban Morphology"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.2747/0272-3638.25.3.264",
+      "title": "Exploring Metropolitan Accessibility and Urban Structure",
+      "year": 2004,
+      "oa_id": "W2017801654",
+      "cited": 132,
+      "type": "article",
+      "abs_len": 1236,
+      "abstract": "Location-based assessments of accessibility gauge the attraction of a place relative to other places. These approaches have been used extensively in models of commuting and urban structure. Even though locational accessibility measures are integral to such efforts, they may also be used to explore aspects of urban spatial structure. As such, this paper presents a GIS-based analysis of locational accessibility for a sample of U.S. metropolitan areas. Indices of accessibility based on spatial interaction models are developed for intraurban residential and employment locations. Results show that residential accessibility patterns are similar across cities, taking a concentric pattern where the central urban area is most attractive. However, employment accessibility varies more from city to city; moreover, the areas of highest employment accessibility tend to be decentralized within their respective regions. Overall, location-based accessibility indices are useful for exploring urban form, particularly with respect to issues of urban sprawl. Directions for future research are identified, including linking comparative urban accessibility measures to ongoing work on commuting, the jobs-housing balance, and urban structure.",
+      "slots": [
+        "structure",
+        "city",
+        "urban"
+      ],
+      "host": "Urban Geography"
+    }
+  },
+  "地理信息系统": {
+    "claim": "GIS 的空间分析与决策支持",
+    "records": [
+      {
+        "query": "geographic information system spatial analysis",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.7176/jees/10-8-07",
+            "title": "Spatial Analysis Flood Risk Exposure in Ajeokuta Using Geographic Information System (GIS)",
+            "year": 2020,
+            "oa_id": "W3081988272",
+            "cited": 0,
+            "type": "article",
+            "abs_len": 2004,
+            "abstract": "Heavy floods in Nigeria have shown increasing trend in recent year s . Ajeokuta is one of the areas affected annually by flood due to its location along the river Niger basin. Flood risk mapping and analysis are vital elements for appropriate land use planning in flood prone areas. The aim of this paper is to demarcate flood risk potential areas and determine the spatial impact of the recent major flood event in Ajeokuta using Remote Sensing and GIS techniques. Identified flood inducing factors in the study area, such as slope, elevation, drainage density, proximity to the river and land use were reclassified and combined to delineate flood risk zones using multi-criteria approach in a GIS environment. The idea was to identify the areas with the highest number of flood inducing factors and assess its proximity to the inundated areas during the recent flood events as a criteria for determination of locations for future flood events. Moderate resolution imaging spectroradiometre (MODIS) data of NASA terra satellite, SRTM, Landsat image with resolution of 30m, geographical map of the study area and geographical information system (GIS) were used for this purpose. Each of the flood indicators was reclassified into four which included high risk, moderately risk, low risk, and no risk through ranking process. Flood risk map (FRM) was later generated by overlaying the reclassified maps of all the parameters using addition operator and validated with a view to assisting decision makers on the menace posed by the disaster. The flood risk map revealed that the very high risky places covered area of 376.31 square kilometers (27.63%) while high risky covered 322.88 square kilometers (23.71%), The low risky areas covered 151.76 square kilometers (11.14%) and areas free from risk covers 511.040 square kilometers (37.52%). This analysis further revealed that 56 settlements are within the very high risk zone these includes Geregu, Gbokojo, Adogu, upake, Adogo, Achaga, Badogo, upaga etc",
+            "slots": [
+              "spatial",
+              "analysis",
+              "decision",
+              "information system"
+            ],
+            "host": "Journal of environment and earth science"
+          }
+        ]
+      },
+      {
+        "query": "GIS spatial decision support",
+        "results": 18,
+        "passed": [
+          {
+            "doi": "10.2104/ag060017",
+            "title": "Spatial (GIS-based) decision support system for the Westernport region",
+            "year": 2006,
+            "oa_id": "W4230464905",
+            "cited": 4,
+            "type": "article",
+            "abs_len": 1603,
+            "abstract": "This paper presents the conceptual design of a spatial decision support system (SDSS) proposed for Victorias Westernport region that aims for the sustainable and integrated (whole-of-catchment) management of regional natural resources. It is a solution integrating a range of approaches including, GIS technology, a scenario management tool, state-of-art terrestrial and marine models, environmental management strategy evaluation and multi-criteria techniques.Traditionally, GIS are key to (spatial) data management, but lack problem domain modelling capability. This means additional processing or analytical capabilities are needed to extend functionality for decision making. The Westernport SDSS builds upon a GIS but draws on models and data processing systems and interacts with other parts of an overall information system to support decision-making. This system utilises a number of models that are interlinked through a cascade of their results. Put simply, one set of model results input into the next in a modelling chain. The system will derive a set of socio-economic-environmental measures (performance indicators), such as land use, nutrient and sediment concentration in water (water quality measures), and other relevant indicators for coastal and bay ecosystems. Users will then be able to systematically compare alternative natural resource management plans and strategies in light of multiple and possibly conflicting criteria. By integrating relevant models within a structured framework, the system will promote transparency of policy development and natural resources management.",
+            "slots": [
+              "spatial",
+              "decision",
+              "information system"
+            ],
+            "host": "Applied GIS"
+          },
+          {
+            "doi": "10.5772/39460",
+            "title": "Spatial Decision Support System for Bank-Industry Based on GIS and Expert Systems Integration",
+            "year": 2010,
+            "oa_id": "W1521356713",
+            "cited": 2,
+            "type": "book-chapter",
+            "abs_len": 1027,
+            "abstract": "Integration of GIS and ES aims to help location decision-making for the banking sector. Through the GIS it was possible gathering the needed data for spatial analysis, storing the order of importance of spatial variables, and viewing a combination of the different data. The GIS has helped to expand the possibilities of spatial analysis for the selection of the region. The ES gives the definition of order of importance of symbolic variables, which were defined and accepted by all experts, and storages the sequence of reasoning, so that no variable was ignored or even forgotten during the process of selection of the spot. Some symbolic variables were, by the same specialist, now considered in the assessment of a property, sometimes not considered, showing lack of a sequence of reasoning. The task of selecting the best property was prepared by experts in a subjective manner. Realty Prospecting System shows, at the end of the consultation for each property a note that identifies which one obtained the highest score.",
+            "slots": [
+              "spatial",
+              "analysis",
+              "decision"
+            ],
+            "host": "InTech eBooks"
+          }
+        ]
+      }
+    ],
+    "best": {
+      "doi": "10.2104/ag060017",
+      "title": "Spatial (GIS-based) decision support system for the Westernport region",
+      "year": 2006,
+      "oa_id": "W4230464905",
+      "cited": 4,
+      "type": "article",
+      "abs_len": 1603,
+      "abstract": "This paper presents the conceptual design of a spatial decision support system (SDSS) proposed for Victorias Westernport region that aims for the sustainable and integrated (whole-of-catchment) management of regional natural resources. It is a solution integrating a range of approaches including, GIS technology, a scenario management tool, state-of-art terrestrial and marine models, environmental management strategy evaluation and multi-criteria techniques.Traditionally, GIS are key to (spatial) data management, but lack problem domain modelling capability. This means additional processing or analytical capabilities are needed to extend functionality for decision making. The Westernport SDSS builds upon a GIS but draws on models and data processing systems and interacts with other parts of an overall information system to support decision-making. This system utilises a number of models that are interlinked through a cascade of their results. Put simply, one set of model results input into the next in a modelling chain. The system will derive a set of socio-economic-environmental measures (performance indicators), such as land use, nutrient and sediment concentration in water (water quality measures), and other relevant indicators for coastal and bay ecosystems. Users will then be able to systematically compare alternative natural resource management plans and strategies in light of multiple and possibly conflicting criteria. By integrating relevant models within a structured framework, the system will promote transparency of policy development and natural resources management.",
+      "slots": [
+        "spatial",
+        "decision",
+        "information system"
+      ],
+      "host": "Applied GIS"
+    }
+  }
+}

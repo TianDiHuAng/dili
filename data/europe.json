@@ -342,16 +342,17 @@
         "wikipedia-regions",
         "s038-earthobservatory-nasa-gov",
         "openalex-W2087928538",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4298223504"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2087928538（1975年，「Paleomagnetic evidence for rotation of the Italian Peninsula」，DOI https://doi.org/10.1029/jb080i011p01579）；年代以「地质尺度（新生代以来）；本条引 1975 年古地磁研究」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Paleomagnetic evidence for rotation of the Italian Peninsula》研究的是古地磁记录的半岛旋转（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。",
+      "pending_notes": "第17轮复核：南欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2087928538（1975年，「Paleomagnetic evidence for rotation of the Italian Peninsula」，DOI https://doi.org/10.1029/jb080i011p01579）；年代以「地质尺度（新生代以来）；本条引 1975 年古地磁研究」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Paleomagnetic evidence for rotation of the Italian Peninsula》研究的是古地磁记录的半岛旋转（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第53轮补主来源（strong）】openalex-W4298223504（2010年，《Geology and Tectonic Evolution of the Central-Southern Apennines, Italy》，DOI 10.1130/2010.2469，被引 192）：待支撑断言「意大利半岛的地质构造与地形」；主题槽命中 ['geolog', 'tecton']；已在本条 geo 段落点。 【第53轮返工】① 所引摘要于 693 字符处被截断（末尾 `with: ( i...`），未含结论句，D088/D092 的「读到结论句」客观上无法完成——须读全文，备注如实声明；② 文献只覆盖中南部亚平宁，落点已限定；③ geo 补「地质上属亚平宁褶皱—逆冲造山带」一句。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-24",
-      "geo": "半岛以亚平宁山脉为脊，山系两侧分别为狭窄的沿海平原；北部为波河平原，南部多山与河谷。地中海气候在半岛南北差异明显，山地与谷地构成多样的农业带。",
+      "geo": "半岛以亚平宁山系为脊、两侧分别为狭窄的沿海平原；北部为波河平原，南部多山与河谷。地质上属亚平宁褶皱—逆冲造山带（所引 2010 年研究基于中南部 1:250,000 实测地质图，覆盖中南部而非全半岛）。地中海气候在半岛南北差异明显，山地与谷地构成多样的农业带。",
       "influence": "山脊与平原的狭长格局使交通沿谷地与海岸展开，历史上南北向的干道沿海岸与亚平宁两侧延伸；地形对政治整合的阻碍在半岛史上反复出现。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经阿尔卑斯山口连接中欧，经地中海航线连接东岸与北非，是地中海东西航路的中点。",
