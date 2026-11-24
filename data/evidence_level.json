@@ -542,9 +542,9 @@
       "tier": "核心"
     },
     "隋唐": {
-      "level": "C",
+      "level": "B",
       "counts": {
-        "strong": 0,
+        "strong": 1,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -662,9 +662,9 @@
       "tier": "重要"
     },
     "室利佛逝": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -674,9 +674,9 @@
       "tier": "补充"
     },
     "满者伯夷": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1706,9 +1706,9 @@
       "tier": "重要"
     },
     "澳大利亚原住民": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 2,
@@ -1826,9 +1826,9 @@
       "tier": "重要"
     },
     "太平洋殖民航线": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1886,9 +1886,9 @@
       "tier": "重要"
     },
     "横贯南极山脉": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1910,9 +1910,9 @@
       "tier": "核心"
     },
     "罗斯海": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -1934,9 +1934,9 @@
       "tier": "重要"
     },
     "南极科考站": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2054,9 +2054,9 @@
       "tier": "重要"
     },
     "沙漠化": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,9 +2919,9 @@
     }
   },
   "summary": {
-    "A": 166,
-    "B": 63,
-    "C": 1,
+    "A": 174,
+    "B": 56,
+    "C": 0,
     "D": 13
   },
   "definition": {

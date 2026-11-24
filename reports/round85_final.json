@@ -1,0 +1,435 @@
+{
+  "results": {
+    "沙漠化": {
+      "cand": [
+        {
+          "oid": "W4408089654",
+          "title": "Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World",
+          "year": 2025,
+          "cited": 30,
+          "abs_len": 1412,
+          "slots": [
+            "desertification",
+            "dryland",
+            "degradation",
+            "global",
+            "assess"
+          ],
+          "doi": "10.1111/gcb.70102"
+        },
+        {
+          "oid": "W7119539082",
+          "title": "Coupled pollution and water scarcity heighten ecological degradation and social vulnerability in global dryland rivers",
+          "year": 2026,
+          "cited": 17,
+          "abs_len": 1800,
+          "slots": [
+            "dryland",
+            "degradation",
+            "global",
+            "assess"
+          ],
+          "doi": "10.1016/j.envres.2026.123708"
+        },
+        {
+          "oid": "W3099230973",
+          "title": "International Activities Related to Dryland Degradation Assessment and Drought Early Warning",
+          "year": 2005,
+          "cited": 0,
+          "abs_len": 2276,
+          "slots": [
+            "desertification",
+            "dryland",
+            "degradation",
+            "assess"
+          ],
+          "doi": "10.1093/oso/9780195162349.003.0045"
+        }
+      ],
+      "n": 8
+    },
+    "横贯南极山脉": {
+      "cand": [
+        {
+          "oid": "W2058359525",
+          "title": "The Transantarctic Mountains of southern Victoria Land: The application of apatite fission track analysis to a rift shoulder uplift",
+          "year": 1992,
+          "cited": 249,
+          "abs_len": 2406,
+          "slots": [
+            "transantarctic",
+            "uplift",
+            "mountain"
+          ],
+          "doi": "10.1029/91tc02495"
+        },
+        {
+          "oid": "W2091566445",
+          "title": "Flexural uplift of the Transantarctic Mountains",
+          "year": 1989,
+          "cited": 217,
+          "abs_len": 2428,
+          "slots": [
+            "transantarctic",
+            "uplift",
+            "mountain"
+          ],
+          "doi": "10.1029/jb094ib08p10315"
+        },
+        {
+          "oid": "W2487255000",
+          "title": "Geology of the Central Transantarctic Mountains",
+          "year": 1986,
+          "cited": 92,
+          "abs_len": 741,
+          "slots": [
+            "transantarctic",
+            "geolog",
+            "mountain"
+          ],
+          "doi": "10.1029/ar036"
+        }
+      ],
+      "n": 10
+    },
+    "罗斯海": {
+      "cand": [
+        {
+          "oid": "W3011544217",
+          "title": "Quaternary Benthic Foraminiferal Distribution in the Ross Sea, Antarctica, and Its Relationship to Oceanography.",
+          "year": 1999,
+          "cited": 3,
+          "abs_len": 2278,
+          "slots": [
+            "ross sea",
+            "oceanograph",
+            "ice shelf",
+            "sea"
+          ],
+          "doi": "10.31390/gradschool_disstheses.7006"
+        },
+        {
+          "oid": "W2135119765",
+          "title": "Tides of the Ross Sea and Ross Ice Shelf cavity",
+          "year": 2003,
+          "cited": 127,
+          "abs_len": 1216,
+          "slots": [
+            "ross sea",
+            "ice shelf",
+            "sea"
+          ],
+          "doi": "10.1017/s0954102003001032"
+        },
+        {
+          "oid": "W2079925607",
+          "title": "Early winter ice and snow thickness distribution, ice structure and development of the western Ross Sea pack ice between the ice edge and the Ross Ice Shelf",
+          "year": 1997,
+          "cited": 78,
+          "abs_len": 2082,
+          "slots": [
+            "ross sea",
+            "ice shelf",
+            "sea"
+          ],
+          "doi": "10.1017/s0954102097000242"
+        }
+      ],
+      "n": 12
+    },
+    "南极科考站": {
+      "cand": [
+        {
+          "oid": "W2017741426",
+          "title": "On thick ice: scientific internationalism and Antarctic affairs, 1957–1980",
+          "year": 2008,
+          "cited": 45,
+          "abs_len": 1025,
+          "slots": [
+            "antarctic",
+            "research",
+            "scientific",
+            "base"
+          ],
+          "doi": "10.1080/07341510802357419"
+        },
+        {
+          "oid": "W2325413204",
+          "title": "Antarctic Research Stations: Parallels for Interplanetary Design",
+          "year": 2010,
+          "cited": 11,
+          "abs_len": 759,
+          "slots": [
+            "antarctic",
+            "station",
+            "research",
+            "scientific"
+          ],
+          "doi": "10.2514/6.2010-6106"
+        },
+        {
+          "oid": "W4390535519",
+          "title": "Mapping Renewable Energy among Antarctic Research Stations",
+          "year": 2024,
+          "cited": 11,
+          "abs_len": 1204,
+          "slots": [
+            "antarctic",
+            "station",
+            "research",
+            "base"
+          ],
+          "doi": "10.3390/su16010426"
+        }
+      ],
+      "n": 9
+    },
+    "太平洋殖民航线": {
+      "cand": [
+        {
+          "oid": "W2204248832",
+          "title": "Lapita and Western Pacific Settlement: Progress, prospects and persistent problems",
+          "year": 2007,
+          "cited": 35,
+          "abs_len": 441,
+          "slots": [
+            "lapita",
+            "pacific",
+            "expansion"
+          ],
+          "doi": "10.22459/ta26.2007.01"
+        },
+        {
+          "oid": "W586993775",
+          "title": "Oceanic Explorations (TA26) : Lapita and Western Pacific Settlement",
+          "year": 2007,
+          "cited": 155,
+          "abs_len": 957,
+          "slots": [
+            "lapita",
+            "pacific"
+          ],
+          "doi": "10.26530/oapen_459398"
+        },
+        {
+          "oid": "W2994647398",
+          "title": "The ceramic trail: Evaluating the Marianas and Lapita West Pacific connection",
+          "year": 2019,
+          "cited": 47,
+          "abs_len": 995,
+          "slots": [
+            "lapita",
+            "pacific"
+          ],
+          "doi": "10.22459/ta52.2019.02"
+        }
+      ],
+      "n": 11
+    },
+    "室利佛逝": {
+      "cand": [
+        {
+          "oid": "W4246900254",
+          "title": "Srivijaya, Kingdom of",
+          "year": 2016,
+          "cited": 3,
+          "abs_len": 932,
+          "slots": [
+            "srivijaya",
+            "maritime",
+            "state",
+            "palembang"
+          ],
+          "doi": "10.1002/9781118455074.wbeoe155"
+        },
+        {
+          "oid": "W4212959156",
+          "title": "Srivijaya",
+          "year": 2022,
+          "cited": 3,
+          "abs_len": 1339,
+          "slots": [
+            "srivijaya",
+            "maritime",
+            "state",
+            "palembang"
+          ],
+          "doi": "10.1093/oxfordhb/9780199355358.013.37"
+        },
+        {
+          "oid": "W4410516018",
+          "title": "TRACES OF SRIVIJAYA TRADE AND CULTURE: CERAMICS AND ANCIENT MONEY FOUND IN THE MUSI RIVER, PALEMBANG",
+          "year": 2025,
+          "cited": 0,
+          "abs_len": 1869,
+          "slots": [
+            "srivijaya",
+            "maritime",
+            "palembang"
+          ],
+          "doi": "10.36526/santhet.v9i2.5129"
+        }
+      ],
+      "n": 3
+    },
+    "满者伯夷": {
+      "cand": [
+        {
+          "oid": "W4301006142",
+          "title": "De Kraton van Majapahit",
+          "year": 1948,
+          "cited": 20,
+          "abs_len": 2567,
+          "slots": [
+            "majapahit",
+            "java"
+          ],
+          "doi": "10.1163/9789004286283_002"
+        },
+        {
+          "oid": "W2005517206",
+          "title": "Personal Status and Ritualized Exchange in Majapahit Java",
+          "year": 2000,
+          "cited": 19,
+          "abs_len": 1388,
+          "slots": [
+            "majapahit",
+            "java"
+          ],
+          "doi": "10.3406/arch.2000.3554"
+        }
+      ],
+      "n": 2
+    },
+    "非洲大湖地区": {
+      "cand": [
+        {
+          "oid": "W2317827584",
+          "title": "Cement Production and Trade on the Great Lakes",
+          "year": 1944,
+          "cited": 8,
+          "abs_len": 1070,
+          "slots": [
+            "great lakes",
+            "geograph",
+            "lake",
+            "region"
+          ],
+          "doi": "10.2307/141640"
+        },
+        {
+          "oid": "W2967064309",
+          "title": "Pelagic Food Webs of the East African Great Lakes",
+          "year": 2019,
+          "cited": 4,
+          "abs_len": 1549,
+          "slots": [
+            "great lakes",
+            "environment",
+            "lake",
+            "region"
+          ],
+          "doi": "10.1201/9780203748978-16"
+        },
+        {
+          "oid": "W2075200755",
+          "title": "Building and transgressing borders in the Great Lakes region of East Africa",
+          "year": 2009,
+          "cited": 3,
+          "abs_len": 859,
+          "slots": [
+            "great lakes",
+            "lake",
+            "region"
+          ],
+          "doi": "10.1080/17531050902972709"
+        }
+      ],
+      "n": 8
+    },
+    "西北海岸": {
+      "cand": [],
+      "n": 0
+    },
+    "澳大利亚原住民": {
+      "cand": [
+        {
+          "oid": "W1578999336",
+          "title": "Heritage archaeology in Australia : analysing the entangled cultural constructions of Aboriginal heritage by Aboriginal people, antiquarians and archaeologists",
+          "year": 2000,
+          "cited": 0,
+          "abs_len": 1726,
+          "slots": [
+            "aboriginal",
+            "archaeolog",
+            "society",
+            "land"
+          ],
+          "doi": "10.14264/uql.2020.458"
+        },
+        {
+          "oid": "W172890856",
+          "title": "Investigations towards a late holocene archaeology of Aboriginal lifeways on the southern Curtis Coast, Australia",
+          "year": 2004,
+          "cited": 10,
+          "abs_len": 446,
+          "slots": [
+            "aboriginal",
+            "archaeolog",
+            "land"
+          ],
+          "doi": "10.14264/9630"
+        },
+        {
+          "oid": "W7160982897",
+          "title": "Interpreting a Legacy Fossil Assemblage Excavated From Waribruk (New Guinea II Cave), GunaiKurnai Aboriginal Country, Snowy River National Park, Southeastern Australia",
+          "year": 2026,
+          "cited": 1,
+          "abs_len": 1681,
+          "slots": [
+            "aboriginal",
+            "archaeolog",
+            "land"
+          ],
+          "doi": "10.1002/arco.70027"
+        }
+      ],
+      "n": 6
+    },
+    "隋唐": {
+      "cand": [
+        {
+          "oid": "W4304193318",
+          "title": "State Strengthening in the Tang Dynasty",
+          "year": 2022,
+          "cited": 0,
+          "abs_len": 992,
+          "slots": [
+            "tang",
+            "state",
+            "china"
+          ],
+          "doi": "10.23943/princeton/9780691215174.003.0003"
+        },
+        {
+          "oid": "W2640482588",
+          "title": "Daily Life in Traditional China: The Tang Dynasty",
+          "year": 2001,
+          "cited": 19,
+          "abs_len": 1276,
+          "slots": [
+            "tang",
+            "china"
+          ],
+          "doi": "10.5040/9798400637247"
+        }
+      ],
+      "n": 2
+    }
+  },
+  "http": {
+    "ok": 444,
+    "fail": 0,
+    "errors": []
+  }
+}

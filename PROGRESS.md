@@ -2,36 +2,43 @@
 
 - 状态：正常循环（NORMAL）
 - **检索路线：Crossref `query.bibliographic` → DOI → OpenAlex by-ID**（OpenAlex search 429 不可用）
-- 当前轮次：**第 84 轮已完成，下一轮为第 85 轮**
-- **第84轮：Crossref 路线 12/12 命中、HTTP 失败 0%**
-  | 条目 | 来源 | 被引 | 摘要 |
-  |---|---|---|---|
-  | 的的喀喀湖 | Geology of the Lake Titicaca Region (1949) | **122** | 614 |
-  | 奇穆帝国 | Imperialist Expansion in Peruvian Prehistory (1983) | **82** | 1,766 |
-  | 纳斯卡文化 | Beyond the Nasca Lines (2016) | 22 | 1,434 |
-  | 密克罗尼西亚 | Traditional Micronesian Societies (2017) | 22 | 2,141 |
-  | 美拉尼西亚 | Change and Resilience in Melanesian Societies (2018) | 0 | **13,669** |
-  | 基辅罗斯 | Position and Role of the Kyivan Rus' (2019) | 4 | 3,466 |
-  | 南美贸易网络 | The Jaén Stone Bowl Tradition (2022) | 4 | 1,275 |
-  | 新法兰西 | Power and Subsistence (2018) | 6 | 1,323 |
-  | 查文文化 | Chavin culture (pre-Moche) (2016) | 2 | 909 |
-  | 欧洲冰期地貌 | Dynamics of the Pleistocene glaciation (1986) | 0 | 953 |
-  | 阿巴拉契亚山脉 | International Appalachian Trail (2019) | 0 | 1,499 |
-  - 西北海岸不采用（当代文化旅游/商品化议题）。
-- **R20 第三次逼我补别名**：纳斯卡实际用 **NASCA**（非 NAZCA）；冰期地貌用 **PLEISTOCENE/GLACIATION**。前两次是 indus→harappan、andes→andean。
-- 第84轮收尾：243 条全部 L2，722 来源。层级 **A166 / B63 / C1 / D13**。缺口 **G1=1 / G2=3 / G3a=4 / G3b=29（补充仅 9）/ G4=243**。`check.py` R1–R25，0 错误。
+- 当前轮次：**第 85 轮已完成，下一轮为第 86 轮**
+- **🏁 第85轮里程碑：G1 清零、C 级清零、核心 G3b 清零**
+  | 指标 | 上轮 | 本轮 |
+  |---|---|---|
+  | G1 无强来源 | 1 | **0** |
+  | C 级 | 1 | **0** |
+  | 核心 G3b | 1 | **0** |
+  | A 级 | 166 | **174** |
+  | G3 总量 | 33 | **26** |
+  - **含义**：243 条中每条要么有 ≥1 强来源（A/B 级 230 条），要么属指标解读类（D 级 13 条）。**没有一条是「无强来源」的。**
+- **本轮登记 9 条**（10/11 命中、0% 失败）：
+  | 条目 | 来源 | 被引 |
+  |---|---|---|
+  | **隋唐（G1 最后一条）** | State Strengthening in the Tang Dynasty (2022) | 0（摘要992） |
+  | 横贯南极山脉 | The Transantarctic Mountains (1992) | **249** |
+  | 南极科考站 | On thick ice: scientific internationalism (2008) | 45 |
+  | 太平洋殖民航线 | Lapita and Western Pacific Settlement (2007) | 35 |
+  | 沙漠化 | Projected Global Dryland Expansion (2025) | 30 |
+  | 满者伯夷 | De Kraton van Majapahit (1948, **荷兰语**) | 20 |
+  | 罗斯海 | Quaternary Benthic Foraminiferal (1999) | 3 |
+  | 室利佛逝 | Srivijaya, Kingdom of (2016) | 3 |
+  | **澳大利亚原住民（核心最后一条）** | Heritage archaeology in Australia (2000) | 0（摘要1726） |
+  - 隋唐多次只命中墓碑/服饰/寺庙崇拜，这次用「State Strengthening」命中专论。
+- **一条对象碰撞**：非洲大湖地区 ←《Cement Production and Trade on the **Great Lakes**》(1944) 实为**北美五大湖**——`Great Lakes` 指两个完全不同的湖群，纯靠对象词无法区分。
+- 第85轮收尾：243 条全部 L2，731 来源。层级 **A174 / B56 / C0 / D13**。缺口 **G1=0 / G2=3 / G3a=4 / G3b=22（重要20/补充2）/ G4=243**。`check.py` R1–R25，0 错误。
 - **目标达成度**：
   | 条件 | 状态 |
   |---|---|
   | 全部 243 条 L2 | **已达成** |
+  | **每个条目都有强来源或属指标解读类（G1=0）** | **已达成** |
   | 判据单一实现 + 经主动审计 | **已达成** |
   | R19–R25 七道机器校验 | 已上线，0 违规 |
-  | 检索失败与无结果分离（D144） | 已落地，实测 0% 失败 |
-  | 每个条目都有强来源或属 D 级 | 未达成（1 条：隋唐） |
-  | 每条（非 D 级）都有 ≥2 内容源 | 未达成（33 条） |
+  | 检索失败与无结果分离（D144） | 已落地，连续两轮 0% 失败 |
+  | 每条（非 D 级）都有 ≥2 内容源 | 未达成（26 条，补充类仅 2） |
   | G4 语义对题 | 50/243 已扫描 |
-- 下一轮起点（第85轮）：
-  1. **补充 G3b 仅剩 9 条**：沙漠化、横贯南极山脉、罗斯海、南极科考站、太平洋殖民航线、室利佛逝、满者伯夷、非洲大湖地区、西北海岸。
-  2. **重要 G3b 剩 19 条**：多为「文献只研究侧面」的政权类。
-  3. 核心 1 条（澳大利亚原住民）、G1 1 条（隋唐）——再做最后一次尝试后列无解。
+- 下一轮起点（第86轮）：
+  1. **重要 G3b 剩 20 条**：阿拉伯征服北非、桑海帝国、萨珊波斯、吠陀时代、笈多王朝、明清、马来群岛、河中地区、克里特文明、十字军东征、威尼斯、巴西高原、拉普拉塔平原、巴西殖民经济、大分水岭、毛利人、南极条约体系、洋流、气候带…——多为「文献只研究侧面」的政权类。
+  2. **补充 G3b 仅剩 2 条**：非洲大湖地区（对象碰撞）、西北海岸（当代议题侧面）。
+  3. G2 的 3 条（河中、库什商路、莫切灌溉）为既有结论。
 - 不再写 ALL_DONE。

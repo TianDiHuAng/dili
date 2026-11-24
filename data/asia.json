@@ -832,10 +832,11 @@
       "sources": [
         "britannica-regions",
         "wikipedia-regions",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4304193318"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。 【第69轮补强来源（strong）】openalex-W2325759714（1999年，《Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors》，被引 82，摘要 897 字符）：主题槽命中 ['tang', 'sui', 'state', 'empire']；已在本条 polities 段落点。 【第69轮清除·书评】W2325759714 为 book-review（D082/R25），已从本条 sources 移除。 【第69轮·重要教训】命题中的 W2325759714 标题为《Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors》，标题就是书名，但 OpenAlex 的 type 是 book-review——它是对该书的书评，不是书本身。我一度把它当作主来源登记，R25（书评拦截）当场报错拦下。隋唐的主来源仍缺。 【第70轮检索记录】宽检索（Tang dynasty China society / medieval China state administration / Tang China economy）得 42 条候选，过筛者为《Maintaining Gods in Medieval China: Temple Worship》(2010, 被引5, 摘要4313字符) 与《Dressing for the Times: Fashion in Tang Dynasty China》(2013, 被引8, 摘要3818字符)——前者是寺庙崇拜、后者是服饰，均属隋唐社会的侧面，不支撑「政体与制度」。主来源仍缺。",
+      "pending_notes": "第17轮复核：东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮复核】东亚×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页。 【第19轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第20轮复核】东亚×贸易；按 D041/D055 仍缺含商路与商品结构正文的专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2325759714（1999年，「Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neig」，DOI https://doi.org/10.2307/606153）；年代以「隋 581–618年；唐 618–907年」表述，未编造精确年份。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（本轮 R25 机器检出）。 【第69轮补强来源（strong）】openalex-W2325759714（1999年，《Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors》，被引 82，摘要 897 字符）：主题槽命中 ['tang', 'sui', 'state', 'empire']；已在本条 polities 段落点。 【第69轮清除·书评】W2325759714 为 book-review（D082/R25），已从本条 sources 移除。 【第69轮·重要教训】命题中的 W2325759714 标题为《Son of Heaven and Heavenly Qaghan: Sui-Tang China and Its Neighbors》，标题就是书名，但 OpenAlex 的 type 是 book-review——它是对该书的书评，不是书本身。我一度把它当作主来源登记，R25（书评拦截）当场报错拦下。隋唐的主来源仍缺。 【第70轮检索记录】宽检索（Tang dynasty China society / medieval China state administration / Tang China economy）得 42 条候选，过筛者为《Maintaining Gods in Medieval China: Temple Worship》(2010, 被引5, 摘要4313字符) 与《Dressing for the Times: Fashion in Tang Dynasty China》(2013, 被引8, 摘要3818字符)——前者是寺庙崇拜、后者是服饰，均属隋唐社会的侧面，不支撑「政体与制度」。主来源仍缺。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W4304193318（2022年，《State Strengthening in the Tang Dynasty》，被引 0，摘要 992 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -843,7 +844,7 @@
       "last_update": "2026-11-24",
       "geo": "核心在关中与华北平原，隋唐以长安、洛阳为双都，靠大运河把江南粮赋北运；西北的河西走廊通向中亚，是陆路对外通道。",
       "influence": "运河把南北经济区联结，使政治中心得以留在关中；但漕运距离与成本也长期制约首都规模。草原与绿洲方向的安全压力塑造了都护府与军镇体系。",
-      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。 所引 2022 年《State Strengthening in the Tang Dynasty》（摘要 992 字符）讨论唐代（618–907）的国家强化过程，并简述影响唐制的秦、汉两朝；本条「隋唐重建统一帝国、以律令与科举强化中央」据此。",
       "connections": "陆路经河西走廊通中亚与波斯，海路经广州、扬州等港口通印度洋，是7–9世纪欧亚交流的主要通道之一。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 290 L240 245 L390 220 L530 240 L650 275' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='240' cy='245' r='6' class='pt'/><circle cx='530' cy='240' r='6' class='pt'/><text x='160' y='222' class='lbl'>隋唐</text><text x='40' y='370' class='dim'>隋唐 · 简笔示意，非精确测绘</text></svg>"
@@ -1223,10 +1224,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W3153775132",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4246900254"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W3153775132（2021年，《Srivijaya: Trade and Connectivity in the Pre-modern Malay World》，DOI https://doi.org/10.1484/j.jua.5.123677，Journal of Urban Archaeology）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「7–13世纪（据所引 2021 年研究）」表述。 【第37轮返工】原句「不是靠征服大片领土」属摘要未作的否定断言，已改为「通过控制海峡与港口节点获得权力、而非依赖大片陆地疆域」的正面表述。 【第82轮·检索失败已撤销】本轮首次检索时 OpenAlex 的 search 端点返回 HTTP 429（免费日配额耗尽，$0 remaining），脚本把失败静默当成「0 候选」。该结论无效——『没检索到』不等于『不存在』（D065/D110/D144）。改用 Crossref 路线（`query.bibliographic` → DOI → OpenAlex by-ID）后，赫梯、神圣罗马帝国、汉萨同盟三条均取到合格来源；其余条目待下一轮用 Crossref 路线重跑。 【第83轮检索记录·D144 合规】Crossref 路线检索成功（HTTP 失败率 2%，非故障），20 条结果中无一条同时满足「标题含 srivijaya」与「两主题槽」。本轮结论为真实的无过筛结果。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W3153775132（2021年，《Srivijaya: Trade and Connectivity in the Pre-modern Malay World》，DOI https://doi.org/10.1484/j.jua.5.123677，Journal of Urban Archaeology）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「7–13世纪（据所引 2021 年研究）」表述。 【第37轮返工】原句「不是靠征服大片领土」属摘要未作的否定断言，已改为「通过控制海峡与港口节点获得权力、而非依赖大片陆地疆域」的正面表述。 【第82轮·检索失败已撤销】本轮首次检索时 OpenAlex 的 search 端点返回 HTTP 429（免费日配额耗尽，$0 remaining），脚本把失败静默当成「0 候选」。该结论无效——『没检索到』不等于『不存在』（D065/D110/D144）。改用 Crossref 路线（`query.bibliographic` → DOI → OpenAlex by-ID）后，赫梯、神圣罗马帝国、汉萨同盟三条均取到合格来源；其余条目待下一轮用 Crossref 路线重跑。 【第83轮检索记录·D144 合规】Crossref 路线检索成功（HTTP 失败率 2%，非故障），20 条结果中无一条同时满足「标题含 srivijaya」与「两主题槽」。本轮结论为真实的无过筛结果。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W4246900254（2016年，《Srivijaya, Kingdom of》，被引 3，摘要 932 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1234,7 +1236,7 @@
       "last_update": "2026-11-24",
       "geo": "核心在苏门答腊东南部与马来半岛，扼马六甲海峡与巽他海峡的通道；季风风向决定帆船的往返季节，海峡位置因此具有枢纽价值。",
       "influence": "所引 2021 年研究强调其成长于「复杂网络」的中心：通过对海峡通行与港口节点的控制获得权力，而非依赖大片陆地疆域。这说明海上政权可以在陆地领土有限的情况下取得区域影响力。",
-      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。 所引 2016 年《Srivijaya, Kingdom of》（摘要 932 字符）综述室利佛逝王国的海上地位；本条「室利佛逝控制马六甲海峡两端、以海上贸易立国」据此。",
       "connections": "西接印度洋航路（印度、阿拉伯），东连南海与中国港口，是两条海上贸易圈的交汇点。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>室利佛逝</text><text x='40' y='370' class='dim'>室利佛逝 · 简笔示意，非精确测绘</text></svg>"
@@ -1260,10 +1262,11 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W4384790179",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4301006142"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4384790179（2022年，《Sejarah Sosial Politik Kerajaan Majapahit》，DOI https://doi.org/10.31942/jlp.2022.1.1.8124，Jurnal Lanskap Politik）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「13–16世纪（满者伯夷；本条引 2022 年研究）」表述。 【第82轮·检索失败已撤销】本轮首次检索时 OpenAlex 的 search 端点返回 HTTP 429（免费日配额耗尽，$0 remaining），脚本把失败静默当成「0 候选」。该结论无效——『没检索到』不等于『不存在』（D065/D110/D144）。改用 Crossref 路线（`query.bibliographic` → DOI → OpenAlex by-ID）后，赫梯、神圣罗马帝国、汉萨同盟三条均取到合格来源；其余条目待下一轮用 Crossref 路线重跑。 【第83轮检索记录·D144 合规】同上，检索成功、无过筛者。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W4384790179（2022年，《Sejarah Sosial Politik Kerajaan Majapahit》，DOI https://doi.org/10.31942/jlp.2022.1.1.8124，Jurnal Lanskap Politik）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「13–16世纪（满者伯夷；本条引 2022 年研究）」表述。 【第82轮·检索失败已撤销】本轮首次检索时 OpenAlex 的 search 端点返回 HTTP 429（免费日配额耗尽，$0 remaining），脚本把失败静默当成「0 候选」。该结论无效——『没检索到』不等于『不存在』（D065/D110/D144）。改用 Crossref 路线（`query.bibliographic` → DOI → OpenAlex by-ID）后，赫梯、神圣罗马帝国、汉萨同盟三条均取到合格来源；其余条目待下一轮用 Crossref 路线重跑。 【第83轮检索记录·D144 合规】同上，检索成功、无过筛者。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W4301006142（1948年，《De Kraton van Majapahit》，被引 20，摘要 2567 字符）：已在本条 polities 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -1271,7 +1274,7 @@
       "last_update": "2026-11-24",
       "geo": "核心在爪哇东部布兰塔斯河下游的三角洲平原，火山土与季风降水支撑密集稻作；河网与港口连接内陆与外海。",
       "influence": "所引 2022 年研究讨论其社会政治史，并指出20世纪初印尼民族觉醒运动将其塑造为「过去荣光」的样板。这提示：历史叙述本身会被后世政治需要重新框架（D083 的立场问题）。",
-      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+      "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。 所引 1948 年《De Kraton van Majapahit》（荷兰语，被引20，摘要 2,567 字符）讨论满者伯夷王宫（kraton）的位置与形制；本条「满者伯夷以爪哇东部为核、王宫为中心」据此（该文为荷语区域的考古研究）。",
       "connections": "经爪哇海连接苏门答腊、婆罗洲与马来半岛，经香料群岛通向东印尼的香料产地。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 285 L235 245 L375 222 L515 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='375' cy='222' r='7' class='pt'/><text x='285' y='200' class='lbl'>满者伯夷</text><text x='40' y='370' class='dim'>满者伯夷 · 简笔示意，非精确测绘</text></svg>"

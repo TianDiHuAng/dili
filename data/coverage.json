@@ -417,7 +417,7 @@
       "level": "L2",
       "tier": "重要",
       "status": "L2完成(第34轮)-学术文献",
-      "source_count": 3,
+      "source_count": 4,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -508,7 +508,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第37轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -517,7 +517,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第37轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1309,7 +1309,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第27轮·无实证)",
-      "source_count": 7,
+      "source_count": 8,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -1402,7 +1402,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第37轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1448,7 +1448,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第39轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1466,7 +1466,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第39轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1485,7 +1485,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第39轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -1578,7 +1578,7 @@
       "level": "L2",
       "tier": "补充",
       "status": "L2完成(第40轮)-学术文献",
-      "source_count": 4,
+      "source_count": 5,
       "pending_count": 1,
       "last_update": "2026-11-24"
     },
@@ -2288,8 +2288,8 @@
       "区域": 28
     }
   },
-  "round": 84,
-  "round_processed": 11,
+  "round": 85,
+  "round_processed": 9,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
 }

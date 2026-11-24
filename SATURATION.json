@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 84,
+  "last_round": 85,
   "history": [
     {
       "round": 1,
@@ -762,9 +762,9 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 166,
-      "B": 63,
-      "C": 1,
+      "A": 174,
+      "B": 56,
+      "C": 0,
       "D": 13
     },
     "side_evidence": {
@@ -775,9 +775,9 @@
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json",
-    "ge2_content": 200,
-    "one_content": 41,
-    "zero_content": 2,
+    "ge2_content": 208,
+    "one_content": 34,
+    "zero_content": 1,
     "criterion": "tools/assess.py（D138 单一实现）",
     "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）"
   },
@@ -787,7 +787,7 @@
       {
         "id": "G1",
         "name": "无强来源（仅 C 级；D 级指标解读类不计）",
-        "count": 1,
+        "count": 0,
         "fixed_by": "补一条被引≥10 或正文≥800 的来源（且非别名页/书评）"
       },
       {
@@ -799,7 +799,7 @@
       {
         "id": "G3",
         "name": "内容源仅 1 个（需第二互证）",
-        "count": 33,
+        "count": 26,
         "fixed_by": "补第二内容源，须过 R19/R20/R22/R25"
       },
       {
@@ -810,5 +810,11 @@
       }
     ],
     "close_condition": "G1=0 且 G2 记为既有结论（不再重试）且 G3=0 后，方可讨论 saturation；G4（语义对题）不可自动化，须以人工扫描记录为准"
-  }
+  },
+  "milestones": [
+    {
+      "round": 85,
+      "event": "G1（无强来源）与 C 级清零；核心 G3b 清零"
+    }
+  ]
 }

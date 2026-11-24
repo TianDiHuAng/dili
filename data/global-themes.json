@@ -220,17 +220,18 @@
         "britannica-regions",
         "wikipedia-regions",
         "openalex-W1981593648",
-        "s010-unesco-org"
+        "s010-unesco-org",
+        "openalex-W4408089654"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 检索「desertification」在限流前仅返回无摘要记录；世界银行无「荒漠化面积」指标（拟用 AG.LND.FRST.ZS 替代因口径不符按 D077 弃用）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1981593648（1998年，《Ecological impacts of global change on drylands and their implications for desertification》，DOI 10.1002/(sici)1099-145x(199809/10)9:5<393::aid-ldr301>3.0.co;2-f），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 检索「desertification」在限流前仅返回无摘要记录；世界银行无「荒漠化面积」指标（拟用 AG.LND.FRST.ZS 替代因口径不符按 D077 弃用）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1981593648（1998年，《Ecological impacts of global change on drylands and their implications for desertification》，DOI 10.1002/(sici)1099-145x(199809/10)9:5<393::aid-ldr301>3.0.co;2-f），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W4408089654（2025年，《Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World》，被引 30，摘要 1412 字符）：已在本条 geo 段落点。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
-      "geo": "干旱区分布在副热带高压带与雨影区，降水少且年际变率大；过度放牧、不合理灌溉与植被清除会加速退化，土壤盐渍化在灌溉农区尤为突出。",
+      "last_update": "2026-11-24",
+      "geo": "干旱区分布在副热带高压带与雨影区，降水少且年际变率大；过度放牧、不合理灌溉与植被清除会加速退化，土壤盐渍化在灌溉农区尤为突出。 所引 2025 年《Reconciling the Discrepancy in Projected Global Dryland Expansion》（被引30）指出大陆变干与旱地扩张会加速环境退化与荒漠化，但常用的干旱指数对变干速率的评估并不一致；本条「荒漠化的评估存在口径差异、旱地扩张与气候变干相关」据此。",
       "influence": "所引 1998 年研究讨论全球变化对旱地生态系统的冲击：气候变率与土地利用等干扰事件叠加，可把系统推过韧性阈值而造成非线性退化；低复发频率的干扰尤为关键。（本条把沙漠化理解为「过程而非边界推移」属解释性表述，非该文献的原话。）",
       "connections": "与粮食安全、水资源、沙尘输送、生物多样性相关。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",

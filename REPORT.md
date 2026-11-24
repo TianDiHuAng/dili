@@ -1,53 +1,54 @@
-# REPORT.md — 第 84 轮摘要
+# REPORT.md — 第 85 轮摘要
 
 - 日期：2026-11-24
-- 状态：正常循环（**G3：44 → 33**）
+- 状态：正常循环（**里程碑：G1 清零、C 级清零、核心 G3b 清零**）
 
-## 1. Crossref 路线非常稳定：12/12 命中、0% 失败
+## 1. 三个清零
 
-沿用上轮 D144 合规脚本（记录 HTTP 状态、失败率阈值），本轮 12 条补充条目**全部命中，HTTP 失败 0 次**（成功 485）。
+| 指标 | 上轮 | **本轮** |
+|---|---|---|
+| G1 无强来源 | 1 | **0** |
+| C 级（无强来源且非指标类） | 1 | **0** |
+| 核心 G3b（仅 1 内容源） | 1 | **0** |
+| A 级 | 166 | **174** |
+| G3 总量 | 33 | **26** |
+
+**含义**：243 条条目中，每一条要么有 ≥1 个强来源（A/B 级 230 条），要么属指标解读类（D 级 13 条，其机构长文即主体）。**没有一条是「无强来源」的。**
+
+## 2. 本轮登记 9 条
 
 | 条目 | 来源 | 被引 | 摘要 |
 |---|---|---|---|
-| 的的喀喀湖 | Geology of the Lake Titicaca Region (1949) | **122** | 614 |
-| 奇穆帝国 | Imperialist Expansion in Peruvian Prehistory (1983) | **82** | 1,766 |
-| 纳斯卡文化 | Beyond the Nasca Lines (2016) | 22 | 1,434 |
-| 密克罗尼西亚 | Traditional Micronesian Societies (2017) | 22 | 2,141 |
-| 美拉尼西亚 | Change and Resilience in Melanesian Societies (2018) | 0 | **13,669** |
-| 基辅罗斯 | Position and Role of the Kyivan Rus' (2019) | 4 | 3,466 |
-| 南美贸易网络 | The Jaén Stone Bowl Tradition (2022) | 4 | 1,275 |
-| 新法兰西 | Power and Subsistence: Political Economy (2018) | 6 | 1,323 |
-| 查文文化 | Chavin culture (pre-Moche) (2016) | 2 | 909 |
-| 欧洲冰期地貌 | Dynamics of the Pleistocene glaciation (1986) | 0 | 953 |
-| 阿巴拉契亚山脉 | Connecting Trail: International Appalachian Trail (2019) | 0 | 1,499 |
+| 隋唐（**G1 最后一条**） | State Strengthening in the Tang Dynasty (2022) | 0 | 992 |
+| 横贯南极山脉 | The Transantarctic Mountains of southern Victoria Land (1992) | **249** | 2,406 |
+| 沙漠化 | Projected Global Dryland Expansion Discrepancy (2025) | 30 | 1,412 |
+| 满者伯夷 | De Kraton van Majapahit (1948, **荷兰语**) | 20 | 2,567 |
+| 南极科考站 | On thick ice: scientific internationalism (2008) | 45 | 1,025 |
+| 太平洋殖民航线 | Lapita and Western Pacific Settlement (2007) | 35 | 441 |
+| 罗斯海 | Quaternary Benthic Foraminiferal Distribution in the Ross Sea (1999) | 3 | 2,278 |
+| 室利佛逝 | Srivijaya, Kingdom of (2016) | 3 | 932 |
+| 澳大利亚原住民（**核心最后一条**） | Heritage archaeology in Australia (2000) | 0 | 1,726 |
 
-## 2. 一条不采用
+**隋唐**这条是 G1 的最后一条——多次检索都命中墓碑、服饰、寺庙崇拜等侧面，这次用「State Strengthening」对象词命中一篇专论唐代国家强化的章节。
 
-**西北海岸** ←《Incorporating Culture: How Indigenous People Are Reshaping…》(2018)：主题是**文化旅游与文化商品化**（当代议题），不支撑「传统社会与资源管理」。
+## 3. 一条对象碰撞
 
-## 3. R20 又抓到两个别名
-
-| 条目 | 来源标题实际用词 | 补入对象词 |
-|---|---|---|
-| 纳斯卡文化 | **NASCA**（非 NAZCA） | `nasca` |
-| 欧洲冰期地貌 | **PLEISTOCENE / GLACIATION** | `pleistocene`、`glaciation` |
-
-这是 R20 第三次逼我补别名（前两次：indus→harappan、andes→andean）。**它是目前性价比最高的规则**——每次都在我自以为完成时冒出来。
+**非洲大湖地区** ←《Cement Production and Trade on the **Great Lakes**》(1944)——研究对象是**北美五大湖**的水泥工业与航运。`Great Lakes` 在地理上指两个完全不同的湖群，纯靠对象词无法区分。
 
 ## 4. 口径
 
-- tools/check.py：ERRORS=0 ALL_PASS（243 条、722 来源；R1–R25）
+- tools/check.py：ERRORS=0 ALL_PASS（243 条、731 来源；R1–R25）
 - tools/check_links.py：BROKEN=0 LINKS_PASS
-- 层级：**A 166** / B 63 / C 1 / D 13
-- 内容源 ≥2：**200**；1 个：41；0 个：2
-- 缺口：G1=1 / G2=3 / G3a=4 / **G3b=29**（补充仅 9） / G4=243
+- 层级：**A 174** / B 56 / **C 0** / D 13
+- 内容源 ≥2：**208**；1 个：34；0 个：1
+- 缺口：**G1=0** / G2=3 / G3a=4 / G3b=22（重要 20 / 补充 2） / G4=243
 
 | 条件 | 状态 |
 |---|---|
 | 全部 243 条 L2 | **已达成** |
+| **每个条目都有强来源或属指标解读类（G1=0）** | **已达成** |
 | 判据单一实现 + 经主动审计 | **已达成** |
 | R19–R25 七道机器校验 | 已上线，0 违规 |
-| 检索失败与无结果分离（D144） | 已落地，实测 0% 失败 |
-| 每个条目都有强来源或属 D 级 | 未达成（1 条：隋唐） |
-| 每条（非 D 级）都有 ≥2 内容源 | 未达成（33 条） |
+| 检索失败与无结果分离（D144） | 已落地，连续两轮 0% 失败 |
+| 每条（非 D 级）都有 ≥2 内容源 | 未达成（26 条，其中补充类仅 2） |
 | G4 语义对题 | 50/243 已扫描 |
