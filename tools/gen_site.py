@@ -57,6 +57,15 @@ EV = _evfull["levels"]
 ev_doc = _evfull
 _sep = os.path.join(DATA, "side_evidence.json")
 se_counts = (json.load(open(_sep, encoding="utf-8")).get("counts", {}) if os.path.exists(_sep) else {})
+_satp = os.path.join(DATA, "..", "SATURATION.json")
+sat_doc = json.load(open(os.path.abspath(_satp), encoding="utf-8")) if os.path.exists(os.path.abspath(_satp)) else {}
+_scanp = os.path.join(DATA, "semantic_scan.json")
+scan_doc = json.load(open(_scanp, encoding="utf-8")) if os.path.exists(_scanp) else {}
+
+
+def _shellsize(s):
+    m = re.search(r"空壳页判定】strip 后仅 (\d+) 字符", s.get("note") or "")
+    return (m.group(1) + " 字符") if m else "—"
 
 
 def evlabel(title):
@@ -293,29 +302,36 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
         f.write(page("证据层级说明", ev_body))
 
     # ---- 第61轮：已知限制 ----
-    lim_body = """<h1>已知限制</h1><p class="lead">本页如实列出当前无法解决、或经多轮检索确认无解的问题，不作掩饰。</p>
-<div class="section"><h2>一、经检索确认「无合格主来源」的条目</h2>
-<p>以下条目经<b>两个库（Crossref + OpenAlex）、多条检索式</b>检索后仍无合格主来源，原因多为对象稀有、主题属概念性、或现有文献只涉侧面。本站不作硬配。</p>
-<table><thead><tr><th>条目</th><th>现状</th><th>已试过的检索</th></tr></thead><tbody>
-<tr><td>河中地区（绿洲灌溉与商路）</td><td>仅有侧面向来源（粟特宗教文献、多学科泛论）</td><td>Samarkand/Bukhara oasis trade；Sogdian trade network；Transoxiana</td></tr>
-<tr><td>库什与努比亚（商路与商品结构）</td><td>商路部分无来源；政体与冶铁已有来源</td><td>Meroe trade network commodities；Kushite Red Sea trade</td></tr>
-<tr><td>莫切文化（灌溉与河谷政治）</td><td>仅有手工业专门化的都城个案</td><td>Moche irrigation canals；Moche political organization</td></tr>
-</tbody></table></div>
-<div class="section"><h2>二、语义对题只能人工判断</h2>
-<p>机器校验能保证「来源存在、有正文、标题含对象词、非弱来源」（R18–R22），但<b>不能判断一篇只讲「该对象某个侧面」的文献能否支撑整条断言</b>。这类判断依赖人工逐条扫描；本站已把降级理由写在条目页。</p></div>
-<div class="section"><h2>三、环境限制</h2><ul>
-<li>Wikipedia、Britannica、archive.org 在本环境不可达（HTTP 000/403），相关条目改用机构页与学术库。</li>
-<li>Wikidata 时通时断；断线期间登记的实体标为 verified=false，并在条目页标「待核」。</li>
-<li>OpenAlex 的 search 端点常触发 429 限流，检索脚本需重试；DOI 桥（Crossref 检索 → 按 DOI 向 OpenAlex 取摘要）是主要绕行路径。</li>
-</ul></div>
-<div class="section"><h2>四、未达成项</h2>
-<table><thead><tr><th>条件</th><th>状态</th></tr></thead><tbody>
-<tr><td>核心/重要/全部条目达到 L2</td><td><b>已达成</b>（243/243）</td></tr>
-<tr><td>每条至少 1 个内容来源</td><td><b>已达成</b>（243/243）</td></tr>
-<tr><td>证据层级 C 级清零</td><td><b>已达成</b>（C=0）</td></tr>
-<tr><td>每条均有主来源</td><td>未达成（见上表三处 + D 级指标解读条目）</td></tr>
-<tr><td>多维缺口连续 3 轮为零</td><td>未达成，<code>saturated=false</code></td></tr>
-</tbody></table></div>"""
+    _gmod = sat_doc.get("gap_model", {}).get("definitions", [])
+    _gmap = {d["id"]: d for d in _gmod}
+    _noans = (scan_doc.get("unresolved", {}) or {}).get("entries", [])
+    _shell = [s for s in sources.values() if "空壳页判定" in (s.get("note") or "")]
+    _shell_rows = "".join(
+        f'<tr><td>{esc(s["id"])}</td><td>{esc((s.get("page_title") or "")[:50])}</td><td>{esc(_shellsize(s))}</td></tr>'
+        for s in _shell)
+    _noans_rows = "".join(f'<tr><td><a href="entries/{esc(by_title[k]["id"])}.html">{esc(k)}</a></td><td>见条目页「待核实」</td></tr>'
+                          for k in _noans if k in by_title)
+    lim_body = f"""<h1>已知限制</h1><p class="lead">本页如实列出当前无法解决、或经多轮检索确认无解的问题，不作掩饰。数字由 <code>tools/round62_gaps.py</code> 计算，与本页同步。</p>
+<div class="section"><h2>一、缺口四类（当前）</h2><table><thead><tr><th>编号</th><th>缺口</th><th>条数</th><th>如何关闭</th></tr></thead><tbody>
+{"".join(f'<tr><td><b>{d["id"]}</b></td><td>{esc(d["name"])}</td><td><b>{d["count"]}</b></td><td>{esc(d["fixed_by"])}</td></tr>' for d in _gmod)}
+</tbody></table>
+<p class="dim">关闭条件：G1=0 且 G3=0 后方可讨论「饱和」；G2 记为既有结论，不再重试同类检索；G4 不可自动化。</p></div>
+<div class="section"><h2>二、经检索确认「无合格第二来源」的条目（{len(_noans)} 条）</h2>
+<p>以下条目经<b>两个库（Crossref + OpenAlex）、多条检索式</b>检索后仍无合格第二来源。本站不作硬配。</p>
+<table><thead><tr><th>条目</th><th>状况</th></tr></thead><tbody>{_noans_rows}</tbody></table></div>
+<div class="section"><h2>三、空壳页（{len(_shell)} 个）</h2>
+<p>以下机构页经 curl 实测，strip 后正文不足 800 字符（多为 JS 应用壳或导航条），<b>仅作入口页，不作正文依据</b>。</p>
+<table><thead><tr><th>来源</th><th>页面</th><th>正文字符</th></tr></thead><tbody>{_shell_rows}</tbody></table>
+<p class="dim">对比：同期实测 OWID 长文为 3,298–31,443 字符，World Bank 8,041–11,098，NOAA 2,753，IUCN 4,086。若不实测，会把这些空壳误当成「独立互证」。</p></div>
+<div class="section"><h2>四、机器校验的能力边界</h2>
+<p>R18–R23 能保证：引用年份存在（R18）、弱来源不称主来源（R19）、标题含对象词（R20）、层级有记录（R21）、层级与重算一致（R22）、空壳页不称内容源（R23）。</p>
+<p><b>不能判断</b>：① 一篇文献是否只涉对象的某个侧面；② 某条断言是否被该文献真正支持、强度是否相称；③ 个案能否代表通例。这三类依赖人工逐条扫描，记录见 <code>data/semantic_scan.json</code>。</p></div>
+<div class="section"><h2>五、环境限制</h2><ul>
+<li>Wikipedia、Britannica、archive.org 在本环境不可达（HTTP 000/403）。</li>
+<li>Wikidata 时通时断；断线期间登记的实体标 verified=false。</li>
+<li>OpenAlex 的 search 端点常触发 429 限流，需重试；DOI 桥（Crossref 检索 → 按 DOI 取摘要）是主要绕行路径。</li>
+<li>UN / UNESCO / FAO / CBD 的页面多为 JS 应用壳，正文 7–218 字符。</li>
+</ul></div>"""
     with open(os.path.join(SITE, "limits.html"), "w", encoding="utf-8") as f:
         f.write(page("已知限制", lim_body))
 

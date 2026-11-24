@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 65,
+  "last_round": 66,
   "history": [
     {
       "round": 1,
@@ -773,7 +773,8 @@
       "weak_claim": 12
     },
     "note": "R19/R20/R21/R22 四道机器校验；侧面文献与剔除记录已结构化",
-    "shell_pages": 6
+    "shell_pages": 6,
+    "semantic_scan": "data/semantic_scan.json"
   },
   "gap_model": {
     "note": "第62轮重定义：不再用模糊的「多维缺口」，改为四类可陈述、可计数的缺口",

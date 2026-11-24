@@ -2,27 +2,25 @@
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>已知限制 — 地理与文明百科</title><link rel="stylesheet" href="css/style.css"></head>
 <body><header class="top"><a class="brand" href="index.html">地理与文明百科</a><nav class="nav"><a href="index.html">首页</a><a href="index-all.html">全站索引</a><a href="timeline.html">时间线</a><a href="sources.html">来源库</a><a href="coverage.html">覆盖矩阵</a><a href="evidence.html">证据层级</a><a href="limits.html">已知限制</a><a href="about.html">关于</a></nav></header>
-<main><h1>已知限制</h1><p class="lead">本页如实列出当前无法解决、或经多轮检索确认无解的问题，不作掩饰。</p>
-<div class="section"><h2>一、经检索确认「无合格主来源」的条目</h2>
-<p>以下条目经<b>两个库（Crossref + OpenAlex）、多条检索式</b>检索后仍无合格主来源，原因多为对象稀有、主题属概念性、或现有文献只涉侧面。本站不作硬配。</p>
-<table><thead><tr><th>条目</th><th>现状</th><th>已试过的检索</th></tr></thead><tbody>
-<tr><td>河中地区（绿洲灌溉与商路）</td><td>仅有侧面向来源（粟特宗教文献、多学科泛论）</td><td>Samarkand/Bukhara oasis trade；Sogdian trade network；Transoxiana</td></tr>
-<tr><td>库什与努比亚（商路与商品结构）</td><td>商路部分无来源；政体与冶铁已有来源</td><td>Meroe trade network commodities；Kushite Red Sea trade</td></tr>
-<tr><td>莫切文化（灌溉与河谷政治）</td><td>仅有手工业专门化的都城个案</td><td>Moche irrigation canals；Moche political organization</td></tr>
-</tbody></table></div>
-<div class="section"><h2>二、语义对题只能人工判断</h2>
-<p>机器校验能保证「来源存在、有正文、标题含对象词、非弱来源」（R18–R22），但<b>不能判断一篇只讲「该对象某个侧面」的文献能否支撑整条断言</b>。这类判断依赖人工逐条扫描；本站已把降级理由写在条目页。</p></div>
-<div class="section"><h2>三、环境限制</h2><ul>
-<li>Wikipedia、Britannica、archive.org 在本环境不可达（HTTP 000/403），相关条目改用机构页与学术库。</li>
-<li>Wikidata 时通时断；断线期间登记的实体标为 verified=false，并在条目页标「待核」。</li>
-<li>OpenAlex 的 search 端点常触发 429 限流，检索脚本需重试；DOI 桥（Crossref 检索 → 按 DOI 向 OpenAlex 取摘要）是主要绕行路径。</li>
-</ul></div>
-<div class="section"><h2>四、未达成项</h2>
-<table><thead><tr><th>条件</th><th>状态</th></tr></thead><tbody>
-<tr><td>核心/重要/全部条目达到 L2</td><td><b>已达成</b>（243/243）</td></tr>
-<tr><td>每条至少 1 个内容来源</td><td><b>已达成</b>（243/243）</td></tr>
-<tr><td>证据层级 C 级清零</td><td><b>已达成</b>（C=0）</td></tr>
-<tr><td>每条均有主来源</td><td>未达成（见上表三处 + D 级指标解读条目）</td></tr>
-<tr><td>多维缺口连续 3 轮为零</td><td>未达成，<code>saturated=false</code></td></tr>
-</tbody></table></div></main><footer class="foot">静态站点 · 数据驱动 · <a href="about.html">诚实标注</a> · 生成于 2026-11-24</footer>
+<main><h1>已知限制</h1><p class="lead">本页如实列出当前无法解决、或经多轮检索确认无解的问题，不作掩饰。数字由 <code>tools/round62_gaps.py</code> 计算，与本页同步。</p>
+<div class="section"><h2>一、缺口四类（当前）</h2><table><thead><tr><th>编号</th><th>缺口</th><th>条数</th><th>如何关闭</th></tr></thead><tbody>
+<tr><td><b>G1</b></td><td>无强来源（C/D 级）</td><td><b>0</b></td><td>补一条被引≥10 或正文≥800 的来源</td></tr><tr><td><b>G2</b></td><td>检索确认无合格主来源</td><td><b>3</b></td><td>仅待新文献出现；不再重试同类检索</td></tr><tr><td><b>G3</b></td><td>内容源仅 1 个（需第二互证）</td><td><b>5</b></td><td>补第二内容源，须过 R19/R20/R22</td></tr><tr><td><b>G4</b></td><td>语义对题未经机器校验</td><td><b>243</b></td><td>人工逐条扫描（不可自动化）</td></tr>
+</tbody></table>
+<p class="dim">关闭条件：G1=0 且 G3=0 后方可讨论「饱和」；G2 记为既有结论，不再重试同类检索；G4 不可自动化。</p></div>
+<div class="section"><h2>二、经检索确认「无合格第二来源」的条目（5 条）</h2>
+<p>以下条目经<b>两个库（Crossref + OpenAlex）、多条检索式</b>检索后仍无合格第二来源。本站不作硬配。</p>
+<table><thead><tr><th>条目</th><th>状况</th></tr></thead><tbody><tr><td><a href="entries/africa-x53e4x57c3x53cax65b0x738bx56fd.html">古埃及新王国</a></td><td>见条目页「待核实」</td></tr><tr><td><a href="entries/africa-x52a0x7eb3x5e1dx56fd.html">加纳帝国</a></td><td>见条目页「待核实」</td></tr><tr><td><a href="entries/africa-x6851x6d77x5e1dx56fd.html">桑海帝国</a></td><td>见条目页「待核实」</td></tr><tr><td><a href="entries/asia-x7b08x591ax738bx671d.html">笈多王朝</a></td><td>见条目页「待核实」</td></tr><tr><td><a href="entries/asia-x5468x4ee3.html">周代</a></td><td>见条目页「待核实」</td></tr></tbody></table></div>
+<div class="section"><h2>三、空壳页（6 个）</h2>
+<p>以下机构页经 curl 实测，strip 后正文不足 800 字符（多为 JS 应用壳或导航条），<b>仅作入口页，不作正文依据</b>。</p>
+<table><thead><tr><th>来源</th><th>页面</th><th>正文字符</th></tr></thead><tbody><tr><td>s004-population-un-org</td><td>World Population Prospects</td><td>26 字符</td></tr><tr><td>s008-unesco-org</td><td>Education transforms lives | UNESCO</td><td>218 字符</td></tr><tr><td>s014-fao-org</td><td>FAOSTAT</td><td>7 字符</td></tr><tr><td>s072-cbd-int</td><td>Protected and Conserved Areas</td><td>172 字符</td></tr><tr><td>s074-unicef-org</td><td>UNICEF, for every child</td><td>750 字符</td></tr><tr><td>s085-unesco-org</td><td>The ocean we need for the future we want | UNESCO</td><td>218 字符</td></tr></tbody></table>
+<p class="dim">对比：同期实测 OWID 长文为 3,298–31,443 字符，World Bank 8,041–11,098，NOAA 2,753，IUCN 4,086。若不实测，会把这些空壳误当成「独立互证」。</p></div>
+<div class="section"><h2>四、机器校验的能力边界</h2>
+<p>R18–R23 能保证：引用年份存在（R18）、弱来源不称主来源（R19）、标题含对象词（R20）、层级有记录（R21）、层级与重算一致（R22）、空壳页不称内容源（R23）。</p>
+<p><b>不能判断</b>：① 一篇文献是否只涉对象的某个侧面；② 某条断言是否被该文献真正支持、强度是否相称；③ 个案能否代表通例。这三类依赖人工逐条扫描，记录见 <code>data/semantic_scan.json</code>。</p></div>
+<div class="section"><h2>五、环境限制</h2><ul>
+<li>Wikipedia、Britannica、archive.org 在本环境不可达（HTTP 000/403）。</li>
+<li>Wikidata 时通时断；断线期间登记的实体标 verified=false。</li>
+<li>OpenAlex 的 search 端点常触发 429 限流，需重试；DOI 桥（Crossref 检索 → 按 DOI 取摘要）是主要绕行路径。</li>
+<li>UN / UNESCO / FAO / CBD 的页面多为 JS 应用壳，正文 7–218 字符。</li>
+</ul></div></main><footer class="foot">静态站点 · 数据驱动 · <a href="about.html">诚实标注</a> · 生成于 2026-11-24</footer>
 </body></html>

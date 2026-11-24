@@ -956,6 +956,21 @@
       "sample_rate": "4条补充类全查",
       "sample_audit": "R23上线；修s074测量口径冲突（5455 vs 750）",
       "note": "补4条第二来源（海洋生态861/保护区244/教育53/农企72）；G3 9→5；层级 A215/B28/C0/D0"
+    },
+    {
+      "round": 66,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "limits.html 改为动态；semantic_scan.json 建立",
+      "note": "已知限制页动态化（缺口四类/无解5条/空壳6个/R18-R23能力边界）；人工扫描存档建立"
     }
   ]
 }
