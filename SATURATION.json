@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 60,
+  "last_round": 61,
   "history": [
     {
       "round": 1,
@@ -724,6 +724,18 @@
       "gaps_found": 241,
       "note": "C级 4→0；层级 A207/B35/D1",
       "result": "证据层级修正"
+    },
+    {
+      "round": 61,
+      "methods_used": [
+        "R22交叉校验",
+        "证据层级说明页",
+        "已知限制页",
+        "台账"
+      ],
+      "gaps_found": 241,
+      "note": "R22 上线；两页公开；层级 A207/B35/C0/D1",
+      "result": "校验+公开"
     }
   ],
   "note": "连续3轮七种方法均无新缺口且核心/重要条目全部达到L2时置 SATURATED=true。",
@@ -756,6 +768,6 @@
       "C": 0,
       "D": 1
     },
-    "note": "层级 C 已清零；D 级 1 条为指标解读类"
+    "note": "R19/R20/R21/R22 四道机器校验；证据层级与已知限制已对读者公开"
   }
 }

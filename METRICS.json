@@ -881,6 +881,21 @@
       "sample_rate": "C级4条全查",
       "sample_audit": "层级判据经段污染bug修复后重算",
       "note": "C级清零：实测livius正文、补2条学术来源（加纳/罗马）、修层级判定段污染bug；层级 A207/B35/C0/D1"
+    },
+    {
+      "round": 61,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 0,
+      "sample_rate": "—",
+      "sample_audit": "R22交叉校验通过；新增两页链接校验4914条0断链",
+      "note": "R22上线（层级记录须与重算一致）；新增证据层级说明页与已知限制页，导航已接入"
     }
   ]
 }
