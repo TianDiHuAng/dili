@@ -1,0 +1,232 @@
+{
+  "撒哈拉沙漠": {
+    "cand": [
+      {
+        "oid": "W3077545719",
+        "title": "Late–Mesozoic and Tertiary palaeoenvironments of the Sahara region",
+        "year": 2020,
+        "cited": 5,
+        "abs_len": 1905,
+        "slots": [
+          "sahara",
+          "desert",
+          "geomorph",
+          "environment",
+          "history",
+          "aridif"
+        ],
+        "doi": "https://doi.org/10.1201/9781003078906-12"
+      },
+      {
+        "oid": "W2053268670",
+        "title": "The Sahara as a vicariant agent, and the role of Miocene climatic events, in the diversification of the mammalian order Macroscelidea (elephant shrews)",
+        "year": 2003,
+        "cited": 181,
+        "abs_len": 1626,
+        "slots": [
+          "sahara",
+          "environment",
+          "history",
+          "aridif"
+        ],
+        "doi": "https://doi.org/10.1073/pnas.0832467100"
+      },
+      {
+        "oid": "W2156326926",
+        "title": "Lakeside Cemeteries in the Sahara: 5000 Years of Holocene Population and Environmental Change",
+        "year": 2008,
+        "cited": 291,
+        "abs_len": 2369,
+        "slots": [
+          "sahara",
+          "environment",
+          "aridif"
+        ],
+        "doi": "https://doi.org/10.1371/journal.pone.0002995"
+      }
+    ],
+    "n": 10
+  },
+  "东非大裂谷": {
+    "cand": [
+      {
+        "oid": "W4281739670",
+        "title": "Evolution of the East African Rift System from trap-scale to plate-scale rifting",
+        "year": 2022,
+        "cited": 101,
+        "abs_len": 2889,
+        "slots": [
+          "rift",
+          "evolution",
+          "tecton",
+          "plume"
+        ],
+        "doi": "https://doi.org/10.1016/j.earscirev.2022.104089"
+      },
+      {
+        "oid": "W2002767243",
+        "title": "Possible Influences upon Lake Development in the East African Rift Valleys",
+        "year": 1982,
+        "cited": 36,
+        "abs_len": 1014,
+        "slots": [
+          "rift",
+          "lake",
+          "climate",
+          "tecton"
+        ],
+        "doi": "https://doi.org/10.1086/628684"
+      },
+      {
+        "oid": "W4416067222",
+        "title": "Accelerated rifting in response to regional climate change in the East African Rift System",
+        "year": 2025,
+        "cited": 1,
+        "abs_len": 1324,
+        "slots": [
+          "rift",
+          "lake",
+          "climate",
+          "tecton"
+        ],
+        "doi": "https://doi.org/10.1038/s41598-025-23264-9"
+      }
+    ],
+    "n": 10
+  },
+  "印度河文明": {
+    "cand": [
+      {
+        "oid": "W7217520848",
+        "title": "ORIGIN AND GROWTH OF THE PRINCIPAL ELEMENTS OF THE HARAPPAN CIVILIZATION: AN ANALYTICAL STUDY",
+        "year": 2025,
+        "cited": 0,
+        "abs_len": 862,
+        "slots": [
+          "indus",
+          "harappan",
+          "urban",
+          "state",
+          "society",
+          "civiliz"
+        ],
+        "doi": null
+      },
+      {
+        "oid": "W2795939660",
+        "title": "Neoglacial climate anomalies and the Harappan metamorphosis",
+        "year": 2018,
+        "cited": 88,
+        "abs_len": 2233,
+        "slots": [
+          "harappan",
+          "urban",
+          "state",
+          "society",
+          "civiliz"
+        ],
+        "doi": "https://doi.org/10.5194/cp-14-1669-2018"
+      },
+      {
+        "oid": "W4254789691",
+        "title": "THE INDUS/‘HARAPPAN’/ SARASVATI CIVILIZATION",
+        "year": 2010,
+        "cited": 0,
+        "abs_len": 1025,
+        "slots": [
+          "indus",
+          "harappan",
+          "urban",
+          "state",
+          "civiliz"
+        ],
+        "doi": "https://doi.org/10.4324/9780203449509_chapter_4"
+      }
+    ],
+    "n": 28
+  },
+  "印加帝国": {
+    "cand": [
+      {
+        "oid": "W2748774691",
+        "title": "Imperial Expansion and Local Agency: A Case Study of Labor Organization Under Inca Rule",
+        "year": 2017,
+        "cited": 43,
+        "abs_len": 1411,
+        "slots": [
+          "inca",
+          "state",
+          "econom",
+          "labor",
+          "politic",
+          "organiz"
+        ],
+        "doi": "https://doi.org/10.1111/aman.12924"
+      },
+      {
+        "oid": "W1971735359",
+        "title": "El sistema económico del imperio Inca: Historia crítica de una controversia",
+        "year": 2002,
+        "cited": 2,
+        "abs_len": 6343,
+        "slots": [
+          "inca",
+          "state",
+          "econom",
+          "labor",
+          "politic",
+          "organiz"
+        ],
+        "doi": "https://doi.org/10.1215/00182168-82-2-344"
+      },
+      {
+        "oid": "W4406160837",
+        "title": "Economies of the Inca World",
+        "year": 2025,
+        "cited": 7,
+        "abs_len": 1055,
+        "slots": [
+          "inca",
+          "state",
+          "econom",
+          "labor",
+          "politic"
+        ],
+        "doi": "https://doi.org/10.1017/9781009552080"
+      }
+    ],
+    "n": 11
+  },
+  "澳大利亚原住民": {
+    "cand": [],
+    "n": 0
+  },
+  "萨珊波斯": {
+    "cand": [],
+    "n": 0
+  },
+  "吠陀时代": {
+    "cand": [],
+    "n": 0
+  },
+  "明清": {
+    "cand": [],
+    "n": 0
+  },
+  "马来群岛": {
+    "cand": [],
+    "n": 0
+  },
+  "河中地区": {
+    "cand": [],
+    "n": 0
+  },
+  "洋流": {
+    "cand": [],
+    "n": 0
+  },
+  "气候带": {
+    "cand": [],
+    "n": 0
+  }
+}

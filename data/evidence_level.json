@@ -2,9 +2,9 @@
   "round": 72,
   "levels": {
     "撒哈拉沙漠": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 4,
@@ -38,9 +38,9 @@
       "tier": "重要"
     },
     "东非大裂谷": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -398,9 +398,9 @@
       "tier": "重要"
     },
     "印度河文明": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -1598,9 +1598,9 @@
       "tier": "补充"
     },
     "印加帝国": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 3,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 142,
-    "B": 87,
+    "A": 146,
+    "B": 83,
     "C": 1,
     "D": 13
   },

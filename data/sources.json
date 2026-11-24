@@ -9073,6 +9073,58 @@
       "verified": true,
       "page_title": "The Rhine: An Eco-Biography, 1815-2000 (review)",
       "note": "OpenAlex 作品 W2041834890（DOI https://doi.org/10.1353/tech.2005.0070）；2005年；被引 1。HTTP 200，21801 字节。摘要长度 4440 字符；主题槽命中 ['rhine', 'river', 'hydrolog', 'navigat', 'history']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W3077545719",
+      "title": "OpenAlex W3077545719 — Late–Mesozoic and Tertiary palaeoenvironments of the Sahara region",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2020,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3077545719",
+      "url2": "https://doi.org/https://doi.org/10.1201/9781003078906-12",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Late–Mesozoic and Tertiary palaeoenvironments of the Sahara region",
+      "note": "OpenAlex 作品 W3077545719（DOI https://doi.org/10.1201/9781003078906-12）；2020年；被引 5。HTTP 200，13286 字节。摘要长度 1905 字符；主题槽命中 ['sahara', 'desert', 'geomorph', 'environment', 'history', 'aridif']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W4281739670",
+      "title": "OpenAlex W4281739670 — Evolution of the East African Rift System from trap-scale to plate-scale rifting",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2022,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4281739670",
+      "url2": "https://doi.org/https://doi.org/10.1016/j.earscirev.2022.104089",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Evolution of the East African Rift System from trap-scale to plate-scale rifting",
+      "note": "OpenAlex 作品 W4281739670（DOI https://doi.org/10.1016/j.earscirev.2022.104089）；2022年；被引 101。HTTP 200，31579 字节。摘要长度 2889 字符；主题槽命中 ['rift', 'evolution', 'tecton', 'plume']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W7217520848",
+      "title": "OpenAlex W7217520848 — ORIGIN AND GROWTH OF THE PRINCIPAL ELEMENTS OF THE HARAPPAN CIVILIZATION: AN ANALYTICAL STUDY",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2025,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W7217520848",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "ORIGIN AND GROWTH OF THE PRINCIPAL ELEMENTS OF THE HARAPPAN CIVILIZATION: AN ANALYTICAL STUDY",
+      "note": "OpenAlex 作品 W7217520848（DOI 无）；2025年；被引 0。HTTP 200，13604 字节。摘要长度 862 字符；主题槽命中 ['indus', 'harappan', 'urban', 'state', 'society', 'civiliz']。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2748774691",
+      "title": "OpenAlex W2748774691 — Imperial Expansion and Local Agency: A Case Study of Labor Organization Under Inca Rule",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2017,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2748774691",
+      "url2": "https://doi.org/https://doi.org/10.1111/aman.12924",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Imperial Expansion and Local Agency: A Case Study of Labor Organization Under Inca Rule",
+      "note": "OpenAlex 作品 W2748774691（DOI https://doi.org/10.1111/aman.12924）；2017年；被引 43。HTTP 200，17438 字节。摘要长度 1411 字符；主题槽命中 ['inca', 'state', 'econom', 'labor', 'politic', 'organiz']。证据强度：strong。"
     }
   ]
 }

@@ -1181,6 +1181,21 @@
       "sample_rate": "重要条目第三批12条",
       "sample_audit": "7条登记、4条不采用、1条0候选",
       "note": "补7条→G3 64→57；层级 A142/B87/C1/D13"
+    },
+    {
+      "round": 81,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 12,
+      "fixes": 4,
+      "pending_total": 241,
+      "check_result": "ERRORS=0 ALL_PASS",
+      "link_result": "BROKEN=0 LINKS_PASS",
+      "new_sources": 4,
+      "sample_rate": "核心5+重要7全查",
+      "sample_audit": "核心命中4/5（含印加终于找到）、重要7条0候选",
+      "note": "补4条→G3 57→53、核心G3b 5→1；层级 A146/B83/C1/D13"
     }
   ]
 }
