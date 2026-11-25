@@ -1,0 +1,256 @@
+{
+ "entries": [
+  {
+   "title": "尼罗河三角洲",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2220441068",
+     "field": "influence",
+     "claim": "上游筑坝改变了来沙与洪水节律，三角洲的沉积补给因此减少，海岸侵蚀与盐水入侵成为突出问题；水质研究显示重金属等污染物的空间分布与河道、工业位置相关。",
+     "abstract_evidence": "Rosetta Branch of river Nile is subjected to severe pollutants of domestic, sewage, agricultural and industrial pollution. In this study, the distribution of heavy metals (Al, Ba, Cd, Co, Cr, Cu, Fe, Mn, Ni, Pb and Zn) w",
+     "verdict": "SOFT",
+     "reason": "摘要只研究罗塞塔支流的重金属分布，并列举生活、农业、工业污染源；正文把它扩大到整个三角洲，并说成与河道和工业位置的空间关联，范围被放大。",
+     "fix": "上游筑坝改变了来沙与洪水节律，三角洲的沉积补给因此减少，海岸侵蚀与盐水入侵成为突出问题；对罗塞塔支流的水质研究显示，河水与底泥中的重金属受生活、农业和工业排污影响。"
+    }
+   ]
+  },
+  {
+   "title": "萨赫勒带",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2144515426",
+     "field": "influence",
+     "claim": "相关研究强调气候波动与土地利用的共同作用，不宜归因于单一因素。",
+     "abstract_evidence": "This article deals with the characteristics of rainfall variability in West Africa. Time series of June—July, August—September and annual rainfall anomalies are derived for 19 regions, most of which are in the Sahel—Soud",
+     "verdict": "FAIL",
+     "reason": "该文只分析西非萨赫勒降水变率（趋势、持续性、空间模态），没有涉及土地利用，所以「气候与土地利用共同作用」与来源对象不符。",
+     "fix": "萨赫勒的干旱与土地退化通常被认为与气候波动和土地利用都有关，不宜归因于单一因素。"
+    }
+   ]
+  },
+  {
+   "title": "库什与努比亚",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2896238063",
+     "field": "influence",
+     "claim": "麦罗埃时期的冶铁是长期讨论的问题，现有研究结论不一：2018 年矿冶研究认为冶铁传统延续千余年、产出可观；而 2019 年炉渣测年研究认为都城期（前300–公元300）堆积稀少、工业组织发生重组。",
+     "abstract_evidence": "little evidence for activity between c. 300 BC and AD 300—precisely when Meroe was the capital of the Kingdom of Kush—indicating significant reorganisation of the city's industrial base at this time.",
+     "verdict": "PASS",
+     "reason": "2018 年《古代麦罗埃铁矿》说冶铁传统延续千余年、产量可观；2019 年炉渣研究说前300–公元300年堆积稀少、生产有重大重组。两处都与摘要一致。",
+     "fix": "麦罗埃时期的冶铁是长期讨论的问题，现有研究结论不一：2018 年矿冶研究认为冶铁传统延续千余年、产出可观；而 2019 年炉渣测年研究认为都城期（前300–公元300）堆积稀少、工业组织发生重组。"
+    }
+   ]
+  },
+  {
+   "title": "南极大陆",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4394779946",
+     "field": "geo",
+     "claim": "冰盖之下保存着古老的冰下地貌：所引 2024 年研究以甘布尔采夫冰下山脉为例，指出该区自约 3400 万年前大规模 glaciation 以来长期处于冷基、非侵蚀状态，因而保存了古老的树枝状谷网。",
+     "abstract_evidence": "Landscapes buried beneath the Antarctic Ice Sheet preserve information about the geologic and geomorphic evolution of the continent both before and during the wide-scale glaciation that began roughly 34×10 6 years ago. S",
+     "verdict": "PASS",
+     "reason": "摘要原文写到约 3400 万年前开始大规模冰川作用，此后部分区域冷基、非侵蚀，甘布尔采夫山脉保存了古地貌，与正文一致。",
+     "fix": "冰盖之下保存着古老的冰下地貌：所引 2024 年研究以甘布尔采夫冰下山脉为例，指出该区自约 3400 万年前大规模 glaciation 以来长期处于冷基、非侵蚀状态，因而保存了古老的树枝状谷网。"
+    }
+   ]
+  },
+  {
+   "title": "湄公河三角洲",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2165261460",
+     "field": "influence",
+     "claim": "泥沙补给与地面沉降决定三角洲能否维持高程；地下水抽取引起的地面沉降与海平面上升叠加，是当代最直接的物理风险，研究表明两者共同作用。",
+     "abstract_evidence": "Groundwater exploitation is a major cause of land subsidence, which in coastal areas poses a flood inundation hazard that is compounded by the threat of sea-level rise (SLR). In the lower Mekong Delta, most of which lies",
+     "verdict": "PASS",
+     "reason": "摘要说地下水开采引起地面沉降，其洪涝风险又被海平面上升叠加，与正文一致。",
+     "fix": "泥沙补给与地面沉降决定三角洲能否维持高程；地下水抽取引起的地面沉降与海平面上升叠加，是当代最直接的物理风险，研究表明两者共同作用。"
+    }
+   ]
+  },
+  {
+   "title": "爱琴海世界",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2209715977",
+     "field": "influence",
+     "claim": "关于该体系是否属核心—边缘依附关系，学界有修正（文献指出青铜时代缺少近代意义上的边缘依附）。",
+     "abstract_evidence": "To place these activities in a proper context, this paper initially evaluates the world systems literature as it relates to antiquity. The paper then presents some specific evidence to support the contention that the Aeg",
+     "verdict": "SOFT",
+     "reason": "该文认为爱琴海青铜时代经济是东地中海世界体系的附属部分，并对 Wallerstein 模型做了修正；摘要没有明确说「缺少近代意义上的边缘依附」，正文说法是引申。",
+     "fix": "关于该体系是否属核心—边缘依附关系，学界有修正：1996 年研究认为爱琴海青铜时代经济是东地中海世界体系的附属部分，Wallerstein 的近代模型不能直接套用。"
+    }
+   ]
+  },
+  {
+   "title": "伊比利亚半岛",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2127608683",
+     "field": "influence",
+     "claim": "气候与地形的梯度造成农业与聚落的东西、南北差异；传统植物利用知识的分布研究显示，生态多样性与文化实践高度耦合。",
+     "abstract_evidence": "We compare traditional knowledge and use of wild edible plants in six rural regions of the northwest of the Iberian Peninsula as follows: Campoo, Picos de Europa, Piloña, Sanabria and Caurel in Spain and Parque Natural d",
+     "verdict": "SOFT",
+     "reason": "研究只比较了半岛西北部六个乡村地区的野生食用植物知识；正文把它外推成全半岛「生态多样性与文化实践高度耦合」，范围被放大。",
+     "fix": "气候与地形的梯度造成农业与聚落的东西、南北差异；对半岛西北部六个乡村地区的研究显示，野生食用植物的传统利用知识因地区而异。"
+    }
+   ]
+  },
+  {
+   "title": "多瑙河",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2658592595",
+     "field": "influence",
+     "claim": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的研究显示流域尺度的过程无法由单国管理解决。",
+     "abstract_evidence": "This study provides an innovative process-based modelling approach using the SWAT model and shows its application to support the implementation of the European environmental policies in large river basins. The approach i",
+     "verdict": "SOFT",
+     "reason": "该文用 SWAT 模型模拟多瑙河流域的水与营养物质通量，用来支持欧盟环境政策；摘要没有论断「单国无法管理」，这一点是政策引申。",
+     "fix": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的流域尺度模拟研究被用于支持欧洲环境政策在全流域的实施。"
+    }
+   ]
+  },
+  {
+   "title": "洋流",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W1556419777",
+     "field": "geo",
+     "claim": "洋流由风应力与密度差驱动、并受地转平衡约束（所引 2001 年研究以海洋边缘密度结构约束过去的海洋环流与表层风强，据此估算经向地转输运及其中的风生与热盐翻转分量）；形成表层环流与深层翻转环流。",
+     "abstract_evidence": "The density structure along the ocean margins carries an integrated imprint of ocean circulation. The difference in pressure between the eastern and western margins of the ocean reflects the net meridional geostrophic tr",
+     "verdict": "PASS",
+     "reason": "摘要说边缘密度给出经向地转输运，并分出风生分量和热盐翻转上支，与正文一致。",
+     "fix": "洋流由风应力与密度差驱动、并受地转平衡约束（所引 2001 年研究以海洋边缘密度结构约束过去的海洋环流与表层风强，据此估算经向地转输运及其中的风生与热盐翻转分量）；形成表层环流与深层翻转环流。"
+    }
+   ]
+  },
+  {
+   "title": "城市起源",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2165758805",
+     "field": "definition",
+     "claim": "据 Cambridge Archaeological Journal 2014 年研究，世界最早的城市出现于两河流域平原（今伊拉克与叙利亚一带），时间在公元前第四千纪。",
+     "abstract_evidence": "The world's first cities emerged on the plains of Mesopotamia (modern Iraq and Syria) in the fourth millennium bc. Attempts to understand this settlement process have assumed revolutionary social change, the disappearanc",
+     "verdict": "PASS",
+     "reason": "摘要原句写最早的城市在公元前第四千纪出现于美索不达米亚平原（今伊拉克与叙利亚），与正文一致。",
+     "fix": "据 Cambridge Archaeological Journal 2014 年研究，世界最早的城市出现于两河流域平原（今伊拉克与叙利亚一带），时间在公元前第四千纪。"
+    }
+   ]
+  },
+  {
+   "title": "北美原住民",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2568445233",
+     "field": "overview",
+     "claim": "2017 年发表于 PLoS ONE 的研究指出，人类首次进入北美的时间「仍在科学界激烈争论」；育空 Bluefish Caves 的测年支持末次盛冰期（LGM）期间进入东白令地区（阿拉斯加与育空），但因缺少同期遗址与地层疑虑而受质疑。",
+     "abstract_evidence": "The timing of the first entry of humans into North America is still hotly debated within the scientific community. Excavations conducted at Bluefish Caves (Yukon Territory) from 1977 to 1987 yielded a series of radiocarb",
+     "verdict": "PASS",
+     "reason": "摘要说首次进入时间仍有激烈争论，Bluefish 的测年提出 LGM 期间进入东白令，但因缺少同期遗址、地层有疑问而受质疑，与正文一致。",
+     "fix": "2017 年发表于 PLoS ONE 的研究指出，人类首次进入北美的时间「仍在科学界激烈争论」；育空 Bluefish Caves 的测年支持末次盛冰期（LGM）期间进入东白令地区（阿拉斯加与育空），但因缺少同期遗址与地层疑虑而受质疑。"
+    },
+    {
+     "source": "openalex-W2109701276",
+     "field": "overview",
+     "claim": "另一项 2007 年 PLoS ONE 研究以 623 份完整线粒体 DNA 分析指出，美洲原住民源自少数亚洲奠基人群，很可能经白令地区抵达，并支持在 Beringia 停留（standstill）后扩散的模型。",
+     "abstract_evidence": "Native Americans derive from a small number of Asian founders who likely arrived to the Americas via Beringia. However, additional details about the initial colonization of the Americas remain unclear. To investigate the",
+     "verdict": "PASS",
+     "reason": "摘要写 623 份完整 mtDNA、少数亚洲奠基人群、经白令地区抵达并在 Beringia 停留，与正文一致。",
+     "fix": "另一项 2007 年 PLoS ONE 研究以 623 份完整线粒体 DNA 分析指出，美洲原住民源自少数亚洲奠基人群，很可能经白令地区抵达，并支持在 Beringia 停留（standstill）后扩散的模型。"
+    },
+    {
+     "source": "openalex-W2568445233",
+     "field": "influence",
+     "claim": "关于首次进入的时间，该 2017 年研究指出：就现有证据的总体权重而言，人类首次进入北美约在 14,000 cal BP，即末次盛冰期之后——Bluefish Caves 更早的测年因此仍属存疑证据，而非定论。",
+     "abstract_evidence": "The timing of the first entry of humans into North America is still hotly debated within the scientific community. Excavations conducted at Bluefish Caves (Yukon Territory) from 1977 to 1987 yielded a series of radiocarb",
+     "verdict": "FAIL",
+     "reason": "该文题名与摘要都主张 Bluefish Caves 新测年把人类在北美出现的时间推到末次盛冰期；正文说它认为人类在 LGM 之后（约14,000 cal BP）才进入，方向相反。",
+     "fix": "关于首次进入的时间，该 2017 年研究以 Bluefish Caves 的新测年主张人类在末次盛冰期期间已出现于东白令地区，但这一观点在学界仍有争议。"
+    }
+   ]
+  },
+  {
+   "title": "加勒比海群岛",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2126487261",
+     "field": "influence",
+     "claim": "既有系统发育研究显示：没有类群符合 Gaarlandia 陆桥模型所预测的分化时间，各族群需要逐类群的具体解释。",
+     "abstract_evidence": "Caribbean biogeography is reviewed to illustrate within a particular geographic framework how evidence of plant and animal distribution may be interpreted without commitment to special assumptions other than allopatric s",
+     "verdict": "FAIL",
+     "reason": "条目中的学术来源是 1975 年的加勒比隔离分化模型和种植园史文集，都没有检验 GAARlandia 陆桥模型（该模型晚于1975年提出）的分化时间，对象不符。",
+     "fix": "加勒比各生物类群的分化历史需要逐类群具体解释，不能用单一陆桥模型概括。"
+    }
+   ]
+  },
+  {
+   "title": "澳大利亚内陆干旱气候",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W3120122943",
+     "field": "influence",
+     "claim": "） 所引 2021 年研究以 2019/20 年「黑色夏季」 为对象，可支撑「极端干旱年份（2019 年为有记录以来最热最干年）与气候变率叠加，放大澳大利亚东南部森林火险」；该文区域为东南澳、主题为火险，不支持以内陆干旱区为主语的表述。",
+     "abstract_evidence": "The 2019/20 Black Summer bushfire disaster in southeast Australia was unprecedented: the extensive area of forest burnt, the radiative power of the fires, and the extraordinary number of fires that developed into extreme",
+     "verdict": "PASS",
+     "reason": "摘要写 2019/20 黑色夏季、2019 年最热最干、气候变率与长期趋势叠加，正文也自己限定在东南澳火险。",
+     "fix": "） 所引 2021 年研究以 2019/20 年「黑色夏季」 为对象，可支撑「极端干旱年份（2019 年为有记录以来最热最干年）与气候变率叠加，放大澳大利亚东南部森林火险」；该文区域为东南澳、主题为火险，不支持以内陆干旱区为主语的表述。"
+    }
+   ]
+  },
+  {
+   "title": "蒂亚瓦纳科",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2332228214",
+     "field": "influence",
+     "claim": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。",
+     "abstract_evidence": "Utilizing data from six seasons of field research, this article focuses on the question of the technology and social organization of intensive agricultural production in the Andean state of Tiwanaku. Recent literature in",
+     "verdict": "PASS",
+     "reason": "摘要讨论蒂亚瓦纳科核心区集约农业的技术和国家组织，与「生产组织高度技术化、不论断国家形成原因」一致。",
+     "fix": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。"
+    }
+   ]
+  },
+  {
+   "title": "安第斯垂直农业",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2021618803",
+     "field": "influence",
+     "claim": "垂直带的分层利用降低单点歉收的风险，是安第斯社会应对气候变率的长期策略；但现代气候变化正在改变带的位置，温度趋势研究显示高海拔变暖更快。",
+     "abstract_evidence": "Temperature trends vary with altitude and show a generally reduced warming with increasing elevation. However, despite the lower rate of warming, the trend toward increased temperatures is still significant at the 95% co",
+     "verdict": "FAIL",
+     "reason": "摘要说升温总体随海拔升高而减小（reduced warming with increasing elevation）；正文写「高海拔变暖更快」，方向相反。",
+     "fix": "垂直带的分层利用降低单点歉收的风险，是安第斯社会应对气候变率的长期策略；但现代气候变化正在改变带的位置，温度趋势研究显示热带安第斯自1939年以来持续升温，但升温幅度总体随海拔升高而减小。"
+    }
+   ]
+  }
+ ],
+ "missing_abstract": [
+  {
+   "title": "大堡礁",
+   "source": "openalex-W2020216779",
+   "doi": "https://doi.org/10.3354/meps251153",
+   "openalex": "abstract_inverted_index 只有 MEPS 页面抓取的残文，没有真正的摘要",
+   "crossref": "没有 abstract 字段（null）"
+  }
+ ]
+}

@@ -32,7 +32,7 @@
         "openalex-W186947854"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·爱琴海世界】本条正则 aegean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「爱琴海世界」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为爱琴海世界主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W2209715977（1996年，《MULTIPLE LEVELS IN THE AEGEAN BRONZE AGE WORLD-SYSTEM》，Journal of World-Systems Research，DOI 10.5195/jwsr.1996.93，被引 42）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第73轮补第二内容源（strong）】openalex-W186947854（2008年，《Modelling maritime interaction in the Aegean Bronze Age》，被引 251，摘要 749 字符）：主题槽命中 ['aegean', 'bronze age', 'trade', 'network']；已在本条 influence 段落点。 【第115轮语义扫描 SOFT】openalex-W186947854：该文为南爱琴海中青铜时代 34 处遗址网络建模，未论证『降低成本』或『支撑岛屿社会』",
+      "pending_notes": "关键叙述基于已核验机构的背景资料；专题史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：贸易类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·爱琴海世界】本条正则 aegean。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「爱琴海世界」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为爱琴海世界主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W2209715977（1996年，《MULTIPLE LEVELS IN THE AEGEAN BRONZE AGE WORLD-SYSTEM》，Journal of World-Systems Research，DOI 10.5195/jwsr.1996.93，被引 42）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第73轮补第二内容源（strong）】openalex-W186947854（2008年，《Modelling maritime interaction in the Aegean Bronze Age》，被引 251，摘要 749 字符）：主题槽命中 ['aegean', 'bronze age', 'trade', 'network']；已在本条 influence 段落点。 【第115轮语义扫描 SOFT】openalex-W186947854：该文为南爱琴海中青铜时代 34 处遗址网络建模，未论证『降低成本』或『支撑岛屿社会』 【第134轮语义扫描 SOFT】openalex-W2209715977：该文认为爱琴海青铜时代经济是东地中海世界体系的附属部分，并对 Wallerstein 模型做了修正；摘要没有明确说「缺少近代意义上的边缘依附」，正文说法是引申。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -40,7 +40,7 @@
       ],
       "last_update": "2026-11-25",
       "geo": "爱琴海岛屿密布、海岸曲折，山地分割出众多小盆地与港湾。地中海气候带来冬季降雨与夏季干旱，适合橄榄、葡萄与谷物混合农业。",
-      "influence": "海洋交通降低了远距离交流成本，山地与海湾促成聚落分立与海上贸易并存（地理机制部分为常识性叙述）。 所引 1996 年研究（被引 42）把爱琴海青铜时代经济视为东地中海世界体系的附属，并主张重视生产而非仅交换；该文支撑「海上交换网络」与「体系层级」判断，不支撑「地理条件促成城邦分立」。关于该体系是否属核心—边缘依附关系，学界有修正（文献指出青铜时代缺少近代意义上的边缘依附）。 所引 2008 年《Modelling maritime interaction in the Aegean Bronze Age》（被引 251）以「不完全优化」的数学模型描述爱琴海青铜时代的海上互动网络；该文能支持的范围仅为「南爱琴海中青铜时代的主要聚落可被建模为规模与联系强度不等的海上互动网络」（第115轮语义扫描收窄）。",
+      "influence": "海洋交通降低了远距离交流成本，山地与海湾促成聚落分立与海上贸易并存（地理机制部分为常识性叙述）。 所引 1996 年研究（被引 42）把爱琴海青铜时代经济视为东地中海世界体系的附属，并主张重视生产而非仅交换；该文支撑「海上交换网络」与「体系层级」判断，不支撑「地理条件促成城邦分立」。关于该体系是否属核心—边缘依附关系，学界有修正：1996 年研究认为爱琴海青铜时代经济是东地中海世界体系的附属部分，Wallerstein 的近代模型不能直接套用。 所引 2008 年《Modelling maritime interaction in the Aegean Bronze Age》（被引 251）以「不完全优化」的数学模型描述爱琴海青铜时代的海上互动网络；该文能支持的范围仅为「南爱琴海中青铜时代的主要聚落可被建模为规模与联系强度不等的海上互动网络」（第115轮语义扫描收窄）。",
       "polities": "岛屿与海湾条件促成海上贸易与城邦分立，区域后被更大政治体整合；具体文明阶段与年代待专门史料核验。",
       "connections": "爱琴海连接安纳托利亚、巴尔干与埃及，是青铜与陶器、金属与思想交流的海上枢纽。",
       "today": "以希腊为例，来源：世界银行 API。总人口 10,413,962 人（2025年）（SP.POP.TOTL）、城市化率 79.2%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 81.8 岁（2024年）（SP.DYN.LE00.IN）。爱琴海岛屿的人口与旅游数据待专门统计核验。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
@@ -395,14 +395,14 @@
         "openalex-W1985300983"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西南欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2127608683（2007年，「Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study」，DOI https://doi.org/10.1186/1746-4269-3-27）； 【第34轮返工·引用范围澄清】所引文献为野生食用植物民族植物学研究，仅涉传统植物利用知识，不支撑半岛整体地理；正文已限域表述，geo 段属常识性描述。 【第97轮补第二内容源（strong，Crossref）】openalex-W1985300983（1920年，《The Iberian Peninsula: A Geographical Study Adapted to Fifth or Sixth Grade Pupils Prize Essay Number》，被引 1，摘要 1259 字符）：已在本条 geo 段落点。 【第123轮语义扫描 SOFT】openalex-W1985300983：摘要是面向加州五六年级学生的地理教学设计说明，未提高原、山脉或气候分异 【第123轮语义扫描】openalex-W2127608683 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+      "pending_notes": "第17轮复核：西南欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2127608683（2007年，「Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study」，DOI https://doi.org/10.1186/1746-4269-3-27）； 【第34轮返工·引用范围澄清】所引文献为野生食用植物民族植物学研究，仅涉传统植物利用知识，不支撑半岛整体地理；正文已限域表述，geo 段属常识性描述。 【第97轮补第二内容源（strong，Crossref）】openalex-W1985300983（1920年，《The Iberian Peninsula: A Geographical Study Adapted to Fifth or Sixth Grade Pupils Prize Essay Number》，被引 1，摘要 1259 字符）：已在本条 geo 段落点。 【第123轮语义扫描 SOFT】openalex-W1985300983：摘要是面向加州五六年级学生的地理教学设计说明，未提高原、山脉或气候分异 【第123轮语义扫描】openalex-W2127608683 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第134轮语义扫描 SOFT】openalex-W2127608683：研究只比较了半岛西北部六个乡村地区的野生食用植物知识；正文把它外推成全半岛「生态多样性与文化实践高度耦合」，范围被放大。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-25",
       "geo": "半岛以梅塞塔高原为主体，四周为山脉，河谷深切；地中海沿岸与大西洋沿岸气候不同，内陆为大陆性。降水自西北向东南递减。 所引 1920 年《The Iberian Peninsula: A Geographical Study》是面向小学五六年级的区域地理教学研究。说明：该文是 1920 年的地理读本（面向五、六年级），年代较早，仅用于地形与气候分区的框架性描述。",
-      "influence": "气候与地形的梯度造成农业与聚落的东西、南北差异；传统植物利用知识的分布研究显示，生态多样性与文化实践高度耦合。",
+      "influence": "气候与地形的梯度造成农业与聚落的东西、南北差异；对半岛西北部六个乡村地区的研究显示，野生食用植物的传统利用知识因地区而异。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "北经比利牛斯山接西欧，南隔直布罗陀海峡望北非，是地中海与大西洋航路的交汇点。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -554,14 +554,14 @@
         "openalex-W2467786621"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2658592595（2017年，「Modelling water and nutrient fluxes in the Danube River Basin wi」，DOI https://doi.org/10.1016/j.scitotenv.2017.05.242，The Science of The Total Environment）； 年代以「流域水文观测与模拟研究（本条引 2017 年流域模型研究）」表述并注明学界有不同版本，未编造精确年份。 【第98轮补第二内容源（strong，Crossref）】openalex-W2467786621（1999年，《Hydrology as a major factor determining plankton development in two floodplain segments and the River Danube, Austria》，被引 55，摘要 781 字符）：已在本条 geo 段落点。 【第123轮语义扫描 SOFT】openalex-W2467786621：研究仅限维也纳下游两个洪泛区段，推及整条多瑙河属范围放大 【第123轮语义扫描】openalex-W2658592595 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2658592595（2017年，「Modelling water and nutrient fluxes in the Danube River Basin wi」，DOI https://doi.org/10.1016/j.scitotenv.2017.05.242，The Science of The Total Environment）； 年代以「流域水文观测与模拟研究（本条引 2017 年流域模型研究）」表述并注明学界有不同版本，未编造精确年份。 【第98轮补第二内容源（strong，Crossref）】openalex-W2467786621（1999年，《Hydrology as a major factor determining plankton development in two floodplain segments and the River Danube, Austria》，被引 55，摘要 781 字符）：已在本条 geo 段落点。 【第123轮语义扫描 SOFT】openalex-W2467786621：研究仅限维也纳下游两个洪泛区段，推及整条多瑙河属范围放大 【第123轮语义扫描】openalex-W2658592595 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第134轮语义扫描 SOFT】openalex-W2658592595：该文用 SWAT 模型模拟多瑙河流域的水与营养物质通量，用来支持欧盟环境政策；摘要没有论断「单国无法管理」，这一点是政策引申。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-25",
       "geo": "流域覆盖中欧与东南欧，上游山地、中游平原、下游三角洲三种地貌依次展开；流域内降水与融雪的季节差异决定流量过程。 所引 1999 年《Hydrology as a major factor…in two floodplain…》（被引55）以维也纳下游两段洪泛区为对象，指出水文连通性是理解大型河流—洪泛区生态过程的核心。",
-      "influence": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的研究显示流域尺度的过程无法由单国管理解决。",
+      "influence": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的流域尺度模拟研究被用于支持欧洲环境政策在全流域的实施。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "经黑海连接地中海与东欧内陆，通过运河网与莱茵河等流域相连，是欧洲内河航运的骨干之一。",
       "today": "（本条的当代指标不在本页展开。）",

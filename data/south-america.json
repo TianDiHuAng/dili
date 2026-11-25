@@ -473,7 +473,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "位于海拔约3800米的玻利维亚高原，气候寒冷干旱；的的喀喀湖调节局部温度，湖岸与高地之间的不同海拔带可分层利用。",
       "influence": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
@@ -626,7 +626,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2021618803（2000年，「Mean annual temperature trends and their vertical structure in」，DOI https://doi.org/10.1029/2000gl011871）；年代以「长期实践；本条引 2000 年垂直温度趋势研究」表述，未编造精确年份。 【第125轮语义扫描】openalex-W2021618803 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+      "pending_notes": "第15轮复核：南美洲×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2021618803（2000年，「Mean annual temperature trends and their vertical structure in」，DOI https://doi.org/10.1029/2000gl011871）；年代以「长期实践；本条引 2000 年垂直温度趋势研究」表述，未编造精确年份。 【第125轮语义扫描】openalex-W2021618803 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第134轮语义扫描 FAIL】openalex-W2021618803：摘要说升温总体随海拔升高而减小（reduced warming with increasing elevation）；正文写「高海拔变暖更快」，方向相反。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -634,7 +634,7 @@
       ],
       "last_update": "2026-11-25",
       "geo": "热带山地随海拔升高温度下降，形成从谷地到高原的多个生态带；不同带适合不同作物（玉米、马铃薯、藜麦）与牧养，形成垂直互补。",
-      "influence": "垂直带的分层利用降低单点歉收的风险，是安第斯社会应对气候变率的长期策略；但现代气候变化正在改变带的位置，温度趋势研究显示高海拔变暖更快。",
+      "influence": "垂直带的分层利用降低单点歉收的风险，是安第斯社会应对气候变率的长期策略；但现代气候变化正在改变带的位置，温度趋势研究显示热带安第斯自1939年以来持续升温，但升温幅度总体随海拔升高而减小。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "通过纵向小路连接不同海拔的聚落，与沿海渔业区形成「垂直群岛」式的交换结构。",
       "today": "（本条的当代指标不在本页展开。）",

@@ -273,6 +273,18 @@
     "NOACAD": 0
    },
    "file": "reports/round125_scan.json"
+  },
+  {
+   "round": 134,
+   "scope": "15 条逐条语义扫描",
+   "result": {
+    "PASS": 7,
+    "SOFT": 4,
+    "FAIL": 4,
+    "NA": 0,
+    "NOACAD": 0
+   },
+   "file": "reports/round134_scan.json"
   }
  ],
  "unresolved": {

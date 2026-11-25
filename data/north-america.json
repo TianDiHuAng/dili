@@ -590,7 +590,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第36轮返工后重新升级：已撤下原误用的 OpenAlex W2020901419（研究对象为巴西亚马孙 Monte Alegre 洞穴）。本轮的兩個来源均以北美/白令地区为对象：W2109701276（2007，PLoS ONE，被引 797，mtDNA 与 Beringia 停留模型）与 W2568445233（2017，PLoS ONE，被引 210，育空 Bluefish Caves 测年，明确标注该结论受质疑）。 正文对进入时间与路线均保留「仍在争论」的表述，未给出确定年代。",
+      "pending_notes": "第36轮返工后重新升级：已撤下原误用的 OpenAlex W2020901419（研究对象为巴西亚马孙 Monte Alegre 洞穴）。本轮的兩個来源均以北美/白令地区为对象：W2109701276（2007，PLoS ONE，被引 797，mtDNA 与 Beringia 停留模型）与 W2568445233（2017，PLoS ONE，被引 210，育空 Bluefish Caves 测年，明确标注该结论受质疑）。 正文对进入时间与路线均保留「仍在争论」的表述，未给出确定年代。 【第134轮语义扫描 FAIL】openalex-W2568445233：该文题名与摘要都主张 Bluefish Caves 新测年把人类在北美出现的时间推到末次盛冰期；正文说它认为人类在 LGM 之后（约14,000 cal BP）才进入，方向相反。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -598,7 +598,7 @@
       ],
       "last_update": "2026-11-25",
       "geo": "北美原住民的分布跨越北极、亚寒带、温带与干旱区，聚落形态随生态带变化显著。就进入路径而言，白令地区（今白令海峡两侧）是亚洲与美洲之间的陆桥区；末次盛冰期海平面下降使该陆桥出露，冰川消退的先后则决定内陆通道与沿海通道何时可用。这些路径假说的具体时间仍属研究议题，本条不给出确定年代。",
-      "influence": "所引 2007 年研究以大规模线粒体 DNA 分析表明：美洲原住民源自少数亚洲奠基人群，其内部遗传多样性高于此前报告，系统发育结构支持人群在 Beringia 有停留期后向南北扩散。所引 2017 年研究则以育空 Bluefish Caves 的测年支持末次盛冰期期间已进入东白令地区，同时明确指出该结论仍受质疑。两项证据分别来自遗传学与考古测年，相互补充但都不构成定论。 关于首次进入的时间，该 2017 年研究指出：就现有证据的总体权重而言，人类首次进入北美约在 14,000 cal BP，即末次盛冰期之后——Bluefish Caves 更早的测年因此仍属存疑证据，而非定论。",
+      "influence": "所引 2007 年研究以大规模线粒体 DNA 分析表明：美洲原住民源自少数亚洲奠基人群，其内部遗传多样性高于此前报告，系统发育结构支持人群在 Beringia 有停留期后向南北扩散。所引 2017 年研究则以育空 Bluefish Caves 的测年支持末次盛冰期期间已进入东白令地区，同时明确指出该结论仍受质疑。两项证据分别来自遗传学与考古测年，相互补充但都不构成定论。 关于首次进入的时间，该 2017 年研究以 Bluefish Caves 的新测年主张人类在末次盛冰期期间已出现于东白令地区，但这一观点在学界仍有争议。",
       "polities": "本条不展开具体族群的政治序列；不同区域的社会组织形态差异极大，待专门的民族志与考古研究核验。",
       "connections": "经白令地区与东北亚相连，是美洲人群扩散的入口；此后南北美洲之间的走廊（中美洲地峡）成为继续南向扩散的通道。这一「自西北向东南」的扩散方向是遗传学与考古学共同支持的框架，具体路线与年代待核。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -823,14 +823,14 @@
         "openalex-W597527439"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。 【第42轮返工】原写「以隔离分化模型解释」，与摘要结论相反，已改为「两模型并存、无类群符合 Gaarlandia 预测时间」。 【第80轮补第二内容源（strong）】openalex-W597527439（2002年，《In the shadow of the plantation : Caribbean history and legacy》，被引 75，摘要 1889 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W597527439：摘要为目录，含蔗糖革命与奴隶种植园章节，人口结构重塑为引申 【第124轮语义扫描】openalex-W2126487261 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。 【第42轮返工】原写「以隔离分化模型解释」，与摘要结论相反，已改为「两模型并存、无类群符合 Gaarlandia 预测时间」。 【第80轮补第二内容源（strong）】openalex-W597527439（2002年，《In the shadow of the plantation : Caribbean history and legacy》，被引 75，摘要 1889 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W597527439：摘要为目录，含蔗糖革命与奴隶种植园章节，人口结构重塑为引申 【第124轮语义扫描】openalex-W2126487261 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第134轮语义扫描 FAIL】openalex-W2126487261：条目中的学术来源是 1975 年的加勒比隔离分化模型和种植园史文集，都没有检验 GAARlandia 陆桥模型（该模型晚于1975年提出）的分化时间，对象不符。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-25",
       "geo": "岛链由火山岛与珊瑚岛组成，按大小与海拔分层；信风与洋流决定降水与物种扩散方向，岛屿间的距离是扩散的屏障也是通道。",
-      "influence": "加勒比群岛的生物区系形成涉及隔离分化（vicariance）与跨海扩散两种模型。既有系统发育研究显示：没有类群符合 Gaarlandia 陆桥模型所预测的分化时间，各族群需要逐类群的具体解释。 因此本条不把单一模型当作既定结论（D092）。 所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）讨论种植园与奴隶制对加勒比社会的塑造；本条「群岛经济以甘蔗种植园为主」据此。",
+      "influence": "加勒比群岛的生物区系形成涉及隔离分化（vicariance）与跨海扩散两种模型。加勒比各生物类群的分化历史需要逐类群具体解释，不能用单一陆桥模型概括。 因此本条不把单一模型当作既定结论（D092）。 所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）讨论种植园与奴隶制对加勒比社会的塑造；本条「群岛经济以甘蔗种植园为主」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经海流与信风连接北美、中美与南美，近代成为跨大西洋航线的必经水域。",
       "today": "（本条的当代指标不在本页展开。）",
