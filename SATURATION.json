@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 143,
+  "last_round": 145,
   "history": [
     {
       "round": 1,
@@ -846,5 +846,5 @@
   ],
   "unsolvable": [],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第143轮审计发现 2 项（D1/E1），非零缺口；连续计数保持 0。"
+  "zero_gap_streak_note": "第145轮审计发现 3 项（B2 重复句、D1 旁证通例），非零缺口；连续计数保持 0。"
 }

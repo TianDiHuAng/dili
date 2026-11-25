@@ -1,0 +1,156 @@
+{
+ "A": {
+  "seed": 145,
+  "method": "池 = round115–134 各 scan 中 verdict∈{SOFT,FAIL} 且 fix 非空、且 fix 当前逐字存在于该条目某正文域（definition/time_or_place/overview/geo/influence/polities/connections/today）的项（按 title+source 去重）；并入 round135–144 各 audit（135/136/137/138/139/140/142/143/144，141 无文件）中 verdict∈{SOFT,FAIL} 且 fix 非空且 fix 当前存在的项；再排除第135–144轮已抽过（各 audit A.items 的 title+source 并集）的项；剩余≥30 用种子 145 抽 30，不足全取。",
+  "scan_files": [
+   115,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134
+  ],
+  "all_scan_softfail_with_fix_items": 164,
+  "scan_fix_present_instances": 124,
+  "scan_fix_present_unique_pairs": 123,
+  "already_sampled_pairs_135_144": 162,
+  "scan_remaining_after_exclusion": 0,
+  "audit_softfail_with_fix_items_135_144": 8,
+  "audit_of_which_fix_present": 6,
+  "audit_remaining_after_exclusion": 0,
+  "sampled": 0,
+  "note": "扫描池与 135–144 已抽集合同样覆盖：round115–134 全部 SOFT/FAIL-且-fix-现存 的 123 个 (title,source) 唯一对均已出现在 135–144 已抽的 162 对集合内（剩余 0）；135–144 各 audit 中仍判 SOFT/FAIL 且 fix 现存的 6 项也都在各自审计轮被抽过。故本轮无合格候选可抽，未触发 OpenAlex 摘要重取（无候选）。与 round143/round144 的 A 池耗竭结论一致。",
+  "items": []
+ },
+ "B": {
+  "items": [
+   {
+    "title": "地理信息系统",
+    "field": "influence",
+    "claim": "所引 2006 年文献是区域空间决策支持系统（SDSS）的概念设计，以 GIS 为底座、外挂模型与多准则评价（被引仅 4，属工程案例，仅作旁证）。 ",
+    "fix": "",
+    "reason": "第144轮 D 项将原通例断言替换为「本条不据此对 GIS 的一般能力作断言」时，把首句整段又重复了一遍：字段现为「所引 2006 年文献是…（被引仅 4，属工程案例，仅作旁证）。 所引 2006 年文献是…（被引仅 4，属工程案例，仅作旁证）；本条不据此…待补。」同一引述句在同一字段内完整重复（首句是次句前缀），属同字段重复句。建议删去前一句（保留带「本条不据此…」的完整句）。",
+    "type": "同字段重复句"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "geo",
+    "claim": "所引 1970 年研究重建不列颠群岛的三叠纪古地理；该文能支持的范围仅为「三叠纪时期群岛沉积盆地受断层控制、可分为六个岩性阶段」。 ",
+    "fix": "",
+    "reason": "第119轮语义扫描收窄时新增的句子与原有句前置主句完全相同：字段为「所引 1970 年研究重建不列颠群岛的三叠纪古地理；该文能支持的范围仅为「…六个岩性阶段」。 所引 1970 年研究重建不列颠群岛的三叠纪古地理，指出沉积盆地受断层控制、可能形成于海西造山期末；本条据此写…」同一文献在同一字段被引述两次，构成同字段重复句。建议删去前一句，保留信息更全的后一句。",
+    "type": "同字段重复句"
+   }
+  ]
+ },
+ "C": {
+  "selfcheck_aggregates": "ALL CONSISTENT 0",
+  "selfcheck_detail": "levels {A:215, D:28}; content ge2/one/zero = 215/27/1; gaps {G1:0,G2:0,G3:0,G4:0}",
+  "g1_recompute": {
+   "count": 0,
+   "note": "按 tools/assess.level_of 全量重算，C 级=0"
+  },
+  "g3_recompute": {
+   "count": 0,
+   "note": "content_count==1 的 27 条全部为 D 级（指标解读类），非 D 且 content==1 的 0 条 → G3=0"
+  },
+  "sampled_recompute": [
+   {
+    "title": "撒哈拉沙漠",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   },
+   {
+    "title": "两河流域",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   },
+   {
+    "title": "水资源管理",
+    "computed_level": "D",
+    "recorded_level": "D",
+    "content_count": 0
+   },
+   {
+    "title": "二氧化碳排放清单",
+    "computed_level": "D",
+    "recorded_level": "D",
+    "content_count": 1
+   },
+   {
+    "title": "大堡礁",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   }
+  ],
+  "evidence_level_vs_round62": "round62_gaps.levels 与 assess 重算 243 条逐条一致（0 处不符）；evidence_level.json summary A215/B0/C0/D28 与重算一致",
+  "no_solution": "data/no_solution.json entries=0（空），无需逐条核验；G2 记为既有结论",
+  "items": []
+ },
+ "D": {
+  "scope": "全量扫描 pending_notes 明确标「旁证/仅作登记/不支撑任何断言」（含 D112降级、侧面文献、书评）的 openalex 来源，检查正文（8 字段）是否仍以其为依据（含转述结论或数字）；按 D112 排除纯指针与同名/同年另一来源。",
+  "checked_side_openalex_instances": 32,
+  "items": [
+   {
+    "title": "文艺复兴意大利",
+    "field": "influence",
+    "source": "openalex-W2487072270",
+    "claim": "本条据此写「城邦竞争与区域国家的兴替构成文艺复兴的政治背景」。该文能支持的范围仅为「14–15 世纪城邦国家衰落、区域国家形成构成文艺复兴的政治背景」；",
+    "fix": "本条据此写「14–15 世纪城邦国家衰落、区域国家形成构成文艺复兴的政治背景」；",
+    "reason": "pending_notes【第54轮D112降级】明载 openalex-W2487072270 为旁证（摘要660字符<800），「仅可作『城邦危机与区域国家形成』的提示，不能作为本条政治背景的唯一依据」；【第119轮语义扫描 SOFT】指出「摘要讲城邦国家的危机及其被纳入区域国家，未提『城邦竞争』」。但正文仍「据此写『城邦竞争与区域国家的兴替构成文艺复兴的政治背景』」，把摘要未支持的「城邦竞争」当作结论转述，与紧接的限定句（只写到「城邦国家衰落、区域国家形成」）自相矛盾。属正文仍以旁证为超出其支持范围的断言依据。"
+   }
+  ],
+  "excluded_note": "其余 side/旁证 来源经复核均属以下情形，按 D112 不判为缺陷：①纯指针/中性描述（如各条「所引 YYYY 年《…》讨论/研究…」只客观描述该文献内容，不据此立条目断言）；②正文已明写限定/否定（突厥「仅作旁证，不据此断言汗国建立年份」；撒哈拉沙漠「不以其作为地质时期干旱化的定论」；人口地理「不据此支撑全球尺度」；GIS「本条不据此作一般断言」）；③所断言恰在 pending 允许范围内（河流三角洲「河口沙坝形成与前积」、美国西进「版图从大西洋岸延伸到太平洋岸」均为 pending 明确许可的旁证概述）；④同名/同年另一来源造成的匹配（如马其顿与亚历山大《Alexander the Great and His Empire》≠W1970392988《…Logistics》；拜占庭 1997《A History of the Byzantine State and Society》≠W1968112198《Birth of the Hospital》）。"
+ },
+ "E": {
+  "check_py": "检查条目 243 条，来源 809 条；ERRORS=0 ALL_PASS",
+  "check_links_py": "检查内部链接 4941 条；BROKEN=0 LINKS_PASS",
+  "gap_numbers": {
+   "SATURATION.json": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "gap_model.counts": "G1=0,G2=0,G3=0,G4=0"
+   },
+   "reports/round62_gaps.json": {
+    "gaps": [],
+    "one_source_entries": [],
+    "zero_source_entries": [],
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0
+   },
+   "data/no_solution.json": {
+    "entries": 0
+   },
+   "site/limits.html": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "G3a": 0,
+    "G3b": 0,
+    "无合格第二来源条数": 0
+   },
+   "site无合格第二来源条目数": 0
+  },
+  "aligned": true,
+  "observation": "SATURATION.last_round 仍为 143、zero_gap_streak_note 仍写「第143轮审计发现2项」——属元数据未随第144轮更新，但不是缺口数字本身，五处缺口数字（全 0）一致。",
+  "items": []
+ }
+}
