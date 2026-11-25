@@ -49,20 +49,21 @@ def china_rings():
     topo = json.load(open(CACHE, encoding="utf-8"))
     arcs = _decode_arcs(topo)
     geoms = topo["objects"]["countries"]["geometries"]
-    g = None
-    for it in geoms:
-        if str(it.get("id")) == "156" or it.get("properties", {}).get("name") == "China":
-            g = it; break
-    if g is None:
-        raise RuntimeError("未找到 China 几何")
+    # 中国本体（156）+ 台湾（158）合并为一国轮廓
+    want = {"156", "158"}
+    picked = [it for it in geoms if str(it.get("id")) in want
+              or it.get("properties", {}).get("name") in ("China", "Taiwan")]
+    if not picked:
+        raise RuntimeError("未找到 China/Taiwan 几何")
     rings = []
-    if g["type"] == "Polygon":
-        for ring in g["arcs"]:
-            rings.append(_ring_points(ring, arcs))
-    else:
-        for poly in g["arcs"]:
-            for ring in poly:
+    for g in picked:
+        if g["type"] == "Polygon":
+            for ring in g["arcs"]:
                 rings.append(_ring_points(ring, arcs))
+        else:
+            for poly in g["arcs"]:
+                for ring in poly:
+                    rings.append(_ring_points(ring, arcs))
     # 面积（经纬度近似）排序
     def area(r):
         a = 0
@@ -134,5 +135,11 @@ def combine(existing_svg, lon, lat, label):
     """把定位图叠加到既有剖面图上方，返回 900x760 的合成 SVG。"""
     inner = existing_svg.strip()
     inner = inner[inner.index(">") + 1: inner.rindex("</svg>")]
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 760' role='img' aria-label='位置图与剖面示意图'>"
+            + locator_svg(lon, lat, label) + "<g transform='translate(0,258)'>" + inner + "</g></svg>")
+
+
+def combine_inner(inner, lon, lat, label):
+    """inner 为不含 <svg> 包裹的绘图内容；返回 900x760 合成 SVG（定位图在上、剖面在下）。"""
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 760' role='img' aria-label='位置图与剖面示意图'>"
             + locator_svg(lon, lat, label) + "<g transform='translate(0,258)'>" + inner + "</g></svg>")
