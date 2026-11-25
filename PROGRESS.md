@@ -280,3 +280,11 @@
 
 ## 第150轮（独立审计）
 - A/B/C/D/E 五类全部 0，本轮零缺口。连续零缺口计数 = 2（第149、150两轮）。
+
+## 第151轮（判定轮）：进入维护模式
+- 第149、150、151 三轮独立审计五类（A 替换质量 / B 正文机械缺陷 / C 判据一致性 / D 来源-正文一致性 / E 全站一致性）连续全为 0。
+- 依协议将 SATURATION.saturated 置 true、zero_gap_streak=3、记 maintenance（entered_round=151）。
+- 同步修正 SATURATION.evidence.side_evidence 旧快照（dropped 27→37，与 data/side_evidence.json 一致）。
+- limits 页状态文案更新为「已进入维护模式」，并说明 G4 为人工逐条语义对读。
+- 终态：243 条目全部 L2；层级 A215 / B0 / C0 / D28；缺口 G1=0 / G2=0 / G3=0 / G4=0；check.py 0 错误、check_links.py 0 断链、selfcheck_aggregates ALL CONSISTENT。
+- 未写 ALL_DONE（遵守 TASK 规则）；维护模式仍可在发现新证据或数据不一致时修订。
