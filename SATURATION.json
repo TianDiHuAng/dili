@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 139,
+  "last_round": 142,
   "history": [
     {
       "round": 1,
@@ -762,10 +762,10 @@
   "evidence": {
     "ge2_has_body": 224,
     "levels": {
-      "A": 214,
+      "A": 215,
       "B": 0,
       "C": 0,
-      "D": 29
+      "D": 28
     },
     "side_evidence": {
       "side": 34,
@@ -798,7 +798,7 @@
       {
         "id": "G2",
         "name": "检索确认无合格主来源",
-        "count": 3,
+        "count": 0,
         "fixed_by": "仅待新文献出现；不再重试同类检索"
       },
       {
@@ -844,11 +844,7 @@
       "event": "核心缺口清零（G3a 核心 0 / G3b 核心 0）；剩余 27 条均为重要或补充级"
     }
   ],
-  "unsolvable": [
-    "笈多王朝",
-    "巴西高原",
-    "拉普拉塔平原"
-  ],
+  "unsolvable": [],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第139轮审计发现 36 项（A1/B33/E2）+人工补1，非零缺口；连续计数保持 0。"
+  "zero_gap_streak_note": "第142轮审计发现 9 项（B2/D4/E3），非零缺口；连续计数保持 0。"
 }
