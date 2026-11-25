@@ -140,6 +140,35 @@ def hero_china_svg():
     except Exception:
         return ''
 
+
+try:
+    from apply_illos_all import COORD as ENTRY_COORD
+except Exception:
+    ENTRY_COORD = {}
+
+def unit_map_svg(uid, entries_list):
+    try:
+        import illos, locator
+        bbox = illos.UNIT_BBOX[uid]; box=(20,20,660,300)
+        parts=["<svg viewBox='0 0 700 344' role='img' aria-label='本洲条目分布示意'>",
+               "<rect x='10' y='10' width='680' height='324' rx='10' fill='none' stroke='var(--line)'/>"]
+        parts.append(locator.map_svg(box, bbox, None, None, None))
+        n=0
+        for e in entries_list:
+            c=ENTRY_COORD.get(e['title'])
+            if not c: continue
+            if not (bbox[0]<=c[0]<=bbox[1] and bbox[2]<=c[1]<=bbox[3]): continue
+            px,py=locator._project(c[0],c[1],box,bbox)
+            parts.append(f"<a href='../entries/{e['id']}.html'><circle cx='{px:.0f}' cy='{py:.0f}' r='4' fill='#c0392b'/><title>{esc(e['title'])}</title></a>")
+            n+=1
+        parts.append(f"<text x='20' y='328' font-size='11' fill='var(--dim)'>红点为本站该洲条目所在（{n} 个有定位）· 示意，非精确测绘</text></svg>")
+        return "".join(parts)
+    except Exception:
+        return ''
+
+def x_id_ok(x, e):
+    return True
+
 def main():
     os.makedirs(os.path.join(SITE, "css"), exist_ok=True)
     os.makedirs(os.path.join(SITE, "entries"), exist_ok=True)
@@ -193,6 +222,9 @@ svg text{fill:var(--ink);font-family:sans-serif;font-size:13px}svg .lbl{fill:var
 .crumb{font-size:.85rem;color:var(--dim);margin-bottom:12px}
 ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 @media (max-width:640px){h1{font-size:1.5rem}.nav{gap:8px;font-size:.82rem}main{padding:20px 14px}}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff;color:#000}.top,.foot,.nav,.crumb{display:none}main{max-width:none}svg{border:none;page-break-inside:avoid}a{color:#000;text-decoration:underline}.section{border:1px solid #999;page-break-inside:avoid}}
 '''.lstrip()
     with open(os.path.join(SITE, "css", "style.css"), "w", encoding="utf-8") as f:
         f.write(css)
@@ -235,7 +267,8 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
             if theme in groups:
                 ghtml += f"<h2>{esc(theme)}（{len(groups[theme])}）</h2><div class='grid'>" + "".join(entry_card(e) for e in groups[theme]) + "</div>"
         body = f'''<div class="crumb"><a href="../index.html">首页</a> / {esc(doc['title'])}</div><h1>{esc(doc['title'])}</h1>
-<p class="lead">{len(doc['entries'])} 个条目。按主题分组，点击条目进入详情。</p><div class="section"><h2>图形图例与数据来源</h2><p class="dim">每条目的图示：<b>上半</b>为所在大洲真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川（红点为该条目位置）；<b>下半</b>按主题绘制——地形=地貌剖面；气候=Köppen 真实气候分区（红点为所在气候型）；农业/贸易/区域=系统示意；政权更替=historical-basemaps 历史疆域快照；指标类=世界银行真实折线图。</p><p class="dim">数据：Natural Earth（公有领域）；historical-basemaps（CC BY 4.0）；Köppen-Geiger（Beck et al.，经 rjerue/koppen-map）；World Bank API。所有图为示意图、非精确测绘，争议边界不画线。</p></div>{ghtml}'''
+<p class="lead">{len(doc['entries'])} 个条目。按主题分组，点击条目进入详情。</p>
+<h2>本洲条目分布</h2>{unit_map_svg(uid, doc['entries'])}<div class="section"><h2>图形图例与数据来源</h2><p class="dim">每条目的图示：<b>上半</b>为所在大洲真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川（红点为该条目位置）；<b>下半</b>按主题绘制——地形=地貌剖面；气候=Köppen 真实气候分区（红点为所在气候型）；农业/贸易/区域=系统示意；政权更替=historical-basemaps 历史疆域快照；指标类=世界银行真实折线图。</p><p class="dim">数据：Natural Earth（公有领域）；historical-basemaps（CC BY 4.0）；Köppen-Geiger（Beck et al.，经 rjerue/koppen-map）；World Bank API。所有图为示意图、非精确测绘，争议边界不画线。</p></div>{ghtml}'''
         with open(os.path.join(SITE, "units", uid + ".html"), "w", encoding="utf-8") as f:
             f.write(page(doc["title"], body, 1))
 
@@ -263,6 +296,17 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
         parts.append('<div class="section"><h2>来源</h2><ul class="src">' + "".join(f"<li>{source_link(s, sources)}</li>" for s in e["sources"]) + "</ul></div>")
         if e.get("related"):
             parts.append('<h2>相关条目</h2><p>' + "".join(f'<a class="tag" href="{esc(r)}.html">{esc(entries[r]["title"])}</a>' for r in e["related"] if r in entries) + "</p>")
+        # 同主题相关 + 上/下一篇
+        sib = [x for x in sorted(units[e["unit_id"]]["entries"], key=lambda z: z["title"]) if x_id_ok(x, e)]
+        same = [x for x in sib if x["theme"] == e["theme"] and x["id"] != eid][:6]
+        if same:
+            parts.append('<h2>同主题条目</h2><p>' + "".join(f'<a class="tag" href="{esc(x["id"])}.html">{esc(x["title"])}</a>' for x in same) + "</p>")
+        idx = [x["id"] for x in sib].index(eid) if eid in [x["id"] for x in sib] else -1
+        if idx >= 0:
+            nav = []
+            if idx > 0: nav.append(f'<a class="tag" href="{esc(sib[idx-1]["id"])}.html">← {esc(sib[idx-1]["title"])}</a>')
+            if idx < len(sib)-1: nav.append(f'<a class="tag" href="{esc(sib[idx+1]["id"])}.html">{esc(sib[idx+1]["title"])} →</a>')
+            if nav: parts.append('<h2>上一篇 / 下一篇</h2><p>' + " ".join(nav) + "</p>")
         with open(os.path.join(SITE, "entries", eid + ".html"), "w", encoding="utf-8") as f:
             f.write(page(e["title"], "\n".join(parts), 1))
 
