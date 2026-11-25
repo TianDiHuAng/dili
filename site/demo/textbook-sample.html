@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>教科书式插图样板 — 黄土高原 / 喀斯特</title>
+<style>
+:root{--bg:#fbf9f4;--ink:#22201c;--dim:#6b6459;--line:#d9d2c4;--accent:#a4501a;--accent2:#2f6f8f;
+--loess1:#e8c97a;--loess2:#d9b25c;--paleosol:#b4632f;--bedrock:#9a9488;--water:#4a90c2;--karst:#cfd6cf;--sky:#f2efe6;}
+@media (prefers-color-scheme:dark){:root{--bg:#171614;--ink:#eae4d8;--dim:#a49c8e;--line:#3a3730;--accent:#e08a4a;--accent2:#6fa8c8;
+--loess1:#7a6330;--loess2:#63521f;--paleosol:#8a4a24;--bedrock:#54504a;--water:#3f7ba6;--karst:#3b423b;--sky:#1e1c19;}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 "Noto Serif SC",Georgia,serif}
+.wrap{max-width:900px;margin:0 auto;padding:32px 20px 64px}
+h1{font-size:26px;margin:0 0 6px}
+.lead{color:var(--dim);margin:0 0 28px}
+.card{border:1px solid var(--line);border-radius:12px;padding:20px;margin:0 0 28px;background:color-mix(in srgb,var(--bg) 92%,var(--ink) 4%)}
+h2{font-size:19px;margin:0 0 4px}
+.cap{color:var(--dim);font-size:13px;margin:6px 0 14px}
+svg{width:100%;height:auto;display:block}
+.lbl{fill:var(--ink);font-size:13px;font-family:"Noto Sans SC",sans-serif}
+.lbl-s{fill:var(--dim);font-size:11px;font-family:"Noto Sans SC",sans-serif}
+.note{fill:var(--dim);font-size:11px;font-family:"Noto Sans SC",sans-serif}
+.arrow{stroke:var(--accent);stroke-width:1.6;fill:none;marker-end:url(#ah)}
+</style></head><body><div class="wrap">
+<h1>教科书式内联 SVG 插图 · 样板</h1>
+<p class="lead">同一套 CSS 变量适配浅色/深色模式；分层色块、剖面、图例、标注，图下注明「示意图，非精确测绘」。这两幅是同风格的两种题型：地貌剖面 + 地下过程。</p>
+
+<div class="card">
+<h2>图 1 · 黄土高原：地层剖面与塬—梁—峁</h2>
+<p class="cap">左侧为黄土地层柱状剖面（马兰黄土 / 离石黄土夹古土壤 / 午城黄土 / 基岩），右侧为流水侵蚀塑造的塬、梁、峁三种黄土地貌形态。</p>
+<svg viewBox="0 0 820 380" role="img" aria-label="黄土高原地层剖面与塬梁峁示意图">
+  <defs>
+    <marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="none" stroke="var(--accent)" stroke-width="1.4"/></marker>
+  </defs>
+  <!-- 剖面上半：地表与形态 -->
+  <rect x="20" y="20" width="780" height="340" rx="10" fill="none" stroke="var(--line)"/>
+  <!-- 塬 -->
+  <path d="M60 200 L60 150 L190 150 L200 160 L200 200 Z" fill="var(--loess1)" stroke="var(--accent)" stroke-width="1.2"/>
+  <text x="96" y="140" class="lbl">塬（平坦台面）</text>
+  <!-- 梁 -->
+  <path d="M250 200 L250 168 L300 140 L360 138 L410 165 L410 200 Z" fill="var(--loess2)" stroke="var(--accent)" stroke-width="1.2"/>
+  <text x="300" y="126" class="lbl">梁（长条形）</text>
+  <!-- 峁 -->
+  <path d="M470 200 C490 150 540 128 575 140 C615 150 630 178 640 200 Z" fill="var(--loess1)" stroke="var(--accent)" stroke-width="1.2"/>
+  <text x="520" y="120" class="lbl">峁（馒头状）</text>
+  <!-- 沟谷侵蚀 -->
+  <path d="M205 200 C215 178 230 176 245 200" fill="none" stroke="var(--water)" stroke-width="1.6"/>
+  <path d="M415 200 C430 172 450 172 465 200" fill="none" stroke="var(--water)" stroke-width="1.6"/>
+  <text x="188" y="222" class="lbl-s">沟谷下切</text>
+  <path class="arrow" d="M300 150 L330 168"/><text x="318" y="150" class="lbl-s">侵蚀</text>
+  <!-- 剖面（左下柱状） -->
+  <text x="60" y="256" class="lbl">地层剖面</text>
+  <rect x="60" y="264" width="150" height="26" fill="var(--loess1)" stroke="var(--line)"/><text x="218" y="282" class="lbl-s">马兰黄土（晚更新世）</text>
+  <rect x="60" y="290" width="150" height="30" fill="var(--loess2)" stroke="var(--line)"/>
+  <rect x="60" y="300" width="150" height="5" fill="var(--paleosol)"/>
+  <rect x="60" y="311" width="150" height="5" fill="var(--paleosol)"/>
+  <text x="218" y="310" class="lbl-s">离石黄土（夹多层古土壤）</text>
+  <rect x="60" y="320" width="150" height="14" fill="#c9a24a" opacity=".8" stroke="var(--line)"/><text x="218" y="331" class="lbl-s">午城黄土（早更新世）</text>
+  <rect x="60" y="334" width="150" height="14" fill="var(--bedrock)" stroke="var(--line)"/><text x="218" y="345" class="lbl-s">基岩</text>
+  <!-- 图例 -->
+  <g transform="translate(470,250)">
+    <text x="0" y="0" class="lbl">图例</text>
+    <rect x="0" y="10" width="16" height="10" fill="var(--loess1)" stroke="var(--line)"/><text x="22" y="19" class="lbl-s">黄土</text>
+    <rect x="0" y="26" width="16" height="10" fill="var(--paleosol)" stroke="var(--line)"/><text x="22" y="35" class="lbl-s">古土壤（气候变湿的印记）</text>
+    <rect x="0" y="42" width="16" height="10" fill="var(--bedrock)" stroke="var(--line)"/><text x="22" y="51" class="lbl-s">基岩</text>
+    <path d="M0 66 L16 66" stroke="var(--water)" stroke-width="1.6"/><text x="22" y="70" class="lbl-s">沟谷 / 水流</text>
+  </g>
+  <text x="40" y="372" class="note">黄土高原 · 示意图，非精确测绘</text>
+</svg>
+</div>
+
+<div class="card">
+<h2>图 2 · 喀斯特：峰林与地下溶洞水文</h2>
+<p class="cap">地表峰丛/峰林与洼地，配合石灰岩层理、溶洞、石钟乳与石笋、地下河，水沿裂隙下渗形成地表—地下双层排水。</p>
+<svg viewBox="0 0 820 360" role="img" aria-label="喀斯特峰林与地下溶洞水文示意图">
+  <rect x="20" y="20" width="780" height="320" rx="10" fill="none" stroke="var(--line)"/>
+  <!-- 石灰岩基底 -->
+  <rect x="40" y="200" width="740" height="120" fill="var(--karst)" stroke="var(--line)"/>
+  <g stroke="var(--line)" stroke-width=".8" opacity=".8">
+    <path d="M40 226 H780"/><path d="M40 252 H780"/><path d="M40 278 H780"/><path d="M40 304 H780"/>
+  </g>
+  <text x="700" y="196" class="lbl-s">石灰岩（可溶岩）</text>
+  <!-- 峰丛峰林 -->
+  <path d="M60 200 C80 150 110 140 130 170 C150 130 185 132 205 170 C225 150 250 160 265 200 Z" fill="var(--karst)" stroke="var(--accent)" stroke-width="1.3"/>
+  <text x="110" y="126" class="lbl">峰丛</text>
+  <path d="M320 200 C335 158 360 150 378 178 C398 140 430 146 448 180 C466 158 490 170 500 200 Z" fill="var(--karst)" stroke="var(--accent)" stroke-width="1.3"/>
+  <text x="372" y="136" class="lbl">峰林</text>
+  <!-- 洼地 -->
+  <path d="M530 200 C560 188 610 188 640 200" fill="none" stroke="var(--accent2)" stroke-width="1.4"/>
+  <text x="556" y="184" class="lbl-s">溶蚀洼地</text>
+  <!-- 溶洞与地下河 -->
+  <path d="M120 250 C200 240 260 260 340 248 C420 238 500 262 620 250" fill="none" stroke="var(--water)" stroke-width="4" opacity=".85"/>
+  <text x="360" y="242" class="lbl-s">地下河</text>
+  <ellipse cx="300" cy="250" rx="60" ry="22" fill="var(--bg)" stroke="var(--water)" stroke-width="1.2"/>
+  <text x="272" y="254" class="lbl-s">溶洞</text>
+  <path d="M285 230 l0 18" stroke="var(--accent2)" stroke-width="2"/><text x="248" y="222" class="lbl-s">石钟乳</text>
+  <path d="M315 268 l0 -16" stroke="var(--accent2)" stroke-width="2"/><text x="316" y="286" class="lbl-s">石笋</text>
+  <!-- 下渗箭头 -->
+  <path class="arrow" d="M150 190 L150 236"/><path class="arrow" d="M240 190 L240 232"/>
+  <text x="96" y="206" class="lbl-s">沿裂隙下渗</text>
+  <!-- 泉 -->
+  <path d="M660 250 C690 250 700 236 700 220" fill="none" stroke="var(--water)" stroke-width="2.4"/>
+  <text x="660" y="212" class="lbl-s">岩溶泉出露</text>
+  <text x="40" y="352" class="note">喀斯特地貌 · 示意图，非精确测绘</text>
+</svg>
+</div>
+
+<p class="cap">注：本页为风格样板，展示「教科书式」可达到的层级。确认风格后，按同一规范批量补齐中国的大地貌单元（黄土高原、云贵喀斯特、四川盆地、塔里木盆地、东北平原、华北平原、长江中下游平原、珠江三角洲、秦岭—淮河一线等），每条配成因剖面/过程示意 SVG，并逐条配可核验来源。</p>
+</div></body></html>
