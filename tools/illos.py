@@ -201,3 +201,55 @@ def build(entry, coords=None):
             + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
             + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
             + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
+
+
+# ---------- Phase3 历史疆域快照 ----------
+import histmap
+YEAR = {
+"古埃及早王朝":-3000,"古埃及古王国":-2000,"古埃及中王国":-1800,"古埃及新王国":-1300,"罗马阿非利加":200,
+"阿拉伯征服北非":700,"法蒂玛王朝":1000,"桑海帝国":1500,"苏美尔城邦":-3000,"阿卡德帝国":-2000,
+"古巴比伦":-1700,"亚述帝国":-700,"赫梯王国":-1500,"阿契美尼德波斯":-500,"萨珊波斯":500,"吠陀时代":-1000,
+"孔雀王朝":-300,"笈多王朝":400,"商代":-1500,"周代":-700,"秦代":-200,"元代":1300,"吴哥":1200,
+"匈奴":-200,"突厥":700,"蒙古帝国":1279,"帖木儿帝国":1400,"克里特文明":-1500,"迈锡尼文明":-1500,
+"古希腊城邦":-500,"马其顿与亚历山大":-323,"罗马共和国":-100,"罗马帝国":200,"拜占庭帝国":1000,
+"法兰克王国":800,"神圣罗马帝国":1600,"基辅罗斯":1000,"莫斯科公国":1500,"奥尔梅克":-1000,
+"玛雅文明":700,"阿兹特克":1500,"十三殖民地":1700,"查文文化":-500,"蒂亚瓦纳科":800,"奇穆帝国":1200,
+"印加帝国":1500,"巴西殖民经济":1700,"城市起源":-3000,
+}
+
+def _hist_diagram(e, coords):
+    unit = e.get("unit_id","global-themes")
+    bb = list(UNIT_BBOX.get(unit, UNIT_BBOX["global-themes"]))
+    if coords:
+        bb = [min(bb[0], coords[0]-4), max(bb[1], coords[0]+4), min(bb[2], coords[1]-4), max(bb[3], coords[1]+4)]
+    y = histmap.nearest(YEAR[e["title"]])
+    frag, hit = histmap.overlay((60, 268, 780, 268), tuple(bb), y, point=coords, title=e["title"])
+    yr = ("公元前 %d 年" % (-y)) if y < 0 else ("公元 %d 年" % y)
+    return ("<rect x='60' y='268' width='780' height='268' fill='#f4f1ea' stroke='var(--line)'/>" + frag
+            + "<text x='66' y='262' class='lbl-s'>历史疆域快照：约 %s（红框为所含政权%s；historical-basemaps, CC BY 4.0，示意）</text>"
+              % (yr, ("：" + hit) if hit else ""))
+
+def build(entry, coords=None):
+    unit = entry.get("unit_id","global-themes"); theme = entry.get("theme","区域"); title = entry["title"]
+    lon = coords[0] if coords else None; lat = coords[1] if coords else None
+    bb = list(UNIT_BBOX.get(unit, UNIT_BBOX["global-themes"]))
+    if lon is not None:
+        bb = [min(bb[0], lon-4), max(bb[1], lon+4), min(bb[2], lat-4), max(bb[3], lat+4)]
+    ov = ne.overlay((30,34,840,196), tuple(bb), title)
+    loc = map_svg((30,34,840,196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
+    if theme == "政权更替" and title in YEAR:
+        diagram = _hist_diagram(entry, coords)
+    elif "土壤" in title:
+        diagram = theme_soil(entry, coords)
+    elif any(k in title for k in ("水资源","湿地","水文","海洋保护区","渔业资源","海洋生态系统")):
+        diagram = theme_water(entry, coords)
+    elif theme == "气候":
+        diagram = _theme_climate2(entry, coords)
+    else:
+        diagram = {"地形":theme_terrain,"农业":theme_agriculture,"贸易":theme_trade,"区域":theme_region}.get(theme, theme_region)(entry)
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
+            + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
+            + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
+            + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
+            + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
+            + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
