@@ -401,7 +401,7 @@
       "last_update": "2026-11-25",
       "geo": "聚落沿尼罗河谷与三角洲分布，河流泛滥带来沉积物，狭窄耕地、沙漠边缘与交通水道共同塑造国家空间。",
       "influence": "农业剩余与水运便利有利于权力集中，但国家形成还涉及制度、战争与交换，不能简化为河流决定论。",
-      "polities": "Livius 的 Egypt 分类页提供早期王朝条目入口，可用于后续核对王表；本站在此不写具体王名与年代。 所引 1999 年《EARLY DYNASTIC EGYPT》（被引 462）指出早王朝跨越吉萨大金字塔建造之前的五个世纪，是古埃及文明的形成期，其间产生了此后长期延续的独特文化；该文能支持的范围仅为「早王朝是法老统治最初五百年、古埃及文明与国家制度的形成期」。",
+      "polities": "Livius 的 Egypt 分类页提供早期王朝条目入口，可用于后续核对王表；具体王名与年代待专门来源核验。 所引 1999 年《EARLY DYNASTIC EGYPT》（被引 462）指出早王朝跨越吉萨大金字塔建造之前的五个世纪，是古埃及文明的形成期，其间产生了此后长期延续的独特文化；该文能支持的范围仅为「早王朝是法老统治最初五百年、古埃及文明与国家制度的形成期」。",
       "connections": "上下埃及通过尼罗河连成整体，并通过三角洲与地中海、通过红海与西亚发生联系。",
       "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995 人（2025年）（SP.POP.TOTL）、城市化率 42.9%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。早期王朝时期的遗址保护与考古研究现状需专门来源核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古埃及早王朝示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古埃及早王朝</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
@@ -442,7 +442,7 @@
       "last_update": "2026-11-25",
       "geo": "核心区位于尼罗河谷与三角洲，河流定期泛滥带来沉积物，狭窄耕地与沙漠边缘共同塑造聚落格局。水资源与运输条件是长期变量。",
       "influence": "尼罗河农业与运输为国家组织提供物质基础，但国家形成还取决于制度、军事与贸易，不能把政治形态简化为河流产物。",
-      "polities": "Livius 的 Egypt 分类页列出该时期相关王朝条目，可作为进一步核对王表与年表的入口；本条为骨架式描述，不断言具体年代。。 所引 2007 年《Territorial Appropriation during the Old Kingdom (XXVIIIth–XXIIIrd century)》（摘要 944 字符）以人类学与考古资料分析领土与领土性概念；本条「古王国以金字塔工程与中央官僚控制尼罗河谷」据此。 所引 2014 年《Egyptian Economic History: Locating Power…》（摘要 1,115 字符）从经济史角度定位古埃及的权力结构；本条「古王国以中央再分配经济支撑王权与工程」据此。",
+      "polities": "Livius 的 Egypt 分类页列出该时期相关王朝条目，可作为进一步核对王表与年表的入口；具体年代与王表待专门来源核验。 所引 2007 年《Territorial Appropriation during the Old Kingdom (XXVIIIth–XXIIIrd century)》（摘要 944 字符）以人类学与考古资料分析领土与领土性概念；本条「古王国以金字塔工程与中央官僚控制尼罗河谷」据此。 所引 2014 年《Egyptian Economic History: Locating Power…》（摘要 1,115 字符）从经济史角度定位古埃及的权力结构；本条「古王国以中央再分配经济支撑王权与工程」据此。",
       "connections": "通过尼罗河与三角洲连接上埃及、下埃及和地中海沿岸，并通过红海与西亚保持交流。",
       "today": "以埃及为例，来源：世界银行 API。总人口 118,365,995 人（2025年）（SP.POP.TOTL）、预期寿命 71.8 岁（2024年）（SP.DYN.LE00.IN）。金字塔区遗址保护与游客数据待专门来源核验。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='古埃及古王国示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>东北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>古埃及古王国</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
@@ -596,7 +596,7 @@
       "last_update": "2026-11-25",
       "geo": "城市依托海湾与近岸平原，背靠阿特拉斯山脉南缘，港湾条件利于停泊与转运，腹地提供农产品与资源。",
       "influence": "港口位置与航海能力支撑贸易网络，但商业发展也与制度、技术和区域竞争有关，不能只由海岸线解释。 所引 2019 年研究讨论布匿战争之前的迦太基（古典—希腊化时期）的城市与墓葬；本条据此写「前布匿时期的城市形态」。",
-      "polities": "Livius 的 Punic Carthage 专题页提供布匿城邦入口，可用于核对政权与战争史；本站不写具体战役年代。",
+      "polities": "Livius 的 Punic Carthage 专题页提供布匿城邦入口，可用于核对政权与战争史；具体战役年代待专门来源核验。",
       "connections": "迦太基连接西地中海、北非内陆与伊比利亚，交换金属、陶器、橄榄油与纺织品。",
       "today": "以突尼斯为例，来源：世界银行 API。总人口 12,348,573 人（2025年）（SP.POP.TOTL）、城市化率 70.7%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 76.7 岁（2024年）（SP.DYN.LE00.IN）。迦太基遗址位于今突尼斯境内，遗产保护与游客数据待核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='迦太基示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M70 260 C200 160 420 340 690 200' fill='none' stroke='var(--accent)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>北非</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>迦太基</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
