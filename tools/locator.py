@@ -128,3 +128,11 @@ if __name__ == "__main__":
     lons = [p[0] for r in rings[:6] for p in r]; lats = [p[1] for r in rings[:6] for p in r]
     print("rings", len(rings), "points", sum(len(r) for r in rings[:6]))
     print("bbox lon %.1f..%.1f lat %.1f..%.1f" % (min(lons), max(lons), min(lats), max(lats)))
+
+
+def combine(existing_svg, lon, lat, label):
+    """把定位图叠加到既有剖面图上方，返回 900x760 的合成 SVG。"""
+    inner = existing_svg.strip()
+    inner = inner[inner.index(">") + 1: inner.rindex("</svg>")]
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 760' role='img' aria-label='位置图与剖面示意图'>"
+            + locator_svg(lon, lat, label) + "<g transform='translate(0,258)'>" + inner + "</g></svg>")
