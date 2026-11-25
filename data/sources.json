@@ -10665,6 +10665,20 @@
       "page_title": "Spatial variation of erosion rates and passive margin escarpment embayment from New England, NSW and Bellenden Ker, Queensland",
       "abstract_quote": "The eastern seaboard of Australia is characterized by a passive margin and a continental divide that separates the inland-draining rivers from those that drain to the Coral and Tasman seas.",
       "note": "OpenAlex 作品 W3121385383（DOI 10.5194/egusphere-egu2020-10431）；2020年；被引 0；类型 conference-abstract。HTTP 200，22011 字节。摘要长度 3246 字符。经 Crossref query.bibliographic 相关度检索 + DOI 桥取得，摘要已人工阅读。"
+    },
+    {
+      "id": "openalex-W4392872715",
+      "title": "OpenAlex W4392872715 — GLC_FCS30D: the first global 30 m land-cover dynamics monitoring product with a fine classification system for the period from 1985 to 2022 generated using dense-time-series Landsat imagery and the continuous change-detection method",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2024,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4392872715",
+      "url2": "https://doi.org/10.5194/essd-16-1353-2024",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "GLC_FCS30D: the first global 30 m land-cover dynamics monitoring product with a fine classification system for the period from 1985 to 2022 generated using dense-time-series Landsat imagery and the co",
+      "abstract_quote": "GLC_FCS30D has been developed using continuous change detection and all available Landsat imagery based on the Google Earth Engine platform.",
+      "note": "OpenAlex 作品 W4392872715（DOI 10.5194/essd-16-1353-2024）；2024年；被引 611；类型 article。HTTP 200，36152 字节。摘要长度 2829 字符。经 Crossref query.bibliographic 相关度检索 + DOI 桥取得，摘要已人工阅读。"
     }
   ]
 }
