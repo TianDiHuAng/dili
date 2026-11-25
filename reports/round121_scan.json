@@ -1,0 +1,382 @@
+{
+ "entries": [
+  {
+   "title": "罗马阿非利加",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W438212032",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2481617052",
+     "field": "geo",
+     "claim": "所引 2004 年 Segermes 项目以突尼斯的单一谷地为对象，重建城镇与其腹地的农业产出；该项目明确声明不覆盖全省，故本条只据它写个案，不据此推断全行省的谷物与橄榄输出（后者待省级调查或产量数据核验）。",
+     "abstract_evidence": "the main title of this project does not cover an analysis of the province as a whole",
+     "verdict": "PASS",
+     "reason": "单一谷地个案，且已声明不外推全省，范围相称",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "阿拉伯征服北非",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W4285072712",
+     "field": "influence",
+     "claim": "所引研究把北非视为连接地中海与撒哈拉以南的「门户」：征服的可持续性依赖对既有城市与税收体系的接管，以及跨撒哈拉商路的接入，而非单纯的军事推进。",
+     "abstract_evidence": "This book is a study of the early history of the lbadiyya in North Africa ... The Berbers found in this new religious allegiance an attractive ideology with which to rebel against the central caliphate.",
+     "verdict": "FAIL",
+     "reason": "摘要讨论伊巴德派与柏柏尔人反哈里发，「门户」只是书名修辞；城市税收接管与跨撒哈拉商路决定征服可持续性的说法摘要中没有",
+     "fix": "所引 2020 年《A Gateway To Hell, A Gateway To Paradise》研究伊巴德派在北非的早期历史：柏柏尔人借这一信仰反抗中央哈里发政权，并于 777/779 年在提亚雷特建立鲁斯塔姆王朝伊玛目国（至 909 年亡于法蒂玛王朝）。"
+    },
+    {
+     "source": "openalex-W1984018962",
+     "field": "influence",
+     "claim": "所引 1987 年《A History of the Maghrib in the Islamic Period》（被引 400）是伊斯兰时期马格里布的通史；本条「7–8 世纪的阿拉伯征服重塑北非的语言、宗教与行政格局」据此。",
+     "abstract_evidence": "begins with the Arab conquest ... the factors which led to the adoption of Islam by practically the entire population",
+     "verdict": "SOFT",
+     "reason": "摘要支持宗教层面（几乎全民皈依伊斯兰），语言与行政格局的重塑属引申",
+     "fix": "所引 1987 年《A History of the Maghrib in the Islamic Period》（被引 400）是从阿拉伯征服写到当代的马格里布通史，着重讨论几乎全体居民改信伊斯兰的原因；本条「阿拉伯征服后北非逐步伊斯兰化」据此。"
+    }
+   ]
+  },
+  {
+   "title": "加纳帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2010072736",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2959024546",
+     "field": "polities",
+     "claim": "所引 2014 年《Pioneers in Ancient Ghana》（摘要 858 字符）指出西非最早的大国名为 Wagadu（柏柏尔商人在撒哈拉市场中心称之为 Aoukar），并讨论加纳等国的成长；本条「加纳帝国（瓦加杜）以黄金贸易连接撒哈拉两端」据此。",
+     "abstract_evidence": "known to the Berber traders of the Saharan market centres as Aoukar ... Ghana began the trade in gold.",
+     "verdict": "SOFT",
+     "reason": "摘要只说加纳开启黄金贸易，「连接撒哈拉两端」属外推",
+     "fix": "所引 2014 年《Pioneers in Ancient Ghana》（摘要 858 字符）指出西非最早的大国名为 Wagadu（柏柏尔商人在撒哈拉市场中心称之为 Aoukar），并讨论加纳等国的成长；本条「加纳帝国（瓦加杜）开启了黄金贸易」据此。"
+    }
+   ]
+  },
+  {
+   "title": "桑海帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2991586769",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2991426051",
+     "field": "polities",
+     "claim": "所引 2018 年《The Fall of the Songhai Empire》（摘要 937 字符）讨论桑海北疆图阿雷格人的失控与帝国覆亡的直接后果；本条「桑海在 1591 年遭摩洛哥入侵后解体」据此。",
+     "abstract_evidence": "The immediate sequel to the defeat of the Songhai army by Judar at Tondibi was a general outbreak of anarchy ... El Mansur",
+     "verdict": "SOFT",
+     "reason": "摘要写通迪比战败后陷入混乱，但没有 1591 这个年份；把「图阿雷格人失控」写成讨论重点也与摘要侧重不符",
+     "fix": "所引 2018 年《The Fall of the Songhai Empire》（摘要 937 字符）叙述桑海军队在通迪比被摩洛哥将领朱达尔击败后，帝国陷入普遍的无政府与劫掠状态；本条「桑海在摩洛哥入侵后解体」据此。"
+    }
+   ]
+  },
+  {
+   "title": "大津巴布韦",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2004999962",
+     "field": "influence",
+     "claim": "所引 1998 年研究批评的是Huffman 式的认知考古重建（认为其依赖「被误读的文献、可疑的口述传统与不当类比」），并主张以绍纳（Shona）历史与人类学材料重建该政体的政治过程，同时承认其模型「不企图解释每一处细节」。",
+     "abstract_evidence": "relies upon misunderstood documents, dubious oral traditions, and inappropriate comparisons ... does not pretend to explain every feature of the site",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2088347048",
+     "field": "polities",
+     "claim": "所引 1972 年《The Rise and Fall of Zimbabwe》（被引 114）讨论大津巴布韦的兴起与衰落；本条「大津巴布韦以石构建筑与远距离贸易支撑政治中心」据此。",
+     "abstract_evidence": "Consequently, the evolution of the Zimbabwe culture was almost certainly due to the Arab gold trade.",
+     "verdict": "SOFT",
+     "reason": "摘要论证该文化是由阿拉伯黄金贸易催生的次生国家，没有提到石构建筑",
+     "fix": "所引 1972 年《The Rise and Fall of Zimbabwe》（被引 114）认为津巴布韦文化是次生国家，其兴起几乎可以肯定源于阿拉伯黄金贸易；本条「大津巴布韦的政治中心依托远距离黄金贸易兴起」据此。"
+    }
+   ]
+  },
+  {
+   "title": "斯瓦希里海岸",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4229865234",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子（另：题名为建筑专题，摘要却是《The Swahili World》全书简介，元数据疑似错配）",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4212910217",
+     "field": "influence",
+     "claim": "所引 2022 年《The Swahili World》（摘要 13,723 字符）综述斯瓦希里海岸——介于东非内陆与印度洋之间的地带——的历史与学术史；本条「斯瓦希里城邦以印度洋贸易联结非洲内陆与亚洲市场」据此。",
+     "abstract_evidence": "Geographically positioned between inland eastern and central Africa and the Indian Ocean ... Periplus of the Erythraean Sea ... trade and navigational information",
+     "verdict": "SOFT",
+     "reason": "这是书评式摘要，只说了地理位置和学术史；城邦以贸易联结亚洲市场属引申",
+     "fix": "所引 2022 年《The Swahili World》（摘要 13,723 字符）综述斯瓦希里海岸——介于东非内陆与印度洋之间的地带——从公元 1 世纪至今的历史与学术史；本条「斯瓦希里海岸位于东非内陆与印度洋之间」据此。"
+    }
+   ]
+  },
+  {
+   "title": "古巴比伦",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2600955765",
+     "field": "influence",
+     "claim": "所引 2017 年研究覆盖的是晚期巴比伦（阿契美尼德末期与塞琉古时期，约前4–前1世纪），以档案楔形文书与天文日志中的价格数据重建经济：讨论帝国政治对价格的外生冲击、货币流通量，并做回归分析。",
+     "abstract_evidence": "economic structures and market performance in Late Achaemenid and Seleucid Babylonia ... price data contained in the Babylonian Astronomical Diaries",
+     "verdict": "PASS",
+     "reason": "句子准确描述了摘要；但对象是晚期巴比伦而非古巴比伦，条目挂载这个来源是否合适需另行斟酌",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2526588393",
+     "field": "polities",
+     "claim": "所引 2014 年研究（摘要 4,076 字符）以加喜特人（Kassites）为例，研究外来统治少数群体如何在传统国家社会中控制并维持政治权力；本条「巴比伦历经外来王朝统治而制度延续」据此。",
+     "abstract_evidence": "the Kassites' political and socioeconomic practices continued long after their supremacy ended ... adopted Babylonian culture and traditions",
+     "verdict": "PASS",
+     "reason": "摘要支持外来加喜特王朝统治与文化延续",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "亚述帝国",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W52369814",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2761337564",
+     "field": "polities",
+     "claim": "所引 2016 年《Emblems of Power: Ideology and Identity in L...》（被引15）讨论亚述的王权意识形态与认同；本条「亚述以军事扩张与王权宣传维系帝国」据此。",
+     "abstract_evidence": "studies the imagery of early second millennium glyptic in northern Mesopotamia ... reign of Šamši-Adad I (ca. 1847-1776 B.C.)",
+     "verdict": "FAIL",
+     "reason": "研究对象是古亚述晚期（约前1847–前1728）的印章图像，不是新亚述帝国；摘要没有讨论军事扩张与帝国维系",
+     "fix": "所引 2016 年《Emblems of Power: Ideology and Identity in Late Old Assyrian Glyptic》（被引15）以沙姆希-阿达德一世时期（约前1847–前1728）北美索不达米亚的官方印章图像研究政治意识形态与认同。"
+    }
+   ]
+  },
+  {
+   "title": "帕提亚帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2895092346",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W7139081985",
+     "field": "polities",
+     "claim": "所引 2024 年研究（摘要 8,926 字符）讨论帕提亚人的迁徙与战争、其东部伊朗游牧起源与干旱化背景；本条「帕提亚以游牧军事力量立国、与罗马长期对峙」据此。",
+     "abstract_evidence": "The ancestors of the Parthians were the Dakh tribes ... eastern Iranian nomadic people ... The aridization of the steppe climate",
+     "verdict": "SOFT",
+     "reason": "摘要讲游牧起源和与塞琉古的战争，没有提到与罗马对峙",
+     "fix": "所引 2024 年研究（摘要 8,926 字符）讨论帕提亚人的迁徙与战争、其东部伊朗游牧起源与草原干旱化背景，以及早期阿萨息斯王朝与塞琉古王国的关系；本条「帕提亚由东伊朗游牧群体立国」据此。"
+    }
+   ]
+  },
+  {
+   "title": "萨珊波斯",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4232054564",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4243201812",
+     "field": "polities",
+     "claim": "所引 2016 年《Sasanian Empire》（摘要 800 字符）概述萨珊帝国的制度与地位；本条「萨珊以琐罗亚斯德教为国教、与罗马—拜占庭长期对峙」据此。",
+     "abstract_evidence": "founded in 224 ce ... until 651 ce ... Military competition with the nomadic powers in the east and northeast, as well as the Roman Empire in the west",
+     "verdict": "SOFT",
+     "reason": "摘要没有提到琐罗亚斯德教为国教；对峙方面只说与罗马竞争，并未写明拜占庭",
+     "fix": "所引 2016 年《Sasanian Empire》（摘要 800 字符）概述萨珊帝国（224–651 年）的地位，指出其与东方游牧势力及西方罗马帝国的军事竞争；本条「萨珊与罗马长期对峙」据此。"
+    }
+   ]
+  },
+  {
+   "title": "吠陀时代",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W3006608552",
+     "field": "influence",
+     "claim": "所引研究指出，吠陀文化在印度河文明之后兴起，其最早文献未提及类似哈拉帕与摩亨佐达罗那样的城市生活；主要史料为《梨俱吠陀》，宗教以因陀罗（Indra）等神祇为中心。",
+     "abstract_evidence": "Their earliest literature makes no reference to life in stately cities ... The primary source of evidence for this period is the Rigveda ... Indra, Varuna",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": null
+    },
+    {
+     "source": "openalex-W3006608552",
+     "field": "time_or_place",
+     "claim": "早期吠陀约公元前1500–前1000年（据所引 2019 年研究；学界对年代与分期有不同表述）",
+     "abstract_evidence": "The Vedic civilization (1500 – 1000 B.C)",
+     "verdict": "PASS",
+     "reason": "年代与摘要一致",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4392034964",
+     "field": "influence",
+     "claim": "所引 2024 年《The Vedic Tribes》（摘要≥400 字符）讨论吠陀部落进入印度后与本地人群的冲突及其社会中战争与交替的构成性作用；本条「吠陀时代以部落组织与祭祀文化为特征」据此。",
+     "abstract_evidence": "constantly in conflict with the indigenous population ... alternation between warlike raids and migratory movements ... and more peaceful phases of settlement",
+     "verdict": "SOFT",
+     "reason": "摘要讲的是劫掠/迁徙与定居两种阶段的交替及其领导制，没有直接写「祭祀文化」；原句「战争与交替」措辞不清",
+     "fix": "所引 2024 年《The Vedic Tribes》讨论吠陀部落进入印度后与本地人群的持续冲突，以及战争劫掠/迁徙与和平定居两阶段交替（yoga-kṣema）对其社会组织和宗教的影响；本条「吠陀时代以部落组织为特征」据此。"
+    }
+   ]
+  },
+  {
+   "title": "孔雀王朝",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2015841063",
+     "field": "polities",
+     "claim": "所引 2006 年《The Mauryan empire in early India》（被引24）讨论孔雀帝国的政体与治理；本条「孔雀王朝以行政与军事控制印度次大陆大部」据此。",
+     "abstract_evidence": "an empire requires the restructuring of the economy ... administrative forms that are appropriate to regional and local governance",
+     "verdict": "SOFT",
+     "reason": "摘要只是概念性地论证帝国与王国的区别，「控制次大陆大部」在摘要中找不到",
+     "fix": "所引 2006 年《The Mauryan empire in early India》（被引24）以孔雀帝国为例区分王国与帝国，认为帝国需要重组经济以提供税收、建立适合地方治理的行政形式，并推行有弹性的意识形态。"
+    },
+    {
+     "source": "openalex-W7220362328",
+     "field": "polities",
+     "claim": "所引 2026 年《The Empire Under One Umbrella: Espionage, Reporting and the…》（摘要 3,665 字符）论证孔雀帝国若无信息获取、传递与核验系统，便无法维系于单一权威之下；本条「孔雀王朝靠行政与情报网络控制次大陆大部」据此。",
+     "abstract_evidence": "the Mauryan empire could not have been held together under a single authority without a system for acquiring, moving and verifying information",
+     "verdict": "SOFT",
+     "reason": "论证本身准确，但「控制次大陆大部」属外推",
+     "fix": "所引 2026 年《The Empire Under One Umbrella: Espionage, Reporting and the…》（摘要 3,665 字符）论证孔雀帝国若无信息获取、传递与核验系统，便无法维系于单一权威之下；本条「孔雀王朝依靠情报与通信网络维系统一」据此。"
+    }
+   ]
+  },
+  {
+   "title": "笈多王朝",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4321610807",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4231798191",
+     "field": "polities",
+     "claim": "所引 2016 年百科条目《Gupta Empire》（摘要 933 字符）指出笈多王朝兴起于贵霜衰落后北印度的政治分裂之中，在约 50 年内升至帝国地位并主导北印度至 6 世纪中叶；旃陀罗笈多一世与离车公主鸠摩罗提毗联姻、其子沙摩陀罗笈多为最大的征服者；本条「统一与分裂同地方势力与继承安排相关」据此。",
+     "abstract_evidence": "decline started due to internal bickering, the growing power of its feudatory rulers, and external invasions",
+     "verdict": "SOFT",
+     "reason": "摘要列出的衰落原因是内斗、藩属坐大、外敌入侵，没有「继承安排」；另外摘要原文是 dominated ... India，不是「北印度」",
+     "fix": "所引 2016 年百科条目《Gupta Empire》（摘要 933 字符）指出笈多王朝兴起于贵霜衰落后北印度的政治分裂之中，在约 50 年内升至帝国地位并主导印度至 6 世纪中叶；旃陀罗笈多一世与离车公主鸠摩罗提毗联姻、其子沙摩陀罗笈多为最大的征服者；后因内斗、藩属势力增长与外敌入侵而衰落，约 550 年崩溃；本条「笈多的衰落与内部纷争、地方势力坐大及外部入侵相关」据此。"
+    },
+    {
+     "source": "openalex-W4400658485",
+     "field": "polities",
+     "claim": "所引 2024 年《Treasures of the Gupta Empire》（钱币学专著，摘要 1,356 字符）以钱币纪年把王朝起讫记为公元 319 年（旃陀罗笈多一世）至 543 年（毗湿奴笈多），与 Wikidata 属性 320/550 不完全一致，两说并列。",
+     "abstract_evidence": "Starting from the first of the Gupta kings, Chandragupta I in AD 319, to the last king Vishnugupta in AD 543",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "商代",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W581771675",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子（摘要只是宣传语）",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4387138649",
+     "field": "geo",
+     "claim": "所引 2023 年《Bronze alloying recipes at Anyang during the Shang…》分析安阳出土青铜器的合金配方；本条「青铜礼器与手工业组织」据此。",
+     "abstract_evidence": "alloying data (Cu, Sn, Pb) on the bronzes recovered from the Late Shang capital at Yinxu, revealing a complex pattern which varies by social status and object typology",
+     "verdict": "SOFT",
+     "reason": "摘要讲殷墟青铜合金配方随身份和器类而变，「手工业组织」属引申",
+     "fix": "所引 2023 年《Bronze alloying recipes at Anyang during the Shang…》分析殷墟出土青铜器的合金配方，发现配方随持有者身份、器类与时期而变化；本条「商代青铜合金配方存在等级与器类差异」据此。"
+    }
+   ]
+  },
+  {
+   "title": "周代",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4206323479",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4406476289",
+     "field": "polities",
+     "claim": "所引 2025 年研究（摘要 1,387 字符）讨论西周（约前1046–771）灭商后建立的最早分封制与燕国等封国的建立年代；本条「周代以分封与宗法组织政治秩序」据此。",
+     "abstract_evidence": "brought about the earliest enfeoffment system in Chinese history. Yan was one of the vassal states of the same clan as Zhou.",
+     "verdict": "SOFT",
+     "reason": "摘要支持分封制，但没有提到「宗法」",
+     "fix": "所引 2025 年研究（摘要 1,387 字符）讨论西周（约前1046–771）灭商后建立的最早分封制与燕国等封国的建立年代；本条「周代以分封制组织政治秩序」据此。"
+    }
+   ]
+  }
+ ]
+}
