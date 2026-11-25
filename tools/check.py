@@ -157,13 +157,13 @@ def check_object_word(e, sources, objmap):
             continue
         ti = _norm_text((sources.get(sid) or {}).get("title"))
         if not any(_norm_text(o) in ti for o in objs):
-            # D141 第二通道：标题无对象词时，来源须带逐字摘要摘录 abstract_quote，
+            # D150 第二通道：标题无对象词时，来源须带逐字摘要摘录 abstract_quote，
             # 且摘录含对象词，或含 object_equiv.json 中为本条登记的某组等价词（组内词须全部出现）
             q = _norm_text((sources.get(sid) or {}).get("abstract_quote"))
             eqs = OBJ_EQUIV.get(title, [])
             if q and (any(_norm_text(o) in q for o in objs) or any(all(_norm_text(w) in q for w in g) for g in eqs)):
                 continue
-            err(f"R20 {e['id']}: 来源 {sid} 标题不含对象词 {objs[:2]}，且无合格摘要摘录（D105/D141）")
+            err(f"R20 {e['id']}: 来源 {sid} 标题不含对象词 {objs[:2]}，且无合格摘要摘录（D105/D150）")
 
 
 def main():

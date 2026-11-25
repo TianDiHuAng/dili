@@ -31,7 +31,7 @@ def add(t,oid,fld,sentence):
     e["sources"]=list(dict.fromkeys(e["sources"]+[sid]))
     e[fld]=((e.get(fld) or "")+" "+sentence).strip()
     e["pending_notes"]=((e.get("pending_notes") or "")+
-      f" 【第117轮补第二内容源（D141）】{sid}（{b['year']}年，《{b['title']}》，被引 {b['cited']}，摘要 {b['chars']} 字符）：已在本条 {fld} 段落点。").strip()
+      f" 【第117轮补第二内容源（D150）】{sid}（{b['year']}年，《{b['title']}》，被引 {b['cited']}，摘要 {b['chars']} 字符）：已在本条 {fld} 段落点。").strip()
     e["last_update"]=TODAY
 
 add("大分水岭","W3121385383","geo","所引 2020 年 EGU 会议摘要（被引0，摘要 3,246 字符，经 D140 摘要通道登记）指出澳大利亚东岸为被动大陆边缘，其大陆分水岭把内流河与流向珊瑚海、塔斯曼海的河流分开，分水岭向海一侧为分隔沿海平原与高原的大断崖；本条「河流向东或向西流」据此。该文为会议摘要、被引为零，证据强度有限。")
