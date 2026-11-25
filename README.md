@@ -147,6 +147,7 @@ R1–R25 覆盖：字段完整性、ID 合法性、来源合法性与 verified �
 ## 数据与底图致谢 / 许可
 - **Natural Earth**（1:10m/50m 物理与国界数据）：公有领域（public domain）。
 - **world-atlas / TopoJSON**（countries-110m）：ISC / 源自 Natural Earth。
+- **Köppen-Geiger 气候分区**（Beck et al.；矢量经 rjerue/koppen-map 转 GeoJSON）：用于“气候”类条目的真实气候带底图；数据来源于学术产品，非精确测绘。
 - **historical-basemaps**（aourednik）：**CC BY 4.0**，用于“政权更替”类条目的历史疆域快照（页内已标注）。
 - 所有图示均为**内联 SVG 示意图**，非精确测绘；争议边界只描述、不画界线。
 
