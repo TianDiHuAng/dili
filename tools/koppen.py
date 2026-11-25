@@ -53,7 +53,7 @@ def cn_of(climate):
         if code.startswith(k): return v, k
     return climate.split(" ")[-1], code
 
-def overlay(box, bounds, point=None, max_polys=70):
+def overlay(box, bounds, point=None, max_polys=70, alpha=0.62, alpha_hit=0.9):
     x0,y0,w,h=box
     def proj(lo,la): return L._project(lo,la,box,bounds)
     data=_load(); feats=[]
@@ -85,12 +85,16 @@ def overlay(box, bounds, point=None, max_polys=70):
                 if len(d)<3: continue
                 drawn+=1
                 if is_hit:
-                    out.append(f"<path d='{' '.join(d)} Z' fill='{col}' fill-opacity='.9' stroke='#333' stroke-width='1.4'/>")
+                    out.append(f"<path d='{' '.join(d)} Z' fill='{col}' fill-opacity='{alpha_hit}' stroke='#333' stroke-width='1.4'/>")
                 else:
-                    out.append(f"<path d='{' '.join(d)} Z' fill='{col}' fill-opacity='.62' stroke='{col}' stroke-width='.4'/>")
+                    out.append(f"<path d='{' '.join(d)} Z' fill='{col}' fill-opacity='{alpha}' stroke='{col}' stroke-width='.4'/>")
         if is_hit and not hit: hit=(cl,code)
     if point:
         px,py=proj(point[0],point[1])
         if x0<=px<=x0+w and y0<=py<=y0+h:
             out.append(f"<circle cx='{px:.0f}' cy='{py:.0f}' r='5' fill='#c0392b' stroke='#7a1f14'/>")
     return "".join(out), hit
+
+
+def faint(box, bounds, point=None):
+    return overlay(box, bounds, point=point, max_polys=26, alpha=0.20, alpha_hit=0.45)[0]

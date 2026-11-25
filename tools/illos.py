@@ -367,3 +367,56 @@ def build(entry, coords=None):
             + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
             + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
             + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
+
+
+import wbdata
+WB_MAP = {
+ "二氧化碳排放清单":("EN.ATM.CO2E.PC","人均二氧化碳排放","吨/人"),
+ "城市化水平":("SP.URB.TOTL.IN.ZS","城镇人口占比","%"),
+ "全球人口规模":("SP.POP.TOTL","总人口","人"),
+ "人口增长":("SP.POP.GROW","人口年增长率","%"),
+ "预期寿命空间差异":("SP.DYN.LE00.IN","出生预期寿命","岁"),
+ "作物单产差异":("AG.YLD.CREL.KG","谷物单产","kg/公顷"),
+ "森林面积占比":("AG.LND.FRST.ZS","森林覆盖率","%"),
+ "农业统计体系":("AG.LND.AGRI.ZS","农业用地占比","%"),
+ "极端贫困空间分布":("SI.POV.DDAY","极端贫困率","%"),
+ "人均产出空间差异":("NY.GDP.PCAP.CD","人均GDP","现价美元"),
+ "儿童发展地域差异":("SP.DYN.IMRT.IN","婴儿死亡率","‰"),
+ "人口年龄结构":("SP.POP.65UP.TO.ZS","65岁以上人口占比","%"),
+ "肥料使用与环境":("AG.CON.FERT.ZS","化肥施用量","kg/公顷"),
+ "全球营养状况":("SN.ITK.DEFC.ZS","营养不良发生率","%"),
+}
+
+def build(entry, coords=None):
+    unit = entry.get("unit_id","global-themes"); theme = entry.get("theme","区域"); title = entry["title"]
+    lon = coords[0] if coords else None; lat = coords[1] if coords else None
+    bb = list(UNIT_BBOX.get(unit, UNIT_BBOX["global-themes"]))
+    if lon is not None:
+        bb = [min(bb[0], lon-4), max(bb[1], lon+4), min(bb[2], lat-4), max(bb[3], lat+4)]
+    ov = ne.overlay((30,34,840,196), tuple(bb), title)
+    if theme in ("农业","区域") and unit != "global-themes":
+        ov += koppen.faint((30,34,840,196), tuple(bb), coords)
+    loc = map_svg((30,34,840,196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
+    if title in WB_MAP:
+        ind, label, un = WB_MAP[title]
+        diagram = wbdata.panel((60,268,780,264), wbdata.series(ind), ind, label, un)[0]
+    elif theme == "政权更替" and title in YEAR:
+        diagram = _hist_diagram(entry, coords)
+    elif "土壤" in title:
+        diagram = theme_soil(entry, coords)
+    elif any(k in title for k in ("水资源","湿地","水文","海洋保护区","渔业资源","海洋生态系统")):
+        diagram = theme_water(entry, coords)
+    elif theme == "地形":
+        diagram = _terrain_block(entry)
+    elif theme == "气候":
+        diagram = topics.climate(title) if unit == "global-themes" else _climate_koppen(entry, coords)
+    elif theme in ("农业","贸易","区域"):
+        diagram = topics.draw(theme, title)
+    else:
+        diagram = theme_region(entry)
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
+            + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
+            + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
+            + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
+            + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
+            + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")

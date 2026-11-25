@@ -185,7 +185,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
             if theme in groups:
                 ghtml += f"<h2>{esc(theme)}（{len(groups[theme])}）</h2><div class='grid'>" + "".join(entry_card(e) for e in groups[theme]) + "</div>"
         body = f'''<div class="crumb"><a href="../index.html">首页</a> / {esc(doc['title'])}</div><h1>{esc(doc['title'])}</h1>
-<p class="lead">{len(doc['entries'])} 个条目。按主题分组，点击条目进入详情。</p>{ghtml}'''
+<p class="lead">{len(doc['entries'])} 个条目。按主题分组，点击条目进入详情。</p><div class="section"><h2>图形图例与数据来源</h2><p class="dim">每条目的图示：<b>上半</b>为所在大洲真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川（红点为该条目位置）；<b>下半</b>按主题绘制——地形=地貌剖面；气候=Köppen 真实气候分区（红点为所在气候型）；农业/贸易/区域=系统示意；政权更替=historical-basemaps 历史疆域快照；指标类=世界银行真实折线图。</p><p class="dim">数据：Natural Earth（公有领域）；historical-basemaps（CC BY 4.0）；Köppen-Geiger（Beck et al.，经 rjerue/koppen-map）；World Bank API。所有图为示意图、非精确测绘，争议边界不画线。</p></div>{ghtml}'''
         with open(os.path.join(SITE, "units", uid + ".html"), "w", encoding="utf-8") as f:
             f.write(page(doc["title"], body, 1))
 
@@ -272,7 +272,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
     # 关于
     body = '''<h1>关于本站</h1><div class="section"><h2>方法</h2><p>数据存于 JSON，经 <code>tools/check.py</code> 机器校验后，由 <code>tools/gen_site.py</code> 渲染为纯静态 HTML（零 JavaScript）。</p></div>
 <div class="section"><h2>诚实标注</h2><p>关键事实需两个独立来源；单源或未核验标「待核实」。争议观点并列各方说法，不替读者下结论。现状数据标注年份与来源；争议边界不画线。</p></div>
-<div class="section"><h2>图示</h2><p>不使用任何图片；所有地图为内联 SVG 简笔示意，图下注明「示意图，非精确测绘」，文字使用 CSS 变量以兼容深色模式。</p></div>'''
+<div class="section"><h2>图示</h2><p>不使用任何图片；所有地图为内联 SVG 简笔示意，图下注明「示意图，非精确测绘」，文字使用 CSS 变量以兼容深色模式。</p></div><div class="section"><h2>图形图例与数据来源</h2><p class="dim">每条目的图示：<b>上半</b>为所在大洲真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川（红点为该条目位置）；<b>下半</b>按主题绘制——地形=地貌剖面；气候=Köppen 真实气候分区（红点为所在气候型）；农业/贸易/区域=系统示意；政权更替=historical-basemaps 历史疆域快照；指标类=世界银行真实折线图。</p><p class="dim">数据：Natural Earth（公有领域）；historical-basemaps（CC BY 4.0）；Köppen-Geiger（Beck et al.，经 rjerue/koppen-map）；World Bank API。所有图为示意图、非精确测绘，争议边界不画线。</p></div>'''
     with open(os.path.join(SITE, "about.html"), "w", encoding="utf-8") as f:
         f.write(page("关于", body))
 
@@ -340,7 +340,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 <li>Wikidata 时通时断；断线期间登记的实体标 verified=false。</li>
 <li>OpenAlex 的 search 端点常触发 429 限流，需重试；DOI 桥（Crossref 检索 → 按 DOI 取摘要）是主要绕行路径。</li>
 <li>UN / UNESCO / FAO / CBD 的页面多为 JS 应用壳，正文 7–218 字符。</li>
-</ul></div>"""
+</ul></div><div class="section"><h2>图形图例与数据来源</h2><p class="dim">每条目的图示：<b>上半</b>为所在大洲真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川（红点为该条目位置）；<b>下半</b>按主题绘制——地形=地貌剖面；气候=Köppen 真实气候分区（红点为所在气候型）；农业/贸易/区域=系统示意；政权更替=historical-basemaps 历史疆域快照；指标类=世界银行真实折线图。</p><p class="dim">数据：Natural Earth（公有领域）；historical-basemaps（CC BY 4.0）；Köppen-Geiger（Beck et al.，经 rjerue/koppen-map）；World Bank API。所有图为示意图、非精确测绘，争议边界不画线。</p></div>"""
     with open(os.path.join(SITE, "limits.html"), "w", encoding="utf-8") as f:
         f.write(page("已知限制", lim_body))
 
