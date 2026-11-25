@@ -753,5 +753,43 @@
   ],
   "塔里木盆地": [
     "tarim basin"
+  ],
+  "准噶尔盆地": [
+    "junggar"
+  ],
+  "东北平原": [
+    "songliao",
+    "sanjiang",
+    "songnen",
+    "northeast china"
+  ],
+  "华北平原": [
+    "north china plain"
+  ],
+  "长江中下游平原": [
+    "yangtze"
+  ],
+  "珠江三角洲": [
+    "pearl river delta"
+  ],
+  "秦岭—淮河一线": [
+    "qinling"
+  ],
+  "东南丘陵": [
+    "hilly red soil",
+    "red soil",
+    "southeast china"
+  ],
+  "河西走廊": [
+    "hexi corridor"
+  ],
+  "柴达木盆地": [
+    "qaidam"
+  ],
+  "天山山脉": [
+    "tian shan"
+  ],
+  "横断山脉": [
+    "hengduan"
   ]
 }

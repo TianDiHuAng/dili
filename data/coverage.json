@@ -658,6 +658,105 @@
       "last_update": "2026-11-24"
     },
     {
+      "id": "asia-x51c6x5676x5c14x76c6x5730",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x4e1cx5317x5e73x539f",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x534ex5317x5e73x539f",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x957fx6c5fx4e2dx4e0bx6e38x5e73x539f",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x73e0x6c5fx4e09x89d2x6d32",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x79e6x5cadx2014x6deex6cb3x4e00x7ebf",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x4e1cx5357x4e18x9675",
+      "level": "L2",
+      "tier": "补充",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x6cb3x897fx8d70x5eca",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x67f4x8fbex6728x76c6x5730",
+      "level": "L2",
+      "tier": "补充",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x5929x5c71x5c71x8109",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "asia-x6a2ax65adx5c71x8109",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
       "id": "europe-x7231x7434x6d77x4e16x754c",
       "level": "L2",
       "tier": "核心",
@@ -2273,7 +2372,7 @@
       "政权更替": 19,
       "贸易": 10,
       "区域": 5,
-      "地形": 6,
+      "地形": 17,
       "气候": 1
     },
     "europe": {

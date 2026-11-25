@@ -1,0 +1,506 @@
+{
+ "准噶尔盆地": [
+  {
+   "oid": "W4368366079",
+   "y": 2023,
+   "c": 9,
+   "len": 1756,
+   "t": "Crustal‐Scale Disharmonic Structural Pattern of West Junggar: Unveiling a Permian Indentation of Junggar Block Into Northern Kazakhstan Orocline"
+  },
+  {
+   "oid": "W1992832689",
+   "y": 1989,
+   "c": 143,
+   "len": 1217,
+   "t": "Isotopic studies bearing on the tectonics of the West Junggar Region, Xinjiang, China"
+  },
+  {
+   "oid": "W2078435924",
+   "y": 2014,
+   "c": 14,
+   "len": 1092,
+   "t": "Recent tectonics and seismicity of the western Altai–Sayan mountainous region, Junggar basin, and Chinese Tien Shan"
+  },
+  {
+   "oid": "W2079767098",
+   "y": 1989,
+   "c": 269,
+   "len": 3257,
+   "t": "Tectonic evolution of the West Junggar Region, Xinjiang, China"
+  },
+  {
+   "oid": "W2770949227",
+   "y": 2017,
+   "c": 77,
+   "len": 1724,
+   "t": "Closure Time of the Junggar‐Balkhash Ocean: Constraints From Late Paleozoic Volcano‐Sedimentary Sequences in the Barleik Mountains, West Junggar, NW China"
+  },
+  {
+   "oid": "W2064365252",
+   "y": 2000,
+   "c": 18,
+   "len": 1957,
+   "t": "THE NATURE AND ORIGIN OF PETROLEUM IN THE CHAIWOPU SUB‐BASIN (JUNGGAR BASIN), NW CHINA"
+  },
+  {
+   "oid": "W7135209627",
+   "y": 2026,
+   "c": 0,
+   "len": 2541,
+   "t": "Present-Day Geothermal Characteristics of the Permian–Triassic in the Junggar Basin and Implications for Petroleum Geology"
+  },
+  {
+   "oid": "W4408424289",
+   "y": 2025,
+   "c": 0,
+   "len": 1431,
+   "t": "Reservoir characteristics and diagenetic evolution of Lower Jurassic Sangonghe Formation in the hinterland of Junggar Basin"
+  },
+  {
+   "oid": "W4386033357",
+   "y": 2023,
+   "c": 8,
+   "len": 1896,
+   "t": "Carboniferous to Early Permian tectono-sedimentary evolution in the western Junggar Basin, NW China: implication for the evolution of Junggar Ocean"
+  }
+ ],
+ "东北平原": [
+  {
+   "oid": "W4321480832",
+   "y": 2023,
+   "c": 0,
+   "len": 2537,
+   "t": "Late Mesozoic rift evolution and deformation reconstruction of the Songliao Basin, northeastern China"
+  },
+  {
+   "oid": "W4392662899",
+   "y": 2025,
+   "c": 0,
+   "len": 3197,
+   "t": "Formation mechanism of high-temperature geothermal resources in the Songliao Basin"
+  },
+  {
+   "oid": "W2092124318",
+   "y": 2000,
+   "c": 18,
+   "len": 1880,
+   "t": "Characteristics and origin of underpressure system in the Shiwu Fault Depression, south‐east Songliao Basin, China"
+  },
+  {
+   "oid": "W4389904210",
+   "y": 2023,
+   "c": 15,
+   "len": 1622,
+   "t": "Prediction of Terrestrial Heat Flow in Songliao Basin Based on Deep Neural Network"
+  },
+  {
+   "oid": "W2064930628",
+   "y": 1985,
+   "c": 8,
+   "len": 923,
+   "t": "Subtle Oil Pools in Xingshugang Delta, Songliao Basin"
+  }
+ ],
+ "华北平原": [
+  {
+   "oid": "W4308367136",
+   "y": 2022,
+   "c": 31,
+   "len": 0,
+   "t": "Origins of groundwater nitrate in a typical alluvial-pluvial plain of North China plain: New insights from groundwater age-dating and isotopic fingerprinting"
+  },
+  {
+   "oid": "W1998321165",
+   "y": 2013,
+   "c": 40,
+   "len": 956,
+   "t": "Characteristics of Groundwater Recharge on the North China Plain"
+  },
+  {
+   "oid": "W4295350356",
+   "y": 2022,
+   "c": 22,
+   "len": 1847,
+   "t": "Using GRACE to Detect Groundwater Variation in North China Plain after South–North Water Diversion"
+  },
+  {
+   "oid": "W4411207544",
+   "y": 2025,
+   "c": 6,
+   "len": 1679,
+   "t": "Spatiotemporal Differences of Groundwater Recovery in North China Plain Using GRACE and Well Data"
+  },
+  {
+   "oid": "W4385217668",
+   "y": 2023,
+   "c": 1,
+   "len": 1316,
+   "t": "A Tale of Two Roads: Groundwater Depletion in the North China Plain"
+  },
+  {
+   "oid": "W4231648267",
+   "y": 2017,
+   "c": 0,
+   "len": 843,
+   "t": "North China Plain"
+  },
+  {
+   "oid": "W7128159621",
+   "y": 2026,
+   "c": 0,
+   "len": 2125,
+   "t": "Indo-Gangetic Plain experiences higher aerosol pollution than North China Plain despite lower emissions"
+  },
+  {
+   "oid": "W1986155744",
+   "y": 2013,
+   "c": 17,
+   "len": 1576,
+   "t": "Long-Term Evolution of Cones of Depression in Shallow Aquifers in the North China Plain"
+  },
+  {
+   "oid": "W2516982280",
+   "y": 2017,
+   "c": 45,
+   "len": 1640,
+   "t": "Socio-hydrological perspectives of the co-evolution of humans and groundwater in Cangzhou, North China Plain"
+  },
+  {
+   "oid": "W2080799647",
+   "y": 2015,
+   "c": 31,
+   "len": 1884,
+   "t": "No‐tillage and fertilization management on crop yields and nitrate leaching in North China Plain"
+  }
+ ],
+ "长江中下游平原": [
+  {
+   "oid": "W4283764848",
+   "y": 2022,
+   "c": 26,
+   "len": 2032,
+   "t": "Geographic pattern of phytoplankton community and their drivers in lakes of middle and lower reaches of Yangtze River floodplain, China"
+  },
+  {
+   "oid": "W4313898732",
+   "y": 2023,
+   "c": 3,
+   "len": 1339,
+   "t": "Forecasting the July Precipitation over the Middle-Lower Reaches of the Yangtze River with a Flexible Statistical Model"
+  },
+  {
+   "oid": "W3083051546",
+   "y": 2020,
+   "c": 0,
+   "len": 1240,
+   "t": "The water storage change anomaly and its causes in the middle-lower reaches of Yangtze River basin"
+  },
+  {
+   "oid": "W4391823149",
+   "y": 2024,
+   "c": 38,
+   "len": 1617,
+   "t": "Thermodynamic characteristics of extreme heat waves over the middle and lower reaches of the Yangtze River Basin"
+  },
+  {
+   "oid": "W7135188327",
+   "y": 2026,
+   "c": 0,
+   "len": 2209,
+   "t": "Magmatic controls on skarn-type Cu–Fe–Au mineralization in the Tonglushan ore field, Middle–Lower Yangtze River Metallogenic Belt"
+  },
+  {
+   "oid": "W7135193070",
+   "y": 2026,
+   "c": 0,
+   "len": 1255,
+   "t": "Causal inference and mediation for summer precipitation over middle and lower reaches of the Yangtze River"
+  },
+  {
+   "oid": "W2161763833",
+   "y": 2005,
+   "c": 115,
+   "len": 1394,
+   "t": "Holocene climate fluctuations in the Yangtze delta of eastern China and the Neolithic response"
+  },
+  {
+   "oid": "W2949980727",
+   "y": 2019,
+   "c": 28,
+   "len": 1675,
+   "t": "Refining the late-Holocene coastline and delta development of the northern Yangtze River delta: Combining historical archives and OSL dating"
+  },
+  {
+   "oid": "W1969769781",
+   "y": 2007,
+   "c": 42,
+   "len": 1832,
+   "t": "A sediment-based record of Lateglacial and Holocene environmental changes from Guangfulin, Yangtze delta, eastern China"
+  },
+  {
+   "oid": "W2018870464",
+   "y": 2007,
+   "c": 42,
+   "len": 1479,
+   "t": "Agriculture and environmental change at Qingpu, Yangtze delta region, China: a biomarker, stable isotope and palynological approach"
+  }
+ ],
+ "珠江三角洲": [
+  {
+   "oid": "W2497956993",
+   "y": 2010,
+   "c": 2,
+   "len": 1006,
+   "t": "Perspective and Prospects of China's Pan-Pearl River Delta"
+  },
+  {
+   "oid": "W2475391560",
+   "y": 2010,
+   "c": 15,
+   "len": 477,
+   "t": "Political Economy of Regional Cooperation in the Pan-Pearl River Delta"
+  }
+ ],
+ "秦岭—淮河一线": [
+  {
+   "oid": "W4415362242",
+   "y": 2025,
+   "c": 5,
+   "len": 2465,
+   "t": "Response of Vegetation Net Primary Productivity to Extreme Climate in a Climate Transition Zone: Evidence from the Qinling Mountains"
+  },
+  {
+   "oid": "W4410118893",
+   "y": 2025,
+   "c": 6,
+   "len": 1124,
+   "t": "Climate Change-Driven Spatiotemporal Dynamics of Landscape Ecological in the Qinling Mountains (1980–2023)"
+  },
+  {
+   "oid": "W4293532135",
+   "y": 2022,
+   "c": 16,
+   "len": 1793,
+   "t": "Vegetation Dynamics in the Qinling-Daba Mountains through Climate Warming with Land-Use Policy"
+  },
+  {
+   "oid": "W4408468180",
+   "y": 2025,
+   "c": 0,
+   "len": 2028,
+   "t": "The influence of North Atlantic sea surface temperature fluctuations on the climate of the Qinling-Bashan Mountains over the past 250 years"
+  },
+  {
+   "oid": "W4401557607",
+   "y": 2024,
+   "c": 10,
+   "len": 1844,
+   "t": "Across a phylogeographic break in the Qinling Mountains-Huaihe River Line: Quaternary evolutionary history of a medicinal and edible homologous plant (Allium macrostemon) in China"
+  },
+  {
+   "oid": "W7155194104",
+   "y": 2026,
+   "c": 0,
+   "len": 1434,
+   "t": "Spatiotemporal Climate–Vegetation Dynamics and the Vegetation Ecological Quality-Based Zoning Under Climate Change: Evidence from the Qinling Mountains"
+  },
+  {
+   "oid": "W7213524615",
+   "y": 2026,
+   "c": 0,
+   "len": 1008,
+   "t": "Climate change, infectious disease, and the spread of microblades across the Qinling-Huaihe line"
+  },
+  {
+   "oid": "W3033178225",
+   "y": 2020,
+   "c": 45,
+   "len": 1647,
+   "t": "Study on the Spatial Differentiation of the Populations on Both Sides of the “Qinling-Huaihe Line” in China"
+  }
+ ],
+ "东南丘陵": [],
+ "河西走廊": [
+  {
+   "oid": "W7168153486",
+   "y": 2026,
+   "c": 0,
+   "len": 1700,
+   "t": "Carboniferous Lithofacies and Paleogeography of the Hexi Corridor Basins, NW China"
+  },
+  {
+   "oid": "W2774167345",
+   "y": 2017,
+   "c": 22,
+   "len": 1288,
+   "t": "Entropy-Based Investigation on the Precipitation Variability over the Hexi Corridor in China"
+  },
+  {
+   "oid": "W2110703516",
+   "y": 1998,
+   "c": 42,
+   "len": 695,
+   "t": "Tectonic geomorphology in the Hexi Corridor, north‐west China"
+  },
+  {
+   "oid": "W7118514584",
+   "y": 2025,
+   "c": 0,
+   "len": 1844,
+   "t": "Spatial Distribution Pattern and Accessibility Analysis of Hexi Corridor"
+  },
+  {
+   "oid": "W3084837635",
+   "y": 2020,
+   "c": 0,
+   "len": 4085,
+   "t": "Formation and dynamics of sandy dunes in the inland areas of the Hexi Corridor"
+  },
+  {
+   "oid": "W7208742649",
+   "y": 2026,
+   "c": 0,
+   "len": 1670,
+   "t": "Carboniferous-Triassic rise and fall of continental arc recorded by retro-arc shifts of basin-infill and climate in the Hexi Corridor"
+  }
+ ],
+ "柴达木盆地": [
+  {
+   "oid": "W4405119315",
+   "y": 2024,
+   "c": 5,
+   "len": 1687,
+   "t": "Hydrogeochemical Characteristics and Genesis of Hot Springs in Da Qaidam Area, Northern Qaidam Margin of the Qaidam Basin"
+  },
+  {
+   "oid": "W7147529769",
+   "y": 2016,
+   "c": 0,
+   "len": 2661,
+   "t": "Source to sine relations between the Qaidam basin (Tibet) and the surrounding mountains"
+  },
+  {
+   "oid": "W4392624460",
+   "y": 2025,
+   "c": 0,
+   "len": 1583,
+   "t": "Multiple Evolution Modes of Megaripples in the Qaidam Basin"
+  },
+  {
+   "oid": "W3154033814",
+   "y": 2021,
+   "c": 0,
+   "len": 2356,
+   "t": "Lithospheric buckling dominates the Cenozoic subsidence of the Qaidam Basin, NE Tibetan Plateau"
+  },
+  {
+   "oid": "W3160590772",
+   "y": 2021,
+   "c": 0,
+   "len": 1216,
+   "t": "Regional full seismic waveform inversion of crustal velocity structure in Qaidam Basin"
+  },
+  {
+   "oid": "W2157362480",
+   "y": 2002,
+   "c": 31,
+   "len": 1486,
+   "t": "GEOLOGY AND GEOCHEMISTRY OF SOURCE ROCKS IN THE QAIDAM BASIN, NW CHINA"
+  },
+  {
+   "oid": "W3177513525",
+   "y": 2021,
+   "c": 2,
+   "len": 1464,
+   "t": "Cenozoic paleostress field of tectonic evolution in Qaidam Basin, northern Tibet"
+  },
+  {
+   "oid": "W1969956642",
+   "y": 2006,
+   "c": 29,
+   "len": 1625,
+   "t": "BIOMARKER GEOCHEMISTRY OF CRUDE OILS FROM THE QAIDAM BASIN, NW CHINA"
+  }
+ ],
+ "天山山脉": [
+  {
+   "oid": "W7143887305",
+   "y": 2014,
+   "c": 0,
+   "len": 2944,
+   "t": "Tectonic evolution of the Tian Shan and Western Kunlun Shan : evidence from magnetostratigraphic and thermochronological analyses"
+  },
+  {
+   "oid": "W7147448449",
+   "y": 2014,
+   "c": 5,
+   "len": 2582,
+   "t": "Évolution paléogéographique et paléotopographique du Tian Shan Chinois au Mésozoïque"
+  },
+  {
+   "oid": "W4402376020",
+   "y": 2024,
+   "c": 8,
+   "len": 1519,
+   "t": "Quaternary Deformation along the Gobi–Tian Shan Fault in the Easternmost Tian Shan (Harlik Mountain), Central Asia"
+  },
+  {
+   "oid": "W7143390876",
+   "y": 2010,
+   "c": 1,
+   "len": 1946,
+   "t": "The northern piedmont of Tian Shan : a case study of immature range front"
+  }
+ ],
+ "横断山脉": [
+  {
+   "oid": "W7135192166",
+   "y": 2026,
+   "c": 0,
+   "len": 1645,
+   "t": "Recently Intensified Extreme Precipitation in Late Spring in the Hengduan Mountains"
+  },
+  {
+   "oid": "W4408444505",
+   "y": 2025,
+   "c": 0,
+   "len": 1676,
+   "t": "Vegetation changes in the Hengduan Mountains, China since the Last Glacial Maximum"
+  },
+  {
+   "oid": "W4221057355",
+   "y": 2022,
+   "c": 1,
+   "len": 2919,
+   "t": "The Impact of Hengduan Mountains Formation on the Regional Monsoon Climate and Extreme Precipitation"
+  },
+  {
+   "oid": "W3078926659",
+   "y": 2020,
+   "c": 15,
+   "len": 1571,
+   "t": "Meta-analysis reveals severe pollen limitation for the flowering plants growing in East Himalaya-Hengduan Mountains region"
+  },
+  {
+   "oid": "W2605074880",
+   "y": 2017,
+   "c": 730,
+   "len": 1637,
+   "t": "Uplift-driven diversification in the Hengduan Mountains, a temperate biodiversity hotspot"
+  },
+  {
+   "oid": "W2593758339",
+   "y": 2017,
+   "c": 108,
+   "len": 1623,
+   "t": "Warm–cold colonization: response of oaks to uplift of the Himalaya–Hengduan Mountains"
+  },
+  {
+   "oid": "W2978957080",
+   "y": 2019,
+   "c": 89,
+   "len": 1870,
+   "t": "Rapid diversification of alpine bamboos associated with the uplift of the Hengduan Mountains"
+  }
+ ]
+}
