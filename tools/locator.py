@@ -174,7 +174,7 @@ def _area(r):
     return abs(a)
 
 
-def map_svg(box, bounds, lon=None, lat=None, label=None):
+def map_svg(box, bounds, lon=None, lat=None, label=None, overlay=None):
     """在给定 box 内画 bbox 范围内的真实陆地轮廓，可标点。返回 (frag, project_fn)。"""
     x0, y0, w, h = box
     parts = [f"<rect x='{x0}' y='{y0}' width='{w}' height='{h}' rx='8' fill='#eef1f3' stroke='var(--line)'/>"]
@@ -199,16 +199,19 @@ def map_svg(box, bounds, lon=None, lat=None, label=None):
         rlo = [p[0] for p in ring]; rla = [p[1] for p in ring]
         if max(rlo) < lon0 or min(rlo) > lon1 or max(rla) < lat0 or min(rla) > lat1:
             continue
-        if _area(ring) < 2.0:
+        if _area(ring) < 3.0:
             continue
+        _r = ring if len(ring) <= 55 else ring[::max(1, len(ring)//55)]
         d = []
-        for i, (plo, pla) in enumerate(ring):
+        for i, (plo, pla) in enumerate(_r):
             px, py = proj(plo, pla)
             if px < x0 - 20 or px > x0 + w + 20 or py < y0 - 20 or py > y0 + h + 20:
                 continue
             d.append(('M' if not d else 'L') + f"{px:.1f} {py:.1f}")
         if len(d) > 3:
             parts.append("<path d='" + ' '.join(d) + " Z' fill='#e5dfd0' stroke='#9a9384' stroke-width='.8'/>")
+    if overlay:
+        parts.append(overlay)
     if lon is not None and lat is not None:
         px, py = proj(lon, lat)
         if px < x0 or px > x0 + w or py < y0 or py > y0 + h:

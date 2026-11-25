@@ -3,6 +3,7 @@
 import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from locator import map_svg
+import ne
 
 UNIT_BBOX = {
  "africa": (-20, 55, -36, 38), "asia": (25, 150, -12, 56), "europe": (-12, 45, 34, 72),
@@ -18,7 +19,8 @@ def build(entry, coords=None):
     bb = list(UNIT_BBOX.get(unit, UNIT_BBOX["global-themes"]))
     if lon is not None:
         bb = [min(bb[0], lon - 4), max(bb[1], lon + 4), min(bb[2], lat - 4), max(bb[3], lat + 4)]
-    loc = map_svg((30, 34, 840, 196), tuple(bb), lon, lat, label=title if coords else None)
+    ov = ne.overlay((30, 34, 840, 196), tuple(bb), title)
+    loc = map_svg((30, 34, 840, 196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
     diagram = THEME.get(theme, theme_region)(entry)
     parts = [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title,
