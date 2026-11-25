@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 149,
+  "last_round": 150,
   "history": [
     {
       "round": 1,
@@ -845,6 +845,6 @@
     }
   ],
   "unsolvable": [],
-  "zero_gap_streak": 1,
-  "zero_gap_streak_note": "第149轮独立审计五类全 0，本轮零缺口，连续零缺口计数=1（需连续 3 轮）。"
+  "zero_gap_streak": 2,
+  "zero_gap_streak_note": "第149、150两轮独立审计五类全 0，连续零缺口计数=2（需 3 轮）。"
 }
