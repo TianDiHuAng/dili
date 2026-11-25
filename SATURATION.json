@@ -780,9 +780,9 @@
     "zero_content": 1,
     "criterion": "tools/assess.py（D138 单一实现）",
     "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）",
-    "sources_registered": 777,
-    "sources_referenced": 638,
-    "sources_unreferenced": 139,
+    "sources_registered": 809,
+    "sources_referenced": 669,
+    "sources_unreferenced": 140,
     "sources_fetch_failed": 48,
     "note_sources": "sources.json 是**登记库**（含抓取失败的尝试记录与未被采用的候选），实际被条目引用的是 sources_referenced。此前报告「777 来源」用的是登记数，会让来源显得比实际多（D154）。"
   },
