@@ -1,0 +1,373 @@
+{
+ "entries": [
+  {
+   "title": "秦代",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4312410278",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2979855713",
+     "field": "polities",
+     "claim": "所引 2019 年研究讨论秦统一后的大规模赐爵、黔首身份与县属吏（里耶秦简），不涉度量衡；本条只据此写「统一后的爵制与地方行政」，度量衡与郡县制待专门制度史来源核验。",
+     "abstract_evidence": "天下统一后出现的大规模赐爵……新黔首……县属吏",
+     "verdict": "PASS",
+     "reason": "摘要直接支持统一后赐爵、黔首与县属吏，且正文已声明不涉度量衡",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "隋唐",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2343148554",
+     "field": "influence",
+     "claim": "所引 2015 年《City of Marvel and Transformation: Changan and Narratives of Experience in Tang Dynasty China》（被引9，摘要 1,493 字符）从文人经验的角度讨论唐代长安如何塑造士人身份与集体想象；它是都城文化史视角，与国家能力类来源互补，被引较少，证据强度有限，不涉及隋代与制度细节。",
+     "abstract_evidence": "the imperial capital of Chang’an shaped literati identity and the collective imagination",
+     "verdict": "PASS",
+     "reason": "与摘要一致，范围限定得当",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4304193318",
+     "field": "polities",
+     "claim": "所引 2022 年《State Strengthening in the Tang Dynasty》（摘要 992 字符）讨论唐代（618–907）的国家强化过程，并简述影响唐制的秦、汉两朝；本条「隋唐重建统一帝国、以律令与科举强化中央」据此。",
+     "abstract_evidence": "focuses on the State Strengthening during the Tang Dynasty (618–907)... Tang fiscal and military institutions... An Lushan Rebellion... Two-Tax Reform",
+     "verdict": "SOFT",
+     "reason": "摘要只谈唐代国家强化、财政军事制度与两税法，未涉隋代、律令与科举，「据此」范围放大",
+     "fix": "所引 2022 年《State Strengthening in the Tang Dynasty》（摘要 992 字符）讨论唐代（618–907）的国家强化，涉及中古贵族、财政与军事制度、安史之乱对国家控制的削弱以及两税法改革，并简述影响唐制的秦、汉两朝；该文不涉隋代与律令、科举细节。"
+    }
+   ]
+  },
+  {
+   "title": "宋代",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4361197788",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4385538576",
+     "field": "influence",
+     "claim": "所引 2023 年《Schooling, State, and Society in Song and Jin》（摘要 1,266 字符）指出 10 世纪晚期起科举取士成为新宋政府的核心特征，而办学校以培养应试者是这一努力的中心；本条「宋代以科举与文官制度重塑社会流动」据此。",
+     "abstract_evidence": "Beginning in the late tenth century, a key feature of the new Song government was the use of the examination system... Central to this effort was the need for schools",
+     "verdict": "PASS",
+     "reason": "科举为新宋政府核心特征、办学为中心均被直接支持；「重塑社会流动」摘要以设问提出，属轻度引申但可接受",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "元代",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4389109327",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4407331209",
+     "field": "influence",
+     "claim": "所引 2025 年《Communications and \"Communicators\" in the Yuan and Early Ming》讨论元与明初的文书行政与驿传（通信）体系，含译官机构、公文文字与纸钞等；本条「驿站与文书行政支撑跨区治理」据此。",
+     "abstract_evidence": "founded government agencies and recruited... interpreters and translators... ‘Phags-pa... used almost solely for... paper money, seals, and paiza... ensure safe passage",
+     "verdict": "SOFT",
+     "reason": "摘要讲译官机构与八思巴字，未讲驿站/驿传与文书行政，术语溢出",
+     "fix": "所引 2025 年《Communications and \"Communicators\" in the Yuan and Early Ming》讨论蒙古为治理多语种疆域而设立译官机构、命八思巴创制文字，但该文字几乎只用于纸钞、印章与牌符等官方器物，语言统一未能实现；本条「元廷以译官机构与官方文字维系多语种治理」据此。"
+    },
+    {
+     "source": "openalex-W4385538089",
+     "field": "polities",
+     "claim": "所引 2023 年《The Mongol Yuan Dynasty in China》（摘要 1,346 字符）讨论蒙古征服对中国历史的影响，并指出蒙古以多种语言治理、统治族群与文化上各异的群体；本条「元代以蒙古—色目—汉人多层体制统治」据此。",
+     "abstract_evidence": "The Mongols governed through multiple languages... establishing government administration that incorporated steppe patrimonialism emphasizing kinship and loyalty with Chinese bureaucracy",
+     "verdict": "SOFT",
+     "reason": "摘要未提蒙古—色目—汉人等级体制，所述为草原家产制与汉式官僚制结合",
+     "fix": "所引 2023 年《The Mongol Yuan Dynasty in China》（摘要 1,346 字符）讨论蒙古征服对中国历史的影响，指出蒙古以多种语言治理族群与文化各异的群体，忽必烈时期的行政将强调亲缘与忠诚的草原家产制与汉式官僚制相结合；本条「元代融合草原与汉制的多层统治」据此。"
+    }
+   ]
+  },
+  {
+   "title": "明清",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2081119930",
+     "field": "influence",
+     "claim": "所引 1990 年研究以广东佛山为例，说明明清时期乡村—城镇的转化由手工业与商业推动，而非单纯行政设置；这说明城市化有多种动力，不能只看行政层级。",
+     "abstract_evidence": "It is my contention that in the Ming and Qing town, leaders realized that the prosperity of their towns was rooted in the economy",
+     "verdict": "SOFT",
+     "reason": "摘要讨论市镇领袖如何认识自身与市镇地位（认为繁荣根植于经济），未论证乡—城转化由手工业与商业推动；「城市化多种动力」为外推",
+     "fix": "所引 1990 年研究以广东佛山为例，讨论明清市镇领袖如何看待市镇与自身的地位，认为他们意识到市镇的繁荣根植于经济。"
+    },
+    {
+     "source": "openalex-W3095559789",
+     "field": "polities",
+     "claim": "所引 2020 年研究（摘要 936 字符）讨论清代绿营（garrison system）改革中国家与地方社会的关系——军制如何与地方社区、身份与资源纠缠；本条「明清以里甲、卫所与州县体制治理基层」据此（该文聚焦军制一侧）。",
+     "abstract_evidence": "the relationship between the garrison system and its political practices and community, status, and resources in local society... the Qing inheritance of Ming institutions",
+     "verdict": "SOFT",
+     "reason": "garrison system 指明代卫所（清承明制），误译为「绿营」；里甲、州县不在摘要中",
+     "fix": "所引 2020 年研究（摘要 936 字符）讨论清代卫所（garrison system）改革中国家与地方社会的关系——卫所制度如何与地方社区、身份与资源纠缠，以及清对明制的继承；本条「明清以卫所等制度影响基层社会」据此（该文聚焦军制一侧）。"
+    }
+   ]
+  },
+  {
+   "title": "朝鲜半岛",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2020449353",
+     "field": "geo",
+     "claim": "所引 2000 年研究仅涉植被史，不支撑地形与气候表述。",
+     "abstract_evidence": "The vegetational and environmental history of the Korean Peninsula has been reconstructed",
+     "verdict": "PASS",
+     "reason": "限定声明准确",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4392820314",
+     "field": "geo",
+     "claim": "所引 2024 年《Learning Geography of Korea by Mountains and Island as Main Resource of Korean Peninsula》（被引1，摘要 806 字符）概述朝鲜半岛的山地与岛屿及其对生态、旅游与文化的意义。",
+     "abstract_evidence": "importance of mountains and islands for the ecology, tourism and culture of Korea",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2020449353",
+     "field": "influence",
+     "claim": "所引 2000 年研究以大型化石与孢粉重建半岛植被史（资料覆盖二叠纪至今）：现存针叶与阔叶类群自白垩纪以来连续出现，说明该区域未发生灾难性环境突变、长期气候具有连续性；期间仍有波动，更新世后出现喜冷针叶类群。",
+     "abstract_evidence": "the continued survival of cryophilous conifers since the later Pleistocene may be due to climatic deterioration",
+     "verdict": "SOFT",
+     "reason": "摘要说喜冷针叶类群自晚更新世以来「持续存续」（可能因气候恶化），非「更新世后出现」；且摘要用 may be",
+     "fix": "所引 2000 年研究以大型化石与孢粉重建半岛植被史（资料覆盖二叠纪至今）：现存针叶与阔叶类群自白垩纪以来连续出现，说明该区域未发生灾难性环境突变、长期气候具有一定连续性；期间仍有波动，喜冷针叶类群自晚更新世以来的存续可能与气候恶化有关。"
+    }
+   ]
+  },
+  {
+   "title": "湄公河三角洲",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W2165261460",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "吴哥",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2001286049",
+     "field": "influence",
+     "claim": "所引 2010 年研究指出：14–15 世纪长期干旱与强季风事件交替，与其他因素共同促成吴哥的衰落；高强度季风年份损害了其水利控制设施。",
+     "abstract_evidence": "decades-long drought interspersed with intense monsoons in the fourteenth and fifteenth centuries that, in combination with other factors, contributed to its eventual demise... high-magnitude monsoon years damaged its water control infrastructure",
+     "verdict": "PASS",
+     "reason": "逐点被支持",
+     "fix": null
+    },
+    {
+     "source": "openalex-W3014329675",
+     "field": "influence",
+     "claim": "所引 2020 年《Top-down and bottom-up water management: A diachronic model of the Greater Angkor region》（被引48）指出 9–15 世纪高棉帝国的连续都城发展出大规模的农业与水资源管理系统；本条「吴哥的水利网络支撑庞大人口与王权」据此。",
+     "abstract_evidence": "the Khmer developed an extensive agricultural and water management system characterized by top-down state-sponsored hydraulic infrastructure... transformed over 1000 km2",
+     "verdict": "SOFT",
+     "reason": "引文副题与原题不符（原题为 A diachronic model of changing water management strategies at Angkor, Cambodia）；「支撑庞大人口」摘要未言",
+     "fix": "所引 2020 年《Top-down and bottom-up water management: A diachronic model of changing water management strategies at Angkor, Cambodia》（被引48）指出 9–15 世纪高棉帝国的连续都城发展出以国家主导水利设施为特征的农业与水资源管理系统，并与众多社区庙宇共同将逾 1000 平方公里改造为工程化景观；本条「吴哥的水利网络支撑农业生产与王权集中」据此。"
+    }
+   ]
+  },
+  {
+   "title": "马来群岛",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2619853094",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4285378271",
+     "field": "influence",
+     "claim": "所引 2021 年《Southeast Asian Early Maritime Silk Road Trading Polities》（摘要≥400 字符）讨论东南亚早期海上贸易政体的文化分化与环境、社会、人口、经济因素；本条「马来群岛的港市国家靠季风贸易与转口立足」据此。",
+     "abstract_evidence": "When, how and why does cultural differentiation take place?... foragers or nomadic groups form part of regional states’ political economies... forest foragers’ role in collecting goods for trading states",
+     "verdict": "FAIL",
+     "reason": "摘要讨论克拉地峡海上游民/采集者与贸易政体的共生关系，不涉季风贸易与转口港市，对象不符",
+     "fix": "所引 2021 年《Southeast Asian Early Maritime Silk Road Trading Polities’ Hinterland and the Sea Nomads of the Isthmus of Kra》讨论东南亚早期海上贸易政体腹地中采集者、海上游民与农人、商人的相互依存关系，以及环境破碎性对社会分化的影响。"
+    }
+   ]
+  },
+  {
+   "title": "河中地区",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2621257476",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4313222955",
+     "field": "influence",
+     "claim": "所引 2022 年《Mongol invasion of Transoxiana 1219–1221》（摘要 1,310 字符）讨论蒙古对河中地区的入侵；本条「河中作为东西商路枢纽、屡遭北方游牧势力冲击」据此。",
+     "abstract_evidence": "The Mongol invasion of the Islamic world, especially parts of Transoxiana... This invasion was the first gateway for the Mongols",
+     "verdict": "SOFT",
+     "reason": "摘要只支持蒙古入侵河中一事，「东西商路枢纽」「屡遭冲击」为外推",
+     "fix": "所引 2022 年《Mongol invasion of Transoxiana 1219–1221》（摘要 1,310 字符）讨论蒙古对河中地区的入侵，认为这是蒙古进一步入侵伊斯兰世界的首个门户；本条「河中曾遭蒙古西征重创」据此。"
+    }
+   ]
+  },
+  {
+   "title": "匈奴",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2042596789",
+     "field": "influence",
+     "claim": "所引 2014 年研究依据中国史书与考古材料，指出匈奴的「王」与区域精英构成分层联盟，地方领袖的竞争导致草原精英的分裂，而非集权官僚制。",
+     "abstract_evidence": "discusses the entire spectrum of “kings” and regional elites... competition from local leaders against the ruling factions spurred changes in material regimes... leading to a bifurcation of the steppe elite",
+     "verdict": "SOFT",
+     "reason": "「分层联盟」「而非集权官僚制」摘要未言；且该文意在补正对中国史书的依赖",
+     "fix": "所引 2014 年研究考察匈奴帝国各级「王」与区域精英，并结合考古材料指出：地方领袖对统治集团的竞争推动了帝国政治文化物质表现的变化，导致草原精英分化。"
+    },
+    {
+     "source": "openalex-W2013667302",
+     "field": "influence",
+     "claim": "所引 2014 年《Iron Smelting in the Nomadic Empire of Xiongnu》（被引21）报告蒙古 Khustyn Bulag 的匈奴时期冶铁遗址（前209–公元155年），并指出匈奴是东亚欧第一个游牧帝国；本条「匈奴以游牧骑兵立国、兼有手工业」据此。",
+     "abstract_evidence": "The Xiongnu was the first Nomadic Empire in east Eurasia... characteristics of iron smelting are related not to China but to South Siberia",
+     "verdict": "SOFT",
+     "reason": "冶铁与首个游牧帝国被支持，「以游牧骑兵立国」摘要未言",
+     "fix": "所引 2014 年《Iron Smelting in the Nomadic Empire of Xiongnu》（被引21）报告蒙古 Khustyn Bulag 的匈奴时期冶铁遗址（前209–公元155年），指出匈奴是东欧亚第一个游牧帝国，其冶铁特征与南西伯利亚而非中国相关；本条「匈奴游牧帝国兼有冶铁手工业」据此。"
+    }
+   ]
+  },
+  {
+   "title": "突厥",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2950039895",
+     "field": "influence",
+     "claim": "所引 2015 年遗传研究显示突厥语人群的扩展伴随基因混合而非单纯替换，说明语言扩散与人群迁移是两件相互关联但不重合的过程。",
+     "abstract_evidence": "In agreement with the elite dominance model of language expansion most of the Turkic peoples studied genetically resemble their geographic neighbors... our results indicate historical admixture",
+     "verdict": "SOFT",
+     "reason": "摘要以精英支配模型为主（多数突厥语人群与邻近人群相似），同时检出历史混合；正文「而非单纯替换」表述偏离精英支配结论",
+     "fix": "所引 2015 年遗传研究显示，多数突厥语人群在遗传上与其地理邻居相近，符合语言扩散的精英支配模型，但也检出与南西伯利亚—蒙古人群相关的历史混合信号，说明语言扩散与人群迁移相关而不重合。"
+    },
+    {
+     "source": "openalex-W4384485896",
+     "field": "polities",
+     "claim": "所引 2023 年章节，突厥人建立了历史上第一个突厥帝国——突厥汗国，摘要给出「552–745年」与「552 至 742 年」两种表述（D109 要求并注）；该章节为 Routledge 电子书章、摘要 619 字符（低于本条 800 字符门槛）、被引 0，故仅作旁证。",
+     "abstract_evidence": "the Türk Qaghanates (552–745), which dominated much of Inner Asia for nearly two centuries from 552 to 742 CE",
+     "verdict": "PASS",
+     "reason": "两种年代表述确在摘要中",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2580406109",
+     "field": "polities",
+     "claim": "所引 2016 年《Relations between Ancient Korea and Turkey: …Contacts between Koguryŏ and the Turkic Khaganate》（摘要 4,145 字符）以高句丽与突厥汗国的外交接触为线索，说明汗国在欧亚东部的对外关系网络；本条「突厥以汗国体制统合草原诸部、与周边政权并立」据此。",
+     "abstract_evidence": "Contacts between Koguryŏ and the Turkic Khaganate... Exchanges between the inhabitants of the Korean peninsula and those of the nomadic states of the Mongol steppes",
+     "verdict": "SOFT",
+     "reason": "支持高句丽—突厥接触；「统合草原诸部」摘要未言",
+     "fix": "所引 2016 年《Relations between Ancient Korea and Turkey: …Contacts between Koguryŏ and the Turkic Khaganate》（摘要 4,145 字符）以高句丽与突厥汗国的接触为线索，说明草原游牧政权与朝鲜半岛之间的往来；本条「突厥汗国与周边政权并立并有交往」据此。"
+    }
+   ]
+  },
+  {
+   "title": "阿拉伯半岛",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2000268226",
+     "field": "geo",
+     "claim": "所引 2012 年《Recent climate change in the Arabian Peninsula》（被引 396）以网格数据与沙特 27 个地面站（1978–2009）分析半岛的年降雨与气温气候学；沙特一国即占半岛近 80%。",
+     "abstract_evidence": "For Saudi Arabia, the area of which represents almost 80% of the Peninsula... 27 ground observations... 1978–2009",
+     "verdict": "PASS",
+     "reason": "逐点支持",
+     "fix": null
+    },
+    {
+     "source": "openalex-W1995877879",
+     "field": "geo",
+     "claim": "所引 2009 年《Chronology of the impact of Quaternary climate change…》（被引95）据古湖遗迹指出阿拉伯半岛过去远比今天湿润，最近的湿润期约在 10–5.5 ka 前；本条「半岛今日干旱、但在第四纪晚期经历湿润期」据此。",
+     "abstract_evidence": "the Arabian Peninsula experienced much wetter conditions than today. The last of these humid periods dates to about 10 to 5.5 ka ago",
+     "verdict": "PASS",
+     "reason": "直接支持",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "黎凡特",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2884062598",
+     "field": "influence",
+     "claim": "所引 2018 年研究讨论约 4200 年前的干旱事件（4.2 ka BP）在该区域的记录与影响，表明气候事件在区域尺度上的表现并不一致，需逐地比对而非整体推断。",
+     "abstract_evidence": "a different climate pattern emerges in the central-southern Levant, with two arid phases framing a wetter period",
+     "verdict": "PASS",
+     "reason": "区域表现不一致被支持",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2321518539",
+     "field": "influence",
+     "claim": "所引 2007 年《Structural Transformations in Settlement Systems of the Northern Levant》（被引98，摘要 1,401 字符）基于阿姆克谷地（今土耳其）的考古调查，描述黎凡特北部聚落体系的结构变化：约公元前 3000 年起，聚落集中到约 100 个位于低地平原的聚落丘。",
+     "abstract_evidence": "beginning ca. 3000 B.C.E., settlement became concentrated at about 100 nucleated tell sites located exclusively in lowland plains and river valleys",
+     "verdict": "PASS",
+     "reason": "直接支持",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "东亚季风",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W2404462665",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": "",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": null
+    }
+   ]
+  }
+ ]
+}
