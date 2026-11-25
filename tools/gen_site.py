@@ -108,6 +108,38 @@ def entry_card(e):
     return f'''<a class="card tier-{esc(e['tier'])}" href="../entries/{esc(e['id'])}.html"><span class="tier">{esc(e['tier'])}</span><h3>{esc(e['title'])}</h3><p>{esc(e['time_or_place'])} · {esc(e['theme'])}</p><p class="dim">{esc(e['overview'][:60])}…</p></a>'''
 
 
+
+LANDFORMS = [("黄土高原",108.5,36.5,"asia-x9ec4x571fx9ad8x539f"),("云贵喀斯特",106,25.5,"asia-x4e91x8d35x5580x65afx7279"),
+("四川盆地",105.5,30.5,"asia-x56dbx5dddx76c6x5730"),("塔里木盆地",83.5,39.5,"asia-x5854x91ccx6728x76c6x5730"),
+("准噶尔盆地",87,45,"asia-x51c6x5676x5c14x76c6x5730"),("东北平原",125,45.5,"asia-x4e1cx5317x5e73x539f"),
+("华北平原",116.5,35.5,"asia-x534ex5317x5e73x539f"),("长江中下游平原",117,30.5,"asia-x957fx6c5fx4e2dx4e0bx6e38x5e73x539f"),
+("珠江三角洲",113.5,22.5,"asia-x73e0x6c5fx4e09x89d2x6d32"),("秦岭—淮河一线",108,33.3,"asia-x79e6x5cadx2014x6deex6cb3x4e00x7ebf"),
+("东南丘陵",118,26.5,"asia-x4e1cx5357x4e18x9675"),("河西走廊",100,39.5,"asia-x6cb3x897fx8d70x5eca"),
+("柴达木盆地",95,37.3,"asia-x67f4x8fbex6728x76c6x5730"),("天山山脉",84,42.5,"asia-x5929x5c71x5c71x8109"),
+("横断山脉",99,28,"asia-x6a2ax65adx5c71x8109")]
+
+def hero_china_svg():
+    try:
+        import locator
+        rings = locator.china_rings()
+        bounds = (72,137,16,55); box=(20,20,700,360)
+        def proj(lo,la): return locator._project(lo,la,box,bounds)
+        parts=["<svg viewBox='0 0 740 420' role='img' aria-label='中国十五大地貌分布示意'>",
+               "<rect x='10' y='10' width='720' height='400' rx='12' fill='none' stroke='var(--line)'/>"]
+        for ring in rings[:6]:
+            d=[]
+            step=max(1,len(ring)//120)
+            for i,(lo,la) in enumerate(ring[::step]):
+                px,py=proj(lo,la); d.append(("M" if not d else "L")+f"{px:.0f} {py:.0f}")
+            parts.append("<path d='"+' '.join(d)+" Z' fill='#e8e2d2' stroke='#8a8272' stroke-width='1'/>")
+        for name,lo,la,eid in LANDFORMS:
+            px,py=proj(lo,la)
+            parts.append(f"<a href='entries/{eid}.html'><circle cx='{px:.0f}' cy='{py:.0f}' r='5' fill='#c0392b' stroke='#7a1f14'/><text x='{px+6:.0f}' y='{py-4:.0f}' font-size='11' fill='#7a1f14'>{name}</text></a>")
+        parts.append("<text x='20' y='404' font-size='11' fill='var(--dim)'>中国十五大地貌单元（示意定位；底图非精确测绘）</text></svg>")
+        return "".join(parts)
+    except Exception:
+        return ''
+
 def main():
     os.makedirs(os.path.join(SITE, "css"), exist_ok=True)
     os.makedirs(os.path.join(SITE, "entries"), exist_ok=True)
@@ -167,11 +199,29 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 
     # 首页
     unit_cards = "".join(f'''<a class="card" href="units/{uid}.html"><h3>{esc(UNIT_NAMES[uid])}</h3><p>{len(units[uid]['entries'])} 条</p><p class="dim">{esc('、'.join(sorted({e['theme'] for e in units[uid]['entries']})))}</p></a>''' for uid in UNIT_IDS)
-    body = f'''<h1>地理与文明百科</h1><p class="lead">以「大洲 × 文明/区域 × 主题」为骨架的静态知识库。数据驱动、机器校验、待核实标注。</p>
-<div class="stats"><div class="stat"><b>{total}</b>条目</div><div class="stat"><b>{l1}/{l2}/{l3}</b>L1/L2/L3</div><div class="stat"><b>{verified_src}</b>已核验来源</div><div class="stat"><b>{pending}</b>待核实条目</div></div>
+    lf_chips = "".join(f'<a class="tag" href="entries/{eid}.html">{esc(nm)}</a>' for nm,lo,la,eid in LANDFORMS)
+    try:
+        sat = load(os.path.join(ROOT, "SATURATION.json"))
+        lv = sat.get("evidence", {}).get("levels", {}); acount = lv.get("A", 0); dcount = lv.get("D", 0)
+        gaps = sat.get("gap_model", {}).get("counts", {}); gapstr = "/".join(str(gaps.get(k, 0)) for k in ("G1","G2","G3","G4"))
+    except Exception:
+        acount = dcount = 0; gapstr = "0/0/0/0"
+    hero = hero_china_svg()
+    body = f'''<h1>地理与文明百科</h1>
+<p class="lead">以「大洲 × 文明/区域 × 主题」为骨架的静态知识库：真实地图定位 + 主题示意图 + 可核验来源。纯静态、零 JavaScript。</p>
+<div class="stats">
+<div class="stat"><b>{total}</b>条目</div>
+<div class="stat"><b>{acount}</b>A 级（≥2 独立来源）</div>
+<div class="stat"><b>{verified_src}</b>已核验来源</div>
+<div class="stat"><b>{gapstr}</b>缺口 G1/G2/G3/G4</div>
+</div>
+<h2>中国十五大地貌（可视化总览）</h2>
+{hero}
+<p>{lf_chips}</p>
 <h2>按大洲浏览</h2><div class="grid">{unit_cards}</div>
 <h2>按主题浏览</h2><p>{''.join(f'<a class="tag" href="index-all.html#{esc(t)}">{esc(t)}</a>' for t in THEMES)}</p>
-<h2>说明</h2><p>本站不使用图片；所有图示均为内联 SVG 示意图，非精确测绘。现状数据均标注年份与来源；争议边界只描述立场、不画界线。</p>'''
+<div class="section"><h2>图形与数据来源</h2><p class="dim">每条目：上半为真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区（红点定位）；下半按主题绘制（地形剖面 / Köppen 气候分区 / 农业·贸易·区域示意 / historical-basemaps 历史疆域 / 世界银行真实折线图）。数据：Natural Earth（公有领域）、historical-basemaps（CC BY 4.0）、Köppen-Geiger（Beck et al.）、World Bank API。所有图为示意图、非精确测绘；争议边界不画线。</p></div>
+<h2>说明</h2><p>本站不使用图片；所有图示均为内联 SVG 示意图。现状数据均标注年份与来源；待核实处明确标注。</p>'''
     with open(os.path.join(SITE, "index.html"), "w", encoding="utf-8") as f:
         f.write(page("首页", body))
 
