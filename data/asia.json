@@ -1130,7 +1130,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。 档位判定：本条标题为「湄公河三角洲」，正则 mekong 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2165261460（2014年，「Groundwater extraction, land subsidence, and sea-level rise in the Mekong Delta, Vietnam」，DOI https://doi.org/10.1088/1748-9326/9/8/084010）； 【第122轮语义扫描】openalex-W2165261460 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+      "pending_notes": "第15轮复核：东南亚×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮复核】东南亚×农业；来源均已核验；按 D041/D044 仍缺含作物制度/水利正文的专题页。 【第20轮复核】东南亚×农业；按 D041/D055 仍缺含作物制度/水利正文的专题页。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·湄公河三角洲】本条正则 mekong；fao-aquastat-basins=200/正文1581字符/本条命中0；s013-fao-org=200/正文898字符/本条命中0。D055 判定：未达标（最高命中0、最高正文1581字符；档①门槛5000/档②③8000）；缺口为「湄公河三角洲」主题专题页。 档位判定：本条标题为「湄公河三角洲」，正则 mekong 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2165261460（2014年，「Groundwater extraction, land subsidence, and sea-level rise in the Mekong Delta, Vietnam」，DOI https://doi.org/10.1088/1748-9326/9/8/084010）； openalex-W2165261460（《Groundwater extraction, land subsidence, and sea-level rise in the Mekong Delta, Vietnam》，Environmental Research Letters 2014，被引 600）已在 influence 落点——正文「研究表明两者共同作用」即转述该文「地下水抽取引起的沉降与海平面上升叠加」的结论，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -1712,7 +1712,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东亚×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2404462665（2015年，「East Asian summer monsoon precipitation variability since the last deglaciation」，DOI https://doi.org/10.1038/srep11186）； 【第122轮语义扫描】openalex-W2404462665 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+      "pending_notes": "第17轮复核：东亚×气候；来源均已核验；按 D041/D044 仍缺含气候机制正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2404462665（2015年，「East Asian summer monsoon precipitation variability since the last deglaciation」，DOI https://doi.org/10.1038/srep11186）； openalex-W2404462665（《East Asian summer monsoon precipitation variability since the last deglaciation》，Scientific Reports 2015，被引 1139）已在 influence 落点——正文「古气候记录显示季风强度存在千年尺度变化」即转述该文关于末次冰消期以来季风降水变率的结论，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",

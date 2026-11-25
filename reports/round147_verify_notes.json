@@ -1,0 +1,875 @@
+{
+ "round": 147,
+ "created": "2026-11-25",
+ "purpose": "复核 pending_notes 标注「仅作登记/不支撑任何断言/在正文中无对应落点句」的 openalex 来源，判断正文是否其实转述其结论/数字",
+ "counts": {
+  "pairs": 60,
+  "cited": 3,
+  "uncited": 53,
+  "doubt": 4
+ },
+ "pairs": [
+  {
+   "title": "尼罗河三角洲",
+   "unit": "africa",
+   "entry_id": "africa-x5c3cx7f57x6cb3x4e09x89d2x6d32",
+   "source": "openalex-W2220441068",
+   "api_title": "Heavy metal concentrations in surface river water and bed sediments at Nile Delta in Egypt.",
+   "year": 2010,
+   "clue": "升级 L2】第二来源为 OpenAlex openalex-W2220441068（2010年，「Heavy metal concentrations in surface river water and bed sediments at Nile Delta in Egypt.」，DOI 无）； 【第34轮返工·引用范围澄清】所引文献为三角洲地表水重金属浓度研究，仅涉水质空间分布；正文已加限域句，未外推为整体概况。 【第92轮审计修正·对象碰撞】`openalex-W2220"
+  },
+  {
+   "title": "几内亚湾沿岸",
+   "unit": "africa",
+   "entry_id": "africa-x51e0x5185x4e9ax6e7ex6cbfx5cb8",
+   "source": "openalex-W1593162251",
+   "api_title": "Oil and Politics in the Gulf of Guinea",
+   "year": 2007,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W1593162251（2007年，「Oil and Politics in the Gulf of Guinea」，DOI 无）；年代以「区域地理与近代政治经济；本条引 2007 年专论」表述，未编造精确年份。 【第120轮语义扫描】openalex-W1593162251 在正文中无对应落点句，仅作登记，不支撑任何断言。"
+  },
+  {
+   "title": "古埃及早王朝",
+   "unit": "africa",
+   "entry_id": "africa-x53e4x57c3x53cax65e9x738bx671d",
+   "source": "openalex-W3182616223",
+   "api_title": "Early Dynastic Sealing Practices as a Reflection of State Formation in Egypt",
+   "year": 2018,
+   "clue": "轮补第二内容源（strong，核心缺口）】openalex-W3182616223（1999年，《EARLY DYNASTIC EGYPT》，被引 3，摘要 994 字符）：已落点 polities。 【第115轮语义扫描 SOFT】openalex-W1982277160：『形成期、王朝确立统治』获支持；『完成上下埃及统一』摘要未提及 【第115轮语义扫描】openalex-W3182616223 在正文中无对应落点句，仅作登记，不支撑任何断言。"
+  },
+  {
+   "title": "古埃及新王国",
+   "unit": "africa",
+   "entry_id": "africa-x53e4x57c3x53cax65b0x738bx56fd",
+   "source": "openalex-W197188726",
+   "api_title": "Amphorae in New Kingdom Egypt",
+   "year": 2005,
+   "clue": "【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W197188726（2005年，「Amphorae in New Kingdom Egypt」，DOI https://doi.org/10.1553/aeundl14s175）；其摘要含 New Kingdom，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第48轮剔除】候选《Afterglow of Empire: Egypt"
+  },
+  {
+   "title": "罗马阿非利加",
+   "unit": "africa",
+   "entry_id": "africa-x7f57x9a6cx963fx975ex5229x52a0",
+   "source": "openalex-W438212032",
+   "api_title": "Land, city, and trade in the Roman Empire",
+   "year": 1993,
+   "clue": "第34轮第二来源（强）】OpenAlex openalex-W438212032（1993年，「Land, city, and trade in the Roman Empire」，DOI 无）：专论「Land, city, and trade in the Roman Empire」，含北非行省土地与劳力章节。 【第48轮第二源·D101】openalex-W2481617052（2004年，《The Segermes-Project Population and Prod"
+  },
+  {
+   "title": "加纳帝国",
+   "unit": "africa",
+   "entry_id": "africa-x52a0x7eb3x5e1dx56fd",
+   "source": "openalex-W2010072736",
+   "api_title": "Archaeology and the prehistoric origins of the Ghana empire",
+   "year": 1980,
+   "clue": "国」的来源；已撤出。 【第60轮补强来源】openalex-W2010072736（1980年，《Archaeology and the prehistoric origins of the Ghana empire》，被引 107，摘要 1265 字符）：主题槽命中 ['ghana', 'state', 'trade', 'empire']。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；检索命中的仍是已登记的 W2010072736（被引107"
+  },
+  {
+   "title": "桑海帝国",
+   "unit": "africa",
+   "entry_id": "africa-x6851x6d77x5e1dx56fd",
+   "source": "openalex-W2991586769",
+   "api_title": "The Rise of the Songhai Empire",
+   "year": 2018,
+   "clue": "【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W2991586769（2018年，「The Rise of the Songhai Empire」，DOI https://doi.org/10.4324/9781351033343-8）；其摘要含 Songhai，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式"
+  },
+  {
+   "title": "斯瓦希里海岸",
+   "unit": "africa",
+   "entry_id": "africa-x65afx74e6x5e0cx91ccx6d77x5cb8",
+   "source": "openalex-W4229865234",
+   "api_title": "Islamic Architecture of the Swahili coast",
+   "year": 2017,
+   "clue": "严。 【第42轮第二来源（strong）】openalex-W4229865234（2017年，《Islamic Architecture of the Swahili coast》，Routledge eBooks，DOI 10.4324/9781315691459-43，被引 18）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第75轮补第二内容源（strong）】openalex-W4212910217（2022年，《The Swahili World》，"
+  },
+  {
+   "title": "南极大陆",
+   "unit": "antarctica",
+   "entry_id": "antarctica-x5357x6781x5927x9646",
+   "source": "openalex-W4281801109",
+   "api_title": "Diatom stratigraphy defining ice sheet grounding chronology, Ross Sea, Antarctica",
+   "year": 2009,
+   "clue": "。 【第42轮第二来源（partial）】openalex-W4281801109（2009年，《Diatom stratigraphy defining ice sheet grounding chronology, Ross Sea,》，Louisiana State University，DOI 10.31390/gradschool_dissertations.3150，被引 2）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。 【第50轮"
+  },
+  {
+   "title": "亚述帝国",
+   "unit": "asia",
+   "entry_id": "asia-x4e9ax8ff0x5e1dx56fd",
+   "source": "openalex-W52369814",
+   "api_title": "Landscape and Settlement in the Neo-Assyrian Empire",
+   "year": 2005,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W52369814（2005年，「Landscape and Settlement in the Neo-Assyrian Empire」，DOI https://doi.org/10.1086/basor25066913，Bulletin of the American Schools of Oriental Research）； 年代以「新亚述时期约公元前10–前7世纪（具体起讫年学界有不同表述）」表述并注明学"
+  },
+  {
+   "title": "帕提亚帝国",
+   "unit": "asia",
+   "entry_id": "asia-x5e15x63d0x4e9ax5e1dx56fd",
+   "source": "openalex-W2895092346",
+   "api_title": "Long Distance Trade and the Parthian Empire: Reclaiming Parthian Agency from an Orientalist Historiography",
+   "year": 2018,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2895092346（2018年，「Long Distance Trade and the Parthian Empire: Reclaiming Parthian」，DOI https://doi.org/10.25710/2v84-6x06，Western CEDAR (Western Washington University)）； 年代以「公元前3世纪中叶至公元3世纪初（帕提亚/安息王朝；具体起讫年学界有不同"
+  },
+  {
+   "title": "萨珊波斯",
+   "unit": "asia",
+   "entry_id": "asia-x8428x73cax6ce2x65af",
+   "source": "openalex-W4232054564",
+   "api_title": "Decline and Fall of the Sasanian Empire: The Sasanian–Parthian Confederacy and the Arab Conquest of Iran",
+   "year": 2008,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W4232054564（2008年，「Decline and Fall of the Sasanian Empire: The Sasanian–Parthian C」，DOI https://doi.org/10.5040/9780755695270，I.B. Tauris & Co Ltd eBooks）； 年代以「公元3世纪至7世纪中叶（萨珊王朝；起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。"
+  },
+  {
+   "title": "印度河文明",
+   "unit": "asia",
+   "entry_id": "asia-x5370x5ea6x6cb3x6587x660e",
+   "source": "openalex-W7127929917",
+   "api_title": "Indus Valley Civilization",
+   "year": 2025,
+   "clue": "【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W7127929917（2025年，「Indus Valley Civilization」，DOI https://doi.org/10.3735/9781961844568.book.part.017）；其摘要含 Indus、2600、1900，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第81轮补第二内容源（strong）】op"
+  },
+  {
+   "title": "笈多王朝",
+   "unit": "asia",
+   "entry_id": "asia-x7b08x591ax738bx671d",
+   "source": "openalex-W4321610807",
+   "api_title": "THE EMPIRE OF GUPTA – THE GOLDEN PERIOD OF ANCIENT INDIA",
+   "year": 2019,
+   "clue": "【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4321610807（2019年，「THE EMPIRE OF GUPTA – THE GOLDEN PERIOD OF ANCIENT INDIA」，DOI https://doi.org/10.5281/zenodo.2599341）；其摘要含 Gupta、320、550，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第63轮检"
+  },
+  {
+   "title": "长江流域",
+   "unit": "asia",
+   "entry_id": "asia-x957fx6c5fx6d41x57df",
+   "source": "openalex-W2805650462",
+   "api_title": "Exploring spatiotemporal changes of the Yangtze River (Changjiang) nitrogen and phosphorus sources, retention and export to the East China Sea and Yellow Sea",
+   "year": 2018,
+   "clue": "第34轮第二来源（中）】OpenAlex openalex-W2805650462（2018年，「Exploring spatiotemporal changes of the Yangtze River (Changjiang) nitrogen and phosphorus sources, retention and export to the East China Sea and Yellow Sea」，DOI https://doi.org/10.1016/j.wat"
+  },
+  {
+   "title": "商代",
+   "unit": "asia",
+   "entry_id": "asia-x5546x4ee3",
+   "source": "openalex-W581771675",
+   "api_title": "China in the Early Bronze Age: Shang Civilization",
+   "year": 2006,
+   "clue": "第34轮第二来源（中）】OpenAlex openalex-W581771675（2006年，「China in the Early Bronze Age: Shang Civilization」，DOI https://doi.org/10.9783/9780812203615）：专著《China in the Early Bronze Age: Shang Civilization》，可证青铜时代商文明的存在与学术地位；摘要未给具体年代。 【第48轮第二源·D101】op"
+  },
+  {
+   "title": "周代",
+   "unit": "asia",
+   "entry_id": "asia-x5468x4ee3",
+   "source": "openalex-W4206323479",
+   "api_title": "Hierarchical, Ethnic, and Provenance Features of Western Zhou Period Proto-Porcelain in Northern China: New Evidence of a Redistribution System During the Western Zhou Dynasty",
+   "year": 2021,
+   "clue": "明。 【第42轮第二来源（strong）】openalex-W4206323479（2021年，《Hierarchical, Ethnic, and Provenance Features of Western Zhou Period P》，Asian perspectives，DOI 10.1353/asi.2021.0006，被引 5）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第63轮检索记录】两库（Crossref+OpenAlex）、两条检索式；11"
+  },
+  {
+   "title": "秦代",
+   "unit": "asia",
+   "entry_id": "asia-x79e6x4ee3",
+   "source": "openalex-W4312410278",
+   "api_title": "Making the First Emperor’s Chariots—High-temperature Bronze Connection Technologies in Qin Dynasty China",
+   "year": 2021,
+   "clue": "【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4312410278（2021年，「Making the First Emperor’s Chariots—High-temperature Bronze 」，DOI https://doi.org/10.1080/10344233.2022.2131197）；其摘要含 Qin、221、206，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断"
+  },
+  {
+   "title": "汉代",
+   "unit": "asia",
+   "entry_id": "asia-x6c49x4ee3",
+   "source": "openalex-W4403972561",
+   "api_title": "Dogs in Early Imperial China: Anthropo-Zoological Reading of Iconographic Sources from the Han Dynasty (206 BC-AD 220)",
+   "year": 2019,
+   "clue": "【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4403972561（2019年，「Dogs in Early Imperial China: Anthropo-Zoological Reading of」，DOI 无）；其摘要含 Han dynasty、206 BC、220，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第49轮降旁证】所引 W4403972561 是《Dogs"
+  },
+  {
+   "title": "宋代",
+   "unit": "asia",
+   "entry_id": "asia-x5b8bx4ee3",
+   "source": "openalex-W4361197788",
+   "api_title": "Deeper Structures of Song Governance",
+   "year": 2023,
+   "clue": "态。 【第42轮第二来源（strong）】openalex-W4361197788（2023年，《Deeper Structures of Song Governance》，Cambridge University Press eBooks，DOI 10.1017/9781009235624.013，被引 0）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除·书评】openalex-W2325759714 经 OpenAlex 实测 type=book"
+  },
+  {
+   "title": "元代",
+   "unit": "asia",
+   "entry_id": "asia-x5143x4ee3",
+   "source": "openalex-W4389109327",
+   "api_title": "Koryŏ inlay celadon from Taicang Port of the Yuan Dynasty, China",
+   "year": 2023,
+   "clue": "【第34轮双源补齐】第二来源为 OpenAlex 学术文献 W4389109327（2023年，「Koryŏ inlay celadon from Taicang Port of the Yuan Dynasty, C」，DOI https://doi.org/10.1186/s40494-023-01089-x）；其摘要含 Yuan、1368，可支撑本条年代/主题断言。 该文献为主题性研究而非通史概述，剩余段落（地理与经济机制）仍以常识性地理描述为主，未作无源具体断言。 【第"
+  },
+  {
+   "title": "马来群岛",
+   "unit": "asia",
+   "entry_id": "asia-x9a6cx6765x7fa4x5c9b",
+   "source": "openalex-W2619853094",
+   "api_title": "Southeast Asia: New Views of the Geology of the Malay Archipelago",
+   "year": 2017,
+   "clue": "升级 L2】第二来源为 OpenAlex openalex-W2619853094（2017年，《Southeast Asia: New Views of the Geology of the Malay Archipelago》，DOI https://doi.org/10.1146/annurev-earth-063016-020633，Annual Review of Earth and Planetary Sciences）。 该文献与本条对象一致（时期/范围见说明），"
+  },
+  {
+   "title": "河中地区",
+   "unit": "asia",
+   "entry_id": "asia-x6cb3x4e2dx5730x533a",
+   "source": "openalex-W2621257476",
+   "api_title": "The Connection of the Genetic, Cultural and Geographic Landscapes of Transoxiana",
+   "year": 2017,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2621257476（2017年，「The Connection of the Genetic, Cultural and Geographic Landsca」，DOI https://doi.org/10.1038/s41598-017-03176-z）；年代以「区域地理与历史；本条引 2017 年多学科研究」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Connection"
+  },
+  {
+   "title": "蒙古帝国",
+   "unit": "asia",
+   "entry_id": "asia-x8499x53e4x5e1dx56fd",
+   "source": "openalex-W4211127421",
+   "api_title": "In the Shadow of the Mongol Empire: Ming China and Eurasia",
+   "year": 2019,
+   "clue": "第34轮第二来源（强）】OpenAlex openalex-W4211127421（2019年，「In the Shadow of the Mongol Empire: Ming China and Eurasia」，DOI https://doi.org/10.1017/9781108687645）：摘要明确写「During the thirteenth century, the Mongols created the greatest empire in human his"
+  },
+  {
+   "title": "古希腊城邦",
+   "unit": "europe",
+   "entry_id": "europe-x53e4x5e0cx814ax57cex90a6",
+   "source": "openalex-W3098219892",
+   "api_title": "Coastal Geomorphology and Sea-Level Change",
+   "year": 2009,
+   "clue": "言，已剔除。 【第46轮补源·领域词重检】openalex-W3098219892（2009年，《Coastal Geomorphology and Sea-Level Change》，DOI 10.1093/oso/9780199268030.003.0025，被引 75）：前一轮称「无对应专题文献」系检索不力（只用一次 bibliographic 查询、缺领域词）；改用 geomorphology/physical geography 等领域词后取得该文献，已登记。 【第5"
+  },
+  {
+   "title": "马其顿与亚历山大",
+   "unit": "europe",
+   "entry_id": "europe-x9a6cx5176x987fx4e0ex4e9ax5386x5c71x5927",
+   "source": "openalex-W1970392988",
+   "api_title": "Alexander the Great and the Logistics of the Macedonian Army",
+   "year": 1978,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W1970392988（1978年，「Alexander the Great and the Logistics of the Macedonian Army」，DOI https://doi.org/10.1525/9780520352162，University of California Press eBooks）； 年代以「公元前4世纪（马其顿王国；亚历山大东征 前334–前323年）」表述并注明学界有不同版本"
+  },
+  {
+   "title": "罗马共和国",
+   "unit": "europe",
+   "entry_id": "europe-x7f57x9a6cx5171x548cx56fd",
+   "source": "openalex-W2503981100",
+   "api_title": "Mass Oratory and Political Power in the Late Roman Republic",
+   "year": 2004,
+   "clue": "除，相关落点句同删。 【第60轮补强来源】openalex-W2503981100（2004年，《Mass Oratory and Political Power in the Late Roman Republic》，被引 943，摘要 971 字符）：主题槽命中 ['republic', 'senate', 'institution', 'politic']。 【第119轮语义扫描】openalex-W2503981100 在正文中无对应落点句，仅作登记，不支撑任何断言。"
+  },
+  {
+   "title": "拜占庭帝国",
+   "unit": "europe",
+   "entry_id": "europe-x62dcx5360x5eadx5e1dx56fd",
+   "source": "openalex-W1968112198",
+   "api_title": "The Birth of the Hospital in the Byzantine Empire",
+   "year": 1997,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）； 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造"
+  },
+  {
+   "title": "意大利半岛",
+   "unit": "europe",
+   "entry_id": "europe-x610fx5927x5229x534ax5c9b",
+   "source": "openalex-W2087928538",
+   "api_title": "Paleomagnetic evidence for rotation of the Italian Peninsula",
+   "year": 1975,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2087928538（1975年，「Paleomagnetic evidence for rotation of the Italian Peninsula」，DOI https://doi.org/10.1029/jb080i011p01579）；年代以「地质尺度（新生代以来）；本条引 1975 年古地磁研究」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Paleomagnetic ev"
+  },
+  {
+   "title": "伊比利亚半岛",
+   "unit": "europe",
+   "entry_id": "europe-x4f0ax6bd4x5229x4e9ax534ax5c9b",
+   "source": "openalex-W2127608683",
+   "api_title": "Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study",
+   "year": 2007,
+   "clue": "升级 L2】第二来源为 OpenAlex openalex-W2127608683（2007年，「Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study」，DOI https://doi.org/10.1186/1746-4269-3-27）； 【第34轮返工·引用范围澄"
+  },
+  {
+   "title": "高卢",
+   "unit": "europe",
+   "entry_id": "europe-x9ad8x5362",
+   "source": "openalex-W2009330540",
+   "api_title": "Roman Gaul : The Three Provinces, 58 BC-AD 260",
+   "year": 1983,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2009330540（1983年，「Roman Gaul : The Three Provinces, 58 BC-AD 260」，DOI 无，出版方未标）； 年代以「罗马高卢三行省 公元前58年–公元260年前后（据专著名）」表述并注明学界有不同版本，未编造精确年份。 【第97轮补第二内容源（strong，Crossref）】openalex-W272418548（1996年，《Gaul》，被引 34，摘要 910"
+  },
+  {
+   "title": "阿尔卑斯山",
+   "unit": "europe",
+   "entry_id": "europe-x963fx5c14x5351x65afx5c71",
+   "source": "openalex-W2129432027",
+   "api_title": "Geology and Geomorphology of the European Alps and the Southern Alps of New Zealand: A Comparison",
+   "year": 2001,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2129432027（2001年，「Geology and Geomorphology of the European Alps and the Southern 」，DOI https://doi.org/10.1659/0276-4741(2001)021[0340:gagote]2.0.co;2，Mountain Research and Development）； 年代以「地质形成跨数百万年（新生代阿尔卑斯造"
+  },
+  {
+   "title": "莱茵河",
+   "unit": "europe",
+   "entry_id": "europe-x83b1x8335x6cb3",
+   "source": "openalex-W2096204231",
+   "api_title": "The river Rhine: a global highway for dispersal of aquatic invasive species",
+   "year": 2009,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2096204231（2009年，「The river Rhine: a global highway for dispersal of aquatic invas」，DOI https://doi.org/10.1007/s10530-009-9491-7，Biological Invasions）； 年代以「航运与生态研究（本条引 2009 年莱茵河扩散研究）」表述并注明学界有不同版本，未编造精确年份。 【第80"
+  },
+  {
+   "title": "法兰克王国",
+   "unit": "europe",
+   "entry_id": "europe-x6cd5x5170x514bx738bx56fd",
+   "source": "openalex-W2497994255",
+   "api_title": "Merovingian Gaul and the Frankish conquests",
+   "year": 2005,
+   "clue": "份。 【第42轮第二来源（strong）】openalex-W2497994255（2005年，《Merovingian Gaul and the Frankish conquests》，Cambridge University Press eBooks，DOI 10.1017/chol9780521362917.010，被引 140）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除·书评】openalex-W617733386 经 OpenAlex"
+  },
+  {
+   "title": "文艺复兴意大利",
+   "unit": "europe",
+   "entry_id": "europe-x6587x827ax590dx5174x610fx5927x5229",
+   "source": "openalex-W2396225729",
+   "api_title": "‘Poverty Makes Me Invisible’: Street Singers and Hard Times in Italian Renaissance Cities*",
+   "year": 2016,
+   "clue": "。 【第42轮第二来源（partial）】openalex-W2396225729（2016年，《‘Poverty Makes Me Invisible’: Street Singers and Hard Times in Italian》，Italian Studies，DOI 10.1080/00751634.2016.1175719，被引 31）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第45轮补源·按断言选文献（D"
+  },
+  {
+   "title": "黑海海峡",
+   "unit": "europe",
+   "entry_id": "europe-x9ed1x6d77x6d77x5ce1",
+   "source": "openalex-W2998035180",
+   "api_title": "The Uncensored Dardanelles",
+   "year": 2011,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2998035180（2011年，「The Uncensored Dardanelles」，DOI 无）；年代以「地理通道；本条引 2011 年关于达达尼尔海峡的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2017853772（2012年，《Numerical modeling of the influence of exchange through the Bosporus"
+  },
+  {
+   "title": "黑海海峡",
+   "unit": "europe",
+   "entry_id": "europe-x9ed1x6d77x6d77x5ce1",
+   "source": "openalex-W2017853772",
+   "api_title": "Numerical modeling of the influence of exchange through the Bosporus and Dardanelles Straits on the hydrophysical fields of the Marmara Sea",
+   "year": 2012,
+   "clue": "份。 【第42轮第二来源（strong）】openalex-W2017853772（2012年，《Numerical modeling of the influence of exchange through the Bosporus a》，Izvestiya Atmospheric and Oceanic Physics，DOI 10.1134/s0001433812040056，被引 16）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第124轮语义扫描】o"
+  },
+  {
+   "title": "大陆漂移",
+   "unit": "global-themes",
+   "entry_id": "global-themes-x5927x9646x6f02x79fb",
+   "source": "openalex-W2476421376",
+   "api_title": "The Continental Drift Controversy Wegener and the Early Debate",
+   "year": 2012,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2476421376（2012年，「The Continental Drift Controversy Wegener and the Early Debate」，DOI https://doi.org/10.1017/cbo9780511842368，Cambridge University Press eBooks）； 年代以「20世纪初提出的学说（魏格纳 1912年前后），后由板块构造理论取代并整合」表述并注明"
+  },
+  {
+   "title": "季风系统",
+   "unit": "global-themes",
+   "entry_id": "global-themes-x5b63x98cex7cfbx7edf",
+   "source": "openalex-W1985690680",
+   "api_title": "Mid-Tropospheric Cyclones of the Summer Monsoon",
+   "year": 1978,
+   "clue": "。 【第42轮第二来源（partial）】openalex-W1985690680（1978年，《Mid-Tropospheric Cyclones of the Summer Monsoon》，Birkhäuser Basel eBooks，DOI 10.1007/978-3-0348-5759-8_15，被引 17）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Mid-Tropospheri"
+  },
+  {
+   "title": "气候带",
+   "unit": "global-themes",
+   "entry_id": "global-themes-x6c14x5019x5e26",
+   "source": "openalex-W3124273658",
+   "api_title": "Observed and projected changes in global climate zones based on Köppen climate classification",
+   "year": 2021,
+   "clue": "）。 【第42轮第二来源（strong）】openalex-W3124273658（2021年，《Observed and projected changes in global climate zones based on Köppen》，Wiley Interdisciplinary Reviews Climate Change，DOI 10.1002/wcc.701，被引 224）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第81轮检索记录】本轮 0 候"
+  },
+  {
+   "title": "人口迁移",
+   "unit": "global-themes",
+   "entry_id": "global-themes-x4ebax53e3x8fc1x79fb",
+   "source": "openalex-W2061929762",
+   "api_title": "Patterns of migration in Arctic Alaska",
+   "year": 2009,
+   "clue": "为准。 【第43轮补源（partial）】openalex-W2061929762（2009年，《Patterns of migration in Arctic Alaska》，Polar Geography，DOI 10.1080/10889370903000422，被引 30，对象词命中 11 次）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。 【第43轮返工·case】所引 2009 年研究用美国人口普查微观数据刻画阿拉斯加一地的村际迁移；"
+  },
+  {
+   "title": "地理信息系统",
+   "unit": "global-themes",
+   "entry_id": "global-themes-x5730x7406x4fe1x606fx7cfbx7edf",
+   "source": "openalex-W1832937167",
+   "api_title": "Remote Scheduling System for Drip Irrigation System Using Geographic Information System",
+   "year": 2015,
+   "clue": "为准。 【第44轮补源（partial）】openalex-W1832937167（2015年，《Remote Scheduling System for Drip Irrigation System Using Geographic Information System》，Journal of Geographic Information System，DOI 10.4236/jgis.2015.75044，被引 12）；已在本条 influence 段落点。 【第44轮返工"
+  },
+  {
+   "title": "城市地理",
+   "unit": "global-themes",
+   "entry_id": "global-themes-x57cex5e02x5730x7406",
+   "source": "openalex-W1985069233",
+   "api_title": "2008 Urban Geography Plenary Lecture—Public Health as Urban Politics, Urban Geography: Venereal Biopower in Seattle, 1943-1983",
+   "year": 2009,
+   "clue": "为准。 【第44轮补源（partial）】openalex-W1985069233（2009年，《2008 Urban Geography Plenary Lecture—Public Health as Urban Politics, Urban Geography: Venereal Biopower in Seattle, 1943-1983》，Urban Geography，DOI 10.2747/0272-3638.30.1.1，被引 51）；已在本条 influen"
+  },
+  {
+   "title": "落基山脉",
+   "unit": "north-america",
+   "entry_id": "north-america-x843dx57fax5c71x8109",
+   "source": "openalex-W2087734990",
+   "api_title": "The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains",
+   "year": 1999,
+   "clue": "）。 【第42轮第二来源（strong）】openalex-W2087734990（1999年，《The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains》，Rocky Mountain geology，DOI 10.2113/34.1.37，被引 116）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Yavapai-Maza"
+  },
+  {
+   "title": "奥尔梅克",
+   "unit": "north-america",
+   "entry_id": "north-america-x5965x5c14x6885x514b",
+   "source": "openalex-W592717578",
+   "api_title": "Olmec Archaeology and Early Mesoamerica",
+   "year": 2007,
+   "clue": "）。 【第42轮第二来源（strong）】openalex-W592717578（2007年，《Olmec Archaeology and Early Mesoamerica》，Cambridge University Press eBooks，DOI 10.1017/cbo9781139167147，被引 217）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮补第二内容源（strong）】openalex-W4250944728（2014年，《Dis"
+  },
+  {
+   "title": "特奥蒂瓦坎",
+   "unit": "north-america",
+   "entry_id": "north-america-x7279x5965x8482x74e6x574e",
+   "source": "openalex-W1921738149",
+   "api_title": "Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal Earliest Evidence of Wild Carnivore Management in Mesoamerica",
+   "year": 2015,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）； 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（st"
+  },
+  {
+   "title": "大自流盆地",
+   "unit": "oceania",
+   "entry_id": "oceania-x5927x81eax6d41x76c6x5730",
+   "source": "openalex-W58011430",
+   "api_title": "A mid-Cretaceous microfossil assemblage from the Great Artesian Basin, northwestern Queensland",
+   "year": 1975,
+   "clue": "。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献与本条对象同一，但正文目前没有可与之"
+  },
+  {
+   "title": "新西兰北岛",
+   "unit": "oceania",
+   "entry_id": "oceania-x65b0x897fx5170x5317x5c9b",
+   "source": "openalex-W2051173656",
+   "api_title": "Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments",
+   "year": 1996,
+   "clue": "升级 L2】第二来源为 OpenAlex openalex-W2051173656（1996年，《Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments》，DOI https://doi.org/10.1130/0016-7606(1996)108<0915:etm"
+  },
+  {
+   "title": "新西兰北岛",
+   "unit": "oceania",
+   "entry_id": "oceania-x65b0x897fx5170x5317x5c9b",
+   "source": "openalex-W2075518532",
+   "api_title": "Gravity, seismicity, and tectonics of the North Island, New Zealand",
+   "year": 1970,
+   "clue": "本。 【第42轮第二来源（strong）】openalex-W2075518532（1970年，《Gravity, seismicity, and tectonics of the North Island, New Zealand》，New Zealand Journal of Geology and Geophysics，DOI 10.1080/00288306.1970.10428209，被引 57）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第125轮"
+  },
+  {
+   "title": "新西兰南岛",
+   "unit": "oceania",
+   "entry_id": "oceania-x65b0x897fx5170x5357x5c9b",
+   "source": "openalex-W2041276447",
+   "api_title": "Origin of the Torlesse terrane and coeval rocks, South Island, New Zealand",
+   "year": 1983,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2041276447（1983年，「Origin of the Torlesse terrane and coeval rocks, South Island,」，DOI https://doi.org/10.1130/0016-7606(1983)94<967:oottta>2.0.co;2）；年代以「地质尺度（新生代以来）；本条引 1983 年地体研究」表述，未编造精确年份。 【第42轮第二来源（partial）"
+  },
+  {
+   "title": "新西兰南岛",
+   "unit": "oceania",
+   "entry_id": "oceania-x65b0x897fx5170x5357x5c9b",
+   "source": "openalex-W2004355322",
+   "api_title": "Naturalised plants in south‐west South Island, New Zealand",
+   "year": 1982,
+   "clue": "。 【第42轮第二来源（partial）】openalex-W2004355322（1982年，《Naturalised plants in south‐west South Island, New Zealand》，New Zealand Journal of Botany，DOI 10.1080/0028825x.1982.10428834，被引 30）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现"
+  },
+  {
+   "title": "毛利人",
+   "unit": "oceania",
+   "entry_id": "oceania-x6bdbx5229x4eba",
+   "source": "openalex-W4385601321",
+   "api_title": "New Treaty, New Tradition: Reconciling New Zealand and Maori Law",
+   "year": 2016,
+   "clue": "。 【第42轮第二来源（partial）】openalex-W4385601321（2016年，《New Treaty, New Tradition: Reconciling New Zealand and Maori Law》，University of British Columbia Press eBooks，DOI 10.59962/9780774831703，被引 153）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。 【第87轮补第二"
+  },
+  {
+   "title": "波利尼西亚",
+   "unit": "oceania",
+   "entry_id": "oceania-x6ce2x5229x5c3cx897fx4e9a",
+   "source": "openalex-W1973139594",
+   "api_title": "Voyaging Canoes and the Settlement of Polynesia",
+   "year": 1977,
+   "clue": "）。 【第42轮第二来源（strong）】openalex-W1973139594（1977年，《Voyaging Canoes and the Settlement of Polynesia》，Science，DOI 10.1126/science.196.4296.1277，被引 93）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第74轮补第二内容源（weak）】openalex-W2241623891（1976年，《Micronesian and Pol"
+  },
+  {
+   "title": "夏威夷群岛",
+   "unit": "oceania",
+   "entry_id": "oceania-x590fx5a01x5937x7fa4x5c9b",
+   "source": "openalex-W2099199436",
+   "api_title": "A POSSIBLE ORIGIN OF THE HAWAIIAN ISLANDS",
+   "year": 1963,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2099199436（1963年，「A POSSIBLE ORIGIN OF THE HAWAIIAN ISLANDS」，DOI https://doi.org/10.1139/p63-094）；年代以「地质尺度；本条引 1963 年关于群岛成因的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2044118874（1953年，《Hawaiian Swell, Deep, and"
+  },
+  {
+   "title": "夏威夷群岛",
+   "unit": "oceania",
+   "entry_id": "oceania-x590fx5a01x5937x7fa4x5c9b",
+   "source": "openalex-W2044118874",
+   "api_title": "Hawaiian Swell, Deep, and Arch, and Subsidence of the Hawaiian Islands",
+   "year": 1953,
+   "clue": "份。 【第42轮第二来源（strong）】openalex-W2044118874（1953年，《Hawaiian Swell, Deep, and Arch, and Subsidence of the Hawaiian Islands》，The Journal of Geology，DOI 10.1086/626059，被引 135）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第125轮语义扫描】openalex-W2099199436 在正文中无对应落点"
+  },
+  {
+   "title": "大堡礁",
+   "unit": "oceania",
+   "entry_id": "oceania-x5927x5821x7901",
+   "source": "openalex-W2020216779",
+   "api_title": "Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia",
+   "year": 2003,
+   "clue": "升级 L2】第二来源为 OpenAlex openalex-W2020216779（2003年，《Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia》，DOI https://doi.org/10.3354/meps251153）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「生态尺度（本条引 2"
+  },
+  {
+   "title": "安第斯山脉",
+   "unit": "south-america",
+   "entry_id": "south-america-x5b89x7b2cx65afx5c71x8109",
+   "source": "openalex-W655456927",
+   "api_title": "Review and analysis of altitudinal distribution of the Andean anurans in Colombia",
+   "year": 2008,
+   "clue": "【第45轮补源·按断言选文献（D100）】openalex-W655456927（2008年，《Review and analysis of altitudinal distribution of the Andean anurans in Colombia》，DOI 10.11646/zootaxa.1826.1.1）：先在正文定位待支撑句「海拔差异形成垂直气候带」，再选此文献；摘要命中「andean」「altitudinal」，已在本条 geo 段落点。 【第45轮返工·"
+  },
+  {
+   "title": "亚马逊盆地",
+   "unit": "south-america",
+   "entry_id": "south-america-x4e9ax9a6cx900ax76c6x5730",
+   "source": "openalex-W2274478700",
+   "api_title": "The Atmospheric Component of Biogeochemical Cycles in the Amazon Basin",
+   "year": 2001,
+   "clue": "为准。 【第43轮补源（partial）】openalex-W2274478700（2001年，《The Atmospheric Component of Biogeochemical Cycles in the Amazon Basin》，Oxford University Press eBooks，DOI 10.1093/oso/9780195114317.003.0006，被引 19，对象词命中 2 次）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性"
+  },
+  {
+   "title": "拉普拉塔平原",
+   "unit": "south-america",
+   "entry_id": "south-america-x62c9x666ex62c9x5854x5e73x539f",
+   "source": "openalex-W7150774676",
+   "api_title": "High-resolution numerical analysis of land-river-floodplains-atmosphere interaction in La Plata Basin",
+   "year": 2022,
+   "clue": "页。 【第42轮第二来源（strong）】openalex-W7150774676（2022年，《High-resolution numerical analysis of land-river-floodplains-atmospher》，theses.fr (ABES)，DOI 10.70675/ccd4bba5z493cz4006z9d21z37b408a4ef45，被引 17）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮检索记录】过筛候选《Su"
+  },
+  {
+   "title": "莫切文化",
+   "unit": "south-america",
+   "entry_id": "south-america-x83abx5207x6587x5316",
+   "source": "openalex-W2094507981",
+   "api_title": "Moche Art and Iconography",
+   "year": 1976,
+   "clue": "】第二来源为 OpenAlex 学术文献 openalex-W2094507981（1976年，「Moche Art and Iconography」，DOI 无）；年代以「约公元1–8世纪（起讫年学界有不同表述）」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Moche Art and Iconography》研究的是莫切的图像与器物（艺术史侧面），不涉河谷政治经济。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能"
+  }
+ ],
+ "cited": [
+  {
+   "title": "大陆漂移",
+   "source": "openalex-W2476421376",
+   "field": "definition",
+   "body_sentence": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。",
+   "evidence": "This first volume covers the period in the early 1900s when Wegener first pointed out that the Earth’s major landmasses could be fitted together like a jigsaw and went on to propose that the continents had once been joined together in a single landmass, which he named Pangaea.",
+   "claim": "openalex-W2476421376 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+   "fix": "openalex-W2476421376（《The Continental Drift Controversy: Wegener and the Early Debate》，2012，被引 32）已在 definition（并及 geo、influence）落点——正文「大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出」即转述该文所述魏格纳在20世纪初提出大陆曾连成单一陆块（Pangaea）并彼此移动的结论；geo 所列「大西洋两岸海岸线轮廓的吻合」亦对应其「像拼图一样拼合」的论证，influence「最初因缺乏机制而受质疑，直到海底扩张与古地磁证据出现才被接受」对应其「固定论者 vs 移动论者」之争及板块构造最终确立。属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。"
+  },
+  {
+   "title": "波利尼西亚",
+   "source": "openalex-W1973139594",
+   "field": "influence",
+   "body_sentence": "长距离航海技术使岛屿殖民成为可能，资源有限促成交换与仪式性再分配。",
+   "evidence": "This windward performance would have enabled Polynesians to exert a degree of control over their movements... without this windward sailing capacity there probably never would have been a Polynesian people today, for in a sense they are a product of their maritime technology. Had there been no great voyaging canoes, the settlement of Polynesia might have had to await the relatively late entry into the Pacific of the European navigators.",
+   "claim": "openalex-W1973139594 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+   "fix": "openalex-W1973139594（《Voyaging Canoes and the Settlement of Polynesia》，Science 1977，被引 93）已在 influence 落点——正文「长距离航海技术使岛屿殖民成为可能」即转述该文结论：双体远航独木舟的迎风（约可迎风 75°）航行能力使波利尼西亚人得以主动控制航向、完成对太平洋群岛的定居，「他们本身就是其航海技术的产物」。属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。"
+  },
+  {
+   "title": "夏威夷群岛",
+   "source": "openalex-W2099199436",
+   "field": "geo",
+   "body_sentence": "岛链呈西北—东南向排列，东南端岛屿仍在火山活动期、地势较高，西北端岛屿更老、受侵蚀更强。",
+   "evidence": "If there are convection currents in the Pacific region and if the upper parts of these cells move faster than the central parts, sources of lava within the slower moving cores could give rise to linear chains of progressively older volcanic piles such as the Hawaiian Islands.",
+   "claim": "openalex-W2099199436 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+   "fix": "openalex-W2099199436（《A Possible Origin of the Hawaiian Islands》，1963，被引 1347）已在 geo（并及 influence）落点——正文「岛链呈西北—东南向排列，东南端岛屿仍在火山活动期、地势较高，西北端岛屿更老、受侵蚀更强」及influence「热点机制解释了岛链的排列与年龄递变」即转述该文以地幔对流/岩浆源提出夏威夷群岛为「由老到新递变的线状火山链」的成因结论。属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。"
+  }
+ ],
+ "uncited": [
+  {
+   "title": "尼罗河三角洲",
+   "source": "openalex-W2220441068",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "古埃及早王朝",
+   "source": "openalex-W3182616223",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "古埃及新王国",
+   "source": "openalex-W197188726",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "罗马阿非利加",
+   "source": "openalex-W438212032",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "加纳帝国",
+   "source": "openalex-W2010072736",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "桑海帝国",
+   "source": "openalex-W2991586769",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "斯瓦希里海岸",
+   "source": "openalex-W4229865234",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "南极大陆",
+   "source": "openalex-W4281801109",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "亚述帝国",
+   "source": "openalex-W52369814",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "帕提亚帝国",
+   "source": "openalex-W2895092346",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "萨珊波斯",
+   "source": "openalex-W4232054564",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "印度河文明",
+   "source": "openalex-W7127929917",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "笈多王朝",
+   "source": "openalex-W4321610807",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "长江流域",
+   "source": "openalex-W2805650462",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "商代",
+   "source": "openalex-W581771675",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "周代",
+   "source": "openalex-W4206323479",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "秦代",
+   "source": "openalex-W4312410278",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "汉代",
+   "source": "openalex-W4403972561",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "宋代",
+   "source": "openalex-W4361197788",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "元代",
+   "source": "openalex-W4389109327",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "马来群岛",
+   "source": "openalex-W2619853094",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "河中地区",
+   "source": "openalex-W2621257476",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "蒙古帝国",
+   "source": "openalex-W4211127421",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "古希腊城邦",
+   "source": "openalex-W3098219892",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "马其顿与亚历山大",
+   "source": "openalex-W1970392988",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "罗马共和国",
+   "source": "openalex-W2503981100",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "拜占庭帝国",
+   "source": "openalex-W1968112198",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "意大利半岛",
+   "source": "openalex-W2087928538",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "伊比利亚半岛",
+   "source": "openalex-W2127608683",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "高卢",
+   "source": "openalex-W2009330540",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "法兰克王国",
+   "source": "openalex-W2497994255",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "文艺复兴意大利",
+   "source": "openalex-W2396225729",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "黑海海峡",
+   "source": "openalex-W2998035180",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "黑海海峡",
+   "source": "openalex-W2017853772",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "季风系统",
+   "source": "openalex-W1985690680",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "气候带",
+   "source": "openalex-W3124273658",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "人口迁移",
+   "source": "openalex-W2061929762",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "地理信息系统",
+   "source": "openalex-W1832937167",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "城市地理",
+   "source": "openalex-W1985069233",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "落基山脉",
+   "source": "openalex-W2087734990",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "奥尔梅克",
+   "source": "openalex-W592717578",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "特奥蒂瓦坎",
+   "source": "openalex-W1921738149",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "大自流盆地",
+   "source": "openalex-W58011430",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "新西兰北岛",
+   "source": "openalex-W2075518532",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "新西兰南岛",
+   "source": "openalex-W2041276447",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "新西兰南岛",
+   "source": "openalex-W2004355322",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "毛利人",
+   "source": "openalex-W4385601321",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "夏威夷群岛",
+   "source": "openalex-W2044118874",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "大堡礁",
+   "source": "openalex-W2020216779",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "安第斯山脉",
+   "source": "openalex-W655456927",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "亚马逊盆地",
+   "source": "openalex-W2274478700",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "拉普拉塔平原",
+   "source": "openalex-W7150774676",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  },
+  {
+   "title": "莫切文化",
+   "source": "openalex-W2094507981",
+   "reason": "通读 8 个正文字段，未见在转述该来源结论或数字的句子；原「仅作登记」备注保留不改。"
+  }
+ ],
+ "doubt": [
+  {
+   "title": "几内亚湾沿岸",
+   "source": "openalex-W1593162251",
+   "field": "influence",
+   "reason": "正文 influence 有「油气资源与港口位置塑造了近现代的政治经济格局」，与该书《Oil and Politics in the Gulf of Guinea》题名层面的「石油—政治」主题重合；但同句后半「资源分布并不自动带来均衡发展」与摘要核心论点（石油储量使安哥拉/赤道几内亚/尼日利亚精英得以坐收其利、「成功失败国家」）并不对应，且该句读来更像一般性地缘政治经济常识。是否属于转述该来源的结论难以确定，建议人工比对摘要后定夺。"
+  },
+  {
+   "title": "阿尔卑斯山",
+   "source": "openalex-W2129432027",
+   "field": "definition",
+   "reason": "正文 definition「由非洲板块与欧亚板块碰撞形成」与摘要首句「The Alps resulted from collision of the African and European Plates」一致；geo「冰川地貌广泛」亦与摘要「第四纪冰川广泛发育、冰川地貌遍布」相合。但这些属通识性地质描述，且摘要真正的比较结论（与新西兰南阿尔卑斯对比、抬升/剥蚀速率差异）未见于正文。是否为该文落点需人工判断。"
+  },
+  {
+   "title": "莱茵河",
+   "source": "openalex-W2096204231",
+   "field": "influence",
+   "reason": "正文 geo「莱茵河是欧洲重要的航运水道，人类工程深刻改造了其河道」与摘要 intensive navigation / habitat modification by hydraulic engineering 相合；influence「水生生物扩散的通道」近于题名 a global highway for dispersal of aquatic invasive species。但均属概括性描述、未涉摘要具体数据（45 种外来种、占比 11.3%、约 13 种/十年），且 omits「invasive」。是否算转述存疑，建议人工核对。"
+  },
+  {
+   "title": "新西兰北岛",
+   "source": "openalex-W2051173656",
+   "field": "geo",
+   "reason": "正文 geo「火山灰层序记录了多次喷发，成为定年与地层对比的关键材料」与摘要 tephra beds 定年与地层对比相合；influence「火山灰年代学为考古与古环境研究提供时间标尺」近于摘要「为南岛古环境重建提供框架」。但表述泛化、未含摘要具体层位与年代（54 层、2.0–0.6 Ma 等），是否算该文落点存疑，建议人工核对。"
+  }
+ ]
+}

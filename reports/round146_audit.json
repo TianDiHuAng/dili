@@ -1,0 +1,184 @@
+{
+ "A": {
+  "seed": 146,
+  "method": "池 = reports/round115_scan.json 与 round119–134_scan.json 中 verdict∈{SOFT,FAIL} 且 fix 非空、且 fix 当前逐字存在于该条目某正文域（8 字段任一）的 (title,source) 项；并入 round135–145 各 audit 中 verdict∈{SOFT,FAIL}、fix 非空且当前存在的项；按 (title,source) 去重后排除已抽过者（round135–145 各 audit A 的 items 集合）。",
+  "scan_files": [
+   "round115_scan.json",
+   "round119_scan.json",
+   "round120_scan.json",
+   "round121_scan.json",
+   "round122_scan.json",
+   "round123_scan.json",
+   "round124_scan.json",
+   "round125_scan.json",
+   "round126_scan.json",
+   "round127_scan.json",
+   "round128_scan.json",
+   "round129_scan.json",
+   "round130_scan.json",
+   "round131_scan.json",
+   "round132_scan.json",
+   "round133_scan.json",
+   "round134_scan.json"
+  ],
+  "scan_softfail_with_fix_items": 164,
+  "scan_fix_present_instances": 124,
+  "scan_fix_present_unique_pairs": 123,
+  "audit_softfail_with_fix_items_135_145": 184,
+  "already_sampled_pairs_135_145": 162,
+  "remaining_after_exclusion": 0,
+  "sampled": 0,
+  "note": "扫描池 17 个文件 SOFT/FAIL-且-fix 现存项共 123 个唯一 (title,source) 对，全部已落在 round135–145 各 audit A 的已抽集合（162 对）内；round135–145 audit 中 verdict SOFT/FAIL 且 fix 现存的项（184 实例）亦均属该已抽集合。剩余 0（<30，全取=0），故本轮 A 无新抽项、无新增需改项；已抽项的 fix 均在往轮经重取 OpenAlex 摘要核对为摘要支持内容。",
+  "items": []
+ },
+ "B": {
+  "items": [],
+  "counts": {
+   "total": 0,
+   "entries_scanned": 243,
+   "fields_scanned": 1944
+  },
+  "checks": "全量 243×8 字段（definition/time_or_place/overview/geo/influence/polities/connections/today）：轮次/决策编号（第N轮/D###/R##/L 码）0；据此后赘语 0（155 处「据此」逐条核验，均为「本条「X」据此／不据此…／据此写「X」」既定句或「不作定论」限定，无「据此补/据此举例」类残留）；双句号及「；。」「，。」「、、」「，，」「；；」0；空括号空引号 0；同字段精确重复句 0、近似重复(>0.90)0；逗号顿号（及；：）结尾 0（time_or_place 短式除外，非截断）；损坏句 0（括号全配对，无修改指令残留）；失去前提承接句 0（句首 因此/该文/这说明/所以/于是/因而/故/由此/从而 等 65 处均为有前文的正常承接）；空字段 0；内部术语（本站/字段/pending/L1/L2/L3/语义扫描/收窄/摘要通道/等级码/骨架式）0。「骨架」7 处为正常中文词（行政骨架/交通骨架/水系骨架/重要骨架/地理骨架），不判缺陷；「决策」5 处为正常词（迁移决策/决策支持系统/管理决策等），非决策编号。无括注中英混写：括号/书名号外拉丁串逐条核对，均为专名（Livius/Beringia/Bluefish Caves/Wagadu/Huffman 等）、期刊/出版名（PLoS ONE/Cambridge Archaeological Journal/QJE/Routledge 等）、单位/指标/体系码（km²/Ma/ka BP/BC/SP.POP.TOTL/GDP/GIS/LiDAR/Ar-Ar/¹⁴C 等）或已带中文括注术语（chinampa（湖上人工田）、系统发育多样性（PD）、standstill、beta 多样性、Theic 洋源自摘要），均非缺陷。唯一子串同现（冰芯气候记录 geo「钻探点选择受冰流与地形影响」被「本条「…」据此」引述句包含）属既定引述模板复述主张，非重复句，不判缺陷。"
+ },
+ "C": {
+  "selfcheck_aggregates": "ALL CONSISTENT 0",
+  "selfcheck_detail": "levels {A:215, B:0, C:0, D:28}; content ge2/one/zero = 215/27/1; gaps {G1:0,G2:0,G3:0,G4:0}",
+  "g1_recompute": {
+   "count": 0,
+   "note": "按 tools/assess.level_of 全量重算，C 级=0 → G1=0"
+  },
+  "g3_recompute": {
+   "count": 0,
+   "note": "content_count==1 的 27 条全部为 D 级（指标解读类），非 D 且 content==1 的 0 条 → G3=0"
+  },
+  "sampled_recompute": [
+   {
+    "title": "东亚季风",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 3
+   },
+   {
+    "title": "南极半岛",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 3
+   },
+   {
+    "title": "水资源管理",
+    "computed_level": "D",
+    "recorded_level": "D",
+    "content_count": 0
+   },
+   {
+    "title": "二氧化碳排放清单",
+    "computed_level": "D",
+    "recorded_level": "D",
+    "content_count": 1
+   },
+   {
+    "title": "加勒比海群岛",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   }
+  ],
+  "evidence_level_vs_round62": "evidence_level.json summary A215/B0/C0/D28；round62_gaps.levels 与 assess 重算 243 条逐条一致（0 处不符）",
+  "no_solution": "data/no_solution.json entries=0（空），G2=0 与之一致，无需逐条核验",
+  "items": []
+ },
+ "D": {
+  "scope": "全量扫描 243 条 pending_notes 中明确把 openalex 来源判为「旁证/仅作登记/不支撑任何断言/降级/剔除/侧面/书评」的来源，逐一核对正文 8 字段是否仍以其为依据（含转述结论或数字）；按 D112 排除纯指针（仅 time_or_place「本条引 YYYY 年研究」而不转述结论）与同名/同年另一来源。",
+  "checked_side_openalex_instances": 104,
+  "items": [
+   {
+    "title": "湄公河三角洲",
+    "field": "pending_notes",
+    "source": "openalex-W2165261460",
+    "claim": "【第122轮语义扫描】openalex-W2165261460 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+    "fix": "应更正为：openalex-W2165261460（《Groundwater extraction, land subsidence, and sea-level rise in the Mekong Delta, Vietnam》，Environmental Research Letters 2014，被引 600）已在 influence 落点——正文「研究表明两者共同作用」即转述该文「地下水抽取引起的沉降与海平面上升叠加」的结论，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。",
+    "reason": "D113（备注与正文不得分裂）：pending_notes【第122轮语义扫描】把 openalex-W2165261460 标为「仅作登记，不支撑任何断言」，但正文 influence 仍以「研究表明两者共同作用」转述其结论。该源被引 600、Environmental Research Letters、第34轮登记为本条 L2 第二来源，摘要即研究湄公河三角洲地下水抽取引起的沉降与海平面上升叠加，确支撑该句；应以正文为准更正备注。"
+   },
+   {
+    "title": "多瑙河",
+    "field": "pending_notes",
+    "source": "openalex-W2658592595",
+    "claim": "【第123轮语义扫描】openalex-W2658592595 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+    "fix": "应更正为：openalex-W2658592595（《Modelling water and nutrient fluxes in the Danube River Basin with SWAT》，The Science of The Total Environment 2017，被引 201）已在 influence 落点——正文「营养物质输移的流域尺度模拟研究被用于支持欧洲环境政策在全流域的实施」即转述该文摘要，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。",
+    "reason": "D113：pending_notes【第123轮语义扫描】把 openalex-W2658592595 标为「仅作登记，不支撑任何断言」，但正文 influence 转述其摘要结论（SWAT 模型模拟流域水与营养物质通量、用于支持欧盟环境政策在全流域实施）。该源被引 201、第98轮 L2 第二来源，摘要即此；应以正文为准更正备注。"
+   },
+   {
+    "title": "加勒比海群岛",
+    "field": "pending_notes",
+    "source": "openalex-W2126487261",
+    "claim": "【第124轮语义扫描】openalex-W2126487261 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+    "fix": "应更正为：openalex-W2126487261（《A Vicariance Model of Caribbean Biogeography》，Systematic Biology 1975，被引 649）已在 influence 落点——正文以隔离分化（vicariance）模型解释加勒比生物地理格局即转述该文摘要，属合格内容来源；第134轮关于 Gaarlandia 陆桥的 FAIL 系针对已删除的旧句，不适用于现状。此前「仅作登记，不支撑任何断言」系误记，予以更正。",
+    "reason": "D113：pending_notes【第124轮语义扫描】把 openalex-W2126487261 标为「仅作登记，不支撑任何断言」，但正文 influence 仍以隔离分化（vicariance）模型解释加勒比生物地理格局，即转述该文摘要（主张 allopatric speciation/vicariance、反对先验假定其他机制）。该源被引 649、Systematic Biology 1975、第35轮 L2 第二来源；应以正文为准更正备注。"
+   },
+   {
+    "title": "安第斯垂直农业",
+    "field": "pending_notes",
+    "source": "openalex-W2021618803",
+    "claim": "【第125轮语义扫描】openalex-W2021618803 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+    "fix": "应更正为：openalex-W2021618803（《Mean annual temperature trends and their vertical structure in the tropical Andes》，Geophysical Research Letters 2000，被引 368）已在 influence 落点——正文「1939 年以来持续升温、升温幅度随海拔升高而减小、高海拔站点仍显著」与该文摘要（1939–1998 升温 0.10–0.11°C/十年、升温随海拔减小、最高海拔站点仍显著）逐句相符，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。",
+    "reason": "D113：pending_notes【第125轮语义扫描】把 openalex-W2021618803 标为「仅作登记，不支撑任何断言」，但正文 influence 仍转述其摘要结论（1939–1998 年热带安第斯升温 0.10–0.11°C/十年、升温幅度随海拔升高而减小、最高海拔站点仍显著）。该源被引 368、第34轮 L2 第二来源，摘要与正文逐句相符；应以正文为准更正备注。"
+   },
+   {
+    "title": "东亚季风",
+    "field": "pending_notes",
+    "source": "openalex-W2404462665",
+    "claim": "【第122轮语义扫描】openalex-W2404462665 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+    "fix": "应更正为：openalex-W2404462665（《East Asian summer monsoon precipitation variability since the last deglaciation》，Scientific Reports 2015，被引 1139）已在 influence 落点——正文「古气候记录显示季风强度存在千年尺度变化」即转述该文关于末次冰消期以来季风降水变率的结论，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。",
+    "reason": "D113：pending_notes【第122轮语义扫描】把 openalex-W2404462665 标为「仅作登记，不支撑任何断言」，但正文 influence 以「古气候记录显示季风强度存在千年尺度变化」转述其摘要结论。该源被引 1139、Scientific Reports、第34轮 L2 第二来源；应以正文为准更正备注。"
+   },
+   {
+    "title": "南极半岛",
+    "field": "pending_notes",
+    "source": "openalex-W1989199622",
+    "claim": "【第125轮语义扫描】openalex-W1989199622 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+    "fix": "应更正为：openalex-W1989199622（《The link between climate warming and break-up of ice shelves in the Antarctic Peninsula》，Journal of Glaciology 2000，被引 868）已在 influence 落点——正文首句「气候变暖与冰架崩解之间存在观测上的联系」即转述该文题名结论，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。",
+    "reason": "D113：pending_notes【第125轮语义扫描】把 openalex-W1989199622 标为「仅作登记，不支撑任何断言」，但正文 influence 首句即转述其题名结论（气候变暖与冰架崩解的联系）。该源被引 868、Journal of Glaciology、第34轮 L2 第二来源；应以正文为准更正备注。"
+   }
+  ],
+  "excluded_note": "其余 side 来源经复核属：①纯指针（time_or_place「本条引 YYYY 年…研究」仅示年代依据、不转述结论者）；②正文已明写限定/否定（撒哈拉「不以其作地质定论」、突厥「仅作旁证，不据此断言」、美国西进「被引0，仅作辅助」、大分水岭1985「不覆盖全长」、冲积平原2020/河流三角洲2008「证据强度有限」、GIS「不据此作一般断言」等）；③同名/同年另一来源（拜占庭1997《A History of the Byzantine State and Society》≠W1968112198《Birth of the Hospital》；宋代2023《Schooling…》≠W4361197788《Deeper Structures…》；伊比利亚1920≠W2127608683；季风系统2012《Thermal Controls…》≠W1985690680 等）；④已由往轮明确「更正/误记」修正（城市起源 W2165758805）。"
+ },
+ "E": {
+  "check_py": "检查条目 243 条，来源 809 条；ERRORS=0 ALL_PASS",
+  "check_links_py": "检查内部链接 4941 条；BROKEN=0 LINKS_PASS",
+  "gap_numbers": {
+   "SATURATION.json": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "gap_model.counts": "G1=0,G2=0,G3=0,G4=0"
+   },
+   "reports/round62_gaps.json": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "gaps": 0,
+    "one_source_entries": 0,
+    "zero_source_entries": 0
+   },
+   "data/no_solution.json": {
+    "entries": 0
+   },
+   "site/limits.html": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "G3a": 0,
+    "G3b": 0,
+    "无合格第二来源条数": 0
+   },
+   "site无合格第二来源条目数": 0
+  },
+  "aligned": true,
+  "last_round_check": "SATURATION.last_round=145：与最近已完成轮次一致（本轮为第146轮独立审计，尚未最终落账，仍为145属正常）。zero_gap_streak=0，zero_gap_streak_note 记「第145轮审计发现 3 项（B2 重复句、D1 旁证通例）」，与 round145_audit（B 2 项、D 1 项）吻合，一致。",
+  "observation": "五处缺口数字（SATURATION.gap_model / round62_gaps / no_solution / limits.html / site 无合格第二来源条目数）均为 0，全对齐；evidence.levels A215/B0/C0/D28 与 assess 重算一致。",
+  "items": []
+ }
+}

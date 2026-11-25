@@ -626,7 +626,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2021618803（2000年，「Mean annual temperature trends and their vertical structure in」，DOI https://doi.org/10.1029/2000gl011871）；年代以「长期实践；本条引 2000 年垂直温度趋势研究」表述，未编造精确年份。 【第125轮语义扫描】openalex-W2021618803 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第134轮语义扫描 FAIL】openalex-W2021618803：摘要说升温总体随海拔升高而减小（reduced warming with increasing elevation）；正文写「高海拔变暖更快」，方向相反。 【第135轮审计】openalex-W2021618803：摘要只给出 1939–1998 年升温 0.10–0.11°C/十年、升温随海拔减小；「现代气候变化正在改变带的位置」摘要未涉及。",
+      "pending_notes": "第15轮复核：南美洲×农业；新增背景来源 s018-fao-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2021618803（2000年，「Mean annual temperature trends and their vertical structure in」，DOI https://doi.org/10.1029/2000gl011871）；年代以「长期实践；本条引 2000 年垂直温度趋势研究」表述，未编造精确年份。 openalex-W2021618803（《Mean annual temperature trends and their vertical structure in the tropical Andes》，Geophysical Research Letters 2000，被引 368）已在 influence 落点——正文「1939 年以来持续升温、升温幅度随海拔升高而减小、高海拔站点仍显著」与该文摘要（1939–1998 升温 0.10–0.11°C/十年、升温随海拔减小、最高海拔站点仍显著）逐句相符，属合格内容来源；此前「仅作登记，不支撑任何断言」系误记，予以更正。 【第134轮语义扫描 FAIL】openalex-W2021618803：摘要说升温总体随海拔升高而减小（reduced warming with increasing elevation）；正文写「高海拔变暖更快」，方向相反。 【第135轮审计】openalex-W2021618803：摘要只给出 1939–1998 年升温 0.10–0.11°C/十年、升温随海拔减小；「现代气候变化正在改变带的位置」摘要未涉及。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",

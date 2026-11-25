@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 145,
+  "last_round": 147,
   "history": [
     {
       "round": 1,
@@ -846,5 +846,5 @@
   ],
   "unsolvable": [],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第145轮审计发现 3 项（B2 重复句、D1 旁证通例），非零缺口；连续计数保持 0。"
+  "zero_gap_streak_note": "第146轮 D 类 6 项备注-正文分裂已改；第147轮复核全站 60 条「仅作登记」备注，另发现 3 条实被引用（已更正）、53 条确未引用、4 条存疑（已注明）。连续计数保持 0。"
 }
