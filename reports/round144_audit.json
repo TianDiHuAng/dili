@@ -1,0 +1,127 @@
+{
+ "A": {
+  "seed": 144,
+  "method": "池=reports/round115/119-134_scan 中 verdict∈{SOFT,FAIL} 且 fix 非空、fix 当前逐字存在于对应字段的项（按 title+source 去重）；并入 round135-143 各 audit 中 verdict∈{SOFT,FAIL} 且 fix 非空且 fix 当前存在的项；再排除第135-143轮已抽过的项（各 audit A.items 的 title+source 并集）。",
+  "pool_scans_115_134_softfail_with_fix_unique": 162,
+  "already_sampled_135_143_unique_pairs": 162,
+  "scan_remaining_after_exclusion": 0,
+  "audit_softfail_items_135_143": 8,
+  "of_which_fix_still_present": 6,
+  "of_which_fix_absent": 2,
+  "note": "扫描池 162 个 (title,source) 对与 135-143 已抽集合完全相等（P=S=162），扫描池已抽尽；135-143 audit 中仍判 SOFT/FAIL 的 8 项均已在其所属审计轮被抽过，其中 6 项（加勒比海群岛W597527439、安第斯垂直农业W2021618803、加勒比海群岛W2126487261、古埃及新王国W215461327、赫梯王国W4280619931、大自流盆地W4409434538）已在第143轮复核为 PASS，另 2 项（洋流W1556419777、尼罗河三角洲W2096742774）fix 现已不逐字存在。故排除已抽项后剩余合格候选=0，本轮抽样 0 项，未触发 OpenAlex 摘要重取（无候选可抽）。",
+  "sampled": 0,
+  "items": []
+ },
+ "B": {
+  "items": [
+   {
+    "title": "海洋保护区",
+    "field": "time_or_place",
+    "claim": "全球/区域口径（最新观测年份见 today）",
+    "fix": "全球/区域口径（最新观测年份见「今天的状况」）",
+    "reason": "time_or_place 值在“时间或位置”节、卡片摘要与时间线表中原样渲染给读者；「today」是内部字段 id（英文），未转写为读者可见的节名「今天的状况」，属无中文括注的字段名/中英混写泄漏（第36轮 round36c.py 建入后一直未清理）。同型问题第136轮已把 overview 中「geo 为常识性地理描述」的字段名泄入改掉。",
+    "type": "字段名泄入/中英混写"
+   },
+   {
+    "title": "湿地与水资源",
+    "field": "time_or_place",
+    "claim": "全球/区域口径（最新观测年份见 today）",
+    "fix": "全球/区域口径（最新观测年份见「今天的状况」）",
+    "reason": "time_or_place 值在“时间或位置”节、卡片摘要与时间线表中原样渲染给读者；「today」是内部字段 id（英文），未转写为读者可见的节名「今天的状况」，属无中文括注的字段名/中英混写泄漏（第36轮 round36c.py 建入后一直未清理）。同型问题第136轮已把 overview 中「geo 为常识性地理描述」的字段名泄入改掉。",
+    "type": "字段名泄入/中英混写"
+   },
+   {
+    "title": "全球气温变化",
+    "field": "time_or_place",
+    "claim": "全球/区域口径（最新观测年份见 today）",
+    "fix": "全球/区域口径（最新观测年份见「今天的状况」）",
+    "reason": "time_or_place 值在“时间或位置”节、卡片摘要与时间线表中原样渲染给读者；「today」是内部字段 id（英文），未转写为读者可见的节名「今天的状况」，属无中文括注的字段名/中英混写泄漏（第36轮 round36c.py 建入后一直未清理）。同型问题第136轮已把 overview 中「geo 为常识性地理描述」的字段名泄入改掉。",
+    "type": "字段名泄入/中英混写"
+   },
+   {
+    "title": "撒哈拉以南非洲发展数据",
+    "field": "time_or_place",
+    "claim": "全球/区域口径（最新观测年份见 today）",
+    "fix": "全球/区域口径（最新观测年份见「今天的状况」）",
+    "reason": "time_or_place 值在“时间或位置”节、卡片摘要与时间线表中原样渲染给读者；「today」是内部字段 id（英文），未转写为读者可见的节名「今天的状况」，属无中文括注的字段名/中英混写泄漏（第36轮 round36c.py 建入后一直未清理）。同型问题第136轮已把 overview 中「geo 为常识性地理描述」的字段名泄入改掉。",
+    "type": "字段名泄入/中英混写"
+   },
+   {
+    "title": "古埃及古王国",
+    "field": "polities",
+    "claim": "本站不在 L2 骨架中断言具体年代",
+    "fix": "本条为骨架式描述，不断言具体年代。",
+    "reason": "「L2」是本项目内部内容层级代码（L1/L2/L3），站点未向读者解释该代码；polities 段对 L2 条目会渲染给读者，「L2 骨架」为内部等级编号泄入正文的措辞。",
+    "type": "等级代码泄入/损坏句"
+   }
+  ],
+  "counts": {
+   "total": 5,
+   "entries_scanned": 243,
+   "fields_scanned": 1944
+  },
+  "checks": "全量 243×8 字段（definition/overview/geo/influence/polities/connections/today/time_or_place）：轮次/决策编号（第N轮/D###/R##）0；据此后赘语（据此补/据此举例/补其/补季节性 等）0；双句号及「；。」「，。」0；空括号空引号 0；同字段精确重复句与近重复句(>0.85) 0；逗号顿号结尾截断 0（time_or_place 无句末标点为字段固有简短式，非截断）；失前提承接句（因此/该文/这说明/所以/于是/因而/故/由此/从而 起句）0；空字段 0；损坏句的未配对括号/修改指令残留 0。无括注中英混写：经逐条提取括号/书名号外拉丁串核对，其余均为专名（Wikidata/Livius/Beringia/Wagadu/Lapita 等）、期刊出版名、单位（km/kg/Ma/ka BP/cal BP/BC）、指标或体系代码（SP.POP.TOTL、P571/P576、GDP、API、GIS、LiDAR）或已带中文括注术语（chinampa（湖上人工田）、mit'a、系统发育多样性（PD）、beta 多样性经第129/143轮判非缺陷、Theic 洋源自摘要）；Wikidata 属性码 P571/P576/P580/P582 均随「据 Wikidata 记录/属性」出现，属数据出处，与 today 段指标编号同性质，非缺陷。本类 5 项均为内部字段名 today（4 处 time_or_place）与内部等级码 L2（1 处 polities）泄入读者可见正文，同型于第136轮「geo 为常识性地理描述」字段名泄入，属真缺陷。"
+ },
+ "C": {
+  "items": [],
+  "checks": "tools/selfcheck_aggregates.py 输出 ALL CONSISTENT 0；layers A215/D28，content ge2/one/zero=215/27/1，gaps G1=0/G2=0/G3=0/G4=0。以 tools/assess.py 独立重算：level A215/D28，与 data/evidence_level.json 243 条逐条比对 0 不符；与 reports/round62_gaps.json 的 levels（243 条）逐条比对 0 不符；重算 G1（C 级数）=0、G3（content_count==1 且非 D）=0，与 round62 gap_definitions G1=0/G3=0 吻合。5 条名目抽验（round62 记录值 vs 重算值）：两河流域 A/A、古埃及新王国 A/A、撒哈拉沙漠 A/A、古巴岛 A/A、海洋保护区 D/D，全部吻合。data/no_solution.json entries 为空（0 条），无 G2 条目可核、无过期项，SATURATION.unsolvable 亦为空。"
+ },
+ "D": {
+  "items": [
+   {
+    "title": "地理信息系统",
+    "field": "influence",
+    "source": "openalex-W4230464905",
+    "claim": "该文同时指出：传统上 GIS 强于空间数据管理，但缺乏问题域的建模能力，须外挂模型/多准则系统方能支持决策。 这说明「GIS 作为决策支持工具」是有条件的，而非自带决策能力。",
+    "fix": "所引 2006 年文献是区域空间决策支持系统（SDSS）的概念设计，以 GIS 为底座、外挂模型与多准则评价（被引仅 4，属工程案例，仅作旁证）；本条不据此对 GIS 的一般能力作断言，GIS 综述类主来源待补。",
+    "reason": "pending_notes【第54轮D112降级】明载该文为旁证（被引4、设计类工程案例），「仅作『以 GIS 为底座的空间决策支持系统一例』，不作 GIS 能力的通例断言；主来源待补 GIS 综述类文献」；但正文 influence 仍以「该文同时指出：传统上 GIS 强于空间数据管理，但缺乏问题域的建模能力……这说明『GIS 作为决策支持工具』是有条件的」对其一般能力下通例断言，超出备注限定、与备注自相矛盾，属正文仍以旁证为通例依据。"
+   }
+  ],
+  "counts": {
+   "total": 1
+  },
+  "checks": "扫描全部 243 条 pending_notes，按【】分段取 sid 所属段落，检出被判「旁证/仅作登记/不支撑/降级/剔除」的 openalex 来源共 94 个 (entry,source) 对、覆盖 80 条条目。逐一核对正文（definition/overview/geo/influence/polities/connections/today，排除 time_or_place 纯时地指针）：(1) 第136/137/138/142轮曾判的依赖项（马里帝国W2089041290、莱茵河W2041834890、大堡礁W2020216779、南极科考站W2135820861、古埃及中王国W4322713864、南锥体W4224441281、尼罗河三角洲W2220441068、河中地区W2621257476、伊比利亚半岛W2127608683、突厥W4384485896）其正文现已删改，重核无残留依赖；(2) 大量「仅作登记，不支撑任何断言」来源其年份与正文「所引 YYYY 年」为同年但不同文献（如桑海帝国2018《The Fall…》≠W2991586769《The Rise…》、印度河文明2025哈拉帕≠W7127929917、汉代2019战争经济≠W4403972561 Dogs、宋代2023科举≠W4361197788、元代2023蒙古元≠W4389109327、拜占庭1997通史≠W1968112198 医院、马其顿2010短导论≠W1970392988 后勤），属「同名/同年另一来源」碰撞，按 D112 口径排除；(3) 意大利半岛W4298223504 仅为「所引2010年研究覆盖中南部而非全半岛」的纯范围指针，排除；冲积平原W3095474398、大分水岭W1990720532、文艺复兴意大利W2487072270、美国西进W3023324006、河流三角洲W2034581965 之正文均已用「该文能支持的范围仅为…/被引很少证据强度有限」等限度披露或与该旁证可支撑范围一致，属既定 D112 限定用途，排除。仅「地理信息系统」W4230464905 一处正文仍以旁证对其一般能力下通例断言，与其备注「不作 GIS 能力的通例断言」自相矛盾，判需改。"
+ },
+ "E": {
+  "items": [],
+  "checks": {
+   "check.py": "ERRORS=0 ALL_PASS（243 条/809 来源）",
+   "check_links.py": "BROKEN=0 LINKS_PASS（4941 链接）",
+   "SATURATION.json gap_model": {
+    "counts": {
+     "G1": 0,
+     "G2": 0,
+     "G3": 0,
+     "G4": 0
+    },
+    "definitions": {
+     "G1": 0,
+     "G2": 0,
+     "G3": 0,
+     "G4": 0
+    }
+   },
+   "round62_gaps.json": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0
+   },
+   "data/no_solution.json": "entries 空（0 条）",
+   "site/limits.html": {
+    "缺口表": {
+     "G1": 0,
+     "G2": 0,
+     "G3": 0,
+     "G4": 0
+    },
+    "G3a": 0,
+    "G3b": 0,
+    "无合格第二来源_header": "0 条",
+    "表体": "空"
+   },
+   "五处对齐": "SATURATION=round62_gaps=no_solution=limits缺口表=limits无合格第二来源(0条)，五处缺口数字全部为 0，互相对齐；SATURATION.definitions==counts 一致。",
+   "evidence_level_vs_assess": "A215/B0/C0/D28 一致"
+  }
+ }
+}
