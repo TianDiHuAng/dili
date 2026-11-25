@@ -18,7 +18,7 @@ one = [t for t, e in T.items() if content_count(e, S) == 1 and lvl[t] != "D"]
 zero = [t for t, e in T.items() if content_count(e, S) == 0 and lvl[t] != "D"]
 # G1：无强来源（**仅 C 级**——D 级是指标解读类，本不要求强来源，不计入缺口）
 g1 = [t for t, v in lvl.items() if v == "C"]
-NOFIX = ("河中地区", "库什与努比亚", "莫切文化")   # 已确认无合格主来源
+NOFIX = tuple(json.load(open(os.path.join(DATA,"no_solution.json"),encoding="utf-8")).get("entries",[])) if os.path.exists(os.path.join(DATA,"no_solution.json")) else ()
 gaps = []
 for t in g1:
     gaps.append({"entry": t, "gap": "无强来源（C/D）", "detail": f"层级 {lvl[t]}"})

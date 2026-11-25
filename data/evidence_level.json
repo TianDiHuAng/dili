@@ -314,14 +314,14 @@
       "tier": "核心"
     },
     "阿卡德帝国": {
-      "level": "D",
+      "level": "A",
       "counts": {
-        "strong": 0,
+        "strong": 2,
         "weak": 0,
-        "side": 0,
+        "side": 2,
         "data": 2,
         "alias": 1,
-        "unknown": 2
+        "unknown": 0
       },
       "tier": "重要"
     },
@@ -2919,10 +2919,10 @@
     }
   },
   "summary": {
-    "A": 214,
+    "A": 215,
     "B": 0,
     "C": 0,
-    "D": 29
+    "D": 28
   },
   "definition": {
     "A": "≥2 强来源",
