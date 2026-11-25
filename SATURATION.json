@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 137,
+  "last_round": 138,
   "history": [
     {
       "round": 1,
@@ -844,5 +844,5 @@
     "拉普拉塔平原"
   ],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第137轮审计发现 38 项（A1/B31/C1/D5），非零缺口；连续计数保持 0。"
+  "zero_gap_streak_note": "第138轮审计发现 3 项（C2/D1，均为第137轮删句残留），非零缺口；连续计数保持 0。"
 }

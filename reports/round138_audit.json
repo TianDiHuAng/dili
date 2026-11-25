@@ -1,0 +1,458 @@
+{
+ "A": {
+  "sampled": 30,
+  "seed": 138,
+  "pool": 159,
+  "candidates_after_excluding_r135_r137_and_fix_present": 81,
+  "items": [
+   {
+    "idx": 0,
+    "title": "河中地区",
+    "source": "openalex-W4313222955",
+    "field": "influence",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2022 年《Mongol invasion of Transoxiana 1219–1221》（摘要 1,310 字符）讨论蒙古对河中地区的入侵，认为这是蒙古进一步入侵伊斯兰世界的首个门户；本条「河中曾遭蒙古西征重创」据此。",
+    "abstract_evidence": "The Mongol invasion of the Islamic world, especially parts of Transoxiana, was a serious threat to the Islamic world. This invasion was the first gateway for the Mongols to carry out subsequent invasions to other parts of the Islamic world, which resulted in the Islamic world getting worse and exper",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 1,
+    "title": "法蒂玛王朝",
+    "source": "openalex-W4391104973",
+    "field": "influence",
+    "scan_round": "reports/round126_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2023 年《The Fatimid Caliphate》（摘要 876 字符）讨论 1050–1128 年间法蒂玛在沙姆地区权威衰退的地方因素，认为 1060 年 al-Funaydiq 之战败于米尔达斯势力及其后十年的领土丧失，比 1071 年起塞尔柱的兴起更为关键。",
+    "abstract_evidence": "Chapter 2 examines local factors that led to the deterioration of Fatimid authority in bilad al-sham between 1050-1128. It questions the traditional interpretation that the erosion of Fatimid dominions in al-sham was provoked by the emergence of Seljuq rulers from 1071 onwards, advocating instead th",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 2,
+    "title": "古巴岛",
+    "source": "openalex-W2519900070",
+    "field": "geo",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年《The geology of Cuba: A brief overview and synthesis》（被引81）指出古巴的地质记录包含三个重要阶段：侏罗纪北美与南美（Pangea）裂解及被动陆缘演化、白垩纪—古近纪大洋内蛇绿岩—岛弧杂岩的沉积—岩浆—变质演化，以及古近纪「软碰撞」与西北加勒比板块（连同古巴）转入北美板块；本条「岛屿由多期构造拼合而成」据此。",
+    "abstract_evidence": "Cuba is the largest island in the Greater Antilles, and its geology records three important episodes: (1) the Jurassic breakup of North and South America (Pangea) and associated passive margin and oceanic sedimentary and magmatic evolution; (2) the sedimentary, magmatic, and metamorphic evolution of",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 3,
+    "title": "十三殖民地",
+    "source": "openalex-W631362042",
+    "field": "influence",
+    "scan_round": "reports/round124_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2011 年《Colonial America: A History to 1763》（被引27，摘要 4,323 字符）综述英属北美殖民地至 1763 年的发展。",
+    "abstract_evidence": "List of Figures. List of Maps. List of Documents. Preface to the Fourth Edition. Acknowledgments. Part I: Old and New Worlds Meet:. 1. The Peoples of Eastern North America: Societies in Transition. 1 America Before Columbus and the Problem of History. 2 The Americas in Ancient Times. 3 The Eastern W",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 4,
+    "title": "匈奴",
+    "source": "openalex-W2013667302",
+    "field": "influence",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2014 年《Iron Smelting in the Nomadic Empire of Xiongnu》（被引21）报告蒙古 Khustyn Bulag 的匈奴时期冶铁遗址（前209–公元155年），指出匈奴是东欧亚第一个游牧帝国，其冶铁特征与南西伯利亚而非中国相关；本条「匈奴游牧帝国兼有冶铁手工业」据此。",
+    "abstract_evidence": "The first archeological evidence in Mongolia of an iron-smelting site has been discovered at Khustyn Bulag. This site belongs to the Xiongnu age (209BCE-155CE). The Xiongnu was the first Nomadic Empire in east Eurasia. Our excavation area was quite small but contained many interesting structures (sm",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 5,
+    "title": "横贯南极山脉",
+    "source": "openalex-W2058359525",
+    "field": "geo",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1992 年《The Transantarctic Mountains of southern Victoria Land》（被引 249，摘要 2,406 字符）以磷灰石裂变径迹分析南维多利亚地的横贯南极山脉，指出山前带为东、西南极的分界，抬升约始于 55 Ma。",
+    "abstract_evidence": "A fission track study of the Transantarctic Mountains (TAM) in the Granite Harbour and Wilson Piedmont Glacier areas of southern Victoria Land reveals information on the timing of uplift, the amount of uplift and erosion, and the structure of the mountains, especially the onshore Transantarctic Moun",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 6,
+    "title": "十字军东征",
+    "source": "openalex-W3012443801",
+    "field": "polities",
+    "scan_round": "reports/round123_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年《The Fifth Crusade in Context: The Crusading Movement…》（摘要 1,247 字符）把第五次十字军置于 13 世纪初十字军运动的整体脉络中讨论；本条「十字军是持续的运动、非单一事件」据此。",
+    "abstract_evidence": "The Fifth Crusade represented a cardinal event in early thirteenth-century history, occurring during what was probably the most intensive period of crusading in both Europe and the Holy Land. Following the controversial outcome of the Fourth Crusade in 1204, and the decrees of the Fourth Lateran Cou",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 7,
+    "title": "高卢",
+    "source": "openalex-W272418548",
+    "field": "influence",
+    "scan_round": "reports/round123_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1996 年《Gaul》（被引34，摘要 910 字符）讨论罗马时期高卢的行省划分与地缘处境；本条「高卢后被罗马纳入行省体系」据此。",
+    "abstract_evidence": "The history of Gaul reflected its new environment, and the new strategic geography formed by the German frontier and the proximity of Britain, with all the attendant social and economic repercussions. The author treats Narbonensis (formerly Transalpina) separately from the Tres Galliae (formerly Com",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 8,
+    "title": "马来群岛",
+    "source": "openalex-W4285378271",
+    "field": "influence",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2021 年《Southeast Asian Early Maritime Silk Road Trading Polities’ Hinterland and the Sea Nomads of the Isthmus of Kra》讨论东南亚早期海上贸易政体腹地中采集者、海上游民与农人、商人的相互依存关系，以及环境破碎性对社会分化的影响。",
+    "abstract_evidence": "When, how and why does cultural differentiation take place? Which environmental, social, demographic and economic factors are at play? These questions are perhaps even more pertinent when dealing with mobile or semi-sedentary and forager or semi-agriculturalist groups living on the margins of centra",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 9,
+    "title": "周代",
+    "source": "openalex-W4406476289",
+    "field": "polities",
+    "scan_round": "reports/round121_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2025 年研究（摘要 1,387 字符）讨论西周（约前1046–771）灭商后建立的最早分封制与燕国等封国的建立年代；本条「周代以分封制组织政治秩序」据此。",
+    "abstract_evidence": "Western Zhou Dynasty (ca. 1046–771 BC) was established soon after conquering the Shang Dynasty (ca. 1600–1046 BC) and brought about the earliest enfeoffment system in Chinese history. Yan was one of the vassal states of the same clan as Zhou. According to historical records, the capital of Yan state",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 10,
+    "title": "新法兰西",
+    "source": "openalex-W4382866151",
+    "field": "influence",
+    "scan_round": "reports/round127_scan.json",
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2018 年《Power and Subsistence: The Political Economy…》（摘要 1,323 字符）讨论新法兰西的谷物政治经济，指出小麦的生产、消费、交换与管制受到政府持续关注，其谷物经济高度集中化。",
+    "abstract_evidence": "Subsistence crops – the grains and other food items necessary to a people's survival – were a central preoccupation of the early modern state. In New France, the principal crop in question was wheat, and its production, consumption, exchange, and regulation were matters to which the government devot",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 11,
+    "title": "朝鲜半岛",
+    "source": "openalex-W2020449353",
+    "field": "influence",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2000 年研究以大型化石与孢粉重建半岛植被史（资料覆盖二叠纪至今）：现存针叶与阔叶类群自白垩纪以来连续出现，说明该区域未发生灾难性环境突变、长期气候具有一定连续性；期间仍有波动，喜冷针叶类群自晚更新世以来的存续可能与气候恶化有关。",
+    "abstract_evidence": "1 The vegetational and environmental history of the Korean Peninsula has been reconstructed by the use of both macrofossils and pollen data. These data were analysed within the time‐frame between the Permian and the present day. 2 The continuous appearances of presently occurring conifers and dicoty",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 12,
+    "title": "气候带",
+    "source": "openalex-W2046345013",
+    "field": "geo",
+    "scan_round": "reports/round126_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1994 年《On coupling global biome models with climate models》（被引 145）把预测与气候平衡之全球植被格局的 BIOME 模型与 ECHAM 气候模型耦合；本条「气候带与植被类型相关」据此。",
+    "abstract_evidence": "The BIOME model of Prentice et al. (1992; J. Biogeogr.19: 117-134), which predicts global vegetation patterns in equilibrium with climate, was coupled with the ECHAM climate model of the Max-Planck-Institut fiir Meteorologie, Hamburg, Germany.It was found that incorporation of the BIOME model into E",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 13,
+    "title": "伊比利亚半岛",
+    "source": "openalex-W2127608683",
+    "field": "influence",
+    "scan_round": "reports/round134_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "气候与地形的梯度造成农业与聚落的东西、南北差异；对半岛西北部六个乡村地区的研究显示，野生食用植物的传统利用知识因地区而异。",
+    "abstract_evidence": "BACKGROUND: We compare traditional knowledge and use of wild edible plants in six rural regions of the northwest of the Iberian Peninsula as follows: Campoo, Picos de Europa, Piloña, Sanabria and Caurel in Spain and Parque Natural de Montesinho in Portugal. METHODS: Data on the use of 97 species wer",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "后半句（六个乡村地区、野生食用植物知识因地区而异）摘要支持；前半句「气候与地形梯度造成东西、南北差异」为未归因常识性表述，不冒称来源，可接受"
+   },
+   {
+    "idx": 14,
+    "title": "库什与努比亚",
+    "source": "openalex-W2507574122",
+    "field": "polities",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年《Entanglement and the Formation of the Ancient Nubian Napatan State》（American Anthropologist，被引65）以通博斯遗址为据讨论纳帕塔国家的形成（约前750–前656年），认为殖民时期形成的努比亚—埃及混合社群塑造了纳帕塔政体的特征；本条「纳帕塔政体的形成与埃及纠缠相关」据此。",
+    "abstract_evidence": "Through the concept of entanglement, archaeological indications of cultural identity and skeletal evidence of biological and geographic interaction are used to explore the development of the Nubian polity who ruled as the 25th Dynasty of Egypt (Napatan period, ca. 750–656 B.C.E.). In this article, w",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 15,
+    "title": "南美贸易网络",
+    "source": "openalex-W2102360536",
+    "field": "influence",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2014 年研究以世界体系视角讨论贵重贸易品（如 Spondylus 海菊蛤贝壳）在安第斯社会再生产中的作用，并把它与安第斯主要语言的多次扩散相联系。",
+    "abstract_evidence": "In this article, I argue, first, that a world‐system perspective can illuminate the role of prestigious trade goods such as Spondylus in the reproduction of pre‐Hispanic Andean societies and the significance of their procurement for the course of Andean prehistory. Second, I argue that the successiv",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 16,
+    "title": "阿拉伯征服北非",
+    "source": "openalex-W1984018962",
+    "field": "influence",
+    "scan_round": "reports/round121_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1987 年《A History of the Maghrib in the Islamic Period》（被引 400）是从阿拉伯征服写到当代的马格里布通史，着重讨论几乎全体居民改信伊斯兰的原因；本条「阿拉伯征服后北非逐步伊斯兰化」据此。",
+    "abstract_evidence": "Building on the two previous editions of his History of the Maghrib, Professor Abun-Nasr has written a completely new history of North Africa within the Islamic period which begins with the Arab conquest and brings the story up to the present day. He emphasises the factors which led to the adoption ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 17,
+    "title": "商代",
+    "source": "openalex-W4387138649",
+    "field": "geo",
+    "scan_round": "reports/round121_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2023 年《Bronze alloying recipes at Anyang during the Shang…》分析殷墟出土青铜器的合金配方，发现配方随持有者身份、器类与时期而变化；本条「商代青铜合金配方存在等级与器类差异」据此。",
+    "abstract_evidence": "We present a detailed analysis of the chemical alloying data (Cu, Sn, Pb) on the bronzes recovered from the Late Shang capital at Yinxu, revealing a complex pattern which varies by social status and object typology, and which also changes over time. The preference for higher tin in the bronze vessel",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 18,
+    "title": "大堡礁",
+    "source": "openalex-W5261359",
+    "field": "geo",
+    "scan_round": "reports/round125_scan.json",
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2002 年《Taxonomy and ecology of non-geniculate coralline algae》研究大堡礁 Heron Reef 上非节珊瑚藻（红藻）的分类与生态。",
+    "abstract_evidence": "The geological and economical importance of non-geniculate coralline algae (Rhodophyta, Corallinaceae) in coral reef systems is generally well known and documented. However, virtually nothing is known about the biology and ecology of non-geniculate coralline algae (NCA) on one significant coral reef",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 19,
+    "title": "亚述帝国",
+    "source": "openalex-W2761337564",
+    "field": "polities",
+    "scan_round": "reports/round121_scan.json",
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2016 年《Emblems of Power: Ideology and Identity in Late Old Assyrian Glyptic》（被引15）以沙姆希-阿达德一世时期（约前1847–前1728）北美索不达米亚的官方印章图像研究政治意识形态与认同。",
+    "abstract_evidence": "As markers of identity, social status, and administrative rank, seals and their designs functioned as one of the most important non-verbal identifiers for their owners in the ancient Near East. Consequently, the selection of seal imagery was a carefully made decision (either by the seal owner or a c",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要写 Šamši-Adad I 在位约前1847–1776，研究时段止于前1728年 Šeḫna 被毁，fix「约前1847–前1728」为研究时段，非编造"
+   },
+   {
+    "idx": 20,
+    "title": "古埃及新王国",
+    "source": "openalex-W2518402882",
+    "field": "polities",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年《Egypt: 1. Ancient (New Kingdom)》（摘要 954 字符）指出新王国的帝国时期（约前 1575–1100，第 18–20 王朝）建立了南北两个控制区：努比亚由总督直接管辖，西亚城邦则保留臣服的本地统治者；本条「新王国以两种不同的方式控制南北两区」据此。",
+    "abstract_evidence": "The empire period of New Kingdom Egypt encompasses a distinctly new phase in Egyptian history. Between about 1575 and 1100 bce (Dynasties XVIII–XX), the Egyptian state founded two separate zones of control (Figure 1). To the south in Nubia the territory was organized into zones (Wawat and Kush) wher",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 21,
+    "title": "海洋生态系统",
+    "source": "openalex-W2095789486",
+    "field": "influence",
+    "scan_round": "reports/round131_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2013 年《Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services》（被引 861）系统评述海洋与沿海生态系统服务（MCES）的评估与制图现状，指出既有研究多集中于陆地、海洋与沿海部分存在知识缺口，且案例研究主要集中于红树林、滨海湿地及欧洲与北美；本条「海洋生态系统服务评估覆盖不足、研究分布不均」据此。",
+    "abstract_evidence": "BACKGROUND: Research on ecosystem services has grown exponentially during the last decade. Most of the studies have focused on assessing and mapping terrestrial ecosystem services highlighting a knowledge gap on marine and coastal ecosystem services (MCES) and an urgent need to assess them. METHODOL",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 22,
+    "title": "元代",
+    "source": "openalex-W4385538089",
+    "field": "polities",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2023 年《The Mongol Yuan Dynasty in China》（摘要 1,346 字符）讨论蒙古征服对中国历史的影响，指出蒙古以多种语言治理族群与文化各异的群体，忽必烈时期的行政将强调亲缘与忠诚的草原家产制与汉式官僚制相结合；本条「元代融合草原与汉制的多层统治」据此。",
+    "abstract_evidence": "One of the biggest questions in the study of China’s history is related to the impact of the Mongol conquest. The Mongols governed through multiple languages, and ruled ethnically and culturally distinct groups, in part through the adoption and adaptation of Chinese institutions. The reign of Qubila",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 23,
+    "title": "波利尼西亚",
+    "source": "openalex-W2033361490",
+    "field": "influence",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1995 年《The Polynesian settlement of the Hawaiian Archipelago》（被引82）把夏威夷定居分为发现、殖民与确立三阶段，放射性碳数据显示可能存在较早的殖民期、数世纪后才形成稳定人群；本条「夏威夷的定居是分阶段的过程」据此。",
+    "abstract_evidence": "Archaeological investigations of the prehistoric colonization of East Polynesia have focused on the question: when did this event occur? A relatively late date for the colonization of Hawai'i is held by some archaeologists; an alternative view suggests that there is considerably more antiquity to th",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 24,
+    "title": "法蒂玛王朝",
+    "source": "openalex-W4285722466",
+    "field": "influence",
+    "scan_round": "reports/round126_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2020 年研究以「建设哈里发国家」为题，讨论早期法蒂玛建筑中的建设与破坏（如爱资哈尔与哈基姆清真寺的兴建、哈基姆时期对教堂的大规模拆毁）及其与教派认同的关系。",
+    "abstract_evidence": "Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid ArchitectureJennifer A. PruittThis groundbreaking study investigates the early architecture of the Fatimids, an Ismaili Shi'i Muslim dynasty that dominated the Mediterranean world from the 10th to the 12th cen",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 25,
+    "title": "巴西高原",
+    "source": "openalex-W7143967103",
+    "field": "influence",
+    "scan_round": "reports/round125_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2026 年研究（OpenAlex 题名《Floristic composition and conservation value of open ecosystems across a fire chronosequence in the South Brazilian Highlands》）指出巴西南部高原草地历史上由火与放牧塑造，保护区排除干扰后出现高草优势与木本入侵。",
+    "abstract_evidence": "The South Brazilian Highland Grasslands are species-rich ecosystems historically molded by fire and grazing. However, in many protected areas, the exclusion of disturbance has promoted dominance of tall grasses, woody encroachment and loss of typical grassland species. This no-fire policy is, at lea",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 26,
+    "title": "教育机会地域差异",
+    "source": "openalex-W4387983363",
+    "field": "influence",
+    "scan_round": "reports/round132_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2023 年《Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities》（被引25）从地理属性如何造成教育不平等的角度讨论，并与可持续发展目标 4（SDG-4）相联系；其摘要未列出具体地理机制或区域数据，故本条仅将其作为一般性旁证，不据此支撑具体区域论断。",
+    "abstract_evidence": "ensuring universal access to high-quality education to all individuals is not only a fundamental aspect of fostering a peaceful and prosperous global community, but it also plays a critical role in the attainment of Sustainable Development Goal (SDG)-4.education equips individuals with the necessary",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 27,
+    "title": "奇穆帝国",
+    "source": "openalex-W2093974440",
+    "field": "polities",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1983 年《Imperialist Expansion in Peruvian Prehistory》（被引82）以杰克特佩克谷为例讨论奇穆帝国对被征服领土的管理；本条「奇穆以昌昌为都城、向北部海岸谷地扩张并实施行政控制」据此。",
+    "abstract_evidence": "The expansion of prehistoric empires has been an important feature in the development of civilizations throughout the world. Yet, archaeological research directed towards the study of imperial expansion and conquest of territory has rarely been attempted. Building on previous fieldwork, the program ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 28,
+    "title": "南极冰盖",
+    "source": "openalex-W196115473",
+    "field": "influence",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1982 年研究讨论西南极与东南极冰盖孰先形成的问题；本条仅据此写「冰盖发育先后存在争论」，不作定论。",
+    "abstract_evidence": "The mostly terrestrial East Antarctic ice sheet is ten times larger and probably more stable than the mostly marine West Antarctic ice sheet. It is natural to suppose that the former appeared first, and that perhaps the latter was partially formed from an outflow of East Antarctic ice onto the West ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   },
+   {
+    "idx": 29,
+    "title": "纳斯卡文化",
+    "source": "openalex-W2543231307",
+    "field": "influence",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年《Beyond the Nasca Lines: Ancient Life at La…》（被引22）把视线从著名的纳斯卡线条转向拉蒂萨遗址 5000 余年的聚落生活，考察该地区复杂社会的兴起、衰落与重组。",
+    "abstract_evidence": "Beyond the Nasca Lines examines the origin, rise, fall, and reformation of complex societies through investigations conducted at the archaeological site of La Tiza in the desert of Nasca, Peru. La Tiza was inhabited for over 5000 years and has the longest occupation of any settlement in the region, ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名，专名翻译与题名一致"
+   }
+  ],
+  "counts": {
+   "PASS": 30,
+   "SOFT": 0,
+   "FAIL": 0
+  }
+ },
+ "B": {
+  "items": [],
+  "counts": {
+   "total": 0
+  },
+  "note": "243 条×8 正文字段全量扫描；「…据此。」为全站统一引据句式，非赘语；Wikidata/LiDAR/Landsat/NASA/期刊名/地名/人名等专名或数据集名不计中英混写；地图投影「改进建议」为摘要内容，非修改说明；无双句号、「；。」「，。」、空括号、空引号、重复句、截断或空字段"
+ },
+ "C": {
+  "reviewed": "round137 A 的 2 项 SOFT、B 31 项、C 1 项、D 5 项及两次补丁全部复核",
+  "landed": "B 31 项中 29 项 fix 逐字在位；洋流 geo 与大自流盆地 geo 的 fix 文字被后续合并改写（现为通顺成句，语义与 fix 一致）；C 罗马阿非利加已落地；D 5 项 claim 均已删除",
+  "patch_南极科考站_time_or_place": "现为「科考活动现状（当代）」，通顺无问题",
+  "patch_大堡礁_influence": "现为「陆源径流带来的泥沙与营养盐、海温升高引发的白化，通常被视为近岸礁体面临的主要压力；具体机制与影响强度待专门来源核验。」不含具体数字、年份、物质名或「所引」，为常识性表述并注明待核验，无未经支持的具体论断",
+  "items": [
+   {
+    "title": "古埃及中王国",
+    "field": "influence",
+    "claim": "这说明文本的功能需具体分析，不能一概归为政治宣传。",
+    "fix": "",
+    "field_after": "所引 2006 年《The Middle Kingdom of Ancient Egypt: History, Archaeology and Society》（被引107，摘要 1,170 字符）把中王国（约公元前 2000–1700 年）作为艺术、历史与文学的古典时期，并指出研究常止于王室雕像与文学名篇；本条从历史与考古的社会视角补充叙述。",
+    "field_after_empty": false,
+    "reason": "第137轮 D 项删去「所引 2010 年专著…宣传品」句后，承接它的「这说明…」句成为无前提的残句，且其论断仍出自被标为旁证的 W4322713864，应一并删除"
+   },
+   {
+    "title": "南锥体",
+    "field": "influence",
+    "claim": "这说明区域的人口构成受跨大西洋政策与经济的共同影响；本条仅以此为区域研究现状的一例，不作地理成因解释。",
+    "fix": "",
+    "field_after": "所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学视角论述阿根廷、巴西、智利、巴拉圭与乌拉圭的当代政治经济，提出该区域出现了一种新的区域资本主义发展模式。说明：该文是政治经济学研究，不涉本条的温带气候与地形叙述。",
+    "field_after_empty": false,
+    "reason": "第137轮 D 项删去「所引 2022 年研究考察西班牙战后移民」句后，「这说明…」「以此为…一例」失去所指，且结论仍出自旁证 W4224441281，应删除"
+   }
+  ],
+  "counts": {
+   "needs_text_fix": 2
+  }
+ },
+ "D": {
+  "items": [
+   {
+    "title": "南极科考站",
+    "field": "influence",
+    "claim": "其核心发现是：37% 的常年站与 69% 的夏季站尚无任何形式的处理设施。作者据此认为技术已具备、应全面采用处理设施并防止夏季站未经处理排放，即治理仍是未完成的缺口。",
+    "fix": "",
+    "field_after": "所引 2008 年《On thick ice: scientific internationalism》（被引45）讨论 1957–1980 年南极条约前后的科学国际主义，指出它被用作外交工具，美国借国际合作研究影响南极事务。 所引 2010 年《Antarctic Research Stations: Parallels for…》（被引11）通过回顾两座南极科考站的设计，讨论其作为未来太空任务在隔离极端环境中生活与工作之类比对象的价值。",
+    "field_after_empty": false,
+    "reason": "第137轮只删了 2009 年污水调查的引介句，紧随的发现句仍以该文（W2135820861，第94轮降为旁证）为依据（37%/69% 数据即该调查结果），且「其核心发现」失去主语，属残句"
+   }
+  ],
+  "counts": {
+   "confirmed": 1
+  },
+  "note": "第137轮 D 项五条 claim 已删除；南极科考站仍残留同一旁证来源的发现句"
+ }
+}
