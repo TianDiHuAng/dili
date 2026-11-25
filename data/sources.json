@@ -10599,6 +10599,32 @@
       "verified": true,
       "page_title": "Fire History and Conservation Value of Open Ecosystems in South Brazilian Highlands",
       "note": "OpenAlex 作品 W7143967103（DOI 10.2139/ssrn.6485698）；2026年；被引 0；类型 article。HTTP 200，25521 字节。摘要长度 1635 字符。经 Crossref query.bibliographic 相关度检索 + DOI 桥取得，摘要已人工阅读。"
+    },
+    {
+      "id": "openalex-W4390344318",
+      "title": "OpenAlex W4390344318 — The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection: Review and Per",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2023,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W4390344318",
+      "url2": "https://doi.org/10.3390/su16010274",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection: Review and Per",
+      "note": "OpenAlex 作品 W4390344318（DOI 10.3390/su16010274）；2023年；被引 132；类型 article。HTTP 200，22342 字节。摘要长度 1333 字符。经 Crossref query.bibliographic 相关度检索 + DOI 桥取得，摘要已人工阅读。"
+    },
+    {
+      "id": "openalex-W2616812401",
+      "title": "OpenAlex W2616812401 — Vegetation changes after 15 years of abandonment of crop fields in the Pampas Region (Argentina)",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2010,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W2616812401",
+      "url2": "https://doi.org/10.4067/s0718-16202010000200005",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Vegetation changes after 15 years of abandonment of crop fields in the Pampas Region (Argentina)",
+      "note": "OpenAlex 作品 W2616812401（DOI 10.4067/s0718-16202010000200005）；2010年；被引 32；类型 article。HTTP 200，22300 字节。摘要长度 1515 字符。经 Crossref query.bibliographic 相关度检索 + DOI 桥取得，摘要已人工阅读。"
     }
   ]
 }

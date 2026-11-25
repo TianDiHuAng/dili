@@ -1478,9 +1478,9 @@
       "tier": "重要"
     },
     "拉普拉塔平原": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 4,
@@ -2570,9 +2570,9 @@
       "tier": "补充"
     },
     "卫星遥感地表观测": {
-      "level": "B",
+      "level": "A",
       "counts": {
-        "strong": 1,
+        "strong": 2,
         "weak": 0,
         "side": 0,
         "data": 0,
@@ -2919,8 +2919,8 @@
     }
   },
   "summary": {
-    "A": 211,
-    "B": 3,
+    "A": 213,
+    "B": 1,
     "C": 0,
     "D": 29
   },
