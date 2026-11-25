@@ -1,0 +1,2219 @@
+{
+ "A": {
+  "sampled": 30,
+  "seed": 136,
+  "pool": 167,
+  "candidates_after_excluding_r135": 142,
+  "items": [
+   {
+    "idx": 0,
+    "title": "阿巴拉契亚山脉",
+    "source": "openalex-W2948623208",
+    "field": "geo",
+    "scan_round": 127,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2019 年研究讨论国际阿巴拉契亚步道如何把与阿巴拉契亚山脉形成相关的地体连成一条步道，以增进公众对大西洋两岸共享地质历史的理解。",
+    "abstract_evidence": "Since its inception in 1994, the mission of the International Appalachian Trail has been to connect Appalachian terranes with a walking trail to encourage public understanding of the rich geological story preserved in mountains around the Atlantic Ocean. Beginning at the trailhead in Katahdin Woods ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 1,
+    "title": "环境数据访问",
+    "source": "openalex-W4379536400",
+    "field": "influence",
+    "scan_round": 132,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2023 年研究介绍 Ecodatacube 平台，把开放的 Landsat、Sentinel-2 遥感数据与 30 米数字地形模型预加工为「analysis-ready」的欧洲数据立方体，使更广泛的用户能开展大陆尺度的时空机器学习任务。",
+    "abstract_evidence": "The article describes the production steps and accuracy assessment of an analysis-ready, open-access European data cube consisting of 2000-2020+ Landsat data, 2017-2021+ Sentinel-2 data and a 30 m resolution digital terrain model (DTM). The main purpose of the data cube is to make annual continental",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 2,
+    "title": "不列颠群岛",
+    "source": "openalex-W1980793103",
+    "field": "geo",
+    "scan_round": 119,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1970 年研究重建不列颠群岛的三叠纪古地理，指出沉积盆地受断层控制、可能形成于海西造山期末；本条据此写「三叠纪群岛经历断层控制下的多阶段沉积」。",
+    "abstract_evidence": "By means of a series of lithological-isopachous maps the palaeogeography of the British Isles is illustrated for six divisions of the Triassic period. In the absence of sufficient biostratigraphical and chronostratigraphical control these six divisions of the Trias are defined in lithostratigraphica",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 3,
+    "title": "西北海岸",
+    "source": "openalex-W2163451848",
+    "field": "influence",
+    "scan_round": 127,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2013 年研究指出，该区域原住民主动管理陆域与海洋资源及生态系统，确保有价值资源的持续产出，其管理实践嵌入复杂的社会经济网络。",
+    "abstract_evidence": "There is increasing recognition among anthropologists that indigenous peoples of the Northwest Coast actively managed their terrestrial and marine resources and ecosystems. Such management practices ensured the ongoing productivity of valued resources and were embedded in a complex web of socio-econ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 4,
+    "title": "南极科考站",
+    "source": "openalex-W2017741426",
+    "field": "influence",
+    "scan_round": 128,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2008 年《On thick ice: scientific internationalism》（被引45）讨论 1957–1980 年南极条约前后的科学国际主义，指出它被用作外交工具，美国借国际合作研究影响南极事务。",
+    "abstract_evidence": "This paper focuses on the role played by scientific internationalism in Antarctica during the two decades that followed the signing and ratification of the Antarctic Treaty in 1961. The paper shows that the Treaty was a response to the threat to the ‘free world’ represented by the installation of So",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 5,
+    "title": "帕提亚帝国",
+    "source": "openalex-W7139081985",
+    "field": "polities",
+    "scan_round": 121,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2024 年研究（摘要 8,926 字符）讨论帕提亚人的迁徙与战争、其东部伊朗游牧起源与草原干旱化背景，以及早期阿萨息斯王朝与塞琉古王国的关系；本条「帕提亚由东伊朗游牧群体立国」据此。",
+    "abstract_evidence": "This article is about the Parthian migrations and wars. The ancestors of the Parthians were the Dakh tribes, who came from the Southern Urals. They were an eastern Iranian nomadic people. The aridization of the steppe climate forced the roofs to shift from the Southern Urals to the region of Khorezm",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 6,
+    "title": "基辅罗斯",
+    "source": "openalex-W2955991686",
+    "field": "polities",
+    "scan_round": 127,
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2019 年研究（摘要 3,466 字符）从乌克兰国家建构史的角度讨论基辅罗斯的地位与作用，认为基辅罗斯的统一使东斯拉夫人得以抵御周边势力与游牧民族的进攻。",
+    "abstract_evidence": "The place and role of the Kyivan Rus in the centuries-old history of Ukrainian statehood are analyzed. The main attention is paid to the fact that the Kyivan Rus was the first state created by Ukrainians. The Rosy, Rusyns, Ukrainians are historical ethnonyms of one Ukrainian nation, in the language ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 7,
+    "title": "板块构造",
+    "source": "openalex-W2904560534",
+    "field": "influence",
+    "scan_round": 120,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2018 年文献回顾地震学（地震活动性、震源机制与汤加—斐济俯冲带研究）对板块构造革命的贡献；本条据此写「地震学观测是确立板块构造理论的重要证据来源」。",
+    "abstract_evidence": "Earth scientists who were active during the 1960s were able to witness, and in some cases to be a part of, the coming of plate tectonics, one of the great happenings in the history of earth science. Early in the history of Lamont, in the 1950s, Maurice Ewingwas often active on a day-to-day basis in ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 8,
+    "title": "古埃及新王国",
+    "source": "openalex-W215461327",
+    "field": "polities",
+    "scan_round": 120,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2014 年《State Correspondence in the Ancient World》（被引24）以含新王国埃及在内的古代国家公文书信为材料，论证远程通信对早期国家凝聚与权力下放的作用；本条「新王国依靠远程公文通信维系对广阔疆域的控制」据此。",
+    "abstract_evidence": "This book’s central thesis is simple: long-distance communication plays a key role in the cohesion and stability of early states and in turn, these states invest heavily in long-term communication strategies and networks. As reliable and fast long-distance communication facilitates the successful de",
+    "fix_in_current": true,
+    "verdict": "SOFT",
+    "reason": "「新王国依靠远程公文通信维系对广阔疆域的控制」把全书对早期国家的一般论点套到新王国，摘要未单独论证新王国",
+    "claim": "所引 2014 年《State Correspondence in the Ancient World》（被引24）以含新王国埃及在内的古代国家公文书信为材料，论证远程通信对早期国家凝聚与权力下放的作用；本条「新王国依靠远程公文通信维系对广阔疆域的控制」据此。",
+    "fix": "所引 2014 年《State Correspondence in the Ancient World》（被引24）以从新王国埃及到罗马帝国的古代国家公文书信为材料，论证远程通信对早期国家的凝聚、稳定与权力下放具有关键作用。"
+   },
+   {
+    "idx": 9,
+    "title": "南极科考站",
+    "source": "openalex-W2325413204",
+    "field": "influence",
+    "scan_round": 128,
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2010 年《Antarctic Research Stations: Parallels for…》（被引11）通过回顾两座南极科考站的设计，讨论其作为未来太空任务在隔离极端环境中生活与工作之类比对象的价值。",
+    "abstract_evidence": "Prototype, simulation and analogy are crucial to the preparation process for future space missions. In this context Antarctic research station design, construction and operation can provide a useful analogue because the stations provide isolated living and working within extreme conditions in extrao",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 10,
+    "title": "古希腊城邦",
+    "source": "openalex-W4388377370",
+    "field": "influence",
+    "scan_round": 119,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2006 年研究指出 polis 同时是聚居实体与自治政体，并以雅典、科林斯、麦加拉、叙拉古为例说明许多城邦兼具城市与国家两面；本条「城邦=聚落+政治共同体」的定义即据此。",
+    "abstract_evidence": "I have argued above that the polis was both a nucleated settlement and a self-governing polity, and from page 1 I have cast this view in modern terms and spoken of the polis as both ‘city’ and ‘state’. Are these two terms and the concepts behind them well chosen in a description of the Greek polis? ",
+    "fix_in_current": false,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字；注：该 fix 当前未逐字出现在对应字段（可能已被后续轮次改写或为片段式 fix）"
+   },
+   {
+    "idx": 11,
+    "title": "萨赫勒带",
+    "source": "openalex-W2144515426",
+    "field": "geo",
+    "scan_round": 120,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1993 年研究重新评估西非（Sahel–Soudan 带）的降水变率，分析其趋势、持续性与三种空间模态；本条「降水年际变率大」的表述据此。",
+    "abstract_evidence": "This article deals with the characteristics of rainfall variability in West Africa. Time series of June—July, August—September and annual rainfall anomalies are derived for 19 regions, most of which are in the Sahel—Soudan zones of West Africa. The temporal characteristics of the series, such as tre",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 12,
+    "title": "不列颠群岛",
+    "source": "openalex-W1980793103",
+    "field": "geo",
+    "scan_round": 119,
+    "prior_verdict": "SOFT",
+    "audited_fix": "本条「三叠纪时期群岛沉积盆地受断层控制、可分为六个岩性阶段」据此。",
+    "abstract_evidence": "By means of a series of lithological-isopachous maps the palaeogeography of the British Isles is illustrated for six divisions of the Triassic period. In the absence of sufficient biostratigraphical and chronostratigraphical control these six divisions of the Trias are defined in lithostratigraphica",
+    "fix_in_current": false,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字；注：该 fix 当前未逐字出现在对应字段（可能已被后续轮次改写或为片段式 fix）"
+   },
+   {
+    "idx": 13,
+    "title": "罗马帝国",
+    "source": "openalex-W2330725510",
+    "field": "influence",
+    "scan_round": 119,
+    "prior_verdict": "SOFT",
+    "audited_fix": "本条「十五英里半径内的本地贸易（含乡村定期集市）构成帝国经济交换的主体」据此。",
+    "abstract_evidence": "NO ASPECT OF COMMERCE in the Roman empire has been more neglected than that which involves the movement of goods within any given fifteen-mile radius;' yet this local trade must account for a good three quarters of the value of exchange throughout the economy as a whole. What was its routine? The qu",
+    "fix_in_current": false,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字；注：该 fix 当前未逐字出现在对应字段（可能已被后续轮次改写或为片段式 fix）"
+   },
+   {
+    "idx": 14,
+    "title": "人文地理学",
+    "source": "openalex-W2038018335",
+    "field": "influence",
+    "scan_round": 132,
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 1987 年研究考察 1795—1803 年法国国家研究院道德与政治科学部的地理学组，指出其对研究原住民及自然地理条件影响的理论挑战回应不足，多数地理学者对人文地理缺乏兴趣，人文地理学未能借此确立为新学科。",
+    "abstract_evidence": "The geography section of the Class of Moral and Political Sciences of the French National Institute, which was in existence from December 1795 to January 1803, responded inadequately to the theoretical challenges of Montesquieu, the hygienists, Volney, and Degérando to study thoroughly native people",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 15,
+    "title": "玛雅文明",
+    "source": "openalex-W2090314934",
+    "field": "influence",
+    "scan_round": 119,
+    "prior_verdict": "SOFT",
+    "audited_fix": "本条「古典期末崩溃与长期干旱及约 810、860、910 年的多年干旱事件同期，干旱被视为相关因素之一」据此。",
+    "abstract_evidence": "In the anoxic Cariaco Basin of the southern Caribbean, the bulk titanium content of undisturbed sediment reflects variations in riverine input and the hydrological cycle over northern tropical South America. A seasonally resolved record of titanium shows that the collapse of Maya civilization in the",
+    "fix_in_current": false,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字；注：该 fix 当前未逐字出现在对应字段（可能已被后续轮次改写或为片段式 fix）"
+   },
+   {
+    "idx": 16,
+    "title": "的的喀喀湖",
+    "source": "openalex-W1934332297",
+    "field": "geo",
+    "scan_round": 128,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1949 年《Geology of the Lake Titicaca Region, Peru and Bolivia》（被引 122）以约一年的野外观察概述的的喀喀湖盆地的地质；本条「的的喀喀湖位于中安第斯高原、跨秘鲁与玻利维亚边界，其盆地构成区别于邻区的独立地质单元」据此。",
+    "abstract_evidence": "The basin of Lake Titicaca in the high plateau of the Central Andes lies across the border between Peru and Bolivia. This memoir based mainly on the author’s observations during approximately 1 year in the field describes in reconnaissance detail the geology of the basin. The area is complex and for",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 17,
+    "title": "复活节岛",
+    "source": "openalex-W2081858996",
+    "field": "geo",
+    "scan_round": 128,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2002 年《A message for our future? The Rapa Nui (Easter Island) ecodisaster…》（被引114）指出该岛独特的考古遗存与地理位置使其备受关注，并检讨「摩艾竞争导致棕榈林毁灭」的生态灾难正统叙事。",
+    "abstract_evidence": "The unique archaeological remains of Rapa Nui (Easter Island) in conjunction with its geographical position have led to a special interest in this place. What has become the orthodox understanding of the material remains, especially the famous large carved stone torsos ( moai ), is that they represe",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 18,
+    "title": "落基山脉",
+    "source": "openalex-W2106865001",
+    "field": "geo",
+    "scan_round": 124,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1998 年《Large-scale geomorphology and fission-track…》（被引39，摘要 3,923 字符）以大尺度地貌与裂变径迹分析研究南部落基山的岩石抬升与剥蚀历史。",
+    "abstract_evidence": "Long-term landscape evolution is the integrative sum of constructive rock-uplift processes and destructive erosional processes. For the Southern Rocky Mountains, it has been proposed that Phanerozoic rock uplift and erosion have been influenced by crustal structure that was inherited from the time o",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 19,
+    "title": "赫梯王国",
+    "source": "openalex-W4280619931",
+    "field": "influence",
+    "scan_round": 127,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2022 年专著讨论赫梯国家形态：以哈图沙为中心，探讨该国如何在高度碎片化的地理格局中协商并行使权威。",
+    "abstract_evidence": "From the mid-seventeenth to the early twelfth centuries BC, Central Anatolia saw the development and expansion of the Hittite state whose influence came to spread beyond the Taurus mountains into Syria and which was seen at the time as one of the Great Powers of the Late Bronze Age. Commonly interpr",
+    "fix_in_current": true,
+    "verdict": "SOFT",
+    "reason": "摘要写明是「The chapter」，fix 称「专著」不准确",
+    "claim": "所引 2022 年专著讨论赫梯国家形态：以哈图沙为中心，探讨该国如何在高度碎片化的地理格局中协商并行使权威。",
+    "fix": "所引 2022 年章节讨论赫梯国家形态：以哈图沙为中心，探讨该国如何在高度碎片化的地理格局中协商并行使权威。"
+   },
+   {
+    "idx": 20,
+    "title": "地球系统科学",
+    "source": "openalex-W2949505632",
+    "field": "influence",
+    "scan_round": 132,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2019 年研究综述了从时间序列推断因果的框架，指出地球系统中真实实验很少可行，而日益增多的观测与模拟数据使超越常用相关技术的数据驱动因果方法成为可能。",
+    "abstract_evidence": "The heart of the scientific enterprise is a rational effort to understand the causes behind the phenomena we observe. In large-scale complex dynamical systems such as the Earth system, real experiments are rarely feasible. However, a rapidly increasing amount of observational and simulated data open",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 21,
+    "title": "奥尔梅克",
+    "source": "openalex-W4250944728",
+    "field": "influence",
+    "scan_round": 124,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2014 年《Discovering the Olmecs》（被引15）记述奥尔梅克考古的发现经历；本条「奥尔梅克以巨型石雕头像闻名」据此。",
+    "abstract_evidence": "The Olmecs are renowned for their massive carved stone heads and other sculptures, the first stone monuments produced in Mesoamerica. Seven decades of archaeological research have given us many insights into the lifeways of the Olmecs, who inhabited parts of the modern Mexican states of Veracruz and",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 22,
+    "title": "阿拉伯征服北非",
+    "source": "openalex-W4285072712",
+    "field": "influence",
+    "scan_round": 121,
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2020 年《A Gateway To Hell, A Gateway To Paradise》研究伊巴德派在北非的早期历史：柏柏尔人借这一信仰反抗中央哈里发政权，并于 777/779 年在提亚雷特建立鲁斯塔姆王朝伊玛目国（至 909 年亡于法蒂玛王朝）。",
+    "abstract_evidence": "This book is a study of the early history of the lbadiyya in North Africa, a 'moderate' movement among the Kharijis which from its base in Basra gradually spread among the Berbers of the Maghrib in the 750s. The Berbers found in this new religious allegiance an attractive ideology with which to rebe",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 23,
+    "title": "城市贫困",
+    "source": "openalex-W2169088426",
+    "field": "influence",
+    "scan_round": 131,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2006 年章节以「社会排斥／整合」为概念框架，指出城市决策者普遍认为空间对居民的生活机会有重要作用，许多区域政策即以空间环境具有独立效应为依据。",
+    "abstract_evidence": "Urban social questions are often related to issues of participation, inclusion and integration of the population in the urban society. When formulated the other way around, it regards a ‘fight’ against social exclusion, often also against segregation, separation and disintegration. Urban-oriented po",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 24,
+    "title": "明清",
+    "source": "openalex-W3095559789",
+    "field": "polities",
+    "scan_round": 122,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2020 年研究（摘要 936 字符）讨论清代卫所（garrison system）改革中国家与地方社会的关系——卫所制度如何与地方社区、身份与资源纠缠，以及清对明制的继承；本条「明清以卫所等制度影响基层社会」据此（该文聚焦军制一侧）。",
+    "abstract_evidence": "This chapter deals with the following issues: the relationship between the garrison system and its political practices and community, status, and resources in local society, that is, the ways in which imperial institutions shaped local society; the Qing inheritance of Ming institutions from the pers",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 25,
+    "title": "帖木儿帝国",
+    "source": "openalex-W7161477855",
+    "field": "polities",
+    "scan_round": 127,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2026 年《Diplomacy of The Timurid Empire》（摘要 1,610 字符）分析帖木儿及其后继者时期的外交体系与对外政策原则；本条「帖木儿借外交确立政治权威、维护商路与对外关系」据此。",
+    "abstract_evidence": "This article examines the diplomatic system and foreign policy of the Timurid Empire during the reign of Amir Temur and his successors. The study analyzes the major principles, strategies, and objectives of Timurid diplomacy in establishing political authority and maintaining international relations",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 26,
+    "title": "松岛冰川退缩",
+    "source": "openalex-W2016162897",
+    "field": "influence",
+    "scan_round": 126,
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2002 年《Annals of Glaciology》研究以卫星雷达干涉数据显示：1990 年代松岛冰川的减薄与接地线后退由 8 年内冰流加速约 18±2% 所致，而思韦茨冰川中部流态基本稳定、两侧展宽。",
+    "abstract_evidence": "Recent satellite investigations revealed that in the 1990s the grounding line of Pine Island and Thwaites Glaciers, West Antarctica, retreated several km, the ice surface on the interior of the basins lowered 10 cm a –1 , and Pine Island Glacier thinned 1.6 ma –1 . These observations, however, were ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 27,
+    "title": "非洲大湖地区",
+    "source": "openalex-W2967976954",
+    "field": "influence",
+    "scan_round": 127,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2019 年研究比较东非各大湖的水文与物理湖沼学特征，指出湖盆形态差异显著（坦噶尼喀湖与马拉维湖为深而狭长的陡壁槽谷，维多利亚湖较浅、近圆形），且水文与水动力资料稀缺零散。",
+    "abstract_evidence": "The lake basins exhibit a variety of types, including the very deep, elongated and steep-sided troughs of Lakes Tanganyika and Malawi, and the more nearly circular, relatively shallow basin on Lake Victoria, with its highly complex, indented shoreline. Hydrologic and hydrodynamic data from these lak",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字"
+   },
+   {
+    "idx": 28,
+    "title": "古埃及早王朝",
+    "source": "openalex-W1982277160",
+    "field": null,
+    "scan_round": 115,
+    "prior_verdict": "SOFT",
+    "audited_fix": "本条「早王朝是法老统治最初五百年、古埃及文明与国家制度的形成期」据此",
+    "abstract_evidence": "Early Dynastic Egypt spans the five centuries preceding the construction of the Great Pyramid at Giza. This was the formative period of ancient Egyptian civilization, and it witnessed the creation of a distinctive culture that was to endure for 3,000 years. This book examines the background to that ",
+    "fix_in_current": false,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字；注：该 fix 当前未逐字出现在对应字段（可能已被后续轮次改写或为片段式 fix）"
+   },
+   {
+    "idx": 29,
+    "title": "蒙古帝国",
+    "source": "openalex-W2291403203",
+    "field": null,
+    "scan_round": 115,
+    "prior_verdict": "SOFT",
+    "audited_fix": "本条「蒙古在全帝国设立的驿站（站赤）制度促进了欧亚各地区间的交流」据此",
+    "abstract_evidence": "The Postal Roads of the Great Khans in Central Asia under the Mongol-Yuan Empire Hosung Shim Introduction The Mongols built up the largest empire in human history, an empire that embraced most of Eurasia during the thirteenth and fourteenth centuries. The unification of Eurasia by the Mongols is con",
+    "fix_in_current": false,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 全部实质内容；fix 中的年份/被引/摘要字符数为元数据，未发现编造的人名、地名或数字；注：该 fix 当前未逐字出现在对应字段（可能已被后续轮次改写或为片段式 fix）"
+   }
+  ],
+  "counts": {
+   "PASS": 28,
+   "SOFT": 2,
+   "FAIL": 0
+  }
+ },
+ "B": {
+  "items": [
+   {
+    "title": "古埃及中王国",
+    "field": "influence",
+    "claim": "本条据此补充历史与考古的社会视角。",
+    "fix": "本条从历史与考古的社会视角补充叙述。",
+    "type": "「据此」后残留赘语",
+    "reason": "「据此」后残留赘语"
+   },
+   {
+    "title": "大分水岭",
+    "field": "geo",
+    "claim": "本条据此补季节性限定。",
+    "fix": "本条对其气候分界作用加季节性限定。",
+    "type": "「据此」后残留赘语",
+    "reason": "「据此」后残留赘语"
+   },
+   {
+    "title": "汉代",
+    "field": "influence",
+    "claim": "所引 2014 年《Fortified settlements and the settlement system in the Northern Zone…》（被引17）以帝国行政与防御体系如何影响聚落格局为问题，指出大型territorial国家与帝国需要复杂的治理与防御系统；",
+    "fix": "所引 2014 年《Fortified settlements and the settlement system in the Northern Zone…》（被引17）以帝国行政与防御体系如何影响聚落格局为问题，指出大型领土国家与帝国需要复杂的治理与防御系统；",
+    "type": "中英混写术语",
+    "reason": "中英混写术语"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "influence",
+    "claim": "所引 1993 年《The Colonization of Beringia and the Peopling of the New World》（被引 241）把白令地区的colonization与中纬度北美最早的考古传统（Paleoindian）联系，并以阿拉斯加中部的发现与重新定年为依据；",
+    "fix": "所引 1993 年《The Colonization of Beringia and the Peopling of the New World》（被引 241）把白令地区的人群移居（colonization）与中纬度北美最早的考古传统（Paleoindian）联系，并以阿拉斯加中部的发现与重新定年为依据；",
+    "type": "中英混写术语",
+    "reason": "中英混写术语"
+   },
+   {
+    "title": "美国西进",
+    "field": "definition",
+    "claim": "美国西进：19世纪美国向北美西部的扩张与settler殖民过程。",
+    "fix": "美国西进：19世纪美国向北美西部的扩张与定居者殖民过程。",
+    "type": "中英混写术语",
+    "reason": "中英混写术语"
+   },
+   {
+    "title": "美国西进",
+    "field": "overview",
+    "claim": "美国西进：19世纪美国向北美西部的扩张与settler殖民过程。",
+    "fix": "美国西进：19世纪美国向北美西部的扩张与定居者殖民过程。",
+    "type": "中英混写术语",
+    "reason": "中英混写术语"
+   },
+   {
+    "title": "美国西进",
+    "field": "influence",
+    "claim": "所引史料集提示：西进的叙述长期以白人 settler 为主体，非裔与其它群体的参与被系统性低估；",
+    "fix": "所引史料集提示：西进的叙述长期以白人定居者 为主体，非裔与其它群体的参与被系统性低估；",
+    "type": "中英混写术语",
+    "reason": "中英混写术语"
+   },
+   {
+    "title": "密克罗尼西亚",
+    "field": "geo",
+    "claim": "海beyond为深海，淡水依赖降雨透镜，对海平面上升极为敏感。",
+    "fix": "岛外海域多为深海，淡水依赖降雨透镜，对海平面上升极为敏感。",
+    "type": "中英混写/残留英文词（语句损坏）",
+    "reason": "中英混写/残留英文词（语句损坏）"
+   },
+   {
+    "title": "蒂亚瓦纳科",
+    "field": "influence",
+    "claim": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；",
+    "fix": "高海拔农业依赖抬升田（raised field）及其排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；",
+    "type": "中英混写术语+同句重复「抬升田」",
+    "reason": "中英混写术语+同句重复「抬升田」"
+   }
+  ],
+  "counts": {
+   "total": 9,
+   "entries_scanned": 243
+  }
+ },
+ "C": {
+  "pool": [
+   {
+    "title": "撒哈拉沙漠",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "撒哈拉沙漠",
+    "field": "polities",
+    "sentence": "跨越撒哈拉的商路使绿洲与沿海区域长期保持互动，政权更替与商路走向、绿洲分布相关；具体政权名称、年代与疆域待专门史料核验。"
+   },
+   {
+    "title": "撒哈拉沙漠",
+    "field": "today",
+    "sentence": "撒哈拉腹地人口稀少，两国人口集中于沿海与河谷；沙漠区内人口与绿洲面积数据待遥感与专门统计核验。"
+   },
+   {
+    "title": "尼罗河谷",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "尼罗河三角洲",
+    "field": "time_or_place",
+    "sentence": "现代环境观测（本条引 2010 年水质研究）"
+   },
+   {
+    "title": "尼罗河三角洲",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "东非大裂谷",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "东非大裂谷",
+    "field": "polities",
+    "sentence": "裂谷沿线的湖泊与高地条件影响聚落与交通，区域政治组织随农牧与贸易格局变化；具体政权与年代待专门史料核验。"
+   },
+   {
+    "title": "东非大裂谷",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "埃塞俄比亚高原",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录，最高海拔为 4,550 m；具体边界与内部差异待专门地理来源核验。"
+   },
+   {
+    "title": "埃塞俄比亚高原",
+    "field": "polities",
+    "sentence": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "刚果盆地",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "几内亚湾沿岸",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "萨赫勒带",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "萨赫勒带",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。"
+   },
+   {
+    "title": "萨赫勒带",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "马格里布",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录，面积为 6,045,741 km²；具体边界与内部差异待专门地理来源核验。"
+   },
+   {
+    "title": "马格里布",
+    "field": "polities",
+    "sentence": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "古埃及早王朝",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "古埃及古王国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "古埃及古王国",
+    "field": "today",
+    "sentence": "金字塔区遗址保护与游客数据待专门来源核验。"
+   },
+   {
+    "title": "古埃及中王国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "古埃及新王国",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前1550年–前1070年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "古埃及新王国",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "库什与努比亚",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前2180年–350年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "库什与努比亚",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "迦太基",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "迦太基",
+    "field": "today",
+    "sentence": "迦太基遗址位于今突尼斯境内，遗产保护与游客数据待核验。"
+   },
+   {
+    "title": "罗马阿非利加",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前146年–439年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "罗马阿非利加",
+    "field": "geo",
+    "sentence": "所引 2004 年 Segermes 项目以突尼斯的单一谷地为对象，重建城镇与其腹地的农业产出；该项目明确声明不覆盖全省，故本条只据它写个案，不据此推断全行省的谷物与橄榄输出（后者待省级调查或产量数据核验）。"
+   },
+   {
+    "title": "罗马阿非利加",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "阿拉伯征服北非",
+    "field": "time_or_place",
+    "sentence": "7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）"
+   },
+   {
+    "title": "阿拉伯征服北非",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "法蒂玛王朝",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "加纳帝国",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 100年–1200年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "加纳帝国",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "马里帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "马里帝国",
+    "field": "influence",
+    "sentence": "贸易对帝国财政的作用待专门研究核验。"
+   },
+   {
+    "title": "马里帝国",
+    "field": "polities",
+    "sentence": "帝国依托尼日尔河与跨撒哈拉商路的区位形成，其兴起与贸易线路、绿洲节点相关；具体王朝序列与年代待专门史料核验。"
+   },
+   {
+    "title": "马里帝国",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "桑海帝国",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 1464年–1591年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "桑海帝国",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "大津巴布韦",
+    "field": "time_or_place",
+    "sentence": "11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）"
+   },
+   {
+    "title": "大津巴布韦",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "斯瓦希里海岸",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "斯瓦希里海岸",
+    "field": "polities",
+    "sentence": "海岸城邦依托港湾与季风航道形成贸易网络，外来势力介入改变区域格局；具体城邦名单与年代待专门史料核验。"
+   },
+   {
+    "title": "非洲大湖地区",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "南极大陆",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "南极大陆",
+    "field": "polities",
+    "sentence": "南极无主权国家，领土主张由南极条约体系冻结，国际合作管理科研与环境保护；具体条款与年份待官方来源核验。"
+   },
+   {
+    "title": "南极半岛",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "南极冰盖",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "南极冰盖",
+    "field": "polities",
+    "sentence": "冰盖研究由多国科考计划合作推进，数据通过国际计划共享；具体计划待官方来源核验。"
+   },
+   {
+    "title": "南极冰盖",
+    "field": "today",
+    "sentence": "冰盖质量变化趋势需引用最新卫星观测；具体数值待按年份从 NASA 机构页核验。"
+   },
+   {
+    "title": "南极条约体系",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "南极条约体系",
+    "field": "polities",
+    "sentence": "缔约国通过定期协商会议制定措施，环境议定书强化保护义务；具体条款、年份与成员情况待官方来源核验。"
+   },
+   {
+    "title": "冰芯气候记录",
+    "field": "polities",
+    "sentence": "多国钻探计划通过国际合作共享样品与数据，形成长期观测体系；具体计划与条款待研究机构核验。"
+   },
+   {
+    "title": "南极洲无农业的环境约束",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "南极特别保护区",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "松岛冰川退缩",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "两河流域",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "两河流域",
+    "field": "polities",
+    "sentence": "冲积平原的水利与城市条件支撑早期政治组织，区域在多个时期被不同政权整合；具体王朝序列与年代待专门史料核验。"
+   },
+   {
+    "title": "两河流域",
+    "field": "today",
+    "sentence": "两河水量分配与灌溉面积数据待专门统计与流域机构核验。"
+   },
+   {
+    "title": "苏美尔城邦",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "苏美尔城邦",
+    "field": "today",
+    "sentence": "南部遗址群保护状况与考古进展待专门来源核验。"
+   },
+   {
+    "title": "阿卡德帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "阿卡德帝国",
+    "field": "today",
+    "sentence": "相关遗址与文献释读进展待专门来源核验。"
+   },
+   {
+    "title": "古巴比伦",
+    "field": "time_or_place",
+    "sentence": "约公元前2千纪初至前1千纪（古巴比伦王国；后期巴比伦在波斯与塞琉古治下延续，本条引 2017 年晚期巴比伦经济研究）"
+   },
+   {
+    "title": "古巴比伦",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "亚述帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "赫梯王国",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "geo",
+    "sentence": "高原、沙漠与山口影响行军路线与区域联系，具体交通网络细节待专门史料核验。"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "polities",
+    "sentence": "Livius 的居鲁士专题页记载其兴起、巴比伦与安纳托利亚等地的扩张，并述及被称为 satrap 的附庸王；王表与年代序列待专门史料逐条核验。"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "today",
+    "sentence": "波斯波利斯等遗址保护与游客数据待核验。"
+   },
+   {
+    "title": "帕提亚帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "萨珊波斯",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "印度河文明",
+    "field": "polities",
+    "sentence": "是否形成统一国家尚无定论，城市体系的治理形态待专门考古研究核验。"
+   },
+   {
+    "title": "吠陀时代",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "孔雀王朝",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "贵霜帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "笈多王朝",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 320年–550年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "笈多王朝",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "黄河流域",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "长江流域",
+    "field": "geo",
+    "sentence": "量值说明：本条引用的 Wikidata 数值是长江河流长度（约6300千米），流域面积在本环境可获得的结构化数据中缺失，待专门水文来源核验。"
+   },
+   {
+    "title": "长江流域",
+    "field": "polities",
+    "sentence": "本条不展开具体政权序列；流域内的政治整合与行政沿革待专门史学来源核验。"
+   },
+   {
+    "title": "长江流域",
+    "field": "connections",
+    "sentence": "通过长江口与沿海港口连接海上贸易网络，形成内陆—沿海双重联系；与黄河流域的历史联系待专门史料核验。"
+   },
+   {
+    "title": "仰韶文化",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "商代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前1600年–前1046年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "商代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "周代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前1046年–前256年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "周代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "秦代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前221年–前206年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "秦代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "秦代",
+    "field": "polities",
+    "sentence": "所引 2019 年研究讨论秦统一后的大规模赐爵、黔首身份与县属吏（里耶秦简），不涉度量衡；本条只据此写「统一后的爵制与地方行政」，度量衡与郡县制待专门制度史来源核验。"
+   },
+   {
+    "title": "汉代",
+    "field": "polities",
+    "sentence": "西汉—新朝—东汉的帝系与年号待专门史学来源逐条核验。"
+   },
+   {
+    "title": "隋唐",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "宋代",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "宋代",
+    "field": "polities",
+    "sentence": "该时期政治中心与北方政权的互动影响疆域与财政结构；具体年代、战役与制度细节待专门史料核验。"
+   },
+   {
+    "title": "元代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 1271年–1368年；具体疆域与制度演变待专门史学来源核验。"
+   },
+   {
+    "title": "元代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。"
+   },
+   {
+    "title": "明清",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "朝鲜半岛",
+    "field": "time_or_place",
+    "sentence": "地质与植被史尺度（本条引 2000 年半岛植被史研究，资料覆盖二叠纪至今）"
+   },
+   {
+    "title": "朝鲜半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "日本列岛",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "日本列岛",
+    "field": "polities",
+    "sentence": "列岛历史上形成多个区域政权，近代以后政治结构经历显著变化；具体王朝与年代待专门来源核验。"
+   },
+   {
+    "title": "日本列岛",
+    "field": "today",
+    "sentence": "列岛人口集中于沿海平原，具体分布数据待专门来源核验。"
+   },
+   {
+    "title": "中南半岛",
+    "field": "time_or_place",
+    "sentence": "地质与气候尺度（本条引 2007 年风化研究）"
+   },
+   {
+    "title": "中南半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "湄公河三角洲",
+    "field": "time_or_place",
+    "sentence": "现代水文观测（本条引 2014 年地面沉降研究）"
+   },
+   {
+    "title": "湄公河三角洲",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "湄公河三角洲",
+    "field": "today",
+    "sentence": "三角洲稻米产量与沉降速率数据待专门来源核验。"
+   },
+   {
+    "title": "吴哥",
+    "field": "time_or_place",
+    "sentence": "鼎盛期约 9–15 世纪；本条所引研究覆盖的衰落期为 14–15 世纪（9 世纪起点待专门史学来源核验）"
+   },
+   {
+    "title": "吴哥",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "马来群岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "室利佛逝",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "满者伯夷",
+    "field": "time_or_place",
+    "sentence": "13–16世纪（满者伯夷；本条引 2022 年研究）"
+   },
+   {
+    "title": "满者伯夷",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "河中地区",
+    "field": "time_or_place",
+    "sentence": "区域地理与历史；本条引 2017 年多学科研究"
+   },
+   {
+    "title": "河中地区",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "丝绸之路",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "丝绸之路",
+    "field": "polities",
+    "sentence": "沿线政权为商路提供安全与制度条件，绿洲城邦在商队与定居社会之间充当中介；具体政权与时段划分待专门史料核验。"
+   },
+   {
+    "title": "匈奴",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "突厥",
+    "field": "time_or_place",
+    "sentence": "6世纪中叶至8世纪（突厥汗国；其后突厥语人群继续扩展，本条引 2015 年遗传研究）"
+   },
+   {
+    "title": "突厥",
+    "field": "polities",
+    "sentence": "更具体的汗国世系与分裂过程待专门突厥史专著核验。"
+   },
+   {
+    "title": "蒙古帝国",
+    "field": "polities",
+    "sentence": "大汗世系与各汗国年代待专门史学来源核验。"
+   },
+   {
+    "title": "帖木儿帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "青藏高原",
+    "field": "polities",
+    "sentence": "历史上高原与周边地区存在长期互动，形成多样的地方政权与宗教文化网络；具体年代与政权序列待专门来源核验。"
+   },
+   {
+    "title": "青藏高原",
+    "field": "today",
+    "sentence": "以中国为例（高原部分数据待省级统计核验），来源：世界银行 API。"
+   },
+   {
+    "title": "青藏高原",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "阿拉伯半岛",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录，面积为 3,200,000 km²；具体边界与内部差异待专门地理来源核验。"
+   },
+   {
+    "title": "阿拉伯半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "黎凡特",
+    "field": "time_or_place",
+    "sentence": "区域地理与古气候（本条引 2018 年 4.2 ka 事件研究）"
+   },
+   {
+    "title": "黎凡特",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "安纳托利亚",
+    "field": "time_or_place",
+    "sentence": "高原地理与早期农业（本条引 2018 年安纳托利亚高原农业起源研究）"
+   },
+   {
+    "title": "安纳托利亚",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "东亚季风",
+    "field": "time_or_place",
+    "sentence": "气候尺度（本条引 2015 年降水变率研究）"
+   },
+   {
+    "title": "东亚季风",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "爱琴海世界",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "爱琴海世界",
+    "field": "polities",
+    "sentence": "岛屿与海湾条件促成海上贸易与城邦分立，区域后被更大政治体整合；具体文明阶段与年代待专门史料核验。"
+   },
+   {
+    "title": "爱琴海世界",
+    "field": "today",
+    "sentence": "爱琴海岛屿的人口与旅游数据待专门统计核验。"
+   },
+   {
+    "title": "克里特文明",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "克里特文明",
+    "field": "polities",
+    "sentence": "岛屿的港湾与农业条件支撑宫殿中心与海上交换，其后区域文化重心转移；具体年代与政治形态待专门史料核验。"
+   },
+   {
+    "title": "克里特文明",
+    "field": "today",
+    "sentence": "克里特岛遗址保护与游客数据待核验。"
+   },
+   {
+    "title": "迈锡尼文明",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "古希腊城邦",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "古希腊城邦",
+    "field": "polities",
+    "sentence": "Livius 的 Polis、Athens 与 Greece 页面提供城邦概念和主要城邦的专题入口，可支撑城邦作为基本单位的概述；具体政体演变待逐条核验。"
+   },
+   {
+    "title": "马其顿与亚历山大",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "罗马共和国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "罗马共和国",
+    "field": "polities",
+    "sentence": "Livius 的 Roman Republic 与 Italy 分类页提供专题入口，可支撑概述；具体执政官年表与战役序列待逐条核验。"
+   },
+   {
+    "title": "罗马共和国",
+    "field": "today",
+    "sentence": "罗马城遗址与遗产旅游数据待核验。"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "influence",
+    "sentence": "所引 2012 年《Travel and Geography in the Roman Empire》（被引 293）为论文集，编者导言综述的正是运输通信对统治的必要性；「统一市场」「法律」「城市化」「尼罗河与北非粮食供应」四项不在该摘要内，市场整合程度与城市化水平待专门研究核验。"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "polities",
+    "sentence": "地中海航运与道路网络支撑跨区域整合，后期治理结构分化；具体改革、年代与疆域变动待专门史料核验。"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "拜占庭帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "意大利半岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度（新生代以来）；本条引 1975 年古地磁研究"
+   },
+   {
+    "title": "意大利半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "伊比利亚半岛",
+    "field": "time_or_place",
+    "sentence": "区域地理与人文（本条引 2007 年野生食用植物传统知识研究）"
+   },
+   {
+    "title": "伊比利亚半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "高卢",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "polities",
+    "sentence": "本条只写自然地理背景，不在此叙述具体王朝与政权序列；相关历史条目待专门来源核验后再展开。"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "today",
+    "sentence": "爱尔兰相关指标待补；群岛内港口货运数据需专门统计核验。"
+   },
+   {
+    "title": "阿尔卑斯山",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "多瑙河",
+    "field": "time_or_place",
+    "sentence": "流域水文观测与模拟研究（本条引 2017 年流域模型研究）"
+   },
+   {
+    "title": "多瑙河",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "莱茵河",
+    "field": "time_or_place",
+    "sentence": "航运与生态研究（本条引 2009 年莱茵河扩散研究）"
+   },
+   {
+    "title": "莱茵河",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "维京时代",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "维京时代",
+    "field": "polities",
+    "sentence": "斯堪的纳维亚的航海条件与河流网络支撑贸易、殖民与迁徙，王权与宗教变迁重塑区域格局；具体年代与事件待专门史料核验。"
+   },
+   {
+    "title": "法兰克王国",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "神圣罗马帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "十字军东征",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "汉萨同盟",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "威尼斯",
+    "field": "time_or_place",
+    "sentence": "共和国终结于 1797 年（待专门史学来源核验）"
+   },
+   {
+    "title": "威尼斯",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "polities",
+    "sentence": "半岛城邦依托商业财富与竞争形成文化中心，政治地图由多个城邦与领地构成；具体年代与人物待专门史料核验。"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "today",
+    "sentence": "北部城市带仍是制造业与文化中心；具体游客与经济数据待核验。"
+   },
+   {
+    "title": "基辅罗斯",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "莫斯科公国",
+    "field": "time_or_place",
+    "sentence": "13–16世纪（莫斯科大公国；本条引 2017 年印刷术研究）"
+   },
+   {
+    "title": "莫斯科公国",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "巴尔干半岛",
+    "field": "time_or_place",
+    "sentence": "区域地理与生物多样性（本条引 2004 年巴尔干生物多样性研究）"
+   },
+   {
+    "title": "巴尔干半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "斯堪的纳维亚",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "欧洲冰期地貌",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "黑海海峡",
+    "field": "time_or_place",
+    "sentence": "地理通道；本条引 2011 年关于达达尼尔海峡的研究"
+   },
+   {
+    "title": "黑海海峡",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "欧洲温带海洋性气候",
+    "field": "time_or_place",
+    "sentence": "气候尺度（本条引 2005 年温盐环流研究）"
+   },
+   {
+    "title": "欧洲温带海洋性气候",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "中世纪欧洲庄园农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "板块构造",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "大陆漂移",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "季风系统",
+    "field": "polities",
+    "sentence": "季风区农业依赖粮食收成与水管理，但季风与国家形成之间不存在必然对应；具体案例与年代待专门来源核验。"
+   },
+   {
+    "title": "洋流",
+    "field": "polities",
+    "sentence": "海洋观测与航运依赖国际协作，航线与海底设施受海流影响；具体制度与年代待专门来源核验。"
+   },
+   {
+    "title": "气候带",
+    "field": "polities",
+    "sentence": "不同气候区的资源利用方式各异，制度与历史同样塑造区域差异；具体分类体系待专门来源核验。"
+   },
+   {
+    "title": "沙漠化",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "河流三角洲",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "河流三角洲",
+    "field": "polities",
+    "sentence": "三角洲的水利与港口条件支撑人口与城市发展，管理长期是公共事务；具体案例与年代待专门来源核验。"
+   },
+   {
+    "title": "冲积平原",
+    "field": "time_or_place",
+    "sentence": "地质尺度（本条引 2005 年冲积序列研究）"
+   },
+   {
+    "title": "冲积平原",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "山地农业",
+    "field": "time_or_place",
+    "sentence": "现代农业研究（本条引 1998 年肯尼亚高地长期试验研究）"
+   },
+   {
+    "title": "山地农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "游牧",
+    "field": "polities",
+    "sentence": "草原联盟、绿洲城邦与定居政权长期互动，贸易与冲突并存；具体政权名称与年代待专门来源核验。"
+   },
+   {
+    "title": "城市起源",
+    "field": "polities",
+    "sentence": "起源时期的治理形态（神庙经济、城邦议事、家庭生产单位）存在竞争性解释，待专门考古与文献研究核验。"
+   },
+   {
+    "title": "人口迁移",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "人口迁移",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。"
+   },
+   {
+    "title": "地理信息系统",
+    "field": "time_or_place",
+    "sentence": "方法体系（形成年代待专门来源核验）"
+   },
+   {
+    "title": "地理信息系统",
+    "field": "polities",
+    "sentence": "本条不展开政权序列；数据标准与互操作规范由行业组织制定，具体标准条文待专门资料核验。"
+   },
+   {
+    "title": "人口地理",
+    "field": "polities",
+    "sentence": "本条不展开政权序列；人口治理涉及户籍、移民与公共服务等制度安排，具体制度待专门资料核验。"
+   },
+   {
+    "title": "城市地理",
+    "field": "polities",
+    "sentence": "本条不展开具体政权序列；城市规划与土地制度因国家而异，细节待专门资料核验。"
+   },
+   {
+    "title": "地图投影",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "争议边界处理原则",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "生物多样性分布",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "海洋保护区",
+    "field": "influence",
+    "sentence": "划定受政治意愿与渔业利益制约；「覆盖面积」不等于「管理成效」，执法经费与能力与保护成效相关（具体归因待专门评估研究核验）。"
+   },
+   {
+    "title": "城市热岛",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "自然灾害风险",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "渔业资源",
+    "field": "polities",
+    "sentence": "本条不展开政权序列；配额分配、渔业权属与执法属治理议题，具体制度待专门资料核验。"
+   },
+   {
+    "title": "极端天气预警",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "环境治理",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "可持续交通",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "地理空间数据产品",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "火灾生态",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "玛雅研究新进展",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "农业气候风险",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "地球系统科学",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "环境数据访问",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "人文地理学",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "polities",
+    "sentence": "史前迁徙与陆桥出露相关，尚不能对应后世政权；相关讨论属史前史与人类演化研究，具体年代待专门来源核验。"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "today",
+    "sentence": "上述为两国全国口径数据，仅示量级，不代表白令海峡区域的内部差异；该区域人口与生态数据待专门统计与机构来源核验。"
+   },
+   {
+    "title": "北美冰盖",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "北美冰盖",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "大平原",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "大平原",
+    "field": "polities",
+    "sentence": "原住民社会、外来定居者与后来的农业经营先后改变土地利用格局；具体政策与年代待专门史料核验。"
+   },
+   {
+    "title": "大平原",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "密西西比河",
+    "field": "polities",
+    "sentence": "流域与原住民社会、殖民边疆和现代州际治理密切相关；具体政治事件待专门史料核验。"
+   },
+   {
+    "title": "落基山脉",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "落基山脉",
+    "field": "polities",
+    "sentence": "山地资源与通道条件影响土地利用，原住民、外来定居者与国家公园体系先后塑造管理格局；具体年代待专门史料核验。"
+   },
+   {
+    "title": "落基山脉",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "阿巴拉契亚山脉",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "五大湖",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "五大湖",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。"
+   },
+   {
+    "title": "五大湖",
+    "field": "connections",
+    "sentence": "五个湖泊以水道相连，并汇入圣劳伦斯水系；具体通航与流域边界细节待专题页核验。"
+   },
+   {
+    "title": "科罗拉多高原",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "科罗拉多高原",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。"
+   },
+   {
+    "title": "科罗拉多高原",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "墨西哥湾",
+    "field": "time_or_place",
+    "sentence": "现代海洋观测（本条引 2014 年表层海洋条件研究）"
+   },
+   {
+    "title": "墨西哥湾",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "中美洲地峡",
+    "field": "polities",
+    "sentence": "地峡历史上连接中美洲文明与南美、加勒比区域，近代形成多个国家；具体政权序列待专门来源核验。"
+   },
+   {
+    "title": "中美洲地峡",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "奥尔梅克",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "奥尔梅克",
+    "field": "polities",
+    "sentence": "以祭祀中心为核心的社群网络可能是主要形态，其后中美洲文化与之存在艺术与宗教联系；具体政治结构与年代待专门史料核验。"
+   },
+   {
+    "title": "奥尔梅克",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "polities",
+    "sentence": "雨林中的城邦长期并立，中心兴衰更替；具体城邦名单与年代待专门史料核验。"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "特奥蒂瓦坎",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "阿兹特克",
+    "field": "polities",
+    "sentence": "统治者序列与贡赋制度待专门史学来源逐条核验。"
+   },
+   {
+    "title": "北美原住民",
+    "field": "polities",
+    "sentence": "本条不展开具体族群的政治序列；不同区域的社会组织形态差异极大，待专门的民族志与考古研究核验。"
+   },
+   {
+    "title": "西北海岸",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "格陵兰岛",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "格陵兰岛",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。"
+   },
+   {
+    "title": "格陵兰岛",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "新法兰西",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "十三殖民地",
+    "field": "time_or_place",
+    "sentence": "17世纪初至1783年（巴黎条约承认独立）；本条原引文献仅覆盖1763年断面，1783 年待专门来源核验"
+   },
+   {
+    "title": "十三殖民地",
+    "field": "overview",
+    "sentence": "本条以地理描述为主；政治与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "十三殖民地",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "美国西进",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "加勒比海群岛",
+    "field": "time_or_place",
+    "sentence": "生物地理尺度（本条引 1975 年加勒比生物地理研究）"
+   },
+   {
+    "title": "加勒比海群岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "古巴岛",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "澳大利亚大陆",
+    "field": "polities",
+    "sentence": "原住民社会长期适应多样生态，外来统治后形成新的政治与经济结构；具体年代与政策待专门史料核验。"
+   },
+   {
+    "title": "澳大利亚大陆",
+    "field": "today",
+    "sentence": "内陆人口密度与水资源数据待专门统计来源核验。"
+   },
+   {
+    "title": "大分水岭",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "大分水岭",
+    "field": "polities",
+    "sentence": "内陆开拓与水资源政策同山地分水岭条件相关；具体年代与制度待专门史料核验。"
+   },
+   {
+    "title": "大分水岭",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "大自流盆地",
+    "field": "time_or_place",
+    "sentence": "地质尺度（本条引 1986 年氯-36 定年研究）"
+   },
+   {
+    "title": "大自流盆地",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "polities",
+    "sentence": "以族群与亲属组织为主的社会结构长期存在，外来统治后经历剧烈变迁与权利运动；具体年代与政策待专门史料核验。"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "today",
+    "sentence": "以澳大利亚为例（原住民人口另计，待专门统计核验），来源：世界银行 API。"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "新西兰北岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度（本条引 1996 年火山灰年代学研究）"
+   },
+   {
+    "title": "新西兰北岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "新西兰南岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度（新生代以来）；本条引 1983 年地体研究"
+   },
+   {
+    "title": "新西兰南岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "毛利人",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "毛利人",
+    "field": "polities",
+    "sentence": "部落与王国组织在岛屿条件下发展，现代政治中族群拥有法定代表与权利机制；具体年代与制度待专门史料核验。"
+   },
+   {
+    "title": "毛利人",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "美拉尼西亚",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "密克罗尼西亚",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "波利尼西亚",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "波利尼西亚",
+    "field": "polities",
+    "sentence": "岛屿条件促成远洋定居与酋邦组织，与外部世界接触后政治与人口结构显著变化；具体年代与岛群差异待专门史料核验。"
+   },
+   {
+    "title": "波利尼西亚",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "夏威夷群岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度；本条引 1963 年关于群岛成因的研究"
+   },
+   {
+    "title": "夏威夷群岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "复活节岛",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "大堡礁",
+    "field": "time_or_place",
+    "sentence": "生态尺度（本条引 2003 年珊瑚除草剂影响研究）"
+   },
+   {
+    "title": "大堡礁",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "太平洋殖民航线",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "澳大利亚内陆干旱气候",
+    "field": "time_or_place",
+    "sentence": "气候尺度；本条引 2013 年干旱区生态研究"
+   },
+   {
+    "title": "澳大利亚内陆干旱气候",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "澳大利亚混合农业",
+    "field": "time_or_place",
+    "sentence": "20世纪以来的农业变迁（本条引 1982 年生产率研究）"
+   },
+   {
+    "title": "澳大利亚混合农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "安第斯山脉",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "安第斯山脉",
+    "field": "polities",
+    "sentence": "高原与海岸间的道路与驿站系统强化区域联系，多个政权先后影响安第斯地区；具体政权序列与年代待专门史料核验。"
+   },
+   {
+    "title": "安第斯山脉",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "亚马逊盆地",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "亚马逊盆地",
+    "field": "polities",
+    "sentence": "本条不展开具体政权序列；土地使用与族群关系的历史待专门史料核验。"
+   },
+   {
+    "title": "巴西高原",
+    "field": "time_or_place",
+    "sentence": "地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）"
+   },
+   {
+    "title": "巴西高原",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "拉普拉塔平原",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "拉普拉塔平原",
+    "field": "polities",
+    "sentence": "土地制度与港口城市深刻影响区域政治经济；具体政策、年代与政权变动待专门史料核验。"
+   },
+   {
+    "title": "拉普拉塔平原",
+    "field": "today",
+    "sentence": "两国农牧业产值与播种面积数据待专门统计来源核验。"
+   },
+   {
+    "title": "巴塔哥尼亚",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "阿塔卡马沙漠",
+    "field": "polities",
+    "sentence": "从谷地社会到现代矿业经济，资源治理长期是核心议题；具体制度与年代待专门史料核验。"
+   },
+   {
+    "title": "阿塔卡马沙漠",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "的的喀喀湖",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "查文文化",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "莫切文化",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "纳斯卡文化",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "蒂亚瓦纳科",
+    "field": "influence",
+    "sentence": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。"
+   },
+   {
+    "title": "蒂亚瓦纳科",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "奇穆帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。"
+   },
+   {
+    "title": "印加帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）"
+   },
+   {
+    "title": "印加帝国",
+    "field": "polities",
+    "sentence": "帝国依托高原道路与梯田组织资源，其后因内部冲突与外来征服而解体；具体年代、君主序列与战役待专门史料核验。"
+   },
+   {
+    "title": "印加帝国",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。"
+   },
+   {
+    "title": "马丘比丘",
+    "field": "geo",
+    "sentence": "（具体海拔数值待专门来源核验，本条不写具体高度。"
+   },
+   {
+    "title": "马丘比丘",
+    "field": "influence",
+    "sentence": "梯田与排水系统为常识性工程描述，摘要未涉，待专门来源核验。"
+   },
+   {
+    "title": "马丘比丘",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "安第斯垂直农业",
+    "field": "time_or_place",
+    "sentence": "长期实践；本条引 2000 年垂直温度趋势研究"
+   },
+   {
+    "title": "安第斯垂直农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "南美贸易网络",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   },
+   {
+    "title": "巴西殖民经济",
+    "field": "time_or_place",
+    "sentence": "1500–1822年（本条引 2024 年殖民巴西社会与政府研究）"
+   },
+   {
+    "title": "巴西殖民经济",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。"
+   },
+   {
+    "title": "南锥体",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。"
+   }
+  ],
+  "items": [
+   {
+    "title": "蒂亚瓦纳科",
+    "field": "influence",
+    "claim": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；",
+    "verdict": "误排",
+    "reason": "该句因含「待专门来源核验」被归入排除池，但后半「专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态」实为陈述所引研究的具体发现，应按所引句接受摘要核对，不应整句排除",
+    "fix": "高海拔农业依赖抬升田（raised field）及其排水与保温效应（冻害防护待专门来源核验）；所引研究显示其农业生产组织高度技术化，但该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。"
+   }
+  ],
+  "counts": {
+   "pool": 337,
+   "judged": 337,
+   "correctly_excluded": 336,
+   "misexcluded": 1
+  }
+ },
+ "D": {
+  "items": [
+   {
+    "title": "马里帝国",
+    "field": "influence",
+    "source": "openalex-W2089041290",
+    "claim": "所引 1982 年《Myth and Metrology: The Early Trans-Saharan Gold Trade》讨论跨撒哈拉黄金贸易的早期存在与其度量（称量）标准的源流；",
+    "fix": "删去该句，或改为不依赖该来源的表述（不出现「所引」及该文年份/题名）",
+    "reason": "pending_notes【第56轮R19第二层】把该文标为「旁证，不作马里帝国的主来源」，正文仍以「所引 1982 年…本条据此」作依据"
+   },
+   {
+    "title": "莱茵河",
+    "field": "geo",
+    "source": "openalex-W2041834890",
+    "claim": "所引 2005 年《The Rhine: An Eco-Biography, 1815–2000》（摘要 4,440 字符）以生态传记方式叙述莱茵河两个世纪的环境变迁（含渠化、污染与治理）；",
+    "fix": "删去该句，或改为不依赖该来源的表述（不出现「所引」及该文年份/题名）",
+    "reason": "pending_notes【第93轮审计修正·书评】已把该书评「降为旁证」，正文仍以「所引 2005 年…据此」作依据"
+   }
+  ],
+  "counts": {
+   "candidates_matched": 11,
+   "confirmed": 2,
+   "note": "其余 9 个匹配为误配：旁证标记指向同条其他文献（「此前的侧面文献仍保留为旁证」）或年份巧合（澳大利亚大陆 2007 年句实引 Gawler 克拉通 W2020779706）"
+  }
+ }
+}

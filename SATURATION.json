@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 135,
+  "last_round": 136,
   "history": [
     {
       "round": 1,
@@ -844,5 +844,5 @@
     "拉普拉塔平原"
   ],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第135轮审计发现 A 类 SOFT 3、B 类机械缺陷 3，仍非零缺口；连续计数保持 0。"
+  "zero_gap_streak_note": "第136轮审计发现 14 项（A2/B9/C1/D2），非零缺口；连续计数保持 0。C 类 336 句未逐句人工通读，列入第137轮。"
 }

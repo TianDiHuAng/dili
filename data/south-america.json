@@ -468,14 +468,14 @@
         "openalex-W1977311725"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2332228214（1991年，「The Technology and Organization of Agricultural Production in th」，DOI https://doi.org/10.2307/972273，Latin American Antiquity）； 年代以「约公元500–1000年（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W1977311725（2006年，《The changing ‘nature’ of Tiwanaku religion and the rise of an Andean s》，World Archaeology，DOI 10.1080/00438240600813541，被引 45）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。  【第67轮语义抽检】删去「冻害规避技术」（摘要无）；把「技术—组织是国家形成的条件」（因果反转）改为「该文讨论国家内部的组织形态」；年代按摘要 ca. AD 400–1000 调整为「约400–1000」并注明学界有异说。geo 中「海拔约3800米」加待核标记。",
+      "pending_notes": "第15轮复核：南美洲×政权更替；新增背景来源 s011-unesco-org，现有来源均已核验，但按 D041 须补含主题关键词的专题页，政权年代序列与制度细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2332228214（1991年，「The Technology and Organization of Agricultural Production in th」，DOI https://doi.org/10.2307/972273，Latin American Antiquity）； 年代以「约公元500–1000年（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W1977311725（2006年，《The changing ‘nature’ of Tiwanaku religion and the rise of an Andean s》，World Archaeology，DOI 10.1080/00438240600813541，被引 45）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。  【第67轮语义抽检】删去「冻害规避技术」（摘要无）；把「技术—组织是国家形成的条件」（因果反转）改为「该文讨论国家内部的组织形态」；年代按摘要 ca. AD 400–1000 调整为「约400–1000」并注明学界有异说。geo 中「海拔约3800米」加待核标记。 【第136轮审计】中英混写术语+同句重复「抬升田」",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
       "last_update": "2026-11-25",
       "geo": "位于海拔约3800米的玻利维亚高原，气候寒冷干旱；的的喀喀湖调节局部温度，湖岸与高地之间的不同海拔带可分层利用。",
-      "influence": "高海拔农业依赖raised field（抬升田）与抬升田的排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。",
+      "influence": "高海拔农业依赖抬升田（raised field）及其排水与保温效应（摘要未涉冻害，待专门来源核验），专门研究显示其农业生产组织高度技术化；该文讨论的是国家内部的组织形态，并未论断这些技术是国家形成的原因。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "通过湖泊与高原道路连接秘鲁南部、智利北部与阿根廷西北部，是安第斯南部交换网络的中心。",
       "today": "（本条的当代指标不在本页展开。）",
