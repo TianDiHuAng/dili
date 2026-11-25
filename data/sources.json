@@ -10651,6 +10651,20 @@
       "verified": true,
       "page_title": "Beyond the Mali Empire – A New Paradigm for the Sunjata Epic.",
       "note": "OpenAlex 作品 W2967453577（DOI None）；2018年；被引 42；类型 article。HTTP 200，14276 字节。摘要长度 989 字符。经 Crossref query.bibliographic 相关度检索 + DOI 桥取得，摘要已人工阅读。"
+    },
+    {
+      "id": "openalex-W3121385383",
+      "title": "OpenAlex W3121385383 — Spatial variation of erosion rates and passive margin escarpment embayment from New England, NSW and Bellenden Ker, Queensland",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2020,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/W3121385383",
+      "url2": "https://doi.org/10.5194/egusphere-egu2020-10431",
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Spatial variation of erosion rates and passive margin escarpment embayment from New England, NSW and Bellenden Ker, Queensland",
+      "abstract_quote": "The eastern seaboard of Australia is characterized by a passive margin and a continental divide that separates the inland-draining rivers from those that drain to the Coral and Tasman seas.",
+      "note": "OpenAlex 作品 W3121385383（DOI 10.5194/egusphere-egu2020-10431）；2020年；被引 0；类型 conference-abstract。HTTP 200，22011 字节。摘要长度 3246 字符。经 Crossref query.bibliographic 相关度检索 + DOI 桥取得，摘要已人工阅读。"
     }
   ]
 }

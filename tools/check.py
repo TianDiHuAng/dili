@@ -134,6 +134,10 @@ def _norm_text(s):
     return "".join(c for c in s if not unicodedata.combining(c))
 
 
+_EQ = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "object_equiv.json")
+OBJ_EQUIV = json.load(open(_EQ, encoding="utf-8")) if os.path.exists(_EQ) else {}
+
+
 def check_object_word(e, sources, objmap):
     """R20（D105 第二层）：核心条目的学术来源标题须含条目对象词；已标「旁证」者豁免。"""
     title = e.get("title")
@@ -153,7 +157,13 @@ def check_object_word(e, sources, objmap):
             continue
         ti = _norm_text((sources.get(sid) or {}).get("title"))
         if not any(_norm_text(o) in ti for o in objs):
-            err(f"R20 {e['id']}: 来源 {sid} 标题不含对象词 {objs[:2]}（D105 第二层）")
+            # D141 第二通道：标题无对象词时，来源须带逐字摘要摘录 abstract_quote，
+            # 且摘录含对象词，或含 object_equiv.json 中为本条登记的某组等价词（组内词须全部出现）
+            q = _norm_text((sources.get(sid) or {}).get("abstract_quote"))
+            eqs = OBJ_EQUIV.get(title, [])
+            if q and (any(_norm_text(o) in q for o in objs) or any(all(_norm_text(w) in q for w in g) for g in eqs)):
+                continue
+            err(f"R20 {e['id']}: 来源 {sid} 标题不含对象词 {objs[:2]}，且无合格摘要摘录（D105/D141）")
 
 
 def main():
