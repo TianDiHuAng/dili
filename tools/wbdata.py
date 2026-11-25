@@ -8,21 +8,35 @@ BASE = "https://api.worldbank.org/v2/country/{c}/indicator/{ind}?format=json&per
 
 def _path(ind, c): return os.path.join(CACHE, f"{ind}_{c}.json")
 
+_last = [0.0]
+def _ok(d):
+    return isinstance(d, list) and len(d) > 1 and isinstance(d[1], list)
+
 def series(ind, c="WLD"):
     os.makedirs(CACHE, exist_ok=True)
     p = _path(ind, c)
-    if not os.path.exists(p) or os.path.getsize(p) < 40:
+    d = None
+    if os.path.exists(p) and os.path.getsize(p) > 40:
+        try: d = json.load(open(p, encoding="utf-8"))
+        except Exception: d = None
+    if not _ok(d):
         url = BASE.format(c=c, ind=ind)
-        for _ in range(3):
+        for _ in range(6):
+            dt = time.time() - _last[0]
+            if dt < 1.2: time.sleep(1.2 - dt)
             subprocess.run(["curl", "-L", "-sS", "--ssl-no-revoke", "--compressed", "-m", "60",
-                            "-A", "Mozilla/5.0", "-H", "Accept: application/json", "-o", p, url], capture_output=True)
-            if os.path.exists(p) and os.path.getsize(p) > 40: break
-            time.sleep(1.2)
-    try:
-        d = json.load(open(p, encoding="utf-8"))
-    except Exception:
-        return []
-    rows = d[1] if isinstance(d, list) and len(d) > 1 else []
+                            "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64)", "-H", "Accept: application/json", "-o", p, url], capture_output=True)
+            _last[0] = time.time()
+            try: d = json.load(open(p, encoding="utf-8"))
+            except Exception: d = None
+            if _ok(d) and d[1]:
+                break
+            time.sleep(2.5)
+        if not _ok(d) or not d[1]:
+            try: os.remove(p)
+            except Exception: pass
+            return []
+    rows = d[1]
     vals = [(int(r["date"]), float(r["value"])) for r in rows if r.get("value") is not None]
     vals.sort()
     return vals

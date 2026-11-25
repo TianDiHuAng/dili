@@ -309,3 +309,9 @@
 - 接入 Köppen-Geiger 矢量气候分区（4303 多边形，Beck et al.，经 rjerue/koppen-map 转 GeoJSON）；气候类条目下图改为真实气候带，红点高亮所在气候型并标中文名（如温带海洋性 Cfb、副热带季风 Cwa），带 A/B/C/D/E 图例。
 - 栅格类（WorldClim/SoilGrids/DEM）因主机不可达或需 GIS 库未接入；historical-basemaps 与 Köppen 已用。
 - check 0、links 0、自检一致；站点 21MB。
+
+## 第158轮（真实数据+UI）
+- 指标类条目接入世界银行真实折线图（14 个指标，WLD 口径，含年份与数值；CO2 改用 EN.GHG.CO2.PC.CE.AR5）。
+- 农业/区域类条目上图叠加 Köppen 淡色气候带。
+- UI：单元页/关于/限制页新增“图形图例与数据来源”区块。
+- check 0、links 0、自检一致；站点 21MB。

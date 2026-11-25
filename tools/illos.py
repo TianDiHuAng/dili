@@ -371,7 +371,7 @@ def build(entry, coords=None):
 
 import wbdata
 WB_MAP = {
- "二氧化碳排放清单":("EN.ATM.CO2E.PC","人均二氧化碳排放","吨/人"),
+ "二氧化碳排放清单":("EN.GHG.CO2.PC.CE.AR5","人均二氧化碳排放","吨/人"),
  "城市化水平":("SP.URB.TOTL.IN.ZS","城镇人口占比","%"),
  "全球人口规模":("SP.POP.TOTL","总人口","人"),
  "人口增长":("SP.POP.GROW","人口年增长率","%"),
