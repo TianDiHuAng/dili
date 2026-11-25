@@ -1,0 +1,328 @@
+{
+ "entries": [
+  {
+   "title": "日本列岛",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "阿卡德帝国",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "克里特文明",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W3097983290",
+     "field": "influence",
+     "claim": "所引 2017 年研究（摘要 2,001 字符）以房屋、空间与建筑为切入点研究晚青铜时代米诺斯的家庭内关系与身份实践；本条「米诺斯社会关系通过居住空间与物质实践再生产」据此。",
+     "abstract_evidence": "Houses, space, and architecture are ways through which identities and social relations are enacted and performed; they produce and support practices that themselves are needed to reproduce or generate identities and interpersonal associations. As archaeologist",
+     "verdict": "PASS",
+     "reason": "摘要明言房屋与空间用于生成与再生产身份和社会关系，对象为米诺斯大型居住建筑",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2538009141",
+     "field": "polities",
+     "claim": "所引 2016 年《Seals, Craft, and Community in Bronze Age Crete》（被引31）讨论米诺斯克里特「宫殿社会」的起源——把宫殿出现之前的阶段识别为一次异常活跃的社会文化创新期；本条「宫殿中心由更早的社区与手工业分化中生成」据此。",
+     "abstract_evidence": "ife on the island altered monumentally. Emily Anderson turns light on the moment just before the palaces, recognizing it as a remarkably vibrant phase of socio-cultural innovation. Exploring the role of craftspersons, travelers and powerful objects, she argues",
+     "verdict": "SOFT",
+     "reason": "摘要只说宫殿前阶段的社会变化源于工匠、旅行者与物品建立的新联系；「由社区与手工业分化中生成」属引申",
+     "fix": "所引 2016 年《Seals, Craft, and Community in Bronze Age Crete》（被引31）讨论米诺斯克里特「宫殿社会」的起源——把宫殿出现之前的阶段识别为一次异常活跃的社会文化创新期，认为社会变化源于工匠、旅行者与珍贵物品在新尺度上建立的联系。"
+    }
+   ]
+  },
+  {
+   "title": "马其顿与亚历山大",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4244368576",
+     "field": "polities",
+     "claim": "所引 2010 年《Alexander the Great and His Empire: A Short Introduction》（被引 107）概述亚历山大帝国的建立与治理；本条「马其顿以军事征服建立跨欧亚帝国、死后迅速分裂」据此。",
+     "abstract_evidence": "guage that sets the rise of Alexander's short-lived empire within the broad context of ancient Near Eastern history under Achaemenid Persian rule, as well as against Alexander's Macedonian background. As a renowned historian of both the Macedonians and the Per",
+     "verdict": "SOFT",
+     "reason": "摘要支持征服波斯帝国与「短命帝国」，但未述治理细节或「死后迅速分裂」",
+     "fix": "所引 2010 年《Alexander the Great and His Empire: A Short Introduction》（被引 107）在阿契美尼德波斯史背景下概述亚历山大征服波斯帝国、建立从地中海到中亚的短命帝国。"
+    },
+    {
+     "source": "openalex-W1970392988",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "The most important work on Alexander the Great to appear in a long time. Neither scholarship nor semi-fictional biography will ever be the same again.Engels at last uses all the archaeological work do",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "拜占庭帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2497655684",
+     "field": "influence",
+     "claim": "所引 2009 年《The Middle Byzantine Economy (600–1204)》（被引21）讨论中期拜占庭经济的结构，并把它视为理解拜占庭国家、社会与文化的关键；本条「农业、税收与军区制相互支撑」据此（军区制部分为常识性补充）。",
+     "abstract_evidence": "t subject on a number of grounds. It is arguably the key to the history of the Byzantine state, society and culture; it forms part of the picture of a transition from the ancient world to the middle ages – and part of the debate as to whether those are meaning",
+     "verdict": "SOFT",
+     "reason": "摘要只说经济是理解国家、社会与文化的关键，未涉农业、税收与军区制的相互支撑",
+     "fix": "所引 2009 年《The Middle Byzantine Economy (600–1204)》（被引21）讨论中期拜占庭经济，并把它视为理解拜占庭国家、社会与文化的关键。"
+    },
+    {
+     "source": "openalex-W4297961286",
+     "field": "polities",
+     "claim": "所引 1997 年《A History of the Byzantine State and Society》（被引 590，摘要 2,345 字符）是拜占庭国家与社会的通史；本条「拜占庭以皇帝—官僚—教会三位一体维系千年帝国」据此。",
+     "abstract_evidence": "never yet been matched in maintaining a single state for so long, over a wide area inhabited by heterogeneous peoples. Drawing on a wealth of original sources and modern works, the author treats political and social developments as a single vivid story, told p",
+     "verdict": "SOFT",
+     "reason": "摘要为通史概述（285–1461、长期维持单一国家），未提「皇帝—官僚—教会三位一体」",
+     "fix": "所引 1997 年《A History of the Byzantine State and Society》（被引 590，摘要 2,345 字符）是拜占庭国家与社会的通史，指出拜占庭在广大地域上长期维持单一国家。"
+    },
+    {
+     "source": "openalex-W1968112198",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Medical historians have traditionally claimed that modern hospitals emerged during the latter half of the nineteenth century. Premodern hospitals, according to many scholars, existed mainly as refuges",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "意大利半岛",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4298223504",
+     "field": "geo",
+     "claim": "所引 2010 年研究基于中南部 1:250,000 实测地质图，覆盖中南部而非全半岛）。",
+     "abstract_evidence": "d in two geological map sheets at scale 1:250,000 giving a regional overview of the stratigraphy, geometry, and structure of the Apenninic fold-and-thrust belt. The Apennines comprise a variety of lithotectonic assemblages that evolved through interaction betw",
+     "verdict": "PASS",
+     "reason": "摘要为中南部亚平宁 1:250,000 地质构造图，与句中范围限定一致",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2087928538",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "The scaglia rossa, a pink pelagic limestone of mid-Cretaceous to middle Eocene age in the autochthonous, or parautochthonous, Umbrian Apennines offers an opportunity to evaluate paleomagnetically the ",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "伊比利亚半岛",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W1985300983",
+     "field": "geo",
+     "claim": "所引 1920 年《The Iberian Peninsula: A Geographical Study》（摘要 1,259 字符）以区域地理的方法研究伊比利亚半岛；本条「半岛以高原与山脉分割、气候南北分异」据此。",
+     "abstract_evidence": "The fundamental idea underlying the following study of the Iberian Peninsula is that real knowledge of the geography of any region cannot be gained by memorizing facts about it but only through an understanding of the relationship existing between these facts ",
+     "verdict": "SOFT",
+     "reason": "摘要是面向加州五六年级学生的地理教学设计说明，未提高原、山脉或气候分异",
+     "fix": "所引 1920 年《The Iberian Peninsula: A Geographical Study》是面向小学五六年级的区域地理教学研究。"
+    },
+    {
+     "source": "openalex-W2127608683",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "BACKGROUND: We compare traditional knowledge and use of wild edible plants in six rural regions of the northwest of the Iberian Peninsula as follows: Campoo, Picos de Europa, Piloña, Sanabria and Caur",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "高卢",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W272418548",
+     "field": "influence",
+     "claim": "所引 1996 年《Gaul》（被引34，摘要 910 字符）讨论高卢的社会与地理；本条「高卢以部落—城邦并存、后被罗马纳入行省体系」据此。",
+     "abstract_evidence": " as a single province since Caesar, was divided into three by Augustus, probably in 27 BC.",
+     "verdict": "SOFT",
+     "reason": "摘要支持罗马行省（纳博讷与三高卢、奥古斯都三分），未涉「部落—城邦并存」",
+     "fix": "所引 1996 年《Gaul》（被引34，摘要 910 字符）讨论罗马时期高卢的行省划分与地缘处境；本条「高卢后被罗马纳入行省体系」据此。"
+    },
+    {
+     "source": "openalex-W2009330540",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "List of Figures and Maps Abbreviations of Modern Works Used in the Notes Preface Introduction 1. Conquest and Pacification 2. Romanisation and Rebellion 3. The Creation of the Germanies 4. An Age with",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "阿尔卑斯山",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W2129432027",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "The European Alps (Alps) and Southern Alps of New Zealand (Southern Alps) are both high mountain ranges formed by the collision of tectonic plates. The Alps resulted from collision of the African and ",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "多瑙河",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2467786621",
+     "field": "geo",
+     "claim": "所引 1999 年《Hydrology as a major factor…in two floodplain…》（被引55）讨论多瑙河洪泛区的水文连通性与生态过程；本条「多瑙河以洪泛平原与水文连通性为特征」据此（该文聚焦浮游生物一侧）。",
+     "abstract_evidence": "Hydrological connectivity is central to the understanding of ecological processes in large river-floodplain systems. Effects of hydrological connectivity were investigated in context with the restoration of ecological integrity. In Austria, downstream of Vienn",
+     "verdict": "SOFT",
+     "reason": "研究仅限维也纳下游两个洪泛区段，推及整条多瑙河属范围放大",
+     "fix": "所引 1999 年《Hydrology as a major factor…in two floodplain…》（被引55）以维也纳下游两段洪泛区为对象，指出水文连通性是理解大型河流—洪泛区生态过程的核心。"
+    },
+    {
+     "source": "openalex-W2658592595",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "This study provides an innovative process-based modelling approach using the SWAT model and shows its application to support the implementation of the European environmental policies in large river ba",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "莱茵河",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2041834890",
+     "field": "geo",
+     "claim": "所引 2005 年《The Rhine: An Eco-Biography, 1815–2000》（摘要 4,440 字符）以生态传记方式叙述莱茵河两个世纪的环境变迁（含渠化、污染与治理）；本条「莱茵河为欧洲重要航运水道、人类工程深刻改造其河道」据此。",
+     "abstract_evidence": "nd empires; as military barrier; and as corridor of civilization and commerce, the Rhine has been a perennial object of mythical, aesthetic, scholarly, and practical reflection since Roman times. It might seem that nothing remains to be said, but Mark Cioc's \"",
+     "verdict": "PASS",
+     "reason": "书评摘要称该书叙述莱茵河在现代化下的命运，且为航运与商业走廊",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2114886861",
+     "field": "geo",
+     "claim": "所引 1994 年《Middle and late Holocene avulsion history of the River Rhine》（被引 194）以大量高精度 ¹⁴C 年代重建莱茵河千年尺度上的决口改道史；本条「莱茵河河道历史上多次改道、人类工程进一步改造」据此。",
+     "abstract_evidence": "resent, little evidence is available on avulsion rates, avulsion frequencies, and interavulsion periods of aggrading fluvial systems over time scales of millenia. The large number of high-quality 14C ages from the Holocene Rhine-Meuse delta (central Netherland",
+     "verdict": "SOFT",
+     "reason": "摘要支持全新世莱茵—默兹三角洲的决口改道史，未涉人类工程",
+     "fix": "所引 1994 年《Middle and late Holocene avulsion history of the River Rhine》（被引 194）以大量高精度 ¹⁴C 年代重建莱茵—默兹三角洲千年尺度上的决口改道史；本条「莱茵河河道历史上多次改道」据此。"
+    },
+    {
+     "source": "openalex-W2096204231",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "The river Rhine is heavily influenced by human activities and suffers from a series of environmental constraints which hamper a complete recovery of biodiversity. These constraints comprise intensive ",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "法兰克王国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2115323786",
+     "field": "polities",
+     "claim": "所引 2008 年《Frankish military duty and the fate of Roman…》（被引28）讨论法兰克的军事义务与罗马遗产的关系；本条「法兰克以军事服务与土地授予维系王国」据此。",
+     "abstract_evidence": "Frankish kingdom, when a large share of Roman taxes was awarded in individual allotments to soldiers obligated to serve, otherwise unpaid, when summoned, and heavily fined if they did not. Both demesne and tributary manses – contributory units – were the main ",
+     "verdict": "SOFT",
+     "reason": "摘要称军役基于分配给士兵的罗马税份额（manse），明言不能简单视为农业庄园；「土地授予」属术语溢出",
+     "fix": "所引 2008 年《Frankish military duty and the fate of Roman…》（被引28）讨论法兰克的军事义务与罗马税收遗产的关系；本条「法兰克以无偿军役维系王国武力」据此。"
+    },
+    {
+     "source": "openalex-W2497994255",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "From the later third century, Germans whom the literary sources called Franks had joined with other barbarians to challenge Roman rule in Gaul. This chapter acknowledges the importance of the Bishop G",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "十字军东征",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W3015865789",
+     "field": "polities",
+     "claim": "所引 2020 年《Settlement, Identity, and Memory in the Latin East》（被引29）指出第一次十字军后在黎凡特与叙利亚形成了四个政体——耶路撒冷王国、安条克公国、埃德萨伯国与的黎波里伯国，并讨论「crusader states」这一术语本身是否恰当（MacEvitt 主张弃用）；本条「十字军在东地中海建立若干拉丁政权」据此。",
+     "abstract_evidence": " term ‘crusader states’ to describe the four polities formed in the Levant and Syria as a result of the First Crusade (the kingdom of Jerusalem, the principality of Antioch, and the counties of Edessa and Tripoli), arguing that crusading and its remembrance ha",
+     "verdict": "PASS",
+     "reason": "摘要逐一列出四个政体并讨论 MacEvitt 对术语的主张",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W3012443801",
+     "field": "polities",
+     "claim": "所引 2016 年《The Fifth Crusade in Context: The Crusading Movement…》（摘要 1,247 字符）把第五次十字军置于十字军运动的整体脉络中讨论；本条「十字军是持续两个世纪的运动、非单一事件」据此。",
+     "abstract_evidence": " occurring during what was probably the most intensive period of crusading in both Europe and the Holy Land. Following the controversial outcome of the Fourth Crusade in 1204, and the decrees of the Fourth Lateran Council in 1215, Pope Innocent III's reform ag",
+     "verdict": "SOFT",
+     "reason": "摘要只讲 13 世纪初第五次十字军在运动中的地位，未支持「持续两个世纪」",
+     "fix": "所引 2016 年《The Fifth Crusade in Context: The Crusading Movement…》（摘要 1,247 字符）把第五次十字军置于 13 世纪初十字军运动的整体脉络中讨论；本条「十字军是持续的运动、非单一事件」据此。"
+    }
+   ]
+  },
+  {
+   "title": "巴尔干半岛",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W631685674",
+     "field": "influence",
+     "claim": "所引 2004 年研究把巴尔干视为欧洲生物多样性的热点与避难所：山地与河谷的分隔造成高度的特有性，也说明地形破碎度与生物多样性正相关。",
+     "abstract_evidence": "twood.- 4. The Balkans as prime glacial refugial territory of European temperate trees P.C. Tzedakis.- 5. Quaternary biotic interactions in Slovenia and adjacent regions: the vegetation D. Watts.- 6. A quantitative assessment of Balkan mammal diversity B. Krys",
+     "verdict": "SOFT",
+     "reason": "摘要仅为目录，含「冰期避难所」章节；「地形破碎度与生物多样性正相关」为外推",
+     "fix": "所引 2004 年研究把巴尔干视为欧洲生物多样性的热点，并讨论其作为欧洲温带树种冰期避难所的地位。"
+    },
+    {
+     "source": "openalex-W4407567235",
+     "field": "influence",
+     "claim": "所引 2024 年《The Balkans: History, Religion and Society》（摘要 7,541 字符）综述巴尔干的历史、宗教与社会；本条「巴尔干以山脉分割、宗教与族群交错」据此。",
+     "abstract_evidence": "ed by concepts and descriptions such as Balkanization and ethnic nationalism.Since 1990, and especially after 2000 with the EU integration processes, it is possible to say that the Balkans have moved closer to political, cultural, and economic balance and stab",
+     "verdict": "SOFT",
+     "reason": "摘要讲帝国遗产、民族主义与巴尔干化，未提山脉分割",
+     "fix": "所引 2024 年《The Balkans: History, Religion and Society》（摘要 7,541 字符）综述巴尔干的历史、宗教与社会；本条「巴尔干民族问题复杂、长期难获稳定」据此。"
+    }
+   ]
+  },
+  {
+   "title": "斯堪的纳维亚",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W1912206775",
+     "field": "influence",
+     "claim": "所引 2008 年综述指出，北欧在约 250–300 万年间经历多次冰期与间冰期：萨勒冰期（约 14 万年前）之后，末次间冰期（Eemian）早期格陵兰与波罗的海地区海面偏高；Eemian 期间气温比今天高约 5 °C，格陵兰冰盖缩减至约为现今的一半。",
+     "abstract_evidence": "al erosion and reworking. The extensive Saalian glaciation (c. 140 ka BP) contributed to high sea levels in Greenland and in the Baltic area during the early part of the last interglacial (Eemian). Temperatures were about 5 Â°C higher during the Eemian than th",
+     "verdict": "PASS",
+     "reason": "各数值（2.5–3 Ma、Saalian 140 ka、Eemian 高 5 °C、冰盖减半）与摘要一致",
+     "fix": ""
+    }
+   ]
+  }
+ ]
+}

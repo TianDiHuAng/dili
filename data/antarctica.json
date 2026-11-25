@@ -105,13 +105,13 @@
         "openalex-W2058359525"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约古生代至今」无专门来源支撑，已收敛为待核表述。 【第39轮升级 L2】第二来源为 OpenAlex openalex-W2091566445（1989年，《Flexural uplift of the Transantarctic Mountains》，Journal of Geophysical Research Atmospheres，DOI https://doi.org/10.1029/jb094ib08p10315，被引 217）。 机制/影响段据其摘要撰写，geo 为常识性地理描述（未挂学术来源）。 【第39轮返工】① 期刊名订正：OpenAlex `display_name` 记「Journal of Geophysical Research Atmospheres」，但 Crossref container-title 与 raw_source_name 均为 Journal of Geophysical Research: Solid Earth（DOI 段 jb094ib08 亦属 JGR B），属 OpenAlex 字段缺陷，已按 Crossref 订正。② 「约3000千米」原写在 definition/geo 描述山脉全长，实为边界长度，已区分。③ 方位由「北侧/南侧」改为「罗斯海—罗斯冰架一侧／东南极冰盖一侧」，并补威尔克斯盆地位于山脉以西400–500千米。 【D081单源声明】britannica-regions（UNSD M49）与 wikipedia-regions（UNSDG 门户壳页）为壳别名，s010-unesco-org 为 UNESCO Culture 首页、与本条无关；三者均不构成独立内容依据，本条实质为单源（OpenAlex）。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W2058359525（1992年，《The Transantarctic Mountains of southern Victoria Land: The application of apatite fission track analysis to a rift shoulder uplift》，被引 249，摘要 2406 字符）：已在本条 geo 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约古生代至今」无专门来源支撑，已收敛为待核表述。 【第39轮升级 L2】第二来源为 OpenAlex openalex-W2091566445（1989年，《Flexural uplift of the Transantarctic Mountains》，Journal of Geophysical Research Atmospheres，DOI https://doi.org/10.1029/jb094ib08p10315，被引 217）。 机制/影响段据其摘要撰写，geo 为常识性地理描述（未挂学术来源）。 【第39轮返工】① 期刊名订正：OpenAlex `display_name` 记「Journal of Geophysical Research Atmospheres」，但 Crossref container-title 与 raw_source_name 均为 Journal of Geophysical Research: Solid Earth（DOI 段 jb094ib08 亦属 JGR B），属 OpenAlex 字段缺陷，已按 Crossref 订正。② 「约3000千米」原写在 definition/geo 描述山脉全长，实为边界长度，已区分。③ 方位由「北侧/南侧」改为「罗斯海—罗斯冰架一侧／东南极冰盖一侧」，并补威尔克斯盆地位于山脉以西400–500千米。 【D081单源声明】britannica-regions（UNSD M49）与 wikipedia-regions（UNSDG 门户壳页）为壳别名，s010-unesco-org 为 UNESCO Culture 首页、与本条无关；三者均不构成独立内容依据，本条实质为单源（OpenAlex）。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W2058359525（1992年，《The Transantarctic Mountains of southern Victoria Land: The application of apatite fission track analysis to a rift shoulder uplift》，被引 249，摘要 2406 字符）：已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W2058359525：外推：摘要为裂变径迹与抬升年代、山前带为东西南极分界，未论基岩出露于冰盖之上。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "山脉沿东南极与西南极的边界延伸。以罗斯海—罗斯冰架一侧与东南极冰盖一侧来定位更准确：山脉构成东南极的东缘，其东侧与紧邻处为维多利亚地盆地；威尔克斯盆地位于山脉以西（后方）约400–500千米。山体被冰盖覆盖，仅山脊与少数冰原岛峰出露。 所引 1992 年《The Transantarctic Mountains of southern Victoria Land》（被引 249，摘要 2,406 字符）讨论南维多利亚地的横贯南极山脉地质；本条「横贯南极山脉把东南极与西南极分开、基岩在冰盖之上出露」据此。",
+      "last_update": "2026-11-25",
+      "geo": "山脉沿东南极与西南极的边界延伸。以罗斯海—罗斯冰架一侧与东南极冰盖一侧来定位更准确：山脉构成东南极的东缘，其东侧与紧邻处为维多利亚地盆地；威尔克斯盆地位于山脉以西（后方）约400–500千米。山体被冰盖覆盖，仅山脊与少数冰原岛峰出露。 所引 1992 年《The Transantarctic Mountains of southern Victoria Land》（被引 249，摘要 2,406 字符）以磷灰石裂变径迹分析南维多利亚地的横贯南极山脉，指出山前带为东、西南极的分界，抬升约始于 55 Ma。",
       "influence": "所引 1989 年研究指出，该山脉形成于东南极与西南极的陆—陆边界；高热流、薄地壳、正断层与火山活动表明这条边界具有张裂性质，并发育出横贯南极山脉、威尔克斯盆地与维多利亚地盆地三个主要构造。长度口径：该研究所称「约3000千米」是这条边界的长度；山脉本身的长度不同源表述不一（Britannica 记逾3200千米），本条不合并两者。",
       "polities": "本条为自然地理/科考主题条目，不展开政权序列。",
       "connections": "山脉把东南极冰盖与西南极冰盖分隔，影响冰流路径；罗斯海一侧为罗斯冰架，是南极物质平衡研究的关键区。",
@@ -186,7 +186,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "海域南部被罗斯冰架覆盖，北部通向开阔洋；大陆架水深较大，是南极底层水形成的重要区域之一。海冰与冰架的季节变化显著。 所引 1999 年研究（摘要 2,278 字符）分析罗斯海的第四纪底栖有孔虫分布及其与海洋学、冰架退缩的关系；本条「罗斯海受冰架与海冰影响、生态与沉积过程独特」据此。",
       "influence": "所引 2002 年研究以近四十年的海洋观测（南极附近最长的记录之一）指出：陆架水盐度与罗斯环流表层盐度明显下降（淡化），同期罗斯岛大气增温、陆架以北约300米深处海水增温、南方涛动指数更偏负，并伴有东南太平洋冰架的减薄。原文认为淡化可能由多个因素共同造成；本条只陈述这些变化同向出现，不将其写作已确立的单一因果。",
       "polities": "本条为自然地理/科考主题条目，不展开政权序列。",
@@ -258,14 +258,14 @@
         "openalex-W2325413204"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮升级 L2】第二来源为 OpenAlex openalex-W2135820861（2009年，《Survey of waste water disposal practices at Antarctic research stations》，Polar Research，DOI https://doi.org/10.3402/polar.v28i2.6109，被引 138）。 机制/影响段据其摘要撰写，geo 为常识性地理描述（未挂学术来源）。 【第39轮返工·硬错】原稿写「科考站的环境管理已成为南极治理的一部分」——与摘要结论方向相反：摘要结论是多数站点仍无处理设施、治理属未完成缺口（37%/69%）。已按摘要改写并补入实数。 【D089限定】本条 theme 为贸易，所引文献领域为环境管理，仅作站点运营现状一例，不作贸易/定居解释依据。 【D081单源声明】britannica-regions（UNSD M49）与 wikipedia-regions（UNSDG 门户壳页）为壳别名，s010-unesco-org 为 UNESCO Culture 首页、与本条无关；三者均不构成独立内容依据，本条实质为单源（OpenAlex）。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W2017741426（2008年，《On thick ice: scientific internationalism and Antarctic affairs, 1957–1980》，被引 45，摘要 1025 字符）：已在本条 influence 段落点。 【第94轮审计修正·侧面】`openalex-W2135820861`（《Survey of waste water disposal practices at Antarctic stations》, 2009, 被引138）研究的是科考站的污水处理做法，属设施管理侧面，不支撑「科考站体系的科学合作框架」。现降为旁证。 【第99轮补第二内容源（strong，Crossref）】openalex-W2325413204（2010年，《Antarctic Research Stations: Parallels for Interplanetary Design》，被引 11，摘要 759 字符）：已在本条 influence 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮升级 L2】第二来源为 OpenAlex openalex-W2135820861（2009年，《Survey of waste water disposal practices at Antarctic research stations》，Polar Research，DOI https://doi.org/10.3402/polar.v28i2.6109，被引 138）。 机制/影响段据其摘要撰写，geo 为常识性地理描述（未挂学术来源）。 【第39轮返工·硬错】原稿写「科考站的环境管理已成为南极治理的一部分」——与摘要结论方向相反：摘要结论是多数站点仍无处理设施、治理属未完成缺口（37%/69%）。已按摘要改写并补入实数。 【D089限定】本条 theme 为贸易，所引文献领域为环境管理，仅作站点运营现状一例，不作贸易/定居解释依据。 【D081单源声明】britannica-regions（UNSD M49）与 wikipedia-regions（UNSDG 门户壳页）为壳别名，s010-unesco-org 为 UNESCO Culture 首页、与本条无关；三者均不构成独立内容依据，本条实质为单源（OpenAlex）。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W2017741426（2008年，《On thick ice: scientific internationalism and Antarctic affairs, 1957–1980》，被引 45，摘要 1025 字符）：已在本条 influence 段落点。 【第94轮审计修正·侧面】`openalex-W2135820861`（《Survey of waste water disposal practices at Antarctic stations》, 2009, 被引138）研究的是科考站的污水处理做法，属设施管理侧面，不支撑「科考站体系的科学合作框架」。现降为旁证。 【第99轮补第二内容源（strong，Crossref）】openalex-W2325413204（2010年，《Antarctic Research Stations: Parallels for Interplanetary Design》，被引 11，摘要 759 字符）：已在本条 influence 段落点。 【第128轮语义扫描 SOFT】openalex-W2017741426：引申：摘要称科学国际主义被用作外交武器、美国借合作研究掌控事务，非中性的「科学合作框架」。 【第128轮语义扫描 FAIL】openalex-W2325413204：对象不符：摘要论科考站设计作为太空任务的类比，与条约体系科学合作无关。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "站点分布不均：南极半岛与沿岸岛屿最密集，东南极内陆与高原站稀少；内陆站海拔高、气温极低，补给线长。选址受冰况、地形与后勤可达性约束。",
-      "influence": "所引 2009 年研究由瑞典极地研究秘书处发起，就南极 28 国站点的废水与灰水处置实践做问卷普查（2005年秋发出）。其核心发现是：37% 的常年站与 69% 的夏季站尚无任何形式的处理设施。作者据此认为技术已具备、应全面采用处理设施并防止夏季站未经处理排放，即治理仍是未完成的缺口。 所引 2008 年《On thick ice: scientific internationalism》（被引45）讨论南极的科学国际主义与考察站体系；本条「南极科考站以条约体系的科学合作框架运作」据此。 所引 2010 年《Antarctic Research Stations: Parallels for…》（被引11）讨论南极科考站的运作与管理；本条「南极科考站以条约体系的科学合作框架运作」据此。",
+      "influence": "所引 2009 年研究由瑞典极地研究秘书处发起，就南极 28 国站点的废水与灰水处置实践做问卷普查（2005年秋发出）。其核心发现是：37% 的常年站与 69% 的夏季站尚无任何形式的处理设施。作者据此认为技术已具备、应全面采用处理设施并防止夏季站未经处理排放，即治理仍是未完成的缺口。 所引 2008 年《On thick ice: scientific internationalism》（被引45）讨论 1957–1980 年南极条约前后的科学国际主义，指出它被用作外交工具，美国借国际合作研究影响南极事务。 所引 2010 年《Antarctic Research Stations: Parallels for…》（被引11）通过回顾两座南极科考站的设计，讨论其作为未来太空任务在隔离极端环境中生活与工作之类比对象的价值。",
       "polities": "本条为自然地理/科考主题条目，不展开政权序列。",
       "connections": "通过海运与空运补给线连接各国本土与南极，站点之间通过条约体系下的信息网络（如环境官员网络）协调。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -300,7 +300,7 @@
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "冰层逐年积累，深层冰对应更早时期；气泡中的气体成分与同位素比值可推算当时大气组成与温度。钻探点选择受冰流与地形影响。 所引 2024 年研究用逆冰流模型（1D/2.5D）为冰芯钻探点定年，给出约 145 万年尺度；本条「深层冰对应更早时期、钻探点选择受冰流与地形影响」据此。",
       "influence": "冰芯提供古大气成分与温度的直接证据，是气候研究的关键资料；解释需结合模型与其他代用指标，不能单靠单一冰芯下结论。 所引 2024 年研究对冰芯钻探点的年代—冰流建模；本条「冰芯定年依赖流动模型」据此。",
       "polities": "多国钻探计划通过国际合作共享样品与数据，形成长期观测体系；具体计划与条款待研究机构核验。",
@@ -403,15 +403,15 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。 【第23轮实证复核】实测：nasa-pine-island 200 / 剥离后 7719 字符 / glacier|pine island|retreat 命中 25 → D055 档②（门槛 8000），差 281 字符未达标。这是可核的近失值，而非「缺专题页」；待该页扩写或另寻 ≥8000 字符的冰川专题页即可升级。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2016162897（2002年，「Acceleration of Pine Island and Thwaites Glaciers, West Antarcti」，DOI https://doi.org/10.3189/172756402781817950，Annals of Glaciology）； 年代以「20世纪末以来持续观测（加速信号见于1990年代以后）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】① 原 influence 把「暖深层海水入侵」写成由卫星观测支持的机制，而所引文献摘要明说「were not sufficient to determine the cause」，属无源归因，已改。 ② 来源 nasa-pine-island 复测已无可剥离正文（仅导航样板），其早年记录的正文与命中数不可复现，已在该源 note 标注。",
+      "pending_notes": "B1/B6 缺口补入；专门资料与现状数值待按年份核验。 【第23轮实证复核】实测：nasa-pine-island 200 / 剥离后 7719 字符 / glacier|pine island|retreat 命中 25 → D055 档②（门槛 8000），差 281 字符未达标。这是可核的近失值，而非「缺专题页」；待该页扩写或另寻 ≥8000 字符的冰川专题页即可升级。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2016162897（2002年，「Acceleration of Pine Island and Thwaites Glaciers, West Antarcti」，DOI https://doi.org/10.3189/172756402781817950，Annals of Glaciology）； 年代以「20世纪末以来持续观测（加速信号见于1990年代以后）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】① 原 influence 把「暖深层海水入侵」写成由卫星观测支持的机制，而所引文献摘要明说「were not sufficient to determine the cause」，属无源归因，已改。 ② 来源 nasa-pine-island 复测已无可剥离正文（仅导航样板），其早年记录的正文与命中数不可复现，已在该源 note 标注。 【第126轮语义扫描 FAIL】openalex-W2016162897：反向证据：摘要称此前观测不足以定因，而本文正是以雷达干涉证明减薄后退由冰流加速约18±2%导致；且18%只针对松岛冰川，思韦茨中部流态近乎恒定。",
       "outlines": [
         "OpenStax Geography 教材目录",
         "NOAA/NASA 近期动态",
         "UN M49"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "冰川注入阿蒙森海，冰架漂浮于暖海水之上，海底地形与洋流温度决定融化速率；周围无大型冰架遮挡。",
-      "influence": "所引 2002 年《Annals of Glaciology》研究显示：1990 年代该冰川与思韦茨冰川加速、8 年内冰流速度增加约 18±2%，并明确指出当时的观测尚不足以确定原因。海洋暖水入侵作为机制属于后续研究的方向，本条不将其写作已由该文献证实的结论。",
+      "influence": "所引 2002 年《Annals of Glaciology》研究以卫星雷达干涉数据显示：1990 年代松岛冰川的减薄与接地线后退由 8 年内冰流加速约 18±2% 所致，而思韦茨冰川中部流态基本稳定、两侧展宽。海洋暖水入侵作为机制属于后续研究的方向，本条不将其写作已由该文献证实的结论。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "与思韦茨冰川同属西南极冰盖的脆弱区，二者合计的潜在海平面贡献是海平面研究关注重点。",
       "today": "（本条的当代指标不在本页展开。）",

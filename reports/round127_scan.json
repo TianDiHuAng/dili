@@ -1,0 +1,373 @@
+{
+ "entries": [
+  {
+   "title": "非洲大湖地区",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2967976954",
+     "field": "influence",
+     "claim": "所引 2019 年研究比较该区域各湖的水文与物理湖沼学特征，指出湖盆形态与水量平衡的差异使各湖表现不同，不能一概而论。",
+     "abstract_evidence": "The lake basins exhibit a variety of types, including the very deep, elongated and steep-sided troughs of Lakes Tanganyika and Malawi, and the more nearly circular, relatively shallow basin on Lake Victoria, with its highly complex, indented shoreline. Hydrologic and hydrodynamic data from these lakes are scarce, fragmentary and often not easily accessible. Victoria is, however, relatively shallow compared with both the North American lakes and the other East African lakes. The North American Great Lakes, although elongated, have larger width to length aspect ratios than the deep, narrow Afric",
+     "verdict": "SOFT",
+     "reason": "引申：摘要对比湖盆形态并称水文资料稀缺，未论「水量平衡差异」与「不能一概而论」。",
+     "fix": "所引 2019 年研究比较东非各大湖的水文与物理湖沼学特征，指出湖盆形态差异显著（坦噶尼喀湖与马拉维湖为深而狭长的陡壁槽谷，维多利亚湖较浅、近圆形），且水文与水动力资料稀缺零散。"
+    },
+    {
+     "source": "openalex-W2899960445",
+     "field": "influence",
+     "claim": "所引 2018 年《Prognosis for long-term sustainable fisheries in the African Great Lakes》（被引35，摘要 1,476 字符）：坦噶尼喀湖、马拉维湖与维多利亚湖的渔业仍为开放准入，渔获量下降、物种组成发生变化；作者认为可持续管理需转向更强的社会—生态路径，并称若无相应行动，长期可持续渔业的前景「黯淡」。",
+     "abstract_evidence": "Declines in fish yields and shifts in species composition are serious concerns in the African Great lakes of Tanganyika, Malawi (Nyasa/Niassa) and Victoria. Despite management and regulatory structures, all the lakes remain open‐access fisheries, severely depressing yields, economic returns and threatening biodiversity. While the lakes require an ecosystem‐based approach to management, this has not been realised because of a lack of institutional capacities, insufficient political will or simply being overwhelmed by the scale of the endeavour. Sustainable fisheries management can only be achie",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2018 年《Prognosis for long-term sustainable fisheries in the African Great Lakes》（被引35，摘要 1,476 字符）：坦噶尼喀湖、马拉维湖与维多利亚湖的渔业仍为开放准入，渔获量下降、物种组成发生变化；作者认为可持续管理需转向更强的社会—生态路径，并称若无相应行动，长期可持续渔业的前景「黯淡」。"
+    }
+   ]
+  },
+  {
+   "title": "赫梯王国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4280619931",
+     "field": "influence",
+     "claim": "所引 2022 年专著讨论其国家形态：档案文书显示王权与条约体系并重，并涉及权力的委任安排。",
+     "abstract_evidence": "From the mid-seventeenth to the early twelfth centuries BC, Central Anatolia saw the development and expansion of the Hittite state whose influence came to spread beyond the Taurus mountains into Syria and which was seen at the time as one of the Great Powers of the Late Bronze Age. Commonly interpreted as a territorial state in its first phase and an empire in its second phase, this state’s center was situated in the mountainous city of Hattusa (modern Boğazköy), which was its enduring but not continual capital. The chapter focuses on how the Hittite state negotiated the exercise of authority",
+     "verdict": "SOFT",
+     "reason": "引申：摘要讨论国家如何在碎片化地貌中协商行使权威，未见「档案文书、条约体系、权力委任」。",
+     "fix": "所引 2022 年专著讨论赫梯国家形态：以哈图沙为中心，探讨该国如何在高度碎片化的地理格局中协商并行使权威。"
+    },
+    {
+     "source": "openalex-W2622786242",
+     "field": "polities",
+     "claim": "所引 2012 年《The Hittite Empire from Textual Evidence》（被引21）以赫梯文书为据重建帝国的行政与政治结构；本条「赫梯以文书行政与条约体系维系帝国」据此。",
+     "abstract_evidence": "The Hittite written legacy is unique in the ancient Near East in that it allows us to sketch the development of a major power over the course of its almost 500 years of history from a state of basic illiteracy through incipient literacy to a booming administrative apparatus which has earned it the reputation of a true bureaucracy. It was a state with two scripts: the cuneiform used for its inner administrative workings in the widest sense of the word, with the Hittite language as its official medium, and the Anatolian hieroglyphs for the state's face to the outside. This article presents a rev",
+     "verdict": "SOFT",
+     "reason": "术语溢出：摘要讲文书与官僚行政、双文字体系，未提条约体系。",
+     "fix": "所引 2012 年《The Hittite Empire from Textual Evidence》（被引21）以赫梯文书为据，勾勒其近 500 年间从近乎无文字到形成庞大行政机构的发展，并指出其内政用楔形文字、对外以安纳托利亚象形文字示人；本条「赫梯以文书行政维系帝国」据此。"
+    }
+   ]
+  },
+  {
+   "title": "贵霜帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4205265904",
+     "field": "influence",
+     "claim": "所引 2021 年研究称其为「欧亚的十字路口」：贵霜同时掌握政治军事控制与跨区域商路。",
+     "abstract_evidence": "The Kushan Empire remains one of the least known of all ancient empires. Yet between ca. 50 and ca. 250 ce the Kushans dominated the political, cultural, and economic landscape of a vast region of Inner Eurasia, including extensive parts of Central, East, and South Asia. Along with their direct political and military control of this enormous realm, the veritable “crossroads of Eurasia,” the Kushans also exerted significant influence upon much of ancient Eurasia by playing a crucial role in facilitating the extraordinary levels of cross-cultural exchange that characterize the first Silk Roads E",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2021 年研究称其为「欧亚的十字路口」：贵霜同时掌握政治军事控制与跨区域商路。"
+    },
+    {
+     "source": "openalex-W3029827220",
+     "field": "polities",
+     "claim": "所引 2020 年《The Kushan Empire》（摘要 1,598 字符）指出贵霜原为中亚草原的游牧部族，后在南亚与中亚建立定居国家；本条「贵霜由游牧转定居、控制中亚—南亚商路」据此。",
+     "abstract_evidence": "The Kushan Empire was a political power that started as a nomadic tribe from the Central Asian steppe and became established as sedentary state across South Asia and Central Asia. Migrating from the border of agricultural China in late 2nd century bce to north Afghanistan, by the 1st century ce, the Yuezhi nomads transformed themselves into a ruling elite in a large area from Afghanistan to the Indus Valley and North Indian Plain, embracing many linguistic and ethnic groups. Adapting the Persian satrapy administrative system into Indian kshatrapa administration, the Kushan regime gave much aut",
+     "verdict": "SOFT",
+     "reason": "部分外推：摘要支持游牧转定居，但该文未涉「控制中亚—南亚商路」。",
+     "fix": "所引 2020 年《The Kushan Empire》（摘要 1,598 字符）指出贵霜原为中亚草原的游牧部族，后在南亚与中亚建立定居国家；本条「贵霜由游牧转定居、统治从阿富汗到印度河流域的广大地区」据此。"
+    }
+   ]
+  },
+  {
+   "title": "仰韶文化",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2019734673",
+     "field": "influence",
+     "claim": "所引 2001 年研究以陕西仰韶时期人骨的饮食与健康变化为线索，指出在约公元前3000年（原文作「距今第五千纪」）之后出现降温，若干指标随之变化；作者把这一转折与仰韶晚期至龙山过渡的社会变化相联系。",
+     "abstract_evidence": "In this paper we discuss diet and health changes of millet agriculturists in Northern China, Shaanxi province, during the period 7,000-4,000 BP. An episode of intensive climatic oscillations that preceded the onset of colder climate circa the fifth millennium BP divides the period (Shi et al. [1993] Global Planet. Change 7:219-233). The onset of the cooler climate marks the decline of the egalitarian society of Yangshao and the rise of the chiefdom-like society of Longshan. Skeletal materials from the two sites of Beiliu and Jiangzhai are from the earlier phases of Yangshao culture (7,000-6,00",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2001 年研究以陕西仰韶时期人骨的饮食与健康变化为线索，指出在约公元前3000年（原文作「距今第五千纪」）之后出现降温，若干指标随之变化；作者把这一转折与仰韶晚期至龙山过渡的社会变化相联系。"
+    },
+    {
+     "source": "openalex-W7117752262",
+     "field": "influence",
+     "claim": "所引 2025 年研究（摘要 1,194 字符）讨论仰韶彩陶纹饰的社会功能；本条「仰韶以彩陶与聚落形态体现新石器时代的社会组织」据此（该文聚焦彩陶一侧，不涉农业与聚落总体）。",
+     "abstract_evidence": "Chinese ceramic art originated in the Neolithic period, with archaeological evidence indicating that primitive ceramics date back approximately 10,000 to 13,000 years. Throughout this long history, research on early ceramics has continued unabated. This study employs a review and analysis of existing literature on painted pottery, combined with image analysis, to examine their social functions across different regions of the Yangshao Culture.Key areas of analysis include the recording of social events, social hierarchy and identity symbols, as well as belief systems and survival-related ritual",
+     "verdict": "SOFT",
+     "reason": "范围放大：摘要只论彩陶纹饰的社会功能，正文仍写「彩陶与聚落形态」。",
+     "fix": "所引 2025 年研究（摘要 1,194 字符）讨论仰韶彩陶纹饰的社会功能，涉及记录社会事件、社会等级与身份标识以及信仰体系；本条「仰韶彩陶体现新石器时代的社会组织」据此。"
+    }
+   ]
+  },
+  {
+   "title": "室利佛逝",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W3153775132",
+     "field": "influence",
+     "claim": "所引 2021 年研究强调其成长于「复杂网络」的中心：通过对海峡通行与港口节点的控制获得权力，而非依赖大片陆地疆域。",
+     "abstract_evidence": "The Malay city state of Srivijaya, a major actor in world economy between the seventh and the thirteenth centuries, grew at the centre of a complex set of networks encompassing much of the Indian Ocean and the South China Sea. On the basis of a critical review of past studies and the results of recent research in the archaeology and epigraphy of south-east Sumatra and the Thai-Malay Peninsula, this chapter presents a much revised and improved representation of the state and urban formation of this elusive polity, emphasizing the role of trade networks and of accompanying cultural and religious",
+     "verdict": "SOFT",
+     "reason": "引申：摘要强调贸易网络与文化宗教交流，未言「控制海峡通行」「而非陆地疆域」。",
+     "fix": "所引 2021 年研究强调其成长于横跨印度洋与南海的「复杂网络」中心，突出贸易网络及相伴的文化与宗教交流在其国家与城市形成中的作用。"
+    },
+    {
+     "source": "openalex-W4246900254",
+     "field": "polities",
+     "claim": "所引 2016 年《Srivijaya, Kingdom of》（摘要 932 字符）综述室利佛逝王国的海上地位；本条「室利佛逝控制马六甲海峡两端、以海上贸易立国」据此。",
+     "abstract_evidence": "The Kingdom of Srivijaya, at its peak, held sway over parts of Indonesia, Malaysia, and Thailand. After decades of controversies regarding its localization and power structure, archaeological and epigraphic research has now allowed for its history to be better apprehended. It was founded in the 670s at Palembang, in Malay‐speaking southeast Sumatra, after bringing together earlier autonomous proto‐historic polities under the control of this central city‐state. After capturing emerging markets for Sumatran aromatic resins and gold, its economy thrived for centuries on the control of long‐range ",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2016 年《Srivijaya, Kingdom of》（摘要 932 字符）综述室利佛逝王国的海上地位；本条「室利佛逝控制马六甲海峡两端、以海上贸易立国」据此。"
+    }
+   ]
+  },
+  {
+   "title": "满者伯夷",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4384790179",
+     "field": "influence",
+     "claim": "所引 2022 年研究讨论其社会政治史，并指出20世纪初印尼民族觉醒运动将其塑造为「过去荣光」的样板。",
+     "abstract_evidence": "The greatness of the Majapahit empire has been a source of inspiration for Indonesia's past glory which was formed as a state in the following centuries after the fall of Majapahit. Modern Indonesian nationalists, including those involved in the National Awakening Movement in the early 20th century, have pointed to Majapahit as a shining example of the past glories of the Indonesian nation. Like Majapahit, the Republic of Indonesia covers a large area and is politically centered on the island of Java. The Majapahit Empire is not only an icon of the heyday of Javanese-Hindu civilization, but al",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2022 年研究讨论其社会政治史，并指出20世纪初印尼民族觉醒运动将其塑造为「过去荣光」的样板。"
+    },
+    {
+     "source": "openalex-W4301006142",
+     "field": "polities",
+     "claim": "所引 1948 年《De Kraton van Majapahit》（荷兰语，被引20，摘要 2,567 字符）讨论满者伯夷王宫（kraton）的位置与形制；本条「满者伯夷以爪哇东部为核、王宫为中心」据此（该文为荷语区域的考古研究）。",
+     "abstract_evidence": "Zoals men weet hebben verschillende personen pogingen aangewend om zich, op grond van de gegevens van literatuur en archaeologie, een denkbeeld te vormen van ligging en gedaante van de k rat 0 n van Majapahit, door den beschrijver, Prapafica 1), pura 2) genoemd.Een der allereersten was wel Wardenaar, wiens op 7 October 1815 gedagtekende aantekeningen 3) in 1889 door Verbeek aan de inmiddels toegenomen archaeologische vondsten in het terrein in en om de desa Trowoelan (Modjokerto) werden getoetst en uitgegeven 4).Een J.)Over de persoon van de dichter zie o.a.Krom, Hind.oe-JavaanscheGeschiedqlÏS",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 1948 年《De Kraton van Majapahit》（荷兰语，被引20，摘要 2,567 字符）讨论满者伯夷王宫（kraton）的位置与形制；本条「满者伯夷以爪哇东部为核、王宫为中心」据此（该文为荷语区域的考古研究）。"
+    }
+   ]
+  },
+  {
+   "title": "帖木儿帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W7215189000",
+     "field": "influence",
+     "claim": "所引 2025 年研究称该帝国在伊斯兰世界、蒙古遗产与波斯文化之间起桥梁作用，深刻影响中亚的建筑、文化与学术。",
+     "abstract_evidence": "The Timurid Empire, founded by Amir Temur (Tamerlane) in the late 14th century, played a transformative role in the political, cultural, and intellectual development of Central Asia. Centered in Samarkand and Herat, the empire served as a bridge between the Islamic world, the Mongol legacy, and Persianate culture. This paper examines the historical impact of the Timurid state on the architecture, science, governance, and international relations of the region. Through a multidisciplinary review of historical sources and recent scholarship, the study highlights how the Timurid period laid the fo",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2025 年研究称该帝国在伊斯兰世界、蒙古遗产与波斯文化之间起桥梁作用，深刻影响中亚的建筑、文化与学术。"
+    },
+    {
+     "source": "openalex-W7161477855",
+     "field": "polities",
+     "claim": "所引 2026 年《Diplomacy of The Timurid Empire》（摘要 1,610 字符）分析帖木儿及其后继者时期的外交体系与对外政策原则；本条「帖木儿以军事征服与外交并重建国」据此。",
+     "abstract_evidence": "This article examines the diplomatic system and foreign policy of the Timurid Empire during the reign of Amir Temur and his successors. The study analyzes the major principles, strategies, and objectives of Timurid diplomacy in establishing political authority and maintaining international relations across Asia and Europe. Special attention is given to diplomatic missions, trade agreements, military alliances, and negotiations conducted with neighboring states and powerful empires of the medieval period. The article also highlights the role of diplomacy in strengthening economic ties through t",
+     "verdict": "SOFT",
+     "reason": "范围放大：摘要论外交体系，未论军事征服建国。",
+     "fix": "所引 2026 年《Diplomacy of The Timurid Empire》（摘要 1,610 字符）分析帖木儿及其后继者时期的外交体系与对外政策原则；本条「帖木儿借外交确立政治权威、维护商路与对外关系」据此。"
+    }
+   ]
+  },
+  {
+   "title": "迈锡尼文明",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2492031384",
+     "field": "influence",
+     "claim": "所引 1975 年研究指出，前1400年后迈锡尼文明有近两百年的繁荣期，部分建立在其已吸收的米诺斯文化之上；底比斯的陷落是该时期可确定的事件之一。",
+     "abstract_evidence": "For nearly two centuries, after 1400 BC, the Mycenaean civilization was free to develop and enjoy a remarkable prosperity, founded in part on the heritage of Minoan culture which it had already absorbed. A generation after Thebes had withstood a long siege, the attack of the Epigoni was successful, and Thebes was destroyed. The sack of Thebes may then be regarded as one of the certain events of Mycenaean history; and the elimination of this rival has an obvious bearing on the development of the Mycenaean power in the Peloponnese. The acquisition by descendants of Pelopids of the kingdom of Myc",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 1975 年研究指出，前1400年后迈锡尼文明有近两百年的繁荣期，部分建立在其已吸收的米诺斯文化之上；底比斯的陷落是该时期可确定的事件之一。"
+    },
+    {
+     "source": "openalex-W586005727",
+     "field": "influence",
+     "claim": "所引 2008 年《Beyond the Palace: Mycenaean East Lokris》（被引39）以希腊中部的考古材料讨论宫殿之外的迈锡尼社会；本条「迈锡尼以宫殿中心组织社会、但地方聚落亦具自主性」据此。",
+     "abstract_evidence": "Archaeological sites in a well-defined area on the northwestern shore of the North Euboean Gulf, an area which roughly corresponds to the southeastern part of East Lokris (Central Greece) and which served as a corridor between northern and southern Greece over land as well as over sea. The first chapter defines the chronological and spatial framework. The following three chapters give factual information and deal respectively with the natural environment, the Mycenaean sites known in the area, and selected significant finds from the area. Part II analyzes these findings against the background ",
+     "verdict": "SOFT",
+     "reason": "引申：摘要描述东洛克里斯遗址与环境，未提地方聚落「自主性」。",
+     "fix": "所引 2008 年《Beyond the Palace: Mycenaean East Lokris》（被引39）以希腊中部东洛克里斯（奥尔霍迈诺斯宫殿以北、北埃维亚湾沿岸的南北通道）的考古材料讨论宫殿之外的迈锡尼聚落。"
+    }
+   ]
+  },
+  {
+   "title": "神圣罗马帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4247689949",
+     "field": "influence",
+     "claim": "所引 2016 年专著（Peter Wilson）认为，帝国的连续性建立在「统一基督教文明」的理念之上，其遗产至今见于关于欧盟性质的讨论。",
+     "abstract_evidence": "The Holy Roman Empire lasted a thousand years, far longer than ancient Rome. Its continuity rested on the ideal of a unified Christian civilization. As Peter Wilson shows, the Empire tells the story of Europe better than histories of individual nation-states, and its legacy can be seen today in debates over the nature of the European Union.",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2016 年专著（Peter Wilson）认为，帝国的连续性建立在「统一基督教文明」的理念之上，其遗产至今见于关于欧盟性质的讨论。"
+    },
+    {
+     "source": "openalex-W2891976860",
+     "field": "influence",
+     "claim": "所引 2018 年《Associative Political Culture in the Holy Roman Empire》（被引39）以「联合式政治文化」重新解释神圣罗马帝国的运作方式——它并非失败的国家，而是一种以协商与联合为特征的政体；本条「帝国权力分散、皇帝与诸侯共治」据此。",
+     "abstract_evidence": "What was the Holy Roman Empire in the fourteenth to sixteenth centuries? At the turning point between the medieval and early modern periods, this vast central European polity was the continent’s most politically fragmented. The imperial monarchs were often weak and distant, while an array of regional actors played autonomous political roles. The Empire’s obvious differences from more centralized European kingdoms have stimulated negative judgements and fraught debates, expressed in the historiographical concepts of fractured ‘territorial states’ and a disjointed ‘imperial constitution’. This b",
+     "verdict": "SOFT",
+     "reason": "时间口径偏差：摘要限于1346–1521年上德意志个案，正文泛化为整个帝国。",
+     "fix": "所引 2018 年《Associative Political Culture in the Holy Roman Empire》（被引39）以 1346–1521 年上德意志为个案，挑战把帝国视为破碎「领土国家」的负面评价，指出诸侯、教士、贵族与城市共享同一套仪式与司法等政治工具；本条「14—16 世纪帝国权力分散、多方共治」据此。"
+    }
+   ]
+  },
+  {
+   "title": "汉萨同盟",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4411023422",
+     "field": "influence",
+     "claim": "所引 2025 年研究用 190 年的新贸易数据发现：1669 年同盟解散后，原汉萨航线的贸易量已回到引力模型的预测水平，但同盟网络仍持续影响贸易构成。",
+     "abstract_evidence": "We study trade networks following the decline of the Hanseatic League, using a novel trade data set that covers cities and captains in Northern Europe over 190 years. By the time of its dissolution in 1669, trade on former Hansa routes is within predictions from a gravity framework. However, the Hansa continue to shape the composition of trade: Trade between cities in the Hanseatic network continues to be facilitated by Hanseatic captains for centuries. Our paper highlights the long-run stability of commercial and social networks, which persist when other economic effects do not.",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2025 年研究用 190 年的新贸易数据发现：1669 年同盟解散后，原汉萨航线的贸易量已回到引力模型的预测水平，但同盟网络仍持续影响贸易构成。"
+    },
+    {
+     "source": "openalex-W4400815659",
+     "field": "influence",
+     "claim": "所引 2024 年《The Hanseatic League》（摘要≥800 字符）综述汉萨同盟的组织与贸易网络；本条「汉萨以城市联盟形式垄断波罗的海贸易」据此。",
+     "abstract_evidence": "Between the fourteenth and sixteenth century the Hanseatic League left its mark on the main trading routes in central and northern Europe. Despite its role in structuring trade – and to a degree politics – in this area, it was nothing more than a loosely connected trade organisation. The merchants who shaped it resided in the Netherlands, central and northern Germany, Prussia, Scandinavia, and what are now the Baltic countries and parts of Poland. Their league secured unhindered trade through contracts with local authorities, namely in Novgorod, Norway, England, Flanders, France, and Portugal.",
+     "verdict": "SOFT",
+     "reason": "术语溢出：摘要称其只是松散的贸易组织、成员为商人，并未言「城市联盟垄断」。",
+     "fix": "所引 2024 年《The Hanseatic League》（摘要≥800 字符）指出汉萨同盟只是一个松散联系的贸易组织，却通过与诺夫哥罗德、挪威、英格兰等地当局订约保障通商，并以统一的贸易规则降低交易成本；本条「汉萨以商人网络主导北欧与波罗的海贸易」据此。"
+    }
+   ]
+  },
+  {
+   "title": "基辅罗斯",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W4407989916",
+     "field": "influence",
+     "claim": "所引 2025 年专著批评把罗斯简化为「拜占庭共同体」一部分的传统框架，认为这一框架低估了与西欧的联系、放大了拜占庭影响，并指出该叙事被民族主义修辞用于把俄罗斯与欧洲分隔。",
+     "abstract_evidence": "While there has been a great deal (comparatively) written about Rus as part of medieval Europe in the last twenty years, the popular perception of it remains a part of the so-called 'Byzantine Commonwealth.' This traditional framing discounts Russian ties to the west and exaggerates those to 'Byzantium,' elevating the rhetoric used by Russian nationalists to separate Russia from Europe. This Element provides an accurate historical account of medieval Rus that corrects the modern misuse of medieval history: a resource for academics interested in the results of current research on the place of t",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2025 年专著批评把罗斯简化为「拜占庭共同体」一部分的传统框架，认为这一框架低估了与西欧的联系、放大了拜占庭影响，并指出该叙事被民族主义修辞用于把俄罗斯与欧洲分隔。"
+    },
+    {
+     "source": "openalex-W2955991686",
+     "field": "polities",
+     "claim": "所引 2019 年研究（摘要 3,466 字符）讨论基辅罗斯的地位与作用；本条「基辅罗斯以第聂伯河商路与公国联盟维系」据此。",
+     "abstract_evidence": "The place and role of the Kyivan Rus in the centuries-old history of Ukrainian statehood are analyzed. The main attention is paid to the fact that the Kyivan Rus was the first state created by Ukrainians. The Rosy, Rusyns, Ukrainians are historical ethnonyms of one Ukrainian nation, in the language of which is Ukrainian, known from the VII century. The formation and development of the Kyiv Principality with the center in Kyiv was a logical result of the internal socio-economic and political development of the Eastern Slavs - the original Ukrainians. The unification within the limits of one Kyi",
+     "verdict": "FAIL",
+     "reason": "对象不符：摘要论基辅罗斯在乌克兰国家建构史中的地位与抵御外敌，未涉第聂伯河商路与公国联盟。",
+     "fix": "所引 2019 年研究（摘要 3,466 字符）从乌克兰国家建构史的角度讨论基辅罗斯的地位与作用，认为基辅罗斯的统一使东斯拉夫人得以抵御周边势力与游牧民族的进攻。"
+    }
+   ]
+  },
+  {
+   "title": "欧洲冰期地貌",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2038364128",
+     "field": "geo",
+     "claim": "所引 1986 年《Dynamics of the Pleistocene glaciation…》（摘要 953 字符）指出整个更新世芬诺斯坎迪亚存在两个主要冰盖分水岭（北部与南部各有一个冰川中心）；本条「欧洲北部冰期地貌由多次冰盖扩张与消退塑造」据此。",
+     "abstract_evidence": "Throughout the Pleistocene a system of two major ice divides operated in Fennoscandia: a northern one (with a western center of glaciation) and a southern one (with an eastern center of glaciation). With relatively thin ice the northern ice divide and the western center of glaciation were operative; with relatively thick ice the southern ice divide and the eastern center of glaciation came into play. The pattern of isostatic depression of the crust and of subsequent isostatic rebound varied depending on where the center of glaciation was located; inevitably, too, the areas of marine transgress",
+     "verdict": "SOFT",
+     "reason": "引申：摘要论冰盖分水岭与冰川中心迁移及均衡、海侵，未直接论「多次扩张消退塑造地貌」。",
+     "fix": "所引 1986 年《Dynamics of the Pleistocene glaciation…》（摘要 953 字符）指出整个更新世芬诺斯坎迪亚存在南北两个主要冰盖分水岭，冰川中心随冰厚变化而转换，进而决定地壳均衡下沉与回弹及海侵范围；本条「欧洲北部冰期地貌受冰川中心迁移与均衡调整影响」据此。"
+    },
+    {
+     "source": "openalex-W1983558504",
+     "field": "influence",
+     "claim": "所引 2004 年研究以 150 年积累的已发表文献与 BGS 测绘记录为基础，编成「Glacial Map」（1:625,000）与 GIS 数据库，覆盖末次（Devensian）不列颠冰盖，逾 2 万个地貌要素按主题分层、可回溯到原始来源；作者自陈主要限制是数据一致性与可靠性。",
+     "abstract_evidence": "A review of the academic literature and British Geological Survey mapping is employed to produce a ‘Glacial Map’, and accompanying geographic information system (GIS) database, of features related to the last (Devensian) British Ice Sheet. The map (1:625000) is included in a folder and GIS data are freely available by web download ( http:www.shef.ac.ukgeographystaffclark_chrisbritice.html ). Emphasis is on information that constrains the last ice sheet. The following are included: moraines, eskers, drumlins, meltwater channels, tunnel valleys, trimlines, limit of key glacigenic deposits, glaci",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2004 年研究以 150 年积累的已发表文献与 BGS 测绘记录为基础，编成「Glacial Map」（1:625,000）与 GIS 数据库，覆盖末次（Devensian）不列颠冰盖，逾 2 万个地貌要素按主题分层、可回溯到原始来源；作者自陈主要限制是数据一致性与可靠性。"
+    }
+   ]
+  },
+  {
+   "title": "阿巴拉契亚山脉",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2948623208",
+     "field": "geo",
+     "claim": "所引 2019 年研究讨论国际阿巴拉契亚步道如何把阿巴拉契亚地体（terranes）连成一条步道，以增进公众对当地地质遗产的理解；本条「阿巴拉契亚为古老造山带、地形与地质结构相关」据此（该文以步道与地质遗产解说为主）。",
+     "abstract_evidence": "Since its inception in 1994, the mission of the International Appalachian Trail has been to connect Appalachian terranes with a walking trail to encourage public understanding of the rich geological story preserved in mountains around the Atlantic Ocean. Beginning at the trailhead in Katahdin Woods & Water National Monument, hikers can now walk north into Canada and beyond, following the trail that is now designated in Maine, Canada, and several European countries. The trail links terranes associated with the formation of the Appalachian mountains, highlighting the geologic relationships and s",
+     "verdict": "SOFT",
+     "reason": "外推：摘要为步道与地质科普，未论「地形与地质结构相关」。",
+     "fix": "所引 2019 年研究讨论国际阿巴拉契亚步道如何把与阿巴拉契亚山脉形成相关的地体连成一条步道，以增进公众对大西洋两岸共享地质历史的理解。"
+    },
+    {
+     "source": "openalex-W1902061871",
+     "field": "influence",
+     "claim": "所引 2002 年研究（被引 163）指出：阿巴拉契亚造山带形成于早古生代开始、以阿勒格尼造山运动（Alleghanian，320–260 Ma）结束的过程，由大陆—大陆碰撞与 Theic 洋最终闭合驱动。",
+     "abstract_evidence": "This chapter modifies the transpressional-oblique collision model for closing of oceans by suggesting that rotation of colliding masses and zippered closing of the ocean occurs following initial oblique collision. Zipper tectonics involves closing of an ocean from one end to the other as colliding elements touch and subduction eliminates the intervening ocean; rotation and transpressional collision are required. While this mechanism probably has operated in numerous other orogenics, evidence from the Carboniferous-Permian (320-260 Ma) Alleghanian orogen suggests that the mechanism operated her",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2002 年研究（被引 163）指出：阿巴拉契亚造山带形成于早古生代开始、以阿勒格尼造山运动（Alleghanian，320–260 Ma）结束的过程，由大陆—大陆碰撞与 Theic 洋最终闭合驱动。"
+    },
+    {
+     "source": "openalex-W1902061871",
+     "field": "influence",
+     "claim": "所引研究而言，它支持「同一山系由多期事件叠加而成」，阿勒格尼期为斜向旋转碰撞机制。",
+     "abstract_evidence": "This chapter modifies the transpressional-oblique collision model for closing of oceans by suggesting that rotation of colliding masses and zippered closing of the ocean occurs following initial oblique collision. Zipper tectonics involves closing of an ocean from one end to the other as colliding elements touch and subduction eliminates the intervening ocean; rotation and transpressional collision are required. While this mechanism probably has operated in numerous other orogenics, evidence from the Carboniferous-Permian (320-260 Ma) Alleghanian orogen suggests that the mechanism operated her",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引研究而言，它支持「同一山系由多期事件叠加而成」，阿勒格尼期为斜向旋转碰撞机制。"
+    }
+   ]
+  },
+  {
+   "title": "西北海岸",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2163451848",
+     "field": "influence",
+     "claim": "所引 2013 年研究指出，该区域原住民主动管理陆域与海洋资源（如贝类床、火控促进资源植物），其管理实践嵌入复杂的社会经济网络。",
+     "abstract_evidence": "There is increasing recognition among anthropologists that indigenous peoples of the Northwest Coast actively managed their terrestrial and marine resources and ecosystems. Such management practices ensured the ongoing productivity of valued resources and were embedded in a complex web of socio-economic interactions. Using ethnographic and archaeological data, this paper synthesizes the ecological and cultural aspects of marine management systems of coastal First Nations. We divide our discussion into four aspects of traditional management systems: harvesting methods, enhancement strategies, t",
+     "verdict": "SOFT",
+     "reason": "术语溢出：摘要只说原住民主动管理陆海资源、嵌入复杂社会经济网络，未提贝类床与火控等具体实践。",
+     "fix": "所引 2013 年研究指出，该区域原住民主动管理陆域与海洋资源及生态系统，确保有价值资源的持续产出，其管理实践嵌入复杂的社会经济网络。"
+    },
+    {
+     "source": "openalex-W1581636576",
+     "field": "influence",
+     "claim": "所引 2009 年《Salmon, Science, and Reciprocity on the Northwest Coast》（被引62，摘要 859 字符）：作者论证该沿岸的部落在近代商业捕捞之前的数千年间管理鲑鱼种群，并拥有对终端渔场的排他权利、由互惠关系维系；作者称现有证据「令人信服」地表明其主动维护了鲑鱼的持续丰度。",
+     "abstract_evidence": "Severe depletion of many genetically distinct Pacific salmon populations has spawned a contentious debate over causation and the efficacy of proposed solutions.No doubt the precipitating factor was overharvesting of the commons beginning along the Northwest Coast around 1860.Yet, for millenia before that, a relatively dense population of Indian tribes managed salmon stocks that have since been characterized as \"superabundant.\"This study investigates how they avoided a tragedy of the commons, where in recent history, commercial ocean fishers guided by scientifically informed regulators, have re",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2009 年《Salmon, Science, and Reciprocity on the Northwest Coast》（被引62，摘要 859 字符）：作者论证该沿岸的部落在近代商业捕捞之前的数千年间管理鲑鱼种群，并拥有对终端渔场的排他权利、由互惠关系维系；作者称现有证据「令人信服」地表明其主动维护了鲑鱼的持续丰度。"
+    }
+   ]
+  },
+  {
+   "title": "新法兰西",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2076135343",
+     "field": "influence",
+     "claim": "所引 2012 年研究以耶稣会《Relations》为对象，指出这些文本在巴黎编辑后又被送回殖民地供对照与删改，因此其作为「旅行写作」与「民族志首要资料」的可靠性须重新评估。",
+     "abstract_evidence": "This article argues that the Jesuit Relations, commonly read as the accounts of daring French travelers to the New World in the seventeenth century, must also be understood in light of the colony-centric circulation of the texts. In a step that has never before been considered part of the process through which the Relations collected and circulated information, some—and perhaps all—of the texts were sent back to Canada after being edited and published in Paris, giving Jesuits in the colony an opportunity to consult the published texts to see how they had been changed in France. This article fo",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2012 年研究以耶稣会《Relations》为对象，指出这些文本在巴黎编辑后又被送回殖民地供对照与删改，因此其作为「旅行写作」与「民族志首要资料」的可靠性须重新评估。"
+    },
+    {
+     "source": "openalex-W4382866151",
+     "field": "influence",
+     "claim": "所引 2018 年《Power and Subsistence: The Political Economy…》（摘要 1,323 字符）讨论新法兰西的政治经济与生计；本条「新法兰西以毛皮贸易为经济基础、人口集中于河谷」据此。",
+     "abstract_evidence": "Subsistence crops – the grains and other food items necessary to a people's survival – were a central preoccupation of the early modern state. In New France, the principal crop in question was wheat, and its production, consumption, exchange, and regulation were matters to which the government devoted sustained attention. Power and Subsistence examines the official measures taken to regulate the grain economy in New France, the frequency and nature of state interventions in the system, and the responses these actions provoked. Drawing on social and political perspectives and methodologies, thi",
+     "verdict": "FAIL",
+     "reason": "对象不符：摘要论谷物（小麦）政治经济与高度集中的管制，与「毛皮贸易为经济基础、人口集中于河谷」无关。",
+     "fix": "所引 2018 年《Power and Subsistence: The Political Economy…》（摘要 1,323 字符）讨论新法兰西的谷物政治经济，指出小麦的生产、消费、交换与管制受到政府持续关注，其谷物经济高度集中化。"
+    }
+   ]
+  }
+ ]
+}

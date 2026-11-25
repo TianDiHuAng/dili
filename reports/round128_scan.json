@@ -1,0 +1,382 @@
+{
+ "entries": [
+  {
+   "title": "古巴岛",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2519900070",
+     "field": "geo",
+     "claim": "所引 2016 年《The geology of Cuba: A brief overview and synthesis》（被引81）指出古巴的地质记录包含三个重要阶段：侏罗纪北美与南美（Pangea）裂解及被动陆缘演化、白垩纪—古近纪大洋内弧的沉积—岩浆—变质演化，以及与巴哈马台地的碰撞；本条「岛屿由多期构造拼合而成」据此。",
+     "abstract_evidence": "Cuba is the largest island in the Greater Antilles, and its geology records three important episodes: (1) the Jurassic breakup of North and South America (Pangea) and associated passive margin and oceanic sedimentary and magmatic evolution; (2) the sedimentary, magmatic, and metamorphic evolution of an intra-oceanic Cretaceous-Paleogene ophiolite-arc complex; and (3) the Paleogene 'soft collision' and transfer of the NW Caribbean plate (and Cuba) to the North American plate. Thick sequences of Jurassic-Cretaceous strata (conglomerates, sandstones, limestones, dolo­stones, shales) and interlaye",
+     "verdict": "SOFT",
+     "reason": "术语偏差：摘要第三阶段为古近纪「软碰撞」及西北加勒比板块转入北美板块，并非「与巴哈马台地碰撞」；第二阶段为蛇绿岩—岛弧杂岩。",
+     "fix": "所引 2016 年《The geology of Cuba: A brief overview and synthesis》（被引81）指出古巴的地质记录包含三个重要阶段：侏罗纪北美与南美（Pangea）裂解及被动陆缘演化、白垩纪—古近纪大洋内蛇绿岩—岛弧杂岩的沉积—岩浆—变质演化，以及古近纪「软碰撞」与西北加勒比板块（连同古巴）转入北美板块；本条「岛屿由多期构造拼合而成」据此。"
+    },
+    {
+     "source": "openalex-W1987038906",
+     "field": "influence",
+     "claim": "所引 2004 年研究以古巴中部 Camagüey 地区的 Ar/Ar 定年约束该区构造事件：火山岩全岩年龄为 74–72 Ma，比夹层沉积岩中化石指示的 100–80 Ma 明显年轻；侵入其中的正长岩与花岗闪长岩给出 75–72 Ma。",
+     "abstract_evidence": "Ar/Ar ages determined on rocks and minerals from the Camagüey area in central Cuba provide age constraints on events that accompanied the northward migration of Cuba into the Caribbean region and its subsequent collision with the Bahamas Bank. Whole‐rock samples from the Camujiro and Piragua Formations, part of the Camagüey volcanic sequence, yielded Ar/Ar ages of 74–72 Ma, distinctly younger than the 100–80‐Ma ages indicated by fossils in interlayered sedimentary rocks. Syenite and granodiorite in the Camagüey batholith, which cut these volcanic rocks, yield generally similar Ar/Ar ages of 75",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2004 年研究以古巴中部 Camagüey 地区的 Ar/Ar 定年约束该区构造事件：火山岩全岩年龄为 74–72 Ma，比夹层沉积岩中化石指示的 100–80 Ma 明显年轻；侵入其中的正长岩与花岗闪长岩给出 75–72 Ma。"
+    }
+   ]
+  },
+  {
+   "title": "巴塔哥尼亚",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W1994664019",
+     "field": "geo",
+     "claim": "所引 2013 年《Large-Scale Control on the Patagonian Climate》（被引 668）指出巴塔哥尼亚降水主要由西风气流中的扰动产生，并被南安第斯山强烈改造；本条「西风带与安第斯雨影共同决定其干旱格局」据此。",
+     "abstract_evidence": "Patagonia, located in southern South America, is a vast and remote region holding a rich variety of past environmental records but a small number of meteorological stations. Precipitation over this region is mostly produced by disturbances embedded in the westerly flow and is strongly modified by the austral Andes. Uplift on the windward side leads to hyperhumid conditions along the Pacific coast and the western slope of the Andes; in contrast, downslope subsidence dries the eastern plains leading to arid, highly evaporative conditions. The authors investigate the dependence of Patagonia’s loc",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2013 年《Large-Scale Control on the Patagonian Climate》（被引 668）指出巴塔哥尼亚降水主要由西风气流中的扰动产生，并被南安第斯山强烈改造；本条「西风带与安第斯雨影共同决定其干旱格局」据此。"
+    },
+    {
+     "source": "openalex-W3046252846",
+     "field": "influence",
+     "claim": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史，显示流动与替代过程比单一「沿海扩张」模型更复杂。",
+     "abstract_evidence": "Archaeological research documents major technological shifts among people who have lived in the southern tip of South America (South Patagonia) during the last thirteen millennia, including the development of marine-based economies and changes in tools and raw materials. It has been proposed that movements of people spreading culture and technology propelled some of these shifts, but these hypotheses have not been tested with ancient DNA. Here we report genome-wide data from 20 ancient individuals, and co-analyze it with previously reported data. We reveal that immigration does not explain the",
+     "verdict": "SOFT",
+     "reason": "引申：摘要显示约6600 BP以来部分遗传连续、两次基因流，未言「替代」，也未与「沿海扩张模型」对比。",
+     "fix": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史：海洋适应的出现并非由移民带来，约 6600 BP 以来存在部分遗传连续性，并有两次与技术变化相关的后期基因流。"
+    }
+   ]
+  },
+  {
+   "title": "的的喀喀湖",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W1934332297",
+     "field": "geo",
+     "claim": "所引 1949 年《Geology of the Lake Titicaca Region, Peru and Bolivia》（被引 122）以约一年的野外观察重建的的喀喀湖盆地的地质；本条「的的喀喀湖位于安第斯高原、盆地由构造与水文共同形成」据此。",
+     "abstract_evidence": "The basin of Lake Titicaca in the high plateau of the Central Andes lies across the border between Peru and Bolivia. This memoir based mainly on the author’s observations during approximately 1 year in the field describes in reconnaissance detail the geology of the basin. The area is complex and forms a geological province distinct from adjoining Andean areas to the south and northwest. A general areal map covering about 58,000 square kilometers was prepared (scale 1:500,000) and a small area of some 200 square kilometers was mapped in detail (1:30,000) at Pirín, highest oil field in the world",
+     "verdict": "SOFT",
+     "reason": "外推：摘要为盆地地质概查，未论「构造与水文共同形成」。",
+     "fix": "所引 1949 年《Geology of the Lake Titicaca Region, Peru and Bolivia》（被引 122）以约一年的野外观察概述的的喀喀湖盆地的地质；本条「的的喀喀湖位于中安第斯高原、跨秘鲁与玻利维亚边界，其盆地构成区别于邻区的独立地质单元」据此。"
+    },
+    {
+     "source": "openalex-W3149966361",
+     "field": "influence",
+     "claim": "所引 2002 年研究以「水中的界线」为题，讨论湖泊作为渔业与芦苇资源、交通通道以及文化认同载体的多重角色，并涉及现代技术、市场压力与文化自主之间的张力。",
+     "abstract_evidence": "This beautifully written book weaves reflections on anthropological fieldwork together with evocative meditations on a spectacular landscape as it takes us to the remote indigenous villages on the shore of Lake Titicaca, high in the Peruvian Andes. Ben Orlove brings alive the fishermen, reed cutters, boat builders, and families of this isolated region, and describes the role that Lake Titicaca has played in their culture. He describes the landscapes and rhythms of life in the Andean highlands as he considers the intrusions of modern technology and economic demands in the region. Lines in the W",
+     "verdict": "SOFT",
+     "reason": "轻度引申：摘要涉渔民、割芦苇者、造船者及文化自主，未提「交通通道」与「文化认同载体」。",
+     "fix": "所引 2002 年研究以「水中的界线」为题，讨论的的喀喀湖在湖畔渔民、割芦苇者与造船者文化中的角色，并涉及现代技术与经济需求的冲击和当地维持文化自主、保护脆弱山地环境之间的关系。"
+    }
+   ]
+  },
+  {
+   "title": "查文文化",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W1979034930",
+     "field": "influence",
+     "claim": "所引 2004 年研究讨论查文德万塔尔权威与权力的演化，其材料包括石雕、切石建筑、地下廊道、地形改造，以及声光环境与致幻物的使用。",
+     "abstract_evidence": "The Early Horizon type site of Chavín de Huántar, located in the north‐central Andes of modern Peru, is distinguished by a long sequence of construction, as well as outstanding features such as abundant lithic art, use of cut stone in construction, a complex of underground gallery systems, and exceptional alteration of local land forms. This chapter explores the implications of these characteristics for the evolution of power and authority at this site across the later Initial Period and Early Horizon (approximately 1300 to 600 B.C.). Particular attention is focused on the concepts of power an",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2004 年研究讨论查文德万塔尔权威与权力的演化，其材料包括石雕、切石建筑、地下廊道、地形改造，以及声光环境与致幻物的使用。"
+    },
+    {
+     "source": "openalex-W4252739642",
+     "field": "influence",
+     "claim": "所引 2016 年《Chavin culture (pre-Moche)》（摘要 909 字符）讨论查文文化（莫切之前）的宗教中心与影响；本条「查文以神庙中心与跨区域朝圣网络整合安第斯社会」据此。",
+     "abstract_evidence": "Chavin culture refers to the 1200–500 bce , middle and Late Formative periods societies of the central Andes of South America, as well as to the archetypical site of Chavín de Huantár in the north‐central highlands of Peru. This site and other contemporary monumental ritual centers established many of the cultural characteristics of pre‐Columbian societies of the Andes and thus was a major antecedent to the later Andean empires. Elaborate rituals helped build the credibility of emerging authorities, and participation in these cult‐based centers gave initiates access to iconic pottery and other",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2016 年《Chavin culture (pre-Moche)》（摘要 909 字符）讨论查文文化（莫切之前）的宗教中心与影响；本条「查文以神庙中心与跨区域朝圣网络整合安第斯社会」据此。"
+    }
+   ]
+  },
+  {
+   "title": "纳斯卡文化",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2019769917",
+     "field": "influence",
+     "claim": "所引 2005 年研究以沙漠黄土与地貌分析建立该区环境演化的初步年代序列，说明景观本身在长期气候波动中变化——地画的「持久可见」依赖于极端干旱这一条件。",
+     "abstract_evidence": "The paper presents proxies from an interdisciplinary geoarchaeological working group. Sediment analyses and geomorphological studies, radiocarbon ages of snail shells and luminescence dating of loess allow a preliminary chronology of the environmental evolution of the eastern Atacama desert, Nazca–Palpa region (southern Peru). Until now, typical desert loess was unknown from the arid western flank of the Andes (southern Peru). The loess points to periods of more humid conditions with open grasslands at the eastern Atacama desert margin in the early and middle Holocene. In the footzone of the A",
+     "verdict": "SOFT",
+     "reason": "外推：摘要为环境演化年代与干旱化对聚落的影响，未论地画「持久可见」。",
+     "fix": "所引 2005 年研究以沙漠黄土与地貌分析建立纳斯卡—帕尔帕地区环境演化的初步年代序列，显示早中全新世较湿润、其后逐步干旱化，纳斯卡中期（公元 250 年后）干旱加剧时聚落中心向上游迁移。"
+    },
+    {
+     "source": "openalex-W2543231307",
+     "field": "influence",
+     "claim": "所引 2016 年《Beyond the Nasca Lines: Ancient Life at La…》（被引22）把视线从著名的纳斯卡线条转向日常聚落生活；本条「纳斯卡以干旱环境下的灌溉农业与地画著称」据此。",
+     "abstract_evidence": "Beyond the Nasca Lines examines the origin, rise, fall, and reformation of complex societies through investigations conducted at the archaeological site of La Tiza in the desert of Nasca, Peru. La Tiza was inhabited for over 5000 years and has the longest occupation of any settlement in the region, providing an unprecedented opportunity to examine the dynamics of ancient complex societies. Although the region is famous for the Nasca Lines (ground drawing on the desert floor) that were created by the Nasca culture (A.D. 100–650), many societies thrived in the region before and after that period",
+     "verdict": "SOFT",
+     "reason": "术语溢出：摘要为拉蒂萨遗址长时段社会变迁，未提灌溉农业。",
+     "fix": "所引 2016 年《Beyond the Nasca Lines: Ancient Life at La…》（被引22）把视线从著名的纳斯卡线条转向拉蒂萨遗址 5000 余年的聚落生活，考察该地区复杂社会的兴起、衰落与重组。"
+    }
+   ]
+  },
+  {
+   "title": "奇穆帝国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2334447411",
+     "field": "influence",
+     "claim": "所引 1982 年研究分析的是奇卡马—莫切跨谷运河（La Cumbre）：以明渠流设计的计算机分析结合实地测量，探讨把奇卡马谷的水引至莫切谷的可行性。",
+     "abstract_evidence": "Of the many canal systems of the Chimu empire the Chicama-Moche Intervalley (La Cumbre) Canal connecting the Chicama and Moche valleys represents the highest level of technical achievement. This paper examines the engineering skills of the Chimu as revealed by computer analysis of the open channel flow design techniques they utilized. Analysis of agricultural strategies made possible by this canal and the surveying skills inherent to its use are examined in detail. The presence of many trial canal paths toward the distal end of the canal indicate extreme difficulty in overcoming tectonically i",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 1982 年研究分析的是奇卡马—莫切跨谷运河（La Cumbre）：以明渠流设计的计算机分析结合实地测量，探讨把奇卡马谷的水引至莫切谷的可行性。"
+    },
+    {
+     "source": "openalex-W2093974440",
+     "field": "polities",
+     "claim": "所引 1983 年《Imperialist Expansion in Peruvian Prehistory》（被引82）讨论秘鲁史前的帝国式扩张；本条「奇穆以灌溉网络与行政中心控制北部海岸」据此。",
+     "abstract_evidence": "The expansion of prehistoric empires has been an important feature in the development of civilizations throughout the world. Yet, archaeological research directed towards the study of imperial expansion and conquest of territory has rarely been attempted. Building on previous fieldwork, the program of investigation described in this paper is aimed at demonstrating the impact of imperialistic expansion on a foreign territory.The research forming the focus of this paper was undertaken in the Jequetepeque Valley on the Peruvian North Coast. The Jequetepeque Valley is one of several valleys known ",
+     "verdict": "SOFT",
+     "reason": "术语溢出：摘要论奇穆对被征服的杰克特佩克谷的行政管理，未涉灌溉网络。",
+     "fix": "所引 1983 年《Imperialist Expansion in Peruvian Prehistory》（被引82）以杰克特佩克谷为例讨论奇穆帝国对被征服领土的管理；本条「奇穆以昌昌为都城、向北部海岸谷地扩张并实施行政控制」据此。"
+    }
+   ]
+  },
+  {
+   "title": "南美贸易网络",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2102360536",
+     "field": "influence",
+     "claim": "所引 2014 年研究以世界体系视角讨论贵重贸易品（如 Spondylus 马蹄螺贝壳）在安第斯社会再生产中的作用，并把它与安第斯主要语言的多次扩散相联系。",
+     "abstract_evidence": "In this article, I argue, first, that a world‐system perspective can illuminate the role of prestigious trade goods such as Spondylus in the reproduction of pre‐Hispanic Andean societies and the significance of their procurement for the course of Andean prehistory. Second, I argue that the successive dispersals of major Andean languages (Aymara, Quechua, Pukina) reflect the establishment of prestigious lingua francas integrating such systems of long‐distance exchange. Political, agricultural, stylistic, and linguistic expansions in prehistory are interpreted as reflections of the integration o",
+     "verdict": "SOFT",
+     "reason": "术语偏差：Spondylus 为海菊蛤（多刺牡蛎），非马蹄螺；其余与摘要一致。",
+     "fix": "所引 2014 年研究以世界体系视角讨论贵重贸易品（如 Spondylus 海菊蛤贝壳）在安第斯社会再生产中的作用，并把它与安第斯主要语言的多次扩散相联系。"
+    },
+    {
+     "source": "openalex-W4224004721",
+     "field": "influence",
+     "claim": "所引 2022 年研究（摘要 1,275 字符）讨论秘鲁东北部 Jaén 地区的石碗传统与 Selva 走廊的早期仪式中心；本条「安第斯与亚马逊之间的交换网络长期存在」据此。",
+     "abstract_evidence": "Pedro Rojas's 1961 excavation of numerous stone vessels at the Huayurco site has led scholars to suspect that the Jaén region of the northeastern Peruvian Andes was an important center of early ceremonial stone bowl production. This discovery not only provided clear evidence of an independent craft technology within theceja de selva, or eastern Andean tropical montane forest, but the similarity of these stone vessels to examples found at coastal and highland Andean sites also suggested that the Jaén region produced these vessels as a means of participating within early interregional exchange n",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2022 年研究（摘要 1,275 字符）讨论秘鲁东北部 Jaén 地区的石碗传统与 Selva 走廊的早期仪式中心；本条「安第斯与亚马逊之间的交换网络长期存在」据此。"
+    }
+   ]
+  },
+  {
+   "title": "南锥体",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W1524625152",
+     "field": "geo",
+     "claim": "所引 2012 年研究（被引115，摘要 1,122 字符）指出南新热带的潘帕斯是面积广大、植被以禾草为主的区域，也是南美研究最少的生态系统之一；本条「南锥体以潘帕斯草原为典型景观」据此。",
+     "abstract_evidence": "The Pampas in the southern Neotropics is a vast region with vegetation composed mainly of grasses, and it may be the least-studied ecosystem in southern South America. Contrary to what was thought until recently, this region is heterogeneous and harbours rich biodiversity and many endemic species; however, little is known about the current geographical distribution and evolution of its plants. Here, we present results from phylogeographical studies on two genera typical of open environments (Petunia and Calibrachoa) that occur in both the Pampas and the high-altitude grasslands of southern Bra",
+     "verdict": "SOFT",
+     "reason": "范围放大：摘要描述潘帕斯本身，未论其为南锥体「典型景观」。",
+     "fix": "所引 2012 年研究（被引115，摘要 1,122 字符）指出南新热带的潘帕斯是面积广大、植被以禾草为主的区域，也是南美研究最少的生态系统之一；本条「潘帕斯草原是南锥体的重要景观之一」据此。"
+    },
+    {
+     "source": "openalex-W4224441281",
+     "field": "influence",
+     "claim": "所引 2022 年研究考察 1946–1960 年西班牙向该区域的战后移民，涉西班牙与阿根廷的移民协定、巴西1950年代初的经济繁荣等。",
+     "abstract_evidence": "This chapter reconsiders the characteristics of the last migratory flow from Spain to the Southern Cone during the 20th century. The chronological framework includes the reinstatement of intercontinental displacements after World War II, the immigration agreement between Franco’s Spain and Peron’s Argentina, the economic boom period in Brazil at the beginning of the 1950s and the change of direction of migratory flows from 1956 to other overseas destinations such as Venezuela, but above all to Europe. In this context, the chapter addresses the efforts of Latin American governments, and especia",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2022 年研究考察 1946–1960 年西班牙向该区域的战后移民，涉西班牙与阿根廷的移民协定、巴西1950年代初的经济繁荣等。"
+    },
+    {
+     "source": "openalex-W4251197559",
+     "field": "influence",
+     "claim": "所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学的视角，对南锥体的当代政治经济作深入论述；本条「南锥体三国以农牧出口与城市化推进经济整合」据此。",
+     "abstract_evidence": "Developing an original blend of perspectives from the fields of international and comparative political economy, this book presents an innovative and in-depth account of the contemporary political economy of the southern cone of Latin America: Argentina, Brazil, Chile, Paraguay and Uruguay.It identifies a new and distinctive model of regional capitalist development emerging in the southern cone and a complex relationship with both the global political economy and the five distinctive national political economies in the region. Ranging across the contours of labour, business, states and regiona",
+     "verdict": "SOFT",
+     "reason": "对象与术语偏差：摘要涵盖五国、提出新的区域资本主义发展模式，未涉「三国」「农牧出口与城市化」。",
+     "fix": "所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学视角论述阿根廷、巴西、智利、巴拉圭与乌拉圭的当代政治经济，提出该区域出现了一种新的区域资本主义发展模式。"
+    }
+   ]
+  },
+  {
+   "title": "美拉尼西亚",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W1499262168",
+     "field": "influence",
+     "claim": "所引 1985 年研究挑战「殖民统治与传教决定了平定进程」的通行看法，强调岛民自身的利益与主动在从部落战争走向持久和平中的作用。",
+     "abstract_evidence": "This volume challenges the conventional view that colonial rule and missionization determined the course of pacification in Melanesia. The only book on pacification in this region, the nine essays emphasize the interests and initiatives of islanders in the transition from tribal warfare to an enduring peace. A useful text for courses on Pacific anthropology and history; also well-suited for social scientists interested in warfare and peace.",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 1985 年研究挑战「殖民统治与传教决定了平定进程」的通行看法，强调岛民自身的利益与主动在从部落战争走向持久和平中的作用。"
+    },
+    {
+     "source": "openalex-W2795469032",
+     "field": "influence",
+     "claim": "所引 2018 年《Change and Resilience in Melanesian Societies》（摘要 13,669 字符）讨论美拉尼西亚社会的变迁与韧性；本条「美拉尼西亚以小规模社会与交换网络为特征」据此。",
+     "abstract_evidence": "The Paris Agreement, with all its shortcomings, has started a new chapter of global climate change governance and prioritized the demands from island and low-lying states more than before. Despite the lack of leadership at the inter-state level, resources are being mobilized and channeled to climate-vulnerable countries for adaptation, technology transfer, and resilience-building. If properly implemented, optimists suggest that climate assistance could be a \"flagship opportunity\" for many developing countries to upgrade their domestic energy structures and accelerate the sustainable developmen",
+     "verdict": "FAIL",
+     "reason": "对象不符：摘要实为气候变化治理背景下的书评，未讨论「小规模社会与交换网络」。",
+     "fix": "所引 2018 年《Change and Resilience in Melanesian Societies》（摘要 13,669 字符）为书评性文本，在全球气候变化治理背景下讨论美拉尼西亚地区的变迁与韧性。"
+    }
+   ]
+  },
+  {
+   "title": "密克罗尼西亚",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2145990868",
+     "field": "influence",
+     "claim": "所引 2014 年研究讨论密克罗尼西亚岛屿在维持珊瑚礁遗传多样性中的作用，指出散布的小岛可能充当珊瑚三角区遗传多样性的中转节点。",
+     "abstract_evidence": "Understanding how genetic diversity is maintained across patchy marine environments remains a fundamental problem in marine biology. The Coral Triangle, located in the Indo-West Pacific, is the centre of marine biodiversity and has been proposed as an important source of genetic diversity for remote Pacific reefs. Several studies highlight Micronesia, a scattering of hundreds of small islands situated within the North Equatorial Counter Current, as a potentially important migration corridor. To test this hypothesis, we characterized the population genetic structure of two ecologically importan",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2014 年研究讨论密克罗尼西亚岛屿在维持珊瑚礁遗传多样性中的作用，指出散布的小岛可能充当珊瑚三角区遗传多样性的中转节点。"
+    },
+    {
+     "source": "openalex-W4252938015",
+     "field": "influence",
+     "claim": "所引 2017 年《Traditional Micronesian Societies: Adaptation…》（被引22，摘要 2,141 字符）讨论密克罗尼西亚传统社会的适应与组织；本条「密克罗尼西亚以环礁岛屿与航海适应为基础」据此。",
+     "abstract_evidence": "Traditional Micronesian Societies explores the extraordinary successes of the ancient voyaging peoples who first settled the Central Pacific islands some two thousand years ago. They and their descendants devised social and cultural adaptations that have enabled them to survive—and thrive—under the most demanding environmental conditions. The dispersed matrilineal clans so typical of Micronesian societies ensure that every individual, every local family and lineage, and every community maintain close relations with the peoples of many other islands. When hurricanes and droughts or political st",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2017 年《Traditional Micronesian Societies: Adaptation…》（被引22，摘要 2,141 字符）讨论密克罗尼西亚传统社会的适应与组织；本条「密克罗尼西亚以环礁岛屿与航海适应为基础」据此。"
+    }
+   ]
+  },
+  {
+   "title": "复活节岛",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2081858996",
+     "field": "geo",
+     "claim": "所引 2002 年《A message for our future? The Rapa Nui (Easter Island) ecodisaster…》（被引114）结合该岛独特的考古遗存与地理位置，讨论其生态灾难叙事的形成；本条「复活节岛远离大陆、面积有限、资源受约束」据此。",
+     "abstract_evidence": "The unique archaeological remains of Rapa Nui (Easter Island) in conjunction with its geographical position have led to a special interest in this place. What has become the orthodox understanding of the material remains, especially the famous large carved stone torsos ( moai ), is that they represent a physical manifestation of social competition that was a major causative factor in an ecodisaster - the destruction of the indigenous palm forest. This story of human-caused environmental disaster provided a topical warning, as a microcosm of the earth, in the environmentally aware final two dec",
+     "verdict": "SOFT",
+     "reason": "引申：摘要检讨生态灾难正统叙事，未论「面积有限、资源受约束」。",
+     "fix": "所引 2002 年《A message for our future? The Rapa Nui (Easter Island) ecodisaster…》（被引114）指出该岛独特的考古遗存与地理位置使其备受关注，并检讨「摩艾竞争导致棕榈林毁灭」的生态灾难正统叙事。"
+    },
+    {
+     "source": "openalex-W2130117805",
+     "field": "influence",
+     "claim": "所引 2006 年研究以 Maunga Orito 的剖面揭示农业策略的序列：12世纪清理棕榈、开园种植薯蓣与芋，15世纪延续，17–19世纪出现覆土与石堆园。",
+     "abstract_evidence": "A long section adjacent to a former obsidian quarry on Easter Island (Rapa Nui) reveals a sequence of agricultural strategies, beginning with the clearing of palm trees in the twelfth century AD, and the making of an open garden growing yams and taro, that continued through the fifteenth century. The later phases between the seventeenth and nineteenth centuries include veneer and boulder gardens that reflect the broader strategy employed by the islanders to fight the increasingly arid soil.",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2006 年研究以 Maunga Orito 的剖面揭示农业策略的序列：12世纪清理棕榈、开园种植薯蓣与芋，15世纪延续，17–19世纪出现覆土与石堆园。"
+    }
+   ]
+  },
+  {
+   "title": "太平洋殖民航线",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2148027005",
+     "field": "influence",
+     "claim": "所引 2008 年研究比较了不同阶段的海域难度：Lapita 航海者的海域比近大洋洲更具挑战、但明显弱于后来东波利尼西亚人所面对的；并据独木舟形制与性能估算航行能力。",
+     "abstract_evidence": "The first part of this paper establishes in a general kind of way that the domain or seascape that Lapita sailors operated in was more demanding than that of Wallacea and Near Oceania, but markedly less so than that negotiated later by East Polynesians. The second part takes a look at the form and performance of canoes, the possible nature of Lapita craft, and suggests ways to improve modern estimates of prehistoric performance by mechanical and mathematical modeling. The third part considers the practicalities of sailing in the Lapita domain; it argues that the dispersal of Lapita was in a se",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2008 年研究比较了不同阶段的海域难度：Lapita 航海者的海域比近大洋洲更具挑战、但明显弱于后来东波利尼西亚人所面对的；并据独木舟形制与性能估算航行能力。"
+    },
+    {
+     "source": "openalex-W2204248832",
+     "field": "influence",
+     "claim": "所引 2007 年《Lapita and Western Pacific Settlement》（被引35）讨论拉皮塔文化与西太平洋的定居过程；本条「拉皮塔陶器标示出南岛语族向太平洋的扩张路径」据此。",
+     "abstract_evidence": "Lapita originsThe question of Lapita origins has been debated for decades (see Pawley this volume).As increasing archaeological research results began to emerge from both the Pacific and Island Southeast Asia in the 1970s it was argued that the presence of this intricately decorated ceramic tradition was related primarily to Neolithic Austronesian expansion into the region (Bellwood 1978;Shutler and Marck 1975; Shutler and Shutler 1975).",
+     "verdict": "SOFT",
+     "reason": "引申：摘要仅称1970年代有学者主张拉皮塔与南岛语族扩张有关、起源长期争论，正文写成定论。",
+     "fix": "所引 2007 年《Lapita and Western Pacific Settlement》（被引35）回顾拉皮塔起源的长期争论，指出 1970 年代起有学者主张这一精细纹饰陶器传统主要与新石器时代南岛语族扩张有关。"
+    }
+   ]
+  },
+  {
+   "title": "横贯南极山脉",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2058359525",
+     "field": "geo",
+     "claim": "所引 1992 年《The Transantarctic Mountains of southern Victoria Land》（被引 249，摘要 2,406 字符）讨论南维多利亚地的横贯南极山脉地质；本条「横贯南极山脉把东南极与西南极分开、基岩在冰盖之上出露」据此。",
+     "abstract_evidence": "A fission track study of the Transantarctic Mountains (TAM) in the Granite Harbour and Wilson Piedmont Glacier areas of southern Victoria Land reveals information on the timing of uplift, the amount of uplift and erosion, and the structure of the mountains, especially the onshore Transantarctic Mountain Front (TAM Front), which represents the boundary between East and West Antarctica. Apatite ages are < 175 Ma and represent a thermal regime established after heating accompanying Jurassic magmatism. An apatite age profile from Mount England records a break in slope indicating uplift began at ∼5",
+     "verdict": "SOFT",
+     "reason": "外推：摘要为裂变径迹与抬升年代、山前带为东西南极分界，未论基岩出露于冰盖之上。",
+     "fix": "所引 1992 年《The Transantarctic Mountains of southern Victoria Land》（被引 249，摘要 2,406 字符）以磷灰石裂变径迹分析南维多利亚地的横贯南极山脉，指出山前带为东、西南极的分界，抬升约始于 55 Ma。"
+    },
+    {
+     "source": "openalex-W2091566445",
+     "field": "influence",
+     "claim": "所引 1989 年研究指出，该山脉形成于东南极与西南极的陆—陆边界；高热流、薄地壳、正断层与火山活动表明这条边界具有张裂性质，并发育出横贯南极山脉、威尔克斯盆地与维多利亚地盆地三个主要构造。",
+     "abstract_evidence": "The Transantarctic Mountains have formed at the continent‐continent boundary between East and West Antarctica. High heat flow, thin crust, normal faulting, and past and present volcanism indicate that this approximately 3000‐km‐long boundary is divergent in character. Three principal structures have developed at and adjacent to the boundary: the Transantarctic Mountains, the Wilkes Basin, and the Victoria Land Basin. The Transantarctic Mountains form the east edge of East Antarctica and consist of a block‐tilted mountain range up to 4500 m high. Running parallel but 400–500 km behind, or to th",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 1989 年研究指出，该山脉形成于东南极与西南极的陆—陆边界；高热流、薄地壳、正断层与火山活动表明这条边界具有张裂性质，并发育出横贯南极山脉、威尔克斯盆地与维多利亚地盆地三个主要构造。"
+    }
+   ]
+  },
+  {
+   "title": "罗斯海",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W3011544217",
+     "field": "geo",
+     "claim": "所引 1999 年研究（摘要 2,278 字符）分析罗斯海的第四纪底栖有孔虫分布及其与海洋学、冰架退缩的关系；本条「罗斯海受冰架与海冰影响、生态与沉积过程独特」据此。",
+     "abstract_evidence": "This study focuses on Quaternary benthic foraminiferal distribution in the Ross Sea, and its relationship to oceanography and ice-shelf retreat. It is the first study of benthic foraminiferal distribution that takes the retreat history of the Ross Ice Shelf into account. This is also the first time foraminifera from a cold-water carbonate bank have been described. There are three foraminiferal faunas in the Ross Sea: Pleistocene carbonate-bank fauna, Modern-calcareous fauna, and Holocene agglutinated fauna. Numerically significant species in the carbonate-bank and Modern-calcareous faunas incl",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 1999 年研究（摘要 2,278 字符）分析罗斯海的第四纪底栖有孔虫分布及其与海洋学、冰架退缩的关系；本条「罗斯海受冰架与海冰影响、生态与沉积过程独特」据此。"
+    },
+    {
+     "source": "openalex-W2024312440",
+     "field": "influence",
+     "claim": "所引 2002 年研究以近四十年的海洋观测（南极附近最长的记录之一）指出：陆架水盐度与罗斯环流表层盐度明显下降（淡化），同期罗斯岛大气增温、陆架以北约300米深处海水增温、南方涛动指数更偏负，并伴有东南太平洋冰架的减薄。",
+     "abstract_evidence": "Ocean measurements in the Ross Sea over the past four decades, one of the longest records near Antarctica, reveal marked decreases in shelf water salinity and the surface salinity within the Ross Gyre. These changes have been accompanied by atmospheric warming on Ross Island, ocean warming at depths of approximately 300 meters north of the continental shelf, a more negative Southern Oscillation Index, and thinning of southeast Pacific ice shelves. The freshening appears to have resulted from a combination of factors, including increased precipitation, reduced sea ice production, and increased ",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2002 年研究以近四十年的海洋观测（南极附近最长的记录之一）指出：陆架水盐度与罗斯环流表层盐度明显下降（淡化），同期罗斯岛大气增温、陆架以北约300米深处海水增温、南方涛动指数更偏负，并伴有东南太平洋冰架的减薄。"
+    }
+   ]
+  },
+  {
+   "title": "南极科考站",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2135820861",
+     "field": "influence",
+     "claim": "所引 2009 年研究由瑞典极地研究秘书处发起，就南极 28 国站点的废水与灰水处置实践做问卷普查（2005年秋发出）。",
+     "abstract_evidence": "To inform the future practices to be employed for handling waste water and grey water at the Swedish Antarctic station,Wasa, in Dronning Maud Land, the Swedish Polar Research Secretariat took the initiative to survey the practices of the 28 nations with stations in Antarctica. A questionnaire was sent out to all members of the Antarctic Environment Officers Network during the autumn of 2005. Questions were asked about the handling of waste water and grey water, the type of sewage treatment, and installation and operational costs. The response to the questionnaire was very good (79%), and the r",
+     "verdict": "PASS",
+     "reason": "摘要直接支持该句表述，范围相称。",
+     "fix": "所引 2009 年研究由瑞典极地研究秘书处发起，就南极 28 国站点的废水与灰水处置实践做问卷普查（2005年秋发出）。"
+    },
+    {
+     "source": "openalex-W2017741426",
+     "field": "influence",
+     "claim": "所引 2008 年《On thick ice: scientific internationalism》（被引45）讨论南极的科学国际主义与考察站体系；本条「南极科考站以条约体系的科学合作框架运作」据此。",
+     "abstract_evidence": "This paper focuses on the role played by scientific internationalism in Antarctica during the two decades that followed the signing and ratification of the Antarctic Treaty in 1961. The paper shows that the Treaty was a response to the threat to the ‘free world’ represented by the installation of Soviet bases in Antarctica. Scientific internationalism was used as a diplomatic weapon to respond to that threat. In the 1960s, the development of international cooperative research allowed the USA, the largest logistic operator in Antarctica, to gain control of local affairs by penetrating into stra",
+     "verdict": "SOFT",
+     "reason": "引申：摘要称科学国际主义被用作外交武器、美国借合作研究掌控事务，非中性的「科学合作框架」。",
+     "fix": "所引 2008 年《On thick ice: scientific internationalism》（被引45）讨论 1957–1980 年南极条约前后的科学国际主义，指出它被用作外交工具，美国借国际合作研究影响南极事务。"
+    },
+    {
+     "source": "openalex-W2325413204",
+     "field": "influence",
+     "claim": "所引 2010 年《Antarctic Research Stations: Parallels for…》（被引11）讨论南极科考站的运作与管理；本条「南极科考站以条约体系的科学合作框架运作」据此。",
+     "abstract_evidence": "Prototype, simulation and analogy are crucial to the preparation process for future space missions. In this context Antarctic research station design, construction and operation can provide a useful analogue because the stations provide isolated living and working within extreme conditions in extraordinarily remote locations. The areas for collaboration between the space and Antarctic design communities have only recently begun to be explored and there is much greater potential to learn from each other. Through a review of the design of two Antarctic stations the paper establishes potential fi",
+     "verdict": "FAIL",
+     "reason": "对象不符：摘要论科考站设计作为太空任务的类比，与条约体系科学合作无关。",
+     "fix": "所引 2010 年《Antarctic Research Stations: Parallels for…》（被引11）通过回顾两座南极科考站的设计，讨论其作为未来太空任务在隔离极端环境中生活与工作之类比对象的价值。"
+    }
+   ]
+  }
+ ]
+}

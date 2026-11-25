@@ -316,14 +316,14 @@
         "openalex-W2795469032"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W1499262168（1985年，《The Pacification of Melanesia.》，DOI https://doi.org/10.2307/2802419，Man）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「区域地理与近代史（所引 1985 年研究讨论「平定」过程）」表述。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2795469032（2018年，《Change and Resilience in Melanesian Societies》，被引 0，摘要 13669 字符）：已在本条 influence 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W1499262168（1985年，《The Pacification of Melanesia.》，DOI https://doi.org/10.2307/2802419，Man）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「区域地理与近代史（所引 1985 年研究讨论「平定」过程）」表述。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2795469032（2018年，《Change and Resilience in Melanesian Societies》，被引 0，摘要 13669 字符）：已在本条 influence 段落点。 【第128轮语义扫描 FAIL】openalex-W2795469032：对象不符：摘要实为气候变化治理背景下的书评，未讨论「小规模社会与交换网络」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "岛屿多为大陆型与大岛，山地与雨林为主，语言与族群极度多样；火山与珊瑚礁并存，岛屿间的海距较短。",
-      "influence": "所引 1985 年研究挑战「殖民统治与传教决定了平定进程」的通行看法，强调岛民自身的利益与主动在从部落战争走向持久和平中的作用。这提示外部力量并非唯一变量。 所引 2018 年《Change and Resilience in Melanesian Societies》（摘要 13,669 字符）讨论美拉尼西亚社会的变迁与韧性；本条「美拉尼西亚以小规模社会与交换网络为特征」据此。",
+      "influence": "所引 1985 年研究挑战「殖民统治与传教决定了平定进程」的通行看法，强调岛民自身的利益与主动在从部落战争走向持久和平中的作用。这提示外部力量并非唯一变量。 所引 2018 年《Change and Resilience in Melanesian Societies》（摘要 13,669 字符）为书评性文本，在全球气候变化治理背景下讨论美拉尼西亚地区的变迁与韧性。",
       "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "经俾斯麦群岛与所罗门链连接新几内亚与波利尼西亚交界，是太平洋西南的航海与交换区。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -359,7 +359,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "岛屿多为珊瑚环礁与低平小岛，海拔极低、陆地面积小；海beyond为深海，淡水依赖降雨透镜，对海平面上升极为敏感。",
       "influence": "所引 2014 年研究讨论密克罗尼西亚岛屿在维持珊瑚礁遗传多样性中的作用，指出散布的小岛可能充当珊瑚三角区遗传多样性的中转节点。这说明小岛在生态网络中可以有超出其面积的重要性。 所引 2017 年《Traditional Micronesian Societies: Adaptation…》（被引22，摘要 2,141 字符）讨论密克罗尼西亚传统社会的适应与组织；本条「密克罗尼西亚以环礁岛屿与航海适应为基础」据此。",
       "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
@@ -473,13 +473,13 @@
         "openalex-W2081858996"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2130117805（2006年，《Prehistoric and early historic agriculture at Maunga Orito, Easter Island (Rapa Nui), Chile》，DOI https://doi.org/10.1017/s0003598x00094515，Antiquity）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元1200年至历史时期（所引 2006 年研究：12世纪起清理棕榈）」表述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Prehistoric and early historic agriculture at Maunga Orito》研究的是一处采石场旁的农业序列（遗址侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第55轮补主来源（strong）】openalex-W2081858996（2002年，《A message for our future? The Rapa Nui (Easter Island) ecodisaster and Pacific island environments》，DOI https://doi.org/10.1080/00438240120107468，被引 114）：待支撑断言「复活节岛的环境与孤立性」；主题槽命中 ['island', 'environment']；已在本条 geo 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2130117805（2006年，《Prehistoric and early historic agriculture at Maunga Orito, Easter Island (Rapa Nui), Chile》，DOI https://doi.org/10.1017/s0003598x00094515，Antiquity）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元1200年至历史时期（所引 2006 年研究：12世纪起清理棕榈）」表述。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Prehistoric and early historic agriculture at Maunga Orito》研究的是一处采石场旁的农业序列（遗址侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第55轮补主来源（strong）】openalex-W2081858996（2002年，《A message for our future? The Rapa Nui (Easter Island) ecodisaster and Pacific island environments》，DOI https://doi.org/10.1080/00438240120107468，被引 114）：待支撑断言「复活节岛的环境与孤立性」；主题槽命中 ['island', 'environment']；已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W2081858996：引申：摘要检讨生态灾难正统叙事，未论「面积有限、资源受约束」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "面积小、远离大陆，火山土有限；淡水与海洋资源是生存基础，森林（棕榈）在12世纪起被清理。 所引 2002 年《A message for our future? The Rapa Nui (Easter Island) ecodisaster…》（被引114）结合该岛独特的考古遗存与地理位置，讨论其生态灾难叙事的形成；本条「复活节岛远离大陆、面积有限、资源受约束」据此。",
+      "last_update": "2026-11-25",
+      "geo": "面积小、远离大陆，火山土有限；淡水与海洋资源是生存基础，森林（棕榈）在12世纪起被清理。 所引 2002 年《A message for our future? The Rapa Nui (Easter Island) ecodisaster…》（被引114）指出该岛独特的考古遗存与地理位置使其备受关注，并检讨「摩艾竞争导致棕榈林毁灭」的生态灾难正统叙事。",
       "influence": "所引 2006 年研究以 Maunga Orito 的剖面揭示农业策略的序列：12世纪清理棕榈、开园种植薯蓣与芋，15世纪延续，17–19世纪出现覆土与石堆园。这说明岛屿社会长期调整农业技术以适应环境变化，而非单一崩溃叙事。",
       "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "与波利尼西亚东部群岛（马克萨斯、社会群岛）存在航海联系，是波利尼西亚三角的东南顶点。",
@@ -550,14 +550,14 @@
         "openalex-W2204248832"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2148027005（2008年，《Pacific Seascapes, Canoe Performance, and a Review of Lapita Voyaging with Regard to Theories of Migration》，DOI https://doi.org/10.1353/asi.2008.0002，Asian perspectives）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1500年至公元后（Lapita 航海至东波利尼西亚）」表述。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W2204248832（2007年，《Lapita and Western Pacific Settlement: Progress, prospects and persistent problems》，被引 35，摘要 441 字符）：已在本条 influence 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第37轮升级 L2】第二来源为 OpenAlex openalex-W2148027005（2008年，《Pacific Seascapes, Canoe Performance, and a Review of Lapita Voyaging with Regard to Theories of Migration》，DOI https://doi.org/10.1353/asi.2008.0002，Asian perspectives）。 该文献与本条同一对象；机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。年代以「约公元前1500年至公元后（Lapita 航海至东波利尼西亚）」表述。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W2204248832（2007年，《Lapita and Western Pacific Settlement: Progress, prospects and persistent problems》，被引 35，摘要 441 字符）：已在本条 influence 段落点。 【第128轮语义扫描 SOFT】openalex-W2204248832：引申：摘要仅称1970年代有学者主张拉皮塔与南岛语族扩张有关、起源长期争论，正文写成定论。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "航线跨越从近大洋洲到远大洋洲的广阔海域，风向与洋流决定可行航向；岛屿间的距离逐步增大，对船只与导航的要求递增。",
-      "influence": "所引 2008 年研究比较了不同阶段的海域难度：Lapita 航海者的海域比近大洋洲更具挑战、但明显弱于后来东波利尼西亚人所面对的；并据独木舟形制与性能估算航行能力。这说明「航海能力」应与具体海域条件匹配评估。 所引 2007 年《Lapita and Western Pacific Settlement》（被引35）讨论拉皮塔文化与西太平洋的定居过程；本条「拉皮塔陶器标示出南岛语族向太平洋的扩张路径」据此。",
+      "influence": "所引 2008 年研究比较了不同阶段的海域难度：Lapita 航海者的海域比近大洋洲更具挑战、但明显弱于后来东波利尼西亚人所面对的；并据独木舟形制与性能估算航行能力。这说明「航海能力」应与具体海域条件匹配评估。 所引 2007 年《Lapita and Western Pacific Settlement》（被引35）回顾拉皮塔起源的长期争论，指出 1970 年代起有学者主张这一精细纹饰陶器传统主要与新石器时代南岛语族扩张有关。",
       "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "从东南亚经近大洋洲到远大洋洲，最终抵达夏威夷、复活节岛与新西兰，构成地球史上最大规模的海洋扩散。",
       "today": "（本条的当代指标不在本页展开。）",

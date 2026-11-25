@@ -1,0 +1,373 @@
+{
+ "entries": [
+  {
+   "title": "巴西高原",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W1982587238",
+     "field": "influence",
+     "claim": "所引 2007 年研究讨论 Araucaria 森林在巴西南部的扩张，显示植被分布随气候与人类活动的千年尺度变化而移动，不是固定不变的景观。",
+     "abstract_evidence": "aria forest resulting from the onset of wetter climatic conditions in the region, which started between around 1410 and 900 cal. yr BP. The more intense and permanent human occupation of this region is associated with the advance of Araucaria forest, which pro",
+     "verdict": "SOFT",
+     "reason": "摘要为湿润气候致 Araucaria 林扩张、人群随之占据；人类活动驱动植被移动为外推",
+     "fix": "所引 2007 年研究讨论 Araucaria 森林在巴西南部高原的扩张，显示约 1410–900 cal BP 起的湿润气候推动森林扩张，并与 Taquara/Itararé 人群的定居相伴。"
+    },
+    {
+     "source": "openalex-W7143967103",
+     "field": "influence",
+     "claim": "所引 2026 年 SSRN 预印本《Fire History and Conservation Value of Open Ecosystems in South Brazilian Highlands》（被引0，摘要 1,635 字符）指出巴西南部高原草地历史上由火与放牧塑造，保护区排除干扰后出现高草优势与木本入侵；本条「植被分布随气候与人类活动的千年尺度变化而移动」据此补一例（火与放牧为人类活动一侧）。",
+     "abstract_evidence": "re species-rich ecosystems historically molded by fire and grazing. However, in many protected areas, the exclusion of disturbance has promoted dominance of tall grasses, woody encroachment and loss of typical grassland species. This no-fire policy is, at leas",
+     "verdict": "SOFT",
+     "reason": "摘要支持火与放牧塑造草地及排除干扰的后果；但正文题名与 OpenAlex 题名不一致，且「千年尺度」不受支持",
+     "fix": "所引 2026 年研究（OpenAlex 题名《Floristic composition and conservation value of open ecosystems across a fire chronosequence in the South Brazilian Highlands》）指出巴西南部高原草地历史上由火与放牧塑造，保护区排除干扰后出现高草优势与木本入侵。"
+    }
+   ]
+  },
+  {
+   "title": "拉普拉塔平原",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2616812401",
+     "field": "influence",
+     "claim": "所引 2010 年《Vegetation changes after 15 years of abandonment of crop fields in the Pampas Region (Argentina)》（被引32，摘要 1,515 字符）指出阿根廷潘帕斯地区的农业已延续一个多世纪，长期扰动显著改变了原生植被，部分原生物种消失或分布大幅缩小；本条「黑土与温和气候有利于农牧业」据此补其生态代价一侧。",
+     "abstract_evidence": "tised in the Argentine Pampa Region for more than a century. This long history of disturbance has strongly modified the native vegetation of the region. Some original species have disappeared or its area has been remarkably reduced. The objective was to evalua",
+     "verdict": "PASS",
+     "reason": "摘要原文：农业逾百年、原生植被强烈改变、部分物种消失或缩小",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W7150774676",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Analyse numérique à haute résolution de l’intéraction surface-rivière-plaine d’inondation-atmosphère dans le bassin de La Plata Basin Les plaines d’inondation tropicales sont des régions inondées temp",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "阿塔卡马沙漠",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2091311622",
+     "field": "geo",
+     "claim": "所引 2003 年研究（被引587）给出机制：安第斯中段西坡雨影使 15°–27°S 的降水主要依赖亚马孙夏季对流，降水随海拔呈指数关系；超干旱的形成还与安第斯隆升（升至1000–2000米）和秘鲁寒流上升流的加强相伴随。",
+     "abstract_evidence": "the central Andes exhibits a pronounced rainshadow effect. Precipitation between 15° and 27 °S is dominated by summer convective activity from Amazonia, and data analysis shows that the increase in precipitation with elevation due to the rainshadow effect best",
+     "verdict": "PASS",
+     "reason": "雨影、15–27°S、指数关系、1000–2000 m 隆升与秘鲁寒流均见摘要",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2125388221",
+     "field": "geo",
+     "claim": "所引 2005 年《Oligocene–Miocene age of aridity in the Atacama…》（被引 505）确定阿塔卡马干旱化的年代（渐新世—中新世）；本条「阿塔卡马是地球上最干旱的沙漠之一、干旱化有明确地质年代」据此。",
+     "abstract_evidence": "The age of onset of hyperaridity in the Atacama Desert, Chile, which is needed to validate geological and climatological concepts, has been heretofore uncertain. Measurement of cosmogenic 21Ne in clasts from erosion-sensitive sediment surfaces in northern Chil",
+     "verdict": "PASS",
+     "reason": "摘要以 21Ne 暴露年龄确定 25 Ma 以来超干旱",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "莫切文化",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2322039721",
+     "field": "influence",
+     "claim": "所引 2010 年《Craft Specialists at Moche》（被引58）以莫切都城（南莫切国家的都城）的作坊为对象：城市人口中有一部分是陶工、冶金匠与宝石匠，这些手工业专门化者在南莫切国家的经济、政治与宗教领域扮演重要角色。",
+     "abstract_evidence": "s, metallurgists, and lapidaries. These craft specialists played a significant role in the economic, political, and religious spheres of the Moche polity. Data obtained during excavations of workshops and domestic compounds are used to analyze the context, sca",
+     "verdict": "PASS",
+     "reason": "摘要逐项一致",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2094507981",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "I. Introduction, p.1. II. The Approach, p.5| Theory, p.5| Method, p.10. III. Moche Art, p.15| Media, p.15| Canons, p.22| The Moche Artist, p.34. IV. Chronology, p.43| Stirrup Spout Bottle, p.44| Spout",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "安第斯垂直农业",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W2021618803",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Mean annual temperature trends in the tropical Andes were determined over the last six decades (1939–1998), to investigate the apparent inconsistency between the observed glacier retreat and the repor",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "巴西殖民经济",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W565333537",
+     "field": "influence",
+     "claim": "所引 2024 年研究强调殖民巴西的社会与政府制度如何与种植园经济相互支撑：土地授予、劳役与市政组织共同决定了出口导向的形态，地理只是条件。",
+     "abstract_evidence": "istoriography. The author describes the administration and structure of government, and the realities of royal power, with examples drawn from the port cities and the mining townships of the interior, then moves on to examine the interplay of class, religion a",
+     "verdict": "SOFT",
+     "reason": "摘要为社会史文集，涉政府结构与港口、边疆；未述土地授予、劳役共同决定出口导向",
+     "fix": "所引 2024 年研究讨论殖民巴西的社会结构与政府管理，包括王权的实际运作及港口与边疆的作用。"
+    },
+    {
+     "source": "openalex-W2989712440",
+     "field": "influence",
+     "claim": "所引 2019 年《Sugar and the Formation of Colonial Brazil》（摘要 842 字符）以蔗糖为轴讨论殖民巴西的形成；本条「殖民经济以甘蔗种植园与奴隶劳动为基础」据此。",
+     "abstract_evidence": ", based on the monopoly of land and the enslavement of indigenous and African people. Colonization, structured by the hegemony of the external market, created, over three centuries, a free rural population of whites, free blacks, and mestizos who survived on s",
+     "verdict": "PASS",
+     "reason": "摘要：蔗糖奠定政治权力，基于土地垄断与奴役原住民和非洲人",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "大分水岭",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W3153139914",
+     "field": "geo",
+     "claim": "所引 1983 年研究指出大分水岭仅在冷半年构成重要气候分界、夏季分界中心移至亨特谷；本条据此补季节性限定。",
+     "abstract_evidence": " part of the year but in the summer the Hunter Valley is seen to form the centre of an important rainfall area, although this feature becomes masked in February by the higher incidence of more general rainfall in that month. Further subdivisions show that comb",
+     "verdict": "PASS",
+     "reason": "摘要明言冷季为重要气候分界、夏季中心在亨特谷",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W1990720532",
+     "field": "geo",
+     "claim": "所引 1985 年《Post-orogenic evolution of a mountain range: South-eastern Australian Highlands》（被引9，摘要 836 字符）讨论造山后侵蚀、均衡回弹与河流下切对澳大利亚东南高地地貌的塑造；其范围是东南部高地，不覆盖大分山脉全长，且年代较早。",
+     "abstract_evidence": "ghland is eroded away, a broad regional isostatic rebound occurs and the base of the mountain is uplifted and rivers cut down in response to new base levels. Absolute elevations of the highland decreases with time. This erosion‐rebound process can be quantifie",
+     "verdict": "PASS",
+     "reason": "摘要讲侵蚀—均衡回弹—河流下切，句已限定范围",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W3121385383",
+     "field": "geo",
+     "claim": "所引 2020 年 EGU 会议摘要（被引0，摘要 3,246 字符，经 D150 摘要通道登记）指出澳大利亚东岸为被动大陆边缘，其大陆分水岭把内流河与流向珊瑚海、塔斯曼海的河流分开，分水岭向海一侧为分隔沿海平原与高原的大断崖；本条「河流向东或向西流」据此。",
+     "abstract_evidence": "characterized by a passive margin and a continental divide that separates the inland-draining rivers from those that drain to the Coral and Tasman seas. Seaward of this divide lies the Great Escarpment (GE) of Australia that separates a moderate relief coastal",
+     "verdict": "PASS",
+     "reason": "摘要首句逐项一致",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "大自流盆地",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W4383461111",
+     "field": "geo",
+     "claim": "所引 1968 年研究分析大自流盆地的构造、地层与水文地质；本条「盆地被不透水层圈闭、含水层向西部倾斜、井水可自流」据此。",
+     "abstract_evidence": "ers within the northernmost part of the Roswell artesian basin were studied using outcrops, cores, samples, and electric logs.Three structural zones are recognized: The Border Hill, Six Mile, and YO.A fourth near the town of Dexter is suggested, and a fifth in",
+     "verdict": "FAIL",
+     "reason": "该 1968 年文献研究的是美国新墨西哥州 Roswell 自流盆地，并非澳大利亚大自流盆地，对象不符",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W4409434538",
+     "field": "geo",
+     "claim": "所引 2025 年研究（摘要 1,590 字符）研究澳大利亚东北部 Great Artesian Basin 东缘约 50 处 silica 温泉，指出它们自 Hutton Sandstone 含水层的露头边缘排泄；本条「大自流盆地以自流含水层与天然泉群为特征」据此。",
+     "abstract_evidence": "ischarge from the outcrop margin of the Hutton Sandstone aquifer, which is folded so the springs are fed by easterly groundwater flow, in contrast to the dominant westwards flow within the Eromanga Basin. This means that the effective recharge area of the Hutt",
+     "verdict": "SOFT",
+     "reason": "摘要为东缘约 50 处泉自 Hutton 砂岩露头排泄；推为全盆地特征属范围放大",
+     "fix": "所引 2025 年研究（摘要 1,590 字符）研究澳大利亚东北部 Great Artesian Basin 东缘约 50 处 silica 温泉，指出它们自 Hutton Sandstone 含水层的露头边缘排泄。"
+    },
+    {
+     "source": "openalex-W1969120728",
+     "field": "influence",
+     "claim": "所引氯-36 定年研究显示部分地下水年龄极老、补给速率极慢，这意味着开采速率一旦超过补给，水位将长期下降且难以恢复。",
+     "abstract_evidence": "as many advantages as a dating tool for very old groundwater. These advantages include a suitable half‐life (3.01 × 10 5 years), simple geochemistry, conservative behavior in groundwater, and a general absence of subsurface sources at levels comparable to the ",
+     "verdict": "SOFT",
+     "reason": "摘要支持以 36Cl 测定极老地下水年龄；开采超补给后水位难恢复为外推",
+     "fix": "所引氯-36 定年研究以 36Cl 测定大自流盆地地下水年龄，显示部分地下水滞留时间可达百万年量级。"
+    },
+    {
+     "source": "openalex-W58011430",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Detailed micropalaeontological analysis of a cored horizon of the Allaru Mudstone has disclosed a prolific and well preserved assemblage of foraminiferids, spores, pollen grains, and organic-walled mi",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "新西兰北岛",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W2051173656",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Thick volcaniclastic sequences of early to middle Pleistocene age in southern North Island, New Zealand, contain rhyolitic tephra beds that record the early history of the Taupo volcanic zone (TVZ). A",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2075518532",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "The distribution of earthquakes and gravity anomalies in New Zealand are compared. Shocks classified as 12 km or less are more widespread than those classified as 33 km, but all crustal shocks are sym",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "新西兰南岛",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2019965919",
+     "field": "geo",
+     "claim": "所引 1975 年《Stratigraphy and Paleoecology of the Productus Creek Group, South Island, New Zealand》（被引15）研究南岛二叠纪地层与古生态；本条「南岛以年轻的褶皱山脉与冰川地貌为主」据此（该文仅覆盖局部地层）。",
+     "abstract_evidence": "In middle and late Permian time, the Productus Creek area of South land, New Zealand, was the site of simultaneous accumulation of shallow marine, biogenic carbonate and immature volcanogenic sediments. The prismatic shell fragments of the bivalve Atomodesma f",
+     "verdict": "FAIL",
+     "reason": "摘要为 Productus Creek 一地二叠纪海相碳酸盐与火山源沉积，与「年轻褶皱山脉与冰川地貌」对象不符",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2041276447",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "The Carboniferous to Lower Cretaceous Torlesse terrane and Haast Schist derivatives constitute the major part of the complexly deformed facies of the Eastern Province of New Zealand. Strata consist ma",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2004355322",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Summary Of 140 species of naturalised plants found at 58 sites between Haast and southern Fiordland 24 were deliberately planted and persist at their original sites, 51 are accidental introductions re",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "毛利人",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4205336612",
+     "field": "influence",
+     "claim": "所引 2012 年研究（摘要 6,902 字符）讨论传统毛利哲学中的价值观及其在今日新西兰的可见性；本条「毛利人以 whakapapa（谱系）与 mana（威望）组织社会关系」据此。",
+     "abstract_evidence": "This thesis explores Maori values that can be seen in traditional Maori philosophy and attempts to define those values and how they are recognizable in Aotearoa/New Zealand. The thesis argues that through techniques such as discourse ethics where people agree ",
+     "verdict": "SOFT",
+     "reason": "摘要讨论毛利价值观融入新西兰哲学，未提 whakapapa 与 mana",
+     "fix": "所引 2012 年研究（摘要 6,902 字符）讨论传统毛利哲学中的价值观及其在今日新西兰的可见性。"
+    },
+    {
+     "source": "openalex-W4385601321",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Legal cultures change in response to social and economic environments. Māori author and legal scholar Carwyn Jones provides a timely examination of how the resolution of land claims in New Zealand has",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "夏威夷群岛",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W2099199436",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "It is noted that different physicists and geologists have in recent years espoused not less than four groups of theories of the physical behavior of the Earth's interior. Recent observations of submar",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    },
+    {
+     "source": "openalex-W2044118874",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "Detailed echo-sounder fathograms were obtained in the vicinity of the Hawaiian Islands during the joint Scripps Institution of Oceanography-United States Navy Electronics Laboratory Expedition to the ",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "大堡礁",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W5261359",
+     "field": "geo",
+     "claim": "所引 2002 年《Taxonomy and ecology of non-geniculate corals》（摘要 5,705 字符）研究珊瑚的分类与生态；本条「大堡礁以珊瑚礁生态系统为主体」据此。",
+     "abstract_evidence": "economical importance of non-geniculate coralline algae (Rhodophyta, Corallinaceae) in coral reef systems is generally well known and documented. However, virtually nothing is known about the biology and ecology of non-geniculate coralline algae (NCA) on one s",
+     "verdict": "FAIL",
+     "reason": "该文研究对象是非节珊瑚藻（红藻），不是珊瑚，且限于 Heron Reef；对象不符",
+     "fix": "所引 2002 年《Taxonomy and ecology of non-geniculate coralline algae》研究大堡礁 Heron Reef 上非节珊瑚藻（红藻）的分类与生态。"
+    },
+    {
+     "source": "openalex-W2020216779",
+     "field": "influence",
+     "claim": "所引 2003 年实验显示，除草剂（敌草隆、阿特拉津）在极低浓度下即可影响珊瑚的共生藻，说明陆源农业径流对近岸礁体的影响可通过化学途径传导，而不仅是泥沙覆盖。",
+     "abstract_evidence": "MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 251:153-167 (2003) - doi:10.3354/meps251153 Effects of herbicides",
+     "verdict": "NA",
+     "reason": "摘要缺失，无法判定（OpenAlex 摘要字段仅为期刊页眉与作者信息）",
+     "fix": ""
+    }
+   ]
+  },
+  {
+   "title": "澳大利亚混合农业",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W1494268843",
+     "field": "influence",
+     "claim": "所引研究关注生产灵活性与技术变迁：轮作制度使农场能在价格波动中调整作物与畜牧的比重，这是对降水与市场双重不确定性的适应。",
+     "abstract_evidence": "c. Sheep enterprise production has been complementary with cropping while crop and beef cattle outputs have not been complementary. The demand for materials and services inputs has been elastic while the elasticity of demand for labour has been approximately u",
+     "verdict": "SOFT",
+     "reason": "摘要为利润函数估计：产出供给缺乏弹性、养羊与种植互补；「价格波动中调整」「降水与市场双重不确定性」为外推",
+     "fix": "所引研究关注小麦—养羊带的生产灵活性与技术变迁，显示各类产出供给缺乏弹性，养羊与种植相互补充。"
+    }
+   ]
+  },
+  {
+   "title": "南极半岛",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W1989199622",
+     "field": "",
+     "claim": "",
+     "abstract_evidence": "A review of in situ and remote-sensing data covering the ice shelves of the Antarctic Peninsula provides a series of characteristics closely associated with rapid shelf retreat: deeply embayed ice fro",
+     "verdict": "NA",
+     "reason": "正文无引用该来源的句子",
+     "fix": ""
+    }
+   ]
+  }
+ ]
+}

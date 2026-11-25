@@ -195,14 +195,14 @@
         "openalex-W1994664019"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3046252846（2020年，《Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography》，DOI https://doi.org/10.1038/s41467-020-17656-w）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】本条 theme 为「气候」，所引文献为古基因组人群史——已在正文显式限定为「区域研究现状的一例」，不作气候或地貌的解释依据。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Ancient genomes in South Patagonia…》研究的是古基因组与人群史，且本条 theme 为「气候」，属跨领域侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮补主来源（strong）】openalex-W1994664019（2013年，《Large-Scale Control on the Patagonian Climate》，DOI 10.1175/jcli-d-12-00001.1，被引 668）：待支撑断言「巴塔哥尼亚的地理与气候」；主题槽命中 ['climate', 'westerl', 'precipitation']；已在本条 geo 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3046252846（2020年，《Ancient genomes in South Patagonia reveal population movements associated with technological shifts and geography》，DOI https://doi.org/10.1038/s41467-020-17656-w）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】本条 theme 为「气候」，所引文献为古基因组人群史——已在正文显式限定为「区域研究现状的一例」，不作气候或地貌的解释依据。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Ancient genomes in South Patagonia…》研究的是古基因组与人群史，且本条 theme 为「气候」，属跨领域侧面。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮补主来源（strong）】openalex-W1994664019（2013年，《Large-Scale Control on the Patagonian Climate》，DOI 10.1175/jcli-d-12-00001.1，被引 668）：待支撑断言「巴塔哥尼亚的地理与气候」；主题槽命中 ['climate', 'westerl', 'precipitation']；已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W3046252846：引申：摘要显示约6600 BP以来部分遗传连续、两次基因流，未言「替代」，也未与「沿海扩张模型」对比。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "安第斯山脉在西部，向东过渡为台地草原；西风带带来降水集中于山地，东侧处于雨影。南部为冰川区与峡湾。 所引 2013 年《Large-Scale Control on the Patagonian Climate》（被引 668）指出巴塔哥尼亚降水主要由西风气流中的扰动产生，并被南安第斯山强烈改造；本条「西风带与安第斯雨影共同决定其干旱格局」据此。",
-      "influence": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史，显示流动与替代过程比单一「沿海扩张」模型更复杂。（本条主题为区域地理，人口史仅作为该区域研究现状的一例，不代表对气候或地貌的解释。）",
+      "influence": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史：海洋适应的出现并非由移民带来，约 6600 BP 以来存在部分遗传连续性，并有两次与技术变化相关的后期基因流。（本条主题为区域地理，人口史仅作为该区域研究现状的一例，不代表对气候或地貌的解释。）",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "北接潘帕斯草原，南隔麦哲伦海峡与火地岛相望，两侧分别为太平洋与大西洋。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -315,14 +315,14 @@
         "openalex-W1934332297"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3149966361（2002年，《Lines in the Water: Nature and Culture at Lake Titicaca》，DOI https://doi.org/10.1525/9780520935891）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删去「政治边界」——摘要无此内容（原句系把书名双关当作论点）；改为「资源、交通与文化认同的载体」。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W1934332297（1949年，《GEOLOGY OF THE LAKE TITICACA REGION, PERU AND BOLIVIA》，被引 122，摘要 614 字符）：已在本条 geo 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W3149966361（2002年，《Lines in the Water: Nature and Culture at Lake Titicaca》，DOI https://doi.org/10.1525/9780520935891）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工】删去「政治边界」——摘要无此内容（原句系把书名双关当作论点）；改为「资源、交通与文化认同的载体」。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W1934332297（1949年，《GEOLOGY OF THE LAKE TITICACA REGION, PERU AND BOLIVIA》，被引 122，摘要 614 字符）：已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W1934332297：外推：摘要为盆地地质概查，未论「构造与水文共同形成」。 【第128轮语义扫描 SOFT】openalex-W3149966361：轻度引申：摘要涉渔民、割芦苇者、造船者及文化自主，未提「交通通道」与「文化认同载体」。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "湖面海拔约3800米，面积大而水深；湖水调节局地温度，湖岸与岛屿在高寒环境中提供相对温和的小气候。周围为干旱高原。 所引 1949 年《Geology of the Lake Titicaca Region, Peru and Bolivia》（被引 122）以约一年的野外观察重建的的喀喀湖盆地的地质；本条「的的喀喀湖位于安第斯高原、盆地由构造与水文共同形成」据此。",
-      "influence": "所引 2002 年研究以「水中的界线」为题，讨论湖泊作为渔业与芦苇资源、交通通道以及文化认同载体的多重角色，并涉及现代技术、市场压力与文化自主之间的张力。正文不据该研究主张「政治边界」的判断。",
+      "last_update": "2026-11-25",
+      "geo": "湖面海拔约3800米，面积大而水深；湖水调节局地温度，湖岸与岛屿在高寒环境中提供相对温和的小气候。周围为干旱高原。 所引 1949 年《Geology of the Lake Titicaca Region, Peru and Bolivia》（被引 122）以约一年的野外观察概述的的喀喀湖盆地的地质；本条「的的喀喀湖位于中安第斯高原、跨秘鲁与玻利维亚边界，其盆地构成区别于邻区的独立地质单元」据此。",
+      "influence": "所引 2002 年研究以「水中的界线」为题，讨论的的喀喀湖在湖畔渔民、割芦苇者与造船者文化中的角色，并涉及现代技术与经济需求的冲击和当地维持文化自主、保护脆弱山地环境之间的关系。正文不据该研究主张「政治边界」的判断。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "经湖泊与高原道路连接秘鲁南部、玻利维亚与智利北部，是安第斯南部交换网络的中心。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -358,7 +358,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "核心在安第斯中部的高山谷地（今秘鲁安卡什），海拔约3000米；河谷是南北与东西通道的交汇，石料与水源决定选址。",
       "influence": "所引 2004 年研究讨论查文德万塔尔权威与权力的演化，其材料包括石雕、切石建筑、地下廊道、地形改造，以及声光环境与致幻物的使用。作者据此论证仪式中心同时是政治权威形成的场所。（研究对象的时间段为约前1300–前600年，早于查文文化的通行跨度；本条不据此推断后段的制度。） 所引 2016 年《Chavin culture (pre-Moche)》（摘要 909 字符）讨论查文文化（莫切之前）的宗教中心与影响；本条「查文以神庙中心与跨区域朝圣网络整合安第斯社会」据此。",
       "connections": "连接沿海（获取贝壳与鱼类）与亚马逊东坡（获取羽毛与植物），是安第斯垂直交换网络的枢纽。",
@@ -430,14 +430,14 @@
         "openalex-W2543231307"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2019769917（2005年，《GEOARCHAEOLOGICAL EVIDENCE FROM DESERT LOESS IN THE NAZCA–PALPA REGION, SOUTHERN PERU: PALAEOENVIRONMENTAL CHANGES AND THEIR IMPACT ON PRE‐COLUMBIAN CULTURES*》，DOI https://doi.org/10.1111/j.1475-4754.2005.00193.x）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2543231307（2016年，《Beyond the Nasca Lines: Ancient Life at La Tiza in the Peruvian Desert》，被引 22，摘要 1434 字符）：已在本条 influence 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2019769917（2005年，《GEOARCHAEOLOGICAL EVIDENCE FROM DESERT LOESS IN THE NAZCA–PALPA REGION, SOUTHERN PERU: PALAEOENVIRONMENTAL CHANGES AND THEIR IMPACT ON PRE‐COLUMBIAN CULTURES*》，DOI https://doi.org/10.1111/j.1475-4754.2005.00193.x）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2543231307（2016年，《Beyond the Nasca Lines: Ancient Life at La Tiza in the Peruvian Desert》，被引 22，摘要 1434 字符）：已在本条 influence 段落点。 【第128轮语义扫描 SOFT】openalex-W2019769917：外推：摘要为环境演化年代与干旱化对聚落的影响，未论地画「持久可见」。 【第128轮语义扫描 SOFT】openalex-W2543231307：术语溢出：摘要为拉蒂萨遗址长时段社会变迁，未提灌溉农业。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "位于阿塔卡马沙漠北缘的干旱谷地，河流的季节水量决定农业的可能；沙漠表面（pampa）覆盖石砾，地画即通过移除表层砾石形成。",
-      "influence": "所引 2005 年研究以沙漠黄土与地貌分析建立该区环境演化的初步年代序列，说明景观本身在长期气候波动中变化——地画的「持久可见」依赖于极端干旱这一条件。 所引 2016 年《Beyond the Nasca Lines: Ancient Life at La…》（被引22）把视线从著名的纳斯卡线条转向日常聚落生活；本条「纳斯卡以干旱环境下的灌溉农业与地画著称」据此。",
+      "influence": "所引 2005 年研究以沙漠黄土与地貌分析建立纳斯卡—帕尔帕地区环境演化的初步年代序列，显示早中全新世较湿润、其后逐步干旱化，纳斯卡中期（公元 250 年后）干旱加剧时聚落中心向上游迁移。 所引 2016 年《Beyond the Nasca Lines: Ancient Life at La…》（被引22）把视线从著名的纳斯卡线条转向拉蒂萨遗址 5000 余年的聚落生活，考察该地区复杂社会的兴起、衰落与重组。",
       "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
       "connections": "经沿海航运与谷地间的陆路连接帕拉卡斯、伊卡与高地。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -506,15 +506,15 @@
         "openalex-W2093974440"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2334447411（1982年，《Hydraulic Engineering Aspects of the Chimu Chicama-Moche Intervalley Canal》，DOI https://doi.org/10.2307/280236）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工·硬错】原稿①把对象写成「奇卡马谷的水利工程」（实为奇卡马—莫切跨谷运河 La Cumbre）；②漏掉摘要的关键结论「运河完工前即废弃、从未输水」；③并据此反向推出「灌溉是权力集中机制」。三点已全部改正——原文是失败工程的案例研究，不是成功例证。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2093974440（1983年，《Imperialist Expansion in Peruvian Prehistory: Chimu Administration of a Conquered Territory》，被引 82，摘要 1766 字符）：已在本条 polities 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第38轮升级 L2】第二来源为 OpenAlex openalex-W2334447411（1982年，《Hydraulic Engineering Aspects of the Chimu Chicama-Moche Intervalley Canal》，DOI https://doi.org/10.2307/280236）。 机制/影响段据其撰写，geo 为常识性地理描述（未挂学术来源）。 【第38轮返工·硬错】原稿①把对象写成「奇卡马谷的水利工程」（实为奇卡马—莫切跨谷运河 La Cumbre）；②漏掉摘要的关键结论「运河完工前即废弃、从未输水」；③并据此反向推出「灌溉是权力集中机制」。三点已全部改正——原文是失败工程的案例研究，不是成功例证。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2093974440（1983年，《Imperialist Expansion in Peruvian Prehistory: Chimu Administration of a Conquered Territory》，被引 82，摘要 1766 字符）：已在本条 polities 段落点。 【第128轮语义扫描 SOFT】openalex-W2093974440：术语溢出：摘要论奇穆对被征服的杰克特佩克谷的行政管理，未涉灌溉网络。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "核心在莫切河谷下游的沿海荒漠，依赖安第斯融水的灌溉渠；地下水与河道比降决定渠线，沿海的海洋资源补充生计。",
       "influence": "所引 1982 年研究分析的是奇卡马—莫切跨谷运河（La Cumbre）：以明渠流设计的计算机分析结合实地测量，探讨把奇卡马谷的水引至莫切谷的可行性。研究的结论是该运河在完工前即被放弃、从未向莫切谷输水——沿线比降受断层影响，试挖多条渠线仍难以克服。这一案例说明大规模跨谷水利在技术上与政治上都有失败的可能，不能一概读作「权力集中的成功机制」。",
-      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。 所引 1983 年《Imperialist Expansion in Peruvian Prehistory》（被引82）讨论秘鲁史前的帝国式扩张；本条「奇穆以灌溉网络与行政中心控制北部海岸」据此。",
+      "polities": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。 所引 1983 年《Imperialist Expansion in Peruvian Prehistory》（被引82）以杰克特佩克谷为例讨论奇穆帝国对被征服领土的管理；本条「奇穆以昌昌为都城、向北部海岸谷地扩张并实施行政控制」据此。",
       "connections": "沿南北谷地构成的海岸走廊连接北部诸谷，与高地之间存在交换关系。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 280 L240 240 L380 220 L520 238 L645 272' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='380' cy='220' r='7' class='pt'/><text x='290' y='198' class='lbl'>奇穆帝国</text><text x='40' y='370' class='dim'>奇穆帝国 · 简笔示意，非精确测绘</text></svg>"
@@ -665,14 +665,14 @@
         "openalex-W4224004721"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为安第斯考古木材树种鉴定，非贸易网络，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2102360536（2014年，《Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective》，DOI 10.1111/aman.12145，被引 19），经 Crossref→OpenAlex DOI 桥获取。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W4224004721（2022年，《The Jaén Stone Bowl Tradition and Ceja de Selva Contributions to Early Andean Exchange Networks》，被引 4，摘要 1275 字符）：已在本条 influence 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为安第斯考古木材树种鉴定，非贸易网络，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2102360536（2014年，《Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective》，DOI 10.1111/aman.12145，被引 19），经 Crossref→OpenAlex DOI 桥获取。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W4224004721（2022年，《The Jaén Stone Bowl Tradition and Ceja de Selva Contributions to Early Andean Exchange Networks》，被引 4，摘要 1275 字符）：已在本条 influence 段落点。 【第128轮语义扫描 SOFT】openalex-W2102360536：术语偏差：Spondylus 为海菊蛤（多刺牡蛎），非马蹄螺；其余与摘要一致。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "安第斯地区的交换沿垂直生态带展开：沿海提供鱼类与贝壳，高地提供马铃薯与藜麦，亚马逊东坡提供羽毛、木材与药材。这种「垂直群岛」格局使长距离交换成为生计必需。",
-      "influence": "所引 2014 年研究以世界体系视角讨论贵重贸易品（如 Spondylus 马蹄螺贝壳）在安第斯社会再生产中的作用，并把它与安第斯主要语言的多次扩散相联系。这说明贸易品兼具经济与象征功能，可与语言与族群过程交织。 所引 2022 年研究（摘要 1,275 字符）讨论秘鲁东北部 Jaén 地区的石碗传统与 Selva 走廊的早期仪式中心；本条「安第斯与亚马逊之间的交换网络长期存在」据此。",
+      "influence": "所引 2014 年研究以世界体系视角讨论贵重贸易品（如 Spondylus 海菊蛤贝壳）在安第斯社会再生产中的作用，并把它与安第斯主要语言的多次扩散相联系。这说明贸易品兼具经济与象征功能，可与语言与族群过程交织。 所引 2022 年研究（摘要 1,275 字符）讨论秘鲁东北部 Jaén 地区的石碗传统与 Selva 走廊的早期仪式中心；本条「安第斯与亚马逊之间的交换网络长期存在」据此。",
       "connections": "连接沿海、高地与亚马逊东坡，并向北接入中美洲、向南接入南锥体方向的路线。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -740,15 +740,15 @@
         "openalex-W1524625152"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第19轮 D053 标注】s026（OWID Climate Change，正文 urban/population 命中 0）与 un-m49（M49 分组表，urban 命中 0）对「南锥体」均无主题支撑，不构成第二独立依据；已列入下轮换源清单。 【第39轮渠道探测】OpenAlex 候选为《Rapid coastal spread of First Americans》(人群迁徙)，与区域地理主题不符，按 D081 剔除（与巴塔哥尼亚处理口径一致，见 D089）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W4224441281（2022年，《The Spanish postwar emigration to the Southern Cone (1946–1960)》，DOI 10.4324/9781003250401-10），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Spanish postwar emigration to the Southern Cone》研究的是战后西班牙移民（人口史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第94轮审计修正·双条不对位】本条原 A 级的两个强来源都不支撑条目：① `s026-ourworldindata-org`（《Climate Change | Our World in Data》）是全球气候变化页，与「南锥体」的区域地理无关；② `openalex-W4224441281`（《The Spanish postwar emigration to the Southern Cone》, 2022, 被引3）研究的是二战后西班牙向南锥体的移民，属 20 世纪人口史侧面。两条现均降为旁证。本条因此失去全部强来源（C 级）——这是如实反映，不是退步。 【第94轮修正·旁证】s026-ourworldindata-org：《Climate Change | Our World in Data》是全球气候变化页，与南锥体区域地理无关，降旁证。 【第94轮修正·旁证】openalex-W4224441281：《The Spanish postwar emigration to the Southern Cone》（2022, 被引3）研究二战后西班牙向南锥体的移民，属20世纪人口史侧面，降旁证。 【第95轮补强来源（strong，G1 修复）】openalex-W4251197559（2004年，《The Southern Cone Model》，被引 79，摘要 792 字符）：已在本条 influence 段落点。 【第99轮补第二内容源（strong，Crossref）】openalex-W1524625152（2012年，《Biogeographical history and diversification ofPetuniaandCalibrachoa(Solanaceae) in the Neotropical Pampas grassland》，被引 115，摘要 1122 字符）：已在本条 geo 段落点。",
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第19轮 D053 标注】s026（OWID Climate Change，正文 urban/population 命中 0）与 un-m49（M49 分组表，urban 命中 0）对「南锥体」均无主题支撑，不构成第二独立依据；已列入下轮换源清单。 【第39轮渠道探测】OpenAlex 候选为《Rapid coastal spread of First Americans》(人群迁徙)，与区域地理主题不符，按 D081 剔除（与巴塔哥尼亚处理口径一致，见 D089）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W4224441281（2022年，《The Spanish postwar emigration to the Southern Cone (1946–1960)》，DOI 10.4324/9781003250401-10），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Spanish postwar emigration to the Southern Cone》研究的是战后西班牙移民（人口史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第94轮审计修正·双条不对位】本条原 A 级的两个强来源都不支撑条目：① `s026-ourworldindata-org`（《Climate Change | Our World in Data》）是全球气候变化页，与「南锥体」的区域地理无关；② `openalex-W4224441281`（《The Spanish postwar emigration to the Southern Cone》, 2022, 被引3）研究的是二战后西班牙向南锥体的移民，属 20 世纪人口史侧面。两条现均降为旁证。本条因此失去全部强来源（C 级）——这是如实反映，不是退步。 【第94轮修正·旁证】s026-ourworldindata-org：《Climate Change | Our World in Data》是全球气候变化页，与南锥体区域地理无关，降旁证。 【第94轮修正·旁证】openalex-W4224441281：《The Spanish postwar emigration to the Southern Cone》（2022, 被引3）研究二战后西班牙向南锥体的移民，属20世纪人口史侧面，降旁证。 【第95轮补强来源（strong，G1 修复）】openalex-W4251197559（2004年，《The Southern Cone Model》，被引 79，摘要 792 字符）：已在本条 influence 段落点。 【第99轮补第二内容源（strong，Crossref）】openalex-W1524625152（2012年，《Biogeographical history and diversification ofPetuniaandCalibrachoa(Solanaceae) in the Neotropical Pampas grassland》，被引 115，摘要 1122 字符）：已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W1524625152：范围放大：摘要描述潘帕斯本身，未论其为南锥体「典型景观」。 【第128轮语义扫描 SOFT】openalex-W4251197559：对象与术语偏差：摘要涵盖五国、提出新的区域资本主义发展模式，未涉「三国」「农牧出口与城市化」。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "安第斯山脉在西缘，东侧为潘帕斯草原与巴塔哥尼亚台地；西风带使智利南部多雨、阿根廷侧干旱。气候自北向南由亚热带过渡到冷温带。 所引 2012 年研究（被引115，摘要 1,122 字符）指出南新热带的潘帕斯是面积广大、植被以禾草为主的区域，也是南美研究最少的生态系统之一；本条「南锥体以潘帕斯草原为典型景观」据此。",
-      "influence": "所引 2022 年研究考察 1946–1960 年西班牙向该区域的战后移民，涉西班牙与阿根廷的移民协定、巴西1950年代初的经济繁荣等。这说明区域的人口构成受跨大西洋政策与经济的共同影响；本条仅以此为区域研究现状的一例，不作地理成因解释。 所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学的视角，对南锥体的当代政治经济作深入论述；本条「南锥体三国以农牧出口与城市化推进经济整合」据此。说明：该文是政治经济学研究，不涉本条的温带气候与地形叙述。",
+      "last_update": "2026-11-25",
+      "geo": "安第斯山脉在西缘，东侧为潘帕斯草原与巴塔哥尼亚台地；西风带使智利南部多雨、阿根廷侧干旱。气候自北向南由亚热带过渡到冷温带。 所引 2012 年研究（被引115，摘要 1,122 字符）指出南新热带的潘帕斯是面积广大、植被以禾草为主的区域，也是南美研究最少的生态系统之一；本条「潘帕斯草原是南锥体的重要景观之一」据此。",
+      "influence": "所引 2022 年研究考察 1946–1960 年西班牙向该区域的战后移民，涉西班牙与阿根廷的移民协定、巴西1950年代初的经济繁荣等。这说明区域的人口构成受跨大西洋政策与经济的共同影响；本条仅以此为区域研究现状的一例，不作地理成因解释。 所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学视角论述阿根廷、巴西、智利、巴拉圭与乌拉圭的当代政治经济，提出该区域出现了一种新的区域资本主义发展模式。说明：该文是政治经济学研究，不涉本条的温带气候与地形叙述。",
       "connections": "东临大西洋、西临太平洋，南隔德雷克海峡与南极相望，是南美与南极之间的门户。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",
