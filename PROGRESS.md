@@ -304,3 +304,8 @@
 ## 第156轮（地形剖面全站化）
 - 建 tools/schematics.py：盆地/山脉/平原/三角洲/沙漠/高原/丘陵/裂谷/海岸/河流/岛屿/冰盖 12 类剖面，按标题关键词自动匹配。
 - 全站 258 条中所有「地形」类条目改用类型化彩绘剖面（中国 15 条地貌保留其定制版）；check 0、links 0、自检一致。
+
+## 第157轮（真实数据层：Köppen 气候分区）
+- 接入 Köppen-Geiger 矢量气候分区（4303 多边形，Beck et al.，经 rjerue/koppen-map 转 GeoJSON）；气候类条目下图改为真实气候带，红点高亮所在气候型并标中文名（如温带海洋性 Cfb、副热带季风 Cwa），带 A/B/C/D/E 图例。
+- 栅格类（WorldClim/SoilGrids/DEM）因主机不可达或需 GIS 库未接入；historical-basemaps 与 Köppen 已用。
+- check 0、links 0、自检一致；站点 21MB。
