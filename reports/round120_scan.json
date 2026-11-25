@@ -1,0 +1,382 @@
+{
+ "entries": [
+  {
+   "title": "澳大利亚原住民",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W621323142",
+     "field": "influence",
+     "claim": "所引 2002 年《Visions from the Past: The Archaeology of Australian Aboriginal Art》（被引169）系统讨论澳大利亚原住民岩画艺术的考古；本条「原住民以岩画与口传维系与土地的联系」据此（艺术与信仰侧面，社会制度另需来源）。",
+     "abstract_evidence": "the first Australians painted and carved what mattered to them. Here are stories of the birth of the world ... of the creatures who made the landscape and gave humans their laws",
+     "verdict": "SOFT",
+     "reason": "摘要讲岩画记录创世故事与律法，未涉“口传”，也未直接论述“维系与土地的联系”，属引申",
+     "fix": "所引 2002 年《Visions from the Past: The Archaeology of Australian Aboriginal Art》（被引169）系统讨论澳大利亚原住民岩画艺术的考古；本条「原住民岩画记录了创世、祖先与律法的故事，是延续极久的文化记录」据此（艺术与信仰侧面，社会制度另需来源）。"
+    },
+    {
+     "source": "openalex-W1578999336",
+     "field": "influence",
+     "claim": "所引 2000 年《Heritage archaeology in Australia》（摘要 1,726 字符）以遗产考古视角研究澳大利亚原住民的物质遗存与文化认同；本条「原住民与土地的关联通过物质遗存与传承延续」据此。",
+     "abstract_evidence": "Aboriginal people, antiquarians and archaeologists form a triad central to the interpretation and management of Aboriginal heritage ... four cultural constructions of Aboriginal heritage have progressively overlaid themselves",
+     "verdict": "SOFT",
+     "reason": "论文研究的是原住民、古物收藏者与考古学家对遗产的不同文化建构与管理，并未论证“与土地的关联通过物质遗存延续”",
+     "fix": "所引 2000 年《Heritage archaeology in Australia》以昆士兰中伯内特地区为个案，分析原住民、古物收藏者与考古学家对原住民遗产的不同文化建构；本条「原住民遗产的解释与管理需要原住民持有者参与」据此。"
+    }
+   ]
+  },
+  {
+   "title": "波利尼西亚",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2241623891",
+     "field": "influence",
+     "claim": "所引 1976 年《Micronesian and Polynesian Voyaging: Three Readings》（摘要 2,690 字符）为太平洋航海主题的课程读本汇编，讨论波利尼西亚与密克罗尼西亚的独木舟航海；本条「长距离航海技术使岛屿殖民与往来成为可能」据此。",
+     "abstract_evidence": "a course on Pacific voyaging ... This collection of papers ... They are not finished products and should be regarded as initial endeavors",
+     "verdict": "SOFT",
+     "reason": "该文是学生课程论文集（作者自称初步习作），摘要未论证航海技术使殖民成为可能",
+     "fix": "所引 1976 年《Micronesian and Polynesian Voyaging: Three Readings》为夏威夷大学太平洋航海课程的学生论文汇编，涉及传统导航、天文导航知识与首批定居夏威夷的独木舟载运模型；本条「传统航海与导航知识是太平洋岛屿研究的重要主题」据此。"
+    },
+    {
+     "source": "openalex-W2033361490",
+     "field": "influence",
+     "claim": "所引 1995 年《The Polynesian settlement of the Hawaiian Archipelago》（被引82）讨论波利尼西亚人定居夏威夷群岛的过程；本条「波利尼西亚人以远洋航海把夏威夷等群岛纳入同一文化圈」据此。",
+     "abstract_evidence": "radiocarbon dates from two islands in Hawai'i show evidence of a possibly early colonization phase, followed a few centuries later by the establishment of prehistoric populations",
+     "verdict": "SOFT",
+     "reason": "摘要讨论夏威夷定居的时序模型（发现、殖民、确立），未涉“纳入同一文化圈”",
+     "fix": "所引 1995 年《The Polynesian settlement of the Hawaiian Archipelago》（被引82）把夏威夷定居分为发现、殖民与确立三阶段，放射性碳数据显示可能存在较早的殖民期、数世纪后才形成稳定人群；本条「夏威夷的定居是分阶段的过程」据此。"
+    },
+    {
+     "source": "openalex-W1973139594",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": null,
+     "verdict": "NA",
+     "reason": "正文中找不到引用该来源的句子",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "南极大陆",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4394779946",
+     "field": "geo",
+     "claim": "所引 2024 年研究以甘布尔采夫冰下山脉为例，指出该区自约 3400 万年前大规模 glaciation 以来长期处于冷基、非侵蚀状态，因而保存了古老的树枝状谷网。",
+     "abstract_evidence": "Since the inception of this ice sheet, some areas have remained cold-based and non-erosive ... it constitutes a preserved ( > 34 Ma) dendritic valley network",
+     "verdict": "PASS",
+     "reason": "个案表述与摘要一致，并已声明个案性质",
+     "fix": null
+    },
+    {
+     "source": "openalex-W4394779946",
+     "field": "influence",
+     "claim": "所引 2024 年研究据甘布尔采夫冰下山脉保存的（>34 Ma）树枝状谷网论证这一点；该论证的适用范围是保存性，不是露岩比例或大陆地形统计。",
+     "abstract_evidence": "some areas have remained cold-based and non-erosive, preserving ancient landscapes remarkably intact",
+     "verdict": "SOFT",
+     "reason": "摘要只说“部分区域”冷基保存；前句把冰下景观整体“冻结保存”并称与其它大陆显著不同，范围放大",
+     "fix": "所引 2024 年研究据甘布尔采夫冰下山脉保存的（>34 Ma）树枝状谷网指出，冰盖下部分冷基、非侵蚀区域保存了古老地貌；该论证的适用范围是局部保存性，不是露岩比例或大陆地形统计。"
+    },
+    {
+     "source": "openalex-W4281801109",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": null,
+     "verdict": "NA",
+     "reason": "正文中找不到引用该来源的句子",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "南极冰盖",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4365137248",
+     "field": "geo",
+     "claim": "所引 2023 年《Present and future Ross Ice Shelf dynamics》（摘要 3,172 字符）指出近数十年全球变暖已驱动南极冰盖显著质量损失，并预估 1.5℃/2℃ 升温情景下的后果；本条「南极冰盖的稳定性受海洋与大气升温影响」据此。",
+     "abstract_evidence": "In recent decades, global warming has driven significant mass losses across the Antarctic Ice Sheet ... The most significant mass losses in the AIS are driven by ocean-forced basal melting",
+     "verdict": "PASS",
+     "reason": "质量损失与海洋强迫底部融化直接见于摘要",
+     "fix": null
+    },
+    {
+     "source": "openalex-W196115473",
+     "field": "influence",
+     "claim": "所引 1982 年研究讨论西南极冰盖与东南极的发育关系；本条仅据此写「冰盖发育存在阶段性讨论」，不作定论。",
+     "abstract_evidence": "the largely marine West Antarctic ice sheet may have appeared first ... based on this marine ice transgression hypothesis",
+     "verdict": "SOFT",
+     "reason": "“阶段性讨论”措辞含糊，且与紧随其后的同源句重复",
+     "fix": "所引 1982 年研究讨论西南极与东南极冰盖孰先形成的问题；本条仅据此写「冰盖发育先后存在争论」，不作定论。"
+    },
+    {
+     "source": "openalex-W196115473",
+     "field": "influence",
+     "claim": "所引 1982 年研究提出的是假说（marine ice transgression hypothesis）：西南极冰盖与东南极冰盖的发育先后存在不同设想，作者以该假说勾勒新生代冰史。",
+     "abstract_evidence": "A Cenozoic glacial history of Antarctica is outlined, based on this marine ice transgression hypothesis",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "板块构造",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2904560534",
+     "field": "influence",
+     "claim": "所引 2018 年文献从地震学视角回顾板块构造理论的验证；本条据此写「地震带分布是板块边界的证据」。",
+     "abstract_evidence": "seismology ... make some major contributions to the plate tectonics revolution ... study of seismicity and focal mechanisms and later in discovery of the nature of the subduction process in Tonga – Fiji",
+     "verdict": "SOFT",
+     "reason": "摘要为拉蒙特地震学参与板块革命的史学回忆，未直接论证“地震带分布是板块边界证据”",
+     "fix": "所引 2018 年文献回顾地震学（地震活动性、震源机制与汤加—斐济俯冲带研究）对板块构造革命的贡献；本条据此写「地震学观测是确立板块构造理论的重要证据来源」。"
+    }
+   ]
+  },
+  {
+   "title": "季风系统",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2046274250",
+     "field": "influence",
+     "claim": "所引 2012 年《Thermal Controls on the Asian Summer Monsoon》（Scientific Reports，被引 915）指出：亚洲夏季风系统主要由热力强迫控制，其中20°N 以南的南亚季风由海陆热力差异控制。",
+     "abstract_evidence": "the South Asian monsoon south of 20°N by land-sea thermal contrast ... the East Asian monsoon ... by the thermal forcing of the Tibetan Plateau",
+     "verdict": "PASS",
+     "reason": "与摘要一致（注：青藏高原热力作用其实见于该文摘要）",
+     "fix": null
+    },
+    {
+     "source": "openalex-W1985690680",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": null,
+     "verdict": "NA",
+     "reason": "正文中找不到引用该来源的句子",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "河流三角洲",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2732305580",
+     "field": "geo",
+     "claim": "所引 2014 年研究讨论营养盐与泥沙对寡盐沼泽的影响；本条据此写「三角洲湿地对水沙变化敏感」。",
+     "abstract_evidence": "SO4 decreased [aboveground biomass] ... Sediment had no significant effect on belowground biomass ... sediment loading can be beneficial to coastal wetlands",
+     "verdict": "SOFT",
+     "reason": "个案为密西西比三角洲温室实验，泥沙效应多不显著，“对水沙变化敏感”属外推",
+     "fix": "所引 2014 年研究以密西西比三角洲寡盐沼泽草皮的温室实验显示，营养盐（尤其硫酸盐）会改变植物生物量，泥沙添加可提高土壤容重；本条据此写「三角洲湿地修复需同时考虑引水的营养盐与泥沙」。"
+    },
+    {
+     "source": "openalex-W2034581965",
+     "field": "geo",
+     "claim": "所引 2008 年研究以数学模型讨论河口沙坝的形成与前积（progradation），并以多瑙河三角洲的波塔波夫与贝斯特里支流为例；本条「三角洲由泥沙堆积与河道分汊形成」据此。",
+     "abstract_evidence": "The effect of sediment yield of a stream and the energy of sea waves on the formation of bars and their dynamics at nontidal river mouths",
+     "verdict": "SOFT",
+     "reason": "摘要讲泥沙供给与波浪共同控制河口沙坝，不涉河道分汊",
+     "fix": "所引 2008 年研究以数学模型讨论河口沙坝的形成与前积（progradation），并以多瑙河三角洲的波塔波夫与贝斯特里支流为例；本条「河口沙坝由河流来沙与海浪能量共同塑造」据此。"
+    },
+    {
+     "source": "openalex-W2097225658",
+     "field": "geo",
+     "claim": "所引 2006 年《High-Resolution Stratigraphy of a Mississippi Subdelta-Lobe》（被引23）指出路易斯安那东南沿海是密西西比三角洲多次前积、废弃与海侵旋回的产物；本条「三角洲由泥沙堆积、河道分汊与废弃改道交替形成」据此。",
+     "abstract_evidence": "The coastal zone of southeastern Louisiana is the product of numerous cycles of progradation, abandonment, and marine transgression",
+     "verdict": "SOFT",
+     "reason": "摘要为前积、废弃与海侵旋回，未提“河道分汊”",
+     "fix": "所引 2006 年《High-Resolution Stratigraphy of a Mississippi Subdelta-Lobe》（被引23）指出路易斯安那东南沿海是密西西比三角洲多次前积、废弃与海侵旋回的产物；本条「三角洲在前积、废弃与海侵的交替中演化」据此。"
+    }
+   ]
+  },
+  {
+   "title": "游牧",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W4403986029",
+     "field": "influence",
+     "claim": "所引 2024 年研究讨论牧业游牧的 disruption；本条据此写「游牧在现代条件下面临的结构性压力」。",
+     "abstract_evidence": "the multifaceted impacts of Russian colonization on the Kazakh Steppes during the 19ᵗʰ and 20ᵗʰ centuries ... blockage of ancient migration routes ... forced sedentarization",
+     "verdict": "FAIL",
+     "reason": "个案（19–20世纪俄国殖民下的哈萨克草原）被升格为“现代条件下游牧”的通例",
+     "fix": "所引 2024 年研究以 19–20 世纪俄国殖民下的哈萨克草原为例，指出迁徙路线被阻断、强制定居与市场整合改变了牧业游牧；本条据此写「殖民扩张可从迁徙路线与经济资源两端瓦解游牧」。"
+    }
+   ]
+  },
+  {
+   "title": "城市起源",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4405268832",
+     "field": "influence",
+     "claim": "所引 2024 年《City-State Civilizations: Mesoamerica's Urban Revolution》指出中美洲是全球仅有的三个独立起源城市区之一，并与两河流域研究的世界体系视角相互参照；本条「城市起源是多地独立发生的过程」据此。",
+     "abstract_evidence": "Mesoamerica is one of only three world regions to have developed pristine cities ... applied world systems theory to the region in a way reminiscent of Mesopotamia studies",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2165758805",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": null,
+     "verdict": "NA",
+     "reason": "无“所引”句；前句“功能性适应/家庭单位”观点与其摘要相符但未显式标注来源",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "尼罗河三角洲",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2096742774",
+     "field": "geo",
+     "claim": "所引 2013 年《Clay Distributions, Grain Sizes, Sediment Transport…》（摘要 2,180 字符）分析三角洲的黏土分布、粒径与泥沙输运；本条「三角洲由河流泥沙堆积与海浪、潮汐共同塑造」据此。",
+     "abstract_evidence": "This study focuses on the role of clay on subsidence ... Formerly dominant fluvial S-to-N transport ... has become distinctly shore parallel",
+     "verdict": "SOFT",
+     "reason": "该文主题是黏土与地面沉降，未提潮汐；“海浪、潮汐共同塑造”超出摘要",
+     "fix": "所引 2013 年《Clay Distributions, Grain Sizes, Sediment Transport…》分析北部三角洲的黏土分布、沉积厚度与压实，指出来沙减少、压实与海平面上升导致沿海地面下沉与海岸侵蚀；本条「北部三角洲正经历沉降与海岸侵蚀」据此。"
+    },
+    {
+     "source": "openalex-W2220441068",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": null,
+     "verdict": "NA",
+     "reason": "仅 time_or_place 写“本条引 2010 年水质研究”，无具体引用句",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "埃塞俄比亚高原",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2168645999",
+     "field": "geo",
+     "claim": "所引 2000 年研究（被引 115）只覆盖东北部 Wollo 与 Tigray 的降水变率（仅三站有 1950 年代以来的较完整记录），作者明言「无长期趋势或变化的证据」；该文不支撑「降水较周边丰沛」（无周边对比），亦不涉地质与河源。",
+     "abstract_evidence": "Only three stations ... possess relatively unbroken records back to the 1950s ... there is no evidence for a long-term trend or change",
+     "verdict": "PASS",
+     "reason": "与摘要一致，范围限定准确",
+     "fix": null
+    },
+    {
+     "source": "openalex-W3029696951",
+     "field": "geo",
+     "claim": "所引 2020 年《Ethiopian vegetation types, climate and topography》（被引 281）讨论埃塞俄比亚的植被类型与气候、地形的对应；本条「高原的垂直地带性与降水条件塑造植被与农业带」据此。",
+     "abstract_evidence": "eight distinct vegetation types have been identified in Ethiopia, based mainly on elevation and climate gradients",
+     "verdict": "SOFT",
+     "reason": "摘要支持海拔与气候梯度决定植被类型，未涉“农业带”",
+     "fix": "所引 2020 年《Ethiopian vegetation types, climate and topography》（被引 281）指出埃塞俄比亚八类植被主要依海拔与气候梯度划分；本条「高原的垂直地带性与气候条件塑造植被分带」据此。"
+    }
+   ]
+  },
+  {
+   "title": "几内亚湾沿岸",
+   "verdict": "NA",
+   "items": [
+    {
+     "source": "openalex-W1593162251",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": null,
+     "verdict": "NA",
+     "reason": "仅 time_or_place 写“本条引 2007 年专论”，无具体引用句",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "萨赫勒带",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2144515426",
+     "field": "geo",
+     "claim": "所引 1993 年研究重新评估西非（Sahel–Soudan 带）的降水变率，指出干旱年的空间范围与持续性；本条「降水年际变率大」的表述据此。",
+     "abstract_evidence": "The temporal characteristics of the series, such as trend, persistence ... three spatial modes of rainfall variability",
+     "verdict": "SOFT",
+     "reason": "摘要讲变率的持续性与空间模态，未专门讨论“干旱年的空间范围”",
+     "fix": "所引 1993 年研究重新评估西非（Sahel–Soudan 带）的降水变率，分析其趋势、持续性与三种空间模态；本条「降水年际变率大」的表述据此。"
+    }
+   ]
+  },
+  {
+   "title": "古埃及新王国",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W215461327",
+     "field": "polities",
+     "claim": "所引 2014 年《State Correspondence in the Ancient World》（被引24）研究古代国家的文书行政（含新埃及的通信与官僚运作）；本条「新王国以文书与官僚体系治理」据此。",
+     "abstract_evidence": "long-distance communication plays a key role in the cohesion and stability of early states ... Two more chapters are devoted to New Kingdom Egypt",
+     "verdict": "SOFT",
+     "reason": "摘要论证远程通信对早期国家凝聚的作用，“以文书与官僚体系治理”属引申",
+     "fix": "所引 2014 年《State Correspondence in the Ancient World》（被引24）以含新王国埃及在内的古代国家公文书信为材料，论证远程通信对早期国家凝聚与权力下放的作用；本条「新王国依靠远程公文通信维系对广阔疆域的控制」据此。"
+    },
+    {
+     "source": "openalex-W2518402882",
+     "field": "polities",
+     "claim": "所引 2016 年《Egypt: 1. Ancient (New Kingdom)》（摘要 954 字符）指出新王国的帝国时期（约前 1575–1100，第 18–20 王朝）是埃及史上一个全新的阶段，国家建立了两个分离的控制区；本条「新王国以军事扩张形成帝国、控制两区」据此。",
+     "abstract_evidence": "the Egyptian state founded two separate zones of control ... In Nubia the land was directly regulated by a viceroy ... local rulers ... were left in power",
+     "verdict": "SOFT",
+     "reason": "摘要未提“军事扩张”",
+     "fix": "所引 2016 年《Egypt: 1. Ancient (New Kingdom)》（摘要 954 字符）指出新王国的帝国时期（约前 1575–1100，第 18–20 王朝）建立了南北两个控制区：努比亚由总督直接管辖，西亚城邦则保留臣服的本地统治者；本条「新王国以两种不同的方式控制南北两区」据此。"
+    },
+    {
+     "source": "openalex-W197188726",
+     "field": null,
+     "claim": null,
+     "abstract_evidence": null,
+     "verdict": "NA",
+     "reason": "正文中找不到引用该来源的句子",
+     "fix": null
+    }
+   ]
+  },
+  {
+   "title": "库什与努比亚",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2507574122",
+     "field": "polities",
+     "claim": "所引 2016 年《Entanglement and the Formation of the Ancient Nubian Napatan State》（American Anthropologist，被引65）讨论纳帕塔国家的形成（约前750–前656年），强调其与埃及的纠缠关系；本条「库什作为独立政体在纳帕塔期形成」据此。",
+     "abstract_evidence": "explore the development of the Nubian polity who ruled as the 25th Dynasty ... finding strongest support for the influence of Nubian-Egyptian communities established in colonial times on the character of the Napatan polity",
+     "verdict": "SOFT",
+     "reason": "摘要研究纳帕塔政体的形成及埃及—努比亚混合社群的影响，“库什作为独立政体在纳帕塔期形成”与本条前文 2180 BC 口径冲突且超出摘要",
+     "fix": "所引 2016 年《Entanglement and the Formation of the Ancient Nubian Napatan State》（American Anthropologist，被引65）以通博斯遗址为据讨论纳帕塔国家的形成（约前750–前656年），认为殖民时期形成的努比亚—埃及混合社群塑造了纳帕塔政体的特征；本条「纳帕塔政体的形成与埃及纠缠相关」据此。"
+    },
+    {
+     "source": "openalex-W2894840915",
+     "field": "influence",
+     "claim": "麦罗埃时期的冶铁是长期讨论的问题，现有研究结论不一：2018 年矿冶研究认为冶铁传统延续千余年、产出可观；而 2019 年炉渣测年研究认为都城期（前300–公元300）堆积稀少、工业组织发生重组。",
+     "abstract_evidence": "a Kushite iron production tradition spanning over one thousand years ... a significant quantity of iron was produced at Meroe",
+     "verdict": "PASS",
+     "reason": "与摘要一致（该句未用“所引”格式，claim 取整句）",
+     "fix": null
+    },
+    {
+     "source": "openalex-W2896238063",
+     "field": "influence",
+     "claim": "麦罗埃时期的冶铁是长期讨论的问题，现有研究结论不一：2018 年矿冶研究认为冶铁传统延续千余年、产出可观；而 2019 年炉渣测年研究认为都城期（前300–公元300）堆积稀少、工业组织发生重组。",
+     "abstract_evidence": "little evidence for activity between c. 300 BC and AD 300—precisely when Meroe was the capital ... indicating significant reorganisation",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": null
+    }
+   ]
+  }
+ ]
+}
