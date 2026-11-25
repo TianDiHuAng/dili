@@ -1743,13 +1743,13 @@
         "openalex-W4392872715"
       ],
       "needs_verification": true,
-      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s041 标题即主题（Landsat），剥离后 21601 字符、landsat|satellite 命中 116）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·卫星遥感地表观测】本条正则 landsat|satellite（英文源用英文，D070）；s041-science-nasa-gov=200/正文21599字符/本条命中116；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中1。档位判定：档①5000。D055 判定：达标（档①5000：正文21599、命中116）。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第111轮检索记录】候选 GLC_FCS30D（被引612）内容相关，但标题不含对象词（remote sensing/satellite），按 R20 不登记为本条来源；第二内容源仍缺。 【第112轮补第二内容源】openalex-W4390344318（2023年，《The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection: Review and Per》，被引 132，摘要 1333 字符）：已在本条 influence 段落点。 【第118轮 D150 回溯登记】openalex-W4392872715（2024年，《GLC_FCS30D: the first global 30 m land-cover dynamics monitoring product with a fine classification system for the period from 1985 to 2022 generated using dense-time-series Landsat imagery and the continuous change-detection method》，被引 611，摘要 2829 字符）：已在本条 influence 段落点。",
+      "pending_notes": "第19轮按 D055 升级：专题页标题即主题且正文达标（s041 标题即主题（Landsat），剥离后 21601 字符、landsat|satellite 命中 116）；五段仅写来源可支撑的概述，具体年代/数值待核。 【第28轮实证复核·卫星遥感地表观测】本条正则 landsat|satellite（英文源用英文，D070）；s041-science-nasa-gov=200/正文21599字符/本条命中116；s038-earthobservatory-nasa-gov=200/正文7143字符/本条命中1。档位判定：档①5000。D055 判定：达标（档①5000：正文21599、命中116）。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第111轮检索记录】候选 GLC_FCS30D（被引612）内容相关，但标题不含对象词（remote sensing/satellite），按 R20 不登记为本条来源；第二内容源仍缺。 【第112轮补第二内容源】openalex-W4390344318（2023年，《The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection: Review and Per》，被引 132，摘要 1333 字符）：已在本条 influence 段落点。 【第118轮 D150 回溯登记】openalex-W4392872715（2024年，《GLC_FCS30D: the first global 30 m land-cover dynamics monitoring product with a fine classification system for the period from 1985 to 2022 generated using dense-time-series Landsat imagery and the continuous change-detection method》，被引 611，摘要 2829 字符）：已在本条 influence 段落点。 【第135轮审计】「据此」后残留赘语：「据此」后残留赘语",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
       "last_update": "2026-11-25",
       "geo": "不同波段对植被、水体、冰雪与裸地敏感，空间与时间分辨率决定可观测的尺度；云覆盖与地形阴影是限制因素。",
-      "influence": "遥感把点观测扩展为面状时序数据，支撑变化检测与资源评估；结果精度依赖定标、算法与地面验证。 所引 2023 年综述《The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection》（被引132，摘要 1,333 字符）指出在全球、区域与地方尺度上制图土地覆盖格局是监测动态世界的关键，并讨论人工智能与卫星遥感结合用于土地覆盖变化检测；本条「遥感支撑变化检测」据此。 所引 GLC_FCS30D 数据集论文（被引611，摘要 2,829 字符）描述了基于全部可用 Landsat 影像、覆盖 1985–2022 年 26 个时间步、35 个子类的全球 30 米土地覆盖动态监测产品；本条「用于监测土地覆盖」据此举例。",
+      "influence": "遥感把点观测扩展为面状时序数据，支撑变化检测与资源评估；结果精度依赖定标、算法与地面验证。 所引 2023 年综述《The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection》（被引132，摘要 1,333 字符）指出在全球、区域与地方尺度上制图土地覆盖格局是监测动态世界的关键，并讨论人工智能与卫星遥感结合用于土地覆盖变化检测；本条「遥感支撑变化检测」据此。 所引 GLC_FCS30D 数据集论文（被引611，摘要 2,829 字符）描述了基于全部可用 Landsat 影像、覆盖 1985–2022 年 26 个时间步、35 个子类的全球 30 米土地覆盖动态监测产品；本条「用于监测土地覆盖」据此。",
       "polities": "本条不展开政权序列；数据共享与开放政策影响应用范围。",
       "connections": "遥感与地面站网、模型结合，形成对区域与全球变化的连续监测能力。",
       "today": "开源卫星与云平台扩大了数据可及性。分辨率、重访周期与产品版本需按年份从 NASA/USGS 机构页核验。",
@@ -2007,13 +2007,13 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行仅有森林覆盖率，与火灾生态口径不符（D077 弃用）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2105570511（2014年，《Bark thickness and fire regime》，DOI 10.1111/1365-2435.12372），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】① 「共同演化」改为「受火 regime 选择/塑造」；② 补摘要自述局限「数据不足限制精确分析」；③ 「火 regime」保留原术语并加注（强度与频次）。 【第131轮语义扫描 SOFT】openalex-W2105570511：摘要为作者假说与概念框架（并称数据不足），正文写成既定结论，且「火既是干扰」非摘要内容",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行仅有森林覆盖率，与火灾生态口径不符（D077 弃用）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2105570511（2014年，《Bark thickness and fire regime》，DOI 10.1111/1365-2435.12372），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】① 「共同演化」改为「受火 regime 选择/塑造」；② 补摘要自述局限「数据不足限制精确分析」；③ 「火 regime」保留原术语并加注（强度与频次）。 【第131轮语义扫描 SOFT】openalex-W2105570511：摘要为作者假说与概念框架（并称数据不足），正文写成既定结论，且「火既是干扰」非摘要内容 【第135轮审计】中英混写：中英混写",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
       "last_update": "2026-11-25",
       "geo": "火 regime 随气候与植被类型变化：地中海气候区与针叶林带火频繁，湿润热带雨林自然火少；干季长度与燃料连续性决定火险。",
-      "influence": "所引 2014 年研究（被引 506）提出假说与概念框架：火是选择厚树皮的关键因子，全球树皮厚度的变异在很大程度上可由火 regime 的差异解释，但作者也指出现有数据不足以作完全准确的分析。作者同时说明，现有数据的不足限制了对该关系的完全精确分析。 本条不把 regime 窄化为「频率」，也不称两者「共同演化」。",
+      "influence": "所引 2014 年研究（被引 506）提出假说与概念框架：火是选择厚树皮的关键因子，全球树皮厚度的变异在很大程度上可由火情（fire regime）的差异解释，但作者也指出现有数据不足以作完全准确的分析。作者同时说明，现有数据的不足限制了对该关系的完全精确分析。 本条不把 regime 窄化为「频率」，也不称两者「共同演化」。",
       "connections": "与森林覆盖变化、碳排放、土地利用、生物多样性相关。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",

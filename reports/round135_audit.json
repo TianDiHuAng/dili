@@ -1,0 +1,502 @@
+{
+ "A": {
+  "sampled": 25,
+  "seed": 135,
+  "pool": 164,
+  "items": [
+   {
+    "title": "加勒比海群岛",
+    "source": "openalex-W597527439",
+    "field": "influence",
+    "claim": "所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）讨论种植园与奴隶制对加勒比社会的塑造；本条「群岛经济以甘蔗种植园为主」据此。",
+    "abstract_evidence": "Introduction I HISTORIOGRAPHY Woodville Marshall and Caribbean history by B. Brereton - 'Petticoat rebellion'?: the black women's body and voice in the struggles for freedom in colonial Jamaica by V.A. Shepherd - The making of the sugar revolution by B.W. Higman II PRODUCTION, CULTURE and RESISTANCE IN THE SLAVERY ERA The origins of slave rebellions in the middle passage by W. McGowan - The new 'n",
+    "verdict": "SOFT",
+    "reason": "摘要实为论文集目录，仅含「The making of the sugar revolution」「Plantation slave settlements」等篇名；「群岛经济以甘蔗种植园为主」是由目录推断，应注明目录级证据。",
+    "fix": "所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）是论文集，收有糖业革命、奴隶制时代种植园生产与解放后社会转型等专章；本条「种植园与糖业塑造了加勒比社会」据此（目录级证据）。",
+    "scan_round": 124,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "多瑙河",
+    "source": "openalex-W2658592595",
+    "field": "influence",
+    "claim": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的流域尺度模拟研究被用于支持欧洲环境政策在全流域的实施。",
+    "abstract_evidence": "This study provides an innovative process-based modelling approach using the SWAT model and shows its application to support the implementation of the European environmental policies in large river basins. The approach involves several pioneering modelling aspects: the inclusion of current management practices; an innovative calibration and validation methodology of streamflow and water quality; a",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 134,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "火灾生态",
+    "source": "openalex-W2105570511",
+    "field": "influence",
+    "claim": "所引 2014 年研究（被引 506）提出假说与概念框架：火是选择厚树皮的关键因子，全球树皮厚度的变异在很大程度上可由火 regime 的差异解释，但作者也指出现有数据不足以作完全准确的分析。",
+    "abstract_evidence": "Summary Bark is a vital and very visible part of woody plants, yet only recently has bark characteristics started to be considered as key traits structuring communities and biomes. Bark thickness is very variable among woody plants, and I hypothesize that fire is a key factor selecting for a thick bark, and thus, at the global scale, a significant proportion of the variability in bark thickness is",
+    "verdict": "PASS",
+    "reason": "假说、概念框架、数据不足均见摘要；被引数 506 与当前 504 小差。唯「火 regime」中英混写，列入 B。",
+    "fix": "",
+    "scan_round": 131,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "河中地区",
+    "source": "openalex-W4313222955",
+    "field": "influence",
+    "claim": "所引 2022 年《Mongol invasion of Transoxiana 1219–1221》（摘要 1,310 字符）讨论蒙古对河中地区的入侵，认为这是蒙古进一步入侵伊斯兰世界的首个门户；本条「河中曾遭蒙古西征重创」据此。",
+    "abstract_evidence": "The Mongol invasion of the Islamic world, especially parts of Transoxiana, was a serious threat to the Islamic world. This invasion was the first gateway for the Mongols to carry out subsequent invasions to other parts of the Islamic world, which resulted in the Islamic world getting worse and experiencing enormous destruction. This research uses the historical method. History as a science has a m",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 122,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "欧洲冰期地貌",
+    "source": "openalex-W2038364128",
+    "field": "geo",
+    "claim": "所引 1986 年《Dynamics of the Pleistocene glaciation…》（摘要 953 字符）指出整个更新世芬诺斯坎迪亚存在南北两个主要冰盖分水岭，冰川中心随冰厚变化而转换，进而决定地壳均衡下沉与回弹及海侵范围；本条「欧洲北部冰期地貌受冰川中心迁移与均衡调整影响」据此。",
+    "abstract_evidence": "Throughout the Pleistocene a system of two major ice divides operated in Fennoscandia: a northern one (with a western center of glaciation) and a southern one (with an eastern center of glaciation). With relatively thin ice the northern ice divide and the western center of glaciation were operative; with relatively thick ice the southern ice divide and the eastern center of glaciation came into pl",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 127,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "克里特文明",
+    "source": "openalex-W2538009141",
+    "field": "polities",
+    "claim": "所引 2016 年《Seals, Craft, and Community in Bronze Age Crete》（被引31）讨论米诺斯克里特「宫殿社会」的起源——把宫殿出现之前的阶段识别为一次异常活跃的社会文化创新期，认为社会变化源于工匠、旅行者与珍贵物品在新尺度上建立的联系。",
+    "abstract_evidence": "Generations of scholars have grappled with the origins of 'palace' society on Minoan Crete, seeking to explain when and how life on the island altered monumentally. Emily Anderson turns light on the moment just before the palaces, recognizing it as a remarkably vibrant phase of socio-cultural innovation. Exploring the role of craftspersons, travelers and powerful objects, she argues that social ch",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 123,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "source": "openalex-W621323142",
+    "field": "influence",
+    "claim": "所引 2002 年《Visions from the Past: The Archaeology of Australian Aboriginal Art》（被引169）系统讨论澳大利亚原住民岩画艺术的考古；本条「原住民岩画记录了创世、祖先与律法的故事，是延续极久的文化记录」据此（艺术与信仰侧面，社会制度另需来源）。",
+    "abstract_evidence": "A vast art gallery - the work of 1500 generations. Across an island continent - on flat slabs overlooking the sea, on desert boulders, under rock overhangs, on the sheer face of deep ravines - the first Australians painted and carved what mattered to them. Here are stories of the birth of the world and the creation of ancestral humans, of the creatures who made the landscape and gave humans their ",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 120,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "赫梯王国",
+    "source": "openalex-W2622786242",
+    "field": "polities",
+    "claim": "所引 2012 年《The Hittite Empire from Textual Evidence》（被引21）以赫梯文书为据，勾勒其近 500 年间从近乎无文字到形成庞大行政机构的发展，并指出其内政用楔形文字、对外以安纳托利亚象形文字示人；本条「赫梯以文书行政维系帝国」据此。",
+    "abstract_evidence": "The Hittite written legacy is unique in the ancient Near East in that it allows us to sketch the development of a major power over the course of its almost 500 years of history from a state of basic illiteracy through incipient literacy to a booming administrative apparatus which has earned it the reputation of a true bureaucracy. It was a state with two scripts: the cuneiform used for its inner a",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 127,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "匈奴",
+    "source": "openalex-W2013667302",
+    "field": "influence",
+    "claim": "所引 2014 年《Iron Smelting in the Nomadic Empire of Xiongnu》（被引21）报告蒙古 Khustyn Bulag 的匈奴时期冶铁遗址（前209–公元155年），指出匈奴是东欧亚第一个游牧帝国，其冶铁特征与南西伯利亚而非中国相关；本条「匈奴游牧帝国兼有冶铁手工业」据此。",
+    "abstract_evidence": "The first archeological evidence in Mongolia of an iron-smelting site has been discovered at Khustyn Bulag. This site belongs to the Xiongnu age (209BCE-155CE). The Xiongnu was the first Nomadic Empire in east Eurasia. Our excavation area was quite small but contained many interesting structures (smelting furnaces, calciners or roasters of iron ore, and slag disposal pits) and artifacts (a few pie",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 122,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "刚果盆地",
+    "source": "openalex-W2277780580",
+    "field": "influence",
+    "claim": "森林受采矿、道路、农业企业、生物燃料及自给农业与木炭采集的压力",
+    "abstract_evidence": "The Congo Basin forests have been mainly “passively” protected by chronic political instability and conflict, poor infrastructure, and poor governance. Congo Basin countries thus still fit the profile of high forest cover/ low deforestation (HFLD) countries. However, there are signs that Congo Basin forests are under increasing pressure from a variety of sources, including mineral extraction, road",
+    "verdict": "PASS",
+    "reason": "fix 原为「本条「…」据此」片段，正文以「该文能支持的范围仅为「…」」形式写入；内容逐项见摘要。",
+    "fix": "",
+    "scan_round": 115,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "教育机会地域差异",
+    "source": "openalex-W4387983363",
+    "field": "influence",
+    "claim": "所引 2023 年《Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities》（被引25）从地理属性如何造成教育不平等的角度讨论，并与可持续发展目标 4（SDG-4）相联系；其摘要未列出具体地理机制或区域数据，故本条仅将其作为一般性旁证，不据此支撑具体区域论断。",
+    "abstract_evidence": "ensuring universal access to high-quality education to all individuals is not only a fundamental aspect of fostering a peaceful and prosperous global community, but it also plays a critical role in the attainment of Sustainable Development Goal (SDG)-4.education equips individuals with the necessary knowledge and competencies to maintain good health, secure employment opportunities, and cultivate ",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 132,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "河流三角洲",
+    "source": "openalex-W2097225658",
+    "field": "geo",
+    "claim": "所引 2006 年《High-Resolution Stratigraphy of a Mississippi Subdelta-Lobe》（被引23）指出路易斯安那东南沿海是密西西比三角洲多次前积、废弃与海侵旋回的产物；本条「三角洲在前积、废弃与海侵的交替中演化」据此。",
+    "abstract_evidence": "The coastal zone of southeastern Louisiana is the product of numerous cycles of progradation, abandonment, and marine transgression of the Mississippi River delta. Currently, the shoreline in the Barataria Bight is undergoing significant erosion and retreat, and understanding its evolution is crucial in stabilization efforts. This study uses an extensive collection of geophysical and sediment core",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 120,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "安第斯垂直农业",
+    "source": "openalex-W2021618803",
+    "field": "influence",
+    "claim": "但现代气候变化正在改变带的位置，温度趋势研究显示热带安第斯自1939年以来持续升温，但升温幅度总体随海拔升高而减小。",
+    "abstract_evidence": "Mean annual temperature trends in the tropical Andes were determined over the last six decades (1939–1998), to investigate the apparent inconsistency between the observed glacier retreat and the reported slight cooling trend in the lower tropical troposphere after 1979. Our results indicate that temperature in the tropical Andes has increased by 0.10°–0.11°C/decade since 1939. The rate of warming ",
+    "verdict": "SOFT",
+    "reason": "摘要只给出 1939–1998 年升温 0.10–0.11°C/十年、升温随海拔减小；「现代气候变化正在改变带的位置」摘要未涉及。",
+    "fix": "温度趋势研究显示热带安第斯自1939年以来持续升温，升温幅度总体随海拔升高而减小，但高海拔站点的升温趋势仍然显著。",
+    "scan_round": 134,
+    "prior_verdict": "FAIL"
+   },
+   {
+    "title": "朝鲜半岛",
+    "source": "openalex-W2020449353",
+    "field": "influence",
+    "claim": "所引 2000 年研究以大型化石与孢粉重建半岛植被史（资料覆盖二叠纪至今）：现存针叶与阔叶类群自白垩纪以来连续出现，说明该区域未发生灾难性环境突变、长期气候具有一定连续性；期间仍有波动，喜冷针叶类群自晚更新世以来的存续可能与气候恶化有关。",
+    "abstract_evidence": "1 The vegetational and environmental history of the Korean Peninsula has been reconstructed by the use of both macrofossils and pollen data. These data were analysed within the time‐frame between the Permian and the present day. 2 The continuous appearances of presently occurring conifers and dicotyledons since the Cretaceous indicate both the absence of catastrophic environmental changes in the p",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 122,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "特奥蒂瓦坎",
+    "source": "openalex-W4206371181",
+    "field": "influence",
+    "claim": "所引 2005 年《Human Sacrifice, Militarism, and Rulership》（被引 189）以羽蛇神庙（约公元 200 年建）为对象，讨论特奥蒂瓦坎的宗教含义与政治意涵——该城是前哥伦布时期最早、人口最多的城市之一。",
+    "abstract_evidence": "Teotihuacan was one of the earliest and more populous preColumbian cities, and the Feathered Serpent was its vital monument, erected circa 200 AD. This work explores the religious meanings and political implications of the pyramid with meticulous and thorough analyses of substantially new excavation data. Challenging the traditional view of the city as a legendary, sacred, or anonymously-governed ",
+    "verdict": "PASS",
+    "reason": "约公元200年、最早且人口最多城市之一均见摘要；被引 189 与当前 195 为时间差。",
+    "fix": "",
+    "scan_round": 124,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "中世纪欧洲庄园农业",
+    "source": "openalex-W2479587242",
+    "field": "influence",
+    "claim": "所引专论以低地国家为对象，考察社会与制度组织对中世纪至近代早期经济发展的影响。",
+    "abstract_evidence": "The Low Countries—an area roughly embracing the present‐day Netherlands and Belgium—formed a patchwork of varied economic and social development in the Middle Ages, with some regions displaying a remarkable dynamism. Manors and Market charts the history of these vibrant economies and societies, and contrasts them with alternative paths of development, from the early medieval period to the beginnin",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 124,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "拜占庭帝国",
+    "source": "openalex-W4297961286",
+    "field": "polities",
+    "claim": "所引 1997 年《A History of the Byzantine State and Society》（被引 590，摘要 2,345 字符）是拜占庭国家与社会的通史，指出拜占庭在广大地域上长期维持单一国家。",
+    "abstract_evidence": "This is the first comprehensive and up-to-date history of Byzantium to appear in almost sixty years, and the first ever to cover both the Byzantine state and Byzantine society. It begins in A.D. 285, when the emperor Diocletian separated what became Byzantium from the western Roman Empire, and ends in 1461, when the last Byzantine outposts fell to the Ottoman Turks. Spanning twelve centuries and t",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 123,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "马来群岛",
+    "source": "openalex-W4285378271",
+    "field": "influence",
+    "claim": "所引 2021 年《Southeast Asian Early Maritime Silk Road Trading Polities’ Hinterland and the Sea Nomads of the Isthmus of Kra》讨论东南亚早期海上贸易政体腹地中采集者、海上游民与农人、商人的相互依存关系，以及环境破碎性对社会分化的影响。",
+    "abstract_evidence": "When, how and why does cultural differentiation take place? Which environmental, social, demographic and economic factors are at play? These questions are perhaps even more pertinent when dealing with mobile or semi-sedentary and forager or semi-agriculturalist groups living on the margins of centralised polities. Anthropologists and archaeologists have long abandoned the evolutionist postulate th",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 122,
+    "prior_verdict": "FAIL"
+   },
+   {
+    "title": "匈奴",
+    "source": "openalex-W2042596789",
+    "field": "influence",
+    "claim": "所引 2014 年研究考察匈奴帝国各级「王」与区域精英，并结合考古材料指出：地方领袖对统治集团的竞争推动了帝国政治文化物质表现的变化，导致草原精英分化。",
+    "abstract_evidence": "Descriptions of the political order of the Xiongnu empire rely heavily upon Chinese historical narratives and, as a result, often simplify steppe politics and gloss over provincial political agents. This paper therefore discusses the entire spectrum of “kings” and regional elites in the steppes in order to elucidate shifting power politics over the course of the Xiongnu empire. Furthermore, a comp",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 122,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "明清",
+    "source": "openalex-W2081119930",
+    "field": "influence",
+    "claim": "所引 1990 年研究以广东佛山为例，讨论明清市镇领袖如何看待市镇与自身的地位，认为他们意识到市镇的繁荣根植于经济。",
+    "abstract_evidence": "WHAT MADE FOSHAN A TOWN? THE EVOLUTION OF RURAL-URBAN IDENTITIES IN MING-QING CHINA* David Faure Cities and towns appear in the current Chinese social and economic history literature in four non-exclusive, but recognizably discreet, contexts. First, as \"central places,\" they are discussed as nodes in networks through which trade flowed, and the central question in that literature is how open or cl",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 122,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "加勒比海群岛",
+    "source": "openalex-W2126487261",
+    "field": "influence",
+    "claim": "加勒比各生物类群的分化历史需要逐类群具体解释，不能用单一陆桥模型概括。",
+    "abstract_evidence": "Caribbean biogeography is reviewed to illustrate within a particular geographic framework how evidence of plant and animal distribution may be interpreted without commitment to special assumptions other than allopatric speciation (vicariance). The distributional data are examined with respect to whether or not they form recognizable patterns within the Caribbean region. Four main patterns and one ",
+    "verdict": "SOFT",
+    "reason": "摘要主张以隔离分化（vicariance）模型解释加勒比生物分布、反对先验假定扩散为唯一因素；「单一陆桥模型」与「逐类群具体解释」均非摘要内容。",
+    "fix": "加勒比生物地理的分布格局可用隔离分化（vicariance）模型解释，而不宜先验地假定扩散是唯一或最主要的成因。",
+    "scan_round": 134,
+    "prior_verdict": "FAIL"
+   },
+   {
+    "title": "汉代",
+    "source": "openalex-W2961296942",
+    "field": "polities",
+    "claim": "西汉贾谊主张以经济遏制与贸易手段应对匈奴",
+    "abstract_evidence": "This chapter discusses the perspectives of Jia Yi on foreign relations, specifically the diplomatic and economic strategies that he suggested for the purpose of degrading the Xiongnu confederation. Jia Yi deals with the problem of the Xiongnu with a policy of economic containment. The political economy related to the Xiongnu might be seen as part of Jia Yi’s idea of diplomacy in order to avoid the",
+    "verdict": "PASS",
+    "reason": "同上形式写入；贾谊经济遏制、汉匈关系成为帝国支出均见摘要。",
+    "fix": "",
+    "scan_round": 115,
+    "prior_verdict": "FAIL"
+   },
+   {
+    "title": "加纳帝国",
+    "source": "openalex-W2959024546",
+    "field": "polities",
+    "claim": "所引 2014 年《Pioneers in Ancient Ghana》（摘要 858 字符）指出西非最早的大国名为 Wagadu（柏柏尔商人在撒哈拉市场中心称之为 Aoukar），并讨论加纳等国的成长；本条「加纳帝国（瓦加杜）开启了黄金贸易」据此。",
+    "abstract_evidence": "The earliest of West Africa’s big states was named Wagadu, known to the Berber traders of the Saharan market centres as Aoukar. With the growth of Ghana, and of other states like Ghana, the peoples of West Africa were inventing new methods of living together, of governing themselves, of raising money to pay for government, and of producing wealth. In states like Ancient Ghana, the power of governm",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 121,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "农业企业与价值链",
+    "source": "openalex-W2116282164",
+    "field": "influence",
+    "claim": "所引 2004 年《Contract farming in Indonesia》（被引72）指出，发展中国家较大土地经营者可获资本、市场信息与制度支持而小农常被边缘化，合同农业可作为农业企业与小农分担生产与营销风险、帮助小农转向高价值出口产品的一种机制。",
+    "abstract_evidence": "As developing countries continue on the path of economic liberalisation, there is an urgent need to bring the benefits of new trade and market opportunities to rural areas. While producers with larger landholdings may have access to capital, marketing information and institutional support, smallholders often miss out and are more likely to be marginalised. One possible mechanism for improving the ",
+    "verdict": "PASS",
+    "reason": "fix 内容均可在重取摘要中找到对应，未见新增数字、年份、人名、地名。",
+    "fix": "",
+    "scan_round": 133,
+    "prior_verdict": "SOFT"
+   },
+   {
+    "title": "撒哈拉沙漠",
+    "source": "openalex-W2135916824",
+    "field": "geo",
+    "claim": "全新世撒哈拉沙漠化可通过地表反照率反馈影响北半球高纬气候",
+    "abstract_evidence": "Since the start of the Holocene, temperatures in the Arctic have steadily declined. This has been accredited to the orbitally forced decrease in summer insolation reconstructed over the same period. However, here we present climate modelling results from an Earth model of intermediate complexity (EMIC) that indicate that 17–40% of the cooling in the Arctic, over the period 9–0 ka, was a direct res",
+    "verdict": "PASS",
+    "reason": "同上形式写入；反照率增加、北半球气候敏感性见摘要（模式模拟已注明）。",
+    "fix": "",
+    "scan_round": 115,
+    "prior_verdict": "SOFT"
+   }
+  ],
+  "counts": {
+   "PASS": 22,
+   "SOFT": 3,
+   "FAIL": 0
+  }
+ },
+ "B": {
+  "items": [
+   {
+    "title": "卫星遥感地表观测",
+    "field": "influence",
+    "claim": "本条「用于监测土地覆盖」据此举例。",
+    "fix": "本条「用于监测土地覆盖」据此。",
+    "kind": "「据此」后残留赘语"
+   },
+   {
+    "title": "拉普拉塔平原",
+    "field": "influence",
+    "claim": "本条「黑土与温和气候有利于农牧业」据此补其生态代价一侧。",
+    "fix": "本条「黑土与温和气候有利于农牧业」据此。",
+    "kind": "「据此」后残留赘语"
+   },
+   {
+    "title": "火灾生态",
+    "field": "influence",
+    "claim": "火 regime 的差异",
+    "fix": "火情（fire regime）的差异",
+    "kind": "中英混写"
+   }
+  ],
+  "counts": {
+   "total": 3
+  }
+ },
+ "C": {
+  "items": [
+   {
+    "title": "可持续交通",
+    "source": "openalex-W2483902998",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "丝绸之路",
+    "source": "openalex-W1520501027,openalex-W4249333639",
+    "field": "time_or_place",
+    "claim": "时期与年代待专门来源核验（详见待核实）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "生物多样性分布",
+    "source": "openalex-W3037032979",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "自然灾害风险",
+    "source": "openalex-W2603960055",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "河流三角洲",
+    "source": "openalex-W2732305580,openalex-W2034581965,openalex-W2097225658",
+    "field": "time_or_place",
+    "claim": "时期与年代待专门来源核验（详见待核实）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "周代",
+    "source": "openalex-W4206323479,openalex-W4406476289",
+    "field": "overview",
+    "claim": "据 Wikidata 结构化记录为 前1046年–前256年；具体疆域与制度演变待专门史学来源核验。",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "莱茵河",
+    "source": "openalex-W2096204231,openalex-W2041834890,openalex-W2114886861",
+    "field": "time_or_place",
+    "claim": "航运与生态研究（本条引 2009 年莱茵河扩散研究）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "宋代",
+    "source": "openalex-W4361197788,openalex-W4385538576",
+    "field": "time_or_place",
+    "claim": "时期与年代待专门来源核验（详见待核实）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "大自流盆地",
+    "source": "openalex-W1969120728,openalex-W58011430,openalex-W4383461111,openalex-W4409434538",
+    "field": "time_or_place",
+    "claim": "地质尺度（本条引 1986 年氯-36 定年研究）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "大平原",
+    "source": "openalex-W2992002638,openalex-W2186081253,openalex-W1999738724",
+    "field": "time_or_place",
+    "claim": "时期与年代待专门来源核验（详见待核实）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "法蒂玛王朝",
+    "source": "openalex-W4285722466,openalex-W4391104973",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "罗马帝国",
+    "source": "openalex-W378444792,openalex-W2330725510",
+    "field": "time_or_place",
+    "claim": "时期与年代待专门来源核验（详见待核实）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "秦代",
+    "source": "openalex-W4312410278,openalex-W2979855713",
+    "field": "overview",
+    "claim": "据 Wikidata 结构化记录为 前221年–前206年；具体疆域与制度演变待专门史学来源核验。",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "尼罗河谷",
+    "source": "openalex-W4381279037,openalex-W2093695471",
+    "field": "time_or_place",
+    "claim": "时期与年代待专门来源核验（详见待核实）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   },
+   {
+    "title": "冲积平原",
+    "source": "openalex-W2154930938,openalex-W3095474398,openalex-W1755791855",
+    "field": "time_or_place",
+    "claim": "地质尺度（本条引 2005 年冲积序列研究）",
+    "abstract_evidence": "",
+    "verdict": "PASS",
+    "reason": "排除正确：为套话/待核说明或年代标签，不陈述所引研究的具体发现。",
+    "fix": ""
+   }
+  ],
+  "counts": {
+   "sampled": 15,
+   "pool_observed": 126,
+   "correctly_excluded": 15,
+   "misexcluded": 0
+  }
+ }
+}

@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 134,
+  "last_round": 135,
   "history": [
     {
       "round": 1,
@@ -844,5 +844,5 @@
     "拉普拉塔平原"
   ],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第134轮隐式援引扫描发现 SOFT 4 / FAIL 4，属新缺口，连续零缺口计数归零；需连续 3 轮多维缺口发现均为零方可进入维护模式。"
+  "zero_gap_streak_note": "第135轮审计发现 A 类 SOFT 3、B 类机械缺陷 3，仍非零缺口；连续计数保持 0。"
 }
