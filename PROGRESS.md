@@ -245,3 +245,9 @@
 - E 3 处：SATURATION gap_model 与 evidence.levels 同步为 A215/B0/C0/D28、G2=0；semantic_scan.unresolved 清空（原 3 条已有强来源）；limits 页 0 条。
 - 收尾：check 0、links 0、一致性 0；G1/G2/G3/G4 全 0。
 - 本轮有发现，连续零缺口计数仍为 0。
+
+## 第143轮（独立审计）
+- A 抽检：扫描池已抽尽，另取未决 6 项全部 PASS。B 机械缺陷全量 0。C 判据一致性 0。
+- D 1 项：城市起源 W2165758805 备注误记「仅作登记」，实为被引169、摘要约2万字节的合格内容来源，已更正。
+- E 1 项：SATURATION gap_model.counts 的 G2 仍为 3，已改 0；同时把 evidence 的 ge2/one/zero 由旧值 208/33/2 同步为实际 215/27/1。
+- 收尾：check 0、links 0、一致性 0；缺口全 0。本轮有发现，连续零缺口计数仍为 0。

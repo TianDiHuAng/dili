@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 142,
+  "last_round": 143,
   "history": [
     {
       "round": 1,
@@ -775,9 +775,9 @@
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
     "shell_pages": 6,
     "semantic_scan": "data/semantic_scan.json",
-    "ge2_content": 208,
-    "one_content": 33,
-    "zero_content": 2,
+    "ge2_content": 215,
+    "one_content": 27,
+    "zero_content": 1,
     "criterion": "tools/assess.py（D138 单一实现）",
     "search_route": "Crossref query.bibliographic → DOI → OpenAlex by-ID（D144；OpenAlex search 端点 429 不可用）",
     "sources_registered": 777,
@@ -817,7 +817,7 @@
     "close_condition": "G1=0 且 G2 记为既有结论（不再重试）且 G3=0 后，方可讨论 saturation；G4（语义对题）不可自动化，须以人工扫描记录为准",
     "counts": {
       "G1": 0,
-      "G2": 3,
+      "G2": 0,
       "G3": 0,
       "G4": 0
     }
@@ -846,5 +846,5 @@
   ],
   "unsolvable": [],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第142轮审计发现 9 项（B2/D4/E3），非零缺口；连续计数保持 0。"
+  "zero_gap_streak_note": "第143轮审计发现 2 项（D1/E1），非零缺口；连续计数保持 0。"
 }

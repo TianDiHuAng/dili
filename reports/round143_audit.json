@@ -1,0 +1,151 @@
+{
+ "A": {
+  "seed": 143,
+  "method": "pool=round115/119-134_scan 中 verdict SOFT/FAIL 且 fix 非空的项（按 title+source 去重）；exclude=round135-142 各 audit A 已抽项。经核：扫描池 162 项与 135-142 已抽集合完全相等（P=S=162），扫描池已抽尽、无剩余；按任务口径另将 135-142 audit 中仍判 SOFT/FAIL 且有 fix 的未决项 6 项作为候选，经种子 143 判定（候选 6<30，全部取，未触发随机）。全部重取 OpenAlex 摘要（abstract_inverted_index 按位置重建，间隔≥1s）复核。",
+  "pool_scans_115_134_softfail_with_fix": 162,
+  "already_sampled_in_135_142": 162,
+  "candidates_remaining_from_scans": 0,
+  "unresolved_audit_softfail_with_fix": 6,
+  "sampled": 6,
+  "note": "6 项 fix 均已写入正文且经重取摘要核对：fix 只写摘要支持的内容，未发现编造数字/年代/人名/地名，未见专名误译。全部 PASS，A 无新增需改项。",
+  "items": [
+   {
+    "idx": 0,
+    "title": "加勒比海群岛",
+    "source": "openalex-W597527439",
+    "field": "influence",
+    "prior_verdict": "SOFT",
+    "audit_round": "round135_audit",
+    "oa_title": "In the shadow of the plantation: Caribbean history and legacy",
+    "oa_year": 2002,
+    "oa_cited": 75,
+    "oa_abstract_len": 1889,
+    "verdict": "PASS",
+    "reason": "重取摘要为论文集目录，含「The making of the sugar revolution」「Plantation slave settlements」「Post-emancipation adjustments」等篇名；fix 已改为「论文集…收有糖业革命、奴隶制时代种植园生产与解放后社会转型等专章；…（目录级证据）」，与目录一致，未越出摘要；被引 75 与正文一致。"
+   },
+   {
+    "idx": 1,
+    "title": "安第斯垂直农业",
+    "source": "openalex-W2021618803",
+    "field": "influence",
+    "prior_verdict": "FAIL",
+    "audit_round": "round135_audit",
+    "oa_title": "Mean annual temperature trends and their vertical structure in the tropical Andes",
+    "oa_year": 2000,
+    "oa_cited": 371,
+    "oa_abstract_len": 988,
+    "verdict": "PASS",
+    "reason": "摘要写 1939 起升 0.10–0.11°C/十年、升温随海拔减小、最高海拔站点仍显著（95% 置信）；fix 与之逐句对应，无编造数字，并已剔除摘要不涉的「改变带的位置」。"
+   },
+   {
+    "idx": 2,
+    "title": "加勒比海群岛",
+    "source": "openalex-W2126487261",
+    "field": "influence",
+    "prior_verdict": "FAIL",
+    "audit_round": "round135_audit",
+    "oa_title": "A Vicariance Model of Caribbean Biogeography",
+    "oa_year": 1975,
+    "oa_cited": 664,
+    "oa_abstract_len": 2405,
+    "verdict": "PASS",
+    "reason": "摘要主张以隔离分化（vicariance）解释加勒比生物分布、反对先验假定扩散为唯一因素；fix 一致；无编造；被引现为 664（正文旧记 649，属引用计数随时间漂移）。"
+   },
+   {
+    "idx": 3,
+    "title": "古埃及新王国",
+    "source": "openalex-W215461327",
+    "field": "polities",
+    "prior_verdict": "SOFT",
+    "audit_round": "round136_audit",
+    "oa_title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+    "oa_year": 2014,
+    "oa_cited": 24,
+    "oa_abstract_len": 1656,
+    "verdict": "PASS",
+    "reason": "摘要主旨为远程通信对早期国家的凝聚、稳定与权力下放具关键作用，覆盖范围自新王国埃及至罗马帝国；fix 改后只述该书一般论点，未把「新王国专证」强加于摘要，无编造。"
+   },
+   {
+    "idx": 4,
+    "title": "赫梯王国",
+    "source": "openalex-W4280619931",
+    "field": "influence",
+    "prior_verdict": "SOFT",
+    "audit_round": "round136_audit",
+    "oa_title": "The Hittite Empire",
+    "oa_year": 2022,
+    "oa_cited": 12,
+    "oa_abstract_len": 1307,
+    "verdict": "PASS",
+    "reason": "摘要自述「The chapter focuses on how the Hittite state negotiated the exercise of authority over a highly fragmented landscape…center…Hattusa」；fix 已将「专著」改为「章节」，与摘要自称一致，内容无编造。"
+   },
+   {
+    "idx": 5,
+    "title": "大自流盆地",
+    "source": "openalex-W4409434538",
+    "field": "geo",
+    "prior_verdict": "SOFT",
+    "audit_round": "round137_audit",
+    "oa_title": "Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry",
+    "oa_year": 2025,
+    "oa_cited": 1,
+    "oa_abstract_len": 1590,
+    "verdict": "PASS",
+    "reason": "摘要为 Eromanga/Great Artesian Basin 东缘约 50 处 surface-temperature silica springs，自 Hutton Sandstone 露头边缘排泄；fix「常温硅质泉」「赫顿砂岩（Hutton Sandstone）」准确，摘要长度 1590 与正文标注一致，无编造。"
+   }
+  ]
+ },
+ "B": {
+  "items": [],
+  "counts": {
+   "total": 0,
+   "entries_scanned": 243,
+   "fields_scanned": 1944
+  },
+  "checks": "全量 243×8 字段（definition/overview/geo/influence/polities/connections/today/time_or_place）：轮次/决策编号泄入 0（第N轮/D###/R## 均 0）；据此后赘语 0（「据此补/据此举例/补其/补季节性」等残留 0；「本条据此写「X」」为全站既有既定表述，非残留）；双句号及「；。」「，。」0；空括号空引号 0；同字段重复句 0；逗号顿号结尾截断 0；损坏句 0（无未配对括号、无修改指令残留、无字段名泄入）；失去前提承接句 0（各字段未以 因此/该文/这说明 等起始）；空字段 0；无括注中英混写：括号/书名号外拉丁字串经逐条核对，均为专名（Wikidata/Livius/Beringia 等）、期刊/出版名、单位（km/kg/Ma/ka BP/BC）或已带中文括注（chinampa（湖上人工田）、系统发育多样性（PD）），且「beta 多样性」「Theic 洋」分别经 round129 抽验通过、源自来源摘要「Theic ocean」，均非缺陷。"
+ },
+ "C": {
+  "items": [],
+  "checks": "tools/assess.py 重算层级 A215/D28，与 data/evidence_level.json 243 条逐条比对 0 不符（记录 A215/D28，calc A215/D28）；round62_gaps 的 G1=0（=重算 C 级数 0）、G3=0（content_count==1 且非 D 的条目数 0，27 个 content==1 全部为 D 级）与实际重算一致；data/no_solution.json entries 为空，无 G2 条目可核，无过期项。"
+ },
+ "D": {
+  "items": [
+   {
+    "title": "城市起源",
+    "field": "pending_notes",
+    "source": "openalex-W2165758805",
+    "claim": "【第120轮语义扫描】openalex-W2165758805 在正文中无对应落点句，仅作登记，不支撑任何断言。",
+    "fix": "应改为：openalex-W2165758805（《Households and the Emergence of Cities in Ancient Mesopotamia》，Cambridge Archaeological Journal 2014，被引 169）的摘要给出「the world's first cities emerged on the plains of Mesopotamia … in the fourth millennium bc」，已在 definition、overview 落点，属合格内容来源。",
+    "reason": "pending_notes 第120轮把该文标为「仅作登记，不支撑任何断言」，但正文 definition「据 Cambridge Archaeological Journal 2014 年研究，世界最早的城市出现于两河流域平原（今伊拉克与叙利亚一带），时间在公元前第四千纪」与 overview、time_or_place 均直接转述该文摘要的结论与年代（round134_scan 亦记其摘要原文并判 PASS），二者矛盾；该文被引 169、摘要约 2 万字节，属强内容来源，应以正文为准修正备注。"
+   }
+  ],
+  "counts": {
+   "total": 1
+  },
+  "checks": "扫描 pending_notes 中被标旁证/仅作登记/不支撑/降级的 openalex 来源共 74 处（含 round142 已修的尼罗河三角洲、河中地区、伊比利亚半岛、突厥——其正文均已清理，复核通过）；按 D112「限定用途」口径排除意大利半岛/文艺复兴意大利/地理信息系统/美国西进/河流三角洲及冲积平原/大分水岭等第二内容源旁证；再对全部降级源做正文核验：逐一比对来源题名/期刊名/年份，并在内容字段（不含 time_or_place 纯时地指针）搜「裸年份」引用，仅「城市起源」一处内容字段仍以「仅作登记」来源为实质依据，其余 73 处正文或引用同名的另一来源、或仅 time_or_place「本条引 YYYY 年…研究」纯指针（无结论/数字，按既有口径排除）。"
+ },
+ "E": {
+  "items": [
+   {
+    "title": "SATURATION.json",
+    "field": "gap_model.counts(G2)",
+    "claim": "\"counts\": {\n      \"G1\": 0,\n      \"G2\": 3,\n      \"G3\": 0,\n      \"G4\": 0\n    }",
+    "fix": "\"counts\": {\n      \"G1\": 0,\n      \"G2\": 0,\n      \"G3\": 0,\n      \"G4\": 0\n    }",
+    "reason": "reports/round62_gaps.json 的 G2=0、data/no_solution.json entries 为空、SATURATION.unsolvable 为空、且同文件 gap_model.definitions 的 G2 亦为 0；但 gap_model.counts 的 G2 仍为旧值 3（第142轮 E 修复只改了 definitions，未同步 counts 汇总），属残留不一致。"
+   }
+  ],
+  "counts": {
+   "total": 1
+  },
+  "checks": {
+   "check.py": "ERRORS=0 ALL_PASS（243 条/809 来源）",
+   "check_links.py": "BROKEN=0 LINKS_PASS（4941 链接）",
+   "evidence_level_vs_assess": "一致 A215/B0/C0/D28",
+   "gap_model.definitions_vs_round62": "一致 G1=0/G2=0/G3=0/G4=0",
+   "gap_model.counts_vs_round62": "不一致：counts.G2=3 vs round62 G2=0（见 item）",
+   "limits_gap_table_vs_round62": "一致 G1=0/G2=0/G3=0/G4=0（G3a=0/G3b=0）",
+   "limits_noans_vs_no_solution": "一致 0 条 vs entries 空",
+   "附录_note": "SATURATION.evidence 的 ge2_content/one_content/zero_content=208/33/2 与 assess 内容源分布 215/27/1 不一致（属 evidence 汇总旧值，不在本次「evidence.levels（A/B/C/D 计数）」四项比对口径内，附记备查）"
+  }
+ }
+}
