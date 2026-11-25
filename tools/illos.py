@@ -253,3 +253,37 @@ def build(entry, coords=None):
             + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
             + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
             + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
+
+
+# ---------- 全站地形：类型化剖面 ----------
+import schematics
+
+def _terrain_block(e):
+    return "<g transform='translate(0,230) scale(1,0.75)'>" + schematics.draw(e["title"]) + "</g>"
+
+def build(entry, coords=None):
+    unit = entry.get("unit_id","global-themes"); theme = entry.get("theme","区域"); title = entry["title"]
+    lon = coords[0] if coords else None; lat = coords[1] if coords else None
+    bb = list(UNIT_BBOX.get(unit, UNIT_BBOX["global-themes"]))
+    if lon is not None:
+        bb = [min(bb[0], lon-4), max(bb[1], lon+4), min(bb[2], lat-4), max(bb[3], lat+4)]
+    ov = ne.overlay((30,34,840,196), tuple(bb), title)
+    loc = map_svg((30,34,840,196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
+    if theme == "政权更替" and title in YEAR:
+        diagram = _hist_diagram(entry, coords)
+    elif "土壤" in title:
+        diagram = theme_soil(entry, coords)
+    elif any(k in title for k in ("水资源","湿地","水文","海洋保护区","渔业资源","海洋生态系统")):
+        diagram = theme_water(entry, coords)
+    elif theme == "气候":
+        diagram = _theme_climate2(entry, coords)
+    elif theme == "地形":
+        diagram = _terrain_block(entry)
+    else:
+        diagram = {"农业":theme_agriculture,"贸易":theme_trade,"区域":theme_region}.get(theme, theme_region)(entry)
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
+            + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
+            + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
+            + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
+            + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
+            + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
