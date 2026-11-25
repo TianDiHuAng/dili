@@ -143,3 +143,80 @@ def combine_inner(inner, lon, lat, label):
     """inner 为不含 <svg> 包裹的绘图内容；返回 900x760 合成 SVG（定位图在上、剖面在下）。"""
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 760' role='img' aria-label='位置图与剖面示意图'>"
             + locator_svg(lon, lat, label) + "<g transform='translate(0,258)'>" + inner + "</g></svg>")
+
+
+_ALL = None
+
+def all_rings():
+    """全部国家陆地环（经纬度点列），带面积过滤，供大洲/世界底图使用。"""
+    global _ALL
+    if _ALL is not None:
+        return _ALL
+    _ensure_cache()
+    topo = json.load(open(CACHE, encoding="utf-8"))
+    arcs = _decode_arcs(topo)
+    out = []
+    for g in topo["objects"]["countries"]["geometries"]:
+        polys = [g["arcs"]] if g["type"] == "Polygon" else g["arcs"]
+        for poly in polys:
+            for ring in poly:
+                pts = _ring_points(ring, arcs)
+                if len(pts) >= 4:
+                    out.append(pts)
+    _ALL = out
+    return out
+
+
+def _area(r):
+    a = 0.0
+    for i in range(len(r) - 1):
+        a += r[i][0] * r[i + 1][1] - r[i + 1][0] * r[i][1]
+    return abs(a)
+
+
+def map_svg(box, bounds, lon=None, lat=None, label=None):
+    """在给定 box 内画 bbox 范围内的真实陆地轮廓，可标点。返回 (frag, project_fn)。"""
+    x0, y0, w, h = box
+    parts = [f"<rect x='{x0}' y='{y0}' width='{w}' height='{h}' rx='8' fill='#eef1f3' stroke='var(--line)'/>"]
+    def proj(lo, la):
+        return _project(lo, la, box, bounds)
+    # 经纬网
+    lon0, lon1, lat0, lat1 = bounds
+    step_lon = 30 if lon1 - lon0 > 90 else 20
+    lo = int((lon0 // step_lon + 1) * step_lon)
+    while lo < lon1:
+        px, _ = proj(lo, lat0)
+        parts.append(f"<path d='M{px:.1f} {y0} L{px:.1f} {y0+h}' stroke='#cfd6da' stroke-width='.6'/>")
+        lo += step_lon
+    step_lat = 20 if lat1 - lat0 > 60 else 10
+    la = int((lat0 // step_lat + 1) * step_lat)
+    while la < lat1:
+        _, py = proj(lon0, la)
+        parts.append(f"<path d='M{x0} {py:.1f} L{x0+w} {py:.1f}' stroke='#cfd6da' stroke-width='.6'/>")
+        la += step_lat
+    # 陆地
+    for ring in all_rings():
+        rlo = [p[0] for p in ring]; rla = [p[1] for p in ring]
+        if max(rlo) < lon0 or min(rlo) > lon1 or max(rla) < lat0 or min(rla) > lat1:
+            continue
+        if _area(ring) < 2.0:
+            continue
+        d = []
+        for i, (plo, pla) in enumerate(ring):
+            px, py = proj(plo, pla)
+            if px < x0 - 20 or px > x0 + w + 20 or py < y0 - 20 or py > y0 + h + 20:
+                continue
+            d.append(('M' if not d else 'L') + f"{px:.1f} {py:.1f}")
+        if len(d) > 3:
+            parts.append("<path d='" + ' '.join(d) + " Z' fill='#e5dfd0' stroke='#9a9384' stroke-width='.8'/>")
+    if lon is not None and lat is not None:
+        px, py = proj(lon, lat)
+        if px < x0 or px > x0 + w or py < y0 or py > y0 + h:
+            return "".join(parts)  # 点落在图外则只画底图
+        parts.append(f"<circle cx='{px:.1f}' cy='{py:.1f}' r='6' fill='#c0392b' stroke='#7a1f14' stroke-width='1.3'/>")
+        parts.append(f"<circle cx='{px:.1f}' cy='{py:.1f}' r='11' fill='none' stroke='#c0392b' stroke-width='.9' opacity='.55'/>")
+        if label:
+            lx = px + 14 if px < x0 + w - 160 else px - 160
+            parts.append(f"<path d='M{px:.1f} {py:.1f} L{lx:.1f} {py-22:.1f}' stroke='#c0392b' stroke-width='.9'/>")
+            parts.append(f"<text x='{lx:.1f}' y='{py-26:.1f}' class='lbl'>{label}</text>")
+    return "".join(parts)
