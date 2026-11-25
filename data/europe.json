@@ -74,15 +74,15 @@
         "openalex-W3097983290"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·克里特文明】本条正则 crete|minoan。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「克里特文明」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为克里特文明主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W576397603（2005年，《Minoan Glyptic: Typology, Deposits and Iconography: From the Early Min》，University of Michigan Press eBooks，DOI 10.30861/9781841717258，被引 10）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第45轮剔除】候选为《The artistic reception of Minoan Crete》，主题是艺术接受史，不支撑「海上贸易与宫殿再分配体系」，已剔除。 【第46轮来源性质】本条 geo 段的「克里特岛的山地与海岸交错格局」属教科书级的常识性地理描述：以三槽位（对象+地形+过程）核对多轮检索，学术文献中相关表述多为背景句而非论文主题，无对应专题文献可引。故不为该句强行配文献（强行配即会重演第45轮「关键词命中但语义不符」的失败），该句如实标为常识性描述。 【第68轮剔除】该文为米诺斯印章学专著（类型学/沉积/图像与宗教含义），摘要 725 字符 <800（D112①），且与本条「海上贸易与宫殿再分配」无对应——与第45轮已剔除的《The artistic reception of Minoan Crete》同判据。 【第69轮检索记录】过筛候选《The Volcanic Destruction of Minoan Crete》(1939, 被引224) 对象对位（米诺斯文明），但为 1939 年的火山摧毁说，学界其后多有修正；本轮不登记为主来源，仅记录为可引的早期假说（如需可降为旁证）。 【第70轮补强来源（strong）】openalex-W2538009141（2016年，《Seals, Craft, and Community in Bronze Age Crete》，被引 31，摘要 955 字符）：主题槽命中 ['minoan', 'crete', 'aegean', 'bronze age', 'palace', 'society']；已在本条 polities 段落点。 【第76轮检索记录】宽检索本轮0 候选（前一阶段亦无合格者）。此条已多次检索无果。 【第86轮补第二内容源（strong，Crossref）】openalex-W3097983290（2017年，《Understanding Minoan In-House Relationships on Late Bronze Age Crete》，被引 4，摘要 2001 字符）：已在本条 influence 段落点。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第25轮实证复核·克里特文明】本条正则 crete|minoan。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「克里特文明」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为克里特文明主题专题页。 【第27轮现状数据】today 段填入世界银行 API 实测值（代表国：希腊），含指标编号与年份；国家与条目区域已逐一核对（D068）。 【第42轮第二来源（strong）】openalex-W576397603（2005年，《Minoan Glyptic: Typology, Deposits and Iconography: From the Early Min》，University of Michigan Press eBooks，DOI 10.30861/9781841717258，被引 10）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第45轮剔除】候选为《The artistic reception of Minoan Crete》，主题是艺术接受史，不支撑「海上贸易与宫殿再分配体系」，已剔除。 【第46轮来源性质】本条 geo 段的「克里特岛的山地与海岸交错格局」属教科书级的常识性地理描述：以三槽位（对象+地形+过程）核对多轮检索，学术文献中相关表述多为背景句而非论文主题，无对应专题文献可引。故不为该句强行配文献（强行配即会重演第45轮「关键词命中但语义不符」的失败），该句如实标为常识性描述。 【第68轮剔除】该文为米诺斯印章学专著（类型学/沉积/图像与宗教含义），摘要 725 字符 <800（D112①），且与本条「海上贸易与宫殿再分配」无对应——与第45轮已剔除的《The artistic reception of Minoan Crete》同判据。 【第69轮检索记录】过筛候选《The Volcanic Destruction of Minoan Crete》(1939, 被引224) 对象对位（米诺斯文明），但为 1939 年的火山摧毁说，学界其后多有修正；本轮不登记为主来源，仅记录为可引的早期假说（如需可降为旁证）。 【第70轮补强来源（strong）】openalex-W2538009141（2016年，《Seals, Craft, and Community in Bronze Age Crete》，被引 31，摘要 955 字符）：主题槽命中 ['minoan', 'crete', 'aegean', 'bronze age', 'palace', 'society']；已在本条 polities 段落点。 【第76轮检索记录】宽检索本轮0 候选（前一阶段亦无合格者）。此条已多次检索无果。 【第86轮补第二内容源（strong，Crossref）】openalex-W3097983290（2017年，《Understanding Minoan In-House Relationships on Late Bronze Age Crete》，被引 4，摘要 2001 字符）：已在本条 influence 段落点。 【第123轮语义扫描 SOFT】openalex-W2538009141：摘要只说宫殿前阶段的社会变化源于工匠、旅行者与物品建立的新联系；「由社区与手工业分化中生成」属引申",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "克里特岛位于爱琴海南部，山地与海岸交错，港湾利于航海。地中海气候支持橄榄、葡萄与谷物混合农业。",
       "influence": "海上贸易与宫殿再分配体系相互支撑，岛屿位置降低远距离交流成本。宫殿经济的具体运作仍有讨论，不宜写成定论。 所引 2017 年研究（摘要 2,001 字符）以房屋、空间与建筑为切入点研究晚青铜时代米诺斯的家庭内关系与身份实践；本条「米诺斯社会关系通过居住空间与物质实践再生产」据此。",
-      "polities": "岛屿的港湾与农业条件支撑宫殿中心与海上交换，其后区域文化重心转移；具体年代与政治形态待专门史料核验。 所引 2016 年《Seals, Craft, and Community in Bronze Age Crete》（被引31）讨论米诺斯克里特「宫殿社会」的起源——把宫殿出现之前的阶段识别为一次异常活跃的社会文化创新期；本条「宫殿中心由更早的社区与手工业分化中生成」据此。",
+      "polities": "岛屿的港湾与农业条件支撑宫殿中心与海上交换，其后区域文化重心转移；具体年代与政治形态待专门史料核验。 所引 2016 年《Seals, Craft, and Community in Bronze Age Crete》（被引31）讨论米诺斯克里特「宫殿社会」的起源——把宫殿出现之前的阶段识别为一次异常活跃的社会文化创新期，认为社会变化源于工匠、旅行者与珍贵物品在新尺度上建立的联系。",
       "connections": "克里特连接埃及、安纳托利亚与希腊本土，交换陶器、金属与纺织品。",
       "today": "以希腊为例，来源：世界银行 API。总人口 10,413,962 人（2025年）（SP.POP.TOTL）、城市化率 79.2%（2025年）（SP.URB.TOTL.IN.ZS）。克里特岛遗址保护与游客数据待核验。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='克里特文明示意图'>\n<rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/>\n<path d='M90 270 L240 180 L390 270 L540 180 L680 260' fill='none' stroke='var(--accent2)' stroke-width='3'/>\n<circle cx='100' cy='310' r='6' class='pt'/><text x='115' y='315' class='lbl'>南欧</text>\n<circle cx='640' cy='150' r='6' class='pt'/><text x='575' y='130' class='lbl'>克里特文明</text>\n<text x='40' y='385' class='dim'>示意图，非精确测绘</text>\n</svg>"
@@ -193,15 +193,15 @@
         "openalex-W4244368576"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1970392988（1978年，「Alexander the Great and the Logistics of the Macedonian Army」，DOI https://doi.org/10.1525/9780520352162，University of California Press eBooks）； 年代以「公元前4世纪（马其顿王国；亚历山大东征 前334–前323年）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W4244368576（2010年，《Alexander the Great and His Empire: A Short Introduction》，被引 107，摘要 1799 字符）：已在本条 polities 段落点。",
+      "pending_notes": "第17轮复核：南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1970392988（1978年，「Alexander the Great and the Logistics of the Macedonian Army」，DOI https://doi.org/10.1525/9780520352162，University of California Press eBooks）； 年代以「公元前4世纪（马其顿王国；亚历山大东征 前334–前323年）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W4244368576（2010年，《Alexander the Great and His Empire: A Short Introduction》，被引 107，摘要 1799 字符）：已在本条 polities 段落点。 【第123轮语义扫描 SOFT】openalex-W4244368576：摘要支持征服波斯帝国与「短命帝国」，但未述治理细节或「死后迅速分裂」 【第123轮语义扫描】openalex-W1970392988 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "马其顿位于巴尔干半岛北部，山地与平原交错，平原适合骑兵与方阵训练所需的马匹与粮食；向南控制希腊城邦的沿海地带。",
       "influence": "平原与山地组合提供了军事资源，但远征的成功更多依赖后勤组织、联盟政治与对手的内部弱点——这是专门研究的核心问题，不宜归因于地理。",
-      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 2010 年《Alexander the Great and His Empire: A Short Introduction》（被引 107）概述亚历山大帝国的建立与治理；本条「马其顿以军事征服建立跨欧亚帝国、死后迅速分裂」据此。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 2010 年《Alexander the Great and His Empire: A Short Introduction》（被引 107）在阿契美尼德波斯史背景下概述亚历山大征服波斯帝国、建立从地中海到中亚的短命帝国。",
       "connections": "东征路线从安纳托利亚、黎凡特、埃及到两河与波斯，最终抵印度河，把地中海东岸与中亚短暂连成一个行政空间。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>马其顿与亚历山大</text><text x='480' y='215' class='dim'>公元前4世纪（马其顿王国；亚历山大东征 前334–前323年</text><text x='40' y='370' class='dim'>马其顿与亚历山大 · 简笔示意，非精确测绘</text></svg>"
@@ -315,15 +315,15 @@
         "openalex-W4297961286"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）； 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Birth of the Hospital in the Byzantine Empire》研究的是医院的起源（医疗制度侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2497655684（2009年，《The Middle Byzantine Economy (600–1204)》，DOI 10.1017/chol9780521832311.019，被引 21）：待支撑断言「拜占庭帝国的行政、经济与长期延续」；主题槽命中 ['econom', 'state']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。 【第97轮补第二内容源（strong，Crossref）】openalex-W4297961286（1997年，《A History of the Byzantine State and Society》，被引 590，摘要 2345 字符）：已在本条 polities 段落点。",
+      "pending_notes": "第17轮复核：东南欧×政权更替；来源均已核验；按 D041/D044 仍缺含政权年代序列正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1968112198（1997年，「The Birth of the Hospital in the Byzantine Empire」，DOI https://doi.org/10.56021/9780801826764，Johns Hopkins University Press eBooks）； 年代以「公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建都为常见起点）」表述并注明学界有不同版本，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Birth of the Hospital in the Byzantine Empire》研究的是医院的起源（医疗制度侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2497655684（2009年，《The Middle Byzantine Economy (600–1204)》，DOI 10.1017/chol9780521832311.019，被引 21）：待支撑断言「拜占庭帝国的行政、经济与长期延续」；主题槽命中 ['econom', 'state']；已在本条 influence 段落点。此前的侧面文献仍保留为旁证。 【第97轮补第二内容源（strong，Crossref）】openalex-W4297961286（1997年，《A History of the Byzantine State and Society》，被引 590，摘要 2345 字符）：已在本条 polities 段落点。 【第123轮语义扫描 SOFT】openalex-W2497655684：摘要只说经济是理解国家、社会与文化的关键，未涉农业、税收与军区制的相互支撑 【第123轮语义扫描 SOFT】openalex-W4297961286：摘要为通史概述（285–1461、长期维持单一国家），未提「皇帝—官僚—教会三位一体」 【第123轮语义扫描】openalex-W1968112198 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "首都扼守博斯普鲁斯海峡，同时控制黑海与地中海的通道；腹地为色雷斯与安纳托利亚高原，沿海平原与河谷支撑农业与城市。",
-      "influence": "海峡位置带来关税与战略价值，也带来持续的外部压力；帝国的延续依赖税收、军区制与外交手腕，地理位置是条件而非保证。 所引 2009 年《The Middle Byzantine Economy (600–1204)》（被引21）讨论中期拜占庭经济的结构，并把它视为理解拜占庭国家、社会与文化的关键；本条「农业、税收与军区制相互支撑」据此（军区制部分为常识性补充）。",
-      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 1997 年《A History of the Byzantine State and Society》（被引 590，摘要 2,345 字符）是拜占庭国家与社会的通史；本条「拜占庭以皇帝—官僚—教会三位一体维系千年帝国」据此。",
+      "influence": "海峡位置带来关税与战略价值，也带来持续的外部压力；帝国的延续依赖税收、军区制与外交手腕，地理位置是条件而非保证。 所引 2009 年《The Middle Byzantine Economy (600–1204)》（被引21）讨论中期拜占庭经济，并把它视为理解拜占庭国家、社会与文化的关键。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 1997 年《A History of the Byzantine State and Society》（被引 590，摘要 2,345 字符）是拜占庭国家与社会的通史，指出拜占庭在广大地域上长期维持单一国家。",
       "connections": "通过黑海连接北方草原与罗斯，经地中海东岸连接黎凡特与埃及，经爱琴海与意大利保持西部联系。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>拜占庭帝国</text><text x='480' y='215' class='dim'>公元4世纪至15世纪（东罗马/拜占庭；以330年君士坦丁堡建</text><text x='40' y='370' class='dim'>拜占庭帝国 · 简笔示意，非精确测绘</text></svg>"
@@ -354,12 +354,12 @@
         "openalex-W4298223504"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：南欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2087928538（1975年，「Paleomagnetic evidence for rotation of the Italian Peninsula」，DOI https://doi.org/10.1029/jb080i011p01579）；年代以「地质尺度（新生代以来）；本条引 1975 年古地磁研究」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Paleomagnetic evidence for rotation of the Italian Peninsula》研究的是古地磁记录的半岛旋转（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第53轮补弱来源（strong）】openalex-W4298223504（2010年，《Geology and Tectonic Evolution of the Central-Southern Apennines, Italy》，DOI 10.1130/2010.2469，被引 192）：待支撑断言「意大利半岛的地质构造与地形」；主题槽命中 ['geolog', 'tecton']；已在本条 geo 段落点。 【第53轮返工】① 所引摘要于 693 字符处被截断（末尾 `with: ( i...`），未含结论句，D088/D092 的「读到结论句」客观上无法完成——须读全文，备注如实声明；② 文献只覆盖中南部亚平宁，落点已限定；③ geo 补「地质上属亚平宁褶皱—逆冲造山带」一句。 【第54轮D112降级】openalex-W4298223504 为旁证（摘要693字符截断、无结论句），不得称「主来源」；该摘要于 693 字符处截断，未含结论句；仅可说明「有基于 1:250,000 实测图的中南部亚平宁构造研究」，全半岛的地质结论须读全文或另引综述。",
+      "pending_notes": "第17轮复核：南欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2087928538（1975年，「Paleomagnetic evidence for rotation of the Italian Peninsula」，DOI https://doi.org/10.1029/jb080i011p01579）；年代以「地质尺度（新生代以来）；本条引 1975 年古地磁研究」表述，未编造精确年份。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Paleomagnetic evidence for rotation of the Italian Peninsula》研究的是古地磁记录的半岛旋转（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第53轮补弱来源（strong）】openalex-W4298223504（2010年，《Geology and Tectonic Evolution of the Central-Southern Apennines, Italy》，DOI 10.1130/2010.2469，被引 192）：待支撑断言「意大利半岛的地质构造与地形」；主题槽命中 ['geolog', 'tecton']；已在本条 geo 段落点。 【第53轮返工】① 所引摘要于 693 字符处被截断（末尾 `with: ( i...`），未含结论句，D088/D092 的「读到结论句」客观上无法完成——须读全文，备注如实声明；② 文献只覆盖中南部亚平宁，落点已限定；③ geo 补「地质上属亚平宁褶皱—逆冲造山带」一句。 【第54轮D112降级】openalex-W4298223504 为旁证（摘要693字符截断、无结论句），不得称「主来源」；该摘要于 693 字符处截断，未含结论句；仅可说明「有基于 1:250,000 实测图的中南部亚平宁构造研究」，全半岛的地质结论须读全文或另引综述。 【第123轮语义扫描】openalex-W2087928538 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "半岛以亚平宁山系为脊、两侧分别为狭窄的沿海平原；北部为波河平原，南部多山与河谷。地质上属亚平宁褶皱—逆冲造山带（所引 2010 年研究基于中南部 1:250,000 实测地质图，覆盖中南部而非全半岛）。地中海气候在半岛南北差异明显，山地与谷地构成多样的农业带。",
       "influence": "山脊与平原的狭长格局使交通沿谷地与海岸展开，历史上南北向的干道沿海岸与亚平宁两侧延伸；地形对政治整合的阻碍在半岛史上反复出现。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -395,13 +395,13 @@
         "openalex-W1985300983"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西南欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2127608683（2007年，「Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study」，DOI https://doi.org/10.1186/1746-4269-3-27）； 【第34轮返工·引用范围澄清】所引文献为野生食用植物民族植物学研究，仅涉传统植物利用知识，不支撑半岛整体地理；正文已限域表述，geo 段属常识性描述。 【第97轮补第二内容源（strong，Crossref）】openalex-W1985300983（1920年，《The Iberian Peninsula: A Geographical Study Adapted to Fifth or Sixth Grade Pupils Prize Essay Number》，被引 1，摘要 1259 字符）：已在本条 geo 段落点。",
+      "pending_notes": "第17轮复核：西南欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex openalex-W2127608683（2007年，「Traditional knowledge of wild edible plants used in the northwest of the Iberian Peninsula (Spain and Portugal): a comparative study」，DOI https://doi.org/10.1186/1746-4269-3-27）； 【第34轮返工·引用范围澄清】所引文献为野生食用植物民族植物学研究，仅涉传统植物利用知识，不支撑半岛整体地理；正文已限域表述，geo 段属常识性描述。 【第97轮补第二内容源（strong，Crossref）】openalex-W1985300983（1920年，《The Iberian Peninsula: A Geographical Study Adapted to Fifth or Sixth Grade Pupils Prize Essay Number》，被引 1，摘要 1259 字符）：已在本条 geo 段落点。 【第123轮语义扫描 SOFT】openalex-W1985300983：摘要是面向加州五六年级学生的地理教学设计说明，未提高原、山脉或气候分异 【第123轮语义扫描】openalex-W2127608683 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "半岛以梅塞塔高原为主体，四周为山脉，河谷深切；地中海沿岸与大西洋沿岸气候不同，内陆为大陆性。降水自西北向东南递减。 所引 1920 年《The Iberian Peninsula: A Geographical Study》（摘要 1,259 字符）以区域地理的方法研究伊比利亚半岛；本条「半岛以高原与山脉分割、气候南北分异」据此。说明：该文是 1920 年的地理读本（面向五、六年级），年代较早，仅用于地形与气候分区的框架性描述。",
+      "last_update": "2026-11-25",
+      "geo": "半岛以梅塞塔高原为主体，四周为山脉，河谷深切；地中海沿岸与大西洋沿岸气候不同，内陆为大陆性。降水自西北向东南递减。 所引 1920 年《The Iberian Peninsula: A Geographical Study》是面向小学五六年级的区域地理教学研究。说明：该文是 1920 年的地理读本（面向五、六年级），年代较早，仅用于地形与气候分区的框架性描述。",
       "influence": "气候与地形的梯度造成农业与聚落的东西、南北差异；传统植物利用知识的分布研究显示，生态多样性与文化实践高度耦合。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "北经比利牛斯山接西欧，南隔直布罗陀海峡望北非，是地中海与大西洋航路的交汇点。",
@@ -436,14 +436,14 @@
         "openalex-W272418548"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：西欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2009330540（1983年，「Roman Gaul : The Three Provinces, 58 BC-AD 260」，DOI 无，出版方未标）； 年代以「罗马高卢三行省 公元前58年–公元260年前后（据专著名）」表述并注明学界有不同版本，未编造精确年份。 【第97轮补第二内容源（strong，Crossref）】openalex-W272418548（1996年，《Gaul》，被引 34，摘要 910 字符）：已在本条 influence 段落点。",
+      "pending_notes": "第17轮复核：西欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2009330540（1983年，「Roman Gaul : The Three Provinces, 58 BC-AD 260」，DOI 无，出版方未标）； 年代以「罗马高卢三行省 公元前58年–公元260年前后（据专著名）」表述并注明学界有不同版本，未编造精确年份。 【第97轮补第二内容源（strong，Crossref）】openalex-W272418548（1996年，《Gaul》，被引 34，摘要 910 字符）：已在本条 influence 段落点。 【第123轮语义扫描 SOFT】openalex-W272418548：摘要支持罗马行省（纳博讷与三高卢、奥古斯都三分），未涉「部落—城邦并存」 【第123轮语义扫描】openalex-W2009330540 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "区域内有多条可航河流（罗讷河、卢瓦尔河、塞纳河、莱茵河），河谷平原适合谷物与葡萄；地中海沿岸与北方平原气候差异明显。",
-      "influence": "河网降低了内陆运输成本，促成以河流交汇点为中心的城市网络；行省化与道路建设把这一地理结构固定为行政骨架。 所引 1996 年《Gaul》（被引34，摘要 910 字符）讨论高卢的社会与地理；本条「高卢以部落—城邦并存、后被罗马纳入行省体系」据此。",
+      "influence": "河网降低了内陆运输成本，促成以河流交汇点为中心的城市网络；行省化与道路建设把这一地理结构固定为行政骨架。 所引 1996 年《Gaul》（被引34，摘要 910 字符）讨论罗马时期高卢的行省划分与地缘处境；本条「高卢后被罗马纳入行省体系」据此。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "南经罗讷河谷通地中海与意大利，北经莱茵河接日耳曼边界，西经海峡通不列颠，是罗马西北部的交通枢纽区。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -514,12 +514,12 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2129432027（2001年，「Geology and Geomorphology of the European Alps and the Southern 」，DOI https://doi.org/10.1659/0276-4741(2001)021[0340:gagote]2.0.co;2，Mountain Research and Development）； 年代以「地质形成跨数百万年（新生代阿尔卑斯造山运动）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第17轮复核：中欧×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 un-m49（UNSD M49 区域/国家分类页，区域级背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2129432027（2001年，「Geology and Geomorphology of the European Alps and the Southern 」，DOI https://doi.org/10.1659/0276-4741(2001)021[0340:gagote]2.0.co;2，Mountain Research and Development）； 年代以「地质形成跨数百万年（新生代阿尔卑斯造山运动）」表述并注明学界有不同版本，未编造精确年份。 【第123轮语义扫描】openalex-W2129432027 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "弧形山系从地中海沿岸延伸至中欧，高峰与深谷相间，冰川地貌广泛；北坡与南坡的气候与植被差异显著。",
       "influence": "山脉是气候与交通的分水岭，山口长期决定南北往来的路线；但现代交通技术已大幅削弱这一约束，说明地形的影响随技术而变。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
@@ -554,13 +554,13 @@
         "openalex-W2467786621"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2658592595（2017年，「Modelling water and nutrient fluxes in the Danube River Basin wi」，DOI https://doi.org/10.1016/j.scitotenv.2017.05.242，The Science of The Total Environment）； 年代以「流域水文观测与模拟研究（本条引 2017 年流域模型研究）」表述并注明学界有不同版本，未编造精确年份。 【第98轮补第二内容源（strong，Crossref）】openalex-W2467786621（1999年，《Hydrology as a major factor determining plankton development in two floodplain segments and the River Danube, Austria》，被引 55，摘要 781 字符）：已在本条 geo 段落点。",
+      "pending_notes": "第17轮复核：中欧×区域；来源均已核验；按 D041/D044 仍缺含区域边界与现状数据正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2658592595（2017年，「Modelling water and nutrient fluxes in the Danube River Basin wi」，DOI https://doi.org/10.1016/j.scitotenv.2017.05.242，The Science of The Total Environment）； 年代以「流域水文观测与模拟研究（本条引 2017 年流域模型研究）」表述并注明学界有不同版本，未编造精确年份。 【第98轮补第二内容源（strong，Crossref）】openalex-W2467786621（1999年，《Hydrology as a major factor determining plankton development in two floodplain segments and the River Danube, Austria》，被引 55，摘要 781 字符）：已在本条 geo 段落点。 【第123轮语义扫描 SOFT】openalex-W2467786621：研究仅限维也纳下游两个洪泛区段，推及整条多瑙河属范围放大 【第123轮语义扫描】openalex-W2658592595 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "流域覆盖中欧与东南欧，上游山地、中游平原、下游三角洲三种地貌依次展开；流域内降水与融雪的季节差异决定流量过程。 所引 1999 年《Hydrology as a major factor…in two floodplain…》（被引55）讨论多瑙河洪泛区的水文连通性与生态过程；本条「多瑙河以洪泛平原与水文连通性为特征」据此（该文聚焦浮游生物一侧）。",
+      "last_update": "2026-11-25",
+      "geo": "流域覆盖中欧与东南欧，上游山地、中游平原、下游三角洲三种地貌依次展开；流域内降水与融雪的季节差异决定流量过程。 所引 1999 年《Hydrology as a major factor…in two floodplain…》（被引55）以维也纳下游两段洪泛区为对象，指出水文连通性是理解大型河流—洪泛区生态过程的核心。",
       "influence": "河流作为跨国航道与水源，使流域成为区域合作与冲突并存的单元；营养物质输移的研究显示流域尺度的过程无法由单国管理解决。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "经黑海连接地中海与东欧内陆，通过运河网与莱茵河等流域相连，是欧洲内河航运的骨干之一。",
@@ -593,13 +593,13 @@
         "openalex-W2114886861"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：西欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2096204231（2009年，「The river Rhine: a global highway for dispersal of aquatic invas」，DOI https://doi.org/10.1007/s10530-009-9491-7，Biological Invasions）； 年代以「航运与生态研究（本条引 2009 年莱茵河扩散研究）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W2041834890（2005年，《The Rhine: An Eco-Biography, 1815-2000 (review)》，被引 1，摘要 4440 字符）：已在本条 geo 段落点。 【第93轮审计修正·书评】`openalex-W2041834890`（《The Rhine: An Eco-Biography, 1815-2000》(review)）标题括注 (review)、DOI 为 10.1353/tech.2005.0070（Technology and Culture 期刊的书评）、被引仅 1。OpenAlex 的 type 字段标为「学术文献」，R25 只看 type 因而漏检（D136 的再一次实例）。现降为旁证。 【第98轮补第二内容源（strong，Crossref）】openalex-W2114886861（1994年，《Middle and late Holocene avulsion history of the River Rhine (Rhine-Meuse delta, Netherlands)》，被引 194，摘要 1095 字符）：已在本条 geo 段落点。",
+      "pending_notes": "第16轮复核：西欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第18轮】本条仅 2 条来源，（其中 wikipedia-regions 实为 UN SDG 数据门户壳页，可视正文约 5 字符，仅作入口，不构成第二独立依据）。 【第18轮复核】仅清源与标注，未复核正文；按 D041/D044 仍缺专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2096204231（2009年，「The river Rhine: a global highway for dispersal of aquatic invas」，DOI https://doi.org/10.1007/s10530-009-9491-7，Biological Invasions）； 年代以「航运与生态研究（本条引 2009 年莱茵河扩散研究）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W2041834890（2005年，《The Rhine: An Eco-Biography, 1815-2000 (review)》，被引 1，摘要 4440 字符）：已在本条 geo 段落点。 【第93轮审计修正·书评】`openalex-W2041834890`（《The Rhine: An Eco-Biography, 1815-2000》(review)）标题括注 (review)、DOI 为 10.1353/tech.2005.0070（Technology and Culture 期刊的书评）、被引仅 1。OpenAlex 的 type 字段标为「学术文献」，R25 只看 type 因而漏检（D136 的再一次实例）。现降为旁证。 【第98轮补第二内容源（strong，Crossref）】openalex-W2114886861（1994年，《Middle and late Holocene avulsion history of the River Rhine (Rhine-Meuse delta, Netherlands)》，被引 194，摘要 1095 字符）：已在本条 geo 段落点。 【第123轮语义扫描 SOFT】openalex-W2114886861：摘要支持全新世莱茵—默兹三角洲的决口改道史，未涉人类工程 【第123轮语义扫描】openalex-W2096204231 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "上游为山地峡谷，中游为莱茵地堑谷地，下游进入低地平原；河谷是南北交通的天然走廊。 所引 2005 年《The Rhine: An Eco-Biography, 1815–2000》（摘要 4,440 字符）以生态传记方式叙述莱茵河两个世纪的环境变迁（含渠化、污染与治理）；本条「莱茵河为欧洲重要航运水道、人类工程深刻改造其河道」据此。 所引 1994 年《Middle and late Holocene avulsion history of the River Rhine》（被引 194）以大量高精度 ¹⁴C 年代重建莱茵河千年尺度上的决口改道史；本条「莱茵河河道历史上多次改道、人类工程进一步改造」据此。",
+      "last_update": "2026-11-25",
+      "geo": "上游为山地峡谷，中游为莱茵地堑谷地，下游进入低地平原；河谷是南北交通的天然走廊。 所引 2005 年《The Rhine: An Eco-Biography, 1815–2000》（摘要 4,440 字符）以生态传记方式叙述莱茵河两个世纪的环境变迁（含渠化、污染与治理）；本条「莱茵河为欧洲重要航运水道、人类工程深刻改造其河道」据此。 所引 1994 年《Middle and late Holocene avulsion history of the River Rhine》（被引 194）以大量高精度 ¹⁴C 年代重建莱茵—默兹三角洲千年尺度上的决口改道史；本条「莱茵河河道历史上多次改道」据此。",
       "influence": "可航性与沿岸工业带互为条件，使这条河成为区域经济轴线；同时它也是水生生物扩散的通道，生态与经济功能叠加在同一水体上。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "经运河连接多瑙河、罗讷河等流域，形成跨欧洲的水运网络；河口鹿特丹是海陆转运枢纽。",
@@ -676,15 +676,15 @@
         "openalex-W2115323786"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：西欧×政权更替；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W617733386（2003年，「Carolingian connections: Anglo-Saxon England and Carolingian F」，DOI https://doi.org/10.5860/choice.41-2404）；年代以「5世纪末至9世纪（加洛林帝国 800年加冕；后分裂）」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2497994255（2005年，《Merovingian Gaul and the Frankish conquests》，Cambridge University Press eBooks，DOI 10.1017/chol9780521362917.010，被引 140）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除·书评】openalex-W617733386 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（第43轮立规，本轮 R25 机器检出）。 【第80轮补第二内容源（strong）】openalex-W2115323786（2008年，《Frankish military duty and the fate of Roman taxation》，被引 28，摘要 982 字符）：已在本条 polities 段落点。",
+      "pending_notes": "第16轮复核：西欧×政权更替；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页）与「政权更替」主题错配（D049）。 【第18轮矩阵清理】移除s058（已 301 至泛化 development-topics 索引）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W617733386（2003年，「Carolingian connections: Anglo-Saxon England and Carolingian F」，DOI https://doi.org/10.5860/choice.41-2404）；年代以「5世纪末至9世纪（加洛林帝国 800年加冕；后分裂）」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2497994255（2005年，《Merovingian Gaul and the Frankish conquests》，Cambridge University Press eBooks，DOI 10.1017/chol9780521362917.010，被引 140）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除·书评】openalex-W617733386 经 OpenAlex 实测 type=book-review，按 D082 不作内容来源（第43轮立规，本轮 R25 机器检出）。 【第80轮补第二内容源（strong）】openalex-W2115323786（2008年，《Frankish military duty and the fate of Roman taxation》，被引 28，摘要 982 字符）：已在本条 polities 段落点。 【第123轮语义扫描 SOFT】openalex-W2115323786：摘要称军役基于分配给士兵的罗马税份额（manse），明言不能简单视为农业庄园；「土地授予」属术语溢出 【第123轮语义扫描】openalex-W2497994255 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "核心在莱茵河与默兹河之间的法兰克地区，向北为低地平原、向南为高卢的河谷与山地；河网与罗马旧道构成交通骨架。",
       "influence": "河网与旧道使其能整合西欧内陆；但统治依赖分封、教会与巡行宫廷，查理曼之后的分裂更多源于继承制度而非地理。",
-      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。 所引 2008 年《Frankish military duty and the fate of Roman…》（被引28）讨论法兰克的军事义务与罗马遗产的关系；本条「法兰克以军事服务与土地授予维系王国」据此。",
+      "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。 所引 2008 年《Frankish military duty and the fate of Roman…》（被引28）讨论法兰克的军事义务与罗马税收遗产的关系；本条「法兰克以无偿军役维系王国武力」据此。",
       "connections": "与不列颠的盎格鲁—撒克逊王国、地中海与斯拉夫世界均有联系，是西欧—北欧交流的枢纽。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M100 290 L240 245 L390 220 L530 240 L650 275' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='240' cy='245' r='6' class='pt'/><circle cx='530' cy='240' r='6' class='pt'/><text x='160' y='222' class='lbl'>法兰克王国</text><text x='40' y='370' class='dim'>法兰克王国 · 简笔示意，非精确测绘</text></svg>"
@@ -752,15 +752,15 @@
         "openalex-W3012443801"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：地中海×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W561167263（2016年，「Shipping, Trade and Crusade in the Medieval Mediterranean」，DOI https://doi.org/10.4324/9781315609010，Routledge eBooks）； 年代以「11世纪末至13世纪末（第一次十字军 1096–1099年）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W4249644002（2018年，《Preaching the Crusades to the Eastern Mediterranean: Propaganda, Litur》，Routledge eBooks，DOI 10.4324/9781315181653，被引 14）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除】该文为纪念文集（John Pryor）导言，摘要 793 字符 <800（D112①）、被引 6，属卷级书目介绍而非实证结论；第34轮曾据此升级 L2，依据不成立。 【第68轮剔除】该文覆盖 1305–1352（阿维尼翁教廷的布道组织），落在本条「11世纪末至13世纪末」时段之外（D108 时期槽否决），且属布道与宣传侧面。 【第69轮检索记录】过筛候选《Patterns in Medieval Trade: The Commerce of Amalfi Before the Crusades》(1968, 被引155) 的时段是「十字军之前」，与本条 11–13 世纪不重叠（D108 时期槽否决）；不采用。 【第70轮补强来源（strong）】openalex-W3015865789（2020年，《Settlement, Identity, and Memory in the Latin East: An Examination of the Term ‘Crusader States’》，被引 29，摘要 1644 字符）：主题槽命中 ['crusad', 'levant', 'latin east', 'state', 'movement']；已在本条 polities 段落点。 【第80轮检索记录】过筛候选《The Military Orders and Women of the Nobility in the Crusader States》(2023) 主题是军事修会与贵族女性的互动（性别侧面），不支撑十字军运动的整体。不采用。 【第86轮补第二内容源（strong，Crossref）】openalex-W3012443801（2016年，《The Fifth Crusade in Context: The Crusading Movement in the Early Thirteenth Century》，被引 8，摘要 1247 字符）：已在本条 polities 段落点。",
+      "pending_notes": "第16轮复核：地中海×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W561167263（2016年，「Shipping, Trade and Crusade in the Medieval Mediterranean」，DOI https://doi.org/10.4324/9781315609010，Routledge eBooks）； 年代以「11世纪末至13世纪末（第一次十字军 1096–1099年）」表述并注明学界有不同版本，未编造精确年份。 【第42轮第二来源（strong）】openalex-W4249644002（2018年，《Preaching the Crusades to the Eastern Mediterranean: Propaganda, Litur》，Routledge eBooks，DOI 10.4324/9781315181653，被引 14）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第68轮剔除】该文为纪念文集（John Pryor）导言，摘要 793 字符 <800（D112①）、被引 6，属卷级书目介绍而非实证结论；第34轮曾据此升级 L2，依据不成立。 【第68轮剔除】该文覆盖 1305–1352（阿维尼翁教廷的布道组织），落在本条「11世纪末至13世纪末」时段之外（D108 时期槽否决），且属布道与宣传侧面。 【第69轮检索记录】过筛候选《Patterns in Medieval Trade: The Commerce of Amalfi Before the Crusades》(1968, 被引155) 的时段是「十字军之前」，与本条 11–13 世纪不重叠（D108 时期槽否决）；不采用。 【第70轮补强来源（strong）】openalex-W3015865789（2020年，《Settlement, Identity, and Memory in the Latin East: An Examination of the Term ‘Crusader States’》，被引 29，摘要 1644 字符）：主题槽命中 ['crusad', 'levant', 'latin east', 'state', 'movement']；已在本条 polities 段落点。 【第80轮检索记录】过筛候选《The Military Orders and Women of the Nobility in the Crusader States》(2023) 主题是军事修会与贵族女性的互动（性别侧面），不支撑十字军运动的整体。不采用。 【第86轮补第二内容源（strong，Crossref）】openalex-W3012443801（2016年，《The Fifth Crusade in Context: The Crusading Movement in the Early Thirteenth Century》，被引 8，摘要 1247 字符）：已在本条 polities 段落点。 【第123轮语义扫描 SOFT】openalex-W3012443801：摘要只讲 13 世纪初第五次十字军在运动中的地位，未支持「持续两个世纪」",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "路线跨越地中海与安纳托利亚高原，补给依赖海路与沿途港口；黎凡特沿海的狭长平原有港口与要塞。",
       "influence": "海运能力与港口控制决定了远征的可持续性，这一点在航运与贸易的专门研究中被反复强调；宗教与政治动因同样是核心解释项。",
-      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 2020 年《Settlement, Identity, and Memory in the Latin East》（被引29）指出第一次十字军后在黎凡特与叙利亚形成了四个政体——耶路撒冷王国、安条克公国、埃德萨伯国与的黎波里伯国，并讨论「crusader states」这一术语本身是否恰当（MacEvitt 主张弃用）；本条「十字军在东地中海建立若干拉丁政权」据此。 所引 2016 年《The Fifth Crusade in Context: The Crusading Movement…》（摘要 1,247 字符）把第五次十字军置于十字军运动的整体脉络中讨论；本条「十字军是持续两个世纪的运动、非单一事件」据此。",
+      "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。 所引 2020 年《Settlement, Identity, and Memory in the Latin East》（被引29）指出第一次十字军后在黎凡特与叙利亚形成了四个政体——耶路撒冷王国、安条克公国、埃德萨伯国与的黎波里伯国，并讨论「crusader states」这一术语本身是否恰当（MacEvitt 主张弃用）；本条「十字军在东地中海建立若干拉丁政权」据此。 所引 2016 年《The Fifth Crusade in Context: The Crusading Movement…》（摘要 1,247 字符）把第五次十字军置于 13 世纪初十字军运动的整体脉络中讨论；本条「十字军是持续的运动、非单一事件」据此。",
       "connections": "把意大利海洋共和国（威尼斯、热那亚）与黎凡特港口连成运输网络，贸易与军事在同一航路上交织。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>十字军东征</text><text x='480' y='215' class='dim'>11世纪末至13世纪末（第一次十字军 1096–1099年）</text><text x='40' y='370' class='dim'>十字军东征 · 简笔示意，非精确测绘</text></svg>"
@@ -989,14 +989,14 @@
         "openalex-W4407567235"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东南欧×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W631685674（2004年，《Balkan biodiversity : pattern and process in the European hotspot》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「区域地理与生物多样性（本条引 2004 年巴尔干生物多样性研究）」表述并注明学界有不同版本。 【第98轮补第二内容源（strong，Crossref）】openalex-W4407567235（2024年，《THE BALKANS: HISTORY, RELIGION AND SOCIETY》，被引 0，摘要 7541 字符）：已在本条 influence 段落点。",
+      "pending_notes": "第16轮复核：东南欧×区域；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（区域边界、人口与现状数据的专题来源）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W631685674（2004年，《Balkan biodiversity : pattern and process in the European hotspot》，DOI 无）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「区域地理与生物多样性（本条引 2004 年巴尔干生物多样性研究）」表述并注明学界有不同版本。 【第98轮补第二内容源（strong，Crossref）】openalex-W4407567235（2024年，《THE BALKANS: HISTORY, RELIGION AND SOCIETY》，被引 0，摘要 7541 字符）：已在本条 influence 段落点。 【第123轮语义扫描 SOFT】openalex-W631685674：摘要仅为目录，含「冰期避难所」章节；「地形破碎度与生物多样性正相关」为外推 【第123轮语义扫描 SOFT】openalex-W4407567235：摘要讲帝国遗产、民族主义与巴尔干化，未提山脉分割",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "地形以山地为主（狄那里克阿尔卑斯、罗多彼等），河谷与盆地镶嵌其间；气候受地中海、大陆与山地三重影响，局部差异极大。",
-      "influence": "所引 2004 年研究把巴尔干视为欧洲生物多样性的热点与避难所：山地与河谷的分隔造成高度的特有性，也说明地形破碎度与生物多样性正相关。 所引 2024 年《The Balkans: History, Religion and Society》（摘要 7,541 字符）综述巴尔干的历史、宗教与社会；本条「巴尔干以山脉分割、宗教与族群交错」据此。",
+      "influence": "所引 2004 年研究把巴尔干视为欧洲生物多样性的热点，并讨论其作为欧洲温带树种冰期避难所的地位。 所引 2024 年《The Balkans: History, Religion and Society》（摘要 7,541 字符）综述巴尔干的历史、宗教与社会；本条「巴尔干民族问题复杂、长期难获稳定」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "南接爱琴海与地中海航路，北经多瑙河通中欧，东临黑海海峡，是欧亚之间的陆桥。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -1032,7 +1032,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "半岛西侧为陡峭的峡湾海岸，东侧为平缓的波的尼亚湾沿岸；斯堪的纳维亚山脉纵贯，冰川反复覆盖与消退塑造了峡湾、湖泊与冰碛地貌。",
       "influence": "所引 2008 年综述指出，北欧在约 250–300 万年间经历多次冰期与间冰期：萨勒冰期（约 14 万年前）之后，末次间冰期（Eemian）早期格陵兰与波罗的海地区海面偏高；Eemian 期间气温比今天高约 5 °C，格陵兰冰盖缩减至约为现今的一半。 这为当前冰盖变化的量级提供了参照。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -1104,12 +1104,12 @@
         "openalex-W2017853772"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：东南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2998035180（2011年，「The Uncensored Dardanelles」，DOI 无）；年代以「地理通道；本条引 2011 年关于达达尼尔海峡的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2017853772（2012年，《Numerical modeling of the influence of exchange through the Bosporus a》，Izvestiya Atmospheric and Oceanic Physics，DOI 10.1134/s0001433812040056，被引 16）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "第16轮复核：东南欧×贸易；新增背景来源 无；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2998035180（2011年，「The Uncensored Dardanelles」，DOI 无）；年代以「地理通道；本条引 2011 年关于达达尼尔海峡的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2017853772（2012年，《Numerical modeling of the influence of exchange through the Bosporus a》，Izvestiya Atmospheric and Oceanic Physics，DOI 10.1134/s0001433812040056，被引 16）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第124轮语义扫描】openalex-W2998035180 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第124轮语义扫描】openalex-W2017853772 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "两条海峡狭窄曲折，两岸为丘陵，潮流与风向对航行影响大；马尔马拉海为中转水域。通道的宽度与水深限制了大型船舶的通行条件。",
       "influence": "通道位置使沿岸政权得以对黑海—地中海之间的航运征税与管制，历史上多次成为战争目标；海峡的制度安排（通行规则）比地理本身更直接决定谁能受益。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -1141,15 +1141,15 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西欧×气候；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，气候机制与长期变化数据的专题来源 仍待补。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2073338420（2005年，《Slowdown of the thermohaline circulation causes enhanced maritime climate influence and snow cover over Europe》，DOI https://doi.org/10.1029/2005gl023286）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「气候尺度（本条引 2005 年温盐环流研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第15轮复核：西欧×气候；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，气候机制与长期变化数据的专题来源 仍待补。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2073338420（2005年，《Slowdown of the thermohaline circulation causes enhanced maritime climate influence and snow cover over Europe》，DOI https://doi.org/10.1029/2005gl023286）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「气候尺度（本条引 2005 年温盐环流研究）」表述并注明学界有不同版本。 【第124轮语义扫描 SOFT】openalex-W2073338420：摘要为 THC 减弱约 50% 的模式敏感性实验，结论是海洋影响增强却致降温；「不稳定」为外推",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "受北大西洋暖流与盛行西风影响，沿海地区冬季异常温和、降水丰沛且季节分配均匀；离海越远，海洋性越弱、大陆性越强。",
-      "influence": "所引 2005 年研究指出，大西洋温盐环流的减弱会改变海洋性气候的表现，即这一气候型依赖洋流而不仅是纬度——这使它在气候变率下并不稳定。",
+      "influence": "所引 2005 年模式研究指出，大西洋温盐环流减弱会使欧洲海洋性影响增强却导致降温，即这一气候型的温和特征依赖洋流而不仅是纬度。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "与北大西洋涛动、温盐环流耦合，一个环节的变化会影响整个欧洲的降水与温度格局。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -1178,15 +1178,15 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第15轮复核：西欧×农业；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页，与庄园农业错配；D049 同型）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2479587242（2010年，《Manors and Markets》，DOI https://doi.org/10.1093/acprof:oso/9780199278664.001.0001，Oxford University Press eBooks）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「约9–14世纪（地区差异大；本条引 2010 年专论 Manors and Markets）」表述并注明学界有不同版本。",
+      "pending_notes": "第15轮复核：西欧×农业；新增背景来源 无，现有来源均已核验，但按 D041 须补含主题关键词的专题页，作物制度、农业起源与水利细节的专题来源 仍待补。 【第18轮矩阵清理】移除s011（UNESCO Climate action 政策页，与庄园农业错配；D049 同型）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2479587242（2010年，《Manors and Markets》，DOI https://doi.org/10.1093/acprof:oso/9780199278664.001.0001，Oxford University Press eBooks）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「约9–14世纪（地区差异大；本条引 2010 年专论 Manors and Markets）」表述并注明学界有不同版本。 【第124轮语义扫描 SOFT】openalex-W2479587242：摘要对象为低地国家，未述「并存而非替代」；推及中世纪欧洲属范围放大",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "西北欧平原与丘陵的交错地带，土壤与降水适合谷物与牧草轮作；三圃制与敞田在这样的地形上便于集体耕作与放牧。",
-      "influence": "所引专论强调庄园制度与市场交换是并存而非替代关系：地租、市场与人口变动共同塑造农业组织，制度演化不能被简化为「自然经济」。",
+      "influence": "所引专论以低地国家为对象，考察社会与制度组织对中世纪至近代早期经济发展的影响。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "通过集镇与市集连接地方交换网络，通过水路把谷物与羊毛运往城市与出口港。",
       "today": "（本条的当代指标不在本页展开。）",

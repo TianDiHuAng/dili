@@ -76,7 +76,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "冰体由积雪压实形成并缓慢流动，运动过程中侵蚀基岩、搬运碎屑，退却后留下冰碛与冰川湖等堆积地貌。USGS《Glaciers: Clues to Future Climate》以冰川为气候指示物，说明冰川的形成、运动与地貌作用。",
       "influence": "冰川作用塑造盆地、丘陵与河谷，影响后来的水系与土壤分布；冰川规模变化与气候条件相联系，具体时序需区域资料细化。 所引 1980 年文献是围绕 Keewatin 冰盖的讨论与答复（Comment and Reply）；本条仅据此写「冰盖范围存在学术讨论」，不作定论依据。",
       "polities": "本条不展开具体政权序列；冰盖范围变化影响生物迁移与后续人类活动的地理条件。",
@@ -197,13 +197,13 @@
         "openalex-W2106865001"
       ],
       "needs_verification": true,
-      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·落基山脉】本条正则 rocky mountain。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「落基山脉」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为落基山脉主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W2087734990（1999年，《The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains》，Rocky Mountain geology，DOI 10.2113/34.1.37，被引 116）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Yavapai-Mazatzal crustal boundary in the Southern Rocky…》研究的是南部落基山的地壳边界（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2339053595（1975年，《Laramide (Late Cretaceous-Early Tertiary) Orogeny in the Southern Rocky Mountains》，DOI 10.1130/mem144-p1，被引 223）：待支撑断言「落基山脉的地质与隆升」；主题槽命中 ['orogen', 'uplift', 'tecton']；已在本条 geo 段落点。此前的侧面文献仍保留为旁证。 【第98轮补第二内容源（strong，Crossref）】openalex-W2106865001（1998年，《Large-scale geomorphology and fission-track thermochronology in topographic and exhumation reconstructions of the Southern Rocky Mountains》，被引 39，摘要 3923 字符）：已在本条 geo 段落点。",
+      "pending_notes": "第4轮复核：北美洲×地形；新增背景来源 s056-earthquake-usgs-gov，现有来源均已核验，但 地貌形成年代与关键地形节点的专题来源 仍待补，故保留待核实。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：地形类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第21轮二次返工】polities/其余四段的分期标签（殖民/前殖民/接触欧洲）改为「外来统治/外来定居者/与外部世界接触」等去年代化表述。 【第25轮实证复核·落基山脉】本条正则 rocky mountain。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「落基山脉」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为落基山脉主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 美国，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W2087734990（1999年，《The Yavapai-Mazatzal crustal boundary in the Southern Rocky Mountains》，Rocky Mountain geology，DOI 10.2113/34.1.37，被引 116）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Yavapai-Mazatzal crustal boundary in the Southern Rocky…》研究的是南部落基山的地壳边界（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W2339053595（1975年，《Laramide (Late Cretaceous-Early Tertiary) Orogeny in the Southern Rocky Mountains》，DOI 10.1130/mem144-p1，被引 223）：待支撑断言「落基山脉的地质与隆升」；主题槽命中 ['orogen', 'uplift', 'tecton']；已在本条 geo 段落点。此前的侧面文献仍保留为旁证。 【第98轮补第二内容源（strong，Crossref）】openalex-W2106865001（1998年，《Large-scale geomorphology and fission-track thermochronology in topographic and exhumation reconstructions of the Southern Rocky Mountains》，被引 39，摘要 3923 字符）：已在本条 geo 段落点。 【第124轮语义扫描 SOFT】openalex-W2106865001：摘要研究南部落基山的抬升与剥蚀，未涉「年轻造山带」与冰川改造 【第124轮语义扫描】openalex-W2087734990 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "落基山脉纵贯北美西部，高山、盆地与峡谷交错，是重要分水岭。海拔与纬度共同决定降水和植被带。 所引 1975 年《Laramide (Late Cretaceous-Early Tertiary) Orogeny》（被引223）讨论拉拉米造山运动对落基山脉形成的控制； 本条「南部落基山主要由晚白垩世至早第三纪的拉拉米造山运动抬升」据此（所引 1975 年研究的对象是 Southern Rocky Mountain province，不覆盖北部落基山；全山脉的隆升序列须另配来源）。 所引 1998 年《Large-scale geomorphology and fission-track…》（被引39，摘要 3,923 字符）以大尺度地貌与裂变径迹分析研究落基山的隆升与剥蚀；本条「落基山为年轻造山带、地形受抬升与冰川改造」据此。",
+      "last_update": "2026-11-25",
+      "geo": "落基山脉纵贯北美西部，高山、盆地与峡谷交错，是重要分水岭。海拔与纬度共同决定降水和植被带。 所引 1975 年《Laramide (Late Cretaceous-Early Tertiary) Orogeny》（被引223）讨论拉拉米造山运动对落基山脉形成的控制； 本条「南部落基山主要由晚白垩世至早第三纪的拉拉米造山运动抬升」据此（所引 1975 年研究的对象是 Southern Rocky Mountain province，不覆盖北部落基山；全山脉的隆升序列须另配来源）。 所引 1998 年《Large-scale geomorphology and fission-track…》（被引39，摘要 3,923 字符）以大尺度地貌与裂变径迹分析研究南部落基山的岩石抬升与剥蚀历史。",
       "influence": "山脉影响降水分布与交通走向，河谷与山口成为通道；矿业与牧业依赖山地资源。资源开发的结果取决于技术与制度，不只是地形。",
       "polities": "山地资源与通道条件影响土地利用，原住民、外来定居者与国家公园体系先后塑造管理格局；具体年代待专门史料核验。",
       "connections": "落基山脉连接北美内陆与西部海岸，河流向两大洋输送水量与泥沙。",
@@ -274,13 +274,13 @@
         "wb-can-urban"
       ],
       "needs_verification": true,
-      "pending_notes": "第14轮二次返工后保留：只用专题页正文可支撑的自然地理内容，政权与年代细节留待专门史料。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·五大湖】本条正则 great lakes；epa-great-lakes=200/正文1276字符/本条命中11；noaa-glerl=200/正文2686字符/本条命中9。D055 判定：未达标（最高命中11、最高正文2686字符；档①门槛5000/档②③8000）；缺口为「五大湖」主题专题页。 档位判定：本条标题为「五大湖」，正则 great lakes 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第43轮剔除】候选为《Hitchhiking Bats on the Great Lakes》，研究对象是蝙蝠而非湖泊本身，对象不符（D095）。 【第45轮补源·按断言选文献（D100）】openalex-W4401862938（2024年，《Optimal Water Level Study Based on Great Lakes Water Issues》，DOI 10.23977/erej.2024.080206）：先在正文定位待支撑句「季节水位变化是重要水文特征」，再选此文献；摘要命中「great lakes」「water level」，已在本条 geo 段落点。 【第45轮返工·撤回】所引 2024 年《Optimal Water Level Study Based on Great Lakes》为水位优化建模（AHP/SQP/模拟退火/水坝出流），摘要中 season/seasonal/hydrolog 0 次命中，不描述水文特征；且 cited 1、Clausius Press，质量门不足。已撤下该源与落点句。 改以机构来源（NOAA GLERL、EPA 五大湖页）作背景，具体水文特征待专门水文学来源。 【第46轮来源性质】「五个相连的大型淡水湖」为常识性事实；水文特征已改引 NOAA GLERL / EPA 机构页作背景，该两组页面无对应字符数记录，按实测口径不计入「含正文来源」，但其为可核验的机构专题页。",
+      "pending_notes": "第14轮二次返工后保留：只用专题页正文可支撑的自然地理内容，政权与年代细节留待专门史料。 【第26轮现状数据】today 段填入世界银行 API 实测值（含指标编号与年份），可按「国家 ISO3 + 指标」复现；跨国/跨区比较口径差异已在正文注明。 【第26轮实证复核·五大湖】本条正则 great lakes；epa-great-lakes=200/正文1276字符/本条命中11；noaa-glerl=200/正文2686字符/本条命中9。D055 判定：未达标（最高命中11、最高正文2686字符；档①门槛5000/档②③8000）；缺口为「五大湖」主题专题页。 档位判定：本条标题为「五大湖」，正则 great lakes 是否出现在来源标题需逐页确认；未确认时按档③（8000字+命中≥5）从严。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第43轮剔除】候选为《Hitchhiking Bats on the Great Lakes》，研究对象是蝙蝠而非湖泊本身，对象不符（D095）。 【第45轮补源·按断言选文献（D100）】openalex-W4401862938（2024年，《Optimal Water Level Study Based on Great Lakes Water Issues》，DOI 10.23977/erej.2024.080206）：先在正文定位待支撑句「季节水位变化是重要水文特征」，再选此文献；摘要命中「great lakes」「water level」，已在本条 geo 段落点。 【第45轮返工·撤回】所引 2024 年《Optimal Water Level Study Based on Great Lakes》为水位优化建模（AHP/SQP/模拟退火/水坝出流），摘要中 season/seasonal/hydrolog 0 次命中，不描述水文特征；且 cited 1、Clausius Press，质量门不足。已撤下该源与落点句。 改以机构来源（NOAA GLERL、EPA 五大湖页）作背景，具体水文特征待专门水文学来源。 【第46轮来源性质】「五个相连的大型淡水湖」为常识性事实；水文特征已改引 NOAA GLERL / EPA 机构页作背景，该两组页面无对应字符数记录，按实测口径不计入「含正文来源」，但其为可核验的机构专题页。 【第124轮语义扫描】无学术来源，正文无学术落点句；本条依赖机构/数据/常识来源，语义对题无需逐句对读。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "湖群由五个相连的大型淡水湖组成，分别是苏必利尔湖、密歇根湖、休伦湖、伊利湖与安大略湖。湖区属温带气候，季节水位变化是重要水文特征。",
       "influence": "淡水与航运条件支撑沿岸聚落与产业，湖泊生态对营养盐输入和外来物种敏感。人类利用方式与流域管理相关，不作单一环境解释。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
@@ -318,7 +318,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "高原由多套沉积岩层构成，河流长期下切形成深峡谷。国家公园署的地质说明记录了岩层序列与侵蚀过程，可作为核对地貌成因的入口。 所引 2000 年研究（Geology）讨论高原的抬升机制（地壳增厚与均衡抬升）；本条只据此写「高原隆升」，不据此写沉积岩与峡谷成因。",
       "influence": "干旱与深切地形限制农业与交通，河谷与泉水点决定聚落位置。地貌条件提供约束，土地利用方式还受制度与技术影响。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
@@ -350,14 +350,14 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：北美洲×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1994091524（2014年，《Natural variability of surface oceanographic conditions in the offshore Gulf of Mexico》，DOI https://doi.org/10.1016/j.pocean.2014.12.007，Progress In Oceanography）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「现代海洋观测（本条引 2014 年表层海洋条件研究）」表述并注明学界有不同版本。",
+      "pending_notes": "第17轮复核：北美洲×地形；来源均已核验；按 D041/D044 仍缺含地貌成因正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1994091524（2014年，《Natural variability of surface oceanographic conditions in the offshore Gulf of Mexico》，DOI https://doi.org/10.1016/j.pocean.2014.12.007，Progress In Oceanography）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「现代海洋观测（本条引 2014 年表层海洋条件研究）」表述并注明学界有不同版本。 【第124轮语义扫描 SOFT】openalex-W1994091524：摘要涉风速、SST、MLD 与 AMO/ENSO，未提淡水输入",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "海湾由北美大陆与尤卡坦半岛环抱，通过佛罗里达海峡与加勒比海相连；密西西比河带来大量淡水与营养盐，形成显著的河口羽流。",
-      "influence": "所引研究显示表层海洋条件存在自然变率，与风场、淡水输入相关；这提示生态与渔业管理需区分自然波动与人为影响。",
+      "influence": "所引研究显示墨西哥湾中部表层海洋条件存在显著的季节与年代际自然变率，与风速、海温及混合层深度相关；这为区分自然波动与人为影响提供基线。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经佛罗里达海峡连接大西洋，经尤卡坦海峡连接加勒比海，是北美与中美洲之间的航运与生态通道。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -431,14 +431,14 @@
         "openalex-W4250944728"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 墨西哥，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W592717578（2007年，《Olmec Archaeology and Early Mesoamerica》，Cambridge University Press eBooks，DOI 10.1017/cbo9781139167147，被引 217）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮补第二内容源（strong）】openalex-W4250944728（2014年，《Discovering the Olmecs: An Unconventional History》，被引 15，摘要 1641 字符）：已在本条 influence 段落点。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·奥尔梅克】本条正则 olmec（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「奥尔梅克」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 墨西哥，D068 已核对国家—区域匹配；单位人、%）。 【第42轮第二来源（strong）】openalex-W592717578（2007年，《Olmec Archaeology and Early Mesoamerica》，Cambridge University Press eBooks，DOI 10.1017/cbo9781139167147，被引 217）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第80轮补第二内容源（strong）】openalex-W4250944728（2014年，《Discovering the Olmecs: An Unconventional History》，被引 15，摘要 1641 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W4250944728：摘要支持巨型石雕头像，但该书为考古发现经历史，未述对后续文明的影响 【第124轮语义扫描】openalex-W592717578 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "奥尔梅克核心位于墨西哥湾沿岸低地，河流泛滥平原与湿地提供农业与交通条件。热带雨林与沼泽影响聚落选址。",
-      "influence": "肥沃土地与水上交通支撑复杂社会，巨石雕像需要远距离运输与组织能力。其政治结构仍有争论，不宜直接称为帝国。 所引 2014 年《Discovering the Olmecs》（被引15）综述奥尔梅克文明的研究；本条「奥尔梅克以巨型石雕头像与宗教中心影响中美洲后续文明」据此。",
+      "influence": "肥沃土地与水上交通支撑复杂社会，巨石雕像需要远距离运输与组织能力。其政治结构仍有争论，不宜直接称为帝国。 所引 2014 年《Discovering the Olmecs》（被引15）记述奥尔梅克考古的发现经历；本条「奥尔梅克以巨型石雕头像闻名」据此。",
       "polities": "以祭祀中心为核心的社群网络可能是主要形态，其后中美洲文化与之存在艺术与宗教联系；具体政治结构与年代待专门史料核验。",
       "connections": "奥尔梅克与墨西哥谷地、危地马拉等地交换玉石、可可和陶器。",
       "today": "以墨西哥为例，来源：世界银行 API。墨西哥 总人口 131,946,900 人（2025年）（SP.POP.TOTL）、城市化率 80.0%（2025年）（SP.URB.TOTL.IN.ZS）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
@@ -515,14 +515,14 @@
         "openalex-W4206371181"
       ],
       "needs_verification": true,
-      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）； 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W4206371181（2005年，《Human Sacrifice, Militarism, and Rulership: Materialization of State Ideology at the Feathered Serpent Pyramid, Teotihuacan》，被引 189，摘要 1058 字符）：已在本条 influence 段落点。",
+      "pending_notes": "第17轮复核：中美洲×贸易；来源均已核验；按 D041/D044 仍缺含商路与商品结构正文的专题页（须正文≥8000字节且主题关键词命中≥5）。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1921738149（2015年，「Stable Isotopes and Zooarchaeology at Teotihuacan, Mexico Reveal」，DOI https://doi.org/10.1371/journal.pone.0135635，PLoS ONE）； 年代以「约公元前1世纪至公元7世纪（起讫年学界有不同表述）」表述并注明学界有不同版本，未编造精确年份。 【第80轮补第二内容源（strong）】openalex-W4206371181（2005年，《Human Sacrifice, Militarism, and Rulership: Materialization of State Ideology at the Feathered Serpent Pyramid, Teotihuacan》，被引 189，摘要 1058 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W4206371181：摘要支持城市早而人口多、羽蛇神庙的宗教政治意涵，「维系庞大人口」为外推 【第124轮语义扫描】openalex-W1921738149 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "位于墨西哥谷地边缘的山间盆地，附近有黑曜石矿源与可灌溉土地；城市沿南北轴线规划，与山体（塞罗戈多）对齐。",
-      "influence": "黑曜石资源与位置使其成为区域交换中心；但城市的规模与规划反映强烈的中央组织能力，资源条件只是基础。 所引 2005 年《Human Sacrifice, Militarism, and Rulership》（被引 189）以羽蛇神庙（约公元 200 年建）为对象，讨论特奥蒂瓦坎的宗教含义与政治意涵——该城是前哥伦布时期最早、人口最多的城市之一；本条「特奥蒂瓦坎以宗教与军事权威维系庞大人口」据此。",
+      "influence": "黑曜石资源与位置使其成为区域交换中心；但城市的规模与规划反映强烈的中央组织能力，资源条件只是基础。 所引 2005 年《Human Sacrifice, Militarism, and Rulership》（被引 189）以羽蛇神庙（约公元 200 年建）为对象，讨论特奥蒂瓦坎的宗教含义与政治意涵——该城是前哥伦布时期最早、人口最多的城市之一。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "通过黑曜石与陶器交换连接墨西哥谷地、普埃布拉与更远地区，是中美州早期城市网络的核心节点。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -596,7 +596,7 @@
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "北美原住民的分布跨越北极、亚寒带、温带与干旱区，聚落形态随生态带变化显著。就进入路径而言，白令地区（今白令海峡两侧）是亚洲与美洲之间的陆桥区；末次盛冰期海平面下降使该陆桥出露，冰川消退的先后则决定内陆通道与沿海通道何时可用。这些路径假说的具体时间仍属研究议题，本条不给出确定年代。",
       "influence": "所引 2007 年研究以大规模线粒体 DNA 分析表明：美洲原住民源自少数亚洲奠基人群，其内部遗传多样性高于此前报告，系统发育结构支持人群在 Beringia 有停留期后向南北扩散。所引 2017 年研究则以育空 Bluefish Caves 的测年支持末次盛冰期期间已进入东白令地区，同时明确指出该结论仍受质疑。两项证据分别来自遗传学与考古测年，相互补充但都不构成定论。 关于首次进入的时间，该 2017 年研究指出：就现有证据的总体权重而言，人类首次进入北美约在 14,000 cal BP，即末次盛冰期之后——Bluefish Caves 更早的测年因此仍属存疑证据，而非定论。",
       "polities": "本条不展开具体族群的政治序列；不同区域的社会组织形态差异极大，待专门的民族志与考古研究核验。",
@@ -674,7 +674,7 @@
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "岛屿内陆为巨厚冰盖，边缘分布冰原与裸露岩地。NASA 冰盖指标页把格陵兰与南极并列观测，记录冰体质量变化趋势，是理解岛屿冰况的主要数据入口。 所引 2023 年研究观测格陵兰冰面的湍流热通量与雪冰过程，指出冰面站点稀少使能量收支的模式估计不确定；本条据此写「冰盖表面能量交换的观测不足」。 所引 2013 年《Greenland ice sheet hydrology: A review》（被引 239）综述格陵兰冰盖的水文过程；本条「格陵兰以冰盖为主体、冰盖质量变化影响海平面」据此。",
       "influence": "冰盖质量变化影响全球海平面，是关键气候变量；沿海地带受海冰与洋流影响，人类活动集中于少数定居点。影响机制需结合观测，不作单因推断。 所引 2023 年研究观测格陵兰冰面的湍流热通量与雪冰过程；本条「冰盖表面能量交换」据此。",
       "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
@@ -745,14 +745,14 @@
         "openalex-W631362042"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）； 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】原第二来源（OpenAlex W2491281325，《The American Revolution》全书简介）摘要是独立战争通史，不含十三殖民地地理或制度内容，属「只沾边当全面来源」，已撤出。 1783 年不在任何现存来源中，已标待核。本条关键年代现无学术第二来源支撑，证据强度下调，需补专门来源方可确认 L2。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第44轮补源（strong）】openalex-W4388313733（1998年，《New World Economies: The Growth Of the Thirteen Colonies and Early Canada》，出版方未标，DOI 10.1093/oso/9780195114829.001.0001，被引 76）；已在本条 influence 段落点。 【第44轮返工】原落点写「殖民地经济与母国政策的关系」且称「与制度」，但正文无「经济」二字、且「制度」出自姊妹卷；已补正文句并对齐落点。 【D092结论句】结论：殖民地经济发展速度反映母国经济增长。 【第80轮补第二内容源（strong）】openalex-W631362042（2011年，《Colonial America: A History to 1763》，被引 27，摘要 4323 字符）：已在本条 influence 段落点。",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）； 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】原第二来源（OpenAlex W2491281325，《The American Revolution》全书简介）摘要是独立战争通史，不含十三殖民地地理或制度内容，属「只沾边当全面来源」，已撤出。 1783 年不在任何现存来源中，已标待核。本条关键年代现无学术第二来源支撑，证据强度下调，需补专门来源方可确认 L2。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第44轮补源（strong）】openalex-W4388313733（1998年，《New World Economies: The Growth Of the Thirteen Colonies and Early Canada》，出版方未标，DOI 10.1093/oso/9780195114829.001.0001，被引 76）；已在本条 influence 段落点。 【第44轮返工】原落点写「殖民地经济与母国政策的关系」且称「与制度」，但正文无「经济」二字、且「制度」出自姊妹卷；已补正文句并对齐落点。 【D092结论句】结论：殖民地经济发展速度反映母国经济增长。 【第80轮补第二内容源（strong）】openalex-W631362042（2011年，《Colonial America: A History to 1763》，被引 27，摘要 4323 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W4388313733：摘要称本书关注价格、资本流与需求，制度为姊妹篇主题 【第124轮语义扫描 SOFT】openalex-W631362042：摘要为目录，未涉农业、贸易或地方自治传统",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "阿巴拉契亚山脉与海岸平原之间的狭长地带，港湾与河流众多，适合港口城市与内陆农业；气候自北向南由冷温带过渡到亚热带。",
-      "influence": "海岸线与港湾条件支撑了港口贸易，河流谷地支撑了内陆垦殖；但殖民地的政治形态由特许状、议会与母国政策塑造，地理只是舞台。 所引 1998 年研究讨论十三殖民地的经济增长与制度；本条「殖民地经济与母国政策的关系」据此。 所引 1998 年《New World Economies》的结论是：殖民地经济发展的速度反映母国经济的增长速度与需求变动；本条据此写「殖民地经济与母国增长的关系」，不涉制度差异（后者出自另一卷）。 所引 2011 年《Colonial America: A History to 1763》（被引27，摘要 4,323 字符）综述英属北美殖民地至 1763 年的发展；本条「十三殖民地以农业与跨大西洋贸易成长、地方自治传统成形」据此。",
+      "influence": "海岸线与港湾条件支撑了港口贸易，河流谷地支撑了内陆垦殖；但殖民地的政治形态由特许状、议会与母国政策塑造，地理只是舞台。 所引 1998 年研究讨论十三殖民地的经济增长；本条「殖民地经济与母国增长的关系」据此。 所引 1998 年《New World Economies》的结论是：殖民地经济发展的速度反映母国经济的增长速度与需求变动；本条据此写「殖民地经济与母国增长的关系」，不涉制度差异（后者出自另一卷）。 所引 2011 年《Colonial America: A History to 1763》（被引27，摘要 4,323 字符）综述英属北美殖民地至 1763 年的发展。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
       "connections": "跨大西洋航线连接英国与西印度群岛，沿岸 cabotage 把十三个港口连成一体，内陆河流连接边疆。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -790,7 +790,7 @@
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "自密西西比河谷向西依次为平原、落基山地、大盆地与太平洋沿岸，降水递减；越过 100°W 后进入半干旱区，农业需依赖灌溉与旱作技术。",
       "influence": "所引史料集提示：西进的叙述长期以白人 settler 为主体，非裔与其它群体的参与被系统性低估；这说明对同一地理过程的记述本身受立场影响。 所引 2020 年研究讨论内战时期美国东西部之间的分隔与向西扩张的推进过程；本条「西进使联邦版图从大西洋岸延伸至太平洋岸」据此。（该文被引 0，证据强度有限，仅作辅助。）",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -823,14 +823,14 @@
         "openalex-W597527439"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。 【第42轮返工】原写「以隔离分化模型解释」，与摘要结论相反，已改为「两模型并存、无类群符合 Gaarlandia 预测时间」。 【第80轮补第二内容源（strong）】openalex-W597527439（2002年，《In the shadow of the plantation : Caribbean history and legacy》，被引 75，摘要 1889 字符）：已在本条 influence 段落点。",
+      "pending_notes": "第16轮复核：中美洲×贸易；新增背景来源 s025-ourworldindata-org；按 D041/D044 仍缺含主题关键词的专题正文页（商路节点、商品结构与转运机制的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s025-ourworldindata-org（D040/D047 同型问题）。 【第18轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）（D049）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2126487261（1975年，《A Vicariance Model of Caribbean Biogeography》，DOI https://doi.org/10.1093/sysbio/24.4.431，Systematic Biology）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「生物地理尺度（本条引 1975 年加勒比生物地理研究）」表述并注明学界有不同版本。 【第42轮返工·剔除】所引为《Phylogeny and biogeography of Caribbean mammals》——摘要结论是「没有类群符合 Gaarlandia 模型预测的时间、需逐类群解释」，与正文「以隔离分化模型解释」方向相反（D092 同型）。 已撤出该来源，本条不据此建立互证。 【第42轮返工】原写「以隔离分化模型解释」，与摘要结论相反，已改为「两模型并存、无类群符合 Gaarlandia 预测时间」。 【第80轮补第二内容源（strong）】openalex-W597527439（2002年，《In the shadow of the plantation : Caribbean history and legacy》，被引 75，摘要 1889 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W597527439：摘要为目录，含蔗糖革命与奴隶种植园章节，人口结构重塑为引申 【第124轮语义扫描】openalex-W2126487261 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "岛链由火山岛与珊瑚岛组成，按大小与海拔分层；信风与洋流决定降水与物种扩散方向，岛屿间的距离是扩散的屏障也是通道。",
-      "influence": "加勒比群岛的生物区系形成涉及隔离分化（vicariance）与跨海扩散两种模型。既有系统发育研究显示：没有类群符合 Gaarlandia 陆桥模型所预测的分化时间，各族群需要逐类群的具体解释。 因此本条不把单一模型当作既定结论（D092）。 所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）讨论种植园经济对加勒比岛屿社会的塑造；本条「群岛经济以甘蔗种植园为主、人口结构由奴隶贸易重塑」据此。",
+      "influence": "加勒比群岛的生物区系形成涉及隔离分化（vicariance）与跨海扩散两种模型。既有系统发育研究显示：没有类群符合 Gaarlandia 陆桥模型所预测的分化时间，各族群需要逐类群的具体解释。 因此本条不把单一模型当作既定结论（D092）。 所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）讨论种植园与奴隶制对加勒比社会的塑造；本条「群岛经济以甘蔗种植园为主」据此。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经海流与信风连接北美、中美与南美，近代成为跨大西洋航线的必经水域。",
       "today": "（本条的当代指标不在本页展开。）",

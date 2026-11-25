@@ -118,14 +118,14 @@
         "openalex-W4409434538"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《A mid-Cretaceous microfossil assemblage…》研究的是白垩纪微体化石组合（古生物侧面）；《Chlorine 36 dating of very old groundwater》研究的是地下水定年（水文地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W4383461111（1968年，《Structure, stratigraphy, and hydrogeology of the northern Roswell Artesian basin, Chaves County, New Mexico》，DOI 10.58799/c-93，被引 16）：待支撑断言「大自流盆地的地下水与自流机制」；主题槽命中 ['aquifer', 'hydrogeolog']；已在本条 geo 段落点。此前的侧面文献仍保留为旁证。 【第98轮剔除·对象碰撞】W2132195427（《The hydrogeology of the Uitenhage Artesian Basin》2001, 被引37）研究的是南非东开普省的 Uitenhage 自流盆地（原文写明 South Africa's most important artesian groundwater basin），与澳大利亚的大自流盆地（Great Artesian Basin）完全不是同一个盆地。不采用。 【第99轮补第二内容源（strong，Crossref）】openalex-W4409434538（2025年，《Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry》，被引 1，摘要 1590 字符）：已在本条 geo 段落点。",
+      "pending_notes": "第16轮复核：大洋洲×地形；新增背景来源 s017-fao-org；按 D041/D044 仍缺含主题关键词的专题正文页（地貌形成年代与关键地形节点的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s017-fao-org（D040/D047 同型问题）。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第25轮实证复核·大自流盆地】本条正则 artesian|groundwater。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「大自流盆地」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为大自流盆地主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1969120728（1986年，《Chlorine 36 dating of very old groundwater: 1. The Great Artesian Basin, Australia》，DOI https://doi.org/10.1029/wr022i013p01991，Water Resources Research）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1986 年氯-36 定年研究）」表述并注明学界有不同版本。 【第42轮第二来源（partial）】openalex-W58011430（1975年，《A mid-Cretaceous microfossil assemblage from the Great Artesian Basin,》，Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen，DOI 10.1127/njgpa/149/1975/333，被引 38）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《A mid-Cretaceous microfossil assemblage…》研究的是白垩纪微体化石组合（古生物侧面）；《Chlorine 36 dating of very old groundwater》研究的是地下水定年（水文地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第52轮补主来源（strong）】openalex-W4383461111（1968年，《Structure, stratigraphy, and hydrogeology of the northern Roswell Artesian basin, Chaves County, New Mexico》，DOI 10.58799/c-93，被引 16）：待支撑断言「大自流盆地的地下水与自流机制」；主题槽命中 ['aquifer', 'hydrogeolog']；已在本条 geo 段落点。此前的侧面文献仍保留为旁证。 【第98轮剔除·对象碰撞】W2132195427（《The hydrogeology of the Uitenhage Artesian Basin》2001, 被引37）研究的是南非东开普省的 Uitenhage 自流盆地（原文写明 South Africa's most important artesian groundwater basin），与澳大利亚的大自流盆地（Great Artesian Basin）完全不是同一个盆地。不采用。 【第99轮补第二内容源（strong，Crossref）】openalex-W4409434538（2025年，《Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry》，被引 1，摘要 1590 字符）：已在本条 geo 段落点。 【第125轮语义扫描 FAIL】openalex-W4383461111：该 1968 年文献研究的是美国新墨西哥州 Roswell 自流盆地，并非澳大利亚大自流盆地，对象不符 【第125轮语义扫描 SOFT】openalex-W4409434538：摘要为东缘约 50 处泉自 Hutton 砂岩露头排泄；推为全盆地特征属范围放大 【第125轮语义扫描 SOFT】openalex-W1969120728：摘要支持以 36Cl 测定极老地下水年龄；开采超补给后水位难恢复为外推 【第125轮语义扫描】openalex-W58011430 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "盆地被不透水层圈闭，含水层向西部倾斜；东部边缘的补给区降水入渗后向盆地内部流动，井水可自流至地表。 所引 1968 年研究分析大自流盆地的构造、地层与水文地质；本条「盆地被不透水层圈闭、含水层向西部倾斜、井水可自流」据此。 所引 2025 年研究（摘要 1,590 字符）研究澳大利亚东北部 Great Artesian Basin 东缘约 50 处 silica 温泉，指出它们自 Hutton Sandstone 含水层的露头边缘排泄；本条「大自流盆地以自流含水层与天然泉群为特征」据此。",
-      "influence": "所引氯-36 定年研究显示部分地下水年龄极老、补给速率极慢，这意味着开采速率一旦超过补给，水位将长期下降且难以恢复。",
+      "last_update": "2026-11-25",
+      "geo": "盆地被不透水层圈闭，含水层向西部倾斜；东部边缘的补给区降水入渗后向盆地内部流动，井水可自流至地表。 所引 2025 年研究（摘要 1,590 字符）研究澳大利亚东北部 Great Artesian Basin 东缘约 50 处 silica 温泉，指出它们自 Hutton Sandstone 含水层的露头边缘排泄。",
+      "influence": "所引氯-36 定年研究以 36Cl 测定大自流盆地地下水年龄，显示部分地下水滞留时间可达百万年量级。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "支撑内陆牧业与城镇用水，是干旱内陆唯一可靠的规模化水源。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -198,12 +198,12 @@
         "openalex-W2075518532"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2051173656（1996年，《Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments》，DOI https://doi.org/10.1130/0016-7606(1996)108<0915:etmpto>2.3.co;2，Geological Society of America Bulletin）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1996 年火山灰年代学研究）」表述并注明学界有不同版本。 【第42轮第二来源（strong）】openalex-W2075518532（1970年，《Gravity, seismicity, and tectonics of the North Island, New Zealand》，New Zealand Journal of Geology and Geophysics，DOI 10.1080/00288306.1970.10428209，被引 57）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰北岛】本条正则 north island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰北岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰北岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2051173656（1996年，《Early to middle Pleistocene tephrochronology of North Island, New Zealand: Implications for volcanism, tectonism, and paleoenvironments》，DOI https://doi.org/10.1130/0016-7606(1996)108<0915:etmpto>2.3.co;2，Geological Society of America Bulletin）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「地质尺度（本条引 1996 年火山灰年代学研究）」表述并注明学界有不同版本。 【第42轮第二来源（strong）】openalex-W2075518532（1970年，《Gravity, seismicity, and tectonics of the North Island, New Zealand》，New Zealand Journal of Geology and Geophysics，DOI 10.1080/00288306.1970.10428209，被引 57）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第125轮语义扫描】openalex-W2051173656 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第125轮语义扫描】openalex-W2075518532 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "岛屿中部为火山高原与地热区，周边为丘陵与平原；火山灰层序记录了多次喷发，成为定年与地层对比的关键材料。",
       "influence": "火山灰年代学为考古与古环境研究提供时间标尺，也说明该岛的土壤肥力与灾害风险同源：肥沃的火山土与喷发风险并存。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -237,13 +237,13 @@
         "openalex-W2019965919"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2041276447（1983年，「Origin of the Torlesse terrane and coeval rocks, South Island,」，DOI https://doi.org/10.1130/0016-7606(1983)94<967:oottta>2.0.co;2）；年代以「地质尺度（新生代以来）；本条引 1983 年地体研究」表述，未编造精确年份。 【第42轮第二来源（partial）】openalex-W2004355322（1982年，《Naturalised plants in south‐west South Island, New Zealand》，New Zealand Journal of Botany，DOI 10.1080/0028825x.1982.10428834，被引 30）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Naturalised plants in south-west South Island》研究的是归化植物（植物侧面）；《Origin of the Torlesse terrane…》研究的是地体成因（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第98轮补第二内容源（strong，Crossref）】openalex-W2019965919（1975年，《Stratigraphy and Paleoecology of the Productus Creek Group, South Island, New Zealand》，被引 15，摘要 1004 字符）：已在本条 geo 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约中生代至今」无专门来源支撑，已收敛为待核表述。 【第22轮·首轮复核】大洋洲×地形；来源均已核验；按 D041/D055 仍缺含地貌成因正文的专题页。 【第25轮实证复核·新西兰南岛】本条正则 south island。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「新西兰南岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为新西兰南岛主题专题页。 【第26轮】按 D059 撤回本轮复核标记（该条第25轮刚复核，避免连轮复检）。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2041276447（1983年，「Origin of the Torlesse terrane and coeval rocks, South Island,」，DOI https://doi.org/10.1130/0016-7606(1983)94<967:oottta>2.0.co;2）；年代以「地质尺度（新生代以来）；本条引 1983 年地体研究」表述，未编造精确年份。 【第42轮第二来源（partial）】openalex-W2004355322（1982年，《Naturalised plants in south‐west South Island, New Zealand》，New Zealand Journal of Botany，DOI 10.1080/0028825x.1982.10428834，被引 30）：该文献与本条对象同一，但正文目前没有可与之对应的具体句子，故登记为旁证、不计入「双源互证」。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Naturalised plants in south-west South Island》研究的是归化植物（植物侧面）；《Origin of the Torlesse terrane…》研究的是地体成因（构造侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第98轮补第二内容源（strong，Crossref）】openalex-W2019965919（1975年，《Stratigraphy and Paleoecology of the Productus Creek Group, South Island, New Zealand》，被引 15，摘要 1004 字符）：已在本条 geo 段落点。 【第125轮语义扫描 FAIL】openalex-W2019965919：摘要为 Productus Creek 一地二叠纪海相碳酸盐与火山源沉积，与「年轻褶皱山脉与冰川地貌」对象不符 【第125轮语义扫描】openalex-W2041276447 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第125轮语义扫描】openalex-W2004355322 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
-      "geo": "南阿尔卑斯山沿岛西侧延伸，西坡迎盛行西风、降水极丰，东坡处于雨影、较为干燥；山脉的快速隆升与侵蚀使地形陡峻。 所引 1975 年《Stratigraphy and Paleoecology of the Productus Creek Group, South Island, New Zealand》（被引15）研究南岛二叠纪地层与古生态；本条「南岛以年轻的褶皱山脉与冰川地貌为主」据此（该文仅覆盖局部地层）。",
+      "last_update": "2026-11-25",
+      "geo": "南阿尔卑斯山沿岛西侧延伸，西坡迎盛行西风、降水极丰，东坡处于雨影、较为干燥；山脉的快速隆升与侵蚀使地形陡峻。",
       "influence": "强烈的降水梯度造成西岸雨林与东岸草原的对比，直接决定了农牧业与聚落的东西差异；地形与气候的组合在这里比多数地区更具决定性。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经库克海峡与北岛分隔，通过山口与东岸平原连接内部牧场与港口。",
@@ -278,14 +278,14 @@
         "openalex-W4205336612"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·毛利人】本条正则 maori（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「毛利人」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 新西兰，D068 已核对国家—区域匹配；单位人、%、岁）。 【第42轮第二来源（partial）】openalex-W4385601321（2016年，《New Treaty, New Tradition: Reconciling New Zealand and Maori Law》，University of British Columbia Press eBooks，DOI 10.59962/9780774831703，被引 153）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。 【第87轮补第二内容源（strong，Crossref）】openalex-W4205336612（2012年，《Maori Values Can Reinvigorate a New Zealand Philosophy》，被引 14，摘要 6902 字符）：已在本条 influence 段落点。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 第5轮返工：已移除无专门来源的具体年代表述。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：政权更替类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第27轮实证复核·毛利人】本条正则 maori（英文源用英文正则，D070）；britannica-regions=200/正文137675字符/本条命中0；wikipedia-regions=200/正文5字符/本条命中0。档位判定：档③8000+命中≥5（来源标题不含本条核心词）。D055 判定：未达标（档③8000+命中≥5 门槛8000：正文137675、命中0）。缺口为「毛利人」主题专题页。 【第28轮现状数据】today 填世界银行实测（代表国 新西兰，D068 已核对国家—区域匹配；单位人、%、岁）。 【第42轮第二来源（partial）】openalex-W4385601321（2016年，《New Treaty, New Tradition: Reconciling New Zealand and Maori Law》，University of British Columbia Press eBooks，DOI 10.59962/9780774831703，被引 153）：该文献涉本条对象但聚焦某一侧面，仅支撑相应段落，其余段落仍为常识性地理描述。 【第87轮补第二内容源（strong，Crossref）】openalex-W4205336612（2012年，《Maori Values Can Reinvigorate a New Zealand Philosophy》，被引 14，摘要 6902 字符）：已在本条 influence 段落点。 【第125轮语义扫描 SOFT】openalex-W4205336612：摘要讨论毛利价值观融入新西兰哲学，未提 whakapapa 与 mana 【第125轮语义扫描】openalex-W4385601321 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-24",
+      "last_update": "2026-11-25",
       "geo": "毛利人主要居住在新西兰，北岛火山与地热区、南岛高山与冰川塑造不同生计方式。海岸与河流提供渔业与交通资源。",
-      "influence": "波利尼西亚航海传统与当地资源适应形成部落社会，契约与王国组织在欧洲接触后发展。社会变迁不能仅由岛屿环境解释。 所引 2012 年研究（摘要 6,902 字符）讨论传统毛利哲学中的价值观及其在今日新西兰的可见性；本条「毛利人以 whakapapa（谱系）与 mana（威望）组织社会关系」据此。",
+      "influence": "波利尼西亚航海传统与当地资源适应形成部落社会，契约与王国组织在欧洲接触后发展。社会变迁不能仅由岛屿环境解释。 所引 2012 年研究（摘要 6,902 字符）讨论传统毛利哲学中的价值观及其在今日新西兰的可见性。",
       "polities": "部落与王国组织在岛屿条件下发展，现代政治中族群拥有法定代表与权利机制；具体年代与制度待专门史料核验。",
       "connections": "毛利人与波利尼西亚其他岛群保持航海联系，后与欧洲移民、贸易与传教网络互动。",
       "today": "以新西兰为例（毛利人口另计），来源：世界银行 API。新西兰 总人口 5,324,700 人（2025年）（SP.POP.TOTL）、城市化率 84.0%（2025年）（SP.URB.TOTL.IN.ZS）、预期寿命 82.0 岁（2024年）（SP.DYN.LE00.IN）。上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
@@ -435,12 +435,12 @@
         "openalex-W2044118874"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约500万年前至今」无专门来源支撑，已收敛为待核表述。 【第23轮实证复核】实测：britannica-regions 实为 UNSD M49 方法论页（200 / 剥离后 137675 字符 / hawaii|island 命中 29，属区域统计口径而非专题）；wikipedia-regions 实为 UN SDG 数据门户（200 / 5 字符 JS 壳页 / 命中 0）。D053：第二源为壳别名，不构成独立依据；两源均非「夏威夷」专题页，故缺口为「太平洋岛屿专题页（D055 档①或②）」。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中29；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·夏威夷群岛】本条正则 hawaii。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「夏威夷群岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为夏威夷群岛主题专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2099199436（1963年，「A POSSIBLE ORIGIN OF THE HAWAIIAN ISLANDS」，DOI https://doi.org/10.1139/p63-094）；年代以「地质尺度；本条引 1963 年关于群岛成因的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2044118874（1953年，《Hawaiian Swell, Deep, and Arch, and Subsidence of the Hawaiian Islands》，The Journal of Geology，DOI 10.1086/626059，被引 135）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约500万年前至今」无专门来源支撑，已收敛为待核表述。 【第23轮实证复核】实测：britannica-regions 实为 UNSD M49 方法论页（200 / 剥离后 137675 字符 / hawaii|island 命中 29，属区域统计口径而非专题）；wikipedia-regions 实为 UN SDG 数据门户（200 / 5 字符 JS 壳页 / 命中 0）。D053：第二源为壳别名，不构成独立依据；两源均非「夏威夷」专题页，故缺口为「太平洋岛屿专题页（D055 档①或②）」。 【第24轮实证复核】britannica-regions=200/正文137675字符/命中29；wikipedia-regions=200/正文5字符/命中0。 【第25轮实证复核·夏威夷群岛】本条正则 hawaii。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「夏威夷群岛」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为夏威夷群岛主题专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2099199436（1963年，「A POSSIBLE ORIGIN OF THE HAWAIIAN ISLANDS」，DOI https://doi.org/10.1139/p63-094）；年代以「地质尺度；本条引 1963 年关于群岛成因的研究」表述，未编造精确年份。 【第42轮第二来源（strong）】openalex-W2044118874（1953年，《Hawaiian Swell, Deep, and Arch, and Subsidence of the Hawaiian Islands》，The Journal of Geology，DOI 10.1086/626059，被引 135）：该文献与本条对象一致，可作年代/机制断言的第二独立来源。 【第125轮语义扫描】openalex-W2099199436 在正文中无对应落点句，仅作登记，不支撑任何断言。 【第125轮语义扫描】openalex-W2044118874 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "岛链呈西北—东南向排列，东南端岛屿仍在火山活动期、地势较高，西北端岛屿更老、受侵蚀更强。岛屿面积有限，淡水与可耕地受地形约束。",
       "influence": "热点机制解释了岛链的排列与年龄递变，是板块运动理论的重要证据之一；岛屿的孤立性则塑造了极高的特有物种比例，也使外来物种影响被放大。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
@@ -511,14 +511,14 @@
         "openalex-W5261359"
       ],
       "needs_verification": true,
-      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 0；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO 大堡礁世界遗产页；当前两源对珊瑚礁主题均无正文支撑。 【第24轮实证复核】s050-oceanservice-noaa-gov=200/正文2753字符/命中0；s085-unesco-org=0/正文0字符/命中0。 【第25轮实证复核·大堡礁】正则 reef|coral；s050-oceanservice-noaa-gov(200/正文2753字符/命中0)；s085-unesco-org(200/正文218字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 2753 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「大堡礁」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020216779（2003年，《Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia》，DOI https://doi.org/10.3354/meps251153）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「生态尺度（本条引 2003 年珊瑚除草剂影响研究）」表述并注明学界有不同版本。 【第94轮审计修正·侧面】`openalex-W2020216779`（《Effects of herbicides diuron and atrazine on corals》, 2003）是除草剂对珊瑚的毒理学研究，属污染生态侧面，不支撑「大堡礁的生态格局与保护」。现降为旁证。 【第98轮补第二内容源（strong，Crossref）】openalex-W5261359（2002年，《Taxonomy and ecology of non-geniculate coralline algae (corallinales, rhodophyta) on Heron Reef (Great Barrier Reef)》，被引 2，摘要 5705 字符）：已在本条 geo 段落点。",
+      "pending_notes": "二次返工：抽检 FAIL——现用来源正文不含珊瑚礁专题内容，且「世界规模最大」为无源极值断言；已降级 L1，待 GBRMPA 或 UNESCO 大堡礁遗产页等专题来源到位后再升级。 【第23轮实证复核】实测：s050（NOAA Ocean Service 门户首页）200 / 剥离后 2753 字符 / reef|coral 命中 0；s085（UNESCO Ocean）本次不可达（HTTP 000）。缺口语义已对齐：待 GBRMPA 或 UNESCO 大堡礁世界遗产页；当前两源对珊瑚礁主题均无正文支撑。 【第24轮实证复核】s050-oceanservice-noaa-gov=200/正文2753字符/命中0；s085-unesco-org=0/正文0字符/命中0。 【第25轮实证复核·大堡礁】正则 reef|coral；s050-oceanservice-noaa-gov(200/正文2753字符/命中0)；s085-unesco-org(200/正文218字符/命中0)。 D055 判定：未达标（最高命中 0，最高正文 2753 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「大堡礁」专题页时维持 L1。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W2020216779（2003年，《Effects of herbicides diuron and atrazine on corals of the Great Barrier Reef, Australia》，DOI https://doi.org/10.3354/meps251153）。 该文献与本条同一对象；机制/影响段据其摘要撰写（geo 为常识性描述，未挂学术来源），未外推。年代以「生态尺度（本条引 2003 年珊瑚除草剂影响研究）」表述并注明学界有不同版本。 【第94轮审计修正·侧面】`openalex-W2020216779`（《Effects of herbicides diuron and atrazine on corals》, 2003）是除草剂对珊瑚的毒理学研究，属污染生态侧面，不支撑「大堡礁的生态格局与保护」。现降为旁证。 【第98轮补第二内容源（strong，Crossref）】openalex-W5261359（2002年，《Taxonomy and ecology of non-geniculate coralline algae (corallinales, rhodophyta) on Heron Reef (Great Barrier Reef)》，被引 2，摘要 5705 字符）：已在本条 geo 段落点。 【第125轮语义扫描 FAIL】openalex-W5261359：该文研究对象是非节珊瑚藻（红藻），不是珊瑚，且限于 Heron Reef；对象不符 【第125轮语义扫描】openalex-W2020216779 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
-      "last_update": "2026-11-24",
-      "geo": "位于昆士兰海岸外的大陆架，水深浅、光照足、水温适宜，适合造礁珊瑚；外海与近岸的水质差异直接影响礁体健康。 所引 2002 年《Taxonomy and ecology of non-geniculate corals》（摘要 5,705 字符）研究珊瑚的分类与生态；本条「大堡礁以珊瑚礁生态系统为主体」据此。",
+      "last_update": "2026-11-25",
+      "geo": "位于昆士兰海岸外的大陆架，水深浅、光照足、水温适宜，适合造礁珊瑚；外海与近岸的水质差异直接影响礁体健康。 所引 2002 年《Taxonomy and ecology of non-geniculate coralline algae》研究大堡礁 Heron Reef 上非节珊瑚藻（红藻）的分类与生态。",
       "influence": "所引 2003 年实验显示，除草剂（敌草隆、阿特拉津）在极低浓度下即可影响珊瑚的共生藻，说明陆源农业径流对近岸礁体的影响可通过化学途径传导，而不仅是泥沙覆盖。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "与昆士兰沿岸河流的径流相连，陆源物质经河流入海影响礁体，是陆海耦合的典型。",
@@ -622,15 +622,15 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "抽检返工：已移除无来源年份；农业制度形成时间待专门来源核验。 【第23轮实证复核】实测：s014（FAOSTAT）200 / 剥离后 7 字符（应用壳页）/ 命中 0；s022（OWID 首页）200 / 22764 字符 / farm|agricultur|wheat 命中 5（仅站点导航级）。缺口为「澳大利亚农业体系专题页」；D053：s014 为壳页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1494268843（1982年，《Production Flexibility and Technical Change in Australia's Wheat-Sheep Zone》，DOI https://doi.org/10.22004/ag.econ.12290，Review of marketing and agricultural economics）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「20世纪以来的农业变迁（本条引 1982 年生产率研究）」表述并注明学界有不同版本。",
+      "pending_notes": "抽检返工：已移除无来源年份；农业制度形成时间待专门来源核验。 【第23轮实证复核】实测：s014（FAOSTAT）200 / 剥离后 7 字符（应用壳页）/ 命中 0；s022（OWID 首页）200 / 22764 字符 / farm|agricultur|wheat 命中 5（仅站点导航级）。缺口为「澳大利亚农业体系专题页」；D053：s014 为壳页。 【第35轮升级 L2】第二来源为 OpenAlex openalex-W1494268843（1982年，《Production Flexibility and Technical Change in Australia's Wheat-Sheep Zone》，DOI https://doi.org/10.22004/ag.econ.12290，Review of marketing and agricultural economics）。 该文献与本条对象一致（时期/范围见说明），机制/影响段据此撰写（geo 为常识性描述，未挂学术来源）；年代以「20世纪以来的农业变迁（本条引 1982 年生产率研究）」表述并注明学界有不同版本。 【第125轮语义扫描 SOFT】openalex-W1494268843：摘要为利润函数估计：产出供给缺乏弹性、养羊与种植互补；「价格波动中调整」「降水与市场双重不确定性」为外推",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "主要分布于南部与西南部的地中海气候区，冬季降水、夏季干旱，适合小麦—休闲—牧草的轮作；土壤肥力较低，需依赖休耕与施肥。",
-      "influence": "所引研究关注生产灵活性与技术变迁：轮作制度使农场能在价格波动中调整作物与畜牧的比重，这是对降水与市场双重不确定性的适应。",
+      "influence": "所引研究关注小麦—养羊带的生产灵活性与技术变迁，显示各类产出供给缺乏弹性，养羊与种植相互补充。",
       "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
       "connections": "经铁路与港口连接出口市场，羊毛与小麦是19世纪以来澳大利亚的主要出口品。",
       "today": "（本条的当代指标不在本页展开。）",

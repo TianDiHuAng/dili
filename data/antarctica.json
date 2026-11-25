@@ -67,12 +67,12 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 1；s049（NCEI 首页）200 / 2471 字符 / 命中 0。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。 【第25轮实证复核·南极半岛】正则 antarctic peninsula；s038-earthobservatory-nasa-gov(200/正文7143字符/命中0)；s049-ncei-noaa-gov(200/正文2471字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 7143 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「南极半岛」专题页时维持 L1。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1989199622（2000年，「The link between climate warming and break-up of ice shelves in 」，DOI https://doi.org/10.3189/172756500781833043，Journal of Glaciology）； 年代以「持续观测（冰架崩解事件集中于近数十年）」表述并注明学界有不同版本，未编造精确年份。",
+      "pending_notes": "第7轮来源复查：Livius 与 NatGeo 新来源无南极主题；维持 L1。 【第23轮实证复核】实测：s038（Earth Observatory 门户首页）200 / 7143 字符 / peninsula|antarctic 命中 1；s049（NCEI 首页）200 / 2471 字符 / 命中 0。两源均为机构入口，缺口为「南极半岛地貌/生态专题页」。 【第24轮实证复核】s038-earthobservatory-nasa-gov=200/正文7143字符/命中1；s049-ncei-noaa-gov=200/正文2471字符/命中0。 【第25轮实证复核·南极半岛】正则 antarctic peninsula；s038-earthobservatory-nasa-gov(200/正文7143字符/命中0)；s049-ncei-noaa-gov(200/正文2471字符/命中0)。 D055 判定：未达标（最高命中 1，最高正文 7143 字符，档①门槛 5000 / 档②③门槛 8000）；两源均非「南极半岛」专题页时维持 L1。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W1989199622（2000年，「The link between climate warming and break-up of ice shelves in 」，DOI https://doi.org/10.3189/172756500781833043，Journal of Glaciology）； 年代以「持续观测（冰架崩解事件集中于近数十年）」表述并注明学界有不同版本，未编造精确年份。 【第125轮语义扫描】openalex-W1989199622 在正文中无对应落点句，仅作登记，不支撑任何断言。",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
       ],
-      "last_update": "2026-11-23",
+      "last_update": "2026-11-25",
       "geo": "半岛山地与冰盖并存，两侧分别为别林斯高晋海与威德尔海；纬度较低，受海洋性气候影响较强。",
       "influence": "气候变暖与冰架崩解之间存在观测上的联系，但崩解速率受冰架厚度、底部融化与地形约束共同影响，单一温度指标不足以解释全部变化。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
