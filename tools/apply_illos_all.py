@@ -49,14 +49,15 @@ COORD = {
 "松岛冰川退缩":(-100,-75),
 }
 
-UNITS = ["africa", "asia", "europe", "north-america", "south-america", "oceania", "antarctica", "global-themes"]
-docs = {u: json.load(open(os.path.join(DATA, u + ".json"), encoding="utf-8")) for u in UNITS}
-n = 0; kept = 0
-for u, d in docs.items():
-    for e in d["entries"]:
-        if "位置图" in (e.get("svg") or ""):   # 已含位置图的保留
-            kept += 1; continue
-        e["svg"] = illos.build(e, COORD.get(e["title"]))
-        e["last_update"] = "2026-11-25"; n += 1
-save_docs(docs); update_coverage(docs)
-print("replaced", n, "kept", kept)
+if __name__ == "__main__":
+    UNITS = ["africa", "asia", "europe", "north-america", "south-america", "oceania", "antarctica", "global-themes"]
+    docs = {u: json.load(open(os.path.join(DATA, u + ".json"), encoding="utf-8")) for u in UNITS}
+    n = 0; kept = 0
+    for u, d in docs.items():
+        for e in d["entries"]:
+            if "位置图" in (e.get("svg") or ""):   # 已含位置图的保留
+                kept += 1; continue
+            e["svg"] = illos.build(e, COORD.get(e["title"]))
+            e["last_update"] = "2026-11-25"; n += 1
+    save_docs(docs); update_coverage(docs)
+    print("replaced", n, "kept", kept)

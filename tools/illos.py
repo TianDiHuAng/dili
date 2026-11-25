@@ -124,3 +124,80 @@ def theme_region(e):
 
 THEME = {"地形": theme_terrain, "气候": theme_climate, "农业": theme_agriculture,
          "贸易": theme_trade, "政权更替": theme_polity, "区域": theme_region}
+
+
+# ---------- Phase2 专用示意图（真实概念，无数值）----------
+def theme_soil(e, coords=None):
+    s = ["<rect x='60' y='256' width='360' height='290' fill='#efe8da' stroke='#b3a488'/>"]
+    layers = [("O 枯枝落叶层", "#6b5a3a", 40), ("A 表土层(腐殖质)", "#4a3b28", 55),
+              ("B 淀积层", "#a9762f", 70), ("C 母质层", "#c9a86a", 65), ("R 基岩", "#8f8a80", 60)]
+    y = 256
+    for name, col, h in layers:
+        s.append(f"<rect x='60' y='{y}' width='360' height='{h}' fill='{col}' opacity='.85' stroke='#7a6a4a'/>")
+        s.append(f"<text x='76' y='{y+int(h/2)+4}' class='lbl-s' style='fill:#fff'>{name}</text>")
+        y += h
+    s.append(_t(70, 250, "%s · 土壤剖面（层次示意）" % e["title"], "lbl-s"))
+    # 质地三角
+    A = (560, 300); B = (820, 300); C = (690, 520)
+    s.append(f"<polygon points='{A[0]},{A[1]} {B[0]},{B[1]} {C[0]},{C[1]}' fill='#f3ece0' stroke='#8a7452' stroke-width='1.4'/>")
+    s.append(f"<text x='{A[0]-6}' y='{A[1]-6}' class='lbl-s'>砂土</text>")
+    s.append(f"<text x='{B[0]-36}' y='{B[1]-6}' class='lbl-s'>黏土</text>")
+    s.append(f"<text x='{C[0]-6}' y='{C[1]+16}' class='lbl-s'>粉砂</text>")
+    s.append(f"<text x='560' y='544' class='lbl-s'>土壤质地三角（砂—粉砂—黏土）</text>")
+    return "".join(s)
+
+def theme_water(e, coords=None):
+    s = ["<rect x='60' y='256' width='780' height='290' fill='#eef4f6' stroke='var(--line)'/>"]
+    # 分水岭
+    s.append("<path d='M90 500 C220 360 380 360 470 420 C560 480 700 430 810 500' fill='none' stroke='#8a8272' stroke-width='1.6' stroke-dasharray='8 6'/>")
+    s.append(_t(96, 348, "分水岭", "lbl-s"))
+    # 支流汇聚到干流
+    s.append("<path d='M200 380 C260 430 330 460 430 470' fill='none' stroke='#5b93b8' stroke-width='2'/>")
+    s.append("<path d='M330 380 C360 430 410 460 440 470' fill='none' stroke='#5b93b8' stroke-width='2'/>")
+    s.append("<path d='M430 470 C520 476 640 470 800 452' fill='none' stroke='#5b93b8' stroke-width='5'/>")
+    s.append("<circle cx='800' cy='452' r='6' fill='#2f6f8f'/>" + _t(770, 440, "出口/河口", "lbl-s"))
+    s.append(_t(70, 250, "%s · 流域与汇流（示意：支流—干流—出口）" % e["title"], "lbl-s"))
+    return "".join(s)
+
+def _climate_belt(lat):
+    a = abs(lat)
+    if a < 10: return "热带"
+    if a < 23.5: return "热带/亚热带过渡"
+    if a < 35: return "亚热带"
+    if a < 50: return "温带"
+    if a < 66.5: return "亚寒带"
+    return "寒带"
+
+def _theme_climate2(e, coords=None):
+    base = theme_climate(e)
+    extra = []
+    if coords:
+        belt = _climate_belt(coords[1])
+        hemi = "北" if coords[1] >= 0 else "南"
+        extra.append(_t(560, 300, "所在纬度带：%s（约 %d°%s）" % (belt, abs(int(coords[1])), hemi), "lbl-s"))
+    extra.append(_t(560, 320, "气候带随纬度与海陆位置分异（示意）", "lbl-s"))
+    return base + "".join(extra)
+
+def build(entry, coords=None):
+    unit = entry.get("unit_id", "global-themes"); theme = entry.get("theme", "区域"); title = entry["title"]
+    lon = coords[0] if coords else None; lat = coords[1] if coords else None
+    bb = list(UNIT_BBOX.get(unit, UNIT_BBOX["global-themes"]))
+    if lon is not None:
+        bb = [min(bb[0], lon - 4), max(bb[1], lon + 4), min(bb[2], lat - 4), max(bb[3], lat + 4)]
+    ov = ne.overlay((30, 34, 840, 196), tuple(bb), title)
+    loc = map_svg((30, 34, 840, 196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
+    if "土壤" in title:
+        diagram = theme_soil(entry, coords)
+    elif any(k in title for k in ("水资源", "湿地", "水文", "海洋保护区", "渔业资源", "海洋生态系统")):
+        diagram = theme_water(entry, coords)
+    elif theme == "气候":
+        diagram = _theme_climate2(entry, coords)
+    else:
+        diagram = {"地形": theme_terrain, "农业": theme_agriculture, "贸易": theme_trade,
+                   "政权更替": theme_polity, "区域": theme_region}.get(theme, theme_region)(entry)
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
+            + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
+            + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
+            + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
+            + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
+            + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
