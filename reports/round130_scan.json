@@ -1,0 +1,112 @@
+{
+ "entries": [
+  {
+   "title": "预期寿命空间差异",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "人均产出空间差异",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "作物单产差异",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "肥料使用与环境",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "肉奶生产与土地",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "自然灾害风险",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2603960055",
+     "field": "influence",
+     "claim": "所引 2016 年文献为 Oxford Research Encyclopedia 的预发表摘要（advance summary），讨论空间规划与自然灾害风险管理的关系，涉及把风险信息纳入土地利用决策的必要性。",
+     "abstract_evidence": "This is an advance summary of a forthcoming article in the Oxford Research Encyclopedia of Natural Hazard Science. Please check back later for the full article. Spatial and urban planning are acknowledged as important tools and processes that influence exposure to natural and technical hazards and risk accumulation, as well as risk and vulnerability reduction.",
+     "verdict": "PASS",
+     "reason": "如实标注为预发表摘要，内容相称",
+     "fix": "所引 2016 年文献为 Oxford Research Encyclopedia 的预发表摘要（advance summary），讨论空间规划与自然灾害风险管理的关系，涉及把风险信息纳入土地利用决策的必要性。"
+    }
+   ]
+  },
+  {
+   "title": "森林面积占比",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "人口增长",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "城市化水平",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "全球气温变化",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "荒漠化",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "沙尘暴",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "渔业资源",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "极端天气预警",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4306771028",
+     "field": "influence",
+     "claim": "所引 2022 年发表于 Climatic Change 的研究，检验区域气候模式与常用气象数据集在肯尼亚北部预测极端天气型的效力：以人工神经网络结合站点数据的干旱预测准确率达 78–90%，隔离森林法在洪水识别上表现最优。",
+     "abstract_evidence": "we investigate the efficacy of various regional versions of the climate models, RCMs, and the commonly available weather datasets in Kenya in predicting extreme weather patterns in northern and western Kenya. We identified two models that may be used to predict flood risks and potential drought events in these regions. The combination of artificial neural networks (ANNs) and weather station data was the most effective in predicting future drought occurrences in Turkana and Wajir with accuracies ranging from 78 to 90%. In the case of flood forecasting, isolation forests models using weather station data had the best overall performance.",
+     "verdict": "PASS",
+     "reason": "检验对象、78–90% 准确率与隔离森林均与摘要一致",
+     "fix": "所引 2022 年发表于 Climatic Change 的研究，检验区域气候模式与常用气象数据集在肯尼亚北部预测极端天气型的效力：以人工神经网络结合站点数据的干旱预测准确率达 78–90%，隔离森林法在洪水识别上表现最优。"
+    }
+   ]
+  },
+  {
+   "title": "土壤资源",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  }
+ ]
+}

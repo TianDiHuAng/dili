@@ -1,0 +1,40 @@
+{
+ "entries": [
+  {
+   "title": "保护与保育区体系",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2105822411",
+     "field": "influence",
+     "claim": "所引 2010 年研究评估菲律宾海洋保护区的养护成效与覆盖缺口（被引244），指出「量化既有保护区是否达成目标、识别覆盖空缺」是构建保护区网络的前提；本条「保护区体系需评估成效而非只看面积」据此。",
+     "abstract_evidence": "Quantifying the extent to which existing reserves meet conservation objectives and identifying gaps in coverage are vital to developing systematic protected-area networks ... We found that the current extent and distribution of MPAs does not adequately represent biodiversity.",
+     "verdict": "PASS",
+     "reason": "引语为摘要首句的直接转述，菲律宾个案已注明。",
+     "fix": "所引 2010 年研究评估菲律宾海洋保护区的养护成效与覆盖缺口（被引244），指出「量化既有保护区是否达成目标、识别覆盖空缺」是构建保护区网络的前提；本条「保护区体系需评估成效而非只看面积」据此。"
+    }
+   ]
+  },
+  {
+   "title": "农业企业与价值链",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2116282164",
+     "field": "influence",
+     "claim": "所引 2004 年《Contract farming in Indonesia》（被引72）讨论印尼小农与农业企业的合同农业安排：大农可获资本、市场信息与制度支持，小农常被排除；本条「价值链的组织方式决定小农能否参与」据此，该文是印尼个案。",
+     "abstract_evidence": "While producers with larger landholdings may have access to capital, marketing information and institutional support, smallholders often miss out and are more likely to be marginalised. One possible mechanism ... is contract farming ... spreads the production and marketing risks between agribusiness and smallholders.",
+     "verdict": "SOFT",
+     "reason": "摘要中大农/小农对比是对发展中国家的一般性论述，非印尼实证发现；「价值链组织方式决定小农能否参与」较摘要「可能的机制」力度放大。",
+     "fix": "所引 2004 年《Contract farming in Indonesia》（被引72）指出，发展中国家较大土地经营者可获资本、市场信息与制度支持而小农常被边缘化，合同农业可作为农业企业与小农分担生产与营销风险、帮助小农转向高价值出口产品的一种机制。"
+    }
+   ]
+  },
+  {
+   "title": "水资源供给概览",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  }
+ ]
+}

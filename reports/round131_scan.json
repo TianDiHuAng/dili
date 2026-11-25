@@ -1,0 +1,175 @@
+{
+ "entries": [
+  {
+   "title": "海洋生态系统",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2095789486",
+     "field": "influence",
+     "claim": "所引 2013 年《Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services》（被引 861）系统评述海洋与沿海生态系统服务（MCES）的评估与制图现状，指出既有研究多集中于陆地、海洋部分存在明显知识缺口；本条「海洋生态系统服务在空间上分布不均、评估覆盖不足」据此。",
+     "abstract_evidence": "Most of the studies have focused on assessing and mapping terrestrial ecosystem services highlighting a knowledge gap on marine and coastal ecosystem services (MCES) and an urgent need to assess them. METHODOLOGY/PRINCIPAL FINDINGS: We reviewed and summarized existing scientific literature related to MCES with the aim of extracting and classifying indicators used to assess and map them. We found 145 papers that specifically assessed marine and coastal ecosystem services from which we extracted 476 indicators. Food provision, in particular fisheries, was the most extensively analyzed MCES while water purification and coastal protection were the most frequently studied regulating and maintenance services. Also recreation and tourism under the cultural services was relatively well assessed. We highlight knowledge gaps regarding the availability of indicators that measure the capacity, flow or benefit derived from each ecosystem service. The majority of the case studies was found in mangroves and coastal wetlands and was mainly concentrated in Europe and North America.",
+     "verdict": "SOFT",
+     "reason": "摘要所说的不均是研究案例集中于欧洲北美与红树林湿地，正文改写为「生态系统服务在空间上分布不均」，对象偏移",
+     "fix": "所引 2013 年《Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services》（被引 861）系统评述海洋与沿海生态系统服务（MCES）的评估与制图现状，指出既有研究多集中于陆地、海洋与沿海部分存在知识缺口，且案例研究主要集中于红树林、滨海湿地及欧洲与北美；本条「海洋生态系统服务评估覆盖不足、研究分布不均」据此。"
+    }
+   ]
+  },
+  {
+   "title": "陆地保护区",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "城市贫困",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2169088426",
+     "field": "influence",
+     "claim": "所引 2006 年章节以「社会排斥／整合」为概念框架，强调空间本身有其作用：贫困的空间聚集与邻里效应相互作用。",
+     "abstract_evidence": "Urban social questions are often related to issues of participation, inclusion and integration of the population in the urban society. When formulated the other way around, it regards a ‘fight’ against social exclusion, often also against segregation, separation and disintegration. Urban-oriented policy makers and politicians, who are operating at the level of the city, urban region or metropolis, frequently consider the understanding and reduction of social exclusion and the stimulation of integration or inclusion of subsections of the population as their most important tasks. An interesting element is that most of them appear to think, some explicitly, others implicitly, that ‘space matters’ in these urban questions. The state and city they are in; the place where people are; the space they are in; the composition of the space they use; the location relative to other important locations; these are all considered of crucial importance to understand the life chances of citizens. In the European realm, proof of this assertion can easily be found at various geographical levels. We simply have to refer to the welfare state comparisons (Esping-Andersen, 1990); or to studies, which address the economic prospects of cities (Parkinson et al , 1992). We may also refer to the enormous volume of area-based policies, which have been developed over the past decade and which often are legitimized by the idea that the spatial setting has extra and independent effects upon people’s opportunities",
+     "verdict": "SOFT",
+     "reason": "摘要只称决策者普遍认为「空间有作用」、区域政策以空间独立效应为依据；「贫困空间聚集与邻里效应相互作用」为外推",
+     "fix": "所引 2006 年章节以「社会排斥／整合」为概念框架，指出城市决策者普遍认为空间对居民的生活机会有重要作用，许多区域政策即以空间环境具有独立效应为依据。"
+    }
+   ]
+  },
+  {
+   "title": "水资源管理",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "卫星遥感地表观测",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4390344318",
+     "field": "influence",
+     "claim": "所引 2023 年综述《The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection》（被引132，摘要 1,333 字符）指出在全球、区域与地方尺度上制图土地覆盖格局是监测动态世界的关键，并讨论人工智能与卫星遥感结合用于土地覆盖变化检测；本条「遥感支撑变化检测」据此。",
+     "abstract_evidence": "Mapping land cover patterns at global, regional, and local scales is crucial for monitoring the dynamic world",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": "所引 2023 年综述《The Use of Artificial Intelligence and Satellite Remote Sensing in Land Cover Change Detection》（被引132，摘要 1,333 字符）指出在全球、区域与地方尺度上制图土地覆盖格局是监测动态世界的关键，并讨论人工智能与卫星遥感结合用于土地覆盖变化检测；本条「遥感支撑变化检测」据此。"
+    },
+    {
+     "source": "openalex-W4392872715",
+     "field": "influence",
+     "claim": "所引 GLC_FCS30D 数据集论文（被引611，摘要 2,829 字符）描述了基于全部可用 Landsat 影像、覆盖 1985–2022 年 26 个时间步、35 个子类的全球 30 米土地覆盖动态监测产品；本条「用于监测土地覆盖」据此举例。",
+     "abstract_evidence": "we describe GLC_FCS30D, a novel global 30 m land-cover dynamics monitoring dataset containing 35 land-cover subcategories and covering the period 1985–2022 in 26 time steps (maps were updated every 5 years before 2000 and annually after 2000). GLC_FCS30D has been developed using continuous change detection and all available Landsat imagery",
+     "verdict": "PASS",
+     "reason": "数据集参数与摘要一致",
+     "fix": "所引 GLC_FCS30D 数据集论文（被引611，摘要 2,829 字符）描述了基于全部可用 Landsat 影像、覆盖 1985–2022 年 26 个时间步、35 个子类的全球 30 米土地覆盖动态监测产品；本条「用于监测土地覆盖」据此举例。"
+    }
+   ]
+  },
+  {
+   "title": "健康地理数据",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "气候与健康风险",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "全球营养状况",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "气候适应政策",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "环境治理",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2063782987",
+     "field": "influence",
+     "claim": "所引 2011 年研究评估环境治理体制的有效性：既有研究已在较严格的方法框架下审视这类组织的绩效，但对两类问题关注有限——①组织学习与创新能力，②组织与相关社会政治环境的契合度。",
+     "abstract_evidence": "In recent years, the performance of such entities has been subjected to close scrutiny within a methodologically rigorous framework. However, the capacity to learn, resulting in creative innovation, and the degree of fit between them and relevant socio-political milieus has been accorded limited attention.",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": "所引 2011 年研究评估环境治理体制的有效性：既有研究已在较严格的方法框架下审视这类组织的绩效，但对两类问题关注有限——①组织学习与创新能力，②组织与相关社会政治环境的契合度。"
+    }
+   ]
+  },
+  {
+   "title": "可持续交通",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2483902998",
+     "field": "influence",
+     "claim": "所引 2015 年研究以共享汽车（car sharing）作为可持续交通政策的案例，指出道路运输在客运与货运上的主导地位已带来显著的环境与社会成本；要扭转该趋势，需技术手段与行为改变并行。",
+     "abstract_evidence": "The dominance of road transport, both on passenger and freight movements, has reached alarming levels in what concerns their negative environmental impacts as well as societal and economic costs. To reverse this trend, a technology-driven approach and a behavioral change attitude need to be pursued.",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": "所引 2015 年研究以共享汽车（car sharing）作为可持续交通政策的案例，指出道路运输在客运与货运上的主导地位已带来显著的环境与社会成本；要扭转该趋势，需技术手段与行为改变并行。"
+    }
+   ]
+  },
+  {
+   "title": "地理空间数据产品",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W4297537764",
+     "field": "influence",
+     "claim": "所引 2022 年研究以 LiDAR 点云为例，提出高通量工作流把原始点云转为可分析的栅格产品（如冠层高度），这使大范围三维数据产品成为可能。",
+     "abstract_evidence": "Here, we present a high-throughput workflow called ‘Laserfarm’ enabling the efficient, scalable and distributed processing of multi-terabyte LiDAR point clouds from national and regional airborne laser scanning (ALS) surveys into geospatial data products of ecosystem structure. Laserfarm is a free and open-source, end-to-end workflow which contains modular pipelines for the re-tiling, normalization, feature extraction and rasterization of point cloud information from ALS and other LiDAR surveys. The workflow is designed with horizontal scalability and can be deployed with distributed computing on different infrastructures, e.g. a cluster of virtual machines. We demonstrate the Laserfarm workflow by processing a country-wide multi-terabyte ALS dataset of the Netherlands (covering ∼34,000 km2 with ∼700 billion points and ∼ 16 TB uncompressed LiDAR point clouds) into 25 raster layers at 10 m resolution capturing ecosystem height, cover and structural complexity",
+     "verdict": "PASS",
+     "reason": "工作流与栅格产品与摘要一致",
+     "fix": "所引 2022 年研究以 LiDAR 点云为例，提出高通量工作流把原始点云转为可分析的栅格产品（如冠层高度），这使大范围三维数据产品成为可能。"
+    }
+   ]
+  },
+  {
+   "title": "火灾生态",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2105570511",
+     "field": "influence",
+     "claim": "所引 2014 年研究（被引 506）分析全球树皮厚度的变异，指出火 regime 是选择与塑造树皮厚度的关键因子：火既是干扰也是选择压力。",
+     "abstract_evidence": "I hypothesize that fire is a key factor selecting for a thick bark, and thus, at the global scale, a significant proportion of the variability in bark thickness is explained by the variability in fire regimes.",
+     "verdict": "SOFT",
+     "reason": "摘要为作者假说与概念框架（并称数据不足），正文写成既定结论，且「火既是干扰」非摘要内容",
+     "fix": "所引 2014 年研究（被引 506）提出假说与概念框架：火是选择厚树皮的关键因子，全球树皮厚度的变异在很大程度上可由火 regime 的差异解释，但作者也指出现有数据不足以作完全准确的分析。"
+    }
+   ]
+  },
+  {
+   "title": "国家收入分类",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "玛雅研究新进展",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W3015797299",
+     "field": "influence",
+     "claim": "所引 2020 年研究讨论 LiDAR 带来的认知突破，同时提出伦理与新殖民主义问题：数据的长周期存储与管理、科学开放获取与国家保护之间的分歧（部分国家因盗掘与军事安全不愿完全公开），以及卫星技术对民族国家物理边界与主权的挑战。",
+     "abstract_evidence": "paradigm shift in interpretations of the past with regards to the structure and organization of ancient societies as a result of the introduction of lidar to the field a decade ago. Lidar provided control of spatial parameters in a way that had not been previously possible. But, the introduction of this technology has also involved researchers in a series of broader ethical debates. While archaeology has always provided huge data sets for processing, the digital lidar files are even larger and also need appropriate long-term storage and management considerations. It is here that there are differences of opinion worldwide on how to treat lidar data as scientific and open yet national and protected datasets. Some countries do not want fully public access to these files because of the potential danger posed to the looting of their heritage and security or military concerns. Yet, to a large extent, technology is overtaking some of the debate over accessibility, especially as newer satellite technology will surely alter the perceived physical boundaries and challenge the sovereignty of modern nation-states.",
+     "verdict": "PASS",
+     "reason": "与摘要一致",
+     "fix": "所引 2020 年研究讨论 LiDAR 带来的认知突破，同时提出伦理与新殖民主义问题：数据的长周期存储与管理、科学开放获取与国家保护之间的分歧（部分国家因盗掘与军事安全不愿完全公开），以及卫星技术对民族国家物理边界与主权的挑战。"
+    }
+   ]
+  }
+ ]
+}

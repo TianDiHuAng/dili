@@ -1,0 +1,184 @@
+{
+ "entries": [
+  {
+   "title": "南极洲无农业的环境约束",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2994660888",
+     "field": "influence",
+     "claim": "所引 2014 年章节描述南极陆地环境：冰川与冰缘系统占绝对主导，生命主要局限于大陆的边缘地带，且存在显著的地理差异（半岛与内陆、露岩区与冰下环境）。",
+     "abstract_evidence": "This chapter describes and explains the glacial and periglacial systems that characterise the Antarctic; the functioning of the Antarctic terrestrial ecosystem that allows life to cling to the peripheries of the continent; and the marked geographical variations.",
+     "verdict": "SOFT",
+     "reason": "摘要仅称存在显著地理差异，「半岛与内陆、露岩区与冰下环境」为正文自行具体化",
+     "fix": "所引 2014 年章节描述南极陆地环境：冰川与冰缘系统是其特征，生命依附于大陆的边缘地带，且存在显著的地理差异。"
+    }
+   ]
+  },
+  {
+   "title": "南极特别保护区",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2138317156",
+     "field": "influence",
+     "claim": "所引 2013 年研究说明制度安排：访客须遵守该区管理计划并取得国家主管机关的进入许可；南极条约环境议定书缔约方须交换①下一季的许可发放数与②上一季的实际访问数。",
+     "abstract_evidence": "To reduce environmental impacts, ASPA visitors must comply with the Area's management plan and receive an entry permit from an appropriate national authority. Parties to the Protocol on Environmental Protection to the Antarctic Treaty are obliged to exchange information on: i) the number of permits allocated for the forthcoming season, and ii) the number of visits to ASPAs during the previous season.",
+     "verdict": "PASS",
+     "reason": "许可与信息交换义务与摘要一致",
+     "fix": "所引 2013 年研究说明制度安排：访客须遵守该区管理计划并取得国家主管机关的进入许可；南极条约环境议定书缔约方须交换①下一季的许可发放数与②上一季的实际访问数。"
+    },
+    {
+     "source": "openalex-W4403964437",
+     "field": "influence",
+     "claim": "所引 2024 年《The Antarctic Specially Protected Species conservation management tool》（摘要 1,689 字符）讨论南极条约区内的物种保护工具（以行动计划实施）；本条「南极特别保护区/物种保护是条约体系下的保育机制」据此。",
+     "abstract_evidence": "Protection of specific species, generally through the implementation of an associated action plan, is a conservation tool used commonly in areas under national jurisdiction. The Antarctic Treaty area is under international consensus-based governance through the Antarctic Treaty Consultative Meeting (ATCM), which first provided for the designation of Antarctic Specially Protected Species (SPS) in 1964. Over the past 60 years, only the fur seals (genus Arctocephalus ) and Ross seal ( Ommatophoca rossii ) have been listed as SPS, with the fur seals subsequently having been de-listed in 2006. The SPS conservation tool has therefore remained little used by the ATCM.",
+     "verdict": "SOFT",
+     "reason": "该文讨论的是特别保护物种（SPS）工具，正文将其与特别保护区并列为同一机制，属术语溢出；且未提该工具极少被使用",
+     "fix": "所引 2024 年《The Antarctic Specially Protected Species conservation management tool》讨论南极条约区内的特别保护物种（SPS）工具（通常以行动计划实施），指出自 1964 年设立以来该工具很少被使用；本条「特别保护物种是条约体系下的保育机制」据此，它与特别保护区是不同的工具。"
+    }
+   ]
+  },
+  {
+   "title": "沙漠化",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4408089654",
+     "field": "geo",
+     "claim": "所引 2025 年《Reconciling the Discrepancy in Projected Global Dryland Expansion》（被引30）指出大陆变干与旱地扩张会加速环境退化与荒漠化，但常用的干旱指数对变干速率的评估并不一致；本条「荒漠化的评估存在口径差异、旱地扩张与气候变干相关」据此。",
+     "abstract_evidence": "Continental drying and associated dryland expansion would accelerate environmental degradation and desertification. However, the rate of continental drying commonly assessed with an aridity index is inconsistent with observations and projections of widespread greening and increased global runoff. This raises questions about the accuracy of assessment methods and projections of continental drying and dryland dynamics in a warming world.",
+     "verdict": "PASS",
+     "reason": "评估口径不一致、旱地扩张与变干相关均见摘要",
+     "fix": "所引 2025 年《Reconciling the Discrepancy in Projected Global Dryland Expansion》（被引30）指出大陆变干与旱地扩张会加速环境退化与荒漠化，但常用的干旱指数对变干速率的评估并不一致；本条「荒漠化的评估存在口径差异、旱地扩张与气候变干相关」据此。"
+    },
+    {
+     "source": "openalex-W1981593648",
+     "field": "influence",
+     "claim": "所引 1998 年研究讨论全球变化对旱地生态系统的冲击：气候变率与土地利用等干扰事件叠加，可把系统推过韧性阈值而造成非线性退化；低复发频率的干扰尤为关键。",
+     "abstract_evidence": "The role of disturbances and low recurrence events in triggering non-linear changes by driving ecosystems beyond their resilience thresholds is outlined. Particular attention is paid to the development of spatial structures as feedbacks that tend to buffer degradation. Secondly, the synergetic operation of climatic and anthropogenic forcing factors of dryland degradation is discussed in the light of some case histories. Changes in one group of those factors often render the ecosystems particularly sensitive to changes of those in the second group.",
+     "verdict": "SOFT",
+     "reason": "摘要称干扰与低复发事件可触发非线性变化、气候与人为因子协同；「尤为关键」为程度放大",
+     "fix": "所引 1998 年研究讨论全球变化对旱地生态系统的冲击：干扰与低复发频率事件可把系统推过韧性阈值而触发非线性变化，气候与人为因子的协同作用会加剧旱地退化。"
+    }
+   ]
+  },
+  {
+   "title": "地图投影",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2895438346",
+     "field": "influence",
+     "claim": "所引 2018 年研究对 24 本普通制图学教科书做内容分析，结论是：投影性质各书都讲，但变形图示方法与基准面的讲解不一致或很少提及；作者据此提出三项改进建议（坐标系统、读者理解实验、Web Mercator 等技术影响）。",
+     "abstract_evidence": "a content analysis of projection material discussed in 24 cartography textbooks published during the twentieth and early twenty-first centuries. Results suggest that some material, such as projection properties, was discussed in all textbooks across the study period. Other material, such as methods used to illustrate distortion patterns, and the importance of datums, was either inconsistently presented or rarely mentioned. Comparing recent developments in projections to the results of the content analysis, I offer three recommendations that future cartography textbooks should follow when considering what projection material is important. First, textbooks should discuss the importance that defining a coordinate system has in the digital environment. Second, textbooks should summarize the results from experimental studies that provide insights into how map readers understand projections and how to choose appropriate map projections. Third, textbooks should review the impacts of technology on projections, such as the web Mercator projection, programming languages, and the challenges of projecting raster data.",
+     "verdict": "PASS",
+     "reason": "24 本教科书、讲解不一致与三项建议均与摘要一致",
+     "fix": "所引 2018 年研究对 24 本普通制图学教科书做内容分析，结论是：投影性质各书都讲，但变形图示方法与基准面的讲解不一致或很少提及；作者据此提出三项改进建议（坐标系统、读者理解实验、Web Mercator 等技术影响）。"
+    }
+   ]
+  },
+  {
+   "title": "争议边界处理原则",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W3216751933",
+     "field": "influence",
+     "claim": "所引 2021 年研究指出：当高潮线地物或大陆领土的主权存在争议时，通常会出现两组重叠主张——一组针对陆地本身，另一组针对该陆地所享有的海域；国家在提出陆地主张后几乎必然随之提出海域主张，形成第二层重叠。",
+     "abstract_evidence": "Two sets of overlapping claims are created in disputes in which the issues of dispute to title and disputed waters are combined: one set that pertains to the land territory as such, and the other to the maritime zones the land territory is entitled to. Sovereignty claims by States to a high-tide feature or land territory are almost invariably followed by making claims to the maritime zones that they are entitled to, thereby creating a second layer of overlapping claims that relate to the adjacent waters.",
+     "verdict": "PASS",
+     "reason": "两层重叠主张与摘要一致",
+     "fix": "所引 2021 年研究指出：当高潮线地物或大陆领土的主权存在争议时，通常会出现两组重叠主张——一组针对陆地本身，另一组针对该陆地所享有的海域；国家在提出陆地主张后几乎必然随之提出海域主张，形成第二层重叠。"
+    },
+    {
+     "source": "openalex-W2942131961",
+     "field": "influence",
+     "claim": "所引 2015 年《Equitable Principles of Maritime Boundary Delimitation》（被引117，摘要 927 字符）讨论公平原则在国际法中的角色，并以海洋划界为案例。",
+     "abstract_evidence": "This book deals with the role of equity in international law, and offers a detailed case study on maritime boundary delimitation in the context of the enclosure movement in the law of the sea.",
+     "verdict": "PASS",
+     "reason": "公平原则角色与海洋划界案例与摘要一致",
+     "fix": "所引 2015 年《Equitable Principles of Maritime Boundary Delimitation》（被引117，摘要 927 字符）讨论公平原则在国际法中的角色，并以海洋划界为案例。"
+    }
+   ]
+  },
+  {
+   "title": "森林覆盖变化",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "土地利用变化",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "生物多样性分布",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W3037032979",
+     "field": "influence",
+     "claim": "所引 2021 年研究以墨西哥的哺乳动物为例，评估系统发育多样性（PD）的空间格局：东南部 PD 最高；现有保护区网络已较好覆盖了系统发育树的广度；保护区内外的 beta 多样性组成十分相近；保护区按近北极、新热带与墨西哥过渡带三类生物地理区聚类。",
+     "abstract_evidence": "The southeastern part of Mexico was found to be the most diverse. The breadth of the phylogenetic tree was well represented within the protected areas. Beta-diversity analyses showed that the species composition between protected and unprotected areas is very similar. Protected areas group based on the phylogenetic composition of mammal species into three clusters corresponding to the Nearctic, Neotropical, and Mexican Transition Zone biogeographical regions",
+     "verdict": "PASS",
+     "reason": "PD 空间格局与保护区聚类均与摘要一致",
+     "fix": "所引 2021 年研究以墨西哥的哺乳动物为例，评估系统发育多样性（PD）的空间格局：东南部 PD 最高；现有保护区网络已较好覆盖了系统发育树的广度；保护区内外的 beta 多样性组成十分相近；保护区按近北极、新热带与墨西哥过渡带三类生物地理区聚类。"
+    }
+   ]
+  },
+  {
+   "title": "海洋保护区",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "极端贫困空间分布",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "能源转型",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "碳排放空间差异",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "人口年龄结构",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "城市热岛",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2093386355",
+     "field": "influence",
+     "claim": "所引 2005 年研究分析热岛强度（UHI）随纬度的变化：UHI 从低纬向高纬增强；但纬度只能解释约 6% 的方差，说明其他因子占主导。",
+     "abstract_evidence": "1. The UHI shows a trend to increase from low to high latitudes 2. The part of the observed variance of the UHI explained by its latitudinal variation, however, remains relatively small with about 6 %.",
+     "verdict": "PASS",
+     "reason": "纬度趋势与约 6% 方差与摘要一致",
+     "fix": "所引 2005 年研究分析热岛强度（UHI）随纬度的变化：UHI 从低纬向高纬增强；但纬度只能解释约 6% 的方差，说明其他因子占主导。"
+    }
+   ]
+  },
+  {
+   "title": "湿地与水资源",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  }
+ ]
+}

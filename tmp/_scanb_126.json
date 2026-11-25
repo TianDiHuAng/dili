@@ -1,0 +1,656 @@
+[
+ {
+  "title": "冰芯气候记录",
+  "fields": {
+   "definition": "冰芯气候记录：从冰盖钻孔取得的冰层序列，封存气泡与尘埃，用于重建古大气与温度变化。",
+   "overview": "从冰盖钻孔取得的冰层序列，封存气泡与尘埃，用于重建古大气与温度变化。",
+   "geo": "冰层逐年积累，深层冰对应更早时期；气泡中的气体成分与同位素比值可推算当时大气组成与温度。钻探点选择受冰流与地形影响。 所引 2024 年研究用逆冰流模型（1D/2.5D）为冰芯钻探点定年，给出约 145 万年尺度；本条「深层冰对应更早时期、钻探点选择受冰流与地形影响」据此。",
+   "influence": "冰芯提供古大气成分与温度的直接证据，是气候研究的关键资料；解释需结合模型与其他代用指标，不能单靠单一冰芯下结论。 所引 2024 年研究对冰芯钻探点的年代—冰流建模；本条「冰芯定年依赖流动模型」据此。",
+   "polities": "多国钻探计划通过国际合作共享样品与数据，形成长期观测体系；具体计划与条款待研究机构核验。",
+   "connections": "极地冰芯与海洋沉积等记录共同构成全球古气候证据网络。",
+   "today": "年代标定与气体数据需按年份从 NASA 研究机构核验。",
+   "time_or_place": "近百万年"
+  },
+  "sources": [
+   {
+    "id": "nasa-ice-cores",
+    "title": "Paleoclimatology: The Ice Core Record - NASA Science"
+   },
+   {
+    "id": "nasa-ice-sheets",
+    "title": "Ice Sheets - Earth Indicator - NASA Science"
+   },
+   {
+    "id": "openalex-W7152141455",
+    "title": "OpenAlex W7152141455 — Modelling age and ice flow at ice core drill sites in Antarctica",
+    "oa": {
+     "title": "Modelling age and ice flow at ice core drill sites in Antarctica",
+     "year": 2024,
+     "abstract": "Modélisation de l'âge et de l'écoulement de la glace sur les sites de forage de carottes de glace en Antarctique Les carottes de glace permettent aux scientifiques d'étudier le climat du passé et plus la glace est ancienne, plus nous pouvons remonter dans le temps. Dans la recherche de glace ancienne, les modèles d'écoulement de la glace sont un outil inestimable. Dans cette thèse, nous utilisons des modèles inverses qui sont contraints par les isochrones observées dans les études radar, datées en les reliant aux chronologies des carottes de glace existantes. Nous avons développé un modèle 1D et l'avons appliqué à la région du Dôme C (DC), en examinant les sites de carottes de glace déjà sélectionnés et les nouvelles zones potentielles d'intérêt. Nous avons exploré la nature d'une unité basale de 200~m d'épaisseur qui a été observée indépendamment lors d'une étude radar et dont le modèle 1D a supposé qu'elle était verticalement stagnante. Ce travail a révélé que dans le cadre du projet Beyond EPICA de forage de carottes de glace à Petit Dome C (Little Dome C, LDC), l'âge maximal modélisé de la glace, défini lorsque la densité de l'âge est de 20 kyr/m, est de 1,45±0,16~Ma. Nous avons également étudié la relation âge-profondeur à North Patch, près du sommet du Dôme C, et avons constaté qu'il pourrait y avoir de la glace plus ancienne, potentiellement avec une meilleure résolution d'âge que la carotte de glace Beyond EPICA (BELDC), bien que le risque de fonte basale soit plus élevé. Afin d'évaluer la capacité du modèle 1D à représenter les conditions glaciologiques dans la région du Dôme C, nous avons développé un modèle 2,5D. Il prend en compte l'écoulement horizontal de la glace, alors que le modèle 1D ne le fait pas, ce qui nous permet de déterminer les trajectoires des particules de glace à travers la calotte glaciaire. Un tube d'écoulement a été déterminé depuis le sommet du DC jusqu'au LDC, en passant par les sites de forage EPICA Dome C (EDC) et BELDC. Les résultats suggèrent que la glace la plus profonde à BELDC provient d'environ 15~km en amont et que l'âge maximum est d'environ 1,12~Ma, ce qui est significativement plus jeune que l'âge du modèle 1D. Comme le modèle 2.5D prend en compte davantage de processus physiques, il est en théorie approprié pour un plus grand nombre de sites. Nous avons donc appliqué le modèle à la ligne d'écoulement entre le Dôme Fuji (DF) et l'emplacement de la carotte de glace EPICA Dronning Maud Land (EDML) le long de la ligne de partage des glaces. Comme une modélisation similaire avait été réalisée précédemment avec un modèle plus complexe, il s'agissait d'un moyen de valider notre modèle et d'examiner l'origine spatiale de la glace dans la carotte de glace de l'EDML. Les conclusions de cette thèse ne sont pas seulement intéressantes pour les projets actuels de forage de carottes de glace, mais peuvent s'avérer utiles dans la recherche future de glace ancienne. L'âge mesuré de la carotte de glace Beyond EPICA, qui sera bientôt forée, donnera certainement un aperçu de la précision des résultats de ces modèles."
+    }
+   }
+  ]
+ },
+ {
+  "title": "松岛冰川退缩",
+  "fields": {
+   "definition": "松岛冰川退缩：西南极的松岛冰川质量损失与接地线后退现象。",
+   "overview": "松岛冰川退缩：西南极的松岛冰川质量损失与接地线后退现象。",
+   "geo": "冰川注入阿蒙森海，冰架漂浮于暖海水之上，海底地形与洋流温度决定融化速率；周围无大型冰架遮挡。",
+   "influence": "所引 2002 年《Annals of Glaciology》研究显示：1990 年代该冰川与思韦茨冰川加速、8 年内冰流速度增加约 18±2%，并明确指出当时的观测尚不足以确定原因。海洋暖水入侵作为机制属于后续研究的方向，本条不将其写作已由该文献证实的结论。",
+   "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+   "connections": "与思韦茨冰川同属西南极冰盖的脆弱区，二者合计的潜在海平面贡献是海平面研究关注重点。",
+   "today": "（本条的当代指标不在本页展开。）",
+   "time_or_place": "20世纪末以来持续观测（加速信号见于1990年代以后）"
+  },
+  "sources": [
+   {
+    "id": "nasa-pine-island",
+    "title": "Retreat at Pine Island Glacier"
+   },
+   {
+    "id": "s049-ncei-noaa-gov",
+    "title": "National Centers for Environmental Information (NCEI)"
+   },
+   {
+    "id": "openalex-W2016162897",
+    "title": "OpenAlex W2016162897 — Acceleration of Pine Island and Thwaites Glaciers, West Antarctica",
+    "oa": {
+     "title": "Acceleration of Pine Island and Thwaites Glaciers, West Antarctica",
+     "year": 2002,
+     "abstract": "Recent satellite investigations revealed that in the 1990s the grounding line of Pine Island and Thwaites Glaciers, West Antarctica, retreated several km, the ice surface on the interior of the basins lowered 10 cm a –1 , and Pine Island Glacier thinned 1.6 ma –1 . These observations, however, were not sufficient to determine the cause of the changes. Here, we present satellite radar interferometry data that show the thinning and retreat of Pine Island Glacier are caused by an acceleration of ice flow of about 18 ± 2% in 8 years. Thwaites Glacier maintained a nearly constant flow regime at its center, but widened along the sides, and increased its 30 ± 15% mass deficit by another 4% in 4 years. The combined mass loss from both glaciers, if correct, contributes an estimated 0.08 ± 0.03 mma –1 global sea-level rise in 2000."
+    }
+   },
+   {
+    "id": "s010-unesco-org",
+    "title": "Culture | UNESCO"
+   }
+  ]
+ },
+ {
+  "title": "大陆漂移",
+  "fields": {
+   "definition": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。",
+   "overview": "大陆漂移：认为大陆曾连成整体并彼此移动的学说，由魏格纳等人在20世纪初提出。",
+   "geo": "证据包括大西洋两岸海岸线轮廓的吻合、跨洋地层与化石的连续性、以及古气候标志的分布；这些证据分布在多个大陆。",
+   "influence": "该学说的成立过程是科学史案例：最初因缺乏机制而受质疑，直到海底扩张与古地磁证据出现才被接受——说明「观察到的分布」与「解释机制」是两件事。",
+   "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+   "connections": "与地震带、火山带、海岭的全球分布相连，是理解造山带与洋盆形成的基础框架。",
+   "today": "（本条的当代指标不在本页展开。）",
+   "time_or_place": "20世纪初提出的学说（魏格纳 1912年前后），后由板块构造理论取代并整合"
+  },
+  "sources": [
+   {
+    "id": "usgs-dynamic-earth",
+    "title": "This Dynamic Earth--Contents [USGS]"
+   },
+   {
+    "id": "un-m49",
+    "title": "UNSD — Methodology"
+   },
+   {
+    "id": "openalex-W2476421376",
+    "title": "OpenAlex W2476421376 — The Continental Drift Controversy Wegener and the Early Debate",
+    "oa": {
+     "title": "The Continental Drift Controversy Wegener and the Early Debate",
+     "year": 2012,
+     "abstract": "Resolution of the sixty year debate over continental drift, culminating in the triumph of plate tectonics, changed the very fabric of Earth science. This four-volume treatise on the continental drift controversy is the first complete history of the origin, debate and gradual acceptance of this revolutionary theory. Based on extensive interviews, archival papers and original works, Frankel weaves together the lives and work of the scientists involved, producing an accessible narrative for scientists and non-scientists alike. This first volume covers the period in the early 1900s when Wegener first pointed out that the Earth's major landmasses could be fitted together like a jigsaw and went on to propose that the continents had once been joined together in a single landmass, which he named Pangaea. It describes the reception of Wegener's theory as it splintered into sub-controversies and geoscientists became divided between the 'fixists' and 'mobilists'."
+    }
+   },
+   {
+    "id": "s010-unesco-org",
+    "title": "Culture | UNESCO"
+   }
+  ]
+ },
+ {
+  "title": "洋流",
+  "fields": {
+   "definition": "洋流：全球热量再分配的重要机制，影响沿岸气候与渔场。",
+   "overview": "全球热量再分配的重要机制，影响沿岸气候与渔场。",
+   "geo": "洋流由风应力与密度差驱动、并受地转平衡约束（所引 2001 年研究以海洋边缘密度约束环流结构，支持「密度差驱动」这一环节）；形成表层环流与深层翻转环流。（「海盆形状与海峡决定路径」为本条常识性表述，未挂该文献。） 所引 1969 年《Climate and the Ocean Circulation》（被引 120）讨论海洋环流与气候的关系；本条「洋流通过热量再分配影响大陆气候」据此。",
+   "influence": "洋流再分配热量与营养盐，影响沿岸气候与渔场。气候效应重要，但与大气环流、地形共同作用，不能单因解释。",
+   "polities": "海洋观测与航运依赖国际协作，航线与海底设施受海流影响；具体制度与年代待专门来源核验。",
+   "connections": "洋流连接各大洋，把热量、碳与生物幼体输送到远距离海域。",
+   "today": "来源：NOAA CO-OPS 洋流观测站元数据 API（查询时点 2026年11月22日）：当前登记 84 个洋流观测站。该站网仅覆盖美国沿岸水域，不代表全球洋流观测布局；全球洋流场的估算需结合卫星高度计与浮标阵列数据。站网目录为实时登记，数量随查询时刻变化，以查询返回为准。",
+   "time_or_place": "全年"
+  },
+  "sources": [
+   {
+    "id": "britannica-regions",
+    "title": "UNSD — Methodology"
+   },
+   {
+    "id": "wikipedia-regions",
+    "title": "UNSDG"
+   },
+   {
+    "id": "un-m49",
+    "title": "UNSD — Methodology"
+   },
+   {
+    "id": "ap-human-geo",
+    "title": "Our World in Data"
+   },
+   {
+    "id": "noaa-current-stations",
+    "title": "NOAA CO-OPS — Currents Station Metadata (JSON)"
+   },
+   {
+    "id": "openalex-W1556419777",
+    "title": "OpenAlex W1556419777 — Using ocean margin density to constrain ocean circulation and surface wind strength in the past",
+    "oa": {
+     "title": "Using ocean margin density to constrain ocean circulation and surface wind strength in the past",
+     "year": 2001,
+     "abstract": "The density structure along the ocean margins carries an integrated imprint of ocean circulation. The difference in pressure between the eastern and western margins of the ocean reflects the net meridional geostrophic transport across the ocean basin. If one assumes that the wind driven circulation is closed in the upper ocean, the wind driven component of the net geostrophic transport is equal in magnitude and opposite in direction to the Ekman transport. The remainder of the net meridional geostrophic transport is the upper branch of the thermohaline meridional overturning circulation. The meridional geostrophic transports calculated using the ocean margin density data collected during World Ocean Circulation Experiment (WOCE) reflect both the wind driven and thermohaline overturning circulations. Density along the ocean margins for times in the past can be estimated from the oxygen isotopic composition of benthic foraminifera. These ocean margin density estimates can then be used to help constrain the shear in the meridional overturning circulation, the strength of zonal surface winds over the oceans, and the resulting wind driven circulation. These data will also provide an important complement to existing paleoceanographic reconstructions of surface conditions and deep water tracer fields which are currently used to constrain models of past ocean circulation."
+    }
+   },
+   {
+    "id": "openalex-W2328457086",
+    "title": "OpenAlex W2328457086 — CLIMATE AND THE OCEAN CIRCULATION",
+    "oa": {
+     "title": "CLIMATE AND THE OCEAN CIRCULATION",
+     "year": 1969,
+     "abstract": "A general circulation model of the joint ocean-atmosphere system is constructed by combining an ocean model and an atmospheric model. The quantities exchanged between the oceanic part and the atmospheric part of the joint model are momentum, heat, and water. Integration of the atmospheric part yields the surface wind stress, net radiation, sensible heat flux, rates of rainfall and snowfall, rates of evaporation and sublimation, and rates of runoff and iceberg formation, all of which constitute the upper boundary conditions for the oceanic part of the model. From the oceanic part, the thickness of ice and the distribution of sea-surface temperature, which constitute the lower boundary conditions for the atmospheric part of the model, are computed. An approach toward a quasi-equilibrium state of the joint ocean-atmosphere system is attempted by numerical time integration of the joint model. Since the thermal relaxation time of the oceanic part of the model is much longer than that of the atmospheric part, a special technique for economizing the computation time is developed. Although a state of quasi-equilibrium is not reached satisfactorily, the time variation of the atmospheric “climate” is extremely slow toward the end of the time integration. A detailed analysis of the final solution at the end of the integration is carried out. According to this analysis, the distributions of various heat balance components such as radiation flux and the turbulent flux of sensible and latent heat compare favorably with the corresponding distributions in the actual atmosphere estimated by Budyko and London. By comparing the final state of the joint model atmosphere with the quasi-equilibrium state of the previous atmosphere without an active ocean, it is possible to identify the effect of an ocean circulation on the general circulation of the atmosphere. For example, the poleward transport of heat by an ocean circulation reduces the meridional gradient of atmospheric temperature and vertical wind shear in the troposphere. This reduction of vertical wind shear lowers the level of baroclinic instability and causes a general decrease in the magnitude of eddy kinetic energy in the atmosphere. The air mass modification by the energy exchange between the model ocean and atmosphere creates a favorable place for the development of cyclones off the east coast of the continent in high latitudes. In the Tropics, the upwelling of relatively cold water at the Equator suppresses the intensity of rainfall in the oceanic region and increases it in the continental region. This increase significantly alters the hydrology of the tropical continent. In middle and subtropical latitudes, the advection of warm water by the subtropical gyre increases the flux of sensible and latent heat from the ocean to the atmosphere along the east coast of the continent and increases the intensity of precipitation in the coastal region. The subtropical desert of the joint model is more or less confined to the western half of the continent. In high latitudes, the advection of warm water by the subarctic gyre off the west coast of the continent increases the energy exchange and precipitation there. Most of these modifications contribute to make the hydrology of the joint model highly realistic despite the idealization of the land-sea configuration."
+    }
+   }
+  ]
+ },
+ {
+  "title": "气候带",
+  "fields": {
+   "definition": "气候带：从赤道到极地的热量分带，是理解全球地理格局的基础。",
+   "overview": "从赤道到极地的热量分带，是理解全球地理格局的基础。",
+   "geo": "气候带按纬度、热量与降水划分，从赤道到极地呈大致带状分布，但海陆分布与地形会造成偏离。 所引 1994 年《On coupling global biome models with climate models》（被引 145）把预测全球植被格局的 BIOME 模型与 ECHAM 气候模型耦合，用以模拟气候与生物群区的对应关系；本条「气候带与植被类型相关、随气候变化而移动」据此。",
+   "influence": "气候带帮助理解农业、植被与聚落差异，是地理分析的基础框架。分类是简化工具，边界并非绝对，不能当作硬边界。",
+   "polities": "不同气候区的资源利用方式各异，制度与历史同样塑造区域差异；具体分类体系待专门来源核验。",
+   "connections": "气候带与季风、洋流和地形相互作用，形成区域气候组合。",
+   "today": "来源：世界银行 API（指标 AG.LND.ARBL.ZS，可耕地占土地面积比例）：全球 2023年 10.67%。该指标反映土地利用强度，不区分气候带；气候带界线与各带面积需专门气候分类来源核验。",
+   "time_or_place": "纬度分异"
+  },
+  "sources": [
+   {
+    "id": "britannica-regions",
+    "title": "UNSD — Methodology"
+   },
+   {
+    "id": "wikipedia-regions",
+    "title": "UNSDG"
+   },
+   {
+    "id": "un-m49",
+    "title": "UNSD — Methodology"
+   },
+   {
+    "id": "ap-human-geo",
+    "title": "Our World in Data"
+   },
+   {
+    "id": "wb-wld-arable",
+    "title": "World Bank API — Arable land (% of land area, 全球)"
+   },
+   {
+    "id": "openalex-W3124273658",
+    "title": "OpenAlex W3124273658 — Observed and projected changes in global climate zones based on Köppen climate classification",
+    "oa": {
+     "title": "Observed and projected changes in global climate zones based on Köppen climate classification",
+     "year": 2021,
+     "abstract": "In recent years, there has been a growing body of literature applying the Köppen classification scheme to investigate the changes in the distribution of bioclimatic conditions. Area changes and latitude and elevation shifts of Köppen climate zones have been examined based on the observed and projected datasets. This review article provides a comprehensive insight into the changes in global Köppen climate zones. First, we summarize the advancements and limitations of different climate zone definitions and assess the available climate classification map products. We then review recent detection and assessment studies on observed and projected climate zone changes. Finally, we summarize the findings of the previous studies. It has been proven that changes in climate zones under global warming can have far‐reaching impacts on ecological systems. Since the 1980s, anthropogenic accelerated global warming has already led to shifts in climatic conditions over a large land area. Hot tropics and arid climates are projected to expand into large areas of middle and high latitudes, an expansion that is potentially linked to the intensification of the global hydrologic cycle. Driven by increased warming in the Arctic, high‐latitude climates will shift poleward and upward, leading to a significant area shrinkage of the polar climate zones. However, due to the large model uncertainties, the detectability of significant climate zone changes through observations and projections, the rate and time of the changes, and their causes remain unclear. In this paper, we identify the research gaps and propose directions for future research. This article is categorized under: Paleoclimates and Current Trends > Modern Climate Change"
+    }
+   },
+   {
+    "id": "openalex-W2046345013",
+    "title": "OpenAlex W2046345013 — On coupling global biome models with climate models",
+    "oa": {
+     "title": "On coupling global biome models with climate models",
+     "year": 1994,
+     "abstract": "The BIOME model of Prentice et al. (1992; J. Biogeogr.19: 117-134), which predicts global vegetation patterns in equilibrium with climate, was coupled with the ECHAM climate model of the Max-Planck-Institut fiir Meteorologie, Hamburg, Germany.It was found that incorporation of the BIOME model into ECHAM, regardless at which frequency, does not enhance the simulated climate variability, expressed in terms of differences between global vegetation patterns.Strongest changes are seen only between the initial biome distribution and the biome distribution computed after the first simulation period, provided that the climate-biome model is started from a biome distribution that resembles the present-day distribution.After the first simulation period, there is no significant shrinking, expanding, or shifting of biomes.Likewise, no trend is seen in global averages of land-surface parameters and climate variables.Significant differences in the results of the climate-biome model are found when single-year and multl-year climatologies are compared regardless whether climate and biome model are used in an off-line mode or are interactively integrated.It is concluded that a biome model should be coupled with a climate model in the following way: firstly, the climate model should be integrated over several years; secondly, a biome distribution should be computed from the corresponding multi-year simulated climatology; finally, land-surface parameters are to be deduced from the biome distribution as boundary condition of the climate model for a subsequent integration, and so on until an equilibrium is established.Starting the climate-biome model from a biome map which drastically differs from today's global distribution of biomes, but keeping present-day ocean temperatures fixed, it takes several iterations until the model finds a new equilibrium differing from the present-day vegetation distribution in certain parts of the globe.This study indicates that the results of the climatebiome model are dependent on the initial land-surface conditions."
+    }
+   }
+  ]
+ },
+ {
+  "title": "冲积平原",
+  "fields": {
+   "definition": "冲积平原：河流携带的沉积物在河谷或下游堆积形成的平坦地形。",
+   "overview": "冲积平原：河流携带的沉积物在河谷或下游堆积形成的平坦地形。",
+   "geo": "由河道反复迁移与泛滥堆积形成，沉积物以砂、粉砂与黏土互层；地形极平坦，坡度常小于1‰，微地形决定排水与土壤差异。 所引 2020 年《Channel-floodplain response to changes in sediment supply and floodplain width》（被引2，摘要 1,597 字符）讨论泥沙供给与河漫滩宽度如何影响冲积河道与漫滩的几何形态和演化，对应冲积平原的形成过程；属水槽或模型类研究章节，被引很少，证据强度有限。 所引 2016 年《Alluvial plain dynamics in the southern Amazonian foreland basin》（被引33，摘要 1,804 字符）指出冲积平原由河流向邻近泛洪盆地堆积的沉积物构成，主要经决口扇与改道（crevasse splays and avulsions）实现；本条「由河道反复迁移与泛滥堆积形成」据此。",
+   "influence": "所引 2005 年研究以不连续界面划分冲积序列，说明平原的堆积并非连续均匀，而是由洪水事件与河道改道分段形成——这决定了对平原地层与古洪水记录的解释方式。",
+   "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+   "connections": "连接上游侵蚀区与下游三角洲，是泥沙与水量的输送通道，也是农业与聚落最密集的地带。",
+   "today": "（本条的当代指标不在本页展开。）",
+   "time_or_place": "地质尺度（本条引 2005 年冲积序列研究）"
+  },
+  "sources": [
+   {
+    "id": "s015-fao-org",
+    "title": "Land, Soil and Water | FAO"
+   },
+   {
+    "id": "s016-fao-org",
+    "title": "Land overview | Land, Soil and Water | FAO"
+   },
+   {
+    "id": "openalex-W2154930938",
+    "title": "OpenAlex W2154930938 — Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength",
+    "oa": {
+     "title": "Discontinuity-Bounded Alluvial Sequences of the Southern Gangetic Plains, India: Aggradation and Degradation in Response to Monsoonal Strength",
+     "year": 2005,
+     "abstract": "Discontinuity-bounded late Quaternary sequences in the southern Gangetic Plains (Himalayan Foreland Basin) reflect floodplain aggradation and degradation in response to forcing by the powerful Southwest Indian Monsoon. The major Himalayan and cratonic rivers in this area occupy narrow, incised valleys and do not inundate the adjoining broad interfluves, which display soil development, small plains-fed rivers, lakes, eolian deposits, and badland ravines. However, these areas formerly experienced active alluviation because thick floodplain muds underlie the interfluve. An age model suggests that interfluve areas near the major rivers aggraded periodically between about 27 ka and 90 ka (Marine Oxygen Isotope Stages 3–5). They subsequently degraded or accumulated sediment only locally, probably reflecting decreased monsoonal precipitation around the Last Glacial Maximum (Marine Isotope Stage 2), when major river valleys moved to an underfit condition. Increased precipitation during the 15 to 5 ka period of monsoon recovery probably increased discharge and promoted incision and widespread badland formation. Discontinuities at deeper levels reflect earlier degradation phases, and are marked by reworked gravel lenses, thin channel bodies, and carbonate-cemented surfaces. Carbonate veins (infilled joints) that cut strata below but not above one discontinuity suggest some local tectonic influence. There is no evidence that sea-level fluctuations influenced stratal patterns in this elevated, inland region. Discontinuity-bounded sequences linked to climate change may characterize alluvial successions in many continental settings, especially along the cratonic margins of foreland basins, where subsidence rates are modest."
+    }
+   },
+   {
+    "id": "s010-unesco-org",
+    "title": "Culture | UNESCO"
+   },
+   {
+    "id": "openalex-W3095474398",
+    "title": "OpenAlex W3095474398 — Channel-floodplain response to changes in sediment supply and floodplain width",
+    "oa": {
+     "title": "Channel-floodplain response to changes in sediment supply and floodplain width",
+     "year": 2020,
+     "abstract": "Flow regime, sediment supply and base level control geometry and evolution of alluvial channels and floodplains. Single thread rivers subject to constant forcing can reach equilibrium conditions in which the amount of sediment deposited on the floodplain through point bar deposition and overbank sedimentation is balanced by erosion of floodplain sediment through channel migration. At equilibrium, floodplain slope and sediment size distribution, reach-averaged channel geometry (width and depth) and channel migration rates do not change in time. In response to changes in sediment supply and floodplain width, channel geometry and migration rate, floodplain slope and size distribution are expected to evolve in space and time. Predicting this response remains an open problem for geoscientists and engineers. Here we use an equilibrium solution of a 1D morphodynamic framework of channel-floodplain evolution to investigate how equilibrium conditions change as a function of sediment supply and floodplain width. Sediment is modeled here as a mixture of two grain sizes, sand and mud. Channel migration rate and width are functions of near-bank flow properties and floodplain characteristics. We zero the model using input parameters based on the pre-1930 ~ reach of the Minnesota River from Mankato to Jordan, USA, where data is available for proper field scale model verification. We then use the validated model to quantify the long-term (equilibrium) response of the schematic reach to changes in sediment supply magnitude and size distribution, as well as to changes in floodplain width."
+    }
+   },
+   {
+    "id": "openalex-W1755791855",
+    "title": "OpenAlex W1755791855 — Alluvial plain dynamics in the southern Amazonian foreland basin",
+    "oa": {
+     "title": "Alluvial plain dynamics in the southern Amazonian foreland basin",
+     "year": 2016,
+     "abstract": "Alluvial plains are formed with sediments that rivers deposit on the adjacent flood-basin, mainly through crevasse splays and avulsions. These result from a combination of processes, some of which push the river towards the crevasse threshold, while others act as triggers. Based on the floodplain sedimentation patterns of large rivers in the southern Amazonian foreland basin, it has been suggested that alluvial plain sediment accumulation is primarily the result of river crevasse splays and sheet sands triggered by above-normal precipitation events due to La Niña. However, more than 90 % of the Amazonian river network is made of small rivers and it is unknown whether small river floodplain sedimentation is influenced by the ENSO cycle as well. Using Landsat images from 1984 to 2014, here I analyse the behaviour of all 12 tributaries of the Río Mamoré with a catchment in the Andes. I show that these are very active rivers and that the frequency of crevasses is not linked to ENSO activity. The data suggest that most of the sediments eroded from the Andes by the tributaries of the Mamoré are deposited in the alluvial plains, before reaching the parent river. The mid-to-late Holocene paleo-channels of these rivers are located tens of kilometres further away from the Andes than the modern crevasses. I conclude that the frequency of crevasses is controlled by intrabasinal processes that act on a yearly to decadal timescale, while the average location of the crevasses is controlled by climatic or neo-tectonic events that act on a millennial scale. Finally, I discuss the implications of river dynamics on rural livelihoods and biodiversity in the Llanos de Moxos, a seasonally flooded savannah covering most of the southern Amazonian foreland basin and the world's largest RAMSAR site."
+    }
+   }
+  ]
+ },
+ {
+  "title": "山地农业",
+  "fields": {
+   "definition": "山地农业：在高海拔或陡坡地区进行的农业生产系统。",
+   "overview": "山地农业：在高海拔或陡坡地区进行的农业生产系统。",
+   "geo": "山地随海拔升高温度下降、坡度增大，土层薄、侵蚀风险高；不同海拔带适合不同作物，梯田与等高耕作是控制水土流失的基本手段。",
+   "influence": "所引 1998 年研究以肯尼亚高地的长期试验讨论土壤有机碳组分作为诊断指标，说明山地农业的可持续性取决于有机质维持，而这一点对施肥与休耕制度高度敏感。 所引 2022 年《A Future for Mountain Terraces》（被引16，摘要 1,779 字符）讨论山地梯田农业的经验与前景；本条「山地农业以梯田、等高耕作与水土保持适应坡度」据此。",
+   "polities": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+   "connections": "山地农业区常处于流域上游，其水土管理直接影响下游的水量与泥沙。",
+   "today": "（本条的当代指标不在本页展开。）",
+   "time_or_place": "现代农业研究（本条引 1998 年肯尼亚高地长期试验研究）"
+  },
+  "sources": [
+   {
+    "id": "s016-fao-org",
+    "title": "Land overview | Land, Soil and Water | FAO"
+   },
+   {
+    "id": "s015-fao-org",
+    "title": "Land, Soil and Water | FAO"
+   },
+   {
+    "id": "openalex-W1972724176",
+    "title": "OpenAlex W1972724176 — Soil organic carbon fractions in a long-term experiment and the potential for their use as a diagnostic assay in highland farming systems of Central Kenya",
+    "oa": {
+     "title": "Soil organic carbon fractions in a long-term experiment and the potential for their use as a diagnostic assay in highland farming systems of Central Kenya",
+     "year": 1998,
+     "abstract": "African Crop Science Journal,Vol. 6. No. 1, pp. 19-28, 1998 Soil organic carbon fractions in a long-term experiment and the potential for their use as a diagnostic assay in highland farming systems of Central Kenya J. J. Kapkiyai, N. K. Karanja, P. Woomer and J. N. Qureshi Code Number:CS98003 Sizes of Files: Text: 29.9K Graphics: Line drawings and tables (gif) - 52.3K ABSTRACT Soil organic matter fractions provide insight into soil quality and the maintenance of crop productivity in smallhold cropping systems. Soil organic carbon (SOC) pools were measured and compared to crop performance during the eighteenth year of a long-term field experiment established on a Humic Nitisol at the Kenya Agricultural Research Institute. Maize stover retention (+S), cattle manure (+M, 10 t ha^-1 yr^-1) and fertilizer inputs (+F, 120 kg N and 23 kg P ha^-1 yr^-1) were compared in a 2 x 3 factorial arrangement in a manner that is broadly reflective of farmer resource management options. Maize (Zea mays) and beans (Phaseolus vulgaris) were cultivated in rotation during the long (March-June) and short (October-December) rains of each year, respectively. Maize yields ranged between 1.21 (+S) and 5.21 t ha^-1 (+SMF). Beans produced between 0.14 (-S) and 0.77 t ha^-1 (+SMF). Total crop yields were significantly affected by manure and fertilizer addition (P 1.37 g cm^-3) least correlated with yield (r = 0.37). When 190 Central Kenyan smallhold 'households' were surveyed, 79% were classified as maize-bean farmers and 79% of these relied on combinations of stover, manure and fertilizers to maintain soil fertility. Thus, the long-term experiment at Kabete is broadly applicable to the surrounding farming community. Soil organic matter fractions were more favourably influenced by addition of livestock manure than the retention of maize stover, suggesting that the widespread farmer practice of harvesting maize stover as animal feed and returning animal wastes may effectively contribute to soil fertility management. Key Words: Particulate organic carbon, Ludox fractions, soil microbial biomass, East African Highlands, Kenya, long-term experiment RESUME Les fractions de la matiere organique du sol constituent un element important pour la qualite des sols et pour le maintien de la productivite des cultures dans les sysemes de production de petits fermiers. Les poold de carbone organique du sol etaient determines et correle avec la performance des cultures a la huiteme annee d'un essai de longue duree installee sur un Nitosol restitution des chaumes de mais (+S), l'apport du fumier de fer,e (+M), 10t ha^-1 an^-1)etaient testes dans un essai factoriel 2 x 3 conccu de maniere a ressembler le plus aux options d'amenagement de ressource par l'agriculteur. Le mais (Zea mays) et la haricot (Phaseolus vulgaris) etaient cultives en rotation chaque anne, respectivement pendant la longue (mars-juin) et la petite (octobre-decembre) saisons de pluie. Les rendements de mais ont varie de 1.21 (+S) et 5.21t ha^-1 (+SMF). Le haricot a produit entre 0.14 (+S) et 5.21 t ha^-1 (+SMF). Les rendements totaux des cultures etaient tres significativement affectes par l'application du fumier et des engrais mineraux (P 1.37 g cm^-3) montraint la plus faible correlation avec le rendement (r -0.37). Lors de l'enquete de 190 petits exploitants du Kenya Centre, 79% de fermiers ont ete identifie comme planteur de Mais-haricot, 79% de ces fermiers utilisaient a la fois les chaumes de mais, le fumier et l'emgrais, mineral pour ,aintenir la fertilite des terres. Ainsi, l'essai de longue duree de Kabete est largement applicable au systeme de production des agriculteurs d'aux environs. Les fractions de la matiere organique du sol etaient plus favorablement influencees par l'application du fumier que la restitution des chaumes de mais. Ceci monte que la pratique repandue des agriculteurs de recolter les chaumes de mais pour les utiliser comme fourrage et de collecter ensuite le fumier pour fertiliser les champs peut effectivement contribuer a la gestion de la fertilite des sols. Mots Cles: Carbone organique en particules de sol, fractions Ludox, biomasse microbienne du sol, hautes terres d'Afrique de l'Est, Kenya, essai de longue duree. Copyright 1998 The African Crop Science Society"
+    }
+   },
+   {
+    "id": "s010-unesco-org",
+    "title": "Culture | UNESCO"
+   },
+   {
+    "id": "openalex-W4293701402",
+    "title": "OpenAlex W4293701402 — A Future for Mountain Terraces: Experiences from Mediterranean Wineries",
+    "oa": {
+     "title": "A Future for Mountain Terraces: Experiences from Mediterranean Wineries",
+     "year": 2022,
+     "abstract": "Agriculture in mountain areas is typically practiced on terraces. This form of farming is facing significant challenges across the globe related to high production costs, land abandonment, and rural depopulation. The aim of this study was to explore the viability and prospects of mountain farming using the wineries in the terraced mountains of Cyprus as a case study. A semistructured questionnaire was developed, and 11 family wineries were selected and surveyed. The study found that mountain winery owners envision a future where abandoned mountain plots are productively utilized. The survey showed that mountain wineries are financially viable agribusinesses and share a common desire for sustaining and enhancing the quality of the wine produced to support their long-term success. The revitalization of mountain farming can potentially lead to the development of other rural enterprises and create employment opportunities to sustain young families in the mountains. Investments in drystone terraces were found to be costly, especially for wineries that were located at higher elevations (€ 150/m or US$ 171.30/m) compared to those on gentler slopes and lower elevations (€ 20/m or US$ 22.84/m). Nevertheless, the majority of winery owners recognized the provision of ecosystem services by drystone terraces, such as the reduction of soil erosion and the formation of a unique mountain terroir that enables the production of niche wines. Although the survey found that subsidies for terrace construction and maintenance are a small part of the revenue for these wineries, policy measures can become more targeted, effective, and equitable by considering the actual costs of terracing, as determined by site-specific characteristics such as elevation, slope, and geology."
+    }
+   }
+  ]
+ },
+ {
+  "title": "人口迁移",
+  "fields": {
+   "definition": "人口迁移：人口在地理空间上的移动，按范围可分为区域内、跨区域与国际迁移。",
+   "overview": "人口在地理空间上的移动，按范围可分为区域内、跨区域与国际迁移。",
+   "geo": "迁移流与来源地、目的地之间的经济机会、环境条件与交通可达性相关；迁移网络一旦形成，会沿既有路径持续。OWID 迁移专题页汇总跨国迁移存量与流向数据，可作为核对口径的入口。",
+   "influence": "迁移改变人口分布与年龄结构，也影响来源地与目的地的劳动力与公共服务。迁移决策由多因素驱动，不宜归因于单一环境压力。",
+   "polities": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+   "connections": "迁移把不同区域连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
+   "today": "来源：世界银行 API（指标 SP.URB.TOTL.IN.ZS，城市人口占比）：全球 2025年 57.8%。城市化是迁移的主要流向指标之一，但不能替代净迁移率；跨国迁移存量与流向需专门迁移统计（如 UN 迁移存量表）核验。",
+   "time_or_place": "时期与年代待专门来源核验（详见待核实）"
+  },
+  "sources": [
+   {
+    "id": "owid-migration",
+    "title": "Migration | Our World in Data"
+   },
+   {
+    "id": "s004-population-un-org",
+    "title": "World Population Prospects"
+   },
+   {
+    "id": "wb-wld-urban",
+    "title": "World Bank API — Urban population (% of total, 全球)"
+   },
+   {
+    "id": "openalex-W2061929762",
+    "title": "OpenAlex W2061929762 — Patterns of migration in Arctic Alaska",
+    "oa": {
+     "title": "Patterns of migration in Arctic Alaska",
+     "year": 2009,
+     "abstract": "Migration has always been an important feature of the Arctic. This paper highlights geographic patterns of human migration in Arctic Alaska using origin and destination micro-data from the US Census Decennial Survey. Important migration patterns identified in this paper include large village to village migration flows and large negative net migration from villages to rural regional centers. Hierarchical or step-wise patterns of migration that are not purely distance determined are also observed. Also, migration backto Arctic Alaska from other Alaska and US places is important and these migration patterns conform to general hierarchical migration. Models in the new economics of migration literature appear to better explain Arctic migration patterns in Arctic Alaska compared to models focusing purely on expected wages."
+    }
+   }
+  ]
+ },
+ {
+  "title": "植物物候变化",
+  "fields": {
+   "definition": "植物物候变化：植物展叶、开花与结果等季节性事件时间的变化，是气候变化的敏感生物指示。",
+   "overview": "植物展叶、开花与结果等季节性事件时间的变化，是气候变化的敏感生物指示。",
+   "geo": "物候随纬度、海拔与局地气候而变化；暖冬与早春使部分地区春季事件提前，各地响应幅度不一致。",
+   "influence": "物候改变影响展叶与开花期的同步性，也影响农事时序安排；观测到的变化幅度因物种与地区而异，不作单一结论。 所引 2026 年文献是物候预测的软件包（PhenoFECT）；本条仅据此写「物候预测已有工具化方法」，不作趋势结论。",
+   "polities": "本条不展开政权序列；监测网络与观测规范属科研基础设施议题。",
+   "connections": "物候观测与气候记录相互关联，跨区域的观测网络使长期比较成为可能。",
+   "today": "春季物候提前是多地观测到的趋势，幅度因物种与地区而异。具体日期与趋势值需按年份从 NOAA 等机构页核验。",
+   "time_or_place": "近年观测（具体时段以来源页面为准）"
+  },
+  "sources": [
+   {
+    "id": "noaa-phenology",
+    "title": "How spring plant milestones are shifting in response to changing climate"
+   },
+   {
+    "id": "s026-ourworldindata-org",
+    "title": "Climate Change | Our World in Data"
+   },
+   {
+    "id": "openalex-W7224996787",
+    "title": "OpenAlex W7224996787 — PhenoFECT: A Python package for forecasting and exploring plant phenology under climate change",
+    "oa": {
+     "title": "PhenoFECT: A Python package for forecasting and exploring plant phenology under climate change",
+     "year": 2026,
+     "abstract": "Premise: Climate change and global warming significantly affect the timing of plant flowering in spring. Accurately predicting these phenological events is crucial for understanding plant biology and agriculture. The chill-day model (CDM) based on seasonal temperature changes has been a reliable model for predicting phenological activities; however, recent global warming has challenged its accuracy due to extreme weather variability, necessitating the adjustment of the CDM parameters to reflect recent climate change. We developed an open-source Python package, PhenoFECT (Phenology Forecasting Exploring ClimaTe), that refines temperature-based phenology models. The package enables efficient phenological analysis for open and user-specified data. Methods and Results: ). PhenoFECT was utilized to adjust the parameters of the CDM to reflect recent climate changes. The refined CDM improved the prediction accuracy of flowering at the average root mean square error (RMSE) of 5.74 days for three angiosperms. Conclusions: PhenoFECT is a versatile tool for accurate forecasting, exploration, and visualization across diverse open meteorological data. Exploring data using PhenoFECT revealed that the CDM can be influenced by geographic features and global climate phenomena."
+    }
+   }
+  ]
+ },
+ {
+  "title": "北极火情变化",
+  "fields": {
+   "definition": "北极火情变化：北极地区火灾发生频率、范围与强度的变化，与升温、干燥化和植被改变相互作用。",
+   "overview": "北极地区火灾发生频率、范围与强度的变化，与升温、干燥化和植被改变相互作用。",
+   "geo": "北极圈内分布苔原与北方针叶林，可燃物与泥炭层在暖干条件下更易燃烧。多年冻土退化改变排水与燃料条件，火情呈区域性差异。 所引 1980 年研究记录 1977 年 Seward 半岛一次苔原火后植物盖度、物种组成与土壤解冻深度的变化；本条仅据此写「单次苔原火改变地表与植被」。",
+   "influence": "火灾燃烧深入富碳土层，改变地表水文与融雪过程，并产生影响居民健康的烟雾；对生态与社区的影响取决于火季长度与管理能力。 所引 1980 年研究记录一次苔原火对土壤与植物群落的影响；本条「苔原火改变地表与植被」据此。",
+   "polities": "本条不展开政权序列；跨境监测与应急协作属区域治理议题。",
+   "connections": "火情改变地表状态与碳库，是北极系统变化的一部分；跨区域影响需结合监测数据评估。",
+   "today": "北极火季与过火面积近年受到关注。过火面积与碳排放估算需按年份从 NASA/NOAA 机构页核验。",
+   "time_or_place": "近年观测（具体时段以来源页面为准）"
+  },
+  "sources": [
+   {
+    "id": "nasa-arctic-fire",
+    "title": "Fire on Ice: The Arctic’s Changing Fire Regime"
+   },
+   {
+    "id": "s039-climate-nasa-gov",
+    "title": "Climate Change - NASA Science"
+   },
+   {
+    "id": "openalex-W270032878",
+    "title": "OpenAlex W270032878 — Effects of a Tundra Fire on Soils and Plant Communities along a Hillslope in the Seward Peninsula, Alaska.",
+    "oa": {
+     "title": "Effects of a Tundra Fire on Soils and Plant Communities along a Hillslope in the Seward Peninsula, Alaska.",
+     "year": 1980,
+     "abstract": "During summer 1977, wildfires burned extensive areas of low arctic tundra in the Seward Peninsula, Alaska. The present study was initiated in July 1978 to determine the effects of these fires on tundra soils and vegetation. Nine 10- x 1-m permanent transects were established at regular intervals along the topographic gradient of a burned hillslope in the central Seward Peninsula near Imuruk Lake. Soil characteristics and plant species density and cover were determined in each of the 90 1- x 1-m plots on this slope during July of both 1978 and 1979. Soils and vegetation had been quantitatively sampled on this slope in 1973, thereby providing pre-fire comparisons; a sedge tussock-shrub tundra community with mud circles occupied the poorly drained footslope and a birch and ericaceous shrub tundra community wth elongate turf-banked frost boils had developed on the moderately well drained backslope. The broad, poorly-drained summit was occupied by sedge-shrub tundra with low-centered polygons. The severity of burning in July 1977 varied along this slope with moderate to heavy burning of the birch and ericaceous shrub tundra and light to moderate burning of the sedge tussock-shrub tundra and sedge-shrub tundra communities. Post-fire (1978 and 1979) changes in plant cover, species composition and soil thaw depths are shown to vary with position on the slope and burning severity. The relationship of these changes to natural succession in the absence of fire is discussed. (Author)"
+    }
+   }
+  ]
+ },
+ {
+  "title": "地理信息系统",
+  "fields": {
+   "definition": "地理信息系统：用于采集、管理、分析与可视化空间数据的方法与技术体系，支撑制图、规划与区域研究。",
+   "overview": "用于采集、管理、分析与可视化空间数据的方法与技术体系，支撑制图、规划与区域研究。",
+   "geo": "空间数据以坐标与属性记录地表要素，GIS 把位置数据与描述性信息连到地图上，用于查询、空间分析与制图可视化，从而比较不同区域的区位关系。",
+   "influence": "所引 2006 年文献是区域空间决策支持系统（SDSS）的概念设计，以 GIS 为底座、外挂模型与多准则评价（被引仅 4，属工程案例，仅作旁证）。 该文同时指出：传统上 GIS 强于空间数据管理，但缺乏问题域的建模能力，须外挂模型/多准则系统方能支持决策。 这说明「GIS 作为决策支持工具」是有条件的，而非自带决策能力。",
+   "polities": "本条不展开政权序列；数据标准与互操作规范由行业组织制定，具体标准条文待专门资料核验。",
+   "connections": "GIS 通过数据标准与共享平台连接不同机构与区域，使跨边界的环境与交通议题可以统一分析。",
+   "today": "开放标准与云平台推动 GIS 普及。数据精度、覆盖范围与标准版本需按年份从 OGC/Esri 机构页核验。",
+   "time_or_place": "方法体系（形成年代待专门来源核验）"
+  },
+  "sources": [
+   {
+    "id": "esri-gis",
+    "title": "What is GIS?"
+   },
+   {
+    "id": "ogc-standards",
+    "title": "OGC Standards"
+   },
+   {
+    "id": "openalex-W1832937167",
+    "title": "OpenAlex W1832937167 — Remote Scheduling System for Drip Irrigation System Using Geographic Information System",
+    "oa": {
+     "title": "Remote Scheduling System for Drip Irrigation System Using Geographic Information System",
+     "year": 2015,
+     "abstract": "The Internet is widely accessible in Tanzania. Most of the technologies used in different organizations have changed to address their functions using web based information systems. In this paper, attempt is made to design software system using geographical information system (GIS) for the spatial and temporal distribution of irrigation supply for large-scale drip irrigation systems in Tanzania. Map based information system has gained popularity after evolution of simple tools to present spatial information using Internet. Due to water scarcity, it is envisioned that by 2050 the world won’t have enough water for communities, industries and agriculture. Web based precision irrigation system refers to deployment of remotely precision irrigation services using the application interface that connects to the Internet. Hence, this study presents the GIS in the context of precision farming to achieve precision irrigation strategy with special reference to precision farming of tea in Tanzania. The GIS-based irrigation scheduling system was designed for the scheduling daily drip irrigation water deliveries and regular monitoring of irrigation delivery performance for maximum yield. The “Scheduling” program computes the right amount of irrigation deliveries based on tea water requirements. The “Monitoring” program gives information on the uniformity of water distribution and the shortfall or excess."
+    }
+   },
+   {
+    "id": "openalex-W4230464905",
+    "title": "OpenAlex W4230464905 — Spatial (GIS-based) decision support system for the Westernport region",
+    "oa": {
+     "title": "Spatial (GIS-based) decision support system for the Westernport region",
+     "year": 2006,
+     "abstract": "This paper presents the conceptual design of a spatial decision support system (SDSS) proposed for Victorias Westernport region that aims for the sustainable and integrated (whole-of-catchment) management of regional natural resources. It is a solution integrating a range of approaches including, GIS technology, a scenario management tool, state-of-art terrestrial and marine models, environmental management strategy evaluation and multi-criteria techniques.Traditionally, GIS are key to (spatial) data management, but lack problem domain modelling capability. This means additional processing or analytical capabilities are needed to extend functionality for decision making. The Westernport SDSS builds upon a GIS but draws on models and data processing systems and interacts with other parts of an overall information system to support decision-making. This system utilises a number of models that are interlinked through a cascade of their results. Put simply, one set of model results input into the next in a modelling chain. The system will derive a set of socio-economic-environmental measures (performance indicators), such as land use, nutrient and sediment concentration in water (water quality measures), and other relevant indicators for coastal and bay ecosystems. Users will then be able to systematically compare alternative natural resource management plans and strategies in light of multiple and possibly conflicting criteria. By integrating relevant models within a structured framework, the system will promote transparency of policy development and natural resources management."
+    }
+   }
+  ]
+ },
+ {
+  "title": "人口地理",
+  "fields": {
+   "definition": "人口地理：研究人口数量、分布、结构与迁移的空间差异，以及人口变化与资源、城市和区域发展的关系。",
+   "overview": "研究人口数量、分布、结构与迁移的空间差异，以及人口变化与资源、城市和区域发展的关系。",
+   "geo": "人口在地表分布极不均衡：平原、沿海与河谷通常更密集，高寒、干旱与高海拔地区人口稀疏。分布差异与经济机会、历史聚落、交通可达性相关，而非单一自然环境决定。 所引 2006 年研究分析人口空间分布与结构；本条「人口分布的不均衡性」据此。 所引 2006 年研究以南京为例分析城市内部人口密度梯度（距 CBD 越远密度下降越快）；本条仅以该个案说明「人口密度的空间梯度可用实证刻画」，不据此支撑全球尺度的人口分布不均。",
+   "influence": "人口增长与分布变化通过劳动力供给、消费结构与迁移流向影响区域发展；生育率、死亡率与迁移共同决定结构变化。人口现象需结合社会经济条件理解，不宜归因于单一因素。",
+   "polities": "本条不展开政权序列；人口治理涉及户籍、移民与公共服务等制度安排，具体制度待专门资料核验。",
+   "connections": "人口迁移把来源地与目的地连成网络，伴随资金、信息与文化的流动，形成跨区域联系。",
+   "today": "来源：世界银行 API。总人口（指标 SP.POP.TOTL）：印度 1,463,865,525（2025年）、中国 1,406,585,000（2025年）、美国 341,784,857（2025年）、尼日利亚 237,527,782（2025年）、巴西 212,812,405（2025年）、墨西哥 131,946,900（2025年）、埃及 118,365,995（2025年）。数据按世界银行口径，可能与各国普查结果略有差异。上述为全国口径数据，仅示量级，不代表本条目所述区域的内部差异。",
+   "time_or_place": "现代人口分布与长期人口转变"
+  },
+  "sources": [
+   {
+    "id": "s023-ourworldindata-org",
+    "title": "Population Growth | Our World in Data"
+   },
+   {
+    "id": "s004-population-un-org",
+    "title": "World Population Prospects"
+   },
+   {
+    "id": "wb-chn-pop",
+    "title": "World Bank API — 总人口 (SP.POP.TOTL, CHN)"
+   },
+   {
+    "id": "wb-ind-pop",
+    "title": "World Bank API — 总人口 (SP.POP.TOTL, IND)"
+   },
+   {
+    "id": "wb-nga-pop",
+    "title": "World Bank API — 总人口 (SP.POP.TOTL, NGA)"
+   },
+   {
+    "id": "wb-bra-pop",
+    "title": "World Bank API — 总人口 (SP.POP.TOTL, BRA)"
+   },
+   {
+    "id": "wb-usa-pop",
+    "title": "World Bank API — 总人口 (SP.POP.TOTL, USA)"
+   },
+   {
+    "id": "wb-egy-pop",
+    "title": "World Bank API — 总人口 (SP.POP.TOTL, EGY)"
+   },
+   {
+    "id": "wb-mex-pop",
+    "title": "World Bank API — 总人口 (SP.POP.TOTL, MEX)"
+   },
+   {
+    "id": "openalex-W2091128307",
+    "title": "OpenAlex W2091128307 — Population Distribution and Spatial Structure in Transitional Chinese Cities: A Study of Nanjing",
+    "oa": {
+     "title": "Population Distribution and Spatial Structure in Transitional Chinese Cities: A Study of Nanjing",
+     "year": 2006,
+     "abstract": "Two geographers use population surface model techniques to analyze the distribution of population in Chinese cities. Focusing on Nanjing, they utilize detailed urban land use and building distribution data to develop a productive alternative method to reveal spatial variations in the distribution of inhabitants. The findings indicate that despite suburbanization, Nanjing remains a compact city with a population density that declines rapidly as distance from its central business district increases. Also, suburbanization has been limited to an inner area where population is densely distributed while commercial and office development is less prominent. Lastly, commercial activities influence the distribution of urban inhabitants and suburbanization more significantly than industrial development in suburbia. Journal of Economic Literature, Classification Numbers: O15, O18, R12, R14. 9 figures, 3 tables, 37 references."
+    }
+   }
+  ]
+ },
+ {
+  "title": "城市地理",
+  "fields": {
+   "definition": "城市地理：研究城市区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
+   "overview": "研究城市区位、内部空间结构、城市体系与城市化过程，关注城市与腹地、交通和环境之间的互动。",
+   "geo": "城市多位于交通节点、河口、平原或资源地附近，内部呈中心—外围的功能分异。土地价格、通勤成本与规划制度共同塑造用地结构，地形与气候提供约束而非唯一原因。",
+   "influence": "所引 2004 年《Exploring Metropolitan Accessibility and Urban Structure》（被引132）以 GIS 区位可达性分析城市空间结构，样本为美国都市区：结果显示居住可达性格局在各城市之间相近，而就业可达性则因城市而异；作者认为可达性指标「可用于探索城市形态，尤其是城市蔓延」。 本条据此写「可达性可用于刻画城市扩张」，不作「城市地理学以可达性定义城市」的学科通例断言。",
+   "polities": "本条不展开具体政权序列；城市规划与土地制度因国家而异，细节待专门资料核验。",
+   "connections": "城市通过交通与信息网络连接腹地与远方市场，形成等级化的城市体系与跨区域流动。",
+   "today": "来源：世界银行 API（指标 SP.URB.GROW，城市人口年增长率）：全球 2025年 1.36%。该值为全球合计增速，各地区差异显著；城市内部结构与首位度等指标需城市统计资料核验。",
+   "time_or_place": "现代城市化与城市体系"
+  },
+  "sources": [
+   {
+    "id": "s025-ourworldindata-org",
+    "title": "Urbanization | Our World in Data"
+   },
+   {
+    "id": "s075-aag-org",
+    "title": "Home - AAG"
+   },
+   {
+    "id": "wb-wld-urbangrow",
+    "title": "World Bank API — Urban population growth (annual %, 全球)"
+   },
+   {
+    "id": "openalex-W1985069233",
+    "title": "OpenAlex W1985069233 — 2008 Urban Geography Plenary Lecture—Public Health as Urban Politics, Urban Geography: Venereal Biopower in Seattle, 1943-1983",
+    "oa": {
+     "title": "2008 Urban Geography Plenary Lecture—Public Health as Urban Politics, Urban Geography: Venereal Biopower in Seattle, 1943-1983",
+     "year": 2009,
+     "abstract": "In this plenary, I call for urban geographers to frame public health as a form of urban politics, theorized as governmentality and biopower. I interpret the politics of venereal disease (VD) in Seattle during the mid-20th century this way, detecting a series of dualities in key dimensions of the governance of VD, thus extending geographers' work on these concepts. There was an epistemic duality between biomedical and social framings of disease, a simultaneous techne between ascending and descending modes of power; a duality between descriptive and predictive visibilities; an identity paradox around which bodies were at risk; and a duality in ethos between conservative and progressive principles. Interpreting the city politics of public health this way foregrounds this local-state function as an important topic for urban political geography and brings a series of literatures together into conversation that have tended to remain distinct."
+    }
+   },
+   {
+    "id": "openalex-W2017801654",
+    "title": "OpenAlex W2017801654 — Exploring Metropolitan Accessibility and Urban Structure",
+    "oa": {
+     "title": "Exploring Metropolitan Accessibility and Urban Structure",
+     "year": 2004,
+     "abstract": "Location-based assessments of accessibility gauge the attraction of a place relative to other places. These approaches have been used extensively in models of commuting and urban structure. Even though locational accessibility measures are integral to such efforts, they may also be used to explore aspects of urban spatial structure. As such, this paper presents a GIS-based analysis of locational accessibility for a sample of U.S. metropolitan areas. Indices of accessibility based on spatial interaction models are developed for intraurban residential and employment locations. Results show that residential accessibility patterns are similar across cities, taking a concentric pattern where the central urban area is most attractive. However, employment accessibility varies more from city to city; moreover, the areas of highest employment accessibility tend to be decentralized within their respective regions. Overall, location-based accessibility indices are useful for exploring urban form, particularly with respect to issues of urban sprawl. Directions for future research are identified, including linking comparative urban accessibility measures to ongoing work on commuting, the jobs-housing balance, and urban structure."
+    }
+   }
+  ]
+ },
+ {
+  "title": "古埃及中王国",
+  "fields": {
+   "definition": "古埃及中王国：古埃及的一个统一时期，约公元前1940–前1640年，以文学与行政的重建著称。",
+   "overview": "古埃及中王国：古埃及的一个统一时期，约公元前1940–前1640年，以文学与行政的重建著称。",
+   "geo": "核心仍在尼罗河谷与三角洲，法尤姆绿洲的灌溉开发扩大了耕地；河谷的南北轴线决定行政与运输的走向。",
+   "influence": "所引 2010 年专著指出该时期是埃及书写的「黄金时代」，并重新评估文学作品的文化角色——此前常被视为王朝的宣传品。这说明文本的功能需具体分析，不能一概归为政治宣传。 所引 2006 年《The Middle Kingdom of Ancient Egypt: History, Archaeology and Society》（被引107，摘要 1,170 字符）把中王国（约公元前 2000–1700 年）作为艺术、历史与文学的古典时期，并指出研究常止于王室雕像与文学名篇；本条据此补充历史与考古的社会视角。",
+   "polities": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。 所引 2013 年《Setting a State Anew: The Central Administration from the End of the Old Kingdom to the End of the Middle Kingdom》（被引52）指出中王国的行政与古王国显著不同，并划分出三个阶段；本条「中王国重建中央官僚体系、与古王国制度有别」据此。",
+   "connections": "经努比亚走廊向南、经西奈与黎凡特向北、经红海通向蓬特，形成三向的外部联系。",
+   "today": "（本条的当代指标不在本页展开。）",
+   "time_or_place": "约公元前1940–前1640年（据所引专著）"
+  },
+  "sources": [
+   {
+    "id": "britannica-regions",
+    "title": "UNSD — Methodology"
+   },
+   {
+    "id": "wikipedia-regions",
+    "title": "UNSDG"
+   },
+   {
+    "id": "openalex-W4322713864",
+    "title": "OpenAlex W4322713864 — Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection",
+    "oa": {
+     "title": "Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection",
+     "year": 2010,
+     "abstract": "The Middle Kingdom (c.1940-1640 BC) was a golden age of Ancient Egyptian writing. This pioneering book is the first comprehensive study of this literary legacy. The status of literature is controversial in many ancient civilizations, and Middle Kingdom poems have often been regarded as propaganda for the ruling dynasty. This study radically reassesses their cultural role, drawing on recent studies of the individual texts, some by the author, and on general developments in literary criticism, to argue that they were entertainments that voiced potentially dissident views while also being integral to elite culture. The book explores literature’s status as a differentiated form of discourse, suggesting what social practices made its role possible and offering an innovative model for the reader’s engagement with these subtle and complex ancient works. The book also surveys the social and ideological context of literature and proposes readings of the main tales, discourses, and teachings. The conclusion sets the readings in a broad context, while an appendix surveys the entire range of surviving texts."
+    }
+   },
+   {
+    "id": "s010-unesco-org",
+    "title": "Culture | UNESCO"
+   },
+   {
+    "id": "openalex-W2339022878",
+    "title": "OpenAlex W2339022878 — Setting a State Anew: The Central Administration from the End of the Old Kingdom to the End of the Middle Kingdom",
+    "oa": {
+     "title": "Setting a State Anew: The Central Administration from the End of the Old Kingdom to the End of the Middle Kingdom",
+     "year": 2013,
+     "abstract": "The administration of the Middle Kingdom shows significant differences to that of the Old Kingdom. In the administration from the end of the Old Kingdom to the end of the Middle Kingdom three main phases are visible. The First Intermediate Period continues traditions of the Old Kingdom; in the early Middle Kingdom from the re-unification of the country under Mentuhotep II to about the mid-Twelfth Dynasty, new titles and institutions appear at all levels of administration, but some traditions of the First Intermediate Period are still visible. In the mid-Twelfth Dynasty further new titles appear in our sources, other titles disappear. The country seems to have been fully reorganised. These new structures are in evidence till the end of the Middle Kingdom, towards the end of the Thirteenth Dynasty when the country fall apart and even beyond. Keywords:central administration; Middle Kingdom; Old Kingdom"
+    }
+   },
+   {
+    "id": "openalex-W4392989059",
+    "title": "OpenAlex W4392989059 — The Middle Kingdom of Ancient Egypt: History, Archaeology and Society",
+    "oa": {
+     "title": "The Middle Kingdom of Ancient Egypt: History, Archaeology and Society",
+     "year": 2006,
+     "abstract": "For the ancient Egyptians, the Middle Kingdom (c. 2000–1700 BC) was a classical period of art, history and literature. The Twelfth Dynasty was one of the strongest ever to rule on the banks of the Nile: some of its kings were later worshipped as local gods, and were made famous by classical Greek authors. Yet Egyptologists tend not to look beyond the extraordinary royal sculpture and literary masterpieces of the time. Although the picture is fragmentary, as with any archaeological record, the last two hundred years of exploration and excavation have revealed much of the splendour of the period. This book examines the evidence for the culture, history and society of both central and provincial Egypt at the time, revealing the wealth of the entire country. In this second edition, Wolfram Grajetzki incorporates recent discoveries, discussions and publications which have emerged over the intervening fifteen years, including new excavation reports for the mastabas at Lisht and excavations at Abydos. Too often overshadowed by the better-preserved architecture of other periods, Middle Kingdom Egypt emerges for the reader as a fascinating age in its own right."
+    }
+   }
+  ]
+ },
+ {
+  "title": "法蒂玛王朝",
+  "fields": {
+   "definition": "法蒂玛王朝：以伊斯玛仪派哈里发为统治者的北非—埃及政权，909–1171年。",
+   "overview": "法蒂玛王朝：以伊斯玛仪派哈里发为统治者的北非—埃及政权，909–1171年。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+   "geo": "核心先在北非马格里布（今突尼斯一带），后移治开罗；尼罗河谷的灌溉农业与地中海—红海商路是财政基础。",
+   "influence": "所引 2020 年研究以「建设哈里发国家」为题，讨论其建筑与城市工程如何在建设与破坏之间体现政权合法性。这说明纪念性建筑是政治表达的手段，而非仅是工程活动。 所引 2023 年《The Fatimid Caliphate》（摘要 876 字符）讨论 1050–1128 年间法蒂玛在沙姆地区权威的衰退及其地方因素；本条「法蒂玛以哈里发—军队—地方势力的平衡维系政权、后期失衡」据此。",
+   "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
+   "connections": "西接马格里布与西西里，东经红海通也门与印度洋，北临地中海通拜占庭与意大利。",
+   "today": "（本条的当代指标不在本页展开。）",
+   "time_or_place": "909–1171年（法蒂玛哈里发国家）"
+  },
+  "sources": [
+   {
+    "id": "britannica-regions",
+    "title": "UNSD — Methodology"
+   },
+   {
+    "id": "wikipedia-regions",
+    "title": "UNSDG"
+   },
+   {
+    "id": "openalex-W4285722466",
+    "title": "OpenAlex W4285722466 — \"Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid Architecture\"",
+    "oa": {
+     "title": "\"Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid Architecture\"",
+     "year": 2020,
+     "abstract": "Building the Caliphate: Construction, Destruction, and Sectarian Identity in Early Fatimid ArchitectureJennifer A. PruittThis groundbreaking study investigates the early architecture of the Fatimids, an Ismaili Shi'i Muslim dynasty that dominated the Mediterranean world from the 10th to the 12th century. This period, considered a golden age of multicultural and interfaith tolerance, witnessed the construction of iconic structures, including Cairo's al-Azhar and al-Hakim mosques and crucial renovations to Jerusalem's Dome of the Rock and Aqsa Mosque. However, it also featured large-scale destruction of churches under the notorious reign of al-Hakim bi-Amr Allah, most notably the Church of the Holy Sepulcher in Jerusalem. Jennifer A. Pruitt offers a new interpretation of these and other key moments in the history of Islamic architecture, using newly available medieval primary sources by Ismaili writers and rarely considered Arabic Christian sources. Building the Caliphate contextualizes early Fatimid architecture within the wider Mediterranean and Islamic world and demonstrates how rulers manipulated architectural form and urban topographies to express political legitimacy on a global stage.*This eBook is available exclusively on the A&AePortal.*AuthorJennifer A. PruittPublisherYale University PressPrint publication date February 2020 (in print)Print ISBN 9780300246827EISBN 9780300264029Copyright© 2020 by Jennifer A. PruittIllustrations 90Print Status in print Publisher (in print) WorldCat Google Books"
+    }
+   },
+   {
+    "id": "s010-unesco-org",
+    "title": "Culture | UNESCO"
+   },
+   {
+    "id": "openalex-W4391104973",
+    "title": "OpenAlex W4391104973 — The Fatimid Caliphate",
+    "oa": {
+     "title": "The Fatimid Caliphate",
+     "year": 2023,
+     "abstract": "Chapter 2 examines local factors that led to the deterioration of Fatimid authority in bilad al-sham between 1050-1128. It questions the traditional interpretation that the erosion of Fatimid dominions in al-sham was provoked by the emergence of Seljuq rulers from 1071 onwards, advocating instead that the Egyptian defeat to Mirdasid forces at the battle of al-Funaydiq in 1060, and the territorial losses suffered in the succeeding decade were of greater importance to this process. This chapter also contends that Cairo’s interest in Jerusalem pre-dated the arrival of the armies of the First Crusade in the Levant, whilst is also a re-examination of the evidence surrounding the Egyptian desire for a ‘Frankish buffer state’ in 1098. It also discusses the Fatimid Caliphate’s willingness to cooperate diplomatically and military with Seljuq rulers in the eleventh century."
+    }
+   }
+  ]
+ }
+]

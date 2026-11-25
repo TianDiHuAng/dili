@@ -1,0 +1,157 @@
+{
+ "entries": [
+  {
+   "title": "教育机会地域差异",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4317206970",
+     "field": "influence",
+     "claim": "所引 2023 年研究（被引53）以中国为例，指出高等教育进入普及阶段（入学率逾50%）后，区域不平等仍是教育公平的主要障碍；本条「教育机会的区域差异在普及之后依然显著」据此，该文是中国个案。",
+     "abstract_evidence": "China’s higher education has entered the stage of a universal system, enrolling over 50% of students ... the regional inequality is still a major obstacle to the equitable development of higher education in China.",
+     "verdict": "SOFT",
+     "reason": "摘要仅针对中国高等教育；正文将中国个案用作「教育机会区域差异在普及后依然显著」的一般论断依据（虽注明个案，仍属外推），且「入学率逾50%」与摘要 enrolling over 50% 口径略有出入。",
+     "fix": "所引 2023 年研究（被引53）以中国为例，指出中国高等教育进入普及阶段（在学比例逾50%）后，区域不平等仍是中国高等教育公平发展的主要障碍；该文是中国个案，不代表其他国家。"
+    },
+    {
+     "source": "openalex-W4387983363",
+     "field": "influence",
+     "claim": "所引 2023 年《Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities》（被引25，摘要 1,234 字符）从地理属性如何造成教育不平等的角度讨论，并与可持续发展目标 4（SDG-4）相联系；其摘要未列出具体地理机制或区域数据，且刊载期刊层级较低，故本条仅将其作为一般性旁证性质的第二来源，不据此支撑具体区域论断。",
+     "abstract_evidence": "The objective of this study is to investigate the correlation between geographic disparities and academic achievements by pinpointing the geographical attributes that give rise to educational inequities ... Sustainable Development Goal (SDG)-4.",
+     "verdict": "SOFT",
+     "reason": "主题与 SDG-4 关联有摘要支持；但「刊载期刊层级较低」在摘要中无依据，属摘要外断言。",
+     "fix": "所引 2023 年《Spatial Inequality and Education: Unraveling the Geographical dimensions of Educational disparities》（被引25）从地理属性如何造成教育不平等的角度讨论，并与可持续发展目标 4（SDG-4）相联系；其摘要未列出具体地理机制或区域数据，故本条仅将其作为一般性旁证，不据此支撑具体区域论断。"
+    }
+   ]
+  },
+  {
+   "title": "儿童发展地域差异",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "农业气候风险",
+   "verdict": "PASS",
+   "items": [
+    {
+     "source": "openalex-W2925321084",
+     "field": "influence",
+     "claim": "所引 2019 年研究（PLoS ONE，被引 272）开发了一套可在次国家尺度复现的脆弱性评估方法，用于识别受气候影响最大的地区与社区。",
+     "abstract_evidence": "a need exists to understand and prioritise at the sub national scale which areas and communities are most vulnerable. The purpose of this study is to develop a robust, rigorous and replicable methodology ... applied the methodology in Vietnam, Uganda and Nicaragua",
+     "verdict": "PASS",
+     "reason": "次国家尺度、可复现的脆弱性评估方法、识别最脆弱地区与社区，均为摘要直接内容。",
+     "fix": "所引 2019 年研究（PLoS ONE，被引 272）开发了一套可在次国家尺度复现的脆弱性评估方法，用于识别受气候影响最大的地区与社区。"
+    }
+   ]
+  },
+  {
+   "title": "农业统计体系",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "全球人口规模",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "地球系统科学",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W2949505632",
+     "field": "influence",
+     "claim": "所引 2019 年研究讨论如何从时间序列推断因果，指出地球系统数据的高维、非线性与反馈使相关不等于因果，需专门方法（如收敛交叉映射）。",
+     "abstract_evidence": "In large-scale complex dynamical systems such as the Earth system, real experiments are rarely feasible. However, a rapidly increasing amount of observational and simulated data opens up the use of novel data-driven causal methods beyond the commonly adopted correlation techniques. Here, we give an overview of causal inference frameworks",
+     "verdict": "SOFT",
+     "reason": "摘要支持「超越相关技术的因果推断方法」，但未提及高维、非线性、反馈或收敛交叉映射，属术语溢出。",
+     "fix": "所引 2019 年研究综述了从时间序列推断因果的框架，指出地球系统中真实实验很少可行，而日益增多的观测与模拟数据使超越常用相关技术的数据驱动因果方法成为可能。"
+    }
+   ]
+  },
+  {
+   "title": "环境数据访问",
+   "verdict": "SOFT",
+   "items": [
+    {
+     "source": "openalex-W4379536400",
+     "field": "influence",
+     "claim": "所引 2023 年研究介绍 Ecodatacube 平台，把开放的遥感与气象数据预加工为「analysis-ready」立方体，降低使用门槛。",
+     "abstract_evidence": "an analysis-ready, open-access European data cube consisting of 2000-2020+ Landsat data, 2017-2021+ Sentinel-2 data and a 30 m resolution digital terrain model (DTM). The main purpose of the data cube is to make annual continental-scale spatiotemporal machine learning tasks accessible to a wider user base",
+     "verdict": "SOFT",
+     "reason": "摘要中数据为 Landsat、Sentinel-2 与 DTM，并无气象数据，且限于欧洲；「遥感与气象数据」属对象溢出。",
+     "fix": "所引 2023 年研究介绍 Ecodatacube 平台，把开放的 Landsat、Sentinel-2 遥感数据与 30 米数字地形模型预加工为「analysis-ready」的欧洲数据立方体，使更广泛的用户能开展大陆尺度的时空机器学习任务。"
+    }
+   ]
+  },
+  {
+   "title": "人文地理学",
+   "verdict": "FAIL",
+   "items": [
+    {
+     "source": "openalex-W2038018335",
+     "field": "influence",
+     "claim": "所引 1987 年研究以法国某研究机构的学科建制为例，讨论人文地理学作为「新学科」的建立过程。",
+     "abstract_evidence": "The geography section of the Class of Moral and Political Sciences of the French National Institute, which was in existence from December 1795 to January 1803, responded inadequately to the theoretical challenges ... Most geographers had no interest in human geography ... Bonaparte's dissolution of the Class hindered further opportunities for studying human geography",
+     "verdict": "FAIL",
+     "reason": "摘要论述的是法国国家研究院地理组未能回应挑战、人文地理错失建立机会（missed opportunity），与正文「讨论人文地理学作为新学科的建立过程」方向相反。",
+     "fix": "所引 1987 年研究考察 1795—1803 年法国国家研究院道德与政治科学部的地理学组，指出其对研究原住民及自然地理条件影响的理论挑战回应不足，多数地理学者对人文地理缺乏兴趣，人文地理学未能借此确立为新学科。"
+    },
+    {
+     "source": "openalex-W2015707674",
+     "field": "influence",
+     "claim": "所引 2014 年《Charting the development of social and cultural geography in Mainland China: voices from the inside》（被引19，摘要 1,393 字符）梳理中国大陆社会与文化地理学的发展，涵盖文化区、文化扩散、族群文化地理与文化景观等主题；其对象是中国大陆的学科发展，可作人文地理学学科史的补充视角，不代表全球学科全貌。",
+     "abstract_evidence": "This article provides an overview of the recent development of social and cultural geography in China. It discusses six major bodies of work: cultural areas, cultural diffusion and cultural integration; geographies of ethnic cultures; cultural landscape and cultural economy; ...",
+     "verdict": "PASS",
+     "reason": "主题与所列研究领域均见于摘要，且正文已限定为中国大陆学科发展。",
+     "fix": "所引 2014 年《Charting the development of social and cultural geography in Mainland China: voices from the inside》（被引19，摘要 1,393 字符）梳理中国大陆社会与文化地理学的发展，涵盖文化区、文化扩散、族群文化地理与文化景观等主题；其对象是中国大陆的学科发展，可作人文地理学学科史的补充视角，不代表全球学科全貌。"
+    }
+   ]
+  },
+  {
+   "title": "撒哈拉以南非洲发展数据",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "东亚与太平洋区域发展",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "拉丁美洲与加勒比区域发展",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "中东与北非区域发展",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "南亚区域发展",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "全球气温距平",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  },
+  {
+   "title": "二氧化碳排放清单",
+   "verdict": "NOACAD",
+   "items": [],
+   "reason": "无学术来源，正文无学术落点句"
+  }
+ ]
+}
