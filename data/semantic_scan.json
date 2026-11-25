@@ -285,6 +285,14 @@
     "NOACAD": 0
    },
    "file": "reports/round134_scan.json"
+  },
+  {
+   "round": 152,
+   "scope": "新增条目 黄土高原 语义扫描",
+   "result": {
+    "PASS": 1
+   },
+   "file": "inline"
   }
  ],
  "unresolved": {
@@ -539,6 +547,7 @@
   "马格里布",
   "马里帝国",
   "高卢",
+  "黄土高原",
   "黄河流域",
   "黎凡特",
   "黑海海峡"
