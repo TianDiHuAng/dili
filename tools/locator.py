@@ -195,13 +195,19 @@ def map_svg(box, bounds, lon=None, lat=None, label=None, overlay=None):
         parts.append(f"<path d='M{x0} {py:.1f} L{x0+w} {py:.1f}' stroke='#cfd6da' stroke-width='.6'/>")
         la += step_lat
     # 陆地
-    for ring in all_rings():
+    span = bounds[1] - bounds[0]
+    _tgt = 30 if span > 150 else 55
+    _amin = 12.0 if span > 150 else 3.0
+    _rings = [r for r in all_rings() if _area(r) >= _amin]
+    _rings.sort(key=_area, reverse=True)
+    _rings = _rings[:(60 if span > 150 else 160)]
+    for ring in _rings:
         rlo = [p[0] for p in ring]; rla = [p[1] for p in ring]
         if max(rlo) < lon0 or min(rlo) > lon1 or max(rla) < lat0 or min(rla) > lat1:
             continue
-        if _area(ring) < 3.0:
+        if _area(ring) < _amin:
             continue
-        _r = ring if len(ring) <= 55 else ring[::max(1, len(ring)//55)]
+        _r = ring if len(ring) <= _tgt else ring[::max(1, len(ring)//_tgt)]
         d = []
         for i, (plo, pla) in enumerate(_r):
             px, py = proj(plo, pla)

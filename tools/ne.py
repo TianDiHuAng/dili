@@ -58,6 +58,8 @@ TINT = {"Desert": ("#e8d39a", .55), "Plain": ("#cfe0c0", .5), "Plateau": ("#e3cf
         "Wetlands": ("#cfe0e6", .6), "Lowland": ("#d9e2cf", .5)}
 
 def overlay(box, bounds, title=None, max_regions=12, max_rivers=20, max_lakes=10):
+    if bounds[1] - bounds[0] > 150:
+        max_regions, max_rivers, max_lakes = 6, 8, 4
     x0, y0, w, h = box
     def proj(lo, la): return L._project(lo, la, box, bounds)
     out = []
