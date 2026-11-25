@@ -1,0 +1,721 @@
+{
+ "A": {
+  "sampled": 30,
+  "seed": 139,
+  "pool": 170,
+  "candidates_after_excluding_r135_r138_and_fix_present": 38,
+  "items": [
+   {
+    "idx": 0,
+    "title": "澳大利亚原住民",
+    "source": "openalex-W1578999336",
+    "field": "influence",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2000 年《Heritage archaeology in Australia》以昆士兰中伯内特地区为个案，分析原住民、古物收藏者与考古学家对原住民遗产的不同文化建构；本条「原住民遗产的解释与管理需要原住民持有者参与」据此。",
+    "abstract_evidence": "In this thesis I combine notions of archaeology and heritage when researching Aboriginal heritage in Australia. This is important as various people from different cultural backgrounds define and use the elements of ancient Aboriginal history in divergent ways. In particular, when archaeologists cond",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 1,
+    "title": "沙漠化",
+    "source": "openalex-W1981593648",
+    "field": "influence",
+    "scan_round": "reports/round129_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1998 年研究讨论全球变化对旱地生态系统的冲击：干扰与低复发频率事件可把系统推过韧性阈值而触发非线性变化，气候与人为因子的协同作用会加剧旱地退化。",
+    "abstract_evidence": "Potential impacts of global change on dryland ecosystems are reviewed from four perspectives. First, results are reviewed from recent research on vegetation change, land degradation and desertification. The role of disturbances and low recurrence events in triggering non-linear changes by driving ec",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 2,
+    "title": "冲积平原",
+    "source": "openalex-W2154930938",
+    "field": "influence",
+    "scan_round": "reports/round126_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2005 年研究以不连续界面划分恒河平原南部的晚第四纪冲积序列，说明漫滩的加积与下切随西南季风强弱交替：约 27–90 ka 间周期性加积，末次盛冰期前后季风减弱时下切或仅局部堆积。",
+    "abstract_evidence": "Discontinuity-bounded late Quaternary sequences in the southern Gangetic Plains (Himalayan Foreland Basin) reflect floodplain aggradation and degradation in response to forcing by the powerful Southwest Indian Monsoon. The major Himalayan and cratonic rivers in this area occupy narrow, incised valle",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 3,
+    "title": "爱琴海世界",
+    "source": "openalex-W2209715977",
+    "field": "influence",
+    "scan_round": "reports/round134_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "关于该体系是否属核心—边缘依附关系，学界有修正：1996 年研究认为爱琴海青铜时代经济是东地中海世界体系的附属部分，Wallerstein 的近代模型不能直接套用。",
+    "abstract_evidence": "Aegean societies in the third and second millennia B.C. developed complex economics based on the accumulation of substantial agricultural surpluses, craft specialization, and intricate distribution systems. The trade items included both utilitarian and luxury goods. To place these activities in a pr",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 4,
+    "title": "南极特别保护区",
+    "source": "openalex-W4403964437",
+    "field": "influence",
+    "scan_round": "reports/round129_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2024 年《The Antarctic Specially Protected Species conservation management tool》讨论南极条约区内的特别保护物种（SPS）工具（通常以行动计划实施），指出自 1964 年设立以来该工具很少被使用；本条「特别保护物种是条约体系下的保育机制」据此，它与特别保护区是不同的工具。",
+    "abstract_evidence": "Protection of specific species, generally through the implementation of an associated action plan, is a conservation tool used commonly in areas under national jurisdiction. The Antarctic Treaty area is under international consensus-based governance through the Antarctic Treaty Consultative Meeting ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 5,
+    "title": "山地农业",
+    "source": "openalex-W4293701402",
+    "field": "influence",
+    "scan_round": "reports/round126_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2022 年《A Future for Mountain Terraces》（被引16，摘要 1,779 字符）以塞浦路斯梯田山区的家庭酒庄为个案，指出山地农业通常在梯田上进行，并面临高生产成本、土地撂荒与农村人口流失等挑战。",
+    "abstract_evidence": "Agriculture in mountain areas is typically practiced on terraces. This form of farming is facing significant challenges across the globe related to high production costs, land abandonment, and rural depopulation. The aim of this study was to explore the viability and prospects of mountain farming us",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 6,
+    "title": "巴西高原",
+    "source": "openalex-W1982587238",
+    "field": "influence",
+    "scan_round": "reports/round125_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2007 年研究讨论 Araucaria 森林在巴西南部高原的扩张，显示约 1410–900 cal BP 起的湿润气候推动森林扩张，并与 Taquara/Itararé 人群的定居相伴。",
+    "abstract_evidence": "An examination of the late Holocene environmental and cultural sequences of the southern Brazilian highlands indicates that the colonisation of this region by the Taquara/Itararé people is associated with the expansion of Araucaria forest resulting from the onset of wetter climatic conditions in the",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 7,
+    "title": "吴哥",
+    "source": "openalex-W3014329675",
+    "field": "influence",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2020 年《Top-down and bottom-up water management: A diachronic model of changing water management strategies at Angkor, Cambodia》（被引48）指出 9–15 世纪高棉帝国的连续都城发展出以国家主导水利设施为特征的农业与水资源管理系统，并与众多社区庙宇共同将逾 1000 平方公里改造为工程化景观；本条「吴哥的水利网络支撑农业生产与王权集中」据此。",
+    "abstract_evidence": "The Greater Angkor region, in northwestern Cambodia, was home to several successive capitals of the Khmer Empire (9th to 15th centuries CE). During this time, the Khmer developed an extensive agricultural and water management system characterized by top-down state-sponsored hydraulic infrastructure.",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 8,
+    "title": "毛利人",
+    "source": "openalex-W4205336612",
+    "field": "influence",
+    "scan_round": "reports/round125_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2012 年研究（摘要 6,902 字符）讨论传统毛利哲学中的价值观及其在今日新西兰的可见性。",
+    "abstract_evidence": "This thesis explores Maori values that can be seen in traditional Maori philosophy and attempts to define those values and how they are recognizable in Aotearoa/New Zealand. The thesis argues that through techniques such as discourse ethics where people agree to talk through differences, Maori value",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 9,
+    "title": "室利佛逝",
+    "source": "openalex-W3153775132",
+    "field": "influence",
+    "scan_round": "reports/round127_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2021 年研究强调其成长于横跨印度洋与南海的「复杂网络」中心，突出贸易网络及相伴的文化与宗教交流在其国家与城市形成中的作用。",
+    "abstract_evidence": "The Malay city state of Srivijaya, a major actor in world economy between the seventh and the thirteenth centuries, grew at the centre of a complex set of networks encompassing much of the Indian Ocean and the South China Sea. On the basis of a critical review of past studies and the results of rece",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 10,
+    "title": "游牧",
+    "source": "openalex-W4403986029",
+    "field": "influence",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2024 年研究以 19–20 世纪俄国殖民下的哈萨克草原为例，指出迁徙路线被阻断、强制定居与市场整合改变了牧业游牧；本条据此写「殖民扩张可从迁徙路线与经济资源两端瓦解游牧」。",
+    "abstract_evidence": "This study examines the multifaceted impacts of Russian colonization on the Kazakh Steppes during the 19ᵗʰ and 20ᵗʰ centuries. The colonization process caused significant destruction in various fields in the region, including migration routes, livestock herds, socioeconomic life, trade networks, hou",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 11,
+    "title": "教育机会地域差异",
+    "source": "openalex-W4317206970",
+    "field": "influence",
+    "scan_round": "reports/round132_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2023 年研究（被引53）以中国为例，指出中国高等教育进入普及阶段（在学比例逾50%）后，区域不平等仍是中国高等教育公平发展的主要障碍；该文是中国个案，不代表其他国家。",
+    "abstract_evidence": "China’s higher education has entered the stage of a universal system, enrolling over 50% of students, and the Chinese government takes its high-quality oriented development as its educational goal. However, as the largest developing country in the world, the regional inequality is still a major obst",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 12,
+    "title": "神圣罗马帝国",
+    "source": "openalex-W2891976860",
+    "field": "influence",
+    "scan_round": "reports/round127_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2018 年《Associative Political Culture in the Holy Roman Empire》（被引39）以 1346–1521 年上德意志为个案，挑战把帝国视为破碎「领土国家」的负面评价，指出诸侯、教士、贵族与城市共享同一套仪式与司法等政治工具；本条「14—16 世纪帝国权力分散、多方共治」据此。",
+    "abstract_evidence": "What was the Holy Roman Empire in the fourteenth to sixteenth centuries? At the turning point between the medieval and early modern periods, this vast central European polity was the continent’s most politically fragmented. The imperial monarchs were often weak and distant, while an array of regiona",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 13,
+    "title": "萨珊波斯",
+    "source": "openalex-W4243201812",
+    "field": "polities",
+    "scan_round": "reports/round121_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年《Sasanian Empire》（摘要 800 字符）概述萨珊帝国（224–651 年）的地位，指出其与东方游牧势力及西方罗马帝国的军事竞争；本条「萨珊与罗马长期对峙」据此。",
+    "abstract_evidence": "The Sasanian Empire was the dominant power in the region between Oxus and Euphrates during the period of late antiquity. The empire was founded in 224 ce after the defeat of the Arsacid (Parthian) Dynasty and continued until 651 ce , when the conquering armies of Islam invaded. The period had signif",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 14,
+    "title": "斯瓦希里海岸",
+    "source": "openalex-W4212910217",
+    "field": "influence",
+    "scan_round": "reports/round121_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2022 年《The Swahili World》（摘要 13,723 字符）综述斯瓦希里海岸——介于东非内陆与印度洋之间的地带——从公元 1 世纪至今的历史与学术史；本条「斯瓦希里海岸位于东非内陆与印度洋之间」据此。",
+    "abstract_evidence": "Geographically positioned between inland eastern and central Africa and the Indian Ocean, the Swahili coast has fascinated scholars for centuries if not millennia. One of the earliest texts addressing this region is the frequently cited Periplus of the Erythraean Sea, a mid-first century ce text det",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 15,
+    "title": "南锥体",
+    "source": "openalex-W1524625152",
+    "field": "geo",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2012 年研究（被引115，摘要 1,122 字符）指出南新热带的潘帕斯是面积广大、植被以禾草为主的区域，也是南美研究最少的生态系统之一；本条「潘帕斯草原是南锥体的重要景观之一」据此。",
+    "abstract_evidence": "The Pampas in the southern Neotropics is a vast region with vegetation composed mainly of grasses, and it may be the least-studied ecosystem in southern South America. Contrary to what was thought until recently, this region is heterogeneous and harbours rich biodiversity and many endemic species; h",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 16,
+    "title": "笈多王朝",
+    "source": "openalex-W4231798191",
+    "field": "polities",
+    "scan_round": "reports/round121_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年百科条目《Gupta Empire》（摘要 933 字符）指出笈多王朝兴起于贵霜衰落后北印度的政治分裂之中，在约 50 年内升至帝国地位并主导印度至 6 世纪中叶；旃陀罗笈多一世与离车公主鸠摩罗提毗联姻、其子沙摩陀罗笈多为最大的征服者；后因内斗、藩属势力增长与外敌入侵而衰落，约 550 年崩溃；本条「笈多的衰落与内部纷争、地方势力坐大及外部入侵相关」据此。",
+    "abstract_evidence": "The process of political disintegration in northern India set by the decline of the Kushan Empire in the 3rd century ce gave rise to a large number of independent states. One of these was the Gupta Empire, which rose to imperial status within a period of 50 years from its inception and dominated the",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 17,
+    "title": "法兰克王国",
+    "source": "openalex-W2115323786",
+    "field": "polities",
+    "scan_round": "reports/round123_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2008 年《Frankish military duty and the fate of Roman…》（被引28）讨论法兰克的军事义务与罗马税收遗产的关系；本条「法兰克以无偿军役维系王国武力」据此。",
+    "abstract_evidence": "Frankish kings exacted unpaid military service from their subjects in both Merovingian and Carolingian times. The basis for this right has long been uncertain. A study of the term ‘manse’ as a Carolingian measure of assets brings to light the ostensibly hidden property on whose basis Franks went to ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 18,
+    "title": "巴塔哥尼亚",
+    "source": "openalex-W3046252846",
+    "field": "influence",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2020 年研究以古基因组揭示南巴塔哥尼亚的人群历史：海洋适应的出现并非由移民带来，约 6600 BP 以来存在部分遗传连续性，并有两次与技术变化相关的后期基因流。",
+    "abstract_evidence": "Archaeological research documents major technological shifts among people who have lived in the southern tip of South America (South Patagonia) during the last thirteen millennia, including the development of marine-based economies and changes in tools and raw materials. It has been proposed that mo",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 19,
+    "title": "隋唐",
+    "source": "openalex-W4304193318",
+    "field": "polities",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2022 年《State Strengthening in the Tang Dynasty》（摘要 992 字符）讨论唐代（618–907）的国家强化，涉及中古贵族、财政与军事制度、安史之乱对国家控制的削弱以及两税法改革，并简述影响唐制的秦、汉两朝；该文不涉隋代与律令、科举细节。",
+    "abstract_evidence": "This chapter focuses on the State Strengthening during the Tang Dynasty (618–907). It briefly discusses the two earlier dynasties that influenced Tang politics and society—the Qin and Han. The chapter then presents a general introduction of Tang politics, with a focus on the medieval aristocracy and",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 20,
+    "title": "十三殖民地",
+    "source": "openalex-W4388313733",
+    "field": "influence",
+    "scan_round": "reports/round124_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1998 年研究讨论十三殖民地的经济增长；本条「殖民地经济与母国增长的关系」据此。",
+    "abstract_evidence": "New World Economies closely examines the economic development of the Thirteen Colonies and early French Canada, looking at the impact of changing prices, capital flows, and shifts in demand. It is a companion to Egnal’s earlier book, Divergent Paths, which emphasizes the influence of culture and ins",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 21,
+    "title": "尼罗河三角洲",
+    "source": "openalex-W2220441068",
+    "field": "influence",
+    "scan_round": "reports/round134_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "上游筑坝改变了来沙与洪水节律，三角洲的沉积补给因此减少，海岸侵蚀与盐水入侵成为突出问题；对罗塞塔支流的水质研究显示，河水与底泥中的重金属受生活、农业和工业排污影响。",
+    "abstract_evidence": "Rosetta Branch of river Nile is subjected to severe pollutants of domestic, sewage, agricultural and industrial pollution. In this study, the distribution of heavy metals (Al, Ba, Cd, Co, Cr, Cu, Fe, Mn, Ni, Pb and Zn) were measured in surface river water and the bed sediments of Rosetta Branch and ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 22,
+    "title": "尼罗河三角洲",
+    "source": "openalex-W2096742774",
+    "field": "geo",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2013 年《Clay Distributions, Grain Sizes, Sediment Transport…》分析北部三角洲的黏土分布、沉积厚度与压实，指出来沙减少、压实与海平面上升导致沿海地面下沉与海岸侵蚀；本条「北部三角洲正经历沉降与海岸侵蚀」据此。",
+    "abstract_evidence": "Stanley, J.-D. and Clemente, P.L., 2014. Clay distributions, grain sizes, sediment thicknesses, and compaction rates to interpret subsidence in Egypt's northern Nile Delta. This study focuses on the role of clay on subsidence of Holocene sedimentary sequences in the northern Nile Delta. Proportions ",
+    "fix_in_current": true,
+    "verdict": "SOFT",
+    "reason": "题名误引：OpenAlex 题名为「Clay Distributions, Grain Sizes, Sediment Thicknesses, and Compaction Rates…」，正文写作「Sediment Transport…」"
+   },
+   {
+    "idx": 23,
+    "title": "突厥",
+    "source": "openalex-W2580406109",
+    "field": "polities",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2016 年《Relations between Ancient Korea and Turkey: …Contacts between Koguryŏ and the Turkic Khaganate》（摘要 4,145 字符）以高句丽与突厥汗国的接触为线索，说明草原游牧政权与朝鲜半岛之间的往来；本条「突厥汗国与周边政权并立并有交往」据此。",
+    "abstract_evidence": "Relations between Ancient Korea and Turkey: An Examination of Contacts between Koguryŏ and the Turkic Khaganate* Noh Tae-Don (bio) Contacts between Koguryŏ and the Turkic Khaganate Contacts between Koguryŏ and the Turkic Khaganate Exchanges between the inhabitants of the Korean peninsula and those o",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 24,
+    "title": "山地农业",
+    "source": "openalex-W1972724176",
+    "field": "influence",
+    "scan_round": "reports/round126_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1998 年研究以肯尼亚中部高地的长期试验讨论土壤有机碳组分作为诊断指标，比较秸秆还田、牛粪与化肥投入对有机碳库与作物表现的影响。",
+    "abstract_evidence": "African Crop Science Journal,Vol. 6. No. 1, pp. 19-28, 1998 Soil organic carbon fractions in a long-term experiment and the potential for their use as a diagnostic assay in highland farming systems of Central Kenya J. J. Kapkiyai, N. K. Karanja, P. Woomer and J. N. Qureshi Code Number:CS98003 Sizes ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 25,
+    "title": "纳斯卡文化",
+    "source": "openalex-W2019769917",
+    "field": "influence",
+    "scan_round": "reports/round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2005 年研究以沙漠黄土与地貌分析建立纳斯卡—帕尔帕地区环境演化的初步年代序列，显示早中全新世较湿润、其后逐步干旱化，纳斯卡中期（公元 250 年后）干旱加剧时聚落中心向上游迁移。",
+    "abstract_evidence": "The paper presents proxies from an interdisciplinary geoarchaeological working group. Sediment analyses and geomorphological studies, radiocarbon ages of snail shells and luminescence dating of loess allow a preliminary chronology of the environmental evolution of the eastern Atacama desert, Nazca–P",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 26,
+    "title": "莱茵河",
+    "source": "openalex-W2114886861",
+    "field": "geo",
+    "scan_round": "reports/round123_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1994 年《Middle and late Holocene avulsion history of the River Rhine》（被引 194）以大量高精度 ¹⁴C 年代重建莱茵—默兹三角洲千年尺度上的决口改道史；本条「莱茵河河道历史上多次改道」据此。",
+    "abstract_evidence": "At present, little evidence is available on avulsion rates, avulsion frequencies, and interavulsion periods of aggrading fluvial systems over time scales of millenia. The large number of high-quality 14C ages from the Holocene Rhine-Meuse delta (central Netherlands) enables a detailed assessment of ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 27,
+    "title": "南极大陆",
+    "source": "openalex-W4394779946",
+    "field": "influence",
+    "scan_round": "reports/round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2024 年研究据甘布尔采夫冰下山脉保存的（>34 Ma）树枝状谷网指出，冰盖下部分冷基、非侵蚀区域保存了古老地貌；该论证的适用范围是局部保存性，不是露岩比例或大陆地形统计。",
+    "abstract_evidence": "Landscapes buried beneath the Antarctic Ice Sheet preserve information about the geologic and geomorphic evolution of the continent both before and during the wide-scale glaciation that began roughly 34×10 6 years ago. Since the inception of this ice sheet, some areas have remained cold-based and no",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 28,
+    "title": "贵霜帝国",
+    "source": "openalex-W3029827220",
+    "field": "polities",
+    "scan_round": "reports/round127_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2020 年《The Kushan Empire》（摘要 1,598 字符）指出贵霜原为中亚草原的游牧部族，后在南亚与中亚建立定居国家；本条「贵霜由游牧转定居、统治从阿富汗到印度河流域的广大地区」据此。",
+    "abstract_evidence": "The Kushan Empire was a political power that started as a nomadic tribe from the Central Asian steppe and became established as sedentary state across South Asia and Central Asia. Migrating from the border of agricultural China in late 2nd century bce to north Afghanistan, by the 1st century ce, the",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   },
+   {
+    "idx": 29,
+    "title": "突厥",
+    "source": "openalex-W2950039895",
+    "field": "influence",
+    "scan_round": "reports/round122_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2015 年遗传研究显示，多数突厥语人群在遗传上与其地理邻居相近，符合语言扩散的精英支配模型，但也检出与南西伯利亚—蒙古人群相关的历史混合信号，说明语言扩散与人群迁移相关而不重合。",
+    "abstract_evidence": "The Turkic peoples represent a diverse collection of ethnic groups defined by the Turkic languages. These groups have dispersed across a vast area, including Siberia, Northwest China, Central Asia, East Europe, the Caucasus, Anatolia, the Middle East, and Afghanistan. The origin and early dispersal ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名或专名误译"
+   }
+  ],
+  "counts": {
+   "PASS": 29,
+   "SOFT": 1,
+   "FAIL": 0
+  }
+ },
+ "B": {
+  "items": [
+   {
+    "title": "尼罗河三角洲",
+    "field": "geo",
+    "claim": "《Clay Distributions, Grain Sizes, Sediment Transport…》",
+    "fix": "《Clay Distributions, Grain Sizes, Sediment Thicknesses, and Compaction Rates…》",
+    "type": "专名误引",
+    "reason": "A 项抽检发现题名与 OpenAlex 不符"
+   },
+   {
+    "title": "撒哈拉沙漠",
+    "field": "geo",
+    "claim": "所引 2015 年《The impact of Sahara desertification on Arctic cooling during the Holocene》（被引21）讨论撒哈拉沙漠化如何影响全新世北极的降温；该文能支持的范围仅为「全新世撒哈拉沙漠化可通过地表反照率反馈影响北半球高纬气候（模式模拟）」（第115轮语义扫描收窄）。",
+    "fix": "所引 2015 年《The impact of Sahara desertification on Arctic cooling during the Holocene》（被引21）讨论撒哈拉沙漠化如何影响全新世北极的降温；该文能支持的范围仅为「全新世撒哈拉沙漠化可通过地表反照率反馈影响北半球高纬气候（模式模拟）」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "尼罗河谷",
+    "field": "geo",
+    "claim": "所引 1971 年《A Re-Examination of the Evidence for Agricultural Origins in the Nile Valley》（被引 94）重新检验尼罗河谷农业起源的证据，对「由西南亚在公元前五千纪扩散而来」的旧说提出质疑；该文能支持的范围仅为「尼罗河谷农业起源路径仍有争论：西南亚作物传入之前可能已有利用本地动植物的预适应过程」（第115轮语义扫描收窄）。",
+    "fix": "所引 1971 年《A Re-Examination of the Evidence for Agricultural Origins in the Nile Valley》（被引 94）重新检验尼罗河谷农业起源的证据，对「由西南亚在公元前五千纪扩散而来」的旧说提出质疑；该文能支持的范围仅为「尼罗河谷农业起源路径仍有争论：西南亚作物传入之前可能已有利用本地动植物的预适应过程」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "刚果盆地",
+    "field": "influence",
+    "claim": "所引 2013 年研究分析刚果盆地的森林砍伐趋势；该文能支持的范围仅为「森林受采矿、道路、农业企业、生物燃料及自给农业与木炭采集的压力，过去主要因政局不稳与基础设施薄弱而被『被动保护』」（第115轮语义扫描收窄）。",
+    "fix": "所引 2013 年研究分析刚果盆地的森林砍伐趋势；该文能支持的范围仅为「森林受采矿、道路、农业企业、生物燃料及自给农业与木炭采集的压力，过去主要因政局不稳与基础设施薄弱而被『被动保护』」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "古埃及早王朝",
+    "field": "polities",
+    "claim": "所引 1999 年《EARLY DYNASTIC EGYPT》（被引 462）指出早王朝跨越吉萨大金字塔建造之前的五个世纪，是古埃及文明的形成期，其间产生了此后长期延续的独特文化；该文能支持的范围仅为「早王朝是法老统治最初五百年、古埃及文明与国家制度的形成期」（第115轮语义扫描收窄）。",
+    "fix": "所引 1999 年《EARLY DYNASTIC EGYPT》（被引 462）指出早王朝跨越吉萨大金字塔建造之前的五个世纪，是古埃及文明的形成期，其间产生了此后长期延续的独特文化；该文能支持的范围仅为「早王朝是法老统治最初五百年、古埃及文明与国家制度的形成期」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "马里帝国",
+    "field": "influence",
+    "claim": "所引 2004 年研究（摘要 848 字符）以社会学视角讨论马里帝国作为西非古王国的文明程度与制度；该文能支持的范围仅为「马里帝国在中世纪拥有可观财富与权力，是文化、学术与贸易中心」（第115轮语义扫描收窄）。",
+    "fix": "所引 2004 年研究（摘要 848 字符）以社会学视角讨论马里帝国作为西非古王国的文明程度与制度；该文能支持的范围仅为「马里帝国在中世纪拥有可观财富与权力，是文化、学术与贸易中心」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "印度河文明",
+    "field": "influence",
+    "claim": "所引 2025 年《ORIGIN AND GROWTH OF THE PRINCIPAL ELEMENTS OF THE HARAPPAN CIVILIZATION》（摘要 862 字符）指出哈拉帕（印度河）文明是世界上最早、最伟大的城市文化之一，其兴起从新石器与铜石并用时代的社群逐步发展而来，并革新了城市规划、技术与社会秩序；该文能支持的范围仅为「印度河文明以规划城镇、统一度量衡与广泛贸易网络著称」（第115轮语义扫描收窄）。",
+    "fix": "所引 2025 年《ORIGIN AND GROWTH OF THE PRINCIPAL ELEMENTS OF THE HARAPPAN CIVILIZATION》（摘要 862 字符）指出哈拉帕（印度河）文明是世界上最早、最伟大的城市文化之一，其兴起从新石器与铜石并用时代的社群逐步发展而来，并革新了城市规划、技术与社会秩序；该文能支持的范围仅为「印度河文明以规划城镇、统一度量衡与广泛贸易网络著称」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "长江流域",
+    "field": "influence",
+    "claim": "所引 2021 年研究（摘要 816 字符）以淀粉粒分析重建长江流域新石器时代遗址（大望岭）石刀与石磨盘的功能；该文能支持的范围仅为「大望岭遗址石器淀粉粒分析提示新石器时代可能存在广谱生计经济」（第115轮语义扫描收窄）。",
+    "fix": "所引 2021 年研究（摘要 816 字符）以淀粉粒分析重建长江流域新石器时代遗址（大望岭）石刀与石磨盘的功能；该文能支持的范围仅为「大望岭遗址石器淀粉粒分析提示新石器时代可能存在广谱生计经济」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "仰韶文化",
+    "field": "influence",
+    "claim": "这说明农业社会的生计与社会组织对气候波动敏感，但因果关系仍需具体证据（D081）。",
+    "fix": "这说明农业社会的生计与社会组织对气候波动敏感，但因果关系仍需具体证据。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "汉代",
+    "field": "polities",
+    "claim": "所引 2019 年《War economy during the Western Han Dynasty》（摘要 945 字符）讨论西汉的战争经济（军需与财政动员）；该文能支持的范围仅为「西汉贾谊主张以经济遏制与贸易手段应对匈奴、避免战争，汉匈关系成为帝国的经济支出」（第115轮语义扫描收窄）。",
+    "fix": "所引 2019 年《War economy during the Western Han Dynasty》（摘要 945 字符）讨论西汉的战争经济（军需与财政动员）；该文能支持的范围仅为「西汉贾谊主张以经济遏制与贸易手段应对匈奴、避免战争，汉匈关系成为帝国的经济支出」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "中南半岛",
+    "field": "influence",
+    "claim": "这说明同一气候带内各流域的风化强度并不一致——该文测的是流域风化强度，不涉及「景观」整体（原表述「同一气候带内景观一致不成立」为术语溢出）。",
+    "fix": "这说明同一气候带内各流域的风化强度并不一致。",
+    "type": "修改说明泄入正文",
+    "reason": "「原表述…为术语溢出」是修改说明"
+   },
+   {
+    "title": "突厥",
+    "field": "polities",
+    "claim": "据所引 2023 年章节，突厥人建立了历史上第一个突厥帝国——突厥汗国，摘要给出「552–745年」与「552 至 742 年」两种表述（D109 要求并注）；该章节为 Routledge 电子书章、摘要 619 字符（低于本条 800 字符门槛）、被引 0，故仅作旁证。",
+    "fix": "据所引 2023 年章节，突厥人建立了历史上第一个突厥帝国——突厥汗国，摘要给出「552–745年」与「552 至 742 年」两种表述；该章节为 Routledge 电子书章、摘要 619 字符（低于本条 800 字符门槛）、被引 0，故仅作旁证。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "蒙古帝国",
+    "field": "influence",
+    "claim": "所引 2014 年《The Postal Roads of the Great Khans in Central…》（被引45）讨论大汗驿道在欧亚内陆的走向与运作；该文能支持的范围仅为「蒙古在全帝国设立的驿站（站赤）制度促进了欧亚各地区间的交流」（第115轮语义扫描收窄）。",
+    "fix": "所引 2014 年《The Postal Roads of the Great Khans in Central…》（被引45）讨论大汗驿道在欧亚内陆的走向与运作；该文能支持的范围仅为「蒙古在全帝国设立的驿站（站赤）制度促进了欧亚各地区间的交流」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "爱琴海世界",
+    "field": "influence",
+    "claim": "所引 2008 年《Modelling maritime interaction in the Aegean Bronze Age》（被引 251）以「不完全优化」的数学模型描述爱琴海青铜时代的海上互动网络；该文能支持的范围仅为「南爱琴海中青铜时代的主要聚落可被建模为规模与联系强度不等的海上互动网络」（第115轮语义扫描收窄）。",
+    "fix": "所引 2008 年《Modelling maritime interaction in the Aegean Bronze Age》（被引 251）以「不完全优化」的数学模型描述爱琴海青铜时代的海上互动网络；该文能支持的范围仅为「南爱琴海中青铜时代的主要聚落可被建模为规模与联系强度不等的海上互动网络」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "古希腊城邦",
+    "field": "influence",
+    "claim": "（第119轮语义扫描：该文能支持的范围仅为「城邦=聚落+政治共同体」）",
+    "fix": "该文能支持的范围仅为「城邦=聚落+政治共同体」。",
+    "type": "修改说明泄入正文",
+    "reason": "轮次/决策编号属修订记录，不应出现在正文"
+   },
+   {
+    "title": "古希腊城邦",
+    "field": "polities",
+    "claim": "所引 2006 年《Polis: An Introduction to the Ancient Greek City-State》（被引 494）从古代到 19 世纪区分两种国家形态——大型国家（内含若干城市）与由城邦构成的区域（每个城邦由城区与腹地组成）；该文能支持的范围仅为「古希腊地区由众多城邦（城区+腹地）构成，是已知规模最大的城邦文化」（第119轮语义扫描收窄）。",
+    "fix": "所引 2006 年《Polis: An Introduction to the Ancient Greek City-State》（被引 494）从古代到 19 世纪区分两种国家形态——大型国家（内含若干城市）与由城邦构成的区域（每个城邦由城区与腹地组成）；该文能支持的范围仅为「古希腊地区由众多城邦（城区+腹地）构成，是已知规模最大的城邦文化」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "influence",
+    "claim": "所引 1970 年《Market-Days in the Roman Empire》（被引 198）指出罗马帝国的本地集市（十五英里半径内的货物流动）占整个经济交换价值约四分之三；该文能支持的范围仅为「十五英里半径内的本地贸易（含乡村定期集市）构成帝国经济交换的主体」（第119轮语义扫描收窄）。",
+    "fix": "所引 1970 年《Market-Days in the Roman Empire》（被引 198）指出罗马帝国的本地集市（十五英里半径内的货物流动）占整个经济交换价值约四分之三；该文能支持的范围仅为「十五英里半径内的本地贸易（含乡村定期集市）构成帝国经济交换的主体」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "geo",
+    "claim": "所引 1970 年研究重建不列颠群岛的三叠纪古地理；该文能支持的范围仅为「三叠纪时期群岛沉积盆地受断层控制、可分为六个岩性阶段」（第119轮语义扫描收窄）。",
+    "fix": "所引 1970 年研究重建不列颠群岛的三叠纪古地理；该文能支持的范围仅为「三叠纪时期群岛沉积盆地受断层控制、可分为六个岩性阶段」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "geo",
+    "claim": "所引 2022 年《The Economy of Renaissance Italy》（被引 11）以宏观经济视角综述 1348（黑死病）至 1630 年的意大利经济；该文能支持的范围仅为「1348–1630 年意大利人均资本充裕、收入相对较高，经济并非单纯萧条」（第119轮语义扫描收窄）。",
+    "fix": "所引 2022 年《The Economy of Renaissance Italy》（被引 11）以宏观经济视角综述 1348（黑死病）至 1630 年的意大利经济；该文能支持的范围仅为「1348–1630 年意大利人均资本充裕、收入相对较高，经济并非单纯萧条」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "influence",
+    "claim": "（第119轮语义扫描：该文能支持的范围仅为「14–15 世纪城邦国家衰落、区域国家形成构成文艺复兴的政治背景」）艺术赞助与商业财富的具体关系另由本条已列的赞助研究作旁证。",
+    "fix": "该文能支持的范围仅为「14–15 世纪城邦国家衰落、区域国家形成构成文艺复兴的政治背景」；艺术赞助与商业财富的具体关系另由本条已列的赞助研究作旁证。",
+    "type": "修改说明泄入正文",
+    "reason": "轮次/决策编号属修订记录，不应出现在正文"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "influence",
+    "claim": "（第119轮语义扫描：该文能支持的范围仅为「私人赞助者日益介入雕塑委托与公共空间」）",
+    "fix": "该文能支持的范围仅为「私人赞助者日益介入雕塑委托与公共空间」。",
+    "type": "修改说明泄入正文",
+    "reason": "轮次/决策编号属修订记录，不应出现在正文"
+   },
+   {
+    "title": "基辅罗斯",
+    "field": "influence",
+    "claim": "这属立场问题（D083）。",
+    "fix": "",
+    "type": "修改说明泄入正文",
+    "reason": "轮次/决策编号属修订记录，不应出现在正文",
+    "field_after": "所引 2025 年专著批评把罗斯简化为「拜占庭共同体」一部分的传统框架，认为这一框架低估了与西欧的联系、放大了拜占庭影响，并指出该叙事被民族主义修辞用于把俄罗斯与欧洲分隔。"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "influence",
+    "claim": "所引 1993 年《The Colonization of Beringia and the Peopling of the New World》（被引 241）把白令地区的人群移居（colonization）与中纬度北美最早的考古传统（Paleoindian）联系，并以阿拉斯加中部的发现与重新定年为依据；该文能支持的范围仅为「白令地区约 12,000–11,000 年前被定居并与北美 Paleoindian 传统相连，进入美洲受白令环境条件制约」（第119轮语义扫描收窄）。",
+    "fix": "所引 1993 年《The Colonization of Beringia and the Peopling of the New World》（被引 241）把白令地区的人群移居（colonization）与中纬度北美最早的考古传统（Paleoindian）联系，并以阿拉斯加中部的发现与重新定年为依据；该文能支持的范围仅为「白令地区约 12,000–11,000 年前被定居并与北美 Paleoindian 传统相连，进入美洲受白令环境条件制约」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "大平原",
+    "field": "geo",
+    "claim": "所引 2001 年《The Great Plains: Agriculture and the Environment》（摘要 999 字符）讨论大平原的农业与环境关系；该文能支持的范围仅为「干旱、暴风雪、冰雹等环境风险长期制约大平原农业」（第119轮语义扫描收窄）。",
+    "fix": "所引 2001 年《The Great Plains: Agriculture and the Environment》（摘要 999 字符）讨论大平原的农业与环境关系；该文能支持的范围仅为「干旱、暴风雪、冰雹等环境风险长期制约大平原农业」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "大平原",
+    "field": "influence",
+    "claim": "所引 2019 年《Decadal heat and drought drive body size of North American bison》（被引27）指出大平原草原自史前以来一直支撑着数量最多的野牛，并以数十年尺度的热与干旱检验其体型变化；该文能支持的范围仅为「大平原草原自史前以来支撑最多的野牛，干旱与升温会降低野牛体型」（第119轮语义扫描收窄）。",
+    "fix": "所引 2019 年《Decadal heat and drought drive body size of North American bison》（被引27）指出大平原草原自史前以来一直支撑着数量最多的野牛，并以数十年尺度的热与干旱检验其体型变化；该文能支持的范围仅为「大平原草原自史前以来支撑最多的野牛，干旱与升温会降低野牛体型」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "密西西比河",
+    "field": "geo",
+    "claim": "所引 2004 年《Tritium hydrology of the Mississippi River basin》（被引57）以氚示踪分析流域干支流的水文过程（密西西比干流与俄亥俄、密苏里等支流采样点）；该文能支持的范围仅为「水系由干流与俄亥俄、密苏里、阿肯色等主要支流构成，各支流地下水滞留时间不同」（第119轮语义扫描收窄）。",
+    "fix": "所引 2004 年《Tritium hydrology of the Mississippi River basin》（被引57）以氚示踪分析流域干支流的水文过程（密西西比干流与俄亥俄、密苏里等支流采样点）；该文能支持的范围仅为「水系由干流与俄亥俄、密苏里、阿肯色等主要支流构成，各支流地下水滞留时间不同」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "influence",
+    "claim": "所引 2003 年《Climate and the Collapse of Maya Civilization》（被引 1145）以古气候记录讨论古典期崩溃与干旱的关系；该文能支持的范围仅为「古典期末崩溃与长期干旱及约 810、860、910 年的多年干旱事件同期，干旱被视为相关因素之一」（第119轮语义扫描收窄）——该文是「干旱说」的代表性研究，不等于定论。",
+    "fix": "所引 2003 年《Climate and the Collapse of Maya Civilization》（被引 1145）以古气候记录讨论古典期崩溃与干旱的关系；该文能支持的范围仅为「古典期末崩溃与长期干旱及约 810、860、910 年的多年干旱事件同期，干旱被视为相关因素之一」——该文是「干旱说」的代表性研究，不等于定论。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "influence",
+    "claim": "所引 2010 年《Ancestral Maya Economies in Archaeological Perspective》（被引 191）指出：象形文字的释读使学界得以更好理解古典期社会，但该文明的经济与社会结构仍有大量未知，并追问农民等的经济角色；该文能支持的范围仅为「玛雅社会处于热带森林环境，其经济与社会结构仍多未知」（第119轮语义扫描收窄）。",
+    "fix": "所引 2010 年《Ancestral Maya Economies in Archaeological Perspective》（被引 191）指出：象形文字的释读使学界得以更好理解古典期社会，但该文明的经济与社会结构仍有大量未知，并追问农民等的经济角色；该文能支持的范围仅为「玛雅社会处于热带森林环境，其经济与社会结构仍多未知」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "加勒比海群岛",
+    "field": "influence",
+    "claim": "因此本条不把单一模型当作既定结论（D092）。",
+    "fix": "因此本条不把单一模型当作既定结论。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "安第斯山脉",
+    "field": "geo",
+    "claim": "所引 2010 年《Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution》（被引 2762）综述安第斯隆升如何改变亚马逊的气候与景观并塑造物种多样性；该文能支持的范围仅为「安第斯隆升改变了区域气候并重组亚马逊水系与景观」（第119轮语义扫描收窄）。",
+    "fix": "所引 2010 年《Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution》（被引 2762）综述安第斯隆升如何改变亚马逊的气候与景观并塑造物种多样性；该文能支持的范围仅为「安第斯隆升改变了区域气候并重组亚马逊水系与景观」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "亚马逊盆地",
+    "field": "geo",
+    "claim": "所引 2008 年《Hypotheses to explain the origin of species in Amazonia》（被引281）梳理了亚马逊屏障形成的多种假说，其中包括由构造运动或海平面变动引起的地貌与海陆分布变化（古地理假说）；该文能支持的范围仅为「解释亚马逊物种分化的假说之一认为构造运动与海平面变动曾改变盆地海陆分布」（第119轮语义扫描收窄）。",
+    "fix": "所引 2008 年《Hypotheses to explain the origin of species in Amazonia》（被引281）梳理了亚马逊屏障形成的多种假说，其中包括由构造运动或海平面变动引起的地貌与海陆分布变化（古地理假说）；该文能支持的范围仅为「解释亚马逊物种分化的假说之一认为构造运动与海平面变动曾改变盆地海陆分布」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   },
+   {
+    "title": "亚马逊河",
+    "field": "geo",
+    "claim": "（第119轮语义扫描：该文能支持的范围仅为「河流输运溶解与颗粒态物质」）",
+    "fix": "该文能支持的范围仅为「河流输运溶解与颗粒态物质」。",
+    "type": "修改说明泄入正文",
+    "reason": "轮次/决策编号属修订记录，不应出现在正文"
+   },
+   {
+    "title": "印加帝国",
+    "field": "influence",
+    "claim": "该文能支持的范围仅为「印加政治结构围绕圣物（huaca）层级组织，仪式（含水的控制）与行政难以区分」（第119轮语义扫描收窄）。",
+    "fix": "该文能支持的范围仅为「印加政治结构围绕圣物（huaca）层级组织，仪式（含水的控制）与行政难以区分」。",
+    "type": "修改说明泄入正文",
+    "reason": "括注轮次或决策编号（第N轮语义扫描收窄/Dxxx）是修订记录，不应出现在正文"
+   }
+  ],
+  "counts": {
+   "total": 33
+  },
+  "note": "承接句：列出的「这说明/作者据此」句前一句均仍在且为其所指对象；today 段「上述为全国口径…」前均有指标句，不计"
+ },
+ "C": {
+  "items": [],
+  "counts": {
+   "reviewed": 3,
+   "landed": 3,
+   "needs_text_fix": 0
+  },
+  "note": "古埃及中王国、南锥体、南极科考站三项均已按 fix 删句，字段与 field_after 逐字一致，上下文通顺"
+ },
+ "D": {
+  "items": [],
+  "counts": {
+   "confirmed": 0
+  },
+  "note": "检出的旁证源正文句均已自带范围限定或「仅作旁证」说明（突厥、地理信息系统等），或该源仍在 sources 中作主来源落点；未发现以旁证/仅登记来源为依据的断言"
+ },
+ "E": {
+  "items": [
+   {
+    "title": "SATURATION.json",
+    "field": "gap_model.definitions",
+    "claim": "G3 count=6；G4 count=243",
+    "fix": "G3 count=0；G4 count=0（与 reports/round62_gaps.json 一致）",
+    "reason": "round62_gaps.json 记 G1=0/G2=3/G3=0/G4=0，limits.html 记 G3a 0、G3b 0；SATURATION.json gap_model 仍为旧值 G3=6、G4=243，不一致"
+   },
+   {
+    "title": "SATURATION.json",
+    "field": "evidence.levels",
+    "claim": "{'A': 208, 'B': 6, 'C': 0, 'D': 29}",
+    "fix": "{'A': 214, 'B': 0, 'C': 0, 'D': 29}",
+    "reason": "assess.py 重算与 data/evidence_level.json 一致为 A214/D29（diff 0），SATURATION.json 中 evidence.levels 为旧值"
+   }
+  ],
+  "checks": {
+   "check.py": "ERRORS=0 ALL_PASS",
+   "check_links.py": "BROKEN=0 LINKS_PASS",
+   "evidence_level_vs_assess": "一致 A214/D29",
+   "limits_vs_round62": "一致"
+  },
+  "counts": {
+   "total": 2
+  }
+ }
+}
