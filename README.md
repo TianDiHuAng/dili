@@ -130,3 +130,16 @@ R1–R25 覆盖：字段完整性、ID 合法性、来源合法性与 verified �
 - **G4 语义对题**由人工/子代理逐条阅读摘要完成，非自动判定；机器只保证结构与记录一致。
 
 详见 `DECISIONS.md`（决策与教训）、`PROGRESS.md`（逐轮台账）、`REPORT.md`（本轮统计）、站点「限制」页。
+
+---
+
+## 在线访问 / GitHub Pages 部署
+
+站点通过 GitHub Actions 自动部署到 **GitHub Pages**：
+
+- 工作流：`.github/workflows/pages.yml`（push 到 `main` 触发；也可手动 Run workflow）
+- 发布内容：`site/` 目录
+- 预期地址：**https://tiandihuang.github.io/dili/**
+- 兜底：仓库同时保留 `gh-pages` 分支（内容同为 `site/`）。若在 Settings → Pages 选择 “Deploy from a branch” → `gh-pages` / `/ (root)`，也会从该分支发布。
+
+> 说明：Actions 方式用 `actions/configure-pages` 的 `enablement: true` 自动启用 Pages，无需手动在设置里点开关。首次部署后若 404，通常需等待 1–2 分钟生效。
