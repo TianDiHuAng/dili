@@ -10744,6 +10744,84 @@
       "verified": true,
       "page_title": "Binary sources of loess on the Chinese Loess Plateau revealed by U–Pb ages of zircon",
       "note": "OpenAlex 作品 openalex-W1989229638；2013年；被引 140。摘要长度 1043 字符。经 Crossref 检索 + DOI 桥取得，摘要已人工阅读。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2177321379",
+      "title": "OpenAlex openalex-W2177321379 — The challenge and future of rocky desertification control in karst areas in southwest China",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2016,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/openalex-W2177321379",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The challenge and future of rocky desertification control in karst areas in southwest China",
+      "note": "OpenAlex 作品 openalex-W2177321379；2016年；被引 141。摘要长度 1591 字符。经 Crossref 检索 + DOI 桥取得，摘要已人工阅读。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2145752458",
+      "title": "OpenAlex openalex-W2145752458 — Multi-Scale Anthropogenic Driving Forces of Karst Rocky Desertification in Southwest China",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2013,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/openalex-W2145752458",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Multi-Scale Anthropogenic Driving Forces of Karst Rocky Desertification in Southwest China",
+      "note": "OpenAlex 作品 openalex-W2145752458；2013年；被引 165。摘要长度 884 字符。经 Crossref 检索 + DOI 桥取得，摘要已人工阅读。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W4367054626",
+      "title": "OpenAlex openalex-W4367054626 — The Origin of Seismic and Tectonic Activity Underlying the Sichuan Basin, Central China",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2023,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/openalex-W4367054626",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "The Origin of Seismic and Tectonic Activity Underlying the Sichuan Basin, Central China",
+      "note": "OpenAlex 作品 openalex-W4367054626；2023年；被引 12。摘要长度 1635 字符。经 Crossref 检索 + DOI 桥取得，摘要已人工阅读。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W3125180776",
+      "title": "OpenAlex openalex-W3125180776 — Mantle Dynamics Beneath the Sichuan Basin and Eastern Tibet From Teleseismic Tomography",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2021,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/openalex-W3125180776",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Mantle Dynamics Beneath the Sichuan Basin and Eastern Tibet From Teleseismic Tomography",
+      "note": "OpenAlex 作品 openalex-W3125180776；2021年；被引 28。摘要长度 1494 字符。经 Crossref 检索 + DOI 桥取得，摘要已人工阅读。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W1999146909",
+      "title": "OpenAlex openalex-W1999146909 — Geodynamics of the Tarim Basin and the Tian Shan in central Asia",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 1997,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/openalex-W1999146909",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Geodynamics of the Tarim Basin and the Tian Shan in central Asia",
+      "note": "OpenAlex 作品 openalex-W1999146909；1997年；被引 171。摘要长度 2146 字符。经 Crossref 检索 + DOI 桥取得，摘要已人工阅读。证据强度：strong。"
+    },
+    {
+      "id": "openalex-W2126180908",
+      "title": "OpenAlex openalex-W2126180908 — Tertiary evolution of the western Tarim basin, northwest China: A tectono-sedimentary response to northward indentation of the Pamir salient",
+      "author": "OpenAlex（开放学术知识图谱，CC0 元数据）",
+      "year": 2013,
+      "type": "学术文献",
+      "url": "https://api.openalex.org/works/openalex-W2126180908",
+      "url2": null,
+      "link_ok": true,
+      "verified": true,
+      "page_title": "Tertiary evolution of the western Tarim basin, northwest China: A tectono-sedimentary response to northward indentation of the Pamir salient",
+      "note": "OpenAlex 作品 openalex-W2126180908；2013年；被引 68。摘要长度 1701 字符。经 Crossref 检索 + DOI 桥取得，摘要已人工阅读。证据强度：strong。"
     }
   ]
 }

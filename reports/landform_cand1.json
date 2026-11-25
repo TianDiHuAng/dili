@@ -1,0 +1,464 @@
+{
+ "云贵喀斯特": [
+  {
+   "oid": "W4390297604",
+   "title": "Application of Remote Sensing for Karst Rocky Desertification in Southwest China",
+   "year": 2023,
+   "cited": 2,
+   "chars": 1400,
+   "titleok": true
+  },
+  {
+   "oid": "W4296295828",
+   "title": "Soil Quality Assessment and Management in Karst Rocky Desertification Ecosystem of Southwest China",
+   "year": 2022,
+   "cited": 28,
+   "chars": 1959,
+   "titleok": true
+  },
+  {
+   "oid": "W4403595401",
+   "title": "Spatiotemporal Variation of Vegetation Coverage and Its Driver in a Typical Karst Rocky Desertification Area in Southwest China",
+   "year": 2024,
+   "cited": 0,
+   "chars": 2999,
+   "titleok": true
+  },
+  {
+   "oid": "W2993421723",
+   "title": "Effects of Plum Plantation Ages on Soil Organic Carbon Mineralization in the Karst Rocky Desertification Ecosystem of Southwest China",
+   "year": 2019,
+   "cited": 12,
+   "chars": 1500,
+   "titleok": true
+  },
+  {
+   "oid": "W2177321379",
+   "title": "The challenge and future of rocky desertification control in karst areas in southwest China",
+   "year": 2016,
+   "cited": 141,
+   "chars": 1591,
+   "titleok": true
+  },
+  {
+   "oid": "W4400095155",
+   "title": "Spatial distribution and driving factors of karst rocky desertification in Southwest China based on GIS and geodetector",
+   "year": 2024,
+   "cited": 12,
+   "chars": 1776,
+   "titleok": true
+  },
+  {
+   "oid": "W4206420616",
+   "title": "The Seasonal Variation Characteristics and Influencing Factors of Soil Ecological Stoichiometry with Different Land Use Types in Karst Rocky Desertification Area in Southwest China",
+   "year": 2021,
+   "cited": 0,
+   "chars": 1967,
+   "titleok": true
+  },
+  {
+   "oid": "W2145752458",
+   "title": "Multi‐Scale Anthropogenic Driving Forces of Karst Rocky Desertification in Southwest China",
+   "year": 2013,
+   "cited": 165,
+   "chars": 884,
+   "titleok": true
+  },
+  {
+   "oid": "W4380029009",
+   "title": "The Causes and Countermeasures of Soil Erosion of Karst Landform in Guizhou Province",
+   "year": 2023,
+   "cited": 0,
+   "chars": 1062,
+   "titleok": true
+  },
+  {
+   "oid": "W2799719799",
+   "title": "Study On The Driving Mechanism Of Hydrologic Drought In Karst Basin Based On Landform Index: A Case Study of Guizhou, China",
+   "year": 2018,
+   "cited": 0,
+   "chars": 1375,
+   "titleok": true
+  },
+  {
+   "oid": "W4365146440",
+   "title": "Determination of Paleoenvironmental Changes by Using δ13C, 14C Dating and Rb/Sr Ratio in Critical Karst Area of Yunnan-Guizhou Plateau, Southwestern China",
+   "year": 2023,
+   "cited": 3,
+   "chars": 1422,
+   "titleok": true
+  },
+  {
+   "oid": "W4311376871",
+   "title": "Comparative Study on the Temporal and Spatial Evolution of the Ecosystem Service Value of Different Karst Landform Types: A Case Study in Guizhou Province, China",
+   "year": 2022,
+   "cited": 23,
+   "chars": 2394,
+   "titleok": true
+  },
+  {
+   "oid": "W4401243969",
+   "title": "Coupling Coordination of Multi-Dimensional Urbanization and Ecological Security in Karst Landscapes: A Case Study of the Yunnan–Guizhou Region, China",
+   "year": 2024,
+   "cited": 5,
+   "chars": 1721,
+   "titleok": true
+  },
+  {
+   "oid": "W7130518951",
+   "title": "The Accuracy, Spatial Consistency, and Impact Factors of Global Cropland Products in Karst Landscapes: A Case Study of the Yunnan–Guizhou Plateau",
+   "year": 2026,
+   "cited": 0,
+   "chars": 1616,
+   "titleok": true
+  },
+  {
+   "oid": "W3135558590",
+   "title": "Combined Use of Carbon and Nitrogen Isotopes for Assessment of Soil Organic Matter Sources and Decomposition in a Typical Karst Area of Yunnan–Guizhou Plateau, Southwestern China",
+   "year": 2021,
+   "cited": 0,
+   "chars": 1697,
+   "titleok": true
+  },
+  {
+   "oid": "W4318316086",
+   "title": "Alterations of ecosystem nitrogen status following agricultural land abandonment in the Karst Critical Zone Observatory (KCZO), Southwest China",
+   "year": 2023,
+   "cited": 4,
+   "chars": 1808,
+   "titleok": true
+  },
+  {
+   "oid": "W3209550406",
+   "title": "Evaluating the joint use of GPR and ERT on mapping shallow subsurface features of karst critical zone in southwest China",
+   "year": 2021,
+   "cited": 41,
+   "chars": 1818,
+   "titleok": true
+  },
+  {
+   "oid": "W2972548789",
+   "title": "Geochemical Characteristics of Rare Earth Elements in Soils from Puding Karst Critical Zone Observatory, Southwest China",
+   "year": 2019,
+   "cited": 29,
+   "chars": 1053,
+   "titleok": true
+  },
+  {
+   "oid": "W2936522160",
+   "title": "Variations and Indications of δ13CSOC and δ15NSON in Soil Profiles in Karst Critical Zone Observatory (CZO), Southwest China",
+   "year": 2019,
+   "cited": 39,
+   "chars": 1649,
+   "titleok": true
+  },
+  {
+   "oid": "W7221559151",
+   "title": "Contrasting contributions of vertical water transport processes to WUE variability across vegetation types in the karst critical zone of Southwest China",
+   "year": 2026,
+   "cited": 0,
+   "chars": 1596,
+   "titleok": true
+  },
+  {
+   "oid": "W4392758778",
+   "title": "Hydrochemical characteristics and genesis analysis of typical aquifer system in Karst Critical Zone of central Yunnan Platea",
+   "year": 2025,
+   "cited": 0,
+   "chars": 1968,
+   "titleok": true
+  },
+  {
+   "oid": "W3110734383",
+   "title": "Hydrogeochemical Dynamics and Response of Karst Catchment to Rainstorms in a Critical Zone Observatory (CZO), Southwest China",
+   "year": 2020,
+   "cited": 17,
+   "chars": 2361,
+   "titleok": true
+  }
+ ],
+ "四川盆地": [
+  {
+   "oid": "W7212722984",
+   "title": "Formation, Evolution, and Preservation Mechanisms of Overpressure in the Wufeng–Longmaxi Shale, Changning Area, Sichuan Basin",
+   "year": 2026,
+   "cited": 1,
+   "chars": 2452,
+   "titleok": true
+  },
+  {
+   "oid": "W4362665134",
+   "title": "Characteristics of Permian igneous rocks and their petroleum geology implications in the northern part of central Sichuan, Sichuan Basin, China",
+   "year": 2023,
+   "cited": 3,
+   "chars": 2098,
+   "titleok": true
+  },
+  {
+   "oid": "W7219651280",
+   "title": "Mechanisms of Overpressure Formation and Distribution Prediction in Ultra‐Deep Carbonate Reservoirs in the YB Area, Sichuan Basin",
+   "year": 2026,
+   "cited": 0,
+   "chars": 2516,
+   "titleok": true
+  },
+  {
+   "oid": "W7225019819",
+   "title": "Characteristics and Controlling Factors of Pore Structure and Connectivity in Wufeng–Longmaxi Shales of the Southern Sichuan Basin",
+   "year": 2026,
+   "cited": 0,
+   "chars": 1615,
+   "titleok": true
+  },
+  {
+   "oid": "W1971619278",
+   "title": "OIL CHARGE HISTORY OF BITUMENS OF DIFFERING MATURITIES IN EXHUMED PALAEOZOIC RESERVOIR ROCKS AT TIANJINGSHAN, NW SICHUAN BASIN, SOUTHERN CHINA",
+   "year": 2013,
+   "cited": 24,
+   "chars": 1700,
+   "titleok": true
+  },
+  {
+   "oid": "W2055151940",
+   "title": "POROSITY PRESERVATION DUE TO AUTHIGENIC CHLORITE COATINGS IN DEEPLY BURIED UPPER TRIASSIC XUJIAHE FORMATION SANDSTONES, SICHUAN BASIN, WESTERN CHINA",
+   "year": 2014,
+   "cited": 20,
+   "chars": 1809,
+   "titleok": true
+  },
+  {
+   "oid": "W7204755855",
+   "title": "Characteristics and Sedimentary‐Diagenetic Model of Carbonate Rocks From Member 1 of the Cambrian Canglangpu Formation in the Sichuan Basin, SW China",
+   "year": 2026,
+   "cited": 0,
+   "chars": 1585,
+   "titleok": true
+  },
+  {
+   "oid": "W4367054626",
+   "title": "The Origin of Seismic and Tectonic Activity Underlying the Sichuan Basin, Central China",
+   "year": 2023,
+   "cited": 12,
+   "chars": 1635,
+   "titleok": true
+  },
+  {
+   "oid": "W3125180776",
+   "title": "Mantle Dynamics Beneath the Sichuan Basin and Eastern Tibet From Teleseismic Tomography",
+   "year": 2021,
+   "cited": 28,
+   "chars": 1494,
+   "titleok": true
+  },
+  {
+   "oid": "W3004076483",
+   "title": "The Interaction of the Eastward Extrusion of the Songpan‐Ganzi Terrane and the Crustal Rotational Movement of the Sichuan Basin Since the Late Paleogene: Evidence From Cretaceous and Paleogene Paleomagnetic Data Sets of the Sichuan Basin",
+   "year": 2020,
+   "cited": 17,
+   "chars": 1493,
+   "titleok": true
+  },
+  {
+   "oid": "W4415187121",
+   "title": "Sedimentary Provenance Change During Late Triassic in Northwestern South China Block and Its Implications for Sichuan Foreland Basin Evolution and Closure of the Paleo‐Tethys Ocean",
+   "year": 2025,
+   "cited": 1,
+   "chars": 1651,
+   "titleok": false
+  },
+  {
+   "oid": "W4414298876",
+   "title": "Experimental Modeling of En Masse Translation of Long Brittle Blocks Over a Viscous Layer: Application to the Sichuan Basin, China",
+   "year": 2025,
+   "cited": 2,
+   "chars": 1473,
+   "titleok": true
+  },
+  {
+   "oid": "W4200613589",
+   "title": "First fossil foliage record in the red beds from the Upper Jurassic in the Sichuan Basin, southern China",
+   "year": 2021,
+   "cited": 8,
+   "chars": 1646,
+   "titleok": true
+  },
+  {
+   "oid": "W4403836898",
+   "title": "Study on the Damage Characteristics of Red Sandstone Foundation Under Rainfall Infiltration in the Red-Bed Area of the Sichuan Basin—Taking Zhongjiang County as an Example",
+   "year": 2024,
+   "cited": 3,
+   "chars": 1271,
+   "titleok": true
+  }
+ ],
+ "塔里木盆地": [
+  {
+   "oid": "W1999146909",
+   "title": "Geodynamics of the Tarim Basin and the Tian Shan in central Asia",
+   "year": 1997,
+   "cited": 171,
+   "chars": 2146,
+   "titleok": true
+  },
+  {
+   "oid": "W1986961545",
+   "title": "Late Cenozoic tectonics of the Kepingtage thrust zone: Interactions of the Tien Shan and Tarim Basin, northwest China",
+   "year": 1999,
+   "cited": 301,
+   "chars": 2293,
+   "titleok": true
+  },
+  {
+   "oid": "W1862961722",
+   "title": "A new paleogeographic configuration of the Eurasian landmass resolves a paleomagnetic paradox of the Tarim Basin (China)",
+   "year": 2008,
+   "cited": 50,
+   "chars": 1448,
+   "titleok": true
+  },
+  {
+   "oid": "W2126180908",
+   "title": "Tertiary evolution of the western Tarim basin, northwest China: A tectono‐sedimentary response to northward indentation of the Pamir salient",
+   "year": 2013,
+   "cited": 68,
+   "chars": 1701,
+   "titleok": true
+  },
+  {
+   "oid": "W2126577960",
+   "title": "Localization of shear along a lithospheric strength discontinuity: Application of a continuous deformation model to the boundary between Tibet and the Tarim Basin",
+   "year": 2009,
+   "cited": 77,
+   "chars": 1573,
+   "titleok": true
+  },
+  {
+   "oid": "W2945986611",
+   "title": "The Evolution of the Complex Anticlinal Belt With Crosscutting Strike‐Slip Faults in the Central Tarim Basin, NW China",
+   "year": 2019,
+   "cited": 88,
+   "chars": 1798,
+   "titleok": true
+  },
+  {
+   "oid": "W7221334411",
+   "title": "Structural Characteristics and Sandbox Experiments of Multi‐Scale Strike‐Slip Fault Systems in the Central Shunbei Region of the Tarim Basin",
+   "year": 2026,
+   "cited": 0,
+   "chars": 1845,
+   "titleok": true
+  },
+  {
+   "oid": "W4400430243",
+   "title": "Late Miocene Oroclinal Bending of the Mazatagh Thrust Belt in the Central Tarim Basin and Its Tectonic Implications",
+   "year": 2024,
+   "cited": 1,
+   "chars": 1704,
+   "titleok": true
+  },
+  {
+   "oid": "W2110414288",
+   "title": "PETROLEUM GEOLOGY OF THE TARIM BASIN, NW CHINA: RECENT ADVANCES",
+   "year": 1997,
+   "cited": 6,
+   "chars": 1158,
+   "titleok": true
+  },
+  {
+   "oid": "W2742179503",
+   "title": "Windblown sediment transport and loss in a desert–oasis ecotone in the Tarim Basin",
+   "year": 2017,
+   "cited": 30,
+   "chars": 1212,
+   "titleok": true
+  },
+  {
+   "oid": "W2029142313",
+   "title": "THE TARIM BASIN, NW CHINA: FORMATION AND ASPECTS OF PETROLEUM GEOLOGY",
+   "year": 1992,
+   "cited": 83,
+   "chars": 806,
+   "titleok": true
+  },
+  {
+   "oid": "W4401875508",
+   "title": "High-fidelity denoising technology for vibrator in Shunzhong Desert of Tarim Basin",
+   "year": 2024,
+   "cited": 0,
+   "chars": 1326,
+   "titleok": true
+  },
+  {
+   "oid": "W4408809477",
+   "title": "Ecological Adaptation Strategies of Desert Plants in the Farming–Pastoral Zone of Northern Tarim Basin",
+   "year": 2025,
+   "cited": 10,
+   "chars": 1994,
+   "titleok": true
+  },
+  {
+   "oid": "W3108607950",
+   "title": "Petroleum Geology and Prospects of the Tarim (Talimu) Basin, China",
+   "year": 1992,
+   "cited": 9,
+   "chars": 2696,
+   "titleok": false
+  },
+  {
+   "oid": "W2142513758",
+   "title": "ORGANIC PETROLOGY OF POTENTIAL SOURCE ROCKS IN THE TARIM BASIN, NW CHINA",
+   "year": 2003,
+   "cited": 15,
+   "chars": 1604,
+   "titleok": true
+  },
+  {
+   "oid": "W2140238340",
+   "title": "STRUCTURE AND HYDROCARBON POTENTIAL OF THE TARIM BASIN (NW CHINA) FROM SATELLITE IMAGERY",
+   "year": 1990,
+   "cited": 53,
+   "chars": 2483,
+   "titleok": true
+  },
+  {
+   "oid": "W3082148531",
+   "title": "Characteristics and evolution process of strike-slip fault in Halahatang area, North Tarim Basin, NW China",
+   "year": 2020,
+   "cited": 0,
+   "chars": 2774,
+   "titleok": true
+  },
+  {
+   "oid": "W4408435109",
+   "title": "Human activity has decoupled oasis evolution from climate change since ~2 ka in the Tarim Basin",
+   "year": 2025,
+   "cited": 0,
+   "chars": 1205,
+   "titleok": true
+  },
+  {
+   "oid": "W4321481661",
+   "title": "Tectono-sedimentary evolution in central Tarim Basin during the early Cambrian: New insights from stratigraphic forward modeling",
+   "year": 2023,
+   "cited": 0,
+   "chars": 2084,
+   "titleok": true
+  },
+  {
+   "oid": "W4392597734",
+   "title": "Reservoir characteristics and diagenetic evolution of Kukebai Formation in Kekeya area, Southwest Depression of Tarim Basin",
+   "year": 2025,
+   "cited": 0,
+   "chars": 2200,
+   "titleok": true
+  },
+  {
+   "oid": "W3179388644",
+   "title": "The Cenozoic structural evolution of the northwestern Tarim Basin, China",
+   "year": 2021,
+   "cited": 1,
+   "chars": 2310,
+   "titleok": true
+  }
+ ]
+}
