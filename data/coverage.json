@@ -179,7 +179,7 @@
       "level": "L2",
       "tier": "核心",
       "status": "已复核(第26轮·无实证)",
-      "source_count": 9,
+      "source_count": 11,
       "pending_count": 1,
       "last_update": "2026-11-24",
       "d041_legacy": true
@@ -2288,7 +2288,7 @@
       "区域": 28
     }
   },
-  "round": 112,
+  "round": 116,
   "round_processed": 4,
   "d041_legacy_count": 32,
   "d041_pairing_gap_count": 2
