@@ -622,6 +622,15 @@
       "last_update": "2026-11-24"
     },
     {
+      "id": "asia-x9ec4x571fx9ad8x539f",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·中国地貌)",
+      "source_count": 3,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
       "id": "europe-x7231x7434x6d77x4e16x754c",
       "level": "L2",
       "tier": "核心",
@@ -2237,7 +2246,7 @@
       "政权更替": 19,
       "贸易": 10,
       "区域": 5,
-      "地形": 2,
+      "地形": 3,
       "气候": 1
     },
     "europe": {

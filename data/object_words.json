@@ -740,5 +740,9 @@
     "land cover",
     "landsat",
     "earth observation"
+  ],
+  "黄土高原": [
+    "loess",
+    "黄土"
   ]
 }
