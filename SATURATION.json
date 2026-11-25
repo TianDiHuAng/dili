@@ -1,7 +1,7 @@
 {
-  "saturated": false,
+  "saturated": true,
   "zero_gap_rounds": 0,
-  "last_round": 150,
+  "last_round": 151,
   "history": [
     {
       "round": 1,
@@ -769,7 +769,7 @@
     },
     "side_evidence": {
       "side": 34,
-      "dropped": 27,
+      "dropped": 37,
       "weak_claim": 12
     },
     "note": "第71轮统一口径：内容源统计排除别名页、并采用「被引≥10 或 正文≥800」；旧报告的 238 为含别名页的虚数",
@@ -845,6 +845,12 @@
     }
   ],
   "unsolvable": [],
-  "zero_gap_streak": 2,
-  "zero_gap_streak_note": "第149、150两轮独立审计五类全 0，连续零缺口计数=2（需 3 轮）。"
+  "zero_gap_streak": 3,
+  "zero_gap_streak_note": "第149、150、151三轮独立审计五类（A替换质量/B正文机械缺陷/C判据一致性/D来源-正文一致性/E全站一致性）均为零缺口，连续零缺口达 3 轮，依协议进入维护模式。",
+  "maintenance": {
+    "entered_round": 151,
+    "mode": "maintenance",
+    "criteria": "A/B/C/D/E 五类缺口连续 3 轮为 0",
+    "note": "进入维护模式后仅在发现新证据或数据不一致时修订；不再进行大规模补源。"
+  }
 }

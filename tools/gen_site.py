@@ -323,7 +323,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 {"".join(f'<tr><td><b>{d["id"]}</b></td><td>{esc(d["name"])}</td><td><b>{d["count"]}</b></td><td>{esc(d["fixed_by"])}</td></tr>' for d in _gmod)}
 </tbody></table>
 <p class="dim"><b>G3a 与 G3b 的区别</b>（第77轮拆分）：G3a 是「已有侧面文献可补充，缺的是整体研究」；G3b 是「连侧面文献都未登记，只有单一内容源」。两者的处置不同——前者可把侧面文献登记为补充源并限定范围（D140），后者只能继续检索或承认无解。当前 G3a 仅 {len([x for x in _gmod if x['id']=='G3a']) and _gmap.get('G3a',{}).get('count',0)} 条、G3b {_gmap.get('G3b',{}).get('count',0)} 条。</p>
-<p class="dim">关闭条件：G1=0 且 G3=0 后方可讨论「饱和」；G2 记为既有结论，不再重试同类检索；G4 不可自动化。</p></div>
+<p class="dim">当前状态：G1=0、G2=0、G3=0、G4=0；第149–151轮连续三轮独立审计五类（替换质量/正文机械缺陷/判据一致性/来源-正文一致性/全站一致性）均为零缺口，已进入<b>维护模式</b>。维护模式下仅在发现新证据或数据不一致时修订，不再大规模补源。G4 的「语义对题」由人工/子代理逐条读取摘要完成，非自动判定；G2 如出现，指经两库多轮检索确认无合格主来源的条目，单列记录、不再重试同类检索。</p></div>
 <div class="section"><h2>二、经检索确认「无合格第二来源」的条目（{len(_noans)} 条）</h2>
 <p>以下条目经<b>两个库（Crossref + OpenAlex）、多条检索式</b>检索后仍无合格第二来源。本站不作硬配。</p>
 <table><thead><tr><th>条目</th><th>状况</th></tr></thead><tbody>{_noans_rows}</tbody></table></div>

@@ -1,0 +1,194 @@
+{
+ "round": 151,
+ "type": "独立审计",
+ "mode": "只读（不改 data/*.json）",
+ "A": {
+  "seed": 151,
+  "method": "池 = reports/round115_scan.json 与 round119–134_scan.json 中 verdict∈{SOFT,FAIL} 且 fix 非空、且 fix 当前逐字存在于该条目某正文域(8 字段任一) 的 (title,source) 项；并入 round135–150 各 audit 中 verdict∈{SOFT,FAIL}、fix(audited_fix/fix) 非空且当前逐字存在的项；按(title,source)去重后排除已抽过者(round135–150 各 audit A 的 items 集合)。剩余≥30 用种子 151 抽 30，不足全取。",
+  "scan_files": [
+   "round115_scan.json",
+   "round119_scan.json",
+   "round120_scan.json",
+   "round121_scan.json",
+   "round122_scan.json",
+   "round123_scan.json",
+   "round124_scan.json",
+   "round125_scan.json",
+   "round126_scan.json",
+   "round127_scan.json",
+   "round128_scan.json",
+   "round129_scan.json",
+   "round130_scan.json",
+   "round131_scan.json",
+   "round132_scan.json",
+   "round133_scan.json",
+   "round134_scan.json"
+  ],
+  "audit_files": [
+   "round135_audit.json",
+   "round136_audit.json",
+   "round137_audit.json",
+   "round138_audit.json",
+   "round139_audit.json",
+   "round140_audit.json",
+   "round142_audit.json",
+   "round143_audit.json",
+   "round144_audit.json",
+   "round145_audit.json",
+   "round146_audit.json",
+   "round148_audit.json",
+   "round149_audit.json",
+   "round150_audit.json"
+  ],
+  "scan_softfail_with_fix_items": 164,
+  "scan_fix_present_instances": 124,
+  "scan_fix_present_unique_pairs": 123,
+  "audit_softfail_fix_present_pairs": 3,
+  "audit_softfail_fix_present_list": [
+   [
+    "加勒比海群岛",
+    "openalex-W2126487261"
+   ],
+   [
+    "加勒比海群岛",
+    "openalex-W597527439"
+   ],
+   [
+    "安第斯垂直农业",
+    "openalex-W2021618803"
+   ]
+  ],
+  "union_pool_pairs": 126,
+  "already_sampled_pairs_135_150": 162,
+  "remaining_after_exclusion": 0,
+  "sampled": 0,
+  "note": "17 个扫描文件 SOFT/FAIL-且-fix 共 164 项，其中 fix 当前逐字存在 124 实例 / 123 个唯一 (title,source) 对；round135–150 各 audit 中仍为 SOFT/FAIL 且 fix 现存的对再增 3 对（均是 round135 已抽项），并集 126 对全部落在 round135–150 各 audit A 已抽集合(162 对)内，剩余 0(<30，全取=0)。故本轮无新抽项、无新增需改项，未触发 OpenAlex 摘要重取（无候选）。与前几轮 union 129 的少量差异源于 audit 项 fix 字段口径(audited_fix/fix)，不影响剩余 0 的结论；与 round144/145/146/148/149/150 的 A 池耗竭结论一致。另对全站正文《标题》做了题名核对：139 处与来源题名高度吻合，其余 26 处均为带省略号「…」的题名截断或《梨俱吠陀》《南极条约》等文献专名，无编造/题名误引。",
+  "items": []
+ },
+ "B": {
+  "items": [],
+  "counts": {
+   "total": 0,
+   "entries_scanned": 243,
+   "fields_scanned": 1944
+  },
+  "checks": "全量 243×8 字段(definition/time_or_place/overview/geo/influence/polities/connections/today = 1944 格)。①轮次/决策编号(第N轮/D###/R##/L1-3)：正则 2 处命中均为指标码 EN.GHG.CO2.MT.CE.AR5 内的「R5」子串（假阳性），真 0；②据此后赘语：0（全文 154 处「据此」逐条核验，均为「据此写/据此推断/据此论证/据此估算/据此支撑/据此」等既定句；唯一「据此，」1 处为南极特别保护区 influence「…保育机制」据此，它与特别保护区是不同的工具」，属正文语义）；③无括注中英混写：括号/书名号外拉丁串 105 种，全为专名(Beringia/Bluefish Caves/Wagadu/Livius/Huffman/Wallerstein/Jaén/Athens/Greece/Polis/Roman Republic/Punic Carthage/Camagüey/Seward/Tigray/Wollo/…)、期刊出版社(PLoS ONE/Cambridge Archaeological Journal/Climatic Change/QJE/Routledge/Oxford Research Encyclopedia)、单位与指标码(km²/m/Ma/ka/ka BP/cal BP/BC/BP/GDP/GIS/LiDAR/Ar-Ar/36Cl/UHI/PD/Mt CO₂e/kg/m³/g/m³/°C/°N/°S/°W/M6)、数据集/机构/模型(GLC_FCS30D/Landsat/Sentinel-2/NASA/NOAA/USGS/ATS/SCAR/BGS/EGU/OWID/Ecodatacube/BIOME/ECHAM/LULUCF/API/Wikidata/P571/P576/P580/P582/ASPA)、或已带中文括注术语(chinampa（湖上人工田）/PD（系统发育多样性）/UHI（热岛强度）/beta 多样性)，均非缺陷；④双句号及「；。」「，。」「、、」「，，」「；；」「。，」「，。」：0；⑤空括号空引号(（）/()/（ ）/「」/『』/“”/‘’//【】)：0；⑥同字段精确重复句 0、近似重复(difflib ratio≥0.90)0（definition=标题+overview 的扣题结构属既定 schema）；⑦逗号顿号(及；：)结尾：0（time_or_place 26 处无句号收尾均为「古代至今/本条引 YYYY 年…研究」等时地/来源标注短语，属既定格式与约定(a)）；⑧损坏句：括号全配对、无截断；⑨失去前提承接句：句首 因此/该文/这说明/所以/于是/因而/故/由此/从而/据此 均有前句，0；⑩空字段 0；⑪内部术语(本站/字段/pending/语义扫描/摘要通道/等级码/字段名)：0（「骨架」7 处均为行政骨架/交通骨架/水系骨架/地理骨架/重要骨架等正常中文词，属约定(c)）；⑫编辑动作叙述(已删除/原稿所加/相关说法已删除/已改写/已移除/已删去)：0（改写 2/原为 7/原文 3/修正 3 处均为正文语义，如「贵霜原为中亚草原游牧部族」「原文作…」「学界的修正」，非编辑动作）。"
+ },
+ "C": {
+  "selfcheck_aggregates": "ALL CONSISTENT 0",
+  "selfcheck_detail": "levels {'A': 215, 'D': 28} content 215 27 1 gaps {'G1': 0, 'G2': 0, 'G3': 0, 'G4': 0}",
+  "levels": {
+   "A": 215,
+   "D": 28
+  },
+  "content_ge2_one_zero": [
+   215,
+   27,
+   1
+  ],
+  "gap_counts_round62": {
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0
+  },
+  "g1_recompute": {
+   "count": 0,
+   "note": "按 tools/assess.level_of 全量重算，C 级=0，与 G1=0 一致"
+  },
+  "g3_recompute": {
+   "count": 0,
+   "note": "content_count==1 的 27 条全部为 D 级，content_count==0 的 1 条（水资源管理）亦为 D 级；非 D 且 content==1 的 0 条 → G3=0"
+  },
+  "recorded_vs_recompute_mismatches": 0,
+  "sampled_recompute": [
+   {
+    "title": "玛雅文明",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   },
+   {
+    "title": "安第斯垂直农业",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   },
+   {
+    "title": "贵霜帝国",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   },
+   {
+    "title": "阿塔卡马沙漠",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   },
+   {
+    "title": "环境数据访问",
+    "computed_level": "A",
+    "recorded_level": "A",
+    "content_count": 2
+   }
+  ],
+  "no_solution": "data/no_solution.json entries=0（空，含 _note/history），G2=0 与之一致，逐条核验为空集（无需核验即已满足「仍无强来源」）",
+  "side_evidence": "data/side_evidence.json 的 dropped 记录逐条核对：非空 sids 记录中每个 sid 均与 note 所述一致且不在该条 sources 内。阿兹特克记录 sids=['openalex-W2331608140']、note「原 W2331608140 研究的是 Tlaxcallan…已撤出，改由 openalex-W2609565117（…2017）承担」——与被撤来源一致；阿兹特克当前 sources 含 openalex-W2609565117、不含 W2331608140，自洽（应为 W2331608140，符合）。其余非空 sids（孔雀王朝/隋唐/宋代带 openalex-W…+book-review；加纳帝国 small-scale、日本列岛 flat-slab、河流三角洲 non-refractory 为短语 token）均在 note 中逐字出现。仓库最新提交 f62a2ee 即本轮前对阿兹特克 dropped sid 的更正。",
+  "items": [],
+  "advisory": "观察（非本类需改项）：SATURATION.evidence.side_evidence 快照记 {side:34,dropped:27,weak_claim:12}，而 data/side_evidence.json 实际记录 {side:34,dropped:37,weak_claim:12}（dropped 由 27 增至 37）。该快照为第71轮口径的冻结汇总字段，不被 selfcheck_aggregates / check.py / check_links.py 消费，站点计数读的是 data/side_evidence.json 自身的 counts（34/37/12，与数组长度一致），且第149/150 两轮零缺口时该快照已是 27，属长期既存描述性旧值而非正文/判据缺陷；按「务实从严、确无实质缺陷即零缺口」不判需改项，仅记录备查。"
+ },
+ "D": {
+  "scope": "全量扫描 243 条 pending_notes 中把 openalex 来源判为「旁证/仅作登记/不支撑/降级/剔除」的来源（sid 仍在 sources 内），逐一核对正文 8 字段是否仍以其为依据（含转述结论或数字）；按 D112 排除纯指针（仅题名/年代/主题示依据不转述结论或数字）与同名/同年另一来源。",
+  "focus_pairs_reviewed": 92,
+  "body_citation_candidates_reviewed": 22,
+  "explicit_title_citation_matches": 8,
+  "breakdown": {
+   "same_year_other_source_D112": 7,
+   "limited_range_caveat_in_body": 10,
+   "strong_main_source_mislabeled_side_by_D152": 3,
+   "pointer_or_honest_description": 1,
+   "legit_partial_source_used_for_narrow_claim": 1
+  },
+  "items": [],
+  "conclusion": "无残留。92 个被备注标为旁证/仅作登记/不支撑/降级/剔除的 openalex 来源，绝大多数正文根本不存在其落点（与「仅作登记」一致）；正文出现可匹配题名/年份的 22 例逐条核对：①7 例为 D112「同年另一来源」——正文所引《》其实是同年的另一独立 strong 来源，非旁证本身（桑海帝国 W2991586769↔《The Fall…》W2991426051；宋代 W4361197788↔《Schooling…》W4385538576；元代 W4389109327↔《The Mongol Yuan…》W4385538089；拜占庭帝国 W1968112198↔《A History of the Byzantine State…》W4297961286；印度河文明 W7127929917↔《ORIGIN AND GROWTH…》W7217520848；汉代 W4403972561↔《War economy…》W2961296942；澳大利亚大陆 W2010976353↔《Tectonic Framework…Gawler…》W2020779706）；②10 例正文自带限域语（「该文能支持的范围仅为…」「其范围是…不覆盖…」「仅作旁证/仅作辅助/证据强度有限」「本条不据此…」等，属约定(d)）：大分水岭、冲积平原、意大利半岛、多瑙河、突厥、维京时代（两处）、文艺复兴意大利、美国西进、地理信息系统；③3 例为 assess 的 D152 段匹配因同段「此前侧面文献仍保留为旁证」而误判为 side，实为被引≥10、正文≥800 的 strong 主来源（备注【补主来源(strong)】），正文均限域引用：拜占庭帝国 W2497655684、密西西比河 W2146690155、落基山脉 W2339053595；④1 例为纯指针：加勒比海群岛 W597527439（论文集目录级证据，且备注已补注「此前『仅作登记』系误记，予以更正」）；⑤1 例为合法的部分内容源仅支撑其题名所对应的窄断言：河流三角洲 W2034581965（降级备注允许其仅支撑「河口沙坝形成与前积」）。另 92 集中的美拉尼西亚 W2795469032（书评性文本，正文如实标注其内容）、波利尼西亚 W2241623891（weak 源，正文仅述其为学生论文汇编与弱 meta 断言）均属纯指针/如实描述，未据以立越界结论。全部均未据旁证/降级来源立超出摘要的结论或数字。"
+ },
+ "E": {
+  "check_py": "检查条目 243 条，来源 809 条 / ERRORS=0 ALL_PASS",
+  "check_links_py": "检查内部链接 4941 条 / BROKEN=0 LINKS_PASS",
+  "gap_numbers": {
+   "SATURATION.gap_model.counts": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0
+   },
+   "reports/round62_gaps.json": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "gaps": 0,
+    "one_source_entries": 0,
+    "zero_source_entries": 0
+   },
+   "data/no_solution.json": {
+    "entries": 0
+   },
+   "site/limits.html": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "G3a": 0,
+    "G3b": 0,
+    "无合格第二来源条数": 0
+   }
+  },
+  "aligned": true,
+  "last_round_check": "SATURATION.last_round=150：与最近已完成轮次(第150轮独立审计)一致（本轮为第151轮独立审计，尚未最终落账，last_round 仍为150属正常）。zero_gap_streak=2：SATURATION.zero_gap_streak_note 记第149、150轮五类全0、连续零缺口计数=2（需连续 3 轮），与实际一致；若本轮亦零缺口则达 3 轮、进入维护模式。",
+  "evidence_vs_assess": "evidence_level A215/B0/C0/D28 与 assess 重算逐条一致（0 处不符）；ge2/one/zero=215/27/1。",
+  "observation": "五处缺口数字（SATURATION.gap_model / round62_gaps / no_solution / site/limits.html 的 G1–G4 / site「无合格第二来源」条目数）均为 0，全对齐；check 0 错误、links 0 断链、selfcheck ALL CONSISTENT。",
+  "items": []
+ }
+}
