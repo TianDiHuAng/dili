@@ -143,3 +143,13 @@ R1–R25 覆盖：字段完整性、ID 合法性、来源合法性与 verified �
 - 兜底：仓库同时保留 `gh-pages` 分支（内容同为 `site/`）。若在 Settings → Pages 选择 “Deploy from a branch” → `gh-pages` / `/ (root)`，也会从该分支发布。
 
 > 说明：Actions 方式用 `actions/configure-pages` 的 `enablement: true` 自动启用 Pages，无需手动在设置里点开关。首次部署后若 404，通常需等待 1–2 分钟生效。
+
+## 数据与底图致谢 / 许可
+- **Natural Earth**（1:10m/50m 物理与国界数据）：公有领域（public domain）。
+- **world-atlas / TopoJSON**（countries-110m）：ISC / 源自 Natural Earth。
+- **historical-basemaps**（aourednik）：**CC BY 4.0**，用于“政权更替”类条目的历史疆域快照（页内已标注）。
+- 所有图示均为**内联 SVG 示意图**，非精确测绘；争议边界只描述、不画界线。
+
+## 可视化组成（每条目）
+- 上半：所在大洲**真实陆地轮廓** + Natural Earth 河流/湖泊/地貌区/冰川，红点标位置。
+- 下半：按主题的示意图（地形剖面/气候/农业/贸易/政权更替/区域），政权更替类为**历史疆域快照**。

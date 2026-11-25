@@ -288,3 +288,10 @@
 - limits 页状态文案更新为「已进入维护模式」，并说明 G4 为人工逐条语义对读。
 - 终态：243 条目全部 L2；层级 A215 / B0 / C0 / D28；缺口 G1=0 / G2=0 / G3=0 / G4=0；check.py 0 错误、check_links.py 0 断链、selfcheck_aggregates ALL CONSISTENT。
 - 未写 ALL_DONE（遵守 TASK 规则）；维护模式仍可在发现新证据或数据不一致时修订。
+
+## 第152–154轮（可视化大改版：真实地图与学科插图）
+- Phase1：全站接入 Natural Earth 物理图层（河流/湖泊/地貌区域多边形/冰川，公有领域）。地貌区域用 NAME_ZH 高亮真实范围并标注（撒哈拉沙漠、四川盆地、塔里木盆地…）。
+- Phase2：土壤剖面+质地三角、流域汇流、气候纬度带等学科示意图；大范围视野自动降采样，页面控制在 50–80KB，站点约20MB。
+- Phase3：政权更替类接入 historical-basemaps（aourednik，CC BY 4.0）年代快照，按约代表年份裁剪并高亮所属政权（页内标注 CC BY 4.0）。
+- 全部内联 SVG、零 JS；check.py 0 错误、check_links 0 断链、selfcheck 一致。
+- 待办/受限：Köppen 气候分区、SoilGrids、DEM 等高线需栅格管线与 GIS 库（当前环境无 GDAL/rasterio），暂缓；1:100万中国植被图仅内部交流不可用。
