@@ -1,7 +1,7 @@
 {
   "saturated": false,
   "zero_gap_rounds": 0,
-  "last_round": 147,
+  "last_round": 148,
   "history": [
     {
       "round": 1,
@@ -846,5 +846,5 @@
   ],
   "unsolvable": [],
   "zero_gap_streak": 0,
-  "zero_gap_streak_note": "第146轮 D 类 6 项备注-正文分裂已改；第147轮复核全站 60 条「仅作登记」备注，另发现 3 条实被引用（已更正）、53 条确未引用、4 条存疑（已注明）。连续计数保持 0。"
+  "zero_gap_streak_note": "第148轮审计发现 2 处编辑过程括注泄入正文（阿塔卡马沙漠、阿契美尼德波斯），已删改；连续计数保持 0。"
 }
