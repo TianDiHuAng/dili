@@ -309,7 +309,7 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
         f.write(page("证据层级说明", ev_body))
 
     # ---- 第61轮：已知限制 ----
-    _gmod = sat_doc.get("gap_model", {}).get("definitions", [])
+    _gmod = json.load(open(os.path.join(ROOT, "reports", "round62_gaps.json"), encoding="utf-8")).get("gap_definitions", []) if os.path.exists(os.path.join(ROOT, "reports", "round62_gaps.json")) else sat_doc.get("gap_model", {}).get("definitions", [])
     _gmap = {d["id"]: d for d in _gmod}
     _noans = (scan_doc.get("unresolved", {}) or {}).get("entries", [])
     _shell = [s for s in sources.values() if "空壳页判定" in (s.get("note") or "")]

@@ -222,3 +222,11 @@
 - C 第138轮修改复核：0。D 旁证依据：0。
 - E SATURATION.json 的 gap_model 与 evidence.levels 为旧值，已与 round62_gaps.json 同步。
 - zero_gap_streak=0。
+
+## 第140轮（独立审计）
+- A 替换抽检：剩 14 项全部重取摘要复核，全 PASS。B 机械缺陷全量：0（25 处正则命中经人工复核均为误报）。C 第139轮修改复核：0。D 旁证依据：0。
+- E 全站一致性 2 项需改：site/limits.html 缺口表仍为 G3=6、G4=243。根因是 gen_site.py 的 limits 页读 SATURATION.gap_model.definitions（旧快照），已改为直接读 reports/round62_gaps.json；SATURATION.gap_model.definitions 也同步为最新。
+- 另修：data/semantic_scan.json 的 unresolved 列表仍是 5 条旧政权（古埃及新王国/加纳/桑海/笈多/周代），这些条目后续已补足第二来源（G3=0），已改为当前 G2 的 3 条（河中地区、库什与努比亚、莫切文化）。
+- 连带修正：round77_g3split.json 为旧名单，重跑后 G3a/G3b 均为 0，一致性检查由 6 处降为 0。
+- 收尾：check 0 错误、links 0 断链、一致性 0；层级 A214/B0/C0/D29；缺口 G1=0/G2=3/G3=0/G4=0；243/243 已逐条语义扫描。
+- 本轮的缺口（E 类 2 项 + 生成源旧值）已全部修复，但按规则本轮仍计入「有发现」，连续零缺口计数从下一轮重新起算。

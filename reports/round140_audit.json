@@ -1,0 +1,263 @@
+{
+ "A": {
+  "seed": 140,
+  "pool": 170,
+  "candidates_after_excluding_r135_r139_and_fix_present": 14,
+  "sampled": 14,
+  "note": "候选不足 30，全部检查",
+  "items": [
+   {
+    "idx": 0,
+    "title": "河流三角洲",
+    "source": "openalex-W2732305580",
+    "field": "geo",
+    "scan_round": "reports\\round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2014 年研究以密西西比三角洲寡盐沼泽草皮的温室实验显示，营养盐（尤其硫酸盐）会改变植物生物量，泥沙添加可提高土壤容重；本条据此写「三角洲湿地修复需同时考虑引水的营养盐与泥沙」。",
+    "oa_title": "Nutrient and Sediment Effects on Oligohaline Marsh Plant Community in Mississippi River Delta",
+    "abstract_evidence": "The Mississippi River Delta comprises approximately 40% of the coastal wetlands in the conterminous United States, but has experienced more than 80% of the wetland loss in part due to flood control levees that have hydrologically isolated the lower River from the adjacent wetlands for a century. Thu",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 1,
+    "title": "河流三角洲",
+    "source": "openalex-W2034581965",
+    "field": "geo",
+    "scan_round": "reports\\round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2008 年研究以数学模型讨论河口沙坝的形成与前积（progradation），并以多瑙河三角洲的波塔波夫与贝斯特里支流为例；本条「河口沙坝由河流来沙与海浪能量共同塑造」据此。",
+    "oa_title": "Mathematical modeling of the formation and progradation of a river mouth bar into a sea: Case study of Danube Delta branches",
+    "abstract_evidence": "The effect of sediment yield of a stream and the energy of sea waves on the formation of bars and their dynamics at nontidal river mouths is demonstrated. Data on variations in the hydrological regime of the Potapovskii and Bystryi branches in the Danube Delta and the morphodynamics of their bars ar",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 2,
+    "title": "埃塞俄比亚高原",
+    "source": "openalex-W3029696951",
+    "field": "geo",
+    "scan_round": "reports\\round120_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2020 年《Ethiopian vegetation types, climate and topography》（被引 281）指出埃塞俄比亚八类植被主要依海拔与气候梯度划分；本条「高原的垂直地带性与气候条件塑造植被分带」据此。",
+    "oa_title": "Ethiopian vegetation types, climate and topography",
+    "abstract_evidence": "Ethiopia is land of geographical contrasts with elevations that range from 125 m below sea level in the Danakil Depression to 4533 m above sea level in the Semien Mountains, a world heritage site. The diverse climate of various ecological regions of the country has driven the establishment of divers",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 3,
+    "title": "仰韶文化",
+    "source": "openalex-W7117752262",
+    "field": "influence",
+    "scan_round": "reports\\round127_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2025 年研究（摘要 1,194 字符）讨论仰韶彩陶纹饰的社会功能，涉及记录社会事件、社会等级与身份标识以及信仰体系；本条「仰韶彩陶体现新石器时代的社会组织」据此。",
+    "oa_title": "The Social Function of Painted Pottery Motifs in the Yangshao Culture of Neolithic China",
+    "abstract_evidence": "Chinese ceramic art originated in the Neolithic period, with archaeological evidence indicating that primitive ceramics date back approximately 10,000 to 13,000 years. Throughout this long history, research on early ceramics has continued unabated. This study employs a review and analysis of existin",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 4,
+    "title": "汉萨同盟",
+    "source": "openalex-W4400815659",
+    "field": "influence",
+    "scan_round": "reports\\round127_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2024 年《The Hanseatic League》（摘要≥800 字符）指出汉萨同盟只是一个松散联系的贸易组织，却通过与诺夫哥罗德、挪威、英格兰等地当局订约保障通商，并以统一的贸易规则降低交易成本；本条「汉萨以商人网络主导北欧与波罗的海贸易」据此。",
+    "oa_title": "The Hanseatic League",
+    "abstract_evidence": "Between the fourteenth and sixteenth century the Hanseatic League left its mark on the main trading routes in central and northern Europe. Despite its role in structuring trade – and to a degree politics – in this area, it was nothing more than a loosely connected trade organisation. The merchants w",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 5,
+    "title": "南锥体",
+    "source": "openalex-W4251197559",
+    "field": "influence",
+    "scan_round": "reports\\round128_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学视角论述阿根廷、巴西、智利、巴拉圭与乌拉圭的当代政治经济，提出该区域出现了一种新的区域资本主义发展模式。",
+    "oa_title": "The Southern Cone Model",
+    "abstract_evidence": "Developing an original blend of perspectives from the fields of international and comparative political economy, this book presents an innovative and in-depth account of the contemporary political economy of the southern cone of Latin America: Argentina, Brazil, Chile, Paraguay and Uruguay.It identi",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 6,
+    "title": "美拉尼西亚",
+    "source": "openalex-W2795469032",
+    "field": "influence",
+    "scan_round": "reports\\round128_scan.json",
+    "prior_verdict": "FAIL",
+    "audited_fix": "所引 2018 年《Change and Resilience in Melanesian Societies》（摘要 13,669 字符）为书评性文本，在全球气候变化治理背景下讨论美拉尼西亚地区的变迁与韧性。",
+    "oa_title": "Change and Resilience in Melanesian Societies",
+    "abstract_evidence": "The Paris Agreement, with all its shortcomings, has started a new chapter of global climate change governance and prioritized the demands from island and low-lying states more than before. Despite the lack of leadership at the inter-state level, resources are being mobilized and channeled to climate",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 7,
+    "title": "南极洲无农业的环境约束",
+    "source": "openalex-W2994660888",
+    "field": "influence",
+    "scan_round": "reports\\round129_scan.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2014 年章节描述南极陆地环境：冰川与冰缘系统是其特征，生命依附于大陆的边缘地带，且存在显著的地理差异。",
+    "oa_title": "The terrestrial environment",
+    "abstract_evidence": "This chapter describes and explains the glacial and periglacial systems that characterise the Antarctic; the functioning of the Antarctic terrestrial ecosystem that allows life to cling to the peripheries of the continent; and the marked geographical variations. The Antarctic terrestrial environment",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 8,
+    "title": "加勒比海群岛",
+    "source": "openalex-W597527439",
+    "field": "influence",
+    "scan_round": "reports\\round135_audit.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2002 年《In the shadow of the plantation: Caribbean…》（被引75）是论文集，收有糖业革命、奴隶制时代种植园生产与解放后社会转型等专章；本条「种植园与糖业塑造了加勒比社会」据此（目录级证据）。",
+    "oa_title": "In the shadow of the plantation : Caribbean history and legacy",
+    "abstract_evidence": "Introduction I HISTORIOGRAPHY Woodville Marshall and Caribbean history by B. Brereton - 'Petticoat rebellion'?: the black women's body and voice in the struggles for freedom in colonial Jamaica by V.A. Shepherd - The making of the sugar revolution by B.W. Higman II PRODUCTION, CULTURE and RESISTANCE",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 9,
+    "title": "安第斯垂直农业",
+    "source": "openalex-W2021618803",
+    "field": "influence",
+    "scan_round": "reports\\round135_audit.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "温度趋势研究显示热带安第斯自1939年以来持续升温，升温幅度总体随海拔升高而减小，但高海拔站点的升温趋势仍然显著。",
+    "oa_title": "Mean annual temperature trends and their vertical structure in the tropical Andes",
+    "abstract_evidence": "Mean annual temperature trends in the tropical Andes were determined over the last six decades (1939–1998), to investigate the apparent inconsistency between the observed glacier retreat and the reported slight cooling trend in the lower tropical troposphere after 1979. Our results indicate that tem",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 10,
+    "title": "加勒比海群岛",
+    "source": "openalex-W2126487261",
+    "field": "influence",
+    "scan_round": "reports\\round135_audit.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "加勒比生物地理的分布格局可用隔离分化（vicariance）模型解释，而不宜先验地假定扩散是唯一或最主要的成因。",
+    "oa_title": "A Vicariance Model of Caribbean Biogeography",
+    "abstract_evidence": "Caribbean biogeography is reviewed to illustrate within a particular geographic framework how evidence of plant and animal distribution may be interpreted without commitment to special assumptions other than allopatric speciation (vicariance). The distributional data are examined with respect to whe",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 11,
+    "title": "古埃及新王国",
+    "source": "openalex-W215461327",
+    "field": "polities",
+    "scan_round": "reports\\round136_audit.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2014 年《State Correspondence in the Ancient World》（被引24）以从新王国埃及到罗马帝国的古代国家公文书信为材料，论证远程通信对早期国家的凝聚、稳定与权力下放具有关键作用。",
+    "oa_title": "State Correspondence in the Ancient World: From New Kingdom Egypt to the Roman Empire",
+    "abstract_evidence": "This book’s central thesis is simple: long-distance communication plays a key role in the cohesion and stability of early states and in turn, these states invest heavily in long-term communication strategies and networks. As reliable and fast long-distance communication facilitates the successful de",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 12,
+    "title": "赫梯王国",
+    "source": "openalex-W4280619931",
+    "field": "influence",
+    "scan_round": "reports\\round136_audit.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2022 年章节讨论赫梯国家形态：以哈图沙为中心，探讨该国如何在高度碎片化的地理格局中协商并行使权威。",
+    "oa_title": "The Hittite Empire",
+    "abstract_evidence": "From the mid-seventeenth to the early twelfth centuries BC, Central Anatolia saw the development and expansion of the Hittite state whose influence came to spread beyond the Taurus mountains into Syria and which was seen at the time as one of the Great Powers of the Late Bronze Age. Commonly interpr",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   },
+   {
+    "idx": 13,
+    "title": "大自流盆地",
+    "source": "openalex-W4409434538",
+    "field": "geo",
+    "scan_round": "reports\\round137_audit.json",
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2025 年研究（摘要 1,590 字符）以澳大利亚东北部大自流盆地（Great Artesian Basin）东缘约 50 处常温硅质泉为对象，指出它们自赫顿砂岩（Hutton Sandstone）含水层的露头边缘排泄。",
+    "oa_title": "Surface-temperature silica springs of the eastern Great Artesian Basin – Hydrogeology and hydrochemistry",
+    "abstract_evidence": "An unusual north–south line of ∼ 50 springs along the eastern margin of the Eromanga Basin, northeastern Australia, discharge from the outcrop margin of the Hutton Sandstone aquifer, which is folded so the springs are fed by easterly groundwater flow, in contrast to the dominant westwards flow withi",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 实质内容，未见编造数字/年份/人名/地名、专名误译或题名误引"
+   }
+  ],
+  "counts": {
+   "PASS": 14,
+   "SOFT": 0,
+   "FAIL": 0
+  }
+ },
+ "B": {
+  "items": [],
+  "counts": {
+   "total": 0
+  },
+  "note": "243 条×8 字段全量扫描：无轮次/决策编号或内部术语泄入、无双句号/「；。」/「，。」、空括号、空引号、截断、重复句、空字段；「据此」命中 24 处均为「不据此推断…」类范围限定或「…据此。」落点句，非赘语；古巴岛字段名命中为题名 overview 误报"
+ },
+ "C": {
+  "items": [],
+  "counts": {
+   "reviewed": 35,
+   "landed": 33,
+   "needs_text_fix": 0
+  },
+  "note": "第139轮 B 33 项 claim 均已移除、fix 均在字段中（基辅罗斯为删句，field_after 逐字一致）；E 两项 SATURATION.json 现为 G3=0/G4=0、A214/B0/C0/D29，已落地；满者伯夷、大分水岭补丁处上下文通顺、无残句"
+ },
+ "D": {
+  "items": [],
+  "counts": {
+   "confirmed": 0
+  },
+  "note": "pending_notes 中「仅作登记/不支撑任何断言」的 openalex 源，其题名均不在正文中出现，抽读相关字段亦无转述其结论或数字的句子"
+ },
+ "E": {
+  "checks": {
+   "check.py": "ERRORS=0 ALL_PASS（243 条/807 来源）",
+   "check_links.py": "BROKEN=0 LINKS_PASS（4947 链接）",
+   "evidence_level_vs_assess": "一致 A214/D29",
+   "SATURATION_vs_round62": "一致 G1=0/G2=3/G3=0/G4=0；levels A214/B0/C0/D29",
+   "limits_vs_round62": "不一致"
+  },
+  "items": [
+   {
+    "title": "site/limits.html",
+    "field": "缺口四类表 G3 行",
+    "claim": "<td>内容源仅 1 个（需第二互证）</td><td><b>6</b></td>",
+    "fix": "<td>内容源仅 1 个（需第二互证）</td><td><b>0</b></td>",
+    "reason": "round62_gaps 与 SATURATION.json 记 G3=0，同页下文亦写 G3a 0、G3b 0，表格仍为旧值 6"
+   },
+   {
+    "title": "site/limits.html",
+    "field": "缺口四类表 G4 行",
+    "claim": "<td>语义对题未经机器校验</td><td><b>243</b></td>",
+    "fix": "<td>语义对题未经机器校验</td><td><b>0</b></td>",
+    "reason": "round62_gaps 与 SATURATION.json 记 G4=0，表格仍为旧值 243；该页由 gen_site 生成，宜同步修正生成源后重建"
+   }
+  ],
+  "counts": {
+   "total": 2
+  }
+ }
+}
