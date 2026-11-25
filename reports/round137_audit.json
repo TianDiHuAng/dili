@@ -1,0 +1,3077 @@
+{
+ "A": {
+  "sampled": 30,
+  "seed": 137,
+  "pool": 170,
+  "candidates_after_excluding_r135_r136": 137,
+  "fix_present": 111,
+  "items": [
+   {
+    "idx": 0,
+    "title": "河流三角洲",
+    "source": "openalex-W2097225658",
+    "field": "geo",
+    "scan_round": 120,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2006 年《High-Resolution Stratigraphy of a Mississippi Subdelta-Lobe》（被引23）指出路易斯安那东南沿海是密西西比三角洲多次前积、废弃与海侵旋回的产物；本条「三角洲在前积、废弃与海侵的交替中演化」据此。",
+    "abstract_evidence": "The coastal zone of southeastern Louisiana is the product of numerous cycles of progradation, abandonment, and marine transgression of the Mississippi River delta. Currently, the shoreline in the Barataria Bight is undergoing significant erosion and retreat, and understanding its evolution is crucia",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 1,
+    "title": "孔雀王朝",
+    "source": "openalex-W2015841063",
+    "field": "polities",
+    "scan_round": 121,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2006 年《The Mauryan empire in early India》（被引24）以孔雀帝国为例区分王国与帝国，认为帝国需要重组经济以提供税收、建立适合地方治理的行政形式，并推行有弹性的意识形态。",
+    "abstract_evidence": "This article attempts to differentiate a kingdom from an empire by arguing that an empire is a more evolved form of the state than a kingdom. An essential feature of empire has generally been extensive territory held together by continuing conquests and a centralized administration. The argument in ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 2,
+    "title": "欧洲温带海洋性气候",
+    "source": "openalex-W2073338420",
+    "field": "influence",
+    "scan_round": 124,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2005 年模式研究指出，大西洋温盐环流减弱会使欧洲海洋性影响增强却导致降温，即这一气候型的温和特征依赖洋流而不仅是纬度。",
+    "abstract_evidence": "The ocean thermohaline circulation (THC) in the Atlantic is generally accepted to contribute to the comparatively mild climate of western and northern Europe. Global climate models (Manabe and Stouffer, 1995; Vellinga and Wood, 2002) and palaeo‐observations (McManus et al., 2004) associate periods o",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 3,
+    "title": "马其顿与亚历山大",
+    "source": "openalex-W4244368576",
+    "field": "polities",
+    "scan_round": 123,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2010 年《Alexander the Great and His Empire: A Short Introduction》（被引 107）在阿契美尼德波斯史背景下概述亚历山大征服波斯帝国、建立从地中海到中亚的短命帝国。",
+    "abstract_evidence": "This is the first publication in English of Pierre Briant's classic short history of Alexander the Great's conquest of the Persian empire, from the Mediterranean to Central Asia. Eschewing a conventional biographical focus, this is the only book in any language that sets the rise of Alexander's shor",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 4,
+    "title": "孔雀王朝",
+    "source": "openalex-W7220362328",
+    "field": "polities",
+    "scan_round": 121,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2026 年《The Empire Under One Umbrella: Espionage, Reporting and the…》（摘要 3,665 字符）论证孔雀帝国若无信息获取、传递与核验系统，便无法维系于单一权威之下；本条「孔雀王朝依靠情报与通信网络维系统一」据此。",
+    "abstract_evidence": "This paper argues that the Mauryan empire could not have been held together under a single authority without a system for acquiring, moving and verifying information, and that this proposition — which no surviving document states in so many words — can be established by correlating four independent ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 5,
+    "title": "元代",
+    "source": "openalex-W4407331209",
+    "field": "influence",
+    "scan_round": 122,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2025 年《Communications and \"Communicators\" in the Yuan and Early Ming》讨论蒙古为治理多语种疆域而设立译官机构、命八思巴创制文字，但该文字几乎只用于纸钞、印章与牌符等官方器物，语言统一未能实现；本条「元廷以译官机构与官方文字维系多语种治理」据此。",
+    "abstract_evidence": "Having conquered a vast multi-lingual domain, the Mongols needed to devise a means of communication with the population. In earlier Chinese dynasties, individuals had translated Buddhist texts, treaties, and commercial agreements, but the Mongols in China founded government agencies and recruited Ch",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 6,
+    "title": "大自流盆地",
+    "source": "openalex-W1969120728",
+    "field": "influence",
+    "scan_round": 125,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引氯-36 定年研究以 36Cl 测定大自流盆地地下水年龄，显示部分地下水滞留时间可达百万年量级。",
+    "abstract_evidence": "Chlorine 36 has many advantages as a dating tool for very old groundwater. These advantages include a suitable half‐life (3.01 × 10 5 years), simple geochemistry, conservative behavior in groundwater, and a general absence of subsurface sources at levels comparable to the atmospheric input. Recent a",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 7,
+    "title": "伊比利亚半岛",
+    "source": "openalex-W1985300983",
+    "field": "geo",
+    "scan_round": 123,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1920 年《The Iberian Peninsula: A Geographical Study》是面向小学五六年级的区域地理教学研究。",
+    "abstract_evidence": "The fundamental idea underlying the following study of the Iberian Peninsula is that real knowledge of the geography of any region cannot be gained by memorizing facts about it but only through an understanding of the relationship existing between these facts and, further, that such an understanding",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 8,
+    "title": "澳大利亚原住民",
+    "source": "openalex-W621323142",
+    "field": "influence",
+    "scan_round": 120,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2002 年《Visions from the Past: The Archaeology of Australian Aboriginal Art》（被引169）系统讨论澳大利亚原住民岩画艺术的考古；本条「原住民岩画记录了创世、祖先与律法的故事，是延续极久的文化记录」据此（艺术与信仰侧面，社会制度另需来源）。",
+    "abstract_evidence": "A vast art gallery - the work of 1500 generations. Across an island continent - on flat slabs overlooking the sea, on desert boulders, under rock overhangs, on the sheer face of deep ravines - the first Australians painted and carved what mattered to them. Here are stories of the birth of the world ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 9,
+    "title": "巴尔干半岛",
+    "source": "openalex-W4407567235",
+    "field": "influence",
+    "scan_round": 123,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2024 年《The Balkans: History, Religion and Society》（摘要 7,541 字符）综述巴尔干的历史、宗教与社会；本条「巴尔干民族问题复杂、长期难获稳定」据此。",
+    "abstract_evidence": "The Balkans could not exist with positive agendas in the formation and writing of 19th and 20th-century world history.As a region with an imperial legacy, it struggled to achieve phenomena such as balance, stability, trust, and security amidst numerous internal and external processes such as migrati",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 10,
+    "title": "澳大利亚混合农业",
+    "source": "openalex-W1494268843",
+    "field": "influence",
+    "scan_round": 125,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引研究关注小麦—养羊带的生产灵活性与技术变迁，显示各类产出供给缺乏弹性，养羊与种植相互补充。",
+    "abstract_evidence": "The flexibility of production and the bias of technical change in the Wheat- Sheep Zone has been examined by estimating the system of derived output and input share equations from a translog variable profit function. This analysis was undertaken for three outputs (sheep and wool, crops, and beef cat",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 11,
+    "title": "北美原住民",
+    "source": "openalex-W2568445233",
+    "field": "influence",
+    "scan_round": 134,
+    "prior_verdict": "FAIL",
+    "audited_fix": "关于首次进入的时间，该 2017 年研究以 Bluefish Caves 的新测年主张人类在末次盛冰期期间已出现于东白令地区，但这一观点在学界仍有争议。",
+    "abstract_evidence": "The timing of the first entry of humans into North America is still hotly debated within the scientific community. Excavations conducted at Bluefish Caves (Yukon Territory) from 1977 to 1987 yielded a series of radiocarbon dates that led archaeologists to propose that the initial dispersal of human ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 12,
+    "title": "巴尔干半岛",
+    "source": "openalex-W631685674",
+    "field": "influence",
+    "scan_round": 123,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2004 年研究把巴尔干视为欧洲生物多样性的热点，并讨论其作为欧洲温带树种冰期避难所的地位。",
+    "abstract_evidence": "List of Contributors.- 1. Pattern and Process in Balkan Biodiversity - an overview B. Krystufek, J.M. Reed.- 2. The physical geography of the Balkans and nomenclature of place names J.M. Reed, B. Krystufek, W.J. Eastwood.- Part 1: Terrestrial.- 3. East Mediterranean vegetation and climate change W.J",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 13,
+    "title": "洋流",
+    "source": "openalex-W2328457086",
+    "field": "geo",
+    "scan_round": 126,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1969 年《Climate and the Ocean Circulation》（被引 120）构建海洋—大气耦合环流模式，两部分之间交换动量、热量与水分；本条据此说明海洋环流与气候在模式中相互耦合。",
+    "abstract_evidence": "A general circulation model of the joint ocean-atmosphere system is constructed by combining an ocean model and an atmospheric model. The quantities exchanged between the oceanic part and the atmospheric part of the joint model are momentum, heat, and water. Integration of the atmospheric part yield",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 14,
+    "title": "巴西殖民经济",
+    "source": "openalex-W565333537",
+    "field": "influence",
+    "scan_round": 125,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2024 年研究讨论殖民巴西的社会结构与政府管理，包括王权的实际运作及港口与边疆的作用。",
+    "abstract_evidence": "Professor Russell-Wood’s detailed studies of Brazilian social history in the colonial era have long been recognised as model contributions to the history of class, race, gender and religion. This collection combines work on particular persons and groupings with survey articles on the role of the por",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 15,
+    "title": "桑海帝国",
+    "source": "openalex-W2991426051",
+    "field": "polities",
+    "scan_round": 121,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2018 年《The Fall of the Songhai Empire》（摘要 937 字符）叙述桑海军队在通迪比被摩洛哥将领朱达尔击败后，帝国陷入普遍的无政府与劫掠状态；本条「桑海在摩洛哥入侵后解体」据此。",
+    "abstract_evidence": "Throughout the history of Songhai there hovered on its northern frontier uncontrolled bands of Tuareg, mostly Idenan and Immedideren to whom the foundation of Timbuktu has been attributed. The immediate sequel to the defeat of the Songhai army by Judar at Tondibi was a general outbreak of anarchy an",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 16,
+    "title": "墨西哥湾",
+    "source": "openalex-W1994091524",
+    "field": "influence",
+    "scan_round": 124,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引研究显示墨西哥湾中部表层海洋条件存在显著的季节与年代际自然变率，与风速、海温及混合层深度相关；这为区分自然波动与人为影响提供基线。",
+    "abstract_evidence": "This work characterizes patterns of temporal variability in surface waters of the central Gulf of Mexico. We examine remote-sensing based observations of sea surface temperature (SST), wind speed, sea surface height anomaly (SSHA), chlorophyll-a concentration (Chl-a) and Net Primary Production (NPP)",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 17,
+    "title": "洋流",
+    "source": "openalex-W1556419777",
+    "field": "geo",
+    "scan_round": 126,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2001 年研究以海洋边缘密度结构约束过去的海洋环流与表层风强，据此估算经向地转输运及其中的风生与热盐翻转分量）；形成表层环流与深层翻转环流。",
+    "abstract_evidence": "The density structure along the ocean margins carries an integrated imprint of ocean circulation. The difference in pressure between the eastern and western margins of the ocean reflects the net meridional geostrophic transport across the ocean basin. If one assumes that the wind driven circulation ",
+    "fix_in_current": true,
+    "verdict": "SOFT",
+    "reason": "内容与摘要一致，但句子结构损坏：括注外残留「）」后接「；形成表层环流与深层翻转环流」，句子不完整（见 B）"
+   },
+   {
+    "idx": 18,
+    "title": "太平洋殖民航线",
+    "source": "openalex-W2204248832",
+    "field": "influence",
+    "scan_round": 128,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2007 年《Lapita and Western Pacific Settlement》（被引35）回顾拉皮塔起源的长期争论，指出 1970 年代起有学者主张这一精细纹饰陶器传统主要与新石器时代南岛语族扩张有关。",
+    "abstract_evidence": "Lapita originsThe question of Lapita origins has been debated for decades (see Pawley this volume).As increasing archaeological research results began to emerge from both the Pacific and Island Southeast Asia in the 1970s it was argued that the presence of this intricately decorated ceramic traditio",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 19,
+    "title": "拜占庭帝国",
+    "source": "openalex-W2497655684",
+    "field": "influence",
+    "scan_round": 123,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2009 年《The Middle Byzantine Economy (600–1204)》（被引21）讨论中期拜占庭经济，并把它视为理解拜占庭国家、社会与文化的关键。",
+    "abstract_evidence": "The Byzantine economy is an important subject on a number of grounds. It is arguably the key to the history of the Byzantine state, society and culture; it forms part of the picture of a transition from the ancient world to the middle ages – and part of the debate as to whether those are meaningful ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 20,
+    "title": "白令陆桥",
+    "source": "openalex-W2064781282",
+    "field": "geo",
+    "scan_round": 119,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1973 年研究重建白令地区海平面历史：倒数第二次冰期最低约 −135 米，末次冰期（晚威斯康星）约 −90 至 −100 米；",
+    "abstract_evidence": "This paper attempts to relate current knowledge of sea-level history in Beringia to the Broecker-van Donk “Termination” concept of climatic and sea-level history. The Einahnuhtan transgression is thought to represent Termination III, which according to Broecker and van Donk, took place about 225,000",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 21,
+    "title": "迈锡尼文明",
+    "source": "openalex-W586005727",
+    "field": "influence",
+    "scan_round": 127,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2008 年《Beyond the Palace: Mycenaean East Lokris》（被引39）以希腊中部东洛克里斯（奥尔霍迈诺斯宫殿以北、北埃维亚湾沿岸的南北通道）的考古材料讨论宫殿之外的迈锡尼聚落。",
+    "abstract_evidence": "Archaeological sites in a well-defined area on the northwestern shore of the North Euboean Gulf, an area which roughly corresponds to the southeastern part of East Lokris (Central Greece) and which served as a corridor between northern and southern Greece over land as well as over sea. The first cha",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 22,
+    "title": "波利尼西亚",
+    "source": "openalex-W2241623891",
+    "field": "influence",
+    "scan_round": 120,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1976 年《Micronesian and Polynesian Voyaging: Three Readings》为夏威夷大学太平洋航海课程的学生论文汇编，涉及传统导航、天文导航知识与首批定居夏威夷的独木舟载运模型；本条「传统航海与导航知识是太平洋岛屿研究的重要主题」据此。",
+    "abstract_evidence": "In the fall of 1975 a course on Pacific voyaging was offered at the University of Hawaii under the instruction of Professor Ben Finney of the Anthropology Department.The focus was on Micronesian and Polynesian canoe voyaging.Interest in traditional voyaging was widely felt in Hawaii as the Polynesia",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 23,
+    "title": "的的喀喀湖",
+    "source": "openalex-W3149966361",
+    "field": "influence",
+    "scan_round": 128,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2002 年研究以「水中的界线」为题，讨论的的喀喀湖在湖畔渔民、割芦苇者与造船者文化中的角色，并涉及现代技术与经济需求的冲击和当地维持文化自主、保护脆弱山地环境之间的关系。",
+    "abstract_evidence": "This beautifully written book weaves reflections on anthropological fieldwork together with evocative meditations on a spectacular landscape as it takes us to the remote indigenous villages on the shore of Lake Titicaca, high in the Peruvian Andes. Ben Orlove brings alive the fishermen, reed cutters",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 24,
+    "title": "大津巴布韦",
+    "source": "openalex-W2088347048",
+    "field": "polities",
+    "scan_round": 121,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1972 年《The Rise and Fall of Zimbabwe》（被引 114）认为津巴布韦文化是次生国家，其兴起几乎可以肯定源于阿拉伯黄金贸易；本条「大津巴布韦的政治中心依托远距离黄金贸易兴起」据此。",
+    "abstract_evidence": "Two hypotheses are available for the origin of the Zimbabwe culture. A religious hypothesis attributes its development to an African society in isolation, placing it in the class of a primary state. In contrast, the trade hypothesis maintains that it was a secondary state resulting from the gold tra",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 25,
+    "title": "大自流盆地",
+    "source": "openalex-W4409434538",
+    "field": "geo",
+    "scan_round": 125,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2025 年研究（摘要 1,590 字符）研究澳大利亚东北部 Great Artesian Basin 东缘约 50 处 silica 温泉，指出它们自 Hutton Sandstone 含水层的露头边缘排泄。",
+    "abstract_evidence": "An unusual north–south line of ∼ 50 springs along the eastern margin of the Eromanga Basin, northeastern Australia, discharge from the outcrop margin of the Hutton Sandstone aquifer, which is folded so the springs are fed by easterly groundwater flow, in contrast to the dominant westwards flow withi",
+    "fix_in_current": true,
+    "verdict": "SOFT",
+    "reason": "摘要题名为 Surface-temperature silica springs（常温硅质泉），fix 写成「温泉」与来源相反；另「研究…研究」重复、silica 未译（中英混写）",
+    "claim": "所引 2025 年研究（摘要 1,590 字符）研究澳大利亚东北部 Great Artesian Basin 东缘约 50 处 silica 温泉，指出它们自 Hutton Sandstone 含水层的露头边缘排泄。",
+    "fix": "所引 2025 年研究（摘要 1,590 字符）以澳大利亚东北部大自流盆地（Great Artesian Basin）东缘约 50 处常温硅质泉为对象，指出它们自赫顿砂岩（Hutton Sandstone）含水层的露头边缘排泄。"
+   },
+   {
+    "idx": 26,
+    "title": "多瑙河",
+    "source": "openalex-W2467786621",
+    "field": "geo",
+    "scan_round": 123,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1999 年《Hydrology as a major factor…in two floodplain…》（被引55）以维也纳下游两段洪泛区为对象，指出水文连通性是理解大型河流—洪泛区生态过程的核心。",
+    "abstract_evidence": "Hydrological connectivity is central to the understanding of ecological processes in large river-floodplain systems. Effects of hydrological connectivity were investigated in context with the restoration of ecological integrity. In Austria, downstream of Vienna, the River Danube and two floodplain s",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 27,
+    "title": "吠陀时代",
+    "source": "openalex-W4392034964",
+    "field": "influence",
+    "scan_round": 121,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 2024 年《The Vedic Tribes》讨论吠陀部落进入印度后与本地人群的持续冲突，以及战争劫掠/迁徙与和平定居两阶段交替（yoga-kṣema）对其社会组织和宗教的影响；本条「吠陀时代以部落组织为特征」据此。",
+    "abstract_evidence": "From the time they entered India in the first half of the second century bc, the Vedic tribes were constantly in conflict with the indigenous population. Thus a constitutive aspect of their society was the alternation between warlike raids and migratory movements to gain land and other goods on the ",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 28,
+    "title": "萨赫勒带",
+    "source": "openalex-W2144515426",
+    "field": "influence",
+    "scan_round": 134,
+    "prior_verdict": "FAIL",
+    "audited_fix": "萨赫勒的干旱与土地退化通常被认为与气候波动和土地利用都有关，不宜归因于单一因素。",
+    "abstract_evidence": "This article deals with the characteristics of rainfall variability in West Africa. Time series of June—July, August—September and annual rainfall anomalies are derived for 19 regions, most of which are in the Sahel—Soudan zones of West Africa. The temporal characteristics of the series, such as tre",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   },
+   {
+    "idx": 29,
+    "title": "明清",
+    "source": "openalex-W2081119930",
+    "field": "influence",
+    "scan_round": 122,
+    "prior_verdict": "SOFT",
+    "audited_fix": "所引 1990 年研究以广东佛山为例，讨论明清市镇领袖如何看待市镇与自身的地位，认为他们意识到市镇的繁荣根植于经济。",
+    "abstract_evidence": "WHAT MADE FOSHAN A TOWN? THE EVOLUTION OF RURAL-URBAN IDENTITIES IN MING-QING CHINA* David Faure Cities and towns appear in the current Chinese social and economic history literature in four non-exclusive, but recognizably discreet, contexts. First, as \"central places,\" they are discussed as nodes i",
+    "fix_in_current": true,
+    "verdict": "PASS",
+    "reason": "摘要支持 fix 的实质内容；年份、被引、摘要字符数为元数据，未发现编造的数字、年份、人名或地名"
+   }
+  ],
+  "counts": {
+   "PASS": 28,
+   "SOFT": 2,
+   "FAIL": 0
+  }
+ },
+ "B": {
+  "items": [
+   {
+    "title": "马里帝国",
+    "field": "influence",
+    "claim": "删去该句，或改为不依赖该来源的表述（不出现「所引」及该文年份/题名）本条据此只写「跨撒哈拉黄金贸易长期存在并有其度量传统」，不据此推断其与政治权力的关系。",
+    "fix": "跨撒哈拉黄金贸易长期存在，并形成了相应的称量传统；其与政治权力的关系不在此推断。",
+    "type": "损坏句：上轮 D 项的修改指令被原样写入正文",
+    "reason": "损坏句：上轮 D 项的修改指令被原样写入正文"
+   },
+   {
+    "title": "莱茵河",
+    "field": "geo",
+    "claim": "删去该句，或改为不依赖该来源的表述（不出现「所引」及该文年份/题名）本条「莱茵河为欧洲重要航运水道、人类工程深刻改造其河道」据此。",
+    "fix": "莱茵河是欧洲重要的航运水道，人类工程深刻改造了其河道。",
+    "type": "损坏句：上轮 D 项的修改指令被原样写入正文",
+    "reason": "损坏句：上轮 D 项的修改指令被原样写入正文"
+   },
+   {
+    "title": "火灾生态",
+    "field": "influence",
+    "claim": "本条不把 regime 窄化为「频率」",
+    "fix": "本条不把火情势（fire regime）窄化为「频率」",
+    "type": "中英混写",
+    "reason": "中英混写"
+   },
+   {
+    "title": "火灾生态",
+    "field": "geo",
+    "claim": "火 regime 随气候与植被类型变化",
+    "fix": "火情势（fire regime）随气候与植被类型变化",
+    "type": "中英混写",
+    "reason": "中英混写"
+   },
+   {
+    "title": "洋流",
+    "field": "geo",
+    "claim": "本条据此说明海洋环流与气候在模式中相互耦合。",
+    "fix": "该模式表明海洋环流与气候相互耦合。",
+    "type": "「据此」后残留赘语",
+    "reason": "「据此」后残留赘语"
+   },
+   {
+    "title": "洋流",
+    "field": "geo",
+    "claim": "据此估算经向地转输运及其中的风生与热盐翻转分量）；形成表层环流与深层翻转环流。",
+    "fix": "据此估算经向地转输运及其中的风生与热盐翻转分量），洋流由此形成表层环流与深层翻转环流。",
+    "type": "损坏句：括注后句子缺主语、衔接断裂",
+    "reason": "损坏句：括注后句子缺主语、衔接断裂"
+   },
+   {
+    "title": "南极大陆",
+    "field": "geo",
+    "claim": "大规模 glaciation 以来",
+    "fix": "大规模冰川作用（glaciation）以来",
+    "type": "中英混写",
+    "reason": "中英混写"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "polities",
+    "claim": "被称为 satrap 的附庸王",
+    "fix": "被称为总督（satrap）的附庸王",
+    "type": "中英混写",
+    "reason": "中英混写"
+   },
+   {
+    "title": "周代",
+    "field": "polities",
+    "claim": "本条取 preferred rank 的 1046",
+    "fix": "本条取首选值（preferred rank）1046",
+    "type": "中英混写",
+    "reason": "中英混写"
+   },
+   {
+    "title": "古希腊城邦",
+    "field": "influence",
+    "claim": "指出 polis 同时是聚居实体与自治政体",
+    "fix": "指出城邦（polis）同时是聚居实体与自治政体",
+    "type": "中英混写",
+    "reason": "中英混写"
+   },
+   {
+    "title": "十三殖民地",
+    "field": "connections",
+    "claim": "沿岸 cabotage 把十三个港口连成一体",
+    "fix": "沿岸航运（cabotage）把十三个港口连成一体",
+    "type": "中英混写",
+    "reason": "中英混写"
+   },
+   {
+    "title": "大自流盆地",
+    "field": "geo",
+    "claim": "约 50 处 silica 温泉",
+    "fix": "约 50 处常温硅质泉（silica springs）",
+    "type": "中英混写（兼与来源不符，见 A#25）",
+    "reason": "中英混写（兼与来源不符，见 A#25）"
+   },
+   {
+    "title": "法蒂玛王朝",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "非洲大湖地区",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "南极洲无农业的环境约束",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "南极特别保护区",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "沙漠化",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "争议边界处理原则",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "生物多样性分布",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "城市热岛",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "自然灾害风险",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "极端天气预警",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "环境治理",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "可持续交通",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "火灾生态",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "农业气候风险",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "阿巴拉契亚山脉",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "古巴岛",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "查文文化",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "南美贸易网络",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   },
+   {
+    "title": "南锥体",
+    "field": "overview",
+    "claim": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "fix": "机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
+    "type": "中英混写：字段名 geo 泄入正文",
+    "reason": "中英混写：字段名 geo 泄入正文"
+   }
+  ],
+  "counts": {
+   "total": 31
+  }
+ },
+ "C": {
+  "reviewed": [
+   {
+    "title": "撒哈拉沙漠",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "撒哈拉沙漠",
+    "field": "polities",
+    "sentence": "跨越撒哈拉的商路使绿洲与沿海区域长期保持互动，政权更替与商路走向、绿洲分布相关；具体政权名称、年代与疆域待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "撒哈拉沙漠",
+    "field": "today",
+    "sentence": "撒哈拉腹地人口稀少，两国人口集中于沿海与河谷；沙漠区内人口与绿洲面积数据待遥感与专门统计核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "尼罗河谷",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "尼罗河三角洲",
+    "field": "time_or_place",
+    "sentence": "现代环境观测（本条引 2010 年水质研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "尼罗河三角洲",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "东非大裂谷",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "东非大裂谷",
+    "field": "polities",
+    "sentence": "裂谷沿线的湖泊与高地条件影响聚落与交通，区域政治组织随农牧与贸易格局变化；具体政权与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "东非大裂谷",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "埃塞俄比亚高原",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录，最高海拔为 4,550 m；具体边界与内部差异待专门地理来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "埃塞俄比亚高原",
+    "field": "polities",
+    "sentence": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "刚果盆地",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "几内亚湾沿岸",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "萨赫勒带",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "萨赫勒带",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "萨赫勒带",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马格里布",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录，面积为 6,045,741 km²；具体边界与内部差异待专门地理来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马格里布",
+    "field": "polities",
+    "sentence": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古埃及早王朝",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古埃及古王国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古埃及古王国",
+    "field": "today",
+    "sentence": "金字塔区遗址保护与游客数据待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古埃及中王国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古埃及新王国",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前1550年–前1070年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古埃及新王国",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "库什与努比亚",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前2180年–350年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "库什与努比亚",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "迦太基",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "迦太基",
+    "field": "today",
+    "sentence": "迦太基遗址位于今突尼斯境内，遗产保护与游客数据待核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马阿非利加",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前146年–439年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马阿非利加",
+    "field": "geo",
+    "sentence": "所引 2004 年 Segermes 项目以突尼斯的单一谷地为对象，重建城镇与其腹地的农业产出；该项目明确声明不覆盖全省，故本条只据它写个案，不据此推断全行省的谷物与橄榄输出（后者待省级调查或产量数据核验）。",
+    "judgment": "misexcluded",
+    "note": "该句陈述所引研究的具体发现，应接受摘要对读。摘要支持「单一谷地」「项目不覆盖全省」，但只写「揭示城镇与周边的经济机制与社会关系」，未写「重建农业产出」（仅题名含 Production），fix 按摘要收窄"
+   },
+   {
+    "title": "罗马阿非利加",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿拉伯征服北非",
+    "field": "time_or_place",
+    "sentence": "7世纪中叶至8世纪初（本条引 2020 年「北非门户」研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "阿拉伯征服北非",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "法蒂玛王朝",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "加纳帝国",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 100年–1200年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "加纳帝国",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马里帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马里帝国",
+    "field": "influence",
+    "sentence": "贸易对帝国财政的作用待专门研究核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马里帝国",
+    "field": "polities",
+    "sentence": "帝国依托尼日尔河与跨撒哈拉商路的区位形成，其兴起与贸易线路、绿洲节点相关；具体王朝序列与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马里帝国",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "桑海帝国",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 1464年–1591年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "桑海帝国",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大津巴布韦",
+    "field": "time_or_place",
+    "sentence": "11–15世纪（起讫年学界有不同表述；本条引 1998 年认知考古研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "大津巴布韦",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "斯瓦希里海岸",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "斯瓦希里海岸",
+    "field": "polities",
+    "sentence": "海岸城邦依托港湾与季风航道形成贸易网络，外来势力介入改变区域格局；具体城邦名单与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "非洲大湖地区",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "南极大陆",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极大陆",
+    "field": "polities",
+    "sentence": "南极无主权国家，领土主张由南极条约体系冻结，国际合作管理科研与环境保护；具体条款与年份待官方来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极半岛",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极冰盖",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极冰盖",
+    "field": "polities",
+    "sentence": "冰盖研究由多国科考计划合作推进，数据通过国际计划共享；具体计划待官方来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极冰盖",
+    "field": "today",
+    "sentence": "冰盖质量变化趋势需引用最新卫星观测；具体数值待按年份从 NASA 机构页核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极条约体系",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极条约体系",
+    "field": "polities",
+    "sentence": "缔约国通过定期协商会议制定措施，环境议定书强化保护义务；具体条款、年份与成员情况待官方来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "冰芯气候记录",
+    "field": "polities",
+    "sentence": "多国钻探计划通过国际合作共享样品与数据，形成长期观测体系；具体计划与条款待研究机构核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南极洲无农业的环境约束",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "南极特别保护区",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "松岛冰川退缩",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "两河流域",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "两河流域",
+    "field": "polities",
+    "sentence": "冲积平原的水利与城市条件支撑早期政治组织，区域在多个时期被不同政权整合；具体王朝序列与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "两河流域",
+    "field": "today",
+    "sentence": "两河水量分配与灌溉面积数据待专门统计与流域机构核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "苏美尔城邦",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "苏美尔城邦",
+    "field": "today",
+    "sentence": "南部遗址群保护状况与考古进展待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿卡德帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿卡德帝国",
+    "field": "today",
+    "sentence": "相关遗址与文献释读进展待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古巴比伦",
+    "field": "time_or_place",
+    "sentence": "约公元前2千纪初至前1千纪（古巴比伦王国；后期巴比伦在波斯与塞琉古治下延续，本条引 2017 年晚期巴比伦经济研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "古巴比伦",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "亚述帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "赫梯王国",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "geo",
+    "sentence": "高原、沙漠与山口影响行军路线与区域联系，具体交通网络细节待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "polities",
+    "sentence": "Livius 的居鲁士专题页记载其兴起、巴比伦与安纳托利亚等地的扩张，并述及被称为 satrap 的附庸王；王表与年代序列待专门史料逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿契美尼德波斯",
+    "field": "today",
+    "sentence": "波斯波利斯等遗址保护与游客数据待核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "帕提亚帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "萨珊波斯",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "印度河文明",
+    "field": "polities",
+    "sentence": "是否形成统一国家尚无定论，城市体系的治理形态待专门考古研究核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "吠陀时代",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "孔雀王朝",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "贵霜帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "笈多王朝",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 320年–550年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "笈多王朝",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "黄河流域",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "长江流域",
+    "field": "geo",
+    "sentence": "量值说明：本条引用的 Wikidata 数值是长江河流长度（约6300千米），流域面积在本环境可获得的结构化数据中缺失，待专门水文来源核验。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "长江流域",
+    "field": "polities",
+    "sentence": "本条不展开具体政权序列；流域内的政治整合与行政沿革待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "长江流域",
+    "field": "connections",
+    "sentence": "通过长江口与沿海港口连接海上贸易网络，形成内陆—沿海双重联系；与黄河流域的历史联系待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "仰韶文化",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "商代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前1600年–前1046年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "商代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "周代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前1046年–前256年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "周代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "秦代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 前221年–前206年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "秦代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "秦代",
+    "field": "polities",
+    "sentence": "所引 2019 年研究讨论秦统一后的大规模赐爵、黔首身份与县属吏（里耶秦简），不涉度量衡；本条只据此写「统一后的爵制与地方行政」，度量衡与郡县制待专门制度史来源核验。",
+    "judgment": "misexcluded",
+    "note": "该句陈述所引 2019 年研究（W2979855713）的具体内容：统一后大规模赐爵、黔首、县属吏、里耶秦简，均见摘要；不涉度量衡亦属实。内容正确，只需归入所引句核对，无需改字"
+   },
+   {
+    "title": "汉代",
+    "field": "polities",
+    "sentence": "西汉—新朝—东汉的帝系与年号待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "隋唐",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "宋代",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "宋代",
+    "field": "polities",
+    "sentence": "该时期政治中心与北方政权的互动影响疆域与财政结构；具体年代、战役与制度细节待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "元代",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录为 1271年–1368年；具体疆域与制度演变待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "元代",
+    "field": "polities",
+    "sentence": "具体统治者序列、年号与制度细节待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "明清",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "朝鲜半岛",
+    "field": "time_or_place",
+    "sentence": "地质与植被史尺度（本条引 2000 年半岛植被史研究，资料覆盖二叠纪至今）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "朝鲜半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "日本列岛",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "日本列岛",
+    "field": "polities",
+    "sentence": "列岛历史上形成多个区域政权，近代以后政治结构经历显著变化；具体王朝与年代待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "日本列岛",
+    "field": "today",
+    "sentence": "列岛人口集中于沿海平原，具体分布数据待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "中南半岛",
+    "field": "time_or_place",
+    "sentence": "地质与气候尺度（本条引 2007 年风化研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "中南半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "湄公河三角洲",
+    "field": "time_or_place",
+    "sentence": "现代水文观测（本条引 2014 年地面沉降研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "湄公河三角洲",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "湄公河三角洲",
+    "field": "today",
+    "sentence": "三角洲稻米产量与沉降速率数据待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "吴哥",
+    "field": "time_or_place",
+    "sentence": "鼎盛期约 9–15 世纪；本条所引研究覆盖的衰落期为 14–15 世纪（9 世纪起点待专门史学来源核验）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "吴哥",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马来群岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "室利佛逝",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "满者伯夷",
+    "field": "time_or_place",
+    "sentence": "13–16世纪（满者伯夷；本条引 2022 年研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "满者伯夷",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "河中地区",
+    "field": "time_or_place",
+    "sentence": "区域地理与历史；本条引 2017 年多学科研究",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "河中地区",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "丝绸之路",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "丝绸之路",
+    "field": "polities",
+    "sentence": "沿线政权为商路提供安全与制度条件，绿洲城邦在商队与定居社会之间充当中介；具体政权与时段划分待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "匈奴",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "突厥",
+    "field": "time_or_place",
+    "sentence": "6世纪中叶至8世纪（突厥汗国；其后突厥语人群继续扩展，本条引 2015 年遗传研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "突厥",
+    "field": "polities",
+    "sentence": "更具体的汗国世系与分裂过程待专门突厥史专著核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "蒙古帝国",
+    "field": "polities",
+    "sentence": "大汗世系与各汗国年代待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "帖木儿帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "青藏高原",
+    "field": "polities",
+    "sentence": "历史上高原与周边地区存在长期互动，形成多样的地方政权与宗教文化网络；具体年代与政权序列待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "青藏高原",
+    "field": "today",
+    "sentence": "以中国为例（高原部分数据待省级统计核验），来源：世界银行 API。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "青藏高原",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿拉伯半岛",
+    "field": "overview",
+    "sentence": "据 Wikidata 结构化记录，面积为 3,200,000 km²；具体边界与内部差异待专门地理来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿拉伯半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理与区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "黎凡特",
+    "field": "time_or_place",
+    "sentence": "区域地理与古气候（本条引 2018 年 4.2 ka 事件研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "黎凡特",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "安纳托利亚",
+    "field": "time_or_place",
+    "sentence": "高原地理与早期农业（本条引 2018 年安纳托利亚高原农业起源研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "安纳托利亚",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "东亚季风",
+    "field": "time_or_place",
+    "sentence": "气候尺度（本条引 2015 年降水变率研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "东亚季风",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "爱琴海世界",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "爱琴海世界",
+    "field": "polities",
+    "sentence": "岛屿与海湾条件促成海上贸易与城邦分立，区域后被更大政治体整合；具体文明阶段与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "爱琴海世界",
+    "field": "today",
+    "sentence": "爱琴海岛屿的人口与旅游数据待专门统计核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "克里特文明",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "克里特文明",
+    "field": "polities",
+    "sentence": "岛屿的港湾与农业条件支撑宫殿中心与海上交换，其后区域文化重心转移；具体年代与政治形态待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "克里特文明",
+    "field": "today",
+    "sentence": "克里特岛遗址保护与游客数据待核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "迈锡尼文明",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古希腊城邦",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古希腊城邦",
+    "field": "polities",
+    "sentence": "Livius 的 Polis、Athens 与 Greece 页面提供城邦概念和主要城邦的专题入口，可支撑城邦作为基本单位的概述；具体政体演变待逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马其顿与亚历山大",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马共和国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马共和国",
+    "field": "polities",
+    "sentence": "Livius 的 Roman Republic 与 Italy 分类页提供专题入口，可支撑概述；具体执政官年表与战役序列待逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马共和国",
+    "field": "today",
+    "sentence": "罗马城遗址与遗产旅游数据待核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "influence",
+    "sentence": "所引 2012 年《Travel and Geography in the Roman Empire》（被引 293）为论文集，编者导言综述的正是运输通信对统治的必要性；「统一市场」「法律」「城市化」「尼罗河与北非粮食供应」四项不在该摘要内，市场整合程度与城市化水平待专门研究核验。",
+    "judgment": "misexcluded",
+    "note": "该句陈述所引 2012 年论文集（W378444792）的具体内容：摘要明言道路与通信系统是统治庞大帝国所必需，并列出四项不在摘要内亦属实。内容正确，只需归入所引句核对，无需改字"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "polities",
+    "sentence": "地中海航运与道路网络支撑跨区域整合，后期治理结构分化；具体改革、年代与疆域变动待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "罗马帝国",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "拜占庭帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "意大利半岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度（新生代以来）；本条引 1975 年古地磁研究",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "意大利半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "伊比利亚半岛",
+    "field": "time_or_place",
+    "sentence": "区域地理与人文（本条引 2007 年野生食用植物传统知识研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "伊比利亚半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "高卢",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "polities",
+    "sentence": "本条只写自然地理背景，不在此叙述具体王朝与政权序列；相关历史条目待专门来源核验后再展开。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "不列颠群岛",
+    "field": "today",
+    "sentence": "爱尔兰相关指标待补；群岛内港口货运数据需专门统计核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿尔卑斯山",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "多瑙河",
+    "field": "time_or_place",
+    "sentence": "流域水文观测与模拟研究（本条引 2017 年流域模型研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "多瑙河",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "莱茵河",
+    "field": "time_or_place",
+    "sentence": "航运与生态研究（本条引 2009 年莱茵河扩散研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "莱茵河",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "维京时代",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "维京时代",
+    "field": "polities",
+    "sentence": "斯堪的纳维亚的航海条件与河流网络支撑贸易、殖民与迁徙，王权与宗教变迁重塑区域格局；具体年代与事件待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "法兰克王国",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "神圣罗马帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "十字军东征",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "汉萨同盟",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "威尼斯",
+    "field": "time_or_place",
+    "sentence": "共和国终结于 1797 年（待专门史学来源核验）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "威尼斯",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "polities",
+    "sentence": "半岛城邦依托商业财富与竞争形成文化中心，政治地图由多个城邦与领地构成；具体年代与人物待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "文艺复兴意大利",
+    "field": "today",
+    "sentence": "北部城市带仍是制造业与文化中心；具体游客与经济数据待核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "基辅罗斯",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "莫斯科公国",
+    "field": "time_or_place",
+    "sentence": "13–16世纪（莫斯科大公国；本条引 2017 年印刷术研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "莫斯科公国",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "巴尔干半岛",
+    "field": "time_or_place",
+    "sentence": "区域地理与生物多样性（本条引 2004 年巴尔干生物多样性研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "巴尔干半岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "斯堪的纳维亚",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "欧洲冰期地貌",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "黑海海峡",
+    "field": "time_or_place",
+    "sentence": "地理通道；本条引 2011 年关于达达尼尔海峡的研究",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "黑海海峡",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "欧洲温带海洋性气候",
+    "field": "time_or_place",
+    "sentence": "气候尺度（本条引 2005 年温盐环流研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "欧洲温带海洋性气候",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "中世纪欧洲庄园农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "板块构造",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大陆漂移",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "季风系统",
+    "field": "polities",
+    "sentence": "季风区农业依赖粮食收成与水管理，但季风与国家形成之间不存在必然对应；具体案例与年代待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "洋流",
+    "field": "polities",
+    "sentence": "海洋观测与航运依赖国际协作，航线与海底设施受海流影响；具体制度与年代待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "气候带",
+    "field": "polities",
+    "sentence": "不同气候区的资源利用方式各异，制度与历史同样塑造区域差异；具体分类体系待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "沙漠化",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "河流三角洲",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "河流三角洲",
+    "field": "polities",
+    "sentence": "三角洲的水利与港口条件支撑人口与城市发展，管理长期是公共事务；具体案例与年代待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "冲积平原",
+    "field": "time_or_place",
+    "sentence": "地质尺度（本条引 2005 年冲积序列研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "冲积平原",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "山地农业",
+    "field": "time_or_place",
+    "sentence": "现代农业研究（本条引 1998 年肯尼亚高地长期试验研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "山地农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "游牧",
+    "field": "polities",
+    "sentence": "草原联盟、绿洲城邦与定居政权长期互动，贸易与冲突并存；具体政权名称与年代待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "城市起源",
+    "field": "polities",
+    "sentence": "起源时期的治理形态（神庙经济、城邦议事、家庭生产单位）存在竞争性解释，待专门考古与文献研究核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "人口迁移",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "人口迁移",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "地理信息系统",
+    "field": "time_or_place",
+    "sentence": "方法体系（形成年代待专门来源核验）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "地理信息系统",
+    "field": "polities",
+    "sentence": "本条不展开政权序列；数据标准与互操作规范由行业组织制定，具体标准条文待专门资料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "人口地理",
+    "field": "polities",
+    "sentence": "本条不展开政权序列；人口治理涉及户籍、移民与公共服务等制度安排，具体制度待专门资料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "城市地理",
+    "field": "polities",
+    "sentence": "本条不展开具体政权序列；城市规划与土地制度因国家而异，细节待专门资料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "地图投影",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "争议边界处理原则",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "生物多样性分布",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "海洋保护区",
+    "field": "influence",
+    "sentence": "划定受政治意愿与渔业利益制约；「覆盖面积」不等于「管理成效」，执法经费与能力与保护成效相关（具体归因待专门评估研究核验）。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "城市热岛",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "自然灾害风险",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "渔业资源",
+    "field": "polities",
+    "sentence": "本条不展开政权序列；配额分配、渔业权属与执法属治理议题，具体制度待专门资料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "极端天气预警",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "环境治理",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "可持续交通",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "地理空间数据产品",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "火灾生态",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "玛雅研究新进展",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "农业气候风险",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "地球系统科学",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "环境数据访问",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "人文地理学",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "polities",
+    "sentence": "史前迁徙与陆桥出露相关，尚不能对应后世政权；相关讨论属史前史与人类演化研究，具体年代待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "白令陆桥",
+    "field": "today",
+    "sentence": "上述为两国全国口径数据，仅示量级，不代表白令海峡区域的内部差异；该区域人口与生态数据待专门统计与机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "北美冰盖",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "北美冰盖",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大平原",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大平原",
+    "field": "polities",
+    "sentence": "原住民社会、外来定居者与后来的农业经营先后改变土地利用格局；具体政策与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大平原",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "密西西比河",
+    "field": "polities",
+    "sentence": "流域与原住民社会、殖民边疆和现代州际治理密切相关；具体政治事件待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "落基山脉",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "落基山脉",
+    "field": "polities",
+    "sentence": "山地资源与通道条件影响土地利用，原住民、外来定居者与国家公园体系先后塑造管理格局；具体年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "落基山脉",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿巴拉契亚山脉",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "五大湖",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "五大湖",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "五大湖",
+    "field": "connections",
+    "sentence": "五个湖泊以水道相连，并汇入圣劳伦斯水系；具体通航与流域边界细节待专题页核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "科罗拉多高原",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "科罗拉多高原",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "科罗拉多高原",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "墨西哥湾",
+    "field": "time_or_place",
+    "sentence": "现代海洋观测（本条引 2014 年表层海洋条件研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "墨西哥湾",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "中美洲地峡",
+    "field": "polities",
+    "sentence": "地峡历史上连接中美洲文明与南美、加勒比区域，近代形成多个国家；具体政权序列待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "中美洲地峡",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "奥尔梅克",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "奥尔梅克",
+    "field": "polities",
+    "sentence": "以祭祀中心为核心的社群网络可能是主要形态，其后中美洲文化与之存在艺术与宗教联系；具体政治结构与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "奥尔梅克",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "polities",
+    "sentence": "雨林中的城邦长期并立，中心兴衰更替；具体城邦名单与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "玛雅文明",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "特奥蒂瓦坎",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿兹特克",
+    "field": "polities",
+    "sentence": "统治者序列与贡赋制度待专门史学来源逐条核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "北美原住民",
+    "field": "polities",
+    "sentence": "本条不展开具体族群的政治序列；不同区域的社会组织形态差异极大，待专门的民族志与考古研究核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "西北海岸",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "格陵兰岛",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "格陵兰岛",
+    "field": "polities",
+    "sentence": "本条只写自然地理与生态背景，不叙述具体政权、王朝与年代序列（相关历史条目待专门史料核验）。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "格陵兰岛",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "新法兰西",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "十三殖民地",
+    "field": "time_or_place",
+    "sentence": "17世纪初至1783年（巴黎条约承认独立）；本条原引文献仅覆盖1763年断面，1783 年待专门来源核验",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "十三殖民地",
+    "field": "overview",
+    "sentence": "本条以地理描述为主；政治与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "十三殖民地",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "美国西进",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "加勒比海群岛",
+    "field": "time_or_place",
+    "sentence": "生物地理尺度（本条引 1975 年加勒比生物地理研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "加勒比海群岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "古巴岛",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "澳大利亚大陆",
+    "field": "polities",
+    "sentence": "原住民社会长期适应多样生态，外来统治后形成新的政治与经济结构；具体年代与政策待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "澳大利亚大陆",
+    "field": "today",
+    "sentence": "内陆人口密度与水资源数据待专门统计来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大分水岭",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大分水岭",
+    "field": "polities",
+    "sentence": "内陆开拓与水资源政策同山地分水岭条件相关；具体年代与制度待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大分水岭",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大自流盆地",
+    "field": "time_or_place",
+    "sentence": "地质尺度（本条引 1986 年氯-36 定年研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "大自流盆地",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "polities",
+    "sentence": "以族群与亲属组织为主的社会结构长期存在，外来统治后经历剧烈变迁与权利运动；具体年代与政策待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "today",
+    "sentence": "以澳大利亚为例（原住民人口另计，待专门统计核验），来源：世界银行 API。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "澳大利亚原住民",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "新西兰北岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度（本条引 1996 年火山灰年代学研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "新西兰北岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "新西兰南岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度（新生代以来）；本条引 1983 年地体研究",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "新西兰南岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "毛利人",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "毛利人",
+    "field": "polities",
+    "sentence": "部落与王国组织在岛屿条件下发展，现代政治中族群拥有法定代表与权利机制；具体年代与制度待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "毛利人",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "美拉尼西亚",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "密克罗尼西亚",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "波利尼西亚",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "波利尼西亚",
+    "field": "polities",
+    "sentence": "岛屿条件促成远洋定居与酋邦组织，与外部世界接触后政治与人口结构显著变化；具体年代与岛群差异待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "波利尼西亚",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "夏威夷群岛",
+    "field": "time_or_place",
+    "sentence": "地质尺度；本条引 1963 年关于群岛成因的研究",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "夏威夷群岛",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "复活节岛",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "大堡礁",
+    "field": "time_or_place",
+    "sentence": "生态尺度（本条引 2003 年珊瑚除草剂影响研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "大堡礁",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "太平洋殖民航线",
+    "field": "polities",
+    "sentence": "本条不展开完整统治者序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "澳大利亚内陆干旱气候",
+    "field": "time_or_place",
+    "sentence": "气候尺度；本条引 2013 年干旱区生态研究",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "澳大利亚内陆干旱气候",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "澳大利亚混合农业",
+    "field": "time_or_place",
+    "sentence": "20世纪以来的农业变迁（本条引 1982 年生产率研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "澳大利亚混合农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "安第斯山脉",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "安第斯山脉",
+    "field": "polities",
+    "sentence": "高原与海岸间的道路与驿站系统强化区域联系，多个政权先后影响安第斯地区；具体政权序列与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "安第斯山脉",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "亚马逊盆地",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "亚马逊盆地",
+    "field": "polities",
+    "sentence": "本条不展开具体政权序列；土地使用与族群关系的历史待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "巴西高原",
+    "field": "time_or_place",
+    "sentence": "地质与植被尺度（本条引 2007 年巴西南部 Araucaria 森林扩张研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "巴西高原",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "拉普拉塔平原",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "拉普拉塔平原",
+    "field": "polities",
+    "sentence": "土地制度与港口城市深刻影响区域政治经济；具体政策、年代与政权变动待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "拉普拉塔平原",
+    "field": "today",
+    "sentence": "两国农牧业产值与播种面积数据待专门统计来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "巴塔哥尼亚",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿塔卡马沙漠",
+    "field": "polities",
+    "sentence": "从谷地社会到现代矿业经济，资源治理长期是核心议题；具体制度与年代待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "阿塔卡马沙漠",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "的的喀喀湖",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "查文文化",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "莫切文化",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "纳斯卡文化",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "奇穆帝国",
+    "field": "polities",
+    "sentence": "本条不展开完整政权序列；具体世系与制度细节待专门史学来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "印加帝国",
+    "field": "time_or_place",
+    "sentence": "时期与年代待专门来源核验（详见待核实）",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "印加帝国",
+    "field": "polities",
+    "sentence": "帝国依托高原道路与梯田组织资源，其后因内部冲突与外来征服而解体；具体年代、君主序列与战役待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "印加帝国",
+    "field": "today",
+    "sentence": "上述为该代表国的全国口径数据，仅示量级，不代表本条目所述区域的内部差异；本条目主题相关的专门数据待相应机构来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马丘比丘",
+    "field": "geo",
+    "sentence": "（具体海拔数值待专门来源核验，本条不写具体高度。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马丘比丘",
+    "field": "influence",
+    "sentence": "梯田与排水系统为常识性工程描述，摘要未涉，待专门来源核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "马丘比丘",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "安第斯垂直农业",
+    "field": "time_or_place",
+    "sentence": "长期实践；本条引 2000 年垂直温度趋势研究",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "安第斯垂直农业",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南美贸易网络",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "巴西殖民经济",
+    "field": "time_or_place",
+    "sentence": "1500–1822年（本条引 2024 年殖民巴西社会与政府研究）",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   },
+   {
+    "title": "巴西殖民经济",
+    "field": "polities",
+    "sentence": "本条以自然地理/区域概述为主；具体政权序列待专门史料核验。",
+    "judgment": "excluded_ok",
+    "note": "待核/限定声明，不陈述任何研究发现"
+   },
+   {
+    "title": "南锥体",
+    "field": "overview",
+    "sentence": "机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+    "judgment": "excluded_ok",
+    "note": "时间/范围标注，只说明所引研究覆盖的时间或领域，不陈述具体发现"
+   }
+  ],
+  "items": [
+   {
+    "title": "罗马阿非利加",
+    "field": "geo",
+    "source": "openalex-W2481617052",
+    "claim": "所引 2004 年 Segermes 项目以突尼斯的单一谷地为对象，重建城镇与其腹地的农业产出；",
+    "fix": "所引 2004 年 Segermes 项目以突尼斯的单一谷地为对象，探讨古代城镇与其周边地区之间的经济机制与社会关系；",
+    "reason": "该句陈述所引研究的具体发现，应接受摘要对读。摘要支持「单一谷地」「项目不覆盖全省」，但只写「揭示城镇与周边的经济机制与社会关系」，未写「重建农业产出」（仅题名含 Production），fix 按摘要收窄"
+   }
+  ],
+  "counts": {
+   "pool": 337,
+   "reviewed": 335,
+   "excluded_ok": 332,
+   "misexcluded": 3,
+   "needs_text_fix": 1
+  }
+ },
+ "D": {
+  "items": [
+   {
+    "title": "大堡礁",
+    "field": "influence",
+    "source": "openalex-W2020216779",
+    "claim": "所引 2003 年实验显示，除草剂（敌草隆、阿特拉津）在极低浓度下即可影响珊瑚的共生藻，说明陆源农业径流对近岸礁体的影响可通过化学途径传导，而不仅是泥沙覆盖。",
+    "fix": "删去该句，或改写为不依赖该来源的表述（不出现「所引」及该文年份/题名）",
+    "reason": "pending_notes 第125、134轮写明该文「仅作登记，不支撑任何断言」（第134轮因摘要缺失无法对读），正文仍以「所引 2003 年实验」为依据"
+   },
+   {
+    "title": "南极科考站",
+    "field": "influence",
+    "source": "openalex-W2135820861",
+    "claim": "所引 2009 年研究由瑞典极地研究秘书处发起，就南极 28 国站点的废水与灰水处置实践做问卷普查（2005年秋发出）。",
+    "fix": "删去该句，或改写为不依赖该来源的表述（不出现「所引」及该文年份/题名）",
+    "reason": "pending_notes【第94轮审计修正·侧面】已将该文「降为旁证」，正文仍以「所引 2009 年研究」为依据"
+   },
+   {
+    "title": "南极科考站",
+    "field": "time_or_place",
+    "source": "openalex-W2135820861",
+    "claim": "科考活动现状（所引 2009 年调查，覆盖28国站点）",
+    "fix": "删去该句，或改写为不依赖该来源的表述（不出现「所引」及该文年份/题名）",
+    "reason": "同上：时间标注仍以已降为旁证的 2009 年调查为依据"
+   },
+   {
+    "title": "古埃及中王国",
+    "field": "influence",
+    "source": "openalex-W4322713864",
+    "claim": "所引 2010 年专著指出该时期是埃及书写的「黄金时代」，并重新评估文学作品的文化角色——此前常被视为王朝的宣传品。",
+    "fix": "删去该句，或改写为不依赖该来源的表述（不出现「所引」及该文年份/题名）",
+    "reason": "pending_notes【第92轮审计修正·侧面】已将《Poetry and Culture in Middle Kingdom Egypt》「降为旁证」，正文仍以「所引 2010 年专著」为依据"
+   },
+   {
+    "title": "南锥体",
+    "field": "influence",
+    "source": "openalex-W4224441281",
+    "claim": "所引 2022 年研究考察 1946–1960 年西班牙向该区域的战后移民，涉西班牙与阿根廷的移民协定、巴西1950年代初的经济繁荣等。",
+    "fix": "删去该句，或改写为不依赖该来源的表述（不出现「所引」及该文年份/题名）",
+    "reason": "pending_notes 第94轮两处记载把《The Spanish postwar emigration to the Southern Cone》（2022）「降为旁证」，正文仍以「所引 2022 年研究」为依据"
+   }
+  ],
+  "counts": {
+   "confirmed": 5,
+   "note": "其余匹配排除：意大利半岛/文艺复兴意大利/河流三角洲/地理信息系统/美国西进的 D112「旁证」写明可作的限定用途，正文在该范围内；冲积平原/大分水岭为「第二内容源（旁证）」且已指定落点；拜占庭/维京/密西西比河/落基山脉的旁证标记指向同条其他文献；桑海/印度河/汉代/宋代/元代/突厥/拜占庭1997/维京基因组/澳大利亚大陆为年份巧合，题名不同"
+  }
+ }
+}

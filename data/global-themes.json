@@ -146,14 +146,14 @@
         "openalex-W2328457086"
       ],
       "needs_verification": true,
-      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核·洋流】本条正则 ocean current|gyre|current：un-m49（UNSD M49 概述页）实测 200 / 正文 144945 字符 / 命中 0；wikipedia-regions（UNSDG 入口）实测 200 / 正文 5 字符 / 命中 0。两源均非洋流专题，D055 未达标；所需专题页为「洋流机制正文页」（NOAA/NASA 渠道待试 API 或 PDF）。 【第25轮实证复核·洋流】本条正则 ocean current|gyre。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「洋流」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为洋流主题专题页。 【第30轮现状数据】today 填入 noaa-current-stations 实测值（全球口径，含年份或查询时点说明；已声明指标局限）。 【第30轮返工】删除「2025年查询」错误年份（实际查询时点 2026-11-22），补写实时目录的动态声明，并把「以美国沿岸为主」改为「仅覆盖美国沿岸水域，不代表全球布局」。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第43轮返工·partial】所引 1969 年文献是海洋—大气耦合环流模式（GCM）的构造论文，不涉沿岸气候与渔场；本条定义的三项断言中它只沾「参与热量交换」，strong 不成立，已剔除。 【第45轮补源·按断言选文献（D100）】openalex-W1556419777（2001年，《Using ocean margin density to constrain ocean circulation and surface wind strength in the past》，DOI 10.1029/2001gc000208）：先在正文定位待支撑句「由风、密度差与地转偏向力驱动」，再选此文献；摘要命中「circulation」「wind」，已在本条 geo 段落点。 【第45轮返工】geo 第二句「海盆形状与海峡决定路径」无源，已标为常识性表述；「驱动」表述改为「风应力与密度差驱动、受地转平衡约束」。 【第81轮检索记录】本轮 0 候选（通用词，需更细的对象词）。 【第87轮补第二内容源（strong，Crossref）】openalex-W2328457086（1969年，《CLIMATE AND THE OCEAN CIRCULATION》，被引 120，摘要 3355 字符）：已在本条 geo 段落点。 【第126轮语义扫描 SOFT】openalex-W1556419777：引申：摘要以边缘密度结构约束经向地转输运与风强，并未论证「密度差驱动洋流」这一机制。 【第126轮语义扫描 SOFT】openalex-W2328457086：外推：摘要为构建海气耦合环流模式、交换动量热量水分，未给出「洋流再分配热量影响大陆气候」的结论。",
+      "pending_notes": "关键叙述基于已核验机构背景资料；专门史料与现状数值待按年份补齐。 【D041 缺口】来源为数据层别名级（区域/机构框架），不满足「一专题页+一机构页」；第21轮已收敛 polities，第22轮起改用「轮次索引」记录，不再每轮重复同一句。 【第20轮来源分级】全别名（无任何专题/机构正文）；所需专题页类型：气候类正文页（D055 达标）。 【第21轮收敛】polities 段删除具体政权名称、王朝序列与年代断言，保留地理—政治关系概述；本条来源为区域/机构级，不具备专门史料，故不写政权史细节。 【第24轮实证复核·洋流】本条正则 ocean current|gyre|current：un-m49（UNSD M49 概述页）实测 200 / 正文 144945 字符 / 命中 0；wikipedia-regions（UNSDG 入口）实测 200 / 正文 5 字符 / 命中 0。两源均非洋流专题，D055 未达标；所需专题页为「洋流机制正文页」（NOAA/NASA 渠道待试 API 或 PDF）。 【第25轮实证复核·洋流】本条正则 ocean current|gyre。实测：britannica-regions 实为 UNSD M49 概览页（https://unstats.un.org/unsd/methodology/m49/overview/，200/正文 137675 字符/本条命中 0）；wikipedia-regions 实为 UNSDG 门户壳页（200/正文 5 字符/命中 0）。D055 判定：两源均非「洋流」专题页，正文虽长但本条主题命中 0，未达「标题即主题 + 命中≥5」要求 → 维持 L1，缺口为洋流主题专题页。 【第30轮现状数据】today 填入 noaa-current-stations 实测值（全球口径，含年份或查询时点说明；已声明指标局限）。 【第30轮返工】删除「2025年查询」错误年份（实际查询时点 2026-11-22），补写实时目录的动态声明，并把「以美国沿岸为主」改为「仅覆盖美国沿岸水域，不代表全球布局」。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第43轮返工·partial】所引 1969 年文献是海洋—大气耦合环流模式（GCM）的构造论文，不涉沿岸气候与渔场；本条定义的三项断言中它只沾「参与热量交换」，strong 不成立，已剔除。 【第45轮补源·按断言选文献（D100）】openalex-W1556419777（2001年，《Using ocean margin density to constrain ocean circulation and surface wind strength in the past》，DOI 10.1029/2001gc000208）：先在正文定位待支撑句「由风、密度差与地转偏向力驱动」，再选此文献；摘要命中「circulation」「wind」，已在本条 geo 段落点。 【第45轮返工】geo 第二句「海盆形状与海峡决定路径」无源，已标为常识性表述；「驱动」表述改为「风应力与密度差驱动、受地转平衡约束」。 【第81轮检索记录】本轮 0 候选（通用词，需更细的对象词）。 【第87轮补第二内容源（strong，Crossref）】openalex-W2328457086（1969年，《CLIMATE AND THE OCEAN CIRCULATION》，被引 120，摘要 3355 字符）：已在本条 geo 段落点。 【第126轮语义扫描 SOFT】openalex-W1556419777：引申：摘要以边缘密度结构约束经向地转输运与风强，并未论证「密度差驱动洋流」这一机制。 【第126轮语义扫描 SOFT】openalex-W2328457086：外推：摘要为构建海气耦合环流模式、交换动量热量水分，未给出「洋流再分配热量影响大陆气候」的结论。 【第137轮审计】「据此」后残留赘语 【第137轮审计】损坏句：括注后句子缺主语、衔接断裂",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
         "AP Human Geography 主题框架"
       ],
       "last_update": "2026-11-25",
-      "geo": "洋流由风应力与密度差驱动、并受地转平衡约束（所引 2001 年研究以海洋边缘密度结构约束过去的海洋环流与表层风强，据此估算经向地转输运及其中的风生与热盐翻转分量）；形成表层环流与深层翻转环流。（「海盆形状与海峡决定路径」为本条常识性表述，未挂该文献。） 所引 1969 年《Climate and the Ocean Circulation》（被引 120）构建海洋—大气耦合环流模式，两部分之间交换动量、热量与水分；本条据此说明海洋环流与气候在模式中相互耦合。",
+      "geo": "洋流由风应力与密度差驱动、并受地转平衡约束（所引 2001 年研究以海洋边缘密度结构约束过去的海洋环流与表层风强，据此估算经向地转输运及其中的风生与热盐翻转分量），洋流由此形成表层环流与深层翻转环流。（「海盆形状与海峡决定路径」为本条常识性表述，未挂该文献。） 所引 1969 年《Climate and the Ocean Circulation》（被引 120）构建海洋—大气耦合环流模式，两部分之间交换动量、热量与水分；该模式表明海洋环流与气候相互耦合。",
       "influence": "洋流再分配热量与营养盐，影响沿岸气候与渔场。气候效应重要，但与大气环流、地形共同作用，不能单因解释。",
       "polities": "海洋观测与航运依赖国际协作，航线与海底设施受海流影响；具体制度与年代待专门来源核验。",
       "connections": "洋流连接各大洋，把热量、碳与生物幼体输送到远距离海域。",
@@ -212,7 +212,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "沙漠化：干旱、半干旱与半湿润偏干地区的土地退化过程。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "沙漠化：干旱、半干旱与半湿润偏干地区的土地退化过程。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "沙漠化：干旱、半干旱与半湿润偏干地区的土地退化过程。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x5b63x98cex7cfbx7edf",
         "global-themes-x6d0bx6d41",
@@ -226,7 +226,7 @@
         "openalex-W4408089654"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 检索「desertification」在限流前仅返回无摘要记录；世界银行无「荒漠化面积」指标（拟用 AG.LND.FRST.ZS 替代因口径不符按 D077 弃用）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1981593648（1998年，《Ecological impacts of global change on drylands and their implications for desertification》，DOI 10.1002/(sici)1099-145x(199809/10)9:5<393::aid-ldr301>3.0.co;2-f），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W4408089654（2025年，《Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World》，被引 30，摘要 1412 字符）：已在本条 geo 段落点。 【第129轮语义扫描 SOFT】openalex-W1981593648：摘要称干扰与低复发事件可触发非线性变化、气候与人为因子协同；「尤为关键」为程度放大",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 检索「desertification」在限流前仅返回无摘要记录；世界银行无「荒漠化面积」指标（拟用 AG.LND.FRST.ZS 替代因口径不符按 D077 弃用）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1981593648（1998年，《Ecological impacts of global change on drylands and their implications for desertification》，DOI 10.1002/(sici)1099-145x(199809/10)9:5<393::aid-ldr301>3.0.co;2-f），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第85轮补第二内容源（strong，Crossref 路线）】openalex-W4408089654（2025年，《Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World》，被引 30，摘要 1412 字符）：已在本条 geo 段落点。 【第129轮语义扫描 SOFT】openalex-W1981593648：摘要称干扰与低复发事件可触发非线性变化、气候与人为因子协同；「尤为关键」为程度放大 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world",
@@ -702,7 +702,7 @@
       "status": "L2完成(第41轮)-学术文献",
       "definition": "争议边界处理原则：在制图与条文中如何处理存在主权争议的边界与领土的表达规则。",
       "time_or_place": "编辑方法（非地理事实断言）",
-      "overview": "争议边界处理原则：在制图与条文中如何处理存在主权争议的边界与领土的表达规则。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "争议边界处理原则：在制图与条文中如何处理存在主权争议的边界与领土的表达规则。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "antarctica-x5357x6781x6761x7ea6x4f53x7cfb"
       ],
@@ -714,7 +714,7 @@
         "openalex-W2942131961"
       ],
       "needs_verification": true,
-      "pending_notes": "背景来源 UN M49 与 CBD 页面已核验；本站只描述立场、不画线的编辑原则非事实断言，专题方法来源待补。 【第39轮渠道探测】本条为编辑原则（本站如何处理争议边界的画法与表述），非地理实体；OpenAlex 的「boundary」候选均为管理学 boundary work 概念，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W3216751933（2021年，《Disputed Waters Generated by Claims Made from Disputed Land Territory: What Are the Rights and Obligations of States?》，Cambridge University Press eBooks，DOI 10.1017/9781108909051.008，被引 0），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】本条除 OpenAlex 文献外的来源为 un-m49、s070-cbd-int、s010-unesco-org，其中 britannica-regions/wikipedia-regions 为壳别名、un-m49 为区域框架、s070/s071-cbd-int 为《生物多样性公约》首页、s010-unesco-org 为 UNESCO Culture 首页——均与条目主题不同类或不含正文，不构成独立内容依据；本条实质为单源（OpenAlex），coverage 中的 source_count 应理解为「链接数」而非「可互证来源数」。 【第99轮检索记录】本轮 0 候选；该条属概念/原则类条目，可能更适合按 D 级（规则说明而非区域研究）处置。 【第104轮补第二内容源（Crossref）】openalex-W2942131961（2015年，《Equitable Principles of Maritime Boundary Delimitation: The Quest for Distributive Justice in International Law》，被引 117，摘要 927 字符）：已在本条 influence 段落点。",
+      "pending_notes": "背景来源 UN M49 与 CBD 页面已核验；本站只描述立场、不画线的编辑原则非事实断言，专题方法来源待补。 【第39轮渠道探测】本条为编辑原则（本站如何处理争议边界的画法与表述），非地理实体；OpenAlex 的「boundary」候选均为管理学 boundary work 概念，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W3216751933（2021年，《Disputed Waters Generated by Claims Made from Disputed Land Territory: What Are the Rights and Obligations of States?》，Cambridge University Press eBooks，DOI 10.1017/9781108909051.008，被引 0），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】本条除 OpenAlex 文献外的来源为 un-m49、s070-cbd-int、s010-unesco-org，其中 britannica-regions/wikipedia-regions 为壳别名、un-m49 为区域框架、s070/s071-cbd-int 为《生物多样性公约》首页、s010-unesco-org 为 UNESCO Culture 首页——均与条目主题不同类或不含正文，不构成独立内容依据；本条实质为单源（OpenAlex），coverage 中的 source_count 应理解为「链接数」而非「可互证来源数」。 【第99轮检索记录】本轮 0 候选；该条属概念/原则类条目，可能更适合按 D 级（规则说明而非区域研究）处置。 【第104轮补第二内容源（Crossref）】openalex-W2942131961（2015年，《Equitable Principles of Maritime Boundary Delimitation: The Quest for Distributive Justice in International Law》，被引 117，摘要 927 字符）：已在本条 influence 段落点。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "UN M49",
         "CBD 公约页面"
@@ -804,7 +804,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "生物多样性分布：物种丰富度与系统发育多样性在地理空间上的格局。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "生物多样性分布：物种丰富度与系统发育多样性在地理空间上的格局。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "生物多样性分布：物种丰富度与系统发育多样性在地理空间上的格局。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "south-america-x4e9ax9a6cx900ax76c6x5730"
       ],
@@ -815,7 +815,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行无有效对应指标（ER.BDV.TOTL.ZS 为无效 ID；对应的 EN.BIR.THRD.NO 为物种数而非分布格局），故不采用。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W3037032979（2021年，《Assessing spatial patterns of phylogenetic diversity of Mexican mammals for biodiversity conservation》，DOI 10.1016/j.gecco.2021.e01834），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工·硬错】原稿写「其与物种丰富度格局并不一致，保护优先区划定会因指标选择而改变」——与摘要结论方向相反（摘要明言保护区已较好代表 PD 广度、保护内外 beta 组成相近），且未标注研究对象为墨西哥哺乳动物（D083④个案当通例）。已按结论重写。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行无有效对应指标（ER.BDV.TOTL.ZS 为无效 ID；对应的 EN.BIR.THRD.NO 为物种数而非分布格局），故不采用。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W3037032979（2021年，《Assessing spatial patterns of phylogenetic diversity of Mexican mammals for biodiversity conservation》，DOI 10.1016/j.gecco.2021.e01834），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工·硬错】原稿写「其与物种丰富度格局并不一致，保护优先区划定会因指标选择而改变」——与摘要结论方向相反（摘要明言保护区已较好代表 PD 广度、保护内外 beta 组成相近），且未标注研究对象为墨西哥哺乳动物（D083④个案当通例）。已按结论重写。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
@@ -1011,7 +1011,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "城市热岛：城市区域气温高于周边乡村的现象。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "城市热岛：城市区域气温高于周边乡村的现象。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "城市热岛：城市区域气温高于周边乡村的现象。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x57cex5e02x5730x7406"
       ],
@@ -1024,7 +1024,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。 【第29轮现状数据】today 填入 wb-wld-urban 实测值（全球口径，含年份与单位）。 【第39轮渠道探测】世界银行仅有 PM2.5（EN.ATM.PM25.MC.M3），与热岛强度口径不符（D077 弃用）；OpenAlex 检索「urban heat island」在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2093386355（2005年，《The dependence of the urban heat island intensity on latitude A statistical approach》，DOI 10.1127/0941-2948/2005/0069），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工·硬错】原稿写「分析热岛强度对城市人口规模的依赖、强度并非随规模线性增长、受形态调节」——所引摘要的主结论是纬度梯度（仅解释约6%方差）与人为热/辐射平衡，全无「城市规模非线性」「形态调节」；已按摘要结论重写（原写法属把个人推断挂到文献名下）。",
+      "pending_notes": "B6 主题补入；现状数值与分类口径需按年份和来源页面逐条核验。 【第19轮矩阵清理】移除s025（OWID Urbanization，与当前条目主题错配）。 【第19轮补底】新增背景来源 s039-climate-nasa-gov。 【第19轮返工】恢复 s025（OWID Urbanization）为本条专题来源——第19轮批次2 清理时按「本轮主题」误移，实际城市热岛正是其主题；D055 留痕：来源是否错配按条目主题判定，非按全局。 【第19轮 D053 标注】s044（Earth Observatory 首页）与 s039（气候总览）为机构入口级，不构成第二独立依据；已列入下轮换源清单。 【第29轮现状数据】today 填入 wb-wld-urban 实测值（全球口径，含年份与单位）。 【第39轮渠道探测】世界银行仅有 PM2.5（EN.ATM.PM25.MC.M3），与热岛强度口径不符（D077 弃用）；OpenAlex 检索「urban heat island」在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2093386355（2005年，《The dependence of the urban heat island intensity on latitude A statistical approach》，DOI 10.1127/0941-2948/2005/0069），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工·硬错】原稿写「分析热岛强度对城市人口规模的依赖、强度并非随规模线性增长、受形态调节」——所引摘要的主结论是纬度梯度（仅解释约6%方差）与人为热/辐射平衡，全无「城市规模非线性」「形态调节」；已按摘要结论重写（原写法属把个人推断挂到文献名下）。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Our World in Data 主题页",
         "FAO/NASA/NOAA/CBD/UN 机构页"
@@ -1254,7 +1254,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "自然灾害风险：致灾因子、暴露度与脆弱性共同决定的潜在损失。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "自然灾害风险：致灾因子、暴露度与脆弱性共同决定的潜在损失。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "自然灾害风险：致灾因子、暴露度与脆弱性共同决定的潜在损失。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x6c14x5019x5e26"
       ],
@@ -1265,7 +1265,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 s039-climate-nasa-gov（NASA 气候机构页，气候背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行 EN.CLC.MDAT.ZS 有值但仅覆盖 2009 年（1990–2009 平均口径），与当代风险口径不符，故不采用。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2603960055（2016年，《Urban and Spatial Planning in Natural Hazard Risk Management》，DOI 10.1093/acrefore/9780199389407.013.8），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】所引为 advance summary（预发表摘要），已标注；「主张把风险信息纳入土地利用决策」弱化为「涉及…的必要性」。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s056（USGS 站点迁移通告页，正文无地质内容，0 命中）（D049）。 【第18轮补底】新增背景来源 s039-climate-nasa-gov（NASA 气候机构页，气候背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行 EN.CLC.MDAT.ZS 有值但仅覆盖 2009 年（1990–2009 平均口径），与当代风险口径不符，故不采用。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2603960055（2016年，《Urban and Spatial Planning in Natural Hazard Risk Management》，DOI 10.1093/acrefore/9780199389407.013.8），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】所引为 advance summary（预发表摘要），已标注；「主张把风险信息纳入土地利用决策」弱化为「涉及…的必要性」。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Our World in Data 主题页",
         "UN/FAO/World Bank/NASA 机构页"
@@ -1531,7 +1531,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "极端天气预警：对可能造成损失的极端天气事件进行预测并向公众与部门发布警报的体系。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "极端天气预警：对可能造成损失的极端天气事件进行预测并向公众与部门发布警报的体系。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "极端天气预警：对可能造成损失的极端天气事件进行预测并向公众与部门发布警报的体系。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x81eax7136x707ex5bb3x98cex9669"
       ],
@@ -1542,7 +1542,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行无对应指标；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W4306771028（2022年，《A canary, a coal mine, and imperfect data: determining the efficacy of open-source climate change models in detecting and predicting extreme weather events in Northern and Western Kenya》，DOI 10.21203/rs.3.rs-1343486/v1），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工·硬错】① DOI 订正：原引 10.21203/rs.3.rs-1343486/v1 是预印本（题名为另一篇 «Enhancing Food Security in Africa…»），正式版为 Climatic Change 10.1007/s10584-022-03444-6，已改。② 结论句原写「数据不完善会直接限制预警质量、瓶颈常在观测与数据」——是把标题里的 imperfect data 扩写成结论；摘要结论实为「这些模型与数据集可作为肯尼亚农业预警的基础」，已按结论改写。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行无对应指标；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W4306771028（2022年，《A canary, a coal mine, and imperfect data: determining the efficacy of open-source climate change models in detecting and predicting extreme weather events in Northern and Western Kenya》，DOI 10.21203/rs.3.rs-1343486/v1），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工·硬错】① DOI 订正：原引 10.21203/rs.3.rs-1343486/v1 是预印本（题名为另一篇 «Enhancing Food Security in Africa…»），正式版为 Climatic Change 10.1007/s10584-022-03444-6，已改。② 结论句原写「数据不完善会直接限制预警质量、瓶颈常在观测与数据」——是把标题里的 imperfect data 扩写成结论；摘要结论实为「这些模型与数据集可作为肯尼亚农业预警的基础」，已按结论改写。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "NASA/NOAA/FAO/UNESCO/IUCN/World Bank 已核验主题页"
       ],
@@ -1894,7 +1894,7 @@
       "status": "L2完成(第41轮)-学术文献",
       "definition": "环境治理：为解决生态退化而建立的制度、组织与规则体系，含国内与国际两个层面。",
       "time_or_place": "现代治理实践（年份以来源页面为准）",
-      "overview": "环境治理：为解决生态退化而建立的制度、组织与规则体系，含国内与国际两个层面。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "环境治理：为解决生态退化而建立的制度、组织与规则体系，含国内与国际两个层面。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x9646x5730x4fddx62a4x533a"
       ],
@@ -1905,7 +1905,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行 IQ.CPA.ENVR.XQ 仍在更新（2024/2025），但口径为 CPIA 国别评分，与「环境治理」综合口径不符，故不采用。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W2063782987（2011年，《Assessing the effectiveness of environmental governance regimes: remaining gaps》，Interdisciplinary Environmental Review，DOI 10.1504/ier.2011.040247，被引 0），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。【第41轮返工】原末两句「有助于理解治理成效为何差异巨大」「有效性不取决于规则文本也取决于制度学习与情境匹配」——摘要明说这两项是 accorded limited attention（尚未被充分研究），被写成已确定的成因，属把研究缺口当结论（D092）。已改写。 【D081单源声明】本条除 OpenAlex 文献外的来源为 s062-worldbank-org、s071-cbd-int、s010-unesco-org，其中 britannica-regions/wikipedia-regions 为壳别名、un-m49 为区域框架、s070/s071-cbd-int 为《生物多样性公约》首页、s010-unesco-org 为 UNESCO Culture 首页——均与条目主题不同类或不含正文，不构成独立内容依据；本条实质为单源（OpenAlex），coverage 中的 source_count 应理解为「链接数」而非「可互证来源数」。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】 本轮未升级；该条保持 L1 骨架。世界银行 IQ.CPA.ENVR.XQ 仍在更新（2024/2025），但口径为 CPIA 国别评分，与「环境治理」综合口径不符，故不采用。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W2063782987（2011年，《Assessing the effectiveness of environmental governance regimes: remaining gaps》，Interdisciplinary Environmental Review，DOI 10.1504/ier.2011.040247，被引 0），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。【第41轮返工】原末两句「有助于理解治理成效为何差异巨大」「有效性不取决于规则文本也取决于制度学习与情境匹配」——摘要明说这两项是 accorded limited attention（尚未被充分研究），被写成已确定的成因，属把研究缺口当结论（D092）。已改写。 【D081单源声明】本条除 OpenAlex 文献外的来源为 s062-worldbank-org、s071-cbd-int、s010-unesco-org，其中 britannica-regions/wikipedia-regions 为壳别名、un-m49 为区域框架、s070/s071-cbd-int 为《生物多样性公约》首页、s010-unesco-org 为 UNESCO Culture 首页——均与条目主题不同类或不含正文，不构成独立内容依据；本条实质为单源（OpenAlex），coverage 中的 source_count 应理解为「链接数」而非「可互证来源数」。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
@@ -1928,7 +1928,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "可持续交通：在满足可达性需求的同时降低资源消耗与环境影响的交通系统。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "可持续交通：在满足可达性需求的同时降低资源消耗与环境影响的交通系统。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "可持续交通：在满足可达性需求的同时降低资源消耗与环境影响的交通系统。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x80fdx6e90x8f6cx578b"
       ],
@@ -1939,7 +1939,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第39轮渠道探测】世界银行无对应指标（IS.ROD.TOTL.KM 已停更）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2483902998（2015年，《Car Sharing Systems as a Sustainable Transport Policy: A Case Study from Lisbon, Portugal》，DOI 10.1108/s2044-994120150000007020），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】未译硬伤「车ownnership」已改为「汽车保有量」。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第18轮矩阵清理】移除s025（OWID Urbanization，与「贸易」主题错配）（D049）。 【第18轮补底】新增背景来源 s075-aag-org（AAG 学科页面，区域研究背景），用于维持 sources ≥2；该来源为区域/机构级，不作专题正文依据。 【第39轮渠道探测】世界银行无对应指标（IS.ROD.TOTL.KM 已停更）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2483902998（2015年，《Car Sharing Systems as a Sustainable Transport Policy: A Case Study from Lisbon, Portugal》，DOI 10.1108/s2044-994120150000007020），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】未译硬伤「车ownnership」已改为「汽车保有量」。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
@@ -1996,7 +1996,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "火灾生态：火作为生态过程对植被、土壤与生物多样性的作用。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "火灾生态：火作为生态过程对植被、土壤与生物多样性的作用。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "火灾生态：火作为生态过程对植被、土壤与生物多样性的作用。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x5317x6781x706bx60c5x53d8x5316"
       ],
@@ -2007,13 +2007,13 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行仅有森林覆盖率，与火灾生态口径不符（D077 弃用）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2105570511（2014年，《Bark thickness and fire regime》，DOI 10.1111/1365-2435.12372），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】① 「共同演化」改为「受火 regime 选择/塑造」；② 补摘要自述局限「数据不足限制精确分析」；③ 「火 regime」保留原术语并加注（强度与频次）。 【第131轮语义扫描 SOFT】openalex-W2105570511：摘要为作者假说与概念框架（并称数据不足），正文写成既定结论，且「火既是干扰」非摘要内容 【第135轮审计】中英混写：中英混写",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第39轮渠道探测】世界银行仅有森林覆盖率，与火灾生态口径不符（D077 弃用）；OpenAlex 检索在限流下未返回。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2105570511（2014年，《Bark thickness and fire regime》，DOI 10.1111/1365-2435.12372），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】① 「共同演化」改为「受火 regime 选择/塑造」；② 补摘要自述局限「数据不足限制精确分析」；③ 「火 regime」保留原术语并加注（强度与频次）。 【第131轮语义扫描 SOFT】openalex-W2105570511：摘要为作者假说与概念框架（并称数据不足），正文写成既定结论，且「火既是干扰」非摘要内容 【第135轮审计】中英混写：中英混写 【第137轮审计】中英混写 【第137轮审计】中英混写 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "WHO/FAO/UNESCO/World Bank/CBD/NOAA/NASA/NatGeo 已核验来源"
       ],
       "last_update": "2026-11-25",
-      "geo": "火 regime 随气候与植被类型变化：地中海气候区与针叶林带火频繁，湿润热带雨林自然火少；干季长度与燃料连续性决定火险。",
-      "influence": "所引 2014 年研究（被引 506）提出假说与概念框架：火是选择厚树皮的关键因子，全球树皮厚度的变异在很大程度上可由火情（fire regime）的差异解释，但作者也指出现有数据不足以作完全准确的分析。作者同时说明，现有数据的不足限制了对该关系的完全精确分析。 本条不把 regime 窄化为「频率」，也不称两者「共同演化」。",
+      "geo": "火情势（fire regime）随气候与植被类型变化：地中海气候区与针叶林带火频繁，湿润热带雨林自然火少；干季长度与燃料连续性决定火险。",
+      "influence": "所引 2014 年研究（被引 506）提出假说与概念框架：火是选择厚树皮的关键因子，全球树皮厚度的变异在很大程度上可由火情（fire regime）的差异解释，但作者也指出现有数据不足以作完全准确的分析。作者同时说明，现有数据的不足限制了对该关系的完全精确分析。 本条不把火情势（fire regime）窄化为「频率」，也不称两者「共同演化」。",
       "connections": "与森林覆盖变化、碳排放、土地利用、生物多样性相关。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",
@@ -2162,7 +2162,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "农业气候风险：气候变率与变化对农业生产、收入与粮食安全的潜在损害。",
       "time_or_place": "现代农业实践（年份以来源页面为准）",
-      "overview": "农业气候风险：气候变率与变化对农业生产、收入与粮食安全的潜在损害。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "农业气候风险：气候变率与变化对农业生产、收入与粮食安全的潜在损害。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "global-themes-x6c14x5019x9002x5e94x653fx7b56"
       ],
@@ -2173,7 +2173,7 @@
         "s010-unesco-org"
       ],
       "needs_verification": true,
-      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2925321084（2019年，《Vulnerability of the agricultural sector to climate change: The development of a pan-tropical Climate Risk Vulnerability Assessment to inform sub-national decision making》，DOI 10.1371/journal.pone.0213641，被引 272），经 Crossref→OpenAlex DOI 桥获取。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。",
+      "pending_notes": "B6 主题补入；具体年份、口径与数值需按来源页面逐条核验。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2925321084（2019年，《Vulnerability of the agricultural sector to climate change: The development of a pan-tropical Climate Risk Vulnerability Assessment to inform sub-national decision making》，DOI 10.1371/journal.pone.0213641，被引 272），经 Crossref→OpenAlex DOI 桥获取。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "UNESCO/UNICEF/WHO/FAO/World Bank/OWID/NASA/NOAA/OpenStax/AAG 已核验来源"
       ],

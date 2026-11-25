@@ -339,7 +339,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "查文文化：安第斯中部的早期文化，以查文德万塔尔遗址与大型石构建筑著称。",
       "time_or_place": "查文文化通行跨度约公元前900–前200年；所引研究覆盖的是更早的初始期晚期至早地平线期（约前1300–前600年），两段不可互推",
-      "overview": "查文文化：安第斯中部的早期文化，以查文德万塔尔遗址与大型石构建筑著称。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "查文文化：安第斯中部的早期文化，以查文德万塔尔遗址与大型石构建筑著称。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "south-america-x8482x4e9ax74e6x7eb3x79d1",
         "south-america-x5947x7a46x5e1dx56fd",
@@ -353,7 +353,7 @@
         "openalex-W4252739642"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为《Ancient Peruvian optics... Chavin》(镜面光学)，主题过窄且非文化整体，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1979034930（2004年，《The Evolution of Authority and Power at Chavin de Huantar, Peru》，DOI 10.1525/ap3a.2005.14.071），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】① 时期分开：所引研究覆盖约前1300–前600年，条目文化跨度约前900–前200年，已在 time_or_place 与正文分列（D083②）。② 删除「热带贝壳、黑曜石」——摘要未列这些物证，属常识补充，已移除。③ 年份差异说明：Crossref 记 2005-01、OpenAlex 记 2004，属出版与收录时间差。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W4252739642（2016年，《Chavin culture (pre‐Moche)》，被引 2，摘要 909 字符）：已在本条 influence 段落点。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为《Ancient Peruvian optics... Chavin》(镜面光学)，主题过窄且非文化整体，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W1979034930（2004年，《The Evolution of Authority and Power at Chavin de Huantar, Peru》，DOI 10.1525/ap3a.2005.14.071），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第40轮返工】① 时期分开：所引研究覆盖约前1300–前600年，条目文化跨度约前900–前200年，已在 time_or_place 与正文分列（D083②）。② 删除「热带贝壳、黑曜石」——摘要未列这些物证，属常识补充，已移除。③ 年份差异说明：Crossref 记 2005-01、OpenAlex 记 2004，属出版与收录时间差。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W4252739642（2016年，《Chavin culture (pre‐Moche)》，被引 2，摘要 909 字符）：已在本条 influence 段落点。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -651,7 +651,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "南美贸易网络：前西班牙时期安第斯与南美各地区之间的长距离交换体系。",
       "time_or_place": "古代至今",
-      "overview": "南美贸易网络：前西班牙时期安第斯与南美各地区之间的长距离交换体系。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "南美贸易网络：前西班牙时期安第斯与南美各地区之间的长距离交换体系。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "south-america-x4e9ax9a6cx900ax6cb3",
         "south-america-x5b89x7b2cx65afx5c71x8109",
@@ -665,7 +665,7 @@
         "openalex-W4224004721"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为安第斯考古木材树种鉴定，非贸易网络，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2102360536（2014年，《Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective》，DOI 10.1111/aman.12145，被引 19），经 Crossref→OpenAlex DOI 桥获取。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W4224004721（2022年，《The Jaén Stone Bowl Tradition and Ceja de Selva Contributions to Early Andean Exchange Networks》，被引 4，摘要 1275 字符）：已在本条 influence 段落点。 【第128轮语义扫描 SOFT】openalex-W2102360536：术语偏差：Spondylus 为海菊蛤（多刺牡蛎），非马蹄螺；其余与摘要一致。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为安第斯考古木材树种鉴定，非贸易网络，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W2102360536（2014年，《Political Economy, Ethnogenesis, and Language Dispersals in the Prehispanic Andes: A World‐System Perspective》，DOI 10.1111/aman.12145，被引 19），经 Crossref→OpenAlex DOI 桥获取。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W4224004721（2022年，《The Jaén Stone Bowl Tradition and Ceja de Selva Contributions to Early Andean Exchange Networks》，被引 4，摘要 1275 字符）：已在本条 influence 段落点。 【第128轮语义扫描 SOFT】openalex-W2102360536：术语偏差：Spondylus 为海菊蛤（多刺牡蛎），非马蹄螺；其余与摘要一致。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -727,7 +727,7 @@
       "status": "L2完成(第40轮)-学术文献",
       "definition": "南锥体：南美洲南部的锥形区域，通常包括阿根廷、智利、乌拉圭，有时含巴拉圭与巴西南部。",
       "time_or_place": "（本条为概念/主题条目，无单一时间跨度）",
-      "overview": "南锥体：南美洲南部的锥形区域，通常包括阿根廷、智利、乌拉圭，有时含巴拉圭与巴西南部。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "南锥体：南美洲南部的锥形区域，通常包括阿根廷、智利、乌拉圭，有时含巴拉圭与巴西南部。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "south-america-x62c9x666ex62c9x5854x5e73x539f"
       ],
@@ -740,7 +740,7 @@
         "openalex-W1524625152"
       ],
       "needs_verification": true,
-      "pending_notes": "补齐该维度专门史料与现状数据后复核。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第19轮 D053 标注】s026（OWID Climate Change，正文 urban/population 命中 0）与 un-m49（M49 分组表，urban 命中 0）对「南锥体」均无主题支撑，不构成第二独立依据；已列入下轮换源清单。 【第39轮渠道探测】OpenAlex 候选为《Rapid coastal spread of First Americans》(人群迁徙)，与区域地理主题不符，按 D081 剔除（与巴塔哥尼亚处理口径一致，见 D089）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W4224441281（2022年，《The Spanish postwar emigration to the Southern Cone (1946–1960)》，DOI 10.4324/9781003250401-10），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Spanish postwar emigration to the Southern Cone》研究的是战后西班牙移民（人口史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第94轮审计修正·双条不对位】本条原 A 级的两个强来源都不支撑条目：① `s026-ourworldindata-org`（《Climate Change | Our World in Data》）是全球气候变化页，与「南锥体」的区域地理无关；② `openalex-W4224441281`（《The Spanish postwar emigration to the Southern Cone》, 2022, 被引3）研究的是二战后西班牙向南锥体的移民，属 20 世纪人口史侧面。两条现均降为旁证。本条因此失去全部强来源（C 级）——这是如实反映，不是退步。 【第94轮修正·旁证】s026-ourworldindata-org：《Climate Change | Our World in Data》是全球气候变化页，与南锥体区域地理无关，降旁证。 【第94轮修正·旁证】openalex-W4224441281：《The Spanish postwar emigration to the Southern Cone》（2022, 被引3）研究二战后西班牙向南锥体的移民，属20世纪人口史侧面，降旁证。 【第95轮补强来源（strong，G1 修复）】openalex-W4251197559（2004年，《The Southern Cone Model》，被引 79，摘要 792 字符）：已在本条 influence 段落点。 【第99轮补第二内容源（strong，Crossref）】openalex-W1524625152（2012年，《Biogeographical history and diversification ofPetuniaandCalibrachoa(Solanaceae) in the Neotropical Pampas grassland》，被引 115，摘要 1122 字符）：已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W1524625152：范围放大：摘要描述潘帕斯本身，未论其为南锥体「典型景观」。 【第128轮语义扫描 SOFT】openalex-W4251197559：对象与术语偏差：摘要涵盖五国、提出新的区域资本主义发展模式，未涉「三国」「农牧出口与城市化」。",
+      "pending_notes": "补齐该维度专门史料与现状数据后复核。 【第19轮矩阵清理】移除s057（DataBank 应用壳页，可视正文约 41 字节）。 【第19轮补底】新增背景来源 un-m49。 【第19轮 D053 标注】s026（OWID Climate Change，正文 urban/population 命中 0）与 un-m49（M49 分组表，urban 命中 0）对「南锥体」均无主题支撑，不构成第二独立依据；已列入下轮换源清单。 【第39轮渠道探测】OpenAlex 候选为《Rapid coastal spread of First Americans》(人群迁徙)，与区域地理主题不符，按 D081 剔除（与巴塔哥尼亚处理口径一致，见 D089）。 本轮未升级；该条保持 L1 骨架。 【第40轮升级 L2】第二来源为 OpenAlex openalex-W4224441281（2022年，《The Spanish postwar emigration to the Southern Cone (1946–1960)》，DOI 10.4324/9781003250401-10），经 Crossref→OpenAlex DOI 桥获取（当日 search 端点 429 限流）。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《The Spanish postwar emigration to the Southern Cone》研究的是战后西班牙移民（人口史侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第94轮审计修正·双条不对位】本条原 A 级的两个强来源都不支撑条目：① `s026-ourworldindata-org`（《Climate Change | Our World in Data》）是全球气候变化页，与「南锥体」的区域地理无关；② `openalex-W4224441281`（《The Spanish postwar emigration to the Southern Cone》, 2022, 被引3）研究的是二战后西班牙向南锥体的移民，属 20 世纪人口史侧面。两条现均降为旁证。本条因此失去全部强来源（C 级）——这是如实反映，不是退步。 【第94轮修正·旁证】s026-ourworldindata-org：《Climate Change | Our World in Data》是全球气候变化页，与南锥体区域地理无关，降旁证。 【第94轮修正·旁证】openalex-W4224441281：《The Spanish postwar emigration to the Southern Cone》（2022, 被引3）研究二战后西班牙向南锥体的移民，属20世纪人口史侧面，降旁证。 【第95轮补强来源（strong，G1 修复）】openalex-W4251197559（2004年，《The Southern Cone Model》，被引 79，摘要 792 字符）：已在本条 influence 段落点。 【第99轮补第二内容源（strong，Crossref）】openalex-W1524625152（2012年，《Biogeographical history and diversification ofPetuniaandCalibrachoa(Solanaceae) in the Neotropical Pampas grassland》，被引 115，摘要 1122 字符）：已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W1524625152：范围放大：摘要描述潘帕斯本身，未论其为南锥体「典型景观」。 【第128轮语义扫描 SOFT】openalex-W4251197559：对象与术语偏差：摘要涵盖五国、提出新的区域资本主义发展模式，未涉「三国」「农牧出口与城市化」。 【第137轮审计】中英混写：字段名 geo 泄入正文 【第137轮审计 D】已降为旁证的来源仍被正文依据，删去该句。",
       "outlines": [
         "UN M49 标准地理分区",
         "Britannica Continents & Regions",
@@ -748,7 +748,7 @@
       ],
       "last_update": "2026-11-25",
       "geo": "安第斯山脉在西缘，东侧为潘帕斯草原与巴塔哥尼亚台地；西风带使智利南部多雨、阿根廷侧干旱。气候自北向南由亚热带过渡到冷温带。 所引 2012 年研究（被引115，摘要 1,122 字符）指出南新热带的潘帕斯是面积广大、植被以禾草为主的区域，也是南美研究最少的生态系统之一；本条「潘帕斯草原是南锥体的重要景观之一」据此。",
-      "influence": "所引 2022 年研究考察 1946–1960 年西班牙向该区域的战后移民，涉西班牙与阿根廷的移民协定、巴西1950年代初的经济繁荣等。这说明区域的人口构成受跨大西洋政策与经济的共同影响；本条仅以此为区域研究现状的一例，不作地理成因解释。 所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学视角论述阿根廷、巴西、智利、巴拉圭与乌拉圭的当代政治经济，提出该区域出现了一种新的区域资本主义发展模式。说明：该文是政治经济学研究，不涉本条的温带气候与地形叙述。",
+      "influence": "这说明区域的人口构成受跨大西洋政策与经济的共同影响；本条仅以此为区域研究现状的一例，不作地理成因解释。 所引 2004 年《The Southern Cone Model》（被引 79）以国际与比较政治经济学视角论述阿根廷、巴西、智利、巴拉圭与乌拉圭的当代政治经济，提出该区域出现了一种新的区域资本主义发展模式。说明：该文是政治经济学研究，不涉本条的温带气候与地形叙述。",
       "connections": "东临大西洋、西临太平洋，南隔德雷克海峡与南极相望，是南美与南极之间的门户。",
       "polities": "本条为概念/区域主题条目，不展开具体政权序列。",
       "today": "（本条的当代指标不在本页展开。）",

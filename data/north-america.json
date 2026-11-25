@@ -221,7 +221,7 @@
       "status": "L2完成(第41轮)-学术文献",
       "definition": "阿巴拉契亚山脉：北美东部的山系，由古生代多次造山事件叠加形成。",
       "time_or_place": "晚古生代阿勒格尼造山期（320–260 Ma，据 2002 年 GSA 研究）；更早的造山事件始于早古生代",
-      "overview": "阿巴拉契亚山脉：北美东部的山系，由古生代多次造山事件叠加形成。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "阿巴拉契亚山脉：北美东部的山系，由古生代多次造山事件叠加形成。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "north-america-x767dx4ee4x9646x6865",
         "north-america-x5317x7f8ex51b0x76d6",
@@ -235,7 +235,7 @@
         "openalex-W2948623208"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约3亿年前」无专门来源支撑，已收敛为待核表述。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1902061871（2002年，《Alleghanian (Appalachian) orogeny, a product of zipper tectonics: Rotational transpressive continent-continent collision and closing of ancient oceans along irregular margins》，Geological Society of America eBooks，DOI 10.1130/0-8137-2364-7.199，被引 163），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第41轮返工】① time_or_place 原写「时期与年代待专门来源核验」，与 influence 已给出的 320–260 Ma 矛盾，已同步；② 末句「不同机制」收紧为「多期事件叠加，阿勒格尼期为斜向旋转碰撞机制」——摘要只支持多期，未对早期事件断言机制。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2948623208（2019年，《CONNECTING TRAIL: THE INTERNATIONAL APPALACHIAN TRAIL AND THE APPALACHIAN OROGENY》，被引 0，摘要 1499 字符）：已在本条 geo 段落点。 【第127轮语义扫描 SOFT】openalex-W2948623208：外推：摘要为步道与地质科普，未论「地形与地质结构相关」。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第22轮】time_or_place 原「约3亿年前」无专门来源支撑，已收敛为待核表述。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1902061871（2002年，《Alleghanian (Appalachian) orogeny, a product of zipper tectonics: Rotational transpressive continent-continent collision and closing of ancient oceans along irregular margins》，Geological Society of America eBooks，DOI 10.1130/0-8137-2364-7.199，被引 163），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第41轮返工】① time_or_place 原写「时期与年代待专门来源核验」，与 influence 已给出的 320–260 Ma 矛盾，已同步；② 末句「不同机制」收紧为「多期事件叠加，阿勒格尼期为斜向旋转碰撞机制」——摘要只支持多期，未对早期事件断言机制。 【第84轮补第二内容源（strong，Crossref 路线）】openalex-W2948623208（2019年，《CONNECTING TRAIL: THE INTERNATIONAL APPALACHIAN TRAIL AND THE APPALACHIAN OROGENY》，被引 0，摘要 1499 字符）：已在本条 geo 段落点。 【第127轮语义扫描 SOFT】openalex-W2948623208：外推：摘要为步道与地质科普，未论「地形与地质结构相关」。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -745,7 +745,7 @@
         "openalex-W631362042"
       ],
       "needs_verification": true,
-      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）； 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】原第二来源（OpenAlex W2491281325，《The American Revolution》全书简介）摘要是独立战争通史，不含十三殖民地地理或制度内容，属「只沾边当全面来源」，已撤出。 1783 年不在任何现存来源中，已标待核。本条关键年代现无学术第二来源支撑，证据强度下调，需补专门来源方可确认 L2。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第44轮补源（strong）】openalex-W4388313733（1998年，《New World Economies: The Growth Of the Thirteen Colonies and Early Canada》，出版方未标，DOI 10.1093/oso/9780195114829.001.0001，被引 76）；已在本条 influence 段落点。 【第44轮返工】原落点写「殖民地经济与母国政策的关系」且称「与制度」，但正文无「经济」二字、且「制度」出自姊妹卷；已补正文句并对齐落点。 【D092结论句】结论：殖民地经济发展速度反映母国经济增长。 【第80轮补第二内容源（strong）】openalex-W631362042（2011年，《Colonial America: A History to 1763》，被引 27，摘要 4323 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W4388313733：摘要称本书关注价格、资本流与需求，制度为姊妹篇主题 【第124轮语义扫描 SOFT】openalex-W631362042：摘要为目录，未涉农业、贸易或地方自治传统",
+      "pending_notes": "第16轮复核：北美洲×政权更替；新增背景来源 s058-worldbank-org；按 D041/D044 仍缺含主题关键词的专题正文页（政权年代序列与制度细节的专题来源）。 第17轮清理：移除与主题无对应的泛化来源 s058-worldbank-org（D040/D047 同型问题）。 第17轮清理：移除 s011（UNESCO Climate action，与殖民地主题完全无关；为第14轮误贴残留）。13 colonies 专题页实测不可用（NPS 1505B/0、LOC 403、Archives 2716B/4），来源仅剩区域别名，待补专题页。 【第34轮升级 L2】第二来源为 OpenAlex 学术文献 openalex-W2491281325（2010年，「THE THIRTEEN COLONIES IN 1763」，DOI https://doi.org/10.4324/9780203201497_chapter_1，Taylor & Francis eBooks）； 年代以「17世纪初至1783年（据专著以1763年为断面）」表述并注明学界有不同版本，未编造精确年份。 【第34轮返工】原第二来源（OpenAlex W2491281325，《The American Revolution》全书简介）摘要是独立战争通史，不含十三殖民地地理或制度内容，属「只沾边当全面来源」，已撤出。 1783 年不在任何现存来源中，已标待核。本条关键年代现无学术第二来源支撑，证据强度下调，需补专门来源方可确认 L2。 【第43轮口径订正】经复核，本条在第43轮补源之前没有可判定含正文的学术来源（其来源记录中未记实测字符数，无法确认有无正文，第44轮统一口径记为「待实测」）（其余链接为机构页面或数据指标端点；其中部分机构页面含专题正文，见来源备注的实测字符数），正文的地理与机制描述属常识性表述、无学术来源支撑；数据类条目以「今天的状况」中的指标为准。 【第44轮补源（strong）】openalex-W4388313733（1998年，《New World Economies: The Growth Of the Thirteen Colonies and Early Canada》，出版方未标，DOI 10.1093/oso/9780195114829.001.0001，被引 76）；已在本条 influence 段落点。 【第44轮返工】原落点写「殖民地经济与母国政策的关系」且称「与制度」，但正文无「经济」二字、且「制度」出自姊妹卷；已补正文句并对齐落点。 【D092结论句】结论：殖民地经济发展速度反映母国经济增长。 【第80轮补第二内容源（strong）】openalex-W631362042（2011年，《Colonial America: A History to 1763》，被引 27，摘要 4323 字符）：已在本条 influence 段落点。 【第124轮语义扫描 SOFT】openalex-W4388313733：摘要称本书关注价格、资本流与需求，制度为姊妹篇主题 【第124轮语义扫描 SOFT】openalex-W631362042：摘要为目录，未涉农业、贸易或地方自治传统 【第137轮审计】中英混写",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
@@ -754,7 +754,7 @@
       "geo": "阿巴拉契亚山脉与海岸平原之间的狭长地带，港湾与河流众多，适合港口城市与内陆农业；气候自北向南由冷温带过渡到亚热带。",
       "influence": "海岸线与港湾条件支撑了港口贸易，河流谷地支撑了内陆垦殖；但殖民地的政治形态由特许状、议会与母国政策塑造，地理只是舞台。 所引 1998 年研究讨论十三殖民地的经济增长；本条「殖民地经济与母国增长的关系」据此。 所引 1998 年《New World Economies》的结论是：殖民地经济发展的速度反映母国经济的增长速度与需求变动；本条据此写「殖民地经济与母国增长的关系」，不涉制度差异（后者出自另一卷）。 所引 2011 年《Colonial America: A History to 1763》（被引27，摘要 4,323 字符）综述英属北美殖民地至 1763 年的发展。",
       "polities": "本条不展开完整统治者序列；具体年代、世系与制度细节待专门史学来源核验。",
-      "connections": "跨大西洋航线连接英国与西印度群岛，沿岸 cabotage 把十三个港口连成一体，内陆河流连接边疆。",
+      "connections": "跨大西洋航线连接英国与西印度群岛，沿岸航运（cabotage）把十三个港口连成一体，内陆河流连接边疆。",
       "today": "（本条的当代指标不在本页展开。）",
       "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400' role='img' aria-label='示意图'><rect x='20' y='20' width='720' height='360' rx='10' fill='none' stroke='var(--line)'/><path d='M90 300 L220 250 L360 225 L500 235 L640 270' fill='none' stroke='var(--accent)' stroke-width='4'/><circle cx='220' cy='250' r='6' class='pt'/><circle cx='500' cy='235' r='6' class='pt'/><text x='140' y='228' class='lbl'>十三殖民地</text><text x='480' y='215' class='dim'>17世纪初至1783年（据专著以1763年为断面）</text><text x='40' y='370' class='dim'>十三殖民地 · 简笔示意，非精确测绘</text></svg>"
     },
@@ -847,7 +847,7 @@
       "status": "L2完成(第41轮)-学术文献",
       "definition": "古巴岛：加勒比海最大的岛屿，位于佛罗里达半岛以南、尤卡坦半岛以东。",
       "time_or_place": "古代至今",
-      "overview": "古巴岛：加勒比海最大的岛屿，位于佛罗里达半岛以南、尤卡坦半岛以东。 机制/影响段据所引研究撰写，geo 为常识性地理描述（未挂学术来源）。",
+      "overview": "古巴岛：加勒比海最大的岛屿，位于佛罗里达半岛以南、尤卡坦半岛以东。 机制与影响段据所引研究撰写，地理段为常识性描述（未挂学术来源）。",
       "related": [
         "north-america-x4e2dx7f8ex6d32x5730x5ce1",
         "north-america-x5317x7f8ex539fx4f4fx6c11",
@@ -861,7 +861,7 @@
         "openalex-W2519900070"
       ],
       "needs_verification": true,
-      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1987038906（2004年，《Age and Tectonic Setting of the Camagüey Volcanic‐Intrusive Arc, Cuba: Late Cretaceous Extension and Uplift in the Western Greater Antilles》，The Journal of Geology，DOI 10.1086/422664，被引 28），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Age and Tectonic Setting of the Camagüey Volcanic-Intrusive Arc》研究的是中部古巴的火山—侵入弧（构造地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮补主来源（strong）】openalex-W2519900070（2016年，《The geology of Cuba: A brief overview and synthesis》，DOI https://doi.org/10.1130/gsatg296a.1，被引 81）：待支撑断言「古巴岛的地质与地形」；主题槽命中 ['geolog', 'tecton', 'island']；已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W2519900070：术语偏差：摘要第三阶段为古近纪「软碰撞」及西北加勒比板块转入北美板块，并非「与巴哈马台地碰撞」；第二阶段为蛇绿岩—岛弧杂岩。",
+      "pending_notes": "定义与概述需逐条核对具体来源；现状数据待补年份与机构来源。 【第39轮渠道探测】OpenAlex 候选为女王凤凰螺（Aliger gigas）群体遗传研究，对象为海洋生物而非岛屿地理，按 D081 剔除。 本轮未升级；该条保持 L1 骨架。 【第41轮升级 L2】第二来源为 OpenAlex openalex-W1987038906（2004年，《Age and Tectonic Setting of the Camagüey Volcanic‐Intrusive Arc, Cuba: Late Cretaceous Extension and Uplift in the Western Greater Antilles》，The Journal of Geology，DOI 10.1086/422664，被引 28），经 Crossref→OpenAlex DOI 桥获取。 机制/影响段按摘要结论句撰写（D092），geo 为常识性地理描述。 【D081单源声明】britannica-regions/wikipedia-regions 为壳别名、s010-unesco-org 为 UNESCO Culture 首页，均不构成独立内容依据；本条实质为单源（OpenAlex）。 【第50轮旁证认定】本条现有学术来源属侧面文献：《Age and Tectonic Setting of the Camagüey Volcanic-Intrusive Arc》研究的是中部古巴的火山—侵入弧（构造地质侧面）。 按 D095②/D108 的口径，此类文献对象同一但只支撑某一段或某一侧面，不能作为整条目的主来源；已标为旁证，正文相应段落亦已限定范围。主来源待补。 【第54轮补主来源（strong）】openalex-W2519900070（2016年，《The geology of Cuba: A brief overview and synthesis》，DOI https://doi.org/10.1130/gsatg296a.1，被引 81）：待支撑断言「古巴岛的地质与地形」；主题槽命中 ['geolog', 'tecton', 'island']；已在本条 geo 段落点。 【第128轮语义扫描 SOFT】openalex-W2519900070：术语偏差：摘要第三阶段为古近纪「软碰撞」及西北加勒比板块转入北美板块，并非「与巴哈马台地碰撞」；第二阶段为蛇绿岩—岛弧杂岩。 【第137轮审计】中英混写：字段名 geo 泄入正文",
       "outlines": [
         "Britannica Continents & Regions",
         "Wikipedia List of regions of the world"
