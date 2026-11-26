@@ -1,27 +1,39 @@
 # -*- coding: utf-8 -*-
-"""Our World in Data 真实序列（全球近地表气温距平）→ 复用 wbdata 折线面板。"""
+"""Our World in Data grapher CSV → 真实序列 + 复用 wbdata 折线面板。"""
 import os, subprocess, csv
 import wbdata
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-P = os.path.join(ROOT, "data", "geo", "owid", "temp.csv")
-URL = "https://ourworldindata.org/grapher/temperature-anomaly.csv?v=1&csvType=full&useColumnShortNames=true"
-_C = None
+CACHE = os.path.join(ROOT, "data", "geo", "owid")
+BASE = "https://ourworldindata.org/grapher/{slug}.csv?v=1&csvType=full&useColumnShortNames=true"
+_C = {}
 
-def _load():
-    global _C
-    if _C is not None: return _C
-    os.makedirs(os.path.dirname(P), exist_ok=True)
-    if not os.path.exists(P) or os.path.getsize(P) < 2000:
-        subprocess.run(["curl","-L","-sS","--ssl-no-revoke","--compressed","-m","90","-A","Mozilla/5.0","-o",P,URL],capture_output=True)
-    rows=[]
+def _csv(slug):
+    if slug in _C: return _C[slug]
+    os.makedirs(CACHE, exist_ok=True)
+    p = os.path.join(CACHE, slug + ".csv")
+    if not os.path.exists(p) or os.path.getsize(p) < 500:
+        for _ in range(3):
+            subprocess.run(["curl","-L","-sS","--ssl-no-revoke","--compressed","-m","90","-A","Mozilla/5.0","-o",p,BASE.format(slug=slug)],capture_output=True)
+            if os.path.exists(p) and os.path.getsize(p) > 500: break
+    _C[slug] = p
+    return p
+
+def series(slug, entity, column):
+    p = _csv(slug); rows=[]
     try:
-        with open(P, encoding="utf-8") as f:
+        with open(p, encoding="utf-8") as f:
             for r in csv.DictReader(f):
-                if r.get("entity")=="World" and r.get("near_surface_temperature_anomaly"):
-                    try: rows.append((int(r["year"]), float(r["near_surface_temperature_anomaly"])))
+                if r.get("entity") == entity and r.get(column):
+                    try: rows.append((int(r["year"]), float(r[column])))
                     except: pass
     except Exception: rows=[]
-    rows.sort(); _C=rows; return rows
+    rows.sort(); return rows
+
+def _temp():
+    return series("temperature-anomaly", "World", "near_surface_temperature_anomaly")
 
 def panel(box, label="全球近地表气温距平", unit="°C（相对 1850–1900）"):
-    return wbdata.panel(box, _load(), "temperature-anomaly", label, unit, source="Our World in Data")[0]
+    return wbdata.panel(box, _temp(), "temperature-anomaly", label, unit, source="Our World in Data")[0]
+
+def panel2(box, slug, entity, column, label, unit):
+    return wbdata.panel(box, series(slug, entity, column), slug, label, unit, source="Our World in Data")[0]

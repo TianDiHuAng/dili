@@ -23,7 +23,7 @@ def esc(s):
 
 def nav(depth=0):
     p = "../" * depth
-    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}index-all.html">全站索引</a><a href="{p}search.html">检索</a><a href="{p}stats.html">统计</a><a href="{p}discover.html">发现</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}legend.html">读图说明</a><a href="{p}about.html">关于</a></nav>'''
+    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}physio.html">自然地理</a><a href="{p}index-all.html">全站索引</a><a href="{p}search.html">检索</a><a href="{p}stats.html">统计</a><a href="{p}discover.html">发现</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}legend.html">读图说明</a><a href="{p}about.html">关于</a></nav>'''
 
 
 def page(title, body, depth=0, extra_head=""):
@@ -274,6 +274,8 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
 <div class="stat"><b>{verified_src}</b>已核验来源</div>
 <div class="stat"><b>{gapstr}</b>缺口 G1/G2/G3/G4</div>
 </div>
+<h2>自然地理（地形 · 气候）</h2>
+<div class="grid"><a class="card" href="physio.html"><h3>自然地理总览</h3><p>{sum(1 for x in entries.values() if x["theme"]=="地形")} 条地形 + {sum(1 for x in entries.values() if x["theme"]=="气候")} 条气候</p><p class="dim">真实地图定位 + 地貌剖面 / Köppen 气候分区</p></a><a class="card" href="stats.html"><h3>站点统计</h3><p>主题 / 重要度 / 大洲分布</p></a></div>
 <h2>按重要度浏览</h2>
 <div class="grid"><a class="card" href="tier-core.html"><h3>核心条目</h3><p>{sum(1 for x in entries.values() if x["tier"]=="核心")} 条</p><p class="dim">骨架性、文明/地理主干</p></a><a class="card" href="tier-important.html"><h3>重要条目</h3><p>{sum(1 for x in entries.values() if x["tier"]=="重要")} 条</p><p class="dim">区域与专题要点</p></a><a class="card" href="tier-supplementary.html"><h3>补充条目</h3><p>{sum(1 for x in entries.values() if x["tier"]=="补充")} 条</p><p class="dim">指标与细目</p></a></div>
 <h2>中国十五大地貌（可视化总览）</h2>
@@ -529,6 +531,20 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
     with open(os.path.join(SITE, "discover.html"), "w", encoding="utf-8") as f:
         f.write(page("发现", d_body))
 
+    # 自然地理总览
+    ter = [x for x in entries.values() if x["theme"] == "地形"]
+    cli = [x for x in entries.values() if x["theme"] == "气候"]
+    def _cards(lst):
+        lst = sorted(lst, key=lambda z: (UNIT_IDS.index(z["unit_id"]), z["title"]))
+        return "".join(f'<a class="card tier-{esc(x["tier"])}" href="entries/{esc(x["id"])}.html"><span class="tier">{esc(x["tier"])}</span><h3>{esc(x["title"])}</h3><p class="dim">{esc(UNIT_NAMES[x["unit_id"]])} · {esc(x["theme"])}</p></a>' for x in lst)
+    physio = f'''<div class="crumb"><a href="index.html">首页</a> / 自然地理</div><h1>自然地理总览</h1>
+<p class="lead">把全站的自然地理条目（地形地貌 {len(ter)} 条、气候 {len(cli)} 条）集中在此，每条都配真实地图定位 + 主题图（地貌剖面 / Köppen 气候分区 + 真实气温距平）。</p>
+<h2>中国十五大地貌（速览）</h2>{hero_china_svg()}
+<h2>地形与地貌（{len(ter)}）</h2><div class="grid">{_cards(ter)}</div>
+<h2>气候（{len(cli)}）</h2><div class="grid">{_cards(cli)}</div>'''
+    with open(os.path.join(SITE, "physio.html"), "w", encoding="utf-8") as f:
+        f.write(page("自然地理", physio))
+
     # 读图说明页
     legend_rows = "".join(f'<tr><td>{esc(k)}</td><td>{esc(v)}</td></tr>' for k,v in [
         ("地形","按类型绘地貌剖面：盆地/山脉/平原/三角洲/沙漠/高原/丘陵/裂谷/海岸/河流/岛屿/冰盖"),
@@ -567,7 +583,7 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
         f.write("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='#2b7a78'/><path d='M8 44 L24 24 L34 36 L44 22 L56 44 Z' fill='#fffaf0'/><circle cx='46' cy='16' r='5' fill='#b5651d'/></svg>")
 
     # sitemap.xml + robots.txt
-    urls = ["index.html","index-all.html","timeline.html","sources.html","coverage.html","coverage_detail.html","evidence.html","limits.html","legend.html","search.html","stats.html","discover.html","about.html","tier-core.html","tier-important.html","tier-supplementary.html"]
+    urls = ["index.html","index-all.html","timeline.html","sources.html","coverage.html","coverage_detail.html","evidence.html","limits.html","physio.html","legend.html","search.html","stats.html","discover.html","about.html","tier-core.html","tier-important.html","tier-supplementary.html"]
     urls += ["units/%s.html" % uid for uid in UNIT_IDS]
     urls += ["entries/%s.html" % eid for eid in entries.keys()]
     today = datetime.date.today().isoformat()

@@ -373,6 +373,10 @@ def build(entry, coords=None):
 
 import wbdata
 import owid
+OWID_EXTRA={
+ "森林覆盖变化":("land-use","World","forest_land__00006646__area__005110__hectares","全球森林面积","公顷"),
+ "土地利用变化":("land-use","World","cropland__00006620__area__005110__hectares","全球耕地面积","公顷"),
+}
 WB_MAP = {
  "二氧化碳排放清单":("EN.GHG.CO2.PC.CE.AR5","人均二氧化碳排放","吨/人","WLD"),
  "城市化水平":("SP.URB.TOTL.IN.ZS","城镇人口占比","%","WLD"),
@@ -406,6 +410,9 @@ def build(entry, coords=None):
     loc = map_svg((30,34,840,196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
     if title in ("全球气温变化","全球气温距平"):
         diagram = owid.panel((60,268,780,264))
+    elif title in OWID_EXTRA:
+        _sl,_en,_co,_lb,_un = OWID_EXTRA[title]
+        diagram = owid.panel2((60,268,780,264), _sl, _en, _co, _lb, _un)
     elif title in WB_MAP:
         ind, label, un = WB_MAP[title][:3]; ctry = WB_MAP[title][3] if len(WB_MAP[title]) > 3 else "WLD"
         diagram = wbdata.panel((60,268,780,264), wbdata.series(ind, ctry), ind, label, un, ctry)[0]
