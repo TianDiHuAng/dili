@@ -845,5 +845,21 @@
   "河流阶地": [
     "terrace",
     "terraces"
+  ],
+  "冰碛丘陵": [
+    "moraine"
+  ],
+  "海蚀崖": [
+    "cliff"
+  ],
+  "潮滩": [
+    "tidal flat",
+    "tidal flats"
+  ],
+  "土壤侵蚀": [
+    "soil erosion"
+  ],
+  "冰川湖": [
+    "glacial lake"
   ]
 }

@@ -225,12 +225,55 @@ def terrace(title):
     s.append(L(40,440,"河流阶地剖面 · 示意图，非精确测绘",c="dim"))
     return "".join(s)
 
+
+def moraine(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",R(40,300,820,90,"#cbb98a","#a08a5f")]
+    for x in (120,240,360,480,600,720):
+        s.append(f"<path d='M{x} 300 C{x+20} 254 {x+60} 254 {x+80} 300 Z' fill='#b9a98a' stroke='#7a6a55'/>")
+    s.append("<path d='M80 230 L300 230' stroke='#2f6f8f' stroke-width='2'/><polygon points='300,226 300,234 312,230' fill='#2f6f8f'/>"+L(90,222,"冰流向",c="lbl-s"))
+    s.append(L(120,264,"冰碛丘陵（冰碛物堆积成的丘岗）",c="lbl-s")+L(120,410,"底碛/终碛",c="lbl-s"))
+    s.append(L(40,430,"冰碛丘陵剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
+def seacliff(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,150 320,150 340,300 60,300","#b7a58c","#7a6a55"),
+       R(60,300,760,90,"#a9cbe0","#6f9db8")]
+    s.append("<path d='M320 220 C360 250 340 280 300 290' fill='none' stroke='#7a6a55' stroke-width='2'/>"+L(250,214,"海蚀崖",c="lbl-s"))
+    s.append("<path d='M340 300 L560 316' stroke='#98874f' stroke-width='3'/>"+L(380,338,"海蚀平台",c="lbl-s"))
+    s.append("<path d='M600 300 q20 -10 40 0 t40 0' stroke='#5b93b8' stroke-width='2' fill='none'/>"+L(640,290,"波浪侵蚀",c="lbl-s"))
+    s.append(L(40,430,"海蚀崖剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
+def tidalflat(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,260 860,300 860,360 40,360","#cbb98a","#a08a5f"),
+       R(40,300,820,60,"#a9cbe0","#6f9db8",op=".5")]
+    s.append("<path d='M40 284 H860' stroke='#2f6f8f' stroke-width='2' stroke-dasharray='8 6'/>"+L(700,278,"高潮线",c="lbl-s"))
+    s.append("<path d='M120 330 C260 326 360 334 480 330' fill='none' stroke='#5b93b8' stroke-width='2'/>"+L(200,324,"潮沟",c="lbl-s"))
+    s.append(L(120,250,"潮滩（粉砂/淤泥质，坡度极缓）",c="lbl-s"))
+    s.append(L(40,430,"潮滩剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
+def soilerosion(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,240 400,240 480,360 40,360","#b98a52","#8a5636"),
+       R(40,360,820,30,"#e4cf94","#b99b4e")]
+    for x in (140,220,300):
+        s.append(f"<path d='M{x} 250 L{x+40} 356' stroke='#8a5636' stroke-width='2' fill='none'/>")
+    s.append(L(150,232,"坡面细沟/切沟侵蚀",c="lbl-s")+L(500,388,"坡脚堆积泥沙",c="lbl-s"))
+    s.append("<g stroke='#5b93b8' stroke-width='1.4'><path d='M320 200 l-6 14'/><path d='M360 200 l-6 14'/></g>"+L(300,192,"降雨溅蚀",c="lbl-s"))
+    s.append(L(40,430,"土壤侵蚀剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
 KINDS = {"basin":basin,"plain":plain,"delta":delta,"range":range_,"hills":hills,"plateau":plateau,
-         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral,"yardang":yardang,"fjord":fjord,"oxbow":oxbow,"faultblock":faultblock,"terrace":terrace}
+         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral,"yardang":yardang,"fjord":fjord,"oxbow":oxbow,"faultblock":faultblock,"terrace":terrace,"moraine":moraine,"seacliff":seacliff,"tidalflat":tidalflat,"soilerosion":soilerosion}
 
 def pick(title):
     t = title
+    if "冰川湖" in t: return "lake"
     if any(k in t for k in ("冰盖","冰川","冰架","南极大陆","罗斯海","冰芯")): return "ice"
+    if "冰碛" in t: return "moraine"
+    if "海蚀" in t: return "seacliff"
+    if "潮滩" in t: return "tidalflat"
+    if "土壤侵蚀" in t: return "soilerosion"
+    if "冰川湖" in t: return "lake"
     if "雅丹" in t: return "yardang"
     if "峡湾" in t: return "fjord"
     if "牛轭" in t: return "oxbow"

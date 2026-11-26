@@ -3300,10 +3300,70 @@
         "unknown": 0
       },
       "tier": "重要"
+    },
+    "冰碛丘陵": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "海蚀崖": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "潮滩": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "土壤侵蚀": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "冰川湖": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
     }
   },
   "summary": {
-    "A": 247,
+    "A": 252,
     "B": 0,
     "C": 0,
     "D": 28
