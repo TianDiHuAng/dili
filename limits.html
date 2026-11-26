@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>已知限制 — 地理与文明百科</title>
+<meta name="description" content="地理与文明百科：大洲×文明×主题的静态知识库，真实地图定位 + 主题示意图 + 可核验来源。">
+<meta property="og:site_name" content="地理与文明百科"><meta property="og:type" content="website">
+<meta property="og:title" content="已知限制 — 地理与文明百科">
+<meta property="og:description" content="以「大洲 × 文明/区域 × 主题」为骨架的静态知识库：真实地图定位 + 主题示意图 + 可核验来源。">
+<meta name="theme-color" content="#2b7a78">
+<link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="css/style.css"></head>
+<body><header class="top"><a class="brand" href="index.html">地理与文明百科</a><nav class="nav"><a href="index.html">首页</a><a href="physio.html">自然地理</a><a href="index-all.html">全站索引</a><a href="search.html">检索</a><a href="stats.html">统计</a><a href="discover.html">发现</a><a href="timeline.html">时间线</a><a href="sources.html">来源库</a><a href="coverage.html">覆盖矩阵</a><a href="evidence.html">证据层级</a><a href="limits.html">已知限制</a><a href="legend.html">读图说明</a><a href="about.html">关于</a></nav></header>
+<main><h1>已知限制</h1><p class="lead">本页如实列出当前无法解决、或经多轮检索确认无解的问题，不作掩饰。数字由 <code>tools/round62_gaps.py</code> 计算，与本页同步。</p>
+<div class="section"><h2>一、缺口四类（当前）</h2><table><thead><tr><th>编号</th><th>缺口</th><th>条数</th><th>如何关闭</th></tr></thead><tbody>
+<tr><td><b>G1</b></td><td>无强来源（仅 C 级；D 级指标解读类不计）</td><td><b>0</b></td><td>补一条被引≥10 或正文≥800 的来源（且非别名页/书评）</td></tr><tr><td><b>G2</b></td><td>检索确认无合格主来源</td><td><b>0</b></td><td>仅待新文献出现；不再重试同类检索</td></tr><tr><td><b>G3</b></td><td>内容源仅 1 个（需第二互证）</td><td><b>0</b></td><td>补第二内容源，须过 R19/R20/R22/R25</td></tr><tr><td><b>G4</b></td><td>未经人工逐条语义扫描</td><td><b>0</b></td><td>人工逐条扫描（不可自动化）</td></tr>
+</tbody></table>
+<p class="dim"><b>G3a 与 G3b 的区别</b>（第77轮拆分）：G3a 是「已有侧面文献可补充，缺的是整体研究」；G3b 是「连侧面文献都未登记，只有单一内容源」。两者的处置不同——前者可把侧面文献登记为补充源并限定范围（D140），后者只能继续检索或承认无解。当前 G3a 仅 0 条、G3b 0 条。</p>
+<p class="dim">当前状态：G1=0、G2=0、G3=0、G4=0；第149–151轮连续三轮独立审计五类（替换质量/正文机械缺陷/判据一致性/来源-正文一致性/全站一致性）均为零缺口，已进入<b>维护模式</b>。维护模式下仅在发现新证据或数据不一致时修订，不再大规模补源。G4 的「语义对题」由人工/子代理逐条读取摘要完成，非自动判定；G2 如出现，指经两库多轮检索确认无合格主来源的条目，单列记录、不再重试同类检索。</p></div>
+<div class="section"><h2>二、经检索确认「无合格第二来源」的条目（0 条）</h2>
+<p>以下条目经<b>两个库（Crossref + OpenAlex）、多条检索式</b>检索后仍无合格第二来源。本站不作硬配。</p>
+<table><thead><tr><th>条目</th><th>状况</th></tr></thead><tbody></tbody></table></div>
+<div class="section"><h2>三、空壳页（6 个）</h2>
+<p>以下机构页经 curl 实测，strip 后正文不足 800 字符（多为 JS 应用壳或导航条），<b>仅作入口页，不作正文依据</b>。</p>
+<table><thead><tr><th>来源</th><th>页面</th><th>正文字符</th></tr></thead><tbody><tr><td>s004-population-un-org</td><td>World Population Prospects</td><td>26 字符</td></tr><tr><td>s008-unesco-org</td><td>Education transforms lives | UNESCO</td><td>218 字符</td></tr><tr><td>s014-fao-org</td><td>FAOSTAT</td><td>7 字符</td></tr><tr><td>s072-cbd-int</td><td>Protected and Conserved Areas</td><td>172 字符</td></tr><tr><td>s074-unicef-org</td><td>UNICEF, for every child</td><td>750 字符</td></tr><tr><td>s085-unesco-org</td><td>The ocean we need for the future we want | UNESCO</td><td>218 字符</td></tr></tbody></table>
+<p class="dim">对比：同期实测 OWID 长文为 3,298–31,443 字符，World Bank 8,041–11,098，NOAA 2,753，IUCN 4,086。若不实测，会把这些空壳误当成「独立互证」。</p></div>
+<div class="section"><h2>四、机器校验的能力边界</h2>
+<p>R18–R23 能保证：引用年份存在（R18）、弱来源不称主来源（R19）、标题含对象词（R20）、层级有记录（R21）、层级与重算一致（R22）、空壳页不称内容源（R23）。</p>
+<p><b>不能判断</b>：① 一篇文献是否只涉对象的某个侧面；② 某条断言是否被该文献真正支持、强度是否相称；③ 个案能否代表通例；④ <b>题目级错位</b>——<code>sources.title</code> 是章节名，而数据库返回的摘要是整卷导论（或反之），题名与摘要不是同一文本。这四类依赖人工逐条扫描，记录见 <code>data/semantic_scan.json</code>。</p>
+<p class="dim">第67轮语义抽检就抓到一例：某来源题名是章节《Sumerian Agriculture and Land Management》，返回摘要却是整卷《The Sumerian World》的导论——六道机器闸全绿通过，语义层失守。</p></div>
+<div class="section"><h2>五、环境限制</h2><ul>
+<li>Wikipedia、Britannica、archive.org 在本环境不可达（HTTP 000/403）。</li>
+<li>Wikidata 时通时断；断线期间登记的实体标 verified=false。</li>
+<li>OpenAlex 的 search 端点常触发 429 限流，需重试；DOI 桥（Crossref 检索 → 按 DOI 取摘要）是主要绕行路径。</li>
+<li>UN / UNESCO / FAO / CBD 的页面多为 JS 应用壳，正文 7–218 字符。</li>
+</ul></div><div class="section"><h2>图形图例与数据来源</h2><p class="dim">每条目的图示：<b>上半</b>为所在大洲真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川（红点为该条目位置）；<b>下半</b>按主题绘制——地形=地貌剖面；气候=Köppen 真实气候分区（红点为所在气候型）；农业/贸易/区域=系统示意；政权更替=historical-basemaps 历史疆域快照；指标类=世界银行真实折线图。</p><p class="dim">数据：Natural Earth（公有领域）；historical-basemaps（CC BY 4.0）；Köppen-Geiger（Beck et al.，经 rjerue/koppen-map）；World Bank API。所有图为示意图、非精确测绘，争议边界不画线。</p></div></main><footer class="foot">静态站点 · 数据驱动 · <a href="about.html">诚实标注</a> · 生成于 2026-11-26</footer>
+</body></html>
