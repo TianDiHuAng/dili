@@ -330,3 +330,8 @@
 - 条目页“来源”“待核实”改为可折叠 <details>。
 - 新增核心/重要/补充三个分页(tier-*.html)，首页加“按重要度浏览”。
 - check 0、links 0；站点 21MB。
+
+## 第162轮（SEO/分享/读图页）
+- 全站 head 加 description、Open Graph、theme-color、favicon。
+- 新增 legend.html（读图说明与图例、Köppen 代码表、数据来源许可），导航加入。
+- 生成 sitemap.xml（279 条 URL）、robots.txt。

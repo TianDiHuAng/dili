@@ -3,6 +3,7 @@
 import json, os, re, html, datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SITE_BASE = "https://tiandihuang.github.io/dili"
 DATA = os.path.join(ROOT, "data")
 SITE = os.path.join(ROOT, "site")
 UNIT_IDS = ["africa", "asia", "europe", "north-america", "south-america", "oceania", "antarctica", "global-themes"]
@@ -22,14 +23,20 @@ def esc(s):
 
 def nav(depth=0):
     p = "../" * depth
-    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}index-all.html">全站索引</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}about.html">关于</a></nav>'''
+    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}index-all.html">全站索引</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}legend.html">读图说明</a><a href="{p}about.html">关于</a></nav>'''
 
 
 def page(title, body, depth=0, extra_head=""):
     p = "../" * depth
     return f'''<!DOCTYPE html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{esc(title)} — 地理与文明百科</title><link rel="stylesheet" href="{p}css/style.css">{extra_head}</head>
+<title>{esc(title)} — 地理与文明百科</title>
+<meta name="description" content="地理与文明百科：大洲×文明×主题的静态知识库，真实地图定位 + 主题示意图 + 可核验来源。">
+<meta property="og:site_name" content="地理与文明百科"><meta property="og:type" content="website">
+<meta property="og:title" content="{esc(title)} — 地理与文明百科">
+<meta property="og:description" content="以「大洲 × 文明/区域 × 主题」为骨架的静态知识库：真实地图定位 + 主题示意图 + 可核验来源。">
+<meta name="theme-color" content="#2b7a78">
+<link rel="icon" type="image/svg+xml" href="{p}favicon.svg"><link rel="stylesheet" href="{p}css/style.css">{extra_head}</head>
 <body><header class="top"><a class="brand" href="{p}index.html">地理与文明百科</a>{nav(depth)}</header>
 <main>{body}</main><footer class="foot">静态站点 · 数据驱动 · <a href="{p}about.html">诚实标注</a> · 生成于 {datetime.date.today().isoformat()}</footer>
 </body></html>'''
@@ -450,6 +457,57 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
 </ul></div><div class="section"><h2>图形图例与数据来源</h2><p class="dim">每条目的图示：<b>上半</b>为所在大洲真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川（红点为该条目位置）；<b>下半</b>按主题绘制——地形=地貌剖面；气候=Köppen 真实气候分区（红点为所在气候型）；农业/贸易/区域=系统示意；政权更替=historical-basemaps 历史疆域快照；指标类=世界银行真实折线图。</p><p class="dim">数据：Natural Earth（公有领域）；historical-basemaps（CC BY 4.0）；Köppen-Geiger（Beck et al.，经 rjerue/koppen-map）；World Bank API。所有图为示意图、非精确测绘，争议边界不画线。</p></div>"""
     with open(os.path.join(SITE, "limits.html"), "w", encoding="utf-8") as f:
         f.write(page("已知限制", lim_body))
+
+    # 读图说明页
+    legend_rows = "".join(f'<tr><td>{esc(k)}</td><td>{esc(v)}</td></tr>' for k,v in [
+        ("地形","按类型绘地貌剖面：盆地/山脉/平原/三角洲/沙漠/高原/丘陵/裂谷/海岸/河流/岛屿/冰盖"),
+        ("气候","Köppen-Geiger 真实气候分区底图，红点为所在气候型（A 热带 / B 干旱 / C 温带 / D 冷温带 / E 极地）"),
+        ("农业","按农作制：水稻田/旱作/绿洲灌溉/游牧/种植园；部分指标类为世界银行真实折线"),
+        ("贸易","海上航路 / 陆上商路 / 一般网络"),
+        ("区域","群岛 / 半岛 / 流域 / 一般区域（范围与对外联系）"),
+        ("政权更替","historical-basemaps 历史疆域快照（约代表年份），红框为所属政权"),
+        ("指标类","世界银行真实折线图（含年份与数值）"),
+    ])
+    koppen_rows = "".join(f'<tr><td>{esc(c)}</td><td>{esc(n)}</td></tr>' for c,n in [
+        ("Af / Am / Aw","热带雨林 / 热带季风 / 热带草原"),("BWh / BWk","热带沙漠 / 冷沙漠"),
+        ("BSh / BSk","半干旱(热) / 半干旱(冷)"),("Cfa / Cfb","副热带湿润 / 温带海洋性"),
+        ("Csa / Csb","地中海(夏干热) / 地中海(夏干暖)"),("Cwa / Cwb","副热带季风 / 高地季风"),
+        ("Dfa / Dfb","温带大陆性湿润 / 温带大陆性"),("Dwa / Dwb / Dfc","冷温带季风 / 冷温带 / 亚寒带"),
+        ("ET / EF","苔原 / 冰原"),
+    ])
+    lg_body = f'''<div class="crumb"><a href="index.html">首页</a> / 读图说明</div><h1>读图说明与图例</h1>
+<p class="lead">本页统一说明每条目的图形怎么读、用到的数据与许可。</p>
+<div class="section"><h2>每条目的图</h2><p><b>上半</b>：所在大洲的真实陆地轮廓 + Natural Earth 河流/湖泊/地貌区/冰川；红点为该条目位置。<b>下半</b>：按主题绘制（见下表）。所有图为<b>示意图、非精确测绘</b>；争议边界只描述、不画线。</p>
+<table><thead><tr><th>主题</th><th>下图内容</th></tr></thead><tbody>{legend_rows}</tbody></table></div>
+<div class="section"><h2>Köppen 气候带代码</h2><p class="dim">图例中的 A/B/C/D/E 为 Köppen 一级组；下表为常见二级类型。</p>
+<table><thead><tr><th>代码</th><th>气候类型</th></tr></thead><tbody>{koppen_rows}</tbody></table></div>
+<div class="section"><h2>数据来源与许可</h2><ul>
+<li><b>Natural Earth</b>（1:10m/50m 物理与国界）：公有领域。</li>
+<li><b>world-atlas / TopoJSON</b>（countries-110m）：ISC，源自 Natural Earth。</li>
+<li><b>historical-basemaps</b>（aourednik）：CC BY 4.0（历史疆域快照）。</li>
+<li><b>Köppen-Geiger</b>（Beck et al.；矢量经 rjerue/koppen-map）：学术数据，示意使用。</li>
+<li><b>World Bank API</b>：公开数据，用于指标类真实折线图（WLD 或标注国别）。</li>
+</ul><p class="dim">本站不使用任何图片；全部图示为内联 SVG。详见 <a href="limits.html">已知限制</a> 与 <a href="evidence.html">证据层级</a>。</p></div>'''
+    with open(os.path.join(SITE, "legend.html"), "w", encoding="utf-8") as f:
+        f.write(page("读图说明", lg_body))
+
+    # favicon
+    with open(os.path.join(SITE, "favicon.svg"), "w", encoding="utf-8") as f:
+        f.write("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='#2b7a78'/><path d='M8 44 L24 24 L34 36 L44 22 L56 44 Z' fill='#fffaf0'/><circle cx='46' cy='16' r='5' fill='#b5651d'/></svg>")
+
+    # sitemap.xml + robots.txt
+    urls = ["index.html","index-all.html","timeline.html","sources.html","coverage.html","coverage_detail.html","evidence.html","limits.html","legend.html","about.html","tier-core.html","tier-important.html","tier-supplementary.html"]
+    urls += ["units/%s.html" % uid for uid in UNIT_IDS]
+    urls += ["entries/%s.html" % eid for eid in entries.keys()]
+    today = datetime.date.today().isoformat()
+    sm = ['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for u in urls:
+        sm.append(f"<url><loc>{SITE_BASE}/{u}</loc><lastmod>{today}</lastmod></url>")
+    sm.append("</urlset>")
+    with open(os.path.join(SITE, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write("\n".join(sm))
+    with open(os.path.join(SITE, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write("User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n" % SITE_BASE)
 
     print(f"生成完成：{total} 条目页 + {len(UNIT_IDS)} 单元页 + 索引/时间线/来源/覆盖/证据/限制/关于/首页")
 
