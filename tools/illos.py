@@ -261,7 +261,10 @@ def build(entry, coords=None):
 import schematics
 
 def _terrain_block(e):
-    return "<g transform='translate(0,230) scale(1,0.75)'>" + schematics.draw(e["title"]) + "</g>"
+    inner = schematics.draw(e["title"])
+    inner += ("<g stroke='var(--dim)' stroke-width='1.2'><path d='M60 448 H160'/><path d='M60 444 V452 M110 446 V451 M160 444 V452'/></g>"
+              + "<text x='168' y='452' class='lbl-s'>剖面示意（无比例）</text>")
+    return "<g transform='translate(0,230) scale(1,0.75)'>" + inner + "</g>"
 
 def build(entry, coords=None):
     unit = entry.get("unit_id","global-themes"); theme = entry.get("theme","区域"); title = entry["title"]
@@ -526,6 +529,7 @@ def components(entry, coords=None):
       + "<g transform='translate(0,-6)'>" + loc + "</g>"
       + "<g transform='translate(818,40)'><path d='M0 26 L0 0' stroke='var(--ink)' stroke-width='1.4'/><polygon points='-5,6 0,-2 5,6' fill='var(--ink)'/><text x='-6' y='40' class='lbl-s'>N</text></g>"
       + "<g transform='translate(40,300)'><path d='M0 0 H120' stroke='var(--ink)' stroke-width='2'/><path d='M0 -4 V4 M60 -4 V4 M120 -4 V4' stroke='var(--ink)' stroke-width='1.4'/><text x='126' y='4' class='lbl-s'>示意比例</text></g>"
+      + "<g stroke='var(--line)' stroke-width='1.4'><path d='M28 24 h12 M28 24 v12'/><path d='M872 24 h-12 M872 24 v12'/><path d='M28 312 h12 M28 312 v-12'/><path d='M872 312 h-12 M872 312 v-12'/></g>"
       + "<text x='40' y='310' class='dim'>真实陆地轮廓与 Natural Earth 物理图层；示意，非精确测绘</text></svg>")
     diag_svg = ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 580' role='img' aria-label='主题示意图'>"
       + "<rect x='20' y='16' width='860' height='548' rx='12' fill='none' stroke='var(--line)'/>"
