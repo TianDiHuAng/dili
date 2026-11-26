@@ -3396,10 +3396,58 @@
         "unknown": 0
       },
       "tier": "重要"
+    },
+    "河口湾": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "蛇形丘": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "冰水沉积": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
+    },
+    "风蚀盆地": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "补充"
     }
   },
   "summary": {
-    "A": 255,
+    "A": 259,
     "B": 0,
     "C": 0,
     "D": 28

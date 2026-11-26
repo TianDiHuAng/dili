@@ -870,5 +870,18 @@
   ],
   "多年冻土": [
     "permafrost"
+  ],
+  "河口湾": [
+    "estuary",
+    "estuarine"
+  ],
+  "蛇形丘": [
+    "esker"
+  ],
+  "冰水沉积": [
+    "outwash"
+  ],
+  "风蚀盆地": [
+    "deflation"
   ]
 }

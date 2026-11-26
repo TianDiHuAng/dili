@@ -292,13 +292,51 @@ def permafrost(title):
     s.append("<path d='M600 250 C640 290 600 330 640 360' fill='none' stroke='#5b93b8' stroke-width='2'/>"+L(650,300,"热喀斯特（冻融塌陷）",c="lbl-s"))
     s.append(L(40,430,"多年冻土剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
 
+
+def estuary(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,200 40,360 300,330 340,220","#cbb98a","#a08a5f"),
+       P("860,200 860,360 600,330 560,220","#cbb98a","#a08a5f")]
+    s.append("<path d='M300 275 Q450 260 560 275 Q450 300 300 285 Z' fill='#a9cbe0' stroke='#6f9db8'/>")
+    s.append("<path d='M300 262 Q450 250 560 262' fill='none' stroke='#5b93b8' stroke-width='2'/>")
+    s.append(L(340,250,"淡水（上）",c="lbl-s")+L(340,300,"咸水（下）",c="lbl-s")+L(80,240,"河口湾（漏斗状）",c="lbl-s"))
+    s.append("<path d='M300 200 L200 200' stroke='#5b93b8' stroke-width='3'/>"+L(210,192,"河流",c="lbl-s"))
+    s.append(L(40,430,"河口湾剖面 · 示意图（盐水楔/分层），非精确测绘",c="dim"));return "".join(s)
+
+def esker(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",R(40,300,820,80,"#cbb98a","#a08a5f")]
+    s.append("<path d='M60 340 C200 300 300 350 420 320 C540 290 660 350 780 320' fill='none' stroke='#b09a6a' stroke-width='18' opacity='.8'/>")
+    s.append("<path d='M60 340 C200 300 300 350 420 320 C540 290 660 350 780 320' fill='none' stroke='#8a7452' stroke-width='2'/>")
+    s.append(L(160,286,"蛇形丘（冰下河道沉积的蜿蜒砂砾垄）",c="lbl-s")+L(120,410,"冰碛平原",c="lbl-s"))
+    s.append(L(40,430,"蛇形丘平面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
+def outwash(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,150 40,360 200,300 200,150","#b7a58c","#7a6a55"),R(200,260,660,100,"#d9b26a","#a9822f")]
+    for i in range(5):
+        s.append(f"<path d='M210 {270+i*15} C400 {265+i*12} 560 {272+i*12} 840 {262+i*14}' fill='none' stroke='#a9822f' stroke-width='1'/>")
+    s.append(L(100,142,"终碛",c="lbl-s")+L(300,252,"冰水扇/辫状河（砂砾）",c="lbl-s")+L(700,340,"向下游变细",c="lbl-s"))
+    s.append(L(40,430,"冰水沉积（outwash）平面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
+def deflation(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,240 260,240 380,320 500,320 620,240 860,240 860,360 40,360","#e4cf94","#b99b4e")]
+    s.append("<path d='M320 320 C380 300 460 300 520 320' fill='#a9cbe0' stroke='#6f9db8' opacity='.7'/>"+L(360,300,"潜水面/盐湖",c="lbl-s"))
+    s.append("<path d='M80 210 L260 210' stroke='#a4501a' stroke-width='2'/><polygon points='260,206 260,214 272,210' fill='#a4501a'/>"+L(90,202,"风",c="lbl-s"))
+    s.append(L(120,270,"风蚀洼地（吹蚀至潜水面）",c="lbl-s"))
+    s.append(L(40,430,"风蚀盆地剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
 KINDS = {"basin":basin,"plain":plain,"delta":delta,"range":range_,"hills":hills,"plateau":plateau,
-         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral,"yardang":yardang,"fjord":fjord,"oxbow":oxbow,"faultblock":faultblock,"terrace":terrace,"moraine":moraine,"seacliff":seacliff,"tidalflat":tidalflat,"soilerosion":soilerosion,"floodplain":floodplain,"alluvialfan":alluvialfan,"permafrost":permafrost}
+         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral,"yardang":yardang,"fjord":fjord,"oxbow":oxbow,"faultblock":faultblock,"terrace":terrace,"moraine":moraine,"seacliff":seacliff,"tidalflat":tidalflat,"soilerosion":soilerosion,"floodplain":floodplain,"alluvialfan":alluvialfan,"permafrost":permafrost,"estuary":estuary,"esker":esker,"outwash":outwash,"deflation":deflation}
 
 def pick(title):
     t = title
     if "冰川湖" in t: return "lake"
     if any(k in t for k in ("冰盖","冰川","冰架","南极大陆","罗斯海","冰芯")): return "ice"
+    if "河口湾" in t: return "estuary"
+    if "蛇形丘" in t: return "esker"
+    if "冰水" in t: return "outwash"
+    if "风蚀盆地" in t or "风蚀洼" in t: return "deflation"
     if "河漫滩" in t: return "floodplain"
     if "冲积扇" in t: return "alluvialfan"
     if "冻土" in t: return "permafrost"

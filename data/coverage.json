@@ -2581,6 +2581,42 @@
       "source_count": 2,
       "pending_count": 1,
       "last_update": "2026-11-24"
+    },
+    {
+      "id": "global-themes-x6cb3x53e3x6e7e",
+      "level": "L2",
+      "tier": "重要",
+      "status": "L2完成(新增·自然地理)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "global-themes-x86c7x5f62x4e18",
+      "level": "L2",
+      "tier": "补充",
+      "status": "L2完成(新增·自然地理)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "global-themes-x51b0x6c34x6c89x79ef",
+      "level": "L2",
+      "tier": "补充",
+      "status": "L2完成(新增·自然地理)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
+    },
+    {
+      "id": "global-themes-x98cex8680x76c6x5730",
+      "level": "L2",
+      "tier": "补充",
+      "status": "L2完成(新增·自然地理)",
+      "source_count": 2,
+      "pending_count": 1,
+      "last_update": "2026-11-24"
     }
   ],
   "matrix": {
@@ -2640,7 +2676,7 @@
       "区域": 1
     },
     "global-themes": {
-      "地形": 35,
+      "地形": 39,
       "气候": 21,
       "农业": 10,
       "贸易": 6,
