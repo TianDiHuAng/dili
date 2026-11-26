@@ -262,13 +262,46 @@ def soilerosion(title):
     s.append("<g stroke='#5b93b8' stroke-width='1.4'><path d='M320 200 l-6 14'/><path d='M360 200 l-6 14'/></g>"+L(300,192,"降雨溅蚀",c="lbl-s"))
     s.append(L(40,430,"土壤侵蚀剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
 
+
+def floodplain(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,300 40,250 320,250 340,300 340,360 40,360","#cbb98a","#a08a5f"),
+       P("860,300 860,250 580,250 560,300 560,360 860,360","#cbb98a","#a08a5f"),
+       R(340,330,220,30,"#a9cbe0","#6f9db8")]
+    s.append("<path d='M340 300 C360 270 520 270 560 300' fill='#a9cbe0' stroke='#6f9db8'/>")
+    s.append("<path d='M40 268 H860' stroke='#2f6f8f' stroke-width='1.6' stroke-dasharray='8 6'/>"+L(600,262,"洪水位",c="lbl-s"))
+    s.append(L(110,242,"天然堤",c="lbl-s")+L(740,242,"天然堤",c="lbl-s")+L(380,352,"河道",c="lbl-s"))
+    s.append(L(60,410,"河漫滩（洪水泛滥淤积的平坦谷底）",c="lbl-s"))
+    s.append(L(40,430,"河漫滩剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
+def alluvialfan(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,150 40,360 200,300 200,150","#9fb2c8","#5c6d84")]
+    s.append("<path d='M200 220 L760 150 L760 340 L200 300 Z' fill='#d9b26a' stroke='#a9822f'/>")
+    for i in range(5):
+        s.append(f"<path d='M210 {230+i*15} C400 {210+i*10} 560 {190+i*12} 750 {165+i*30}' fill='none' stroke='#a9822f' stroke-width='1'/>")
+    s.append(L(120,142,"山口（扇顶）",c="lbl-s")+L(520,250,"扇面（坡度变缓、颗粒变细）",c="lbl-s"))
+    s.append(L(280,300,"粗砾",c="lbl-s")+L(700,330,"砂/粉砂",c="lbl-s"))
+    s.append(L(40,430,"冲积扇平面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
+def permafrost(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       R(40,220,820,30,"#c9b48c","#8a7452")+L(60,240,"地表/活动层（季节性冻融）",c="lbl-s"),
+       R(40,250,820,110,"#bcd0e0","#6f9db8")+L(60,320,"多年冻土（常年冻结）",c="lbl-s")]
+    s.append("<path d='M400 250 L430 330 L400 360 L370 330 Z' fill='#ffffff' stroke='#6f9db8'/>"+L(360,232,"冰楔",c="lbl-s"))
+    s.append("<path d='M600 250 C640 290 600 330 640 360' fill='none' stroke='#5b93b8' stroke-width='2'/>"+L(650,300,"热喀斯特（冻融塌陷）",c="lbl-s"))
+    s.append(L(40,430,"多年冻土剖面 · 示意图，非精确测绘",c="dim"));return "".join(s)
+
 KINDS = {"basin":basin,"plain":plain,"delta":delta,"range":range_,"hills":hills,"plateau":plateau,
-         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral,"yardang":yardang,"fjord":fjord,"oxbow":oxbow,"faultblock":faultblock,"terrace":terrace,"moraine":moraine,"seacliff":seacliff,"tidalflat":tidalflat,"soilerosion":soilerosion}
+         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral,"yardang":yardang,"fjord":fjord,"oxbow":oxbow,"faultblock":faultblock,"terrace":terrace,"moraine":moraine,"seacliff":seacliff,"tidalflat":tidalflat,"soilerosion":soilerosion,"floodplain":floodplain,"alluvialfan":alluvialfan,"permafrost":permafrost}
 
 def pick(title):
     t = title
     if "冰川湖" in t: return "lake"
     if any(k in t for k in ("冰盖","冰川","冰架","南极大陆","罗斯海","冰芯")): return "ice"
+    if "河漫滩" in t: return "floodplain"
+    if "冲积扇" in t: return "alluvialfan"
+    if "冻土" in t: return "permafrost"
     if "冰碛" in t: return "moraine"
     if "海蚀" in t: return "seacliff"
     if "潮滩" in t: return "tidalflat"

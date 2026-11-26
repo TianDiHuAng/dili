@@ -544,7 +544,13 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
     def _cards(lst):
         return "".join(f'<a class="card tier-{esc(x["tier"])}" href="entries/{esc(x["id"])}.html"><span class="tier">{esc(x["tier"])}</span><h3>{esc(x["title"])}</h3><p class="dim">{esc(UNIT_NAMES[x["unit_id"]])} · {esc(x["theme"])}</p></a>' for x in lst)
     jump = "".join(f'<a class="tag" href="#grp-{i}">{esc(name)}（{len(lst)}）</a>' for i, (name, lst) in enumerate(groups))
-    secs = "".join(f'<h2 id="grp-{i}">{esc(name)}（{len(lst)}）</h2><div class="grid">{_cards(lst)}</div>' for i, (name, lst) in enumerate(groups))
+    INTRO = {
+      "地貌": "地貌是内外营力共同塑造的地表形态：内力（构造抬升/沉降）奠定格局，外力（流水、冰川、风、波浪）雕刻细节。读地貌先看“岩性与构造背景 + 主导外营力 + 时间尺度”。",
+      "水文": "水文关注水在陆地的循环与储存：降水→径流/下渗→地下水/湖泊/湿地→回归海洋；地形与气候决定其分布，水量与水质决定其利用。",
+      "气候": "气候由纬度、海陆位置、地形与大气环流决定；Köppen 用气温与降水把全球划为气候带（红点为该条目所在气候型），下图另附真实气温距平与降水序列。",
+      "土壤与植被": "土壤与植被是气候、母质、地形与生物的产物，随气候带呈地带性：从热带雨林到极地苔原，土壤有机质与植被类型随之变化。",
+    }
+    secs = "".join(f'<h2 id="grp-{i}">{esc(name)}（{len(lst)}）</h2><p class="dim">{esc(INTRO.get(name,""))}</p><div class="grid">{_cards(lst)}</div>' for i, (name, lst) in enumerate(groups))
     physio = f'''<div class="crumb"><a href="index.html">首页</a> / 自然地理</div><h1>自然地理总览</h1>
 <p class="lead">按「地貌 · 水文 · 气候 · 土壤与植被」四组汇集全站自然地理条目，每条配真实地图定位 + 主题图（地貌剖面 / 流域与含水层 / Köppen 气候分区 + 真实气温距平 / 土壤剖面与植被带）。</p>
 <h2>中国十五大地貌（速览）</h2>{hero_china_svg()}

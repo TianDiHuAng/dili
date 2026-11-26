@@ -461,3 +461,26 @@ def _climate_full(entry, coords, bb, ov, loc, title, theme):
       +legend+co2
       +"<text x='40' y='740' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
 
+
+
+def _climate_full(entry, coords, bb, ov, loc, title, theme):
+    kfrag, hit = koppen.overlay((60,262,780,186), tuple(bb), point=coords, max_polys=(40 if bb[1]-bb[0]>150 else 64))
+    lab=""
+    if hit:
+        nm,code=koppen.cn_of(hit[0]); lab="；红点处：%s（%s）"%(nm,code)
+    legend=("<rect x='64' y='452' width='12' height='10' fill='#6fae6a'/><text x='80' y='462' class='lbl-s'>A 热带</text>"
+      +"<rect x='154' y='452' width='12' height='10' fill='#e0c078'/><text x='170' y='462' class='lbl-s'>B 干旱</text>"
+      +"<rect x='244' y='452' width='12' height='10' fill='#a9d0a0'/><text x='260' y='462' class='lbl-s'>C 温带</text>"
+      +"<rect x='334' y='452' width='12' height='10' fill='#9fb8d8'/><text x='350' y='462' class='lbl-s'>D 冷温带</text>"
+      +"<rect x='436' y='452' width='12' height='10' fill='#dfe8ea'/><text x='452' y='462' class='lbl-s'>E 极地</text>")
+    temp = owid.panel((60,470,780,150))
+    precip = wbdata.panel((60,628,780,150), wbdata.series("AG.LND.PRCP.MM","WLD"), "AG.LND.PRCP.MM", "全球平均降水深度", "mm/年", "WLD")[0]
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 900' role='img' aria-label='%s 气候示意图'>"%title
+      +"<rect x='20' y='20' width='860' height='860' rx='12' fill='none' stroke='var(--line)'/>"
+      +"<text x='40' y='30' class='lbl'>%s · %s</text>"%(title,theme)
+      +"<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
+      +loc+"<path d='M30 244 L870 244' stroke='var(--line)'/>"
+      +"<rect x='60' y='262' width='780' height='186' fill='#f4f1ea' stroke='var(--line)'/>"+kfrag
+      +"<text x='66' y='258' class='lbl-s'>Köppen 气候分区（真实数据；Beck et al.，经 rjerue/koppen-map%s）</text>"%lab
+      +legend+temp+precip
+      +"<text x='40' y='878' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
