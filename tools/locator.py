@@ -174,7 +174,7 @@ def _area(r):
     return abs(a)
 
 
-def map_svg(box, bounds, lon=None, lat=None, label=None, overlay=None):
+def map_svg(box, bounds, lon=None, lat=None, label=None, overlay=None, merged=True):
     """在给定 box 内画 bbox 范围内的真实陆地轮廓，可标点。返回 (frag, project_fn)。"""
     x0, y0, w, h = box
     parts = [f"<rect x='{x0}' y='{y0}' width='{w}' height='{h}' rx='8' fill='#eef1f3' stroke='var(--line)'/>"]
@@ -196,11 +196,12 @@ def map_svg(box, bounds, lon=None, lat=None, label=None, overlay=None):
         la += step_lat
     # 陆地
     span = bounds[1] - bounds[0]
-    _tgt = 30 if span > 150 else 55
-    _amin = 12.0 if span > 150 else 3.0
+    _tgt = 26 if span > 150 else 46
+    _amin = 16.0 if span > 150 else 4.0
     _rings = [r for r in all_rings() if _area(r) >= _amin]
     _rings.sort(key=_area, reverse=True)
     _rings = _rings[:(60 if span > 150 else 160)]
+    _big = []
     for ring in _rings:
         rlo = [p[0] for p in ring]; rla = [p[1] for p in ring]
         if max(rlo) < lon0 or min(rlo) > lon1 or max(rla) < lat0 or min(rla) > lat1:
@@ -213,9 +214,14 @@ def map_svg(box, bounds, lon=None, lat=None, label=None, overlay=None):
             px, py = proj(plo, pla)
             if px < x0 - 20 or px > x0 + w + 20 or py < y0 - 20 or py > y0 + h + 20:
                 continue
-            d.append(('M' if not d else 'L') + f"{px:.1f} {py:.1f}")
+            d.append(('M' if not d else 'L') + f"{px:.0f} {py:.0f}")
         if len(d) > 3:
-            parts.append("<path d='" + ' '.join(d) + " Z' fill='#e5dfd0' stroke='#9a9384' stroke-width='.8'/>")
+            if merged:
+                _big.append(' '.join(d))
+            else:
+                parts.append("<path d='" + ' '.join(d) + " Z' fill='#e5dfd0' stroke='#9a9384' stroke-width='.8'/>")
+    if merged and _big:
+        parts.append("<path d='" + ' '.join(x + ' Z' for x in _big) + "' fill='#e5dfd0' fill-rule='evenodd' stroke='#9a9384' stroke-width='.6'/>")
     if overlay:
         parts.append(overlay)
     if lon is not None and lat is not None:

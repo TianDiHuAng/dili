@@ -67,7 +67,7 @@ def overlay(box, bounds, point=None, max_polys=70, alpha=0.62, alpha_hit=0.9):
             pmax=max(pmax,_area(ring))
         if pmax>0: feats.append((pmax,f))
     feats.sort(key=lambda t:-t[0]); feats=feats[:max_polys]
-    out=[]; hit=None; drawn=0; MAXP=200
+    out=[]; hit=None; drawn=0; MAXP=200; groups={};
     for ar,f in feats:
         if drawn>=MAXP: break
         cl=f["properties"].get("climate",""); code=cl.split(" ")[0]; grp=code[0] if code else "C"
@@ -87,8 +87,10 @@ def overlay(box, bounds, point=None, max_polys=70, alpha=0.62, alpha_hit=0.9):
                 if is_hit:
                     out.append(f"<path d='{' '.join(d)} Z' fill='{col}' fill-opacity='{alpha_hit}' stroke='#333' stroke-width='1.4'/>")
                 else:
-                    out.append(f"<path d='{' '.join(d)} Z' fill='{col}' fill-opacity='{alpha}' stroke='{col}' stroke-width='.4'/>")
+                    groups.setdefault((col,alpha), []).append(' '.join(d))
         if is_hit and not hit: hit=(cl,code)
+    for (col,alpha),lst in groups.items():
+        out.append("<path d='" + ' '.join(x + ' Z' for x in lst) + f"' fill='{col}' fill-opacity='{alpha}' fill-rule='evenodd' stroke='{col}' stroke-width='.4'/>")
     if point:
         px,py=proj(point[0],point[1])
         if x0<=px<=x0+w and y0<=py<=y0+h:

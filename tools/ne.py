@@ -63,6 +63,7 @@ def overlay(box, bounds, title=None, max_regions=12, max_rivers=20, max_lakes=10
     x0, y0, w, h = box
     def proj(lo, la): return L._project(lo, la, box, bounds)
     out = []
+    _reg = {}
     # ---- 地貌区域 ----
     regs = _load("ne_50m_geography_regions_polys")["features"]
     cand = []
@@ -92,10 +93,12 @@ def overlay(box, bounds, title=None, max_regions=12, max_rivers=20, max_lakes=10
             if x0 < cx < x0+w and y0 < cy < y0+h:
                 out.append(f"<text x='{cx:.0f}' y='{cy:.0f}' class='lbl' text-anchor='middle'>{title}</text>")
         else:
-            out.append(f"<path d='{' '.join(d)} Z' fill='{col}' fill-opacity='{op}' stroke='{col}' stroke-width='.4'/>")
+            _reg.setdefault((col, op), []).append(' '.join(d))
+    for (col,op),lst in _reg.items():
+        out.append("<path d='" + ' '.join(x + ' Z' for x in lst) + f"' fill='{col}' fill-opacity='{op}' fill-rule='evenodd' stroke='{col}' stroke-width='.4'/>")
     # ---- 湖泊 ----
     lakes = _load("ne_50m_lakes")["features"][:1400]
-    n = 0
+    n = 0; _lake_d = []
     for f in lakes:
         for ring, kind in _iter_rings(f["geometry"]):
             if n >= max_lakes: break
@@ -106,10 +109,12 @@ def overlay(box, bounds, title=None, max_regions=12, max_rivers=20, max_lakes=10
                 if px < x0-30 or px > x0+w+30 or py < y0-30 or py > y0+h+30: continue
                 d.append(("M" if not d else "L") + f"{px:.0f} {py:.0f}")
             if len(d) < 3: continue
-            out.append(f"<path d='{' '.join(d)} Z' fill='#a9cbe0' fill-opacity='.9' stroke='#6f9db8' stroke-width='.5'/>"); n += 1
+            _lake_d.append(' '.join(d)); n += 1
+    if _lake_d:
+        out.append("<path d='" + ' '.join(x + ' Z' for x in _lake_d) + "' fill='#a9cbe0' fill-opacity='.9' fill-rule='evenodd' stroke='#6f9db8' stroke-width='.5'/>")
     # ---- 河流 ----
     rivers = _load("ne_50m_rivers_lake_centerlines")["features"]
-    n = 0
+    n = 0; _riv_d = []
     for f in rivers:
         if n >= max_rivers: break
         for line, kind in _iter_rings(f["geometry"]):
@@ -121,7 +126,9 @@ def overlay(box, bounds, title=None, max_regions=12, max_rivers=20, max_lakes=10
                 if px < x0-20 or px > x0+w+20 or py < y0-20 or py > y0+h+20: continue
                 d.append(("M" if not d else "L") + f"{px:.0f} {py:.0f}")
             if len(d) < 2: continue
-            out.append(f"<path d='{' '.join(d)}' fill='none' stroke='#5b93b8' stroke-width='1.1' opacity='.85'/>"); n += 1
+            _riv_d.append(' '.join(d)); n += 1
+    if _riv_d:
+        out.append("<path d='" + ' '.join(_riv_d) + "' fill='none' stroke='#5b93b8' stroke-width='1.1' opacity='.85'/>")
     # ---- 冰川 ----
     glaciers = _load("ne_10m_glaciated_areas")["features"]
     n = 0

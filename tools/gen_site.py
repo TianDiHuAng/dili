@@ -180,6 +180,7 @@ def main():
     os.makedirs(os.path.join(SITE, "css"), exist_ok=True)
     os.makedirs(os.path.join(SITE, "entries"), exist_ok=True)
     os.makedirs(os.path.join(SITE, "units"), exist_ok=True)
+    os.makedirs(os.path.join(SITE, "svg"), exist_ok=True)
     sources_doc = load(os.path.join(DATA, "sources.json"))
     sources = {s["id"]: s for s in sources_doc["sources"]}
     cov = load(os.path.join(DATA, "coverage.json"))
@@ -230,6 +231,7 @@ svg text{fill:var(--ink);font-family:sans-serif;font-size:13px}svg .lbl{fill:var
 ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 @media (max-width:640px){h1{font-size:1.5rem}.nav{gap:8px;font-size:.82rem}main{padding:20px 14px}}
 a:focus-visible,button:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+.fig{overflow:auto}.fig:target svg{width:190%;max-width:none}
 details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]>summary{margin-bottom:8px}summary::marker{color:var(--accent2)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 @media print{body{background:#fff;color:#000}.top,.foot,.nav,.crumb{display:none}main{max-width:none}svg{border:none;page-break-inside:avoid}a{color:#000;text-decoration:underline}.section{border:1px solid #999;page-break-inside:avoid}}
@@ -308,7 +310,7 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
                     parts.append(f'<div class="section"><h2>{label}</h2><p>{esc(e[k])}</p></div>')
             if e.get("svg"):
                 cap = "简笔示意，不代表精确位置与边界。" if "非精确测绘" in e["svg"] else "示意图，非精确测绘。"
-                parts.append(f'<div class="section"><h2>示意地图</h2>{sanitize_svg(e["svg"])}<p class="dim">{cap}</p></div>')
+                parts.append(f'<div class="section"><h2>示意地图</h2><div class="fig" id="fig-{esc(eid)}">{sanitize_svg(e["svg"])}</div><p class="dim"><a href="#fig-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · {cap}</p></div>')
         if e.get("level") == "L1" and e.get("today"):
             parts.append(f'<div class="section"><h2>今天的状况</h2><p>{esc(e["today"])}</p></div>')
         if e.get("needs_verification"):

@@ -356,7 +356,9 @@ def build(entry, coords=None):
     elif theme == "地形":
         diagram = _terrain_block(entry)
     elif theme == "气候":
-        diagram = topics.climate(title) if unit == "global-themes" else _climate_koppen(entry, coords)
+        if unit != "global-themes":
+            return _climate_full(entry, coords, bb, ov, loc, title, theme)
+        diagram = topics.climate(title)
     elif theme in ("农业","贸易","区域"):
         diagram = topics.draw(theme, title)
     else:
@@ -389,6 +391,8 @@ WB_MAP = {
  "农业企业与价值链":("EA.PRD.AGRI.KD","农业增加值/劳动者","2015美元","WLD"),
  "土地利用变化":("AG.LND.AGRI.ZS","农业用地占比","%","WLD"),
  "肉奶生产与土地":("AG.PRD.LVSK.XD","畜牧生产指数","2004-06=100","WLD"),
+ "全球气温变化":("EN.GHG.CO2.PC.CE.AR5","全球人均二氧化碳排放","吨/人","WLD"),
+ "全球气温距平":("EN.GHG.CO2.PC.CE.AR5","全球人均二氧化碳排放","吨/人","WLD"),
 }
 
 def build(entry, coords=None):
@@ -413,7 +417,9 @@ def build(entry, coords=None):
     elif theme == "地形":
         diagram = _terrain_block(entry)
     elif theme == "气候":
-        diagram = topics.climate(title) if unit == "global-themes" else _climate_koppen(entry, coords)
+        if unit != "global-themes":
+            return _climate_full(entry, coords, bb, ov, loc, title, theme)
+        diagram = topics.climate(title)
     elif theme in ("农业","贸易","区域"):
         diagram = topics.draw(theme, title)
     else:
@@ -424,3 +430,26 @@ def build(entry, coords=None):
             + "<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
             + loc + "<path d='M30 244 L870 244' stroke='var(--line)'/>" + diagram
             + "<text x='40' y='572' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
+
+
+def _climate_full(entry, coords, bb, ov, loc, title, theme):
+    kfrag, hit = koppen.overlay((60,262,780,236), tuple(bb), point=coords, max_polys=(45 if bb[1]-bb[0]>150 else 70))
+    lab=""
+    if hit:
+        nm,code=koppen.cn_of(hit[0]); lab="；红点处：%s（%s）"%(nm,code)
+    legend=("<rect x='64' y='500' width='12' height='10' fill='#6fae6a'/><text x='80' y='510' class='lbl-s'>A 热带</text>"
+      +"<rect x='154' y='500' width='12' height='10' fill='#e0c078'/><text x='170' y='510' class='lbl-s'>B 干旱</text>"
+      +"<rect x='244' y='500' width='12' height='10' fill='#a9d0a0'/><text x='260' y='510' class='lbl-s'>C 温带</text>"
+      +"<rect x='334' y='500' width='12' height='10' fill='#9fb8d8'/><text x='350' y='510' class='lbl-s'>D 冷温带</text>"
+      +"<rect x='436' y='500' width='12' height='10' fill='#dfe8ea'/><text x='452' y='510' class='lbl-s'>E 极地</text>")
+    co2 = wbdata.panel((60,536,780,150), wbdata.series("EN.GHG.CO2.PC.CE.AR5","WLD"), "EN.GHG.CO2.PC.CE.AR5", "全球人均二氧化碳排放", "吨/人", "WLD")[0]
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 760' role='img' aria-label='%s 气候示意图'>"%title
+      +"<rect x='20' y='20' width='860' height='720' rx='12' fill='none' stroke='var(--line)'/>"
+      +"<text x='40' y='30' class='lbl'>%s · %s</text>"%(title,theme)
+      +"<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
+      +loc+"<path d='M30 244 L870 244' stroke='var(--line)'/>"
+      +"<rect x='60' y='262' width='780' height='236' fill='#f4f1ea' stroke='var(--line)'/>"+kfrag
+      +"<text x='66' y='258' class='lbl-s'>Köppen 气候分区（真实数据；Beck et al.，经 rjerue/koppen-map%s）</text>"%lab
+      +legend+co2
+      +"<text x='40' y='740' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
+

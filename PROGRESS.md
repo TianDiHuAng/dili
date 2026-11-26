@@ -335,3 +335,9 @@
 - 全站 head 加 description、Open Graph、theme-color、favicon。
 - 新增 legend.html（读图说明与图例、Köppen 代码表、数据来源许可），导航加入。
 - 生成 sitemap.xml（279 条 URL）、robots.txt。
+
+## 第163轮（性能+放大+气候CO2）
+- 性能：底图陆块/NE河湖地貌/Köppen 同色区均合并为单路径 + 加大抽稀；站点 21MB→18MB。
+- 条目页“示意地图”支持点击放大（CSS :target，无复制文件）。
+- 气候类（各大洲）下图=Köppen分区 + 世界银行“全球人均CO₂”真实折线（并列）；全球气温变化/距平改用世界银行CO₂真实序列。
+- check 0、links 0。
