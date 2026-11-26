@@ -372,6 +372,7 @@ def build(entry, coords=None):
 
 
 import wbdata
+import owid
 WB_MAP = {
  "二氧化碳排放清单":("EN.GHG.CO2.PC.CE.AR5","人均二氧化碳排放","吨/人","WLD"),
  "城市化水平":("SP.URB.TOTL.IN.ZS","城镇人口占比","%","WLD"),
@@ -391,8 +392,6 @@ WB_MAP = {
  "农业企业与价值链":("EA.PRD.AGRI.KD","农业增加值/劳动者","2015美元","WLD"),
  "土地利用变化":("AG.LND.AGRI.ZS","农业用地占比","%","WLD"),
  "肉奶生产与土地":("AG.PRD.LVSK.XD","畜牧生产指数","2004-06=100","WLD"),
- "全球气温变化":("EN.GHG.CO2.PC.CE.AR5","全球人均二氧化碳排放","吨/人","WLD"),
- "全球气温距平":("EN.GHG.CO2.PC.CE.AR5","全球人均二氧化碳排放","吨/人","WLD"),
 }
 
 def build(entry, coords=None):
@@ -405,7 +404,9 @@ def build(entry, coords=None):
     if theme in ("农业","区域") and unit != "global-themes":
         ov += koppen.faint((30,34,840,196), tuple(bb), coords)
     loc = map_svg((30,34,840,196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
-    if title in WB_MAP:
+    if title in ("全球气温变化","全球气温距平"):
+        diagram = owid.panel((60,268,780,264))
+    elif title in WB_MAP:
         ind, label, un = WB_MAP[title][:3]; ctry = WB_MAP[title][3] if len(WB_MAP[title]) > 3 else "WLD"
         diagram = wbdata.panel((60,268,780,264), wbdata.series(ind, ctry), ind, label, un, ctry)[0]
     elif theme == "政权更替" and title in YEAR:
@@ -442,7 +443,7 @@ def _climate_full(entry, coords, bb, ov, loc, title, theme):
       +"<rect x='244' y='500' width='12' height='10' fill='#a9d0a0'/><text x='260' y='510' class='lbl-s'>C 温带</text>"
       +"<rect x='334' y='500' width='12' height='10' fill='#9fb8d8'/><text x='350' y='510' class='lbl-s'>D 冷温带</text>"
       +"<rect x='436' y='500' width='12' height='10' fill='#dfe8ea'/><text x='452' y='510' class='lbl-s'>E 极地</text>")
-    co2 = wbdata.panel((60,536,780,150), wbdata.series("EN.GHG.CO2.PC.CE.AR5","WLD"), "EN.GHG.CO2.PC.CE.AR5", "全球人均二氧化碳排放", "吨/人", "WLD")[0]
+    co2 = owid.panel((60,536,780,150))
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 760' role='img' aria-label='%s 气候示意图'>"%title
       +"<rect x='20' y='20' width='860' height='720' rx='12' fill='none' stroke='var(--line)'/>"
       +"<text x='40' y='30' class='lbl'>%s · %s</text>"%(title,theme)

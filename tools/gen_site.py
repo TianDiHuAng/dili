@@ -23,7 +23,7 @@ def esc(s):
 
 def nav(depth=0):
     p = "../" * depth
-    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}index-all.html">全站索引</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}legend.html">读图说明</a><a href="{p}about.html">关于</a></nav>'''
+    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}index-all.html">全站索引</a><a href="{p}search.html">检索</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}legend.html">读图说明</a><a href="{p}about.html">关于</a></nav>'''
 
 
 def page(title, body, depth=0, extra_head=""):
@@ -460,6 +460,14 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
     with open(os.path.join(SITE, "limits.html"), "w", encoding="utf-8") as f:
         f.write(page("已知限制", lim_body))
 
+    # 检索页（按标题排序 + 浏览器查找提示）
+    rows = "".join(f'<tr><td><a href="entries/{esc(x["id"])}.html">{esc(x["title"])}</a></td><td>{esc(UNIT_NAMES[x["unit_id"]])}</td><td>{esc(x["theme"])}</td><td>{esc(x["tier"])}</td><td>{esc(x["level"])}</td></tr>' for x in sorted(entries.values(), key=lambda z: z["title"]))
+    srch = f'''<div class="crumb"><a href="index.html">首页</a> / 检索</div><h1>检索全部条目</h1>
+<p class="lead">共 {total} 条，按标题排序。用浏览器 <b>Ctrl/⌘ + F</b> 在本页内查找关键词即可快速定位。</p>
+<table><thead><tr><th>标题</th><th>大洲/主题单元</th><th>主题</th><th>重要度</th><th>层级</th></tr></thead><tbody>{rows}</tbody></table>'''
+    with open(os.path.join(SITE, "search.html"), "w", encoding="utf-8") as f:
+        f.write(page("检索", srch))
+
     # 读图说明页
     legend_rows = "".join(f'<tr><td>{esc(k)}</td><td>{esc(v)}</td></tr>' for k,v in [
         ("地形","按类型绘地貌剖面：盆地/山脉/平原/三角洲/沙漠/高原/丘陵/裂谷/海岸/河流/岛屿/冰盖"),
@@ -498,7 +506,7 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
         f.write("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='#2b7a78'/><path d='M8 44 L24 24 L34 36 L44 22 L56 44 Z' fill='#fffaf0'/><circle cx='46' cy='16' r='5' fill='#b5651d'/></svg>")
 
     # sitemap.xml + robots.txt
-    urls = ["index.html","index-all.html","timeline.html","sources.html","coverage.html","coverage_detail.html","evidence.html","limits.html","legend.html","about.html","tier-core.html","tier-important.html","tier-supplementary.html"]
+    urls = ["index.html","index-all.html","timeline.html","sources.html","coverage.html","coverage_detail.html","evidence.html","limits.html","legend.html","search.html","about.html","tier-core.html","tier-important.html","tier-supplementary.html"]
     urls += ["units/%s.html" % uid for uid in UNIT_IDS]
     urls += ["entries/%s.html" % eid for eid in entries.keys()]
     today = datetime.date.today().isoformat()
