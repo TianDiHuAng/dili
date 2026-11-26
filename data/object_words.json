@@ -828,5 +828,22 @@
   ],
   "珊瑚礁": [
     "coral reef"
+  ],
+  "雅丹地貌": [
+    "yardang"
+  ],
+  "峡湾": [
+    "fjord"
+  ],
+  "牛轭湖": [
+    "oxbow",
+    "meander"
+  ],
+  "断块山": [
+    "fault-block"
+  ],
+  "河流阶地": [
+    "terrace",
+    "terraces"
   ]
 }

@@ -173,12 +173,69 @@ def coral(title):
       + L(80,410,"潟湖",c="lbl-s")+L(700,320,"外海",c="lbl-s")
       + L(40,430,"珊瑚礁剖面 · 示意图，非精确测绘",c="dim"))
 
+
+def yardang(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       R(40,300,820,90,"#e4cf94","#b99b4e")]
+    for x in (140,320,500,680):
+        s.append(f"<path d='M{x} 300 C{x+30} 250 {x+80} 250 {x+110} 300 Z' fill='#c9ab63' stroke='#98874f'/>")
+    s.append("<path d='M60 220 L260 220' stroke='#a4501a' stroke-width='2'/><polygon points='260,216 260,224 272,220' fill='#a4501a'/>"+L(70,212,"风向",c="lbl-s"))
+    s.append(L(150,250,"流线型风蚀垄（雅丹）",c="lbl-s")+L(150,410,"风蚀垄间槽",c="lbl-s"))
+    s.append(L(40,430,"雅丹地貌剖面 · 示意图，非精确测绘",c="dim"))
+    return "".join(s)
+
+def fjord(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,360 40,140 220,140 320,300 320,360","#9fb2c8","#5c6d84"),
+       P("860,360 860,140 680,140 580,300 580,360","#9fb2c8","#5c6d84"),
+       R(320,300,260,60,"#a9cbe0","#6f9db8")]
+    s.append("<path d='M320 300 C380 340 500 340 580 300' fill='none' stroke='#5b93b8' stroke-width='2'/>")
+    s.append(L(120,132,"陡峭谷壁（冰蚀 U 形谷）",c="lbl-s")+L(400,330,"海水侵入（峡湾）",c="lbl-s")+L(420,292,"冰蚀槛",c="lbl-s"))
+    s.append(L(40,430,"峡湾剖面 · 示意图，非精确测绘",c="dim"))
+    return "".join(s)
+
+def oxbow(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       R(40,240,820,150,"#cbb98a","#a08a5f")]
+    s.append("<path d='M80 320 C220 260 340 320 420 320 C560 320 640 250 780 300' fill='none' stroke='#5b93b8' stroke-width='6'/>")
+    s.append("<path d='M300 300 C340 230 460 230 500 300 C460 268 340 268 300 300 Z' fill='#a9cbe0' stroke='#6f9db8'/>")
+    s.append(L(340,222,"牛轭湖（截弯取直后遗留）",c="lbl-s")+L(90,300,"主河道",c="lbl-s"))
+    s.append("<path d='M600 300 C660 270 720 274 760 292' fill='none' stroke='#a4501a' stroke-width='1.6' stroke-dasharray='6 4'/>"+L(620,264,"截弯取直",c="lbl-s"))
+    s.append(L(40,430,"曲流与牛轭湖 · 示意图，非精确测绘",c="dim"))
+    return "".join(s)
+
+def faultblock(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>",
+       P("40,360 40,300 220,300 300,220 460,220 540,300 720,300 800,240 860,240 860,360","#b7a58c","#7a6a55")]
+    s.append("<path d='M260 220 L200 360' stroke='#7a3b16' stroke-width='2'/>"+L(196,214,"正断层",c="lbl-s"))
+    s.append("<path d='M600 220 L660 360' stroke='#7a3b16' stroke-width='2'/>")
+    s.append("<path d='M380 300 L380 268' stroke='#a4501a' stroke-width='2'/><polygon points='376,272 384,272 380,262' fill='#a4501a'/>"+L(320,296,"山块抬升",c="lbl-s"))
+    s.append("<path d='M500 268 L500 300' stroke='#2f6f8f' stroke-width='2'/><polygon points='496,296 504,296 500,306' fill='#2f6f8f'/>"+L(510,290,"盆地下陷",c="lbl-s"))
+    s.append(L(40,430,"断块山剖面 · 示意图，非精确测绘",c="dim"))
+    return "".join(s)
+
+def terrace(title):
+    s=["<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>"]
+    steps=[(40,360,220,300),(220,300,380,250),(380,250,520,210),(520,210,700,180)]
+    for x0,y0,x1,y1 in steps:
+        s.append(P(f"{x0},{y0} {x0},{y1} {x1},{y1} {x1},{y0}","#cbb98a","#a08a5f"))
+        s.append(L(x0+8,y1+16,"阶地面",c="lbl-s"))
+    s.append("<path d='M40 360 L860 360' stroke='#5b93b8' stroke-width='3'/>"+L(60,382,"河水面",c="lbl-s"))
+    s.append(L(120,420,"多级阶地（河流下切形成，越上越老）",c="lbl-s"))
+    s.append(L(40,440,"河流阶地剖面 · 示意图，非精确测绘",c="dim"))
+    return "".join(s)
+
 KINDS = {"basin":basin,"plain":plain,"delta":delta,"range":range_,"hills":hills,"plateau":plateau,
-         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral}
+         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral,"yardang":yardang,"fjord":fjord,"oxbow":oxbow,"faultblock":faultblock,"terrace":terrace}
 
 def pick(title):
     t = title
     if any(k in t for k in ("冰盖","冰川","冰架","南极大陆","罗斯海","冰芯")): return "ice"
+    if "雅丹" in t: return "yardang"
+    if "峡湾" in t: return "fjord"
+    if "牛轭" in t: return "oxbow"
+    if "断块" in t: return "faultblock"
+    if "阶地" in t: return "terrace"
     if "地下水" in t: return "aquifer"
     if "丹霞" in t: return "danxia"
     if "珊瑚" in t: return "coral"

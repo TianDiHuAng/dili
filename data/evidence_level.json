@@ -3240,10 +3240,70 @@
         "unknown": 0
       },
       "tier": "重要"
+    },
+    "雅丹地貌": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "峡湾": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "牛轭湖": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "断块山": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "河流阶地": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
     }
   },
   "summary": {
-    "A": 242,
+    "A": 247,
     "B": 0,
     "C": 0,
     "D": 28

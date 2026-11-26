@@ -1,0 +1,390 @@
+{
+ "雅丹地貌": [
+  {
+   "oid": "W4315628236",
+   "y": 2023,
+   "c": 6,
+   "len": 2268,
+   "t": "Color changes in yardang strata sediment in the Dunhuang Yardang National Geopark, Northwest China: Controlling factors and significance for sedimentary environments"
+  },
+  {
+   "oid": "W4408957817",
+   "y": 2025,
+   "c": 0,
+   "len": 1036,
+   "t": "Geomorphology of Meso-Yardang Formation and Evolution in Fahraj Plain, SE Iran: The Role of Stream Incision, Sandblasting, and Nebkha Transformation"
+  },
+  {
+   "oid": "W2118756431",
+   "y": 1979,
+   "c": 216,
+   "len": 1210,
+   "t": "Yardangs on Mars: Evidence of recent wind erosion"
+  },
+  {
+   "oid": "W2032674300",
+   "y": 1992,
+   "c": 22,
+   "len": 945,
+   "t": "Palaeo‐yardangs: wind‐scoured desert landforms at the Permo‐Triassic unconformity"
+  },
+  {
+   "oid": "W4400407723",
+   "y": 2024,
+   "c": 1,
+   "len": 1467,
+   "t": "Yardangs sculpted by erosion of heterogeneous material"
+  },
+  {
+   "oid": "W2795655823",
+   "y": 2018,
+   "c": 12,
+   "len": 801,
+   "t": "Modeling the Mechanisms Behind Yardang Evolution"
+  },
+  {
+   "oid": "W2795792620",
+   "y": 2018,
+   "c": 24,
+   "len": 1620,
+   "t": "Controls on Yardang Development and Morphology: 2. Numerical Modeling"
+  },
+  {
+   "oid": "W4412372087",
+   "y": 2025,
+   "c": 1,
+   "len": 2517,
+   "t": "Erosion rates of yardang landforms downstream of the Peacock River, NW China"
+  },
+  {
+   "oid": "W1866038626",
+   "y": 2015,
+   "c": 28,
+   "len": 1114,
+   "t": "Yardang evolution from maturity to demise"
+  }
+ ],
+ "峡湾": [
+  {
+   "oid": "W2185644246",
+   "y": 1995,
+   "c": 14,
+   "len": 1194,
+   "t": "Vejle Fjord Formation: Mineralogy and geochemistry"
+  },
+  {
+   "oid": "W2909506547",
+   "y": 2001,
+   "c": 3,
+   "len": 839,
+   "t": "Stratigraphy of the Cass Fjord Formation (Middle and Upper Cambrian), northeast Ellesmere Island, Nunavut"
+  },
+  {
+   "oid": "W3085499294",
+   "y": 2020,
+   "c": 0,
+   "len": 1418,
+   "t": "The timing of fjord formation and early glaciations in North and Northeast Greenland"
+  },
+  {
+   "oid": "W184796866",
+   "y": 1986,
+   "c": 22,
+   "len": 1251,
+   "t": "The Formation of Fjord Thresholds"
+  },
+  {
+   "oid": "W4232829925",
+   "y": 2021,
+   "c": 0,
+   "len": 1895,
+   "t": "The timing of fjord formation and early glaciations in North and Northeast Greenland"
+  },
+  {
+   "oid": "W4220659391",
+   "y": 2022,
+   "c": 0,
+   "len": 1276,
+   "t": "Advances on submarine geomorphology at the Fjord system of Gran Campo Nevado (~52°S)"
+  },
+  {
+   "oid": "W4220698759",
+   "y": 2022,
+   "c": 4,
+   "len": 2343,
+   "t": "Submarine Geomorphology and Glacimarine Sedimentary Processes Associated to Deglaciation in Europa Fjord, Chilean Patagonia"
+  },
+  {
+   "oid": "W2100272972",
+   "y": 2002,
+   "c": 68,
+   "len": 1835,
+   "t": "Geomorphology and style of plateau icefield deglaciation in fjord terrains: the example of Troms‐Finnmark, north Norway"
+  },
+  {
+   "oid": "W2907567497",
+   "y": 2019,
+   "c": 9,
+   "len": 1525,
+   "t": "Spatiotemporal distributions of icebergs in a temperate fjord: Columbia Fjord, Alaska"
+  },
+  {
+   "oid": "W4408432560",
+   "y": 2025,
+   "c": 0,
+   "len": 1628,
+   "t": "Seasonal variability in the along-fjord flow in a Northeast Greenland fjord"
+  },
+  {
+   "oid": "W7135229166",
+   "y": 2026,
+   "c": 0,
+   "len": 3106,
+   "t": "Resolving glacier–fjord interactions using observations of 3-dimensional fjord circulation, plume activity, and glacier dynamics"
+  },
+  {
+   "oid": "W4310442375",
+   "y": 2022,
+   "c": 17,
+   "len": 1722,
+   "t": "Standing Eddies in Glacial Fjords and Their Role in Fjord Circulation and Melt"
+  },
+  {
+   "oid": "W4285803498",
+   "y": 2022,
+   "c": 21,
+   "len": 995,
+   "t": "Linking Overturning, Recirculation, and Melt in Glacial Fjords"
+  },
+  {
+   "oid": "W4322099533",
+   "y": 2023,
+   "c": 0,
+   "len": 1152,
+   "t": "Glacial plumes drive widespread subsurface warming in northwest Greenland’s fjords"
+  },
+  {
+   "oid": "W3042314664",
+   "y": 2020,
+   "c": 0,
+   "len": 2226,
+   "t": "Submarine glacial landforms in Southeast Greenland fjords reveal contrasting outlet-glacier behaviour since the Last Glacial Maximum"
+  },
+  {
+   "oid": "W7135206729",
+   "y": 2026,
+   "c": 0,
+   "len": 1861,
+   "t": "Impact of ice mélange thickness on mélange melt rate in Greenland’s glacial fjords"
+  },
+  {
+   "oid": "W3176738089",
+   "y": 2021,
+   "c": 4,
+   "len": 1189,
+   "t": "Using Acoustic Travel Time to Monitor the Heat Variability of Glacial Fjords"
+  }
+ ],
+ "牛轭湖": [
+  {
+   "oid": "W1513609293",
+   "y": 2013,
+   "c": 11,
+   "len": 1249,
+   "t": "Reproduction of Hydrocharis morsus-ranae taxa in an oxbow lake of the River Vistula"
+  },
+  {
+   "oid": "W3033382377",
+   "y": 2020,
+   "c": 8,
+   "len": 1514,
+   "t": "The sustainable management design of oxbow lake to determine the factors in lake management in Buluh Cina village, Indonesia"
+  },
+  {
+   "oid": "W4392620309",
+   "y": 2025,
+   "c": 0,
+   "len": 1664,
+   "t": "Modeling spatio-temporal variation of longitudinal connectivity and its relation to meander evolution"
+  },
+  {
+   "oid": "W2891957300",
+   "y": 2018,
+   "c": 13,
+   "len": 1258,
+   "t": "Coupled Model of Bank Erosion and Meander Evolution for Cohesive Riverbanks"
+  },
+  {
+   "oid": "W2902544696",
+   "y": 2018,
+   "c": 21,
+   "len": 1488,
+   "t": "Meander Designer: Automatically Generating Meander Channel Designs"
+  },
+  {
+   "oid": "W3096803220",
+   "y": 2020,
+   "c": 1,
+   "len": 1145,
+   "t": "Meander Conductor Shape Influence on the Electrodynamic Parameters of the Meander Structures"
+  },
+  {
+   "oid": "W4214560361",
+   "y": 2020,
+   "c": 0,
+   "len": 1144,
+   "t": "Culture-based fisheries - oxbow lakes."
+  },
+  {
+   "oid": "W4404975119",
+   "y": 2024,
+   "c": 9,
+   "len": 1787,
+   "t": "Establishing the Hydrological Controls on Water Surface Area Variations in Oxbow Lakes"
+  },
+  {
+   "oid": "W4392577747",
+   "y": 2025,
+   "c": 0,
+   "len": 1718,
+   "t": "Channel mobility-driven hydrological connectivity controls water surface area variations in oxbow lakes"
+  },
+  {
+   "oid": "W4210385857",
+   "y": 2020,
+   "c": 0,
+   "len": 1562,
+   "t": "Sustainable aquaculture development in oxbow lakes with emphasis on the involvement of women."
+  }
+ ],
+ "断块山": [
+  {
+   "oid": "W2746164778",
+   "y": 2017,
+   "c": 16,
+   "len": 1382,
+   "t": "From coseismic offsets to fault-block mountains"
+  },
+  {
+   "oid": "W4296462431",
+   "y": 2022,
+   "c": 1,
+   "len": 1858,
+   "t": "Fault-Block Platform Evolution between Late Cretaceous and Early Miocene along the Margin of the Latium-Abruzzi Carbonate Platform (Southern Prenestini Mountains, Central Apennines, Italy)"
+  },
+  {
+   "oid": "W2787273814",
+   "y": 1989,
+   "c": 9,
+   "len": 1764,
+   "t": "JABIRU FIELD — HORST, SUB- HORST OR INVERTED GRABEN?"
+  },
+  {
+   "oid": "W2144976931",
+   "y": 1941,
+   "c": 7,
+   "len": 1246,
+   "t": "Icelandic Tectonics—Graben or Horst ?"
+  },
+  {
+   "oid": "W4360923813",
+   "y": 2022,
+   "c": 1,
+   "len": 1608,
+   "t": "Redefining Horst and Graben Distribution in The Onshore Part of The North East Java Basin and Its New Exploration Opportunity"
+  },
+  {
+   "oid": "W3123277409",
+   "y": 2018,
+   "c": 9,
+   "len": 1196,
+   "t": "Tectonostratigraphy and processes of frontal accretion with horst-graben subduction at the Japan Trench"
+  },
+  {
+   "oid": "W2112964507",
+   "y": 1990,
+   "c": 24,
+   "len": 1167,
+   "t": "Geothermal anomalies in the Valles‐Penedes Graben Master Fault: Convection through the Horst as a possible mechanism"
+  }
+ ],
+ "河流阶地": [
+  {
+   "oid": "W2896690467",
+   "y": 2018,
+   "c": 17,
+   "len": 2138,
+   "t": "Climatically-Controlled River Terraces in Eastern Australia"
+  },
+  {
+   "oid": "W4392580073",
+   "y": 2025,
+   "c": 0,
+   "len": 2989,
+   "t": "What can DEMs tell us about the ages of fluvial terraces?"
+  },
+  {
+   "oid": "W4220793819",
+   "y": 2022,
+   "c": 0,
+   "len": 3018,
+   "t": "Soil organic carbon sequestration and dynamics along a chronosequence on fluvial terraces"
+  },
+  {
+   "oid": "W3135641623",
+   "y": 2021,
+   "c": 0,
+   "len": 1476,
+   "t": "Mapping and statistical procedures applied to extract topographical features of fluvial terraces and erosive surfaces."
+  },
+  {
+   "oid": "W3083698144",
+   "y": 2020,
+   "c": 0,
+   "len": 2084,
+   "t": "Research of Landslide Environment Monitoring Technology for Villages at Fluvial Terraces of the Gaoping River Basin of Taiwan"
+  },
+  {
+   "oid": "W3097998307",
+   "y": 2020,
+   "c": 1,
+   "len": 2838,
+   "t": "Diachronism of river terrace formation? – Lessons to learn from luminescence dating results"
+  },
+  {
+   "oid": "W4392659754",
+   "y": 2025,
+   "c": 0,
+   "len": 3340,
+   "t": "MAMU: an R package for GIS-based river terrace mapping, morphostratigraphic evaluation of terrace maps and outcrop data and river long profile modelling"
+  },
+  {
+   "oid": "W2033440564",
+   "y": 1996,
+   "c": 12,
+   "len": 840,
+   "t": "Late Quaternary intra-continental river palaeohydrology and polycyclic terrace formation: the example of south Siberian river valleys"
+  },
+  {
+   "oid": "W2889129782",
+   "y": 2018,
+   "c": 2,
+   "len": 1143,
+   "t": "Formation of the Ngandong paleoanthropological site and Solo River terrace sequence, Central Java, Indonesia"
+  },
+  {
+   "oid": "W4392578786",
+   "y": 2025,
+   "c": 0,
+   "len": 1947,
+   "t": "River terrace formation in response to climate, regional uplift and local normal faulting: The Danube terrace staircase in Vienna"
+  },
+  {
+   "oid": "W2008680485",
+   "y": 1986,
+   "c": 87,
+   "len": 1161,
+   "t": "Rates and causes of proglacial river terrace formation in southeast Iceland: an application of lichenometric dating techniques"
+  }
+ ]
+}
