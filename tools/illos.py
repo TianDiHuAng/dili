@@ -195,6 +195,7 @@ def build(entry, coords=None):
     else:
         diagram = {"地形": theme_terrain, "农业": theme_agriculture, "贸易": theme_trade,
                    "政权更替": theme_polity, "区域": theme_region}.get(theme, theme_region)(entry)
+    _LAST.update(loc=loc, diagram=diagram)
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
             + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
             + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
@@ -247,6 +248,7 @@ def build(entry, coords=None):
         diagram = _theme_climate2(entry, coords)
     else:
         diagram = {"地形":theme_terrain,"农业":theme_agriculture,"贸易":theme_trade,"区域":theme_region}.get(theme, theme_region)(entry)
+    _LAST.update(loc=loc, diagram=diagram)
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
             + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
             + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
@@ -281,6 +283,7 @@ def build(entry, coords=None):
         diagram = _terrain_block(entry)
     else:
         diagram = {"农业":theme_agriculture,"贸易":theme_trade,"区域":theme_region}.get(theme, theme_region)(entry)
+    _LAST.update(loc=loc, diagram=diagram)
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
             + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
             + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
@@ -311,6 +314,7 @@ def build(entry, coords=None):
         diagram = topics.draw(theme, title)
     else:
         diagram = theme_region(entry)
+    _LAST.update(loc=loc, diagram=diagram)
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
             + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
             + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
@@ -363,6 +367,7 @@ def build(entry, coords=None):
         diagram = topics.draw(theme, title)
     else:
         diagram = theme_region(entry)
+    _LAST.update(loc=loc, diagram=diagram)
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
             + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
             + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
@@ -432,6 +437,7 @@ def build(entry, coords=None):
         diagram = topics.draw(theme, title)
     else:
         diagram = theme_region(entry)
+    _LAST.update(loc=loc, diagram=diagram)
     return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' role='img' aria-label='%s 示意图'>" % title
             + "<rect x='20' y='20' width='860' height='560' rx='12' fill='none' stroke='var(--line)'/>"
             + "<text x='40' y='30' class='lbl'>%s · %s</text>" % (title, theme)
@@ -484,3 +490,45 @@ def _climate_full(entry, coords, bb, ov, loc, title, theme):
       +"<text x='66' y='258' class='lbl-s'>Köppen 气候分区（真实数据；Beck et al.，经 rjerue/koppen-map%s）</text>"%lab
       +legend+temp+precip
       +"<text x='40' y='878' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
+
+
+def _climate_full(entry, coords, bb, ov, loc, title, theme):
+    kfrag, hit = koppen.overlay((60,262,780,186), tuple(bb), point=coords, max_polys=(40 if bb[1]-bb[0]>150 else 64))
+    lab=""
+    if hit:
+        nm,code=koppen.cn_of(hit[0]); lab="；红点处：%s（%s）"%(nm,code)
+    legend=("<rect x='64' y='452' width='12' height='10' fill='#6fae6a'/><text x='80' y='462' class='lbl-s'>A 热带</text>"
+      +"<rect x='154' y='452' width='12' height='10' fill='#e0c078'/><text x='170' y='462' class='lbl-s'>B 干旱</text>"
+      +"<rect x='244' y='452' width='12' height='10' fill='#a9d0a0'/><text x='260' y='462' class='lbl-s'>C 温带</text>"
+      +"<rect x='334' y='452' width='12' height='10' fill='#9fb8d8'/><text x='350' y='462' class='lbl-s'>D 冷温带</text>"
+      +"<rect x='436' y='452' width='12' height='10' fill='#dfe8ea'/><text x='452' y='462' class='lbl-s'>E 极地</text>")
+    temp = owid.panel((60,470,780,150))
+    precip = wbdata.panel((60,628,780,150), wbdata.series("AG.LND.PRCP.MM","WLD"), "AG.LND.PRCP.MM", "全球平均降水深度", "mm/年", "WLD")[0]
+    lower = ("<rect x='60' y='262' width='780' height='186' fill='#f4f1ea' stroke='var(--line)'/>"+kfrag
+      +"<text x='66' y='258' class='lbl-s'>Köppen 气候分区（真实数据；Beck et al.，经 rjerue/koppen-map%s）</text>"%lab
+      +legend+temp+precip)
+    _LAST.update(loc=loc, diagram=lower)
+    return ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 900' role='img' aria-label='%s 气候示意图'>"%title
+      +"<rect x='20' y='20' width='860' height='860' rx='12' fill='none' stroke='var(--line)'/>"
+      +"<text x='40' y='30' class='lbl'>%s · %s</text>"%(title,theme)
+      +"<text x='30' y='46' class='lbl-s'>所在区域（真实陆地轮廓；红点为该条目所在）</text>"
+      +loc+"<path d='M30 244 L870 244' stroke='var(--line)'/>"+lower
+      +"<text x='40' y='878' class='dim'>示意图，非精确测绘；底图仅示意相对位置，不涉政治主张</text></svg>")
+
+_LAST = {}
+
+def components(entry, coords=None):
+    """返回 (位置图SVG, 主题图SVG)，各自独立可显示；带指北针/比例尺/图注。"""
+    build(entry, coords)
+    loc = _LAST.get("loc", ""); diag = _LAST.get("diagram", "")
+    map_svg = ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 330' role='img' aria-label='位置图'>"
+      + "<rect x='20' y='16' width='860' height='298' rx='12' fill='none' stroke='var(--line)'/>"
+      + "<g transform='translate(0,-6)'>" + loc + "</g>"
+      + "<g transform='translate(818,40)'><path d='M0 26 L0 0' stroke='var(--ink)' stroke-width='1.4'/><polygon points='-5,6 0,-2 5,6' fill='var(--ink)'/><text x='-6' y='40' class='lbl-s'>N</text></g>"
+      + "<g transform='translate(40,300)'><path d='M0 0 H120' stroke='var(--ink)' stroke-width='2'/><path d='M0 -4 V4 M60 -4 V4 M120 -4 V4' stroke='var(--ink)' stroke-width='1.4'/><text x='126' y='4' class='lbl-s'>示意比例</text></g>"
+      + "<text x='40' y='310' class='dim'>真实陆地轮廓与 Natural Earth 物理图层；示意，非精确测绘</text></svg>")
+    diag_svg = ("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 580' role='img' aria-label='主题示意图'>"
+      + "<rect x='20' y='16' width='860' height='548' rx='12' fill='none' stroke='var(--line)'/>"
+      + "<g transform='translate(0,-236)'>" + diag + "</g>"
+      + "<text x='40' y='566' class='dim'>主题示意图，非精确测绘</text></svg>")
+    return map_svg, diag_svg

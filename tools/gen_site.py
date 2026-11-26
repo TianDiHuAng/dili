@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """tools/gen_site.py — 从 JSON 渲染纯静态 HTML（零 JS）。"""
 import json, os, re, html, datetime
+try:
+    import illos
+except Exception:
+    illos = None
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE_BASE = "https://tiandihuang.github.io/dili"
@@ -282,6 +286,12 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
 .section h2{display:flex;align-items:center;gap:8px}
 .section h2 .ico{color:var(--accent)}
 .quote{border-left:4px solid var(--accent2);background:color-mix(in srgb,var(--accent2) 7%,var(--card))}
+.tilegrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
+.tile{display:flex;flex-direction:column;gap:2px;background:var(--card);border:1px solid var(--line);border-left:5px solid var(--tc);border-radius:8px;padding:10px 12px;color:var(--ink)}
+.tile:hover{border-color:var(--tc);text-decoration:none}
+.tile .tile-dot{width:10px;height:10px;border-radius:50%;background:var(--tc);display:inline-block}
+.tile b{font-size:.95rem}
+
 
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 @media print{body{background:#fff;color:#000}.top,.foot,.nav,.crumb{display:none}main{max-width:none}svg{border:none;page-break-inside:avoid}a{color:#000;text-decoration:underline}.section{border:1px solid #999;page-break-inside:avoid}}
@@ -364,8 +374,18 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
         body = []
         if e.get("svg") and e.get("level") in ("L2", "L3"):
             cap = "简笔示意，不代表精确位置与边界。" if "非精确测绘" in e["svg"] else "示意图，非精确测绘。"
-            body.append(f'<div class="section figure" id="sec-fig"><h2>{icon("image")}示意地图</h2><div class="fig" id="fig-{esc(eid)}">{sanitize_svg(e["svg"])}</div><p class="dim"><a href="#fig-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · {cap}</p></div>')
-            toc.append(("sec-fig", "示意图"))
+            if ("位置图" not in e["svg"]) and illos is not None:
+                try:
+                    _m, _d = illos.components(e, ENTRY_COORD.get(e["title"]))
+                    body.append(f'<div class="section figure" id="sec-fig"><h2>{icon("image")}位置图（真实地图）</h2><div class="fig" id="fmap-{esc(eid)}">{sanitize_svg(_m)}</div><p class="dim"><a href="#fmap-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · 真实陆地轮廓 + Natural Earth 物理图层；示意，非精确测绘</p></div>')
+                    body.append(f'<div class="section figure"><h2>{icon("image")}主题图</h2><div class="fig" id="fdiag-{esc(eid)}">{sanitize_svg(_d)}</div><p class="dim"><a href="#fdiag-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · {cap}</p></div>')
+                    toc.append(("sec-fig", "示意图"))
+                except Exception:
+                    body.append(f'<div class="section figure" id="sec-fig"><h2>{icon("image")}示意地图</h2><div class="fig" id="fig-{esc(eid)}">{sanitize_svg(e["svg"])}</div><p class="dim"><a href="#fig-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · {cap}</p></div>')
+                    toc.append(("sec-fig", "示意图"))
+            else:
+                body.append(f'<div class="section figure" id="sec-fig"><h2>{icon("image")}示意地图</h2><div class="fig" id="fig-{esc(eid)}">{sanitize_svg(e["svg"])}</div><p class="dim"><a href="#fig-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · {cap}</p></div>')
+                toc.append(("sec-fig", "示意图"))
         body.append(f'<div class="section" id="sec-overview"><h2>{icon("book")}概述</h2><p>{esc(e["overview"])}</p></div>')
         toc.append(("sec-overview", "概述"))
         if e.get("level") in ("L2", "L3"):
@@ -389,7 +409,8 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
         sib = [x for x in sorted(units[e["unit_id"]]["entries"], key=lambda z: z["title"]) if x_id_ok(x, e)]
         same = [x for x in sib if x["theme"] == e["theme"] and x["id"] != eid][:6]
         if same:
-            tail.append('<div class="section"><h2>' + icon("layers") + '同主题条目</h2><p>' + "".join(f'<a class="tag" href="{esc(x["id"])}.html">{esc(x["title"])}</a>' for x in same) + "</p></div>")
+            tiles = "".join(f'<a class="tile" style="--tc:{THEME_COLOR.get(x["theme"], "#2b7a78")}" href="{esc(x["id"])}.html"><span class="tile-dot"></span><b>{esc(x["title"])}</b><span class="dim">{esc(UNIT_NAMES[x["unit_id"]])}</span></a>' for x in same)
+            tail.append('<div class="section"><h2>' + icon("layers") + '同主题条目</h2><div class="tilegrid">' + tiles + '</div></div>')
         idx = [x["id"] for x in sib].index(eid) if eid in [x["id"] for x in sib] else -1
         if idx >= 0:
             nav = []
