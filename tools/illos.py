@@ -371,20 +371,24 @@ def build(entry, coords=None):
 
 import wbdata
 WB_MAP = {
- "二氧化碳排放清单":("EN.GHG.CO2.PC.CE.AR5","人均二氧化碳排放","吨/人"),
- "城市化水平":("SP.URB.TOTL.IN.ZS","城镇人口占比","%"),
- "全球人口规模":("SP.POP.TOTL","总人口","人"),
- "人口增长":("SP.POP.GROW","人口年增长率","%"),
- "预期寿命空间差异":("SP.DYN.LE00.IN","出生预期寿命","岁"),
- "作物单产差异":("AG.YLD.CREL.KG","谷物单产","kg/公顷"),
- "森林面积占比":("AG.LND.FRST.ZS","森林覆盖率","%"),
- "农业统计体系":("AG.LND.AGRI.ZS","农业用地占比","%"),
- "极端贫困空间分布":("SI.POV.DDAY","极端贫困率","%"),
- "人均产出空间差异":("NY.GDP.PCAP.CD","人均GDP","现价美元"),
- "儿童发展地域差异":("SP.DYN.IMRT.IN","婴儿死亡率","‰"),
- "人口年龄结构":("SP.POP.65UP.TO.ZS","65岁以上人口占比","%"),
- "肥料使用与环境":("AG.CON.FERT.ZS","化肥施用量","kg/公顷"),
- "全球营养状况":("SN.ITK.DEFC.ZS","营养不良发生率","%"),
+ "二氧化碳排放清单":("EN.GHG.CO2.PC.CE.AR5","人均二氧化碳排放","吨/人","WLD"),
+ "城市化水平":("SP.URB.TOTL.IN.ZS","城镇人口占比","%","WLD"),
+ "全球人口规模":("SP.POP.TOTL","总人口","人","WLD"),
+ "人口增长":("SP.POP.GROW","人口年增长率","%","WLD"),
+ "预期寿命空间差异":("SP.DYN.LE00.IN","出生预期寿命","岁","WLD"),
+ "作物单产差异":("AG.YLD.CREL.KG","谷物单产","kg/公顷","WLD"),
+ "森林面积占比":("AG.LND.FRST.ZS","森林覆盖率","%","WLD"),
+ "农业统计体系":("AG.LND.AGRI.ZS","农业用地占比","%","WLD"),
+ "极端贫困空间分布":("SI.POV.DDAY","极端贫困率","%","WLD"),
+ "人均产出空间差异":("NY.GDP.PCAP.CD","人均GDP","现价美元","WLD"),
+ "儿童发展地域差异":("SP.DYN.IMRT.IN","婴儿死亡率","‰","WLD"),
+ "人口年龄结构":("SP.POP.65UP.TO.ZS","65岁以上人口占比","%","WLD"),
+ "肥料使用与环境":("AG.CON.FERT.ZS","化肥施用量","kg/公顷","WLD"),
+ "全球营养状况":("SN.ITK.DEFC.ZS","营养不良发生率","%","WLD"),
+ "澳大利亚混合农业":("AG.YLD.CREL.KG","澳大利亚谷物单产","kg/公顷","AUS"),
+ "农业企业与价值链":("EA.PRD.AGRI.KD","农业增加值/劳动者","2015美元","WLD"),
+ "土地利用变化":("AG.LND.AGRI.ZS","农业用地占比","%","WLD"),
+ "肉奶生产与土地":("AG.PRD.LVSK.XD","畜牧生产指数","2004-06=100","WLD"),
 }
 
 def build(entry, coords=None):
@@ -398,8 +402,8 @@ def build(entry, coords=None):
         ov += koppen.faint((30,34,840,196), tuple(bb), coords)
     loc = map_svg((30,34,840,196), tuple(bb), lon, lat, label=title if coords else None, overlay=ov)
     if title in WB_MAP:
-        ind, label, un = WB_MAP[title]
-        diagram = wbdata.panel((60,268,780,264), wbdata.series(ind), ind, label, un)[0]
+        ind, label, un = WB_MAP[title][:3]; ctry = WB_MAP[title][3] if len(WB_MAP[title]) > 3 else "WLD"
+        diagram = wbdata.panel((60,268,780,264), wbdata.series(ind, ctry), ind, label, un, ctry)[0]
     elif theme == "政权更替" and title in YEAR:
         diagram = _hist_diagram(entry, coords)
     elif "土壤" in title:

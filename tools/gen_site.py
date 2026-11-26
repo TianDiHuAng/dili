@@ -223,6 +223,7 @@ svg text{fill:var(--ink);font-family:sans-serif;font-size:13px}svg .lbl{fill:var
 ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 @media (max-width:640px){h1{font-size:1.5rem}.nav{gap:8px;font-size:.82rem}main{padding:20px 14px}}
 a:focus-visible,button:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]>summary{margin-bottom:8px}summary::marker{color:var(--accent2)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 @media print{body{background:#fff;color:#000}.top,.foot,.nav,.crumb{display:none}main{max-width:none}svg{border:none;page-break-inside:avoid}a{color:#000;text-decoration:underline}.section{border:1px solid #999;page-break-inside:avoid}}
 '''.lstrip()
@@ -247,6 +248,8 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent2);outline-of
 <div class="stat"><b>{verified_src}</b>已核验来源</div>
 <div class="stat"><b>{gapstr}</b>缺口 G1/G2/G3/G4</div>
 </div>
+<h2>按重要度浏览</h2>
+<div class="grid"><a class="card" href="tier-core.html"><h3>核心条目</h3><p>{sum(1 for x in entries.values() if x["tier"]=="核心")} 条</p><p class="dim">骨架性、文明/地理主干</p></a><a class="card" href="tier-important.html"><h3>重要条目</h3><p>{sum(1 for x in entries.values() if x["tier"]=="重要")} 条</p><p class="dim">区域与专题要点</p></a><a class="card" href="tier-supplementary.html"><h3>补充条目</h3><p>{sum(1 for x in entries.values() if x["tier"]=="补充")} 条</p><p class="dim">指标与细目</p></a></div>
 <h2>中国十五大地貌（可视化总览）</h2>
 {hero}
 <p>{lf_chips}</p>
@@ -256,6 +259,16 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent2);outline-of
 <h2>说明</h2><p>本站不使用图片；所有图示均为内联 SVG 示意图。现状数据均标注年份与来源；待核实处明确标注。</p>'''
     with open(os.path.join(SITE, "index.html"), "w", encoding="utf-8") as f:
         f.write(page("首页", body))
+
+    # 重要度分页
+    tier_pages = [("核心","tier-core.html"),("重要","tier-important.html"),("补充","tier-supplementary.html")]
+    for tname, tfile in tier_pages:
+        sel = [x for x in entries.values() if x["tier"] == tname]
+        sel.sort(key=lambda z: (UNIT_IDS.index(z["unit_id"]), z["title"]))
+        cards = "".join(f'<a class="card tier-{esc(x["tier"])}" href="entries/{esc(x["id"])}.html"><span class="tier">{esc(x["tier"])}</span><h3>{esc(x["title"])}</h3><p>{esc(x["time_or_place"])} · {esc(x["theme"])}</p><p class="dim">{esc(UNIT_NAMES[x["unit_id"]])}</p></a>' for x in sel)
+        tb = f'<div class="crumb"><a href="index.html">首页</a> / {esc(tname)}条目</div><h1>{esc(tname)}条目（{len(sel)}）</h1><p class="lead">按重要度「{esc(tname)}」筛选的全部条目。</p><div class="grid">{cards}</div>'
+        with open(os.path.join(SITE, tfile), "w", encoding="utf-8") as f:
+            f.write(page(tname+"条目", tb))
 
     # 单元页
     for uid, doc in units.items():
@@ -292,8 +305,8 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent2);outline-of
         if e.get("level") == "L1" and e.get("today"):
             parts.append(f'<div class="section"><h2>今天的状况</h2><p>{esc(e["today"])}</p></div>')
         if e.get("needs_verification"):
-            parts.append(f'<div class="section warn"><h2>待核实</h2><p>{esc(e["pending_notes"])}</p></div>')
-        parts.append('<div class="section"><h2>来源</h2><ul class="src">' + "".join(f"<li>{source_link(s, sources)}</li>" for s in e["sources"]) + "</ul></div>")
+            parts.append(f'<details class="section warn"><summary>待核实与降级说明（点开）</summary><p>{esc(e["pending_notes"])}</p></details>')
+        parts.append(f'<details class="section"><summary>来源（{len(e["sources"])} 条，点开）</summary><ul class="src">' + "".join(f"<li>{source_link(s, sources)}</li>" for s in e["sources"]) + "</ul></details>")
         if e.get("related"):
             parts.append('<h2>相关条目</h2><p>' + "".join(f'<a class="tag" href="{esc(r)}.html">{esc(entries[r]["title"])}</a>' for r in e["related"] if r in entries) + "</p>")
         # 同主题相关 + 上/下一篇

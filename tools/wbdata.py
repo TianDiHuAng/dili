@@ -50,7 +50,7 @@ def _fmt(v):
     if a >= 10: return f"{v:.1f}"
     return f"{v:.2f}"
 
-def panel(box, vals, title, label, unit):
+def panel(box, vals, title, label, unit, country="WLD"):
     x0, y0, w, h = box
     s = [f"<rect x='{x0}' y='{y0}' width='{w}' height='{h}' rx='8' fill='#f7f4ec' stroke='var(--line)'/>"]
     if not vals:
@@ -75,6 +75,6 @@ def panel(box, vals, title, label, unit):
     s.append(f"<text x='{x0+w-pad_r-40}' y='{y0+h-pad_b+18}' class='lbl-s'>{xs[-1]}</text>")
     s.append(f"<text x='{x0+6}' y='{y0+pad_t+4}' class='lbl-s'>{_fmt(maxv)}</text>")
     s.append(f"<text x='{x0+6}' y='{y0+h-pad_b}' class='lbl-s'>{_fmt(minv)}</text>")
-    s.append(f"<text x='{x0+pad_l}' y='{y0+18}' class='lbl'>{label}（{unit}）· 世界银行 WLD，{xs[0]}–{xs[-1]}</text>")
-    s.append(f"<text x='{x0+pad_l}' y='{y0+h-6}' class='dim'>数据：World Bank API（{title}）；真实数值，非示意</text>")
+    s.append(f"<text x='{x0+pad_l}' y='{y0+18}' class='lbl'>{label}（{unit}）· 世界银行 {country}，{xs[0]}–{xs[-1]}</text>")
+    s.append(f"<text x='{x0+pad_l}' y='{y0+h-6}' class='dim'>数据：World Bank API（{title}，{country}）；真实数值，非示意</text>")
     return "".join(s), (xs[-1], ys[-1])
