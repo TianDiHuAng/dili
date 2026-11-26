@@ -531,17 +531,24 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
     with open(os.path.join(SITE, "discover.html"), "w", encoding="utf-8") as f:
         f.write(page("发现", d_body))
 
-    # 自然地理总览
-    ter = [x for x in entries.values() if x["theme"] == "地形"]
-    cli = [x for x in entries.values() if x["theme"] == "气候"]
+    # 自然地理总览（地貌/水文/气候/土壤-植被 四组）
+    HYDRO = {"水循环", "地下水", "湿地", "湖泊", "冰川湖"}
+    SOILVEG = {"土壤带", "生物群系与植被带"}
+    def _sel(pred): return sorted([x for x in entries.values() if pred(x)], key=lambda z: (UNIT_IDS.index(z["unit_id"]), z["title"]))
+    groups = [
+        ("地貌", _sel(lambda x: x["theme"] == "地形" and x["title"] not in HYDRO and x["title"] not in SOILVEG)),
+        ("水文", _sel(lambda x: x["title"] in HYDRO)),
+        ("气候", _sel(lambda x: x["theme"] == "气候")),
+        ("土壤与植被", _sel(lambda x: x["title"] in SOILVEG)),
+    ]
     def _cards(lst):
-        lst = sorted(lst, key=lambda z: (UNIT_IDS.index(z["unit_id"]), z["title"]))
         return "".join(f'<a class="card tier-{esc(x["tier"])}" href="entries/{esc(x["id"])}.html"><span class="tier">{esc(x["tier"])}</span><h3>{esc(x["title"])}</h3><p class="dim">{esc(UNIT_NAMES[x["unit_id"]])} · {esc(x["theme"])}</p></a>' for x in lst)
+    jump = "".join(f'<a class="tag" href="#grp-{i}">{esc(name)}（{len(lst)}）</a>' for i, (name, lst) in enumerate(groups))
+    secs = "".join(f'<h2 id="grp-{i}">{esc(name)}（{len(lst)}）</h2><div class="grid">{_cards(lst)}</div>' for i, (name, lst) in enumerate(groups))
     physio = f'''<div class="crumb"><a href="index.html">首页</a> / 自然地理</div><h1>自然地理总览</h1>
-<p class="lead">把全站的自然地理条目（地形地貌 {len(ter)} 条、气候 {len(cli)} 条）集中在此，每条都配真实地图定位 + 主题图（地貌剖面 / Köppen 气候分区 + 真实气温距平）。</p>
+<p class="lead">按「地貌 · 水文 · 气候 · 土壤与植被」四组汇集全站自然地理条目，每条配真实地图定位 + 主题图（地貌剖面 / 流域与含水层 / Köppen 气候分区 + 真实气温距平 / 土壤剖面与植被带）。</p>
 <h2>中国十五大地貌（速览）</h2>{hero_china_svg()}
-<h2>地形与地貌（{len(ter)}）</h2><div class="grid">{_cards(ter)}</div>
-<h2>气候（{len(cli)}）</h2><div class="grid">{_cards(cli)}</div>'''
+<p>{jump}</p>{secs}'''
     with open(os.path.join(SITE, "physio.html"), "w", encoding="utf-8") as f:
         f.write(page("自然地理", physio))
 
