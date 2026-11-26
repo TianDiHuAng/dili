@@ -3096,10 +3096,94 @@
         "unknown": 1
       },
       "tier": "补充"
+    },
+    "河流地貌": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "冰川地貌": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "海岸地貌": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "风成地貌": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "生物群系与植被带": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "核心"
+    },
+    "土壤带": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "水循环": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "核心"
     }
   },
   "summary": {
-    "A": 230,
+    "A": 237,
     "B": 0,
     "C": 0,
     "D": 28

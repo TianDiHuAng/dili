@@ -791,5 +791,27 @@
   ],
   "横断山脉": [
     "hengduan"
+  ],
+  "河流地貌": [
+    "fluvial"
+  ],
+  "冰川地貌": [
+    "glacial"
+  ],
+  "海岸地貌": [
+    "coastal"
+  ],
+  "风成地貌": [
+    "wind"
+  ],
+  "生物群系与植被带": [
+    "biome",
+    "biomes"
+  ],
+  "土壤带": [
+    "soil"
+  ],
+  "水循环": [
+    "hydrological cycle"
   ]
 }

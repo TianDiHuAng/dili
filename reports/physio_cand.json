@@ -1,0 +1,576 @@
+{
+ "河流地貌": [
+  {
+   "oid": "W4389335420",
+   "y": 2023,
+   "c": 0,
+   "len": 1061,
+   "t": "Geomorphology and Morphogenesis of the Non-siliceous, Non-aqueous Fluvial Systems of Titan: A Review"
+  },
+  {
+   "oid": "W4414398200",
+   "y": 2026,
+   "c": 0,
+   "len": 1741,
+   "t": "Discrete differential geometry of fluvial landscapes"
+  },
+  {
+   "oid": "W4393299979",
+   "y": 2024,
+   "c": 14,
+   "len": 2292,
+   "t": "A physics-based model for fluvial valley width"
+  },
+  {
+   "oid": "W1981084194",
+   "y": 2013,
+   "c": 2,
+   "len": 973,
+   "t": "Measuring bank retreat in fluvial environments with Terrestrial Laser Scanning (TLS)"
+  },
+  {
+   "oid": "W4400738716",
+   "y": 2024,
+   "c": 8,
+   "len": 3295,
+   "t": "Decadal-scale decay of landslide-derived fluvial suspended sediment after Typhoon Morakot"
+  },
+  {
+   "oid": "W7128053702",
+   "y": 2026,
+   "c": 2,
+   "len": 2145,
+   "t": "Investigating controls on fluvial grain sizes in post-glacial landscapes using citizen science"
+  },
+  {
+   "oid": "W3133524440",
+   "y": 2021,
+   "c": 0,
+   "len": 3089,
+   "t": "Mapping Fluvial Landforms with Deep Similarity Learning"
+  },
+  {
+   "oid": "W4408428628",
+   "y": 2025,
+   "c": 0,
+   "len": 2786,
+   "t": "Geoheritage in lowland fluvial systems: preserving legacy landforms formed by natural and anthropogenic processes."
+  },
+  {
+   "oid": "W4283161690",
+   "y": 2022,
+   "c": 1,
+   "len": 3334,
+   "t": "Fluvial landforms as a constrain to urban development of Benevento (southern Italy)"
+  },
+  {
+   "oid": "W2012503381",
+   "y": 1986,
+   "c": 29,
+   "len": 1114,
+   "t": "The headward extent of fluvial landforms and associated vegetation on massanutten mountain, Virginia"
+  },
+  {
+   "oid": "W2985257331",
+   "y": 2017,
+   "c": 9,
+   "len": 1204,
+   "t": "Fluvial Depositional Processes and Landforms"
+  }
+ ],
+ "冰川地貌": [
+  {
+   "oid": "W1639620002",
+   "y": 2015,
+   "c": 257,
+   "len": 1598,
+   "t": "Estimating the volume of Alpine glacial lakes"
+  },
+  {
+   "oid": "W4392182819",
+   "y": 2024,
+   "c": 4,
+   "len": 1878,
+   "t": "Coevolving edge rounding and shape of glacial erratics: the case of Shap granite, UK"
+  },
+  {
+   "oid": "W3143972370",
+   "y": 2021,
+   "c": 23,
+   "len": 2043,
+   "t": "Climatic controls on mountain glacier basal thermal regimes dictate spatial patterns of glacial erosion"
+  },
+  {
+   "oid": "W7128053702",
+   "y": 2026,
+   "c": 2,
+   "len": 2145,
+   "t": "Investigating controls on fluvial grain sizes in post-glacial landscapes using citizen science"
+  },
+  {
+   "oid": "W2914006067",
+   "y": 2019,
+   "c": 24,
+   "len": 1783,
+   "t": "Glacial limitation of tropical mountain height"
+  },
+  {
+   "oid": "W2115962665",
+   "y": 2002,
+   "c": 46,
+   "len": 2070,
+   "t": "The significance of rock structure, lithology and pre‐glacial deep weathering for the shape of intermediate‐scale glacial erosional landforms"
+  },
+  {
+   "oid": "W3042314664",
+   "y": 2020,
+   "c": 0,
+   "len": 2226,
+   "t": "Submarine glacial landforms in Southeast Greenland fjords reveal contrasting outlet-glacier behaviour since the Last Glacial Maximum"
+  },
+  {
+   "oid": "W2113159671",
+   "y": 1993,
+   "c": 595,
+   "len": 913,
+   "t": "Mega‐scale glacial lineations and cross‐cutting ice‐flow landforms"
+  },
+  {
+   "oid": "W2792462057",
+   "y": 1985,
+   "c": 9,
+   "len": 1002,
+   "t": "The stratified nature of deposits in streamlined glacial landforms on southern Victoria Island, District of Franklin"
+  },
+  {
+   "oid": "W2981999602",
+   "y": 2017,
+   "c": 0,
+   "len": 2033,
+   "t": "Glacial and postglacial landforms and processes adjacent to King William Island, Nunavut, Canadian Arctic Archipelago"
+  },
+  {
+   "oid": "W4392579167",
+   "y": 2024,
+   "c": 0,
+   "len": 1964,
+   "t": "Relic glacial landforms in the southern Baltic Sea Basin"
+  },
+  {
+   "oid": "W2171560671",
+   "y": 2005,
+   "c": 35,
+   "len": 703,
+   "t": "Athabasca Glacier, Canada – a field example of subglacial ice and till erosion?"
+  },
+  {
+   "oid": "W4200028002",
+   "y": 2021,
+   "c": 19,
+   "len": 2177,
+   "t": "Modelling alpine glacier geometry and subglacial erosion patterns in response to contrasting climatic forcing"
+  },
+  {
+   "oid": "W2044573876",
+   "y": 2009,
+   "c": 43,
+   "len": 1829,
+   "t": "Quantifying periglacial erosion: insights on a glacial sediment budget, Matanuska Glacier, Alaska"
+  }
+ ],
+ "海岸地貌": [
+  {
+   "oid": "W2966169112",
+   "y": 2020,
+   "c": 14,
+   "len": 1863,
+   "t": "Dynamic allometry in coastal overwash morphology"
+  },
+  {
+   "oid": "W4385700704",
+   "y": 2023,
+   "c": 8,
+   "len": 1905,
+   "t": "Earthquake contributions to coastal cliff retreat"
+  },
+  {
+   "oid": "W1495548788",
+   "y": 2007,
+   "c": 121,
+   "len": 2392,
+   "t": "Coastal geomorphology and evolution of Tierra del Fuego (Southern Argentina)"
+  },
+  {
+   "oid": "W2754357040",
+   "y": 2017,
+   "c": 22,
+   "len": 1511,
+   "t": "Possible threshold controls on sediment grain properties of Peruvian coastal river basins"
+  },
+  {
+   "oid": "W3098219892",
+   "y": 2009,
+   "c": 71,
+   "len": 2330,
+   "t": "Coastal Geomorphology and Sea-Level Change"
+  },
+  {
+   "oid": "W2216734452",
+   "y": 2014,
+   "c": 0,
+   "len": 883,
+   "t": "Coastal Landforms on Islands of Pacific Oceania"
+  },
+  {
+   "oid": "W4388322351",
+   "y": 1997,
+   "c": 191,
+   "len": 793,
+   "t": "Coastal Dynamics and Landforms"
+  },
+  {
+   "oid": "W7148325400",
+   "y": 2018,
+   "c": 2,
+   "len": 1779,
+   "t": "Coastal ecosystems of the Lebanese coast : ecological status, conservation, evolution"
+  },
+  {
+   "oid": "W7143967628",
+   "y": 2014,
+   "c": 1,
+   "len": 1779,
+   "t": "Geomorphic evolution and coastal hazards along the Iranian coast of Makran"
+  }
+ ],
+ "风成地貌": [
+  {
+   "oid": "W2045716236",
+   "y": 2010,
+   "c": 26,
+   "len": 1992,
+   "t": "Gross erosion, net erosion and gross deposition of dust by wind: field data from 17 desert surfaces"
+  },
+  {
+   "oid": "W2014378926",
+   "y": 2008,
+   "c": 9,
+   "len": 1470,
+   "t": "Predicting the effect of tilling practices on wind erosion activity: application of the Wind Erosion Prediction System in a sand drift area in The Netherlands"
+  },
+  {
+   "oid": "W2044656381",
+   "y": 1984,
+   "c": 42,
+   "len": 798,
+   "t": "Characteristics and occurrence of wind erosion features in the Namib Desert"
+  },
+  {
+   "oid": "W2032257455",
+   "y": 2010,
+   "c": 18,
+   "len": 2572,
+   "t": "Wind erosion characteristics of Sahelian surface types"
+  },
+  {
+   "oid": "W1974773394",
+   "y": 2004,
+   "c": 116,
+   "len": 2237,
+   "t": "Mineral soil surface crusts and wind and water erosion"
+  },
+  {
+   "oid": "W2897212799",
+   "y": 2018,
+   "c": 9,
+   "len": 1278,
+   "t": "Wind tunnel tests of the dynamic processes that control wind erosion of a sand bed"
+  },
+  {
+   "oid": "W4253323645",
+   "y": 2009,
+   "c": 1,
+   "len": 2323,
+   "t": "Aeolian Processes and Landforms"
+  },
+  {
+   "oid": "W2991828479",
+   "y": 2019,
+   "c": 5,
+   "len": 1179,
+   "t": "Yardangs and Dunes: Minimum- and Maximum-Dissipation Aeolian Landforms"
+  },
+  {
+   "oid": "W3098030242",
+   "y": 2021,
+   "c": 7,
+   "len": 1893,
+   "t": "Aeolian processes and landforms"
+  },
+  {
+   "oid": "W4388422202",
+   "y": 2020,
+   "c": 8,
+   "len": 1388,
+   "t": "Dryas aeolian landforms in Arctic deflationary tundra, central Spitsbergen"
+  },
+  {
+   "oid": "W1557080224",
+   "y": 2011,
+   "c": 55,
+   "len": 888,
+   "t": "A progression of induration in Medusae Fossae Formation transverse aeolian ridges: evidence for ancient aeolian bedforms and extensive reworking"
+  }
+ ],
+ "生物群系与植被带": [
+  {
+   "oid": "W4224087083",
+   "y": 2022,
+   "c": 26,
+   "len": 1615,
+   "t": "Predicting global terrestrial biomes with the LeNet convolutional neural network"
+  },
+  {
+   "oid": "W4399967601",
+   "y": 2003,
+   "c": 28,
+   "len": 143,
+   "t": "Biomes of Earth: Terrestrial, Aquatic, and Human-Dominated"
+  },
+  {
+   "oid": "W4391229672",
+   "y": 2024,
+   "c": 1,
+   "len": 1486,
+   "t": "Predicting dominant terrestrial biomes at a global scale using machine learning algorithms, climate variable indices, and extreme climate indices"
+  },
+  {
+   "oid": "W4408440767",
+   "y": 2025,
+   "c": 0,
+   "len": 3116,
+   "t": "High-performance computing for mechanistic prediction of biome distribution"
+  },
+  {
+   "oid": "W4416227181",
+   "y": 2025,
+   "c": 2,
+   "len": 1979,
+   "t": "Divergent projections of future African biome shifts with process‐based and species distribution models"
+  },
+  {
+   "oid": "W4205362484",
+   "y": 2022,
+   "c": 18,
+   "len": 1340,
+   "t": "Biome-specific distribution of Ni-containing carbon monoxide dehydrogenases"
+  },
+  {
+   "oid": "W7167228428",
+   "y": 2026,
+   "c": 2,
+   "len": 1749,
+   "t": "Climatic and Evolutionary Trends in Endemic Cacti of the Chihuahuan Desert Biome: Distribution Models and Track Analyses"
+  },
+  {
+   "oid": "W3152287990",
+   "y": 2021,
+   "c": 10,
+   "len": 1431,
+   "t": "The effect of single biome occupancy on the estimation of biome shifts and the detection of biome conservatism"
+  }
+ ],
+ "土壤带": [
+  {
+   "oid": "W1996838292",
+   "y": 2015,
+   "c": 562,
+   "len": 1745,
+   "t": "Global distribution of soil organic carbon – Part 1: Masses and frequency distributions of SOC stocks for the tropics, permafrost regions, wetlands, and the world"
+  },
+  {
+   "oid": "W4250331373",
+   "y": 2021,
+   "c": 10,
+   "len": 1209,
+   "t": "Climate-model-informed deep learning of global soil moisture distribution"
+  },
+  {
+   "oid": "W3198237143",
+   "y": 2020,
+   "c": 0,
+   "len": 1696,
+   "t": "Global patterns of vertical distribution of soil microbial biomass carbon"
+  },
+  {
+   "oid": "W2134501245",
+   "y": 2015,
+   "c": 396,
+   "len": 2419,
+   "t": "Global spatiotemporal distribution of soil respiration modeled using a global database"
+  },
+  {
+   "oid": "W2087705665",
+   "y": 2015,
+   "c": 57,
+   "len": 2097,
+   "t": "Global distribution of soil organic carbon – Part 2: Certainty of changes related to land use and climate"
+  },
+  {
+   "oid": "W3212002812",
+   "y": 2019,
+   "c": 1,
+   "len": 2937,
+   "t": "Ukrainian Agronomic Soil Science: Textbook. In 2 parts; editor M.I. Polupan. Part 2: Soil classification. Soil-ecological zoning. Zonality as a factor of soils’ geography by ecological-genetic status, their morphological and quantitative diagnostics, agro-soil potential of crops. Specialization of agriculture according to soil and ecological conditions. Monitoring of land resources. Doctrine of rational land use in Ukraine"
+  },
+  {
+   "oid": "W7086926016",
+   "y": 2025,
+   "c": 1,
+   "len": 1441,
+   "t": "CONDITIONS OF THE VERTICAL SOIL ZONALITY IN PHYTOCENOSES IN THE SOUTH-EASTERN KAZAKHSTAN"
+  },
+  {
+   "oid": "W3104105813",
+   "y": 2005,
+   "c": 0,
+   "len": 2336,
+   "t": "Air, Water, and Soil Pollution"
+  },
+  {
+   "oid": "W4409317094",
+   "y": 2025,
+   "c": 17,
+   "len": 2523,
+   "t": "Mapping the primary factors driving spatiotemporal variations of surface soil moisture in the Yellow River Basin of China"
+  },
+  {
+   "oid": "W2118399618",
+   "y": 2005,
+   "c": 0,
+   "len": 2386,
+   "t": "Weathering and (Holocene) Soil Formation"
+  },
+  {
+   "oid": "W3101335005",
+   "y": 2007,
+   "c": 2,
+   "len": 2391,
+   "t": "Agriculture and Soil Erosion"
+  },
+  {
+   "oid": "W3125697840",
+   "y": 2020,
+   "c": 38,
+   "len": 975,
+   "t": "Relating the South African soil taxonomy to the World Reference Base for soil resources"
+  },
+  {
+   "oid": "W2157764394",
+   "y": 1999,
+   "c": 92,
+   "len": 2109,
+   "t": "Evaluation of World Reference Base for Soil Resources and FAO Soil Map of the World using nationwide grid soil data from Denmark"
+  },
+  {
+   "oid": "W2530123598",
+   "y": 2016,
+   "c": 41,
+   "len": 822,
+   "t": "Correlation between the Polish Soil Classification (2011) and international soil classification system World Reference Base for Soil Resources (2015)"
+  },
+  {
+   "oid": "W4319786210",
+   "y": 2023,
+   "c": 158,
+   "len": 1608,
+   "t": "World Reference Base for Soil Resources—Its fourth edition and its history"
+  },
+  {
+   "oid": "W2092332064",
+   "y": 2014,
+   "c": 2,
+   "len": 1246,
+   "t": "Potential for using the World Reference Base for Soil Resources to identify less favoured areas"
+  }
+ ],
+ "水循环": [
+  {
+   "oid": "W3012551290",
+   "y": 2020,
+   "c": 210,
+   "len": 1375,
+   "t": "Revisiting the global hydrological cycle: is it intensifying?"
+  },
+  {
+   "oid": "W4220927568",
+   "y": 2022,
+   "c": 1,
+   "len": 1596,
+   "t": "The role of topography in the global hydrological cycle"
+  },
+  {
+   "oid": "W3163456568",
+   "y": 2021,
+   "c": 0,
+   "len": 1008,
+   "t": "Global-scale surface salinity change since the 1870s.Implications for the global hydrological cycle"
+  },
+  {
+   "oid": "W1587430397",
+   "y": 2005,
+   "c": 14,
+   "len": 1148,
+   "t": "Observations of the Global Water Cycle – Global Monitoring Networks"
+  },
+  {
+   "oid": "W7203709298",
+   "y": 2026,
+   "c": 0,
+   "len": 1015,
+   "t": "From Rain to Rivers: A Systems Approach to the Global Hydrological Cycle in GEF Programming"
+  },
+  {
+   "oid": "W4392580641",
+   "y": 2025,
+   "c": 1,
+   "len": 2201,
+   "t": "Global hydro-climatological indicators and changes in the global hydrological cycle and rainfall patterns"
+  },
+  {
+   "oid": "W2605679180",
+   "y": 2017,
+   "c": 47,
+   "len": 1102,
+   "t": "Urban Water Cycle Simulation/Management Models: A Review"
+  },
+  {
+   "oid": "W7125514002",
+   "y": 2026,
+   "c": 0,
+   "len": 1910,
+   "t": "Quantifying Water Vapor Age: A Dynamical Constraint on the Response of the Global Water Cycle to Climate Change"
+  },
+  {
+   "oid": "W2945997207",
+   "y": 2020,
+   "c": 32,
+   "len": 2201,
+   "t": "Inter-annual variability of the global terrestrial water cycle"
+  },
+  {
+   "oid": "W4406762469",
+   "y": 2025,
+   "c": 1,
+   "len": 1300,
+   "t": "Perspective Chapter: Shortening the Natural Altered Water Cycle by Global Warming"
+  },
+  {
+   "oid": "W4402803900",
+   "y": 2024,
+   "c": 0,
+   "len": 1061,
+   "t": "Global water cycle ‘events’ and global mass redistribution at interannual to decadal time-scales"
+  }
+ ]
+}

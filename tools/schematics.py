@@ -107,8 +107,36 @@ def ice(title):
       + L(120,205,"冰盖/冰川",c="lbl-s")+L(360,330,"冰下基岩",c="lbl-s")+L(300,278,"冰流/融水",c="lbl-s")
       + L(40,430,"冰盖剖面 · 示意图，非精确测绘",c="dim"))
 
+
+def biome(title):
+    bands=[("极地苔原/冰原","#dfe8ea"),("亚寒带针叶林","#9fb8a8"),("温带落叶林","#a9d0a0"),
+           ("温带草原","#cfe0c0"),("亚热带常绿林","#7fbf6a"),("热带雨林","#4f9a4a"),("干旱荒漠","#e0c078")]
+    s=["<rect x='60' y='180' width='780' height='230' fill='none' stroke='var(--line)'/>"]
+    y=180
+    for i,(nm,col) in enumerate(bands):
+        h=230/len(bands)
+        s.append(f"<rect x='60' y='{y:.0f}' width='780' height='{h:.0f}' fill='{col}' stroke='#ffffff' stroke-width='1'/>")
+        s.append(L(72,int(y+h/2)+4,nm,c="lbl-s"))
+        y+=h
+    s.append(L(60,170,"%s · 纬度—气候—植被地带性（示意，由赤道向两极）"%title,c="lbl-s"))
+    return "".join(s)
+
+def cycle(title):
+    s=["<rect x='60' y='150' width='780' height='280' rx='10' fill='#eef4f6' stroke='var(--line)'/>"]
+    box=[(120,200,"海洋"),(360,200,"大气"),(600,200,"陆地"),(360,340,"地下水/土壤")]
+    for x,y,nm in box:
+        s.append(f"<rect x='{x-50}' y='{y-26}' width='100' height='52' rx='8' fill='#ffffff' stroke='#6f9db8'/>"+L(x-24,y+5,nm,c="lbl-s"))
+    def arrow(x1,y1,x2,y2):
+        return f"<path d='M{x1} {y1} L{x2} {y2}' stroke='#2f6f8f' stroke-width='2' marker-end=''/>"+f"<polygon points='{x2},{y2} {x2-8},{y2-4} {x2-8},{y2+4}' fill='#2f6f8f'/>"
+    s.append(arrow(170,200,310,200)+L(210,190,"蒸发",c="lbl-s"))
+    s.append(arrow(410,200,550,200)+L(455,190,"降水",c="lbl-s"))
+    s.append(arrow(600,226,410,340)+L(470,300,"径流/下渗",c="lbl-s"))
+    s.append(arrow(330,340,150,226)+L(210,300,"地下汇流",c="lbl-s"))
+    s.append(L(60,140,"%s · 海陆间水循环（蒸发—水汽输送—降水—径流/下渗，示意）"%title,c="lbl-s"))
+    return "".join(s)
+
 KINDS = {"basin":basin,"plain":plain,"delta":delta,"range":range_,"hills":hills,"plateau":plateau,
-         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice}
+         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle}
 
 def pick(title):
     t = title
@@ -118,7 +146,9 @@ def pick(title):
     if any(k in t for k in ("盆地","平原")) and "平原" in t: return "plain"
     if any(k in t for k in ("盆地",)): return "basin"
     if any(k in t for k in ("平原",)): return "plain"
-    if any(k in t for k in ("沙漠","戈壁","荒漠")): return "desert"
+    if any(k in t for k in ("沙漠","戈壁","荒漠","风成","风蚀","沙丘")): return "desert"
+    if any(k in t for k in ("生物群系","植被带","生物群落")): return "biome"
+    if any(k in t for k in ("水循环",)): return "cycle"
     if any(k in t for k in ("高原",)): return "plateau"
     if any(k in t for k in ("丘陵",)): return "hills"
     if any(k in t for k in ("山脉","山","岭")): return "range"
