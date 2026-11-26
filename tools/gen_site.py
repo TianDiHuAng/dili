@@ -177,6 +177,24 @@ def x_id_ok(x, e):
     return True
 
 
+
+THEME_COLOR = {"地形":"#2b7a78","气候":"#3f6fae","农业":"#5a8f3c","贸易":"#b5651d","政权更替":"#8a4a7a","区域":"#8a6d3b"}
+_ICONS = {
+ "clock":"<circle cx='9' cy='9' r='7'/><path d='M9 5v4l3 2'/>",
+ "pin":"<path d='M9 2c3 0 5 2 5 5 0 3-5 9-5 9S4 10 4 7c0-3 2-5 5-5z'/><circle cx='9' cy='7' r='1.6'/>",
+ "layers":"<path d='M9 2l7 4-7 4-7-4z'/><path d='M2 11l7 4 7-4'/>",
+ "check":"<path d='M3 9l4 4 8-8'/>",
+ "book":"<path d='M3 3h6a2 2 0 012 2v10a2 2 0 00-2-2H3z'/><path d='M15 3H9a2 2 0 00-2 2v10a2 2 0 012-2h6z'/>",
+ "image":"<rect x='2' y='3' width='14' height='12' rx='2'/><circle cx='6' cy='7' r='1.5'/><path d='M3 13l4-4 3 3 2-2 3 3'/>",
+ "sun":"<circle cx='9' cy='9' r='4'/><path d='M9 1v2M9 15v2M1 9h2M15 9h2M3 3l1.5 1.5M13.5 13.5L15 15M15 3l-1.5 1.5M4.5 13.5L3 15'/>",
+ "people":"<circle cx='6' cy='7' r='2.5'/><circle cx='12' cy='7' r='2.5'/><path d='M2 15c0-2 2-3 4-3s4 1 4 3M8 15c0-2 2-3 4-3s4 1 4 3'/>",
+ "link":"<path d='M7 11a3 3 0 004 0l2-2a3 3 0 00-4-4l-1 1'/><path d='M11 7a3 3 0 00-4 0l-2 2a3 3 0 004 4l1-1'/>",
+ "info":"<circle cx='9' cy='9' r='7'/><path d='M9 8v5'/><circle cx='9' cy='5.5' r='.9' fill='currentColor' stroke='none'/>",
+}
+def icon(name, cls="ico"):
+    return f"<svg class='{cls}' viewBox='0 0 18 18' width='18' height='18' fill='none' stroke='currentColor' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round' aria-hidden='true'>{_ICONS.get(name,'')}</svg>"
+
+
 def bar_chart(title, pairs, unit=""):
     n=len(pairs); row=26; w=760; h=40+row*n
     mx=max([v for _,v in pairs] or [1]) or 1
@@ -250,6 +268,21 @@ ul.src{list-style:none;padding-left:0}ul.src li{margin:6px 0;font-size:.92rem}
 a:focus-visible,button:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
 .fig{overflow:auto}.fig:target svg{width:190%;max-width:none}
 details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]>summary{margin-bottom:8px}summary::marker{color:var(--accent2)}
+.hero{border:1px solid var(--line);border-left:6px solid var(--hc,var(--accent));border-radius:12px;padding:20px 22px;margin:0 0 18px;background:linear-gradient(180deg,color-mix(in srgb,var(--hc) 9%,var(--card)),var(--card))}
+.hero h1{margin:.1em 0 .35em;border:none}
+.hero .lead{font-size:1.06rem;color:var(--ink);margin:.2em 0 12px}
+.chips{margin:6px 0 14px}
+.statrow{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.stat{display:flex;gap:8px;align-items:flex-start;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+.stat .ico{color:var(--hc,var(--accent));flex:none;margin-top:2px}
+.stat b{display:block;font-size:.78rem;color:var(--dim);font-weight:700}
+.stat span{font-size:.9rem}
+.toc{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+.toc a{font-size:.85rem;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:3px 10px}
+.section h2{display:flex;align-items:center;gap:8px}
+.section h2 .ico{color:var(--accent)}
+.quote{border-left:4px solid var(--accent2);background:color-mix(in srgb,var(--accent2) 7%,var(--card))}
+
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 @media print{body{background:#fff;color:#000}.top,.foot,.nav,.crumb{display:none}main{max-width:none}svg{border:none;page-break-inside:avoid}a{color:#000;text-decoration:underline}.section{border:1px solid #999;page-break-inside:avoid}}
 '''.lstrip()
@@ -315,39 +348,59 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
 
     # 条目页
     for eid, e in entries.items():
-        parts = [f'''<div class="crumb"><a href="../index.html">首页</a> / <a href="../units/{esc(e['unit_id'])}.html">{esc(UNIT_NAMES[e['unit_id']])}</a> / {esc(e['title'])}</div>
-<h1>{esc(e['title'])}</h1><p><span class="tag">{esc(e['tier'])}</span><span class="tag">{esc(e['level'])}</span><span class="tag">{esc(e['region'])}</span><span class="tag">{esc(e['theme'])}</span>{srcgrade(e, covflags.get(e['id'], {}))}{evlabel(e['title'])}</p>
-<div class="section"><h2>定义</h2><p>{esc(e['definition'])}</p></div>
-<div class="section"><h2>时间或位置</h2><p>{esc(e['time_or_place'])}</p></div>
-<div class="section"><h2>概述</h2><p>{esc(e['overview'])}</p></div>''']
+        hc = THEME_COLOR.get(e["theme"], "#2b7a78")
+        toc = []
+        head = f'''<div class="hero" style="--hc:{hc}">
+<div class="crumb"><a href="../index.html">首页</a> / <a href="../units/{esc(e['unit_id'])}.html">{esc(UNIT_NAMES[e['unit_id']])}</a> / {esc(e['title'])}</div>
+<h1>{esc(e['title'])}</h1>
+<p class="lead">{esc(e['definition'])}</p>
+<div class="chips"><span class="tag">{esc(e['tier'])}</span><span class="tag">{esc(e['level'])}</span><span class="tag">{esc(e['region'])}</span><span class="tag">{esc(e['theme'])}</span>{srcgrade(e, covflags.get(e['id'], {}))}{evlabel(e['title'])}</div>
+<div class="statrow">
+<div class="stat">{icon('clock')}<div><b>时间或位置</b><span>{esc(e['time_or_place'])}</span></div></div>
+<div class="stat">{icon('pin')}<div><b>位置</b><span>{esc(UNIT_NAMES[e['unit_id']])} · {esc(e['region'])}</span></div></div>
+<div class="stat">{icon('layers')}<div><b>主题</b><span>{esc(e['theme'])}</span></div></div>
+<div class="stat">{icon('check')}<div><b>证据等级</b><span>{esc(e['level'])}</span></div></div>
+</div></div>'''
+        body = []
+        if e.get("svg") and e.get("level") in ("L2", "L3"):
+            cap = "简笔示意，不代表精确位置与边界。" if "非精确测绘" in e["svg"] else "示意图，非精确测绘。"
+            body.append(f'<div class="section figure" id="sec-fig"><h2>{icon("image")}示意地图</h2><div class="fig" id="fig-{esc(eid)}">{sanitize_svg(e["svg"])}</div><p class="dim"><a href="#fig-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · {cap}</p></div>')
+            toc.append(("sec-fig", "示意图"))
+        body.append(f'<div class="section" id="sec-overview"><h2>{icon("book")}概述</h2><p>{esc(e["overview"])}</p></div>')
+        toc.append(("sec-overview", "概述"))
         if e.get("level") in ("L2", "L3"):
-            labels = [("geo","地理概况"),("influence","地理条件对定居/农业/贸易/政治的影响"),("polities","主要文明或政权更替"),("connections","与相邻区域的联系"),("today","今天的状况")]
-            for k, label in labels:
+            labels = [("geo", "地理概况", "layers"), ("influence", "地理条件的影响", "sun"), ("polities", "主要文明或政权更替", "people"), ("connections", "与相邻区域的联系", "link"), ("today", "今天的状况", "info")]
+            for k, label, ic in labels:
                 if e.get(k):
                     if k == "polities" and str(e[k]).startswith("本条只写"):
                         label = "政权与年代（本条不展开）"
-                    parts.append(f'<div class="section"><h2>{label}</h2><p>{esc(e[k])}</p></div>')
-            if e.get("svg"):
-                cap = "简笔示意，不代表精确位置与边界。" if "非精确测绘" in e["svg"] else "示意图，非精确测绘。"
-                parts.append(f'<div class="section"><h2>示意地图</h2><div class="fig" id="fig-{esc(eid)}">{sanitize_svg(e["svg"])}</div><p class="dim"><a href="#fig-{esc(eid)}">放大 ⤢</a> · <a href="#">还原</a> · {cap}</p></div>')
+                    cls = "section quote" if k == "influence" else "section"
+                    body.append(f'<div class="{cls}" id="sec-{k}"><h2>{icon(ic)}{label}</h2><p>{esc(e[k])}</p></div>')
+                    toc.append(("sec-" + k, label))
         if e.get("level") == "L1" and e.get("today"):
-            parts.append(f'<div class="section"><h2>今天的状况</h2><p>{esc(e["today"])}</p></div>')
+            body.append(f'<div class="section" id="sec-today"><h2>{icon("info")}今天的状况</h2><p>{esc(e["today"])}</p></div>')
+            toc.append(("sec-today", "今天的状况"))
+        tail = []
         if e.get("needs_verification"):
-            parts.append(f'<details class="section warn"><summary>待核实与降级说明（点开）</summary><p>{esc(e["pending_notes"])}</p></details>')
-        parts.append(f'<details class="section"><summary>来源（{len(e["sources"])} 条，点开）</summary><ul class="src">' + "".join(f"<li>{source_link(s, sources)}</li>" for s in e["sources"]) + "</ul></details>")
+            tail.append(f'<details class="section warn"><summary>待核实与降级说明（点开）</summary><p>{esc(e["pending_notes"])}</p></details>')
+        tail.append(f'<details class="section"><summary>来源（{len(e["sources"])} 条，点开）</summary><ul class="src">' + "".join(f"<li>{source_link(s, sources)}</li>" for s in e["sources"]) + "</ul></details>")
         if e.get("related"):
-            parts.append('<h2>相关条目</h2><p>' + "".join(f'<a class="tag" href="{esc(r)}.html">{esc(entries[r]["title"])}</a>' for r in e["related"] if r in entries) + "</p>")
-        # 同主题相关 + 上/下一篇
+            tail.append('<div class="section"><h2>' + icon("link") + '相关条目</h2><p>' + "".join(f'<a class="tag" href="{esc(r)}.html">{esc(entries[r]["title"])}</a>' for r in e["related"] if r in entries) + "</p></div>")
         sib = [x for x in sorted(units[e["unit_id"]]["entries"], key=lambda z: z["title"]) if x_id_ok(x, e)]
         same = [x for x in sib if x["theme"] == e["theme"] and x["id"] != eid][:6]
         if same:
-            parts.append('<h2>同主题条目</h2><p>' + "".join(f'<a class="tag" href="{esc(x["id"])}.html">{esc(x["title"])}</a>' for x in same) + "</p>")
+            tail.append('<div class="section"><h2>' + icon("layers") + '同主题条目</h2><p>' + "".join(f'<a class="tag" href="{esc(x["id"])}.html">{esc(x["title"])}</a>' for x in same) + "</p></div>")
         idx = [x["id"] for x in sib].index(eid) if eid in [x["id"] for x in sib] else -1
         if idx >= 0:
             nav = []
-            if idx > 0: nav.append(f'<a class="tag" href="{esc(sib[idx-1]["id"])}.html">← {esc(sib[idx-1]["title"])}</a>')
-            if idx < len(sib)-1: nav.append(f'<a class="tag" href="{esc(sib[idx+1]["id"])}.html">{esc(sib[idx+1]["title"])} →</a>')
-            if nav: parts.append('<h2>上一篇 / 下一篇</h2><p>' + " ".join(nav) + "</p>")
+            if idx > 0:
+                nav.append(f'<a class="tag" href="{esc(sib[idx-1]["id"])}.html">← {esc(sib[idx-1]["title"])}</a>')
+            if idx < len(sib) - 1:
+                nav.append(f'<a class="tag" href="{esc(sib[idx+1]["id"])}.html">{esc(sib[idx+1]["title"])} →</a>')
+            if nav:
+                tail.append('<div class="section"><h2>' + icon("link") + '上一篇 / 下一篇</h2><p>' + " ".join(nav) + "</p></div>")
+        toc_html = ('<nav class="toc">' + "".join(f'<a href="#{a}">{esc(t)}</a>' for a, t in toc) + '</nav>') if len(toc) > 1 else ''
+        parts = [head, toc_html] + body + tail
         with open(os.path.join(SITE, "entries", eid + ".html"), "w", encoding="utf-8") as f:
             f.write(page(e["title"], "\n".join(parts), 1))
 
