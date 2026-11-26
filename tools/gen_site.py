@@ -23,7 +23,7 @@ def esc(s):
 
 def nav(depth=0):
     p = "../" * depth
-    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}index-all.html">全站索引</a><a href="{p}search.html">检索</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}legend.html">读图说明</a><a href="{p}about.html">关于</a></nav>'''
+    return f'''<nav class="nav"><a href="{p}index.html">首页</a><a href="{p}index-all.html">全站索引</a><a href="{p}search.html">检索</a><a href="{p}stats.html">统计</a><a href="{p}discover.html">发现</a><a href="{p}timeline.html">时间线</a><a href="{p}sources.html">来源库</a><a href="{p}coverage.html">覆盖矩阵</a><a href="{p}evidence.html">证据层级</a><a href="{p}limits.html">已知限制</a><a href="{p}legend.html">读图说明</a><a href="{p}about.html">关于</a></nav>'''
 
 
 def page(title, body, depth=0, extra_head=""):
@@ -175,6 +175,23 @@ def unit_map_svg(uid, entries_list):
 
 def x_id_ok(x, e):
     return True
+
+
+def bar_chart(title, pairs, unit=""):
+    n=len(pairs); row=26; w=760; h=40+row*n
+    mx=max([v for _,v in pairs] or [1]) or 1
+    parts=[f"<svg viewBox='0 0 {w} {h}' role='img' aria-label='{esc(title)}'>",
+           f"<rect x='10' y='10' width='{w-20}' height='{h-20}' rx='8' fill='none' stroke='var(--line)'/>",
+           f"<text x='20' y='30' class='lbl'>{esc(title)}</text>"]
+    y=44
+    for name,val in pairs:
+        bw=int((w-240)*val/mx)
+        parts.append(f"<text x='20' y='{y+13}' class='lbl-s'>{esc(str(name))}</text>")
+        parts.append(f"<rect x='150' y='{y}' width='{bw}' height='16' fill='#2b7a78' opacity='.85'/>")
+        parts.append(f"<text x='{156+bw}' y='{y+13}' class='lbl-s'>{val}{esc(unit)}</text>")
+        y+=row
+    parts.append("</svg>")
+    return "".join(parts)
 
 def main():
     os.makedirs(os.path.join(SITE, "css"), exist_ok=True)
@@ -460,13 +477,57 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
     with open(os.path.join(SITE, "limits.html"), "w", encoding="utf-8") as f:
         f.write(page("已知限制", lim_body))
 
-    # 检索页（按标题排序 + 浏览器查找提示）
-    rows = "".join(f'<tr><td><a href="entries/{esc(x["id"])}.html">{esc(x["title"])}</a></td><td>{esc(UNIT_NAMES[x["unit_id"]])}</td><td>{esc(x["theme"])}</td><td>{esc(x["tier"])}</td><td>{esc(x["level"])}</td></tr>' for x in sorted(entries.values(), key=lambda z: z["title"]))
+    # 检索页（按首字分组 + 跳转）
+    def _initial(t):
+        if not t: return "#"
+        c = t[0]
+        return c.upper() if (c.isascii() and c.isalpha()) else c
+    groups = {}
+    for x in sorted(entries.values(), key=lambda z: z["title"]):
+        groups.setdefault(_initial(x["title"]), []).append(x)
+    gkeys = sorted(groups.keys())
+    jump = "".join(f'<a class="tag" href="#g-{i}">{esc(k)}</a>' for i, k in enumerate(gkeys))
+    secs = ""
+    for i, k in enumerate(gkeys):
+        rows = "".join(f'<tr><td><a href="entries/{esc(x["id"])}.html">{esc(x["title"])}</a></td><td>{esc(UNIT_NAMES[x["unit_id"]])}</td><td>{esc(x["theme"])}</td><td>{esc(x["tier"])}</td></tr>' for x in groups[k])
+        secs += f'<h2 id="g-{i}">{esc(k)}（{len(groups[k])}）</h2><table><thead><tr><th>标题</th><th>大洲/单元</th><th>主题</th><th>重要度</th></tr></thead><tbody>{rows}</tbody></table>'
     srch = f'''<div class="crumb"><a href="index.html">首页</a> / 检索</div><h1>检索全部条目</h1>
-<p class="lead">共 {total} 条，按标题排序。用浏览器 <b>Ctrl/⌘ + F</b> 在本页内查找关键词即可快速定位。</p>
-<table><thead><tr><th>标题</th><th>大洲/主题单元</th><th>主题</th><th>重要度</th><th>层级</th></tr></thead><tbody>{rows}</tbody></table>'''
+<p class="lead">共 {total} 条，按标题首字分组。点下方跳到对应组，或用浏览器 <b>Ctrl/⌘ + F</b> 页内查找。</p>
+<p>{jump}</p>{secs}'''
     with open(os.path.join(SITE, "search.html"), "w", encoding="utf-8") as f:
         f.write(page("检索", srch))
+
+    # 统计页（内联 SVG 条形图）
+    import collections as _C
+    theme_cnt=_C.Counter(x["theme"] for x in entries.values())
+    tier_cnt=_C.Counter(x["tier"] for x in entries.values())
+    level_cnt=_C.Counter(x["level"] for x in entries.values())
+    unit_cnt={uid:len(units[uid]["entries"]) for uid in UNIT_IDS}
+    ev_cnt=_C.Counter((covflags.get(x["id"],{}) or {}).get("evidence","?") for x in entries.values())
+    s1=bar_chart("按主题", [(t,theme_cnt.get(t,0)) for t in THEMES])
+    s2=bar_chart("按重要度", [(t,tier_cnt.get(t,0)) for t in ("核心","重要","补充")])
+    s3=bar_chart("按层级", [(t,level_cnt.get(t,0)) for t in ("L1","L2","L3")])
+    s4=bar_chart("按大洲/单元", [(UNIT_NAMES[u],unit_cnt[u]) for u in UNIT_IDS])
+    st_body=f'''<div class="crumb"><a href="index.html">首页</a> / 统计</div><h1>站点统计</h1>
+<p class="lead">共 {total} 条。以下为纯内联 SVG 条形图。</p>
+<div class="section"><h2>主题分布</h2>{s1}</div>
+<div class="section"><h2>重要度分布</h2>{s2}</div>
+<div class="section"><h2>层级分布</h2>{s3}</div>
+<div class="section"><h2>各大洲条目数</h2>{s4}</div>'''
+    with open(os.path.join(SITE, "stats.html"), "w", encoding="utf-8") as f:
+        f.write(page("统计", st_body))
+
+    # 发现页（按构建日期确定性随机）
+    import random as _R
+    seed=datetime.date.today().toordinal()
+    pool=list(entries.values())
+    pick=_R.Random(seed).sample(pool, min(12,len(pool)))
+    dcards="".join(f'<a class="card tier-{esc(x["tier"])}" href="entries/{esc(x["id"])}.html"><span class="tier">{esc(x["tier"])}</span><h3>{esc(x["title"])}</h3><p>{esc(x["time_or_place"])} · {esc(x["theme"])}</p><p class="dim">{esc(UNIT_NAMES[x["unit_id"]])}</p></a>' for x in pick)
+    d_body=f'''<div class="crumb"><a href="index.html">首页</a> / 发现</div><h1>发现 · 随机十二则</h1>
+<p class="lead">每次重新生成站点会换一批（按构建日期确定）。也可去 <a href="search.html">检索</a> 或 <a href="tier-core.html">核心条目</a>。</p>
+<div class="grid">{dcards}</div>'''
+    with open(os.path.join(SITE, "discover.html"), "w", encoding="utf-8") as f:
+        f.write(page("发现", d_body))
 
     # 读图说明页
     legend_rows = "".join(f'<tr><td>{esc(k)}</td><td>{esc(v)}</td></tr>' for k,v in [
@@ -506,7 +567,7 @@ details>summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open]
         f.write("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='#2b7a78'/><path d='M8 44 L24 24 L34 36 L44 22 L56 44 Z' fill='#fffaf0'/><circle cx='46' cy='16' r='5' fill='#b5651d'/></svg>")
 
     # sitemap.xml + robots.txt
-    urls = ["index.html","index-all.html","timeline.html","sources.html","coverage.html","coverage_detail.html","evidence.html","limits.html","legend.html","search.html","about.html","tier-core.html","tier-important.html","tier-supplementary.html"]
+    urls = ["index.html","index-all.html","timeline.html","sources.html","coverage.html","coverage_detail.html","evidence.html","limits.html","legend.html","search.html","stats.html","discover.html","about.html","tier-core.html","tier-important.html","tier-supplementary.html"]
     urls += ["units/%s.html" % uid for uid in UNIT_IDS]
     urls += ["entries/%s.html" % eid for eid in entries.keys()]
     today = datetime.date.today().isoformat()

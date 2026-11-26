@@ -346,3 +346,9 @@
 - 气候类下图改为 Köppen分区 + 世界银行?否 → OWID“全球近地表气温距平”真实折线（1850–2026）；全球气温变化/距平条目改用OWID真实序列。
 - 新增 search.html 检索页（按标题排序全表 + Ctrl/Cmd+F 提示），导航加入“检索”，sitemap 收录。
 - check 0、links 0；站点 18MB。
+
+## 第165轮（统计图/发现/分组检索）
+- 新增 stats.html：主题/重要度/层级/大洲 四张内联 SVG 条形图。
+- 新增 discover.html：按构建日期确定性随机十二则。
+- search.html 改为按标题首字分组 + 跳转条。导航与 sitemap 收录三页。
+- check 0、links 0；站点 18MB。
