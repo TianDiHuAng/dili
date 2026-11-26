@@ -3180,10 +3180,70 @@
         "unknown": 0
       },
       "tier": "核心"
+    },
+    "湿地": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "湖泊": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "地下水": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "丹霞地貌": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
+    },
+    "珊瑚礁": {
+      "level": "A",
+      "counts": {
+        "strong": 2,
+        "weak": 0,
+        "side": 0,
+        "data": 0,
+        "alias": 0,
+        "unknown": 0
+      },
+      "tier": "重要"
     }
   },
   "summary": {
-    "A": 237,
+    "A": 242,
     "B": 0,
     "C": 0,
     "D": 28

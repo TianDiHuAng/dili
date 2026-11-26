@@ -135,12 +135,54 @@ def cycle(title):
     s.append(L(60,140,"%s · 海陆间水循环（蒸发—水汽输送—降水—径流/下渗，示意）"%title,c="lbl-s"))
     return "".join(s)
 
+
+def lake(title):
+    return ("<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>"
+      + P("40,360 40,240 260,240 340,320 560,320 640,240 860,240 860,360","#cbb98a","#a08a5f")
+      + "<path d='M340 300 C420 292 500 308 560 300 L560 320 L340 320 Z' fill='#a9cbe0' stroke='#6f9db8'/>"
+      + "<path d='M120 250 C200 246 300 252 340 260' fill='none' stroke='#5b93b8' stroke-width='4'/>"
+      + "<path d='M560 262 C640 258 740 252 820 248' fill='none' stroke='#5b93b8' stroke-width='4'/>"
+      + L(90,232,"入湖河",c="lbl-s")+L(700,232,"出湖河",c="lbl-s")+L(400,290,"湖面/水体",c="lbl-s")
+      + R(340,320,220,10,"#8f8a80","#5f5a52")+L(360,344,"湖底沉积",c="lbl-s")
+      + L(40,430,"湖泊剖面 · 示意图，非精确测绘",c="dim"))
+
+def aquifer(title):
+    return ("<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>"
+      + R(40,220,820,44,"#cbb98a","#a08a5f")+L(60,248,"地表/包气带",c="lbl-s")
+      + R(40,264,820,60,"#a9cbe0","#6f9db8")+L(60,300,"含水层（饱和带）",c="lbl-s")
+      + "<path d='M40 264 H860' stroke='#2f6f8f' stroke-width='2' stroke-dasharray='7 5'/>"+L(700,258,"潜水面",c="lbl-s")
+      + R(40,324,820,30,"#8f8a80","#5f5a52")+L(60,344,"隔水层",c="lbl-s")
+      + R(600,180,18,144,"#ffffff","#5f5a52")+L(560,176,"井",c="lbl-s")
+      + "<path d='M609 264 L609 210' stroke='#5b93b8' stroke-width='3'/>"
+      + L(40,430,"地下水/含水层剖面 · 示意图，非精确测绘",c="dim"))
+
+def danxia(title):
+    return ("<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>"
+      + P("40,360 40,220 200,220 200,180 360,180 360,240 520,240 520,200 700,200 700,260 860,260 860,360","#c06a48","#8a3f26")
+      + "<g stroke='#8a3f26' stroke-width='1.2' opacity='.8'><path d='M200 180 V360'/><path d='M360 180 V360'/><path d='M520 200 V360'/><path d='M700 260 V360'/></g>"
+      + L(200,168,"陡崖/方山（红色砂砾岩）",c="lbl-s")+L(60,410,"红层+垂直节理→陡崖、峰林",c="lbl-s")
+      + L(40,430,"丹霞地貌剖面 · 示意图，非精确测绘",c="dim"))
+
+def coral(title):
+    return ("<rect x='21' y='21' width='858' height='70' fill='#eef3f6' opacity='.4'/>"
+      + R(40,300,820,90,"#a9cbe0","#6f9db8")+L(60,320,"海面",c="lbl-s")
+      + P("160,340 260,250 380,340","#e2b98f","#a06a3a")+L(200,240,"礁脊",c="lbl-s")
+      + "<path d='M120 340 C220 300 320 300 420 340' fill='none' stroke='#5b93b8' stroke-width='2'/>"
+      + P("420,340 520,300 640,340","#cfa77a","#8a5a30")+L(470,292,"礁前斜坡",c="lbl-s")
+      + "<g fill='#d98f6a'><circle cx='200' cy='320' r='4'/><circle cx='230' cy='330' r='4'/><circle cx='300' cy='322' r='4'/><circle cx='480' cy='330' r='4'/></g>"
+      + L(80,410,"潟湖",c="lbl-s")+L(700,320,"外海",c="lbl-s")
+      + L(40,430,"珊瑚礁剖面 · 示意图，非精确测绘",c="dim"))
+
 KINDS = {"basin":basin,"plain":plain,"delta":delta,"range":range_,"hills":hills,"plateau":plateau,
-         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle}
+         "desert":desert,"rift":rift,"coast":coast,"river":river,"island":island,"ice":ice,"biome":biome,"cycle":cycle,"lake":lake,"aquifer":aquifer,"danxia":danxia,"coral":coral}
 
 def pick(title):
     t = title
     if any(k in t for k in ("冰盖","冰川","冰架","南极大陆","罗斯海","冰芯")): return "ice"
+    if "地下水" in t: return "aquifer"
+    if "丹霞" in t: return "danxia"
+    if "珊瑚" in t: return "coral"
+    if "湖" in t: return "lake"
     if any(k in t for k in ("裂谷",)): return "rift"
     if any(k in t for k in ("三角洲",)): return "delta"
     if any(k in t for k in ("盆地","平原")) and "平原" in t: return "plain"
